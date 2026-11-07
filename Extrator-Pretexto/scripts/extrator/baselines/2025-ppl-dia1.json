@@ -1,0 +1,1836 @@
+{
+ "extraidas": 95,
+ "ignoradas": [],
+ "motor": "v1",
+ "perfil": "2025: motor v1",
+ "questoes": {
+  "enem-2025-ppl-d1-q01-esp": {
+   "alternativas": [
+    "f3264160b660",
+    "886cfda41d2c",
+    "a52fc852c3d1",
+    "04ed9ac7c1f8",
+    "78be498ce3d5"
+   ],
+   "apoio": "38286f9e6c18",
+   "credito": "5526ad247cb8",
+   "enunciado": "bca3cdef505e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto visa salientar",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q01-ing": {
+   "alternativas": [
+    "023b37e3b435",
+    "0127528d1c3f",
+    "06c0221679c0",
+    "d9f270c7af66",
+    "5d1badc64144"
+   ],
+   "apoio": "2b79e17571a1",
+   "credito": "b428f436bd94",
+   "enunciado": "2a46005ce791",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto evidencia que a expressão “Finding me",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q02-esp": {
+   "alternativas": [
+    "2e38cbb3dc78",
+    "cc4528d1548e",
+    "5d9dd023d2a0",
+    "dc6363847eae",
+    "61647d3a94ed"
+   ],
+   "apoio": "9e205e56d421",
+   "credito": "d2a9e2083daf",
+   "enunciado": "532c692ffaf6",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto, publicado no jornal EI País, constit",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q02-ing": {
+   "alternativas": [
+    "62bdf5449568",
+    "0e48245a7fdd",
+    "a86ccda9e0cf",
+    "7561cd8cf468",
+    "05c9430720aa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "3792de742fee",
+   "enunciado": "b9759562c592",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q02-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nesse cartaz, a articulação entre os recursos ve",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q02-ing-apoio-01.jpg",
+     2,
+     [
+      65.4,
+      455.3,
+      315.0,
+      747.4
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q03-esp": {
+   "alternativas": [
+    "00b300c1a87a",
+    "080000ea1971",
+    "0126acb98650",
+    "57fadc1b109e",
+    "84418a758e39"
+   ],
+   "apoio": "3e38542f913a",
+   "credito": "7f4e968c3cd9",
+   "enunciado": "28b86a9d87df",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em entrevista ao El País, a escritora Rosa Monte",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q03-ing": {
+   "alternativas": [
+    "7a447706784c",
+    "ec35ce457095",
+    "a2510d312c99",
+    "f4719981641e",
+    "91630d649dab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "4c768a92abbd",
+   "enunciado": "4544dc2130fa",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q03-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nesses quadrinhos, Calvin menciona o fenômeno da",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q03-ing-apoio-01.jpg",
+     2,
+     [
+      328.0,
+      234.4,
+      579.0,
+      562.3
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q04-esp": {
+   "alternativas": [
+    "08d15024d3ea",
+    "a6c792adbc5f",
+    "7f3da36a49f0",
+    "85122008a5a0",
+    "ba90415d170c"
+   ],
+   "apoio": "f39b7516c707",
+   "credito": "7a997926d172",
+   "enunciado": "428ef8b70665",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A diversidade cultural na gastronomia boliviana ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q04-ing": {
+   "alternativas": [
+    "2820199f4626",
+    "9954e86080cc",
+    "3cb8c2e5b869",
+    "4b9095a085b5",
+    "8a7f26e30572"
+   ],
+   "apoio": "0209c7e84277",
+   "credito": "aa6922df7d4a",
+   "enunciado": "e3751bce847b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto destaca que o romance Duna, do escrit",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q05-esp": {
+   "alternativas": [
+    "fbd62002123b",
+    "0bd985a539a7",
+    "1b0cf077488b",
+    "a71da73cc004",
+    "c2efe6fd19c0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "fe544b5e9f6e",
+   "enunciado": "708ce6be0a7d",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q05-esp-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Ao abordar o tema do trabalho doméstico, esse ca",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q05-esp-apoio-01.jpg",
+     5,
+     [
+      57.6,
+      130.1,
+      308.7,
+      439.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q05-ing": {
+   "alternativas": [
+    "19c699c3370b",
+    "3544242fd604",
+    "a30acb2ecb8f",
+    "e71fd8f11dc6",
+    "46b576130439"
+   ],
+   "apoio": "d478a09ce425",
+   "credito": "c0b10009bbc1",
+   "enunciado": "70b4c0224235",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse poema sobre a temática da identidade, o eu",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q06": {
+   "alternativas": [
+    "2060c31d1029",
+    "c4125b0daa44",
+    "ef5b5f8415c9",
+    "f32758ec0b2e",
+    "85e3c082515c"
+   ],
+   "apoio": "72ac7164541c",
+   "credito": "d526425d7e2b",
+   "enunciado": "0fb40914ba5a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A participação das mulheres brasileiras nos Jogo",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q07": {
+   "alternativas": [
+    "cefd0b2edf6e",
+    "23b8709327ee",
+    "3777dc1f7912",
+    "7fc3a4578565",
+    "602d71ececa6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "0335def51897",
+   "enunciado": "faa9307ff009",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q07-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Esse texto faz parte da adaptação da obra Os lus",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q07-apoio-01.jpg",
+     5,
+     [
+      320.9,
+      234.4,
+      571.9,
+      552.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q08": {
+   "alternativas": [
+    "eb0399f1dd76",
+    "b309430a5d91",
+    "e1aa9b556065",
+    "76883925a12f",
+    "44e8c81467e9"
+   ],
+   "apoio": "eaadba417f55",
+   "credito": "33a09695d08c",
+   "enunciado": "9d2309e3d13e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Embora os textos I e II abordem condições de vid",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q09": {
+   "alternativas": [
+    "d68b8f98b1ab",
+    "b518121ecbed",
+    "e1212c468308",
+    "3826daf68535",
+    "889d26a23121"
+   ],
+   "apoio": "a7dd8a165b1d",
+   "credito": "297e22e93cbb",
+   "enunciado": "261e2405cc38",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q09-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Tomie Ohtake é uma artista nipo-brasileira recon",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q09-apoio-01.jpg",
+     6,
+     [
+      340.4,
+      129.6,
+      566.5,
+      271.8
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q10": {
+   "alternativas": [
+    "639a1ec21830",
+    "c444f764684a",
+    "86ff51ab434a",
+    "292f98828018",
+    "4b7d313c83b0"
+   ],
+   "apoio": "d85f1dcb92c6",
+   "credito": "0b1a26ae8bc3",
+   "enunciado": "dc3bef446d24",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao tratar de indicações ao Oscar, esse texto bus",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q11": {
+   "alternativas": [
+    "3f17383c18d1",
+    "e1cfdeec7e03",
+    "6e8f90a3046b",
+    "f1d375a4ebca",
+    "2993483dbee4"
+   ],
+   "apoio": "165dc5319886",
+   "credito": "58a542aa37dd",
+   "enunciado": "d01944267cfc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto critica o controle que as novas tecno",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q12": {
+   "alternativas": [
+    "03a9e51b9c60",
+    "fb949be71644",
+    "250c2e46fdd8",
+    "b1f6caf8436a",
+    "d9d87e8e2a61"
+   ],
+   "apoio": "a5955274f143",
+   "credito": "3bc215a9f163",
+   "enunciado": "a089b35e1eae",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto é apresentado como uma carta aberta. ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q13": {
+   "alternativas": [
+    "9d61baefb516",
+    "c61ff091d2a0",
+    "96f92276de7e",
+    "af4c540b45cc",
+    "9d961dc138a1"
+   ],
+   "apoio": "e0cced3e79b8",
+   "credito": "ed75be928928",
+   "enunciado": "5c9bb9f0cc3f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O poema de Paulo Leminski filia-se à geração da ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q14": {
+   "alternativas": [
+    "ddbae4e1e9c7",
+    "46283dc5d82a",
+    "9ff965d0b2bb",
+    "c808b2af2b06",
+    "116296ed46ea"
+   ],
+   "apoio": "a5f434fbc977",
+   "credito": "ca0d08260c6c",
+   "enunciado": "4446d5f04847",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-01.jpg",
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-02.jpg",
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-03.jpg",
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-04.jpg",
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-05.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Segundo esse texto, a geração Z tem usado emojis",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-01.jpg",
+     8,
+     [
+      118.2,
+      179.6,
+      130.2,
+      191.6
+     ]
+    ],
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-02.jpg",
+     8,
+     [
+      107.4,
+      225.1,
+      119.4,
+      237.1
+     ]
+    ],
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-03.jpg",
+     8,
+     [
+      119.8,
+      237.6,
+      131.8,
+      249.6
+     ]
+    ],
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-04.jpg",
+     8,
+     [
+      162.1,
+      284.5,
+      174.1,
+      296.5
+     ]
+    ],
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q14-apoio-05.jpg",
+     8,
+     [
+      138.4,
+      331.5,
+      150.4,
+      343.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q15": {
+   "alternativas": [
+    "9c73ae87af1a",
+    "052ce3024650",
+    "50b9de5361e1",
+    "293a552ba494",
+    "baf15d957cbb"
+   ],
+   "apoio": "b817a5d04d97",
+   "credito": "4d87c1285b71",
+   "enunciado": "2c498c41bb07",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os dados apresentados no texto indicam uma contr",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q16": {
+   "alternativas": [
+    "4065aff2cabf",
+    "29e09e199231",
+    "4c39ac8bd6cd",
+    "bc5e7afff361",
+    "453041c3aa39"
+   ],
+   "apoio": "0acca8af4154",
+   "credito": "b895c2934dd6",
+   "enunciado": "5052856e3a1f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trecho desse conto de Machado de Assis manifes",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q17": {
+   "alternativas": [
+    "dd0680f4fb58",
+    "20b583d4c869",
+    "73a54d53ceb9",
+    "bcc5d9288ff6",
+    "9fac66cf68d7"
+   ],
+   "apoio": "229193c97d47",
+   "credito": "33a55b3e3ac1",
+   "enunciado": "80d4c917b14d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para destacar a importância de línguas indígenas",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q18": {
+   "alternativas": [
+    "25e47fc897bc",
+    "72eb3a3eff22",
+    "c0d829ab363f",
+    "44bfd20e795e",
+    "b7cb6fffa82b"
+   ],
+   "apoio": "a9ee9fb93983",
+   "credito": "fd3e844e5409",
+   "enunciado": "75a45eed5837",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A estratégia utilizada pelo autor para desenvolv",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q19": {
+   "alternativas": [
+    "56a5cfa617be",
+    "915ada75c08b",
+    "5584335507d3",
+    "f28c774533f1",
+    "5be86c61aa33"
+   ],
+   "apoio": "03949bf41f06",
+   "credito": "f9263467096d",
+   "enunciado": "de94c024f6f1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As reflexões do narrador-personagem, no desfecho",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q20": {
+   "alternativas": [
+    "2f7db39aaa1a",
+    "8cdc4c0df52a",
+    "775221962788",
+    "d18ff576e529",
+    "d0dea715f93d"
+   ],
+   "apoio": "8b27c78aee5e",
+   "credito": "928aabc4cf5c",
+   "enunciado": "be1b207b4b6b",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q20-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os traços orientais do rosto da estátua indicam ",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q20-apoio-01.jpg",
+     10,
+     [
+      64.6,
+      285.5,
+      315.9,
+      513.7
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q21": {
+   "alternativas": [
+    "a49f5baa2f1b",
+    "7401926562d5",
+    "dfcc00344bab",
+    "3930a2f9e483",
+    "e9455a1ffe9a"
+   ],
+   "apoio": "37cd632870e7",
+   "credito": "67a885b7c10c",
+   "enunciado": "7df9be3ea320",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto apresenta uma reflexão crítica sobre ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q22": {
+   "alternativas": [
+    "c4da352cfadb",
+    "be820ddcc182",
+    "fa9c844f6c03",
+    "02068218b8d6",
+    "36381027992e"
+   ],
+   "apoio": "5a2417a842e3",
+   "credito": "3a88f47ada1b",
+   "enunciado": "b5d70ce04b05",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa passagem, a situação de tensão entre os pe",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q23": {
+   "alternativas": [
+    "dfb97bba86d9",
+    "b1e81c90a26e",
+    "4d8ade10be35",
+    "76363af30386",
+    "a94299319dae"
+   ],
+   "apoio": "49edd2c62660",
+   "credito": "9ea816769a72",
+   "enunciado": "81b2129493f3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse cordel, além da função poética, também est",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q24": {
+   "alternativas": [
+    "e4ef7149d3e4",
+    "16dcc2b35d80",
+    "9fec9034eee8",
+    "363fbc15230a",
+    "26306ad99d60"
+   ],
+   "apoio": "a3cf94202f0f",
+   "credito": "d7519fcd75aa",
+   "enunciado": "bc4ecb1a75ec",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nas crônicas, de um modo geral, a linguagem cara",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q25": {
+   "alternativas": [
+    "bfc5f80d251b",
+    "15a3ffaa8cc0",
+    "bb9d8d52e368",
+    "aa6edea5ea64",
+    "ac7a6683570e"
+   ],
+   "apoio": "3d756067665b",
+   "credito": "aefb7114e793",
+   "enunciado": "24c6efa489b7",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse poema, a expressividade construída pelo eu",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q26": {
+   "alternativas": [
+    "5e26a0107c46",
+    "a44b7e379cee",
+    "247be48349e0",
+    "5affadc8c10c",
+    "d92eecd3900c"
+   ],
+   "apoio": "c821e03b3d82",
+   "credito": "d6b7fe76dad6",
+   "enunciado": "16a4ce0bfec7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, há uma estratégia argumentativa de ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q27": {
+   "alternativas": [
+    "65d242fe77d1",
+    "e4f745658ea6",
+    "fc250a6185da",
+    "c6a0e1b42444",
+    "f50eea09bc8f"
+   ],
+   "apoio": "d7a701a2d991",
+   "credito": "f2c69d139880",
+   "enunciado": "3e4d4090feb4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, o talian é apontado como parte do p",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q28": {
+   "alternativas": [
+    "9da4cb4b9e16",
+    "c36f19e0ec06",
+    "2519cf153bd2",
+    "fe540e6caefd",
+    "c5b573cf90f0"
+   ],
+   "apoio": "c94bb8353d89",
+   "credito": "53d17ec8b677",
+   "enunciado": "db6d98fbe836",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q28-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nesse texto, a função da linguagem presente no c",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q28-apoio-01.jpg",
+     12,
+     [
+      385.0,
+      396.1,
+      522.0,
+      548.9
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q29": {
+   "alternativas": [
+    "e30709121b4d",
+    "51653c323b8f",
+    "0ecfac9ca6a9",
+    "94d81d6237df",
+    "2d8b059d6083"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "631a2239ab21",
+   "enunciado": "dd0f6fc0180f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q29-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Ao retratar as plataformas de busca de relaciona",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q29-apoio-01.jpg",
+     13,
+     [
+      117.2,
+      133.0,
+      512.3,
+      255.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q30": {
+   "alternativas": [
+    "bc97e5e6c195",
+    "48fdb5f5757d",
+    "2c1b0f70eeeb",
+    "b9d33c22c821",
+    "0e1d20ce6c76"
+   ],
+   "apoio": "a002bb5287ca",
+   "credito": "645689148d6a",
+   "enunciado": "3ebf187c5ffe",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para reforçar o ponto de vista do autor, a progr",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q31": {
+   "alternativas": [
+    "f76eac6f3102",
+    "eab827dafc64",
+    "a11def32a874",
+    "e5bad75d7a65",
+    "43b21dc21f0c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "342dba6091f6",
+   "enunciado": "ab6d13c69f0d",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q31-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Um dos impactos sociais das tecnologias de comun",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q31-apoio-01.jpg",
+     14,
+     [
+      72.3,
+      130.9,
+      571.5,
+      281.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q32": {
+   "alternativas": [
+    "9902fe2f32e2",
+    "bba655e804ce",
+    "832f29460591",
+    "6eb9802d4c0f",
+    "a594961c7d7f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "7e36c05ccca5",
+   "enunciado": "3cc92735f94e",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q32-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Essa campanha governamental foi desenvolvida par",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q32-apoio-01.jpg",
+     14,
+     [
+      107.9,
+      420.8,
+      535.8,
+      663.5
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q33": {
+   "alternativas": [
+    "58e439f64984",
+    "048fb3de6f87",
+    "b6e6f79de34e",
+    "cbfb662ecadf",
+    "d92b03028689"
+   ],
+   "apoio": "78896e35d396",
+   "credito": "0a77cbd96026",
+   "enunciado": "09f210d49598",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto é uma resenha, pois cumpre o propósit",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q34": {
+   "alternativas": [
+    "852e058c0e87",
+    "7f8f3eea5b9f",
+    "00fe41d9a900",
+    "ac2605400297",
+    "ba1ed3f76477"
+   ],
+   "apoio": "a6c733334ef3",
+   "credito": "4a165301a338",
+   "enunciado": "ab56d236e887",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse exemplar do gênero carta de leitor, acerca ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q35": {
+   "alternativas": [
+    "b735f3635cf2",
+    "aab49ac6e892",
+    "17927fcdedc6",
+    "dedfb6b18485",
+    "8052a514d64d"
+   ],
+   "apoio": "97b33f969bd0",
+   "credito": "8e901deb5ce9",
+   "enunciado": "e644bb6e2f27",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A função desse texto, que trata de uma produção ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q36": {
+   "alternativas": [
+    "b40dbf1a0661",
+    "050e626c92d2",
+    "a977ff9d3200",
+    "56d3464e4a31",
+    "b2497844e889"
+   ],
+   "apoio": "883f7468c2a7",
+   "credito": "01b19e0ff74c",
+   "enunciado": "d86aa1116fe5",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo esse texto, o uso da impressora 3D contr",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q37": {
+   "alternativas": [
+    "86423c3fcfae",
+    "a5dc71cf283d",
+    "4619dd087f3d",
+    "878a7c990545",
+    "26f3a855a880"
+   ],
+   "apoio": "84e314cd2f83",
+   "credito": "63650775015d",
+   "enunciado": "9a5b873d0cd3",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma reflexão sobre a beleza na poesia e na vi",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q38": {
+   "alternativas": [
+    "d2e4fc9b0e5f",
+    "ba78d7966ba0",
+    "e72903ab4074",
+    "85a6bd5ccb75",
+    "fb9e1bc50de1"
+   ],
+   "apoio": "ebdb00ab11ae",
+   "credito": "0b3417d06c3e",
+   "enunciado": "721f2124cdd0",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, uma das estratégias empregadas para",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q39": {
+   "alternativas": [
+    "3ac6281a8e2f",
+    "89f7ec4151a3",
+    "653ea77eda65",
+    "79379d64c7ac",
+    "6189efb7d551"
+   ],
+   "apoio": "06e6b6a7fd85",
+   "credito": "181b124749da",
+   "enunciado": "0839ce4cdd1f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos I e II apresentam como característica ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q40": {
+   "alternativas": [
+    "938cbcc103cb",
+    "ba62b8082ab9",
+    "ef982c424bd4",
+    "907c307fdbe0",
+    "a0bb12850809"
+   ],
+   "apoio": "fb9e40527972",
+   "credito": "d8bdec01757d",
+   "enunciado": "f4a5e4430d45",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa letra de canção, as formas linguísticas ut",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q41": {
+   "alternativas": [
+    "f58c2caef8ee",
+    "aca0d9575ad0",
+    "56d86230692d",
+    "609805cbd18c",
+    "899140551349"
+   ],
+   "apoio": "78ff99648fc2",
+   "credito": "60e000d0a4f0",
+   "enunciado": "6a42ef71d4f7",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No comentário de Gilberto Gil sobre o uso de “fa",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q42": {
+   "alternativas": [
+    "658085ef9fa6",
+    "deac957be115",
+    "1310e00138c2",
+    "8dcfa8c7f9c6",
+    "0898a038a0d6"
+   ],
+   "apoio": "0169a7b5bcf7",
+   "credito": "0e49e2b090b4",
+   "enunciado": "81f45b21dbf8",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q42-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Zabé da Loca tornou-se uma referência artística ",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q42-apoio-01.jpg",
+     18,
+     [
+      151.8,
+      245.2,
+      491.9,
+      435.7
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q43": {
+   "alternativas": [
+    "fc989f17e6ea",
+    "401592fc272b",
+    "b2e762fe81fd",
+    "25a3ed6d01e5",
+    "211bf9ba0772"
+   ],
+   "apoio": "c68cc405fa63",
+   "credito": "b49830f1f585",
+   "enunciado": "4ba6ed066008",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto defende o registro formal de linguage",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q44": {
+   "alternativas": [
+    "1c425ed7790b",
+    "a095ea84ac1b",
+    "dfb3dc02936a",
+    "57409ff361be",
+    "41597d3517d3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "3506eb04942c",
+   "enunciado": "500043c52a56",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q44-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nessa charge, revela-se uma representação recorr",
+   "recortes": [
+    [
+     "/questoes/2025/ppl/dia1/enem-2025-ppl-d1-q44-apoio-01.jpg",
+     19,
+     [
+      58.3,
+      501.1,
+      308.0,
+      656.1
+     ]
+    ]
+   ]
+  },
+  "enem-2025-ppl-d1-q45": {
+   "alternativas": [
+    "f934ad979ad4",
+    "143a8ded567a",
+    "08fa71023505",
+    "ff58c74a6f95",
+    "9b949a158b5a"
+   ],
+   "apoio": "514a9b551b76",
+   "credito": "d165c01865a2",
+   "enunciado": "d659664827ed",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na descrição da personagem, observa-se uma mudan",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q46": {
+   "alternativas": [
+    "b7497b94f65d",
+    "7209dce2d298",
+    "d321894753ee",
+    "92bdfb784b32",
+    "983e58179a2c"
+   ],
+   "apoio": "3c91f0325de5",
+   "credito": "6776df4f0b29",
+   "enunciado": "408c6f72b3e2",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A cosmovisão ecológica presente nos textos simbo",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q47": {
+   "alternativas": [
+    "b5ad0e999aeb",
+    "29a2aa4edba8",
+    "0a2989509071",
+    "5e2b4443bec4",
+    "541d6aa93c5b"
+   ],
+   "apoio": "9d440123583f",
+   "credito": "ac6f9063bc0c",
+   "enunciado": "3d3242c7bafb",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O acontecimento histórico descrito no texto teve",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q48": {
+   "alternativas": [
+    "4ebb251c169c",
+    "b75379f7b609",
+    "161b8f671a67",
+    "4a151b4ebc82",
+    "64822f87df3b"
+   ],
+   "apoio": "9306bacbb5db",
+   "credito": "584bdabe0ed4",
+   "enunciado": "9540df7c3527",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos apresentam situações nas quais mecanis",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q49": {
+   "alternativas": [
+    "c15d3bac842c",
+    "0c05912c4446",
+    "f8ca4ea08364",
+    "51f1e19c6d4f",
+    "68c154df4bd4"
+   ],
+   "apoio": "f75c9a4b9d21",
+   "credito": "5c30cd0b54e6",
+   "enunciado": "382dc265b2cc",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conceito de perdão apresentado no texto pressu",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q50": {
+   "alternativas": [
+    "b69ee10ea3f0",
+    "cea013d9a404",
+    "d166cfbdb597",
+    "7cd3a43e870c",
+    "3862293da6cb"
+   ],
+   "apoio": "2009c4e76d01",
+   "credito": "3f6fbf55eded",
+   "enunciado": "64b2924528ab",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na segunda metade do século XIX, o posicionament",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q51": {
+   "alternativas": [
+    "56ac5e761395",
+    "8abf2e5a0c43",
+    "ac0e48cd7185",
+    "c6d945815c0c",
+    "93ad5a3e8d8b"
+   ],
+   "apoio": "20746f338107",
+   "credito": "0c344cdb7aa0",
+   "enunciado": "af8c330c8c12",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A preocupação apresentada no texto tem como obje",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q52": {
+   "alternativas": [
+    "29e57e7ed452",
+    "38a40ca82b90",
+    "56106bb55692",
+    "471d1de7537b",
+    "3cb346460dc0"
+   ],
+   "apoio": "807f537e90b0",
+   "credito": "a59bc4c5bde8",
+   "enunciado": "6fed47da7c1c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A forma de exercício de poder indicada no texto ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q53": {
+   "alternativas": [
+    "b1af2dfda4f1",
+    "1c390b8147f7",
+    "4637b34161fa",
+    "da906744cbfb",
+    "178576e66aec"
+   ],
+   "apoio": "9aee67609f24",
+   "credito": "e670def024b7",
+   "enunciado": "f07dde6fd77a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, as novas formas de organi",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q54": {
+   "alternativas": [
+    "7758c406fcd8",
+    "9a707294541c",
+    "5b757fb86378",
+    "8d5a34431e5a",
+    "9678dd3e63b3"
+   ],
+   "apoio": "8f1bd457203e",
+   "credito": "31e35e95d95c",
+   "enunciado": "f55dabc1635e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto de Machado de Assis, publicado no Correi",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q55": {
+   "alternativas": [
+    "326c93f8311c",
+    "e83f3405b8c0",
+    "0f744e58c6c9",
+    "a96d973dbfaf",
+    "459de706fbb3"
+   ],
+   "apoio": "62837cb17e99",
+   "credito": "bf4f81949522",
+   "enunciado": "cf02bb187d33",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ação do movimento mencionado tinha como propós",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q56": {
+   "alternativas": [
+    "f9ea0041e332",
+    "092e320be3b5",
+    "42a304380b9f",
+    "f5ab80db6ffc",
+    "f41fcf051769"
+   ],
+   "apoio": "99b76eefe40a",
+   "credito": "f52ddac2ce73",
+   "enunciado": "436f35234582",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O paradoxo apresentado no texto é resultante da",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q57": {
+   "alternativas": [
+    "c11d200e1894",
+    "68994ed418b8",
+    "11534dcf9ef3",
+    "18a2d44c1a5f",
+    "46338ac8084f"
+   ],
+   "apoio": "1684b0c7e728",
+   "credito": "75f5b3e9aecc",
+   "enunciado": "77d3d27349b6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O paradoxo político-social apresentado no texto ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q58": {
+   "alternativas": [
+    "b6fef20b505f",
+    "8fdfdb4406d3",
+    "827c793f5395",
+    "e02ddbe0614a",
+    "a650cc1fd8e3"
+   ],
+   "apoio": "689b372d2fa6",
+   "credito": "bbfdff80ee07",
+   "enunciado": "30c81fb3bf8a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "São características comuns às duas regiões menci",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q59": {
+   "alternativas": [
+    "db50fa6dcba8",
+    "1bc2b9853ed1",
+    "70110fa75820",
+    "30408f532e95",
+    "ac44e4c808b2"
+   ],
+   "apoio": "e37fd9162a18",
+   "credito": "b40ed2650959",
+   "enunciado": "5efa8db2e349",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base nas origens do ritual descrito no texto",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q60": {
+   "alternativas": [
+    "13e8b19bef21",
+    "117342fe27e6",
+    "5fb78ab7b1f1",
+    "fda5996dfd45",
+    "25ab24dcf03d"
+   ],
+   "apoio": "dfa726ad2e0c",
+   "credito": "2bedc38a6e5f",
+   "enunciado": "80cc3e53e999",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A implementação do tipo de política mencionada n",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q61": {
+   "alternativas": [
+    "3e916fcbaa4c",
+    "0dff33cb7fe4",
+    "5dea8a5082a9",
+    "1336f27a15cd",
+    "89f16ee0ef2b"
+   ],
+   "apoio": "b4f2830dd8ef",
+   "credito": "db02e0d205ec",
+   "enunciado": "de0342a3961f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os distintos momentos da política externa dos Es",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q62": {
+   "alternativas": [
+    "d701a20e2077",
+    "af8b58834498",
+    "f21486f22e71",
+    "01c224702987",
+    "e83fb25e2dae"
+   ],
+   "apoio": "3ea88435815a",
+   "credito": "21adf1903ee6",
+   "enunciado": "3c63da5c75a2",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O problema socioambiental descrito no texto foi ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q63": {
+   "alternativas": [
+    "df5c7447fb28",
+    "bcc7528fbb0c",
+    "7bd58129bd3a",
+    "dbe7e43b8cc7",
+    "9846b968f962"
+   ],
+   "apoio": "a3f62b3e9006",
+   "credito": "503121242bd6",
+   "enunciado": "5594f9427b3c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, qual posicionamento foi c",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q64": {
+   "alternativas": [
+    "57a2eaf76c46",
+    "72b57a610553",
+    "d40645ef33c6",
+    "3b8124da882d",
+    "a9bea5153440"
+   ],
+   "apoio": "77868ce5c334",
+   "credito": "e3c98547a5e0",
+   "enunciado": "5db5d1b61ba8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As limitações para a utilização do recurso miner",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q65": {
+   "alternativas": [
+    "ac6cf9db1cad",
+    "b77eb55f0970",
+    "493b83135788",
+    "4e1f89558610",
+    "c5a7befa7647"
+   ],
+   "apoio": "63a095d94b1c",
+   "credito": "7baf645ba266",
+   "enunciado": "28b3344cad88",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Brasil colonial, a “brecha” abordada no texto",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q66": {
+   "alternativas": [
+    "ffa3f8483fbd",
+    "64821f566220",
+    "aad61dd8ee4b",
+    "3ac926e8b6e0",
+    "3a89c1f9969b"
+   ],
+   "apoio": "78540e936797",
+   "credito": "384c994d3f90",
+   "enunciado": "3dfa35be6abc",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto apresentado, as transformações espac",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q67": {
+   "alternativas": [
+    "2e5af6587ede",
+    "dac32f8cc10b",
+    "e1304caada26",
+    "c4503472e94f",
+    "821b8d3a3521"
+   ],
+   "apoio": "027fd3fc3851",
+   "credito": "dc79fe57d085",
+   "enunciado": "b2c3196c3939",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Conforme o trecho filosófico, a pessoa capaz de ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q68": {
+   "alternativas": [
+    "b974b225122a",
+    "1c5f782bc6a5",
+    "415be7bda374",
+    "65f47efde33a",
+    "2e3aca0438a1"
+   ],
+   "apoio": "4b41d9e9497a",
+   "credito": "4021f7b1b353",
+   "enunciado": "16de05a740e4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, o papel social da mulher ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q69": {
+   "alternativas": [
+    "5731ce7fb339",
+    "dfb303bcfddf",
+    "4186af469941",
+    "7f3ccd8fce49",
+    "34f0ebe49950"
+   ],
+   "apoio": "1b5a2c9cc4a8",
+   "credito": "0b38b7aba838",
+   "enunciado": "d9527c4ead40",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A fundamentação ontológica da ética proposta pel",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q70": {
+   "alternativas": [
+    "99e3a5eb9377",
+    "c7088d932265",
+    "52dcc661f150",
+    "7d578f56f836",
+    "0fa984bef1de"
+   ],
+   "apoio": "eb9539081722",
+   "credito": "0a1490b1c79f",
+   "enunciado": "7b688a41d24c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, as mudanças no gerenciamento das relaç",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q71": {
+   "alternativas": [
+    "4f647e03f68b",
+    "5e1ef352462b",
+    "0c455e098c93",
+    "5e04f2ede27b",
+    "e2411140114c"
+   ],
+   "apoio": "d9869a4851e5",
+   "credito": "ba8e7e8bb5be",
+   "enunciado": "158cea5f0139",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao comparar dois períodos distintos da história ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q72": {
+   "alternativas": [
+    "aaf9a62bf4d8",
+    "04540e940470",
+    "89677d50b7b7",
+    "858f20258788",
+    "024083204dd5"
+   ],
+   "apoio": "ac8df6668c1d",
+   "credito": "245e05ba83b1",
+   "enunciado": "d5f442c9ca58",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto indica que a representação das heroínas ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q73": {
+   "alternativas": [
+    "49310a164a39",
+    "d1ca12e63cf4",
+    "f7ad96f872be",
+    "7c26efde3135",
+    "ca18e23667d1"
+   ],
+   "apoio": "cc8316f773ce",
+   "credito": "7a4f8f078356",
+   "enunciado": "9a71864682b8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, a natureza serve de paradigma para a c",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q74": {
+   "alternativas": [
+    "80b959bafeac",
+    "98a9c5f8b283",
+    "f10d1716626b",
+    "41a96a11f81c",
+    "1e1e3c044f59"
+   ],
+   "apoio": "f8fe2e186e14",
+   "credito": "ee793edfd108",
+   "enunciado": "7a7341ca3037",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conflito urbano mencionado teve como causa a",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q75": {
+   "alternativas": [
+    "74c0f01f844f",
+    "96a0508d09dc",
+    "0276f500c0ab",
+    "51eda6b12e63",
+    "e8e4f1aa264e"
+   ],
+   "apoio": "07b97d6c4e75",
+   "credito": "dc8c3495f2a6",
+   "enunciado": "da2a738239e4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conflito mencionado no texto origina-se por qu",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q76": {
+   "alternativas": [
+    "c3c34a119075",
+    "21b3916e4884",
+    "8dc33ba91b51",
+    "4cef9ea449a3",
+    "df08c342d43c"
+   ],
+   "apoio": "46e59ba8147f",
+   "credito": "9228e76e95a0",
+   "enunciado": "b4d7962512e2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual dinâmica socioespacial favoreceu o processo",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q77": {
+   "alternativas": [
+    "ff57b06600ca",
+    "bd35f609b340",
+    "449060b63ffc",
+    "67ffc7691fc3",
+    "e43d873c2e16"
+   ],
+   "apoio": "f5af923cd5ea",
+   "credito": "baeb67229ba5",
+   "enunciado": "886c06887630",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O problema apontado no texto demanda o planejame",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q78": {
+   "alternativas": [
+    "a8239d91f962",
+    "d18f68eea18f",
+    "d82eb1b99481",
+    "4fed88034bfd",
+    "50cb9a2abff7"
+   ],
+   "apoio": "85bb6016c8ee",
+   "credito": "7b4abed76287",
+   "enunciado": "6b8f2a1498e6",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O movimento mencionado no texto consistiu numa r",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q79": {
+   "alternativas": [
+    "a3bfd14a9bf2",
+    "786385affb99",
+    "f64bd3eed3a5",
+    "45ae88977478",
+    "acea73ac3517"
+   ],
+   "apoio": "39fd551bb3bd",
+   "credito": "a1a46acd4a2b",
+   "enunciado": "cb20b6d6c83f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual é o objetivo do sistema mencionado no texto",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q80": {
+   "alternativas": [
+    "16e6f369bfe5",
+    "8f858892533c",
+    "3e33b2d44a11",
+    "c35f472a1bf2",
+    "e4aed6bec1b4"
+   ],
+   "apoio": "dce1cc66b911",
+   "credito": "998faf660c1e",
+   "enunciado": "b4622ab29421",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O reconhecimento por indicação geográfica favore",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q81": {
+   "alternativas": [
+    "7e6c1ec34db0",
+    "e3ed91a8d1e3",
+    "2e5e73161fc0",
+    "23ad92c287bc",
+    "50fe9d9865f2"
+   ],
+   "apoio": "6bd5c25e828a",
+   "credito": "1fb328ab586d",
+   "enunciado": "0b74c7355c77",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os padrões de comportamento observados na década",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q82": {
+   "alternativas": [
+    "4ff5e788b9a3",
+    "25f3806ec751",
+    "2195f7cc725a",
+    "aae2b14dd833",
+    "d6d363b3da8c"
+   ],
+   "apoio": "9af3bb090718",
+   "credito": "e5a36a9f3d79",
+   "enunciado": "a730e63094b4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Refletindo sobre o Deus onisciente e suas criatu",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q83": {
+   "alternativas": [
+    "bf65c623eb71",
+    "f281f7f8fee8",
+    "fc9ee41f63f1",
+    "c5ce560e8c47",
+    "3f5ac786f998"
+   ],
+   "apoio": "598a1b48d777",
+   "credito": "83fc85780ba3",
+   "enunciado": "88cd411b54b7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, qual é o objetivo estraté",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q84": {
+   "alternativas": [
+    "3e3b626d642d",
+    "40ce8a39f0a5",
+    "7444374c11ab",
+    "b7c27117bcbf",
+    "76ff13569379"
+   ],
+   "apoio": "3a938818bd2a",
+   "credito": "ac39ea663c16",
+   "enunciado": "4f90e1ee41b7",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O diálogo descrito no texto remete aos costumes ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q85": {
+   "alternativas": [
+    "ba0675a36334",
+    "65bb721328cc",
+    "03fb3e151bca",
+    "8898249d747b",
+    "0793307af595"
+   ],
+   "apoio": "20389f5767ee",
+   "credito": "7ee235c9b9f8",
+   "enunciado": "0dc15deb7f6f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, os “encantados” têm sua o",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q86": {
+   "alternativas": [
+    "d27729918c7c",
+    "f369aa69cab1",
+    "9aeec7b536cb",
+    "e4efc0dbcf70",
+    "4b64c6102716"
+   ],
+   "apoio": "d8f45872ef9f",
+   "credito": "2d7cfe670b12",
+   "enunciado": "549544036d04",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A condição de “africano livre” implica que estav",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q87": {
+   "alternativas": [
+    "9f945135faf2",
+    "a9740c73c1d9",
+    "f76aa2f54771",
+    "3f1f5e768548",
+    "941397bd732b"
+   ],
+   "apoio": "e9e44682deb0",
+   "credito": "b1c2ad935614",
+   "enunciado": "474aeb833d83",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ação da Justiça, destacada no texto, represent",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q88": {
+   "alternativas": [
+    "be630e07653c",
+    "825ee598f38b",
+    "ad3c5a821ee4",
+    "546ee7484ce5",
+    "6067d3c83555"
+   ],
+   "apoio": "f64457c4f2a8",
+   "credito": "53bfd9d6e23d",
+   "enunciado": "88b86aa56b61",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A instituição abordada no texto busca uma mudanç",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q89": {
+   "alternativas": [
+    "f3db9c392a7b",
+    "71b4d503a9ed",
+    "ac7d42dd6b6b",
+    "9f8eb5e90655",
+    "574c95c2f538"
+   ],
+   "apoio": "a6c440d1eb51",
+   "credito": "c63b636b5d3d",
+   "enunciado": "c5cd0ac0d37a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Conforme o texto, a internet insere-se no mundo ",
+   "recortes": []
+  },
+  "enem-2025-ppl-d1-q90": {
+   "alternativas": [
+    "daf25047cfe2",
+    "1d7f792d5c83",
+    "1191891268c6",
+    "6bc381618ecb",
+    "cfeae14337f5"
+   ],
+   "apoio": "c34f059b992c",
+   "credito": "9424128ba3eb",
+   "enunciado": "567e7366effd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta uma inovação na produção da me",
+   "recortes": []
+  }
+ }
+}

@@ -1,0 +1,4 @@
+# Dependências do extrator de provas (scripts/extrator/extrair_textos.py). Python 3.9+
+pdfplumber>=0.11
+Pillow>=10
+pypdfium2>=4

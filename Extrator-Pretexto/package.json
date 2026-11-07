@@ -1,0 +1,22 @@
+{
+  "name": "pretexto-plataforma-de-estudos",
+  "version": "0.7.0",
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:grade": "node --no-warnings scripts/testar-grade.mjs",
+    "extrair": "python scripts/extrator/extrair_textos.py",
+    "verificar": "python scripts/extrator/verificar_baseline.py"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}

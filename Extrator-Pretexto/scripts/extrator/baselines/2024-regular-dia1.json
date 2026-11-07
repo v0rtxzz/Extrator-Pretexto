@@ -1,0 +1,1788 @@
+{
+ "extraidas": 95,
+ "ignoradas": [],
+ "motor": "v2",
+ "perfil": "2024: motor v2",
+ "questoes": {
+  "enem-2024-regular-d1-q01-esp": {
+   "alternativas": [
+    "bc386649a3c2",
+    "3282947dca98",
+    "d16daa8b1ffa",
+    "442b1a3e11b7",
+    "8a439bba8133"
+   ],
+   "apoio": "cf9a81e30bc6",
+   "credito": "19205b7b136b",
+   "enunciado": "e701adda30e3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na argumentação apresentada sobre cultura do can",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q01-ing": {
+   "alternativas": [
+    "37007120e914",
+    "c0f5b637562a",
+    "b8dcb5c1d736",
+    "4af1bbd793b2",
+    "dbf30a9f5314"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "78c40ec9bb82",
+   "enunciado": "3077bd8b4929",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q01-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A relação entre as citações atribuídas ao físico",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q01-ing-apoio-01.jpg",
+     2,
+     [
+      68.7,
+      160.6,
+      309.6,
+      551.3
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q02-esp": {
+   "alternativas": [
+    "336ff2643895",
+    "9419817618a2",
+    "1e8a14987b51",
+    "3a42f6fb3ac8",
+    "d2fe9569d0a5"
+   ],
+   "apoio": "3df5abe7291b",
+   "credito": "aea2d9b8051c",
+   "enunciado": "14665f68a7ab",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O comportamento dos personagens narrado no texto",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q02-ing": {
+   "alternativas": [
+    "d2f8ed46de97",
+    "2fd4aee97d5a",
+    "c17138700f6a",
+    "f4dd0594fa66",
+    "c7343553c52c"
+   ],
+   "apoio": "5c10d7e6dcc2",
+   "credito": "a39b08421f51",
+   "enunciado": "463e165e6f95",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa letra de canção, que aborda um contexto de",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q03-esp": {
+   "alternativas": [
+    "e8b296fa1a3a",
+    "0dc68261fc62",
+    "900aabd063f0",
+    "4c80ff367eab",
+    "cf51f1e4eddc"
+   ],
+   "apoio": "154bb472611f",
+   "credito": "c66f515cbff6",
+   "enunciado": "efb70b6f0e7e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em sua escrita poética, a poetisa mexicana Celer",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q03-ing": {
+   "alternativas": [
+    "3b1d9f3ec73f",
+    "e522ffa34e6a",
+    "0a7035aeea6d",
+    "1ccdd527353d",
+    "1781d64ebbca"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "fc9891d3661c",
+   "enunciado": "d97316eca28a",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q03-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O texto estabelece uma relação entre elementos d",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q03-ing-apoio-01.jpg",
+     2,
+     [
+      325.5,
+      391.0,
+      569.4,
+      557.4
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q04-esp": {
+   "alternativas": [
+    "e4f1590449d8",
+    "2048753e54c3",
+    "16f884462e2a",
+    "a17ffbca775e",
+    "ad48c9de456e"
+   ],
+   "apoio": "6bb249425056",
+   "credito": "1144d3c8d723",
+   "enunciado": "49f8ee59c5e6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, ao utilizar a expressão “morir muy ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q04-ing": {
+   "alternativas": [
+    "2bf69359920c",
+    "55459df4f28d",
+    "931174260710",
+    "87e179fc6e17",
+    "71ba91f8f978"
+   ],
+   "apoio": "7252520cd26f",
+   "credito": "2f85428a3607",
+   "enunciado": "44f9e43eac54",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O problema abordado nesse texto sobre imigrantes",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q05-esp": {
+   "alternativas": [
+    "fe5b7696cf5c",
+    "443dd7e0d6dd",
+    "6fd5b5f0f1f6",
+    "9b67df847967",
+    "d7ef32389262"
+   ],
+   "apoio": "1c66f7bfaf36",
+   "credito": "4b94668e35ee",
+   "enunciado": "f0d5f9ed0579",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse poema, o eu lírico representa a voz de um ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q05-ing": {
+   "alternativas": [
+    "5686ee13564d",
+    "310eb146abac",
+    "a1eebed5d512",
+    "00b9d0b7f95a",
+    "2b0b556924cd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "6901bfaa1c06",
+   "enunciado": "f555b3ade770",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q05-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A carta da editora Stephanie Allen-Nichols à esc",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q05-ing-apoio-01.jpg",
+     3,
+     [
+      68.4,
+      404.6,
+      309.9,
+      665.7
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q06": {
+   "alternativas": [
+    "c8a81cad78c8",
+    "7a4553dc3a73",
+    "d9e1ccb61aca",
+    "e14ff3643f5b",
+    "24ac517bfa4b"
+   ],
+   "apoio": "dfefea8d061b",
+   "credito": "6a6579994970",
+   "enunciado": "6e7514b0b062",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A reportagem apresenta duas iniciativas: o livro",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q07": {
+   "alternativas": [
+    "fa11c5d65c2d",
+    "9b95237009b3",
+    "401a68fcf89e",
+    "fb4ce54dd548",
+    "4fc9c0c345b6"
+   ],
+   "apoio": "8586f06dfa71",
+   "credito": "a01c2039d05b",
+   "enunciado": "c7c930ddb4bc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse conjunto de minibiografias tem como propósi",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q08": {
+   "alternativas": [
+    "23f3b2d86897",
+    "36075a169879",
+    "6d374adf91c9",
+    "853e0e6eb7c6",
+    "30761a6904d8"
+   ],
+   "apoio": "c8fa30e3c7f9",
+   "credito": "01c3f1f89698",
+   "enunciado": "91eb428d11ad",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conjunto dessas práticas musicais demonstra qu",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q09": {
+   "alternativas": [
+    "249d49a5eb02",
+    "4a3ac833c825",
+    "3b23ec955b79",
+    "8a6a5e755901",
+    "26668020af2b"
+   ],
+   "apoio": "1559f64680f0",
+   "credito": "74926809539b",
+   "enunciado": "12e81cea5eb6",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As causas do desequilíbrio na saúde mental apont",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q10": {
+   "alternativas": [
+    "658c1fbddb4b",
+    "aac72bd417e1",
+    "60aafab450a3",
+    "6129942a2dcd",
+    "fb67cc122411"
+   ],
+   "apoio": "ee4f3335a457",
+   "credito": "6de60993ec4b",
+   "enunciado": "ef049bae18ee",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo a argumentação construída nesse texto, o",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q11": {
+   "alternativas": [
+    "b58da8e42f60",
+    "d523217846b9",
+    "07f3eccb31e3",
+    "8de55739920e",
+    "4d0331d1ba74"
+   ],
+   "apoio": "71c0fc748c4f",
+   "credito": "7edf2a571db3",
+   "enunciado": "ed81e3fd8e15",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, as falas atribuídas a Evanildo Bech",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q12": {
+   "alternativas": [
+    "c724790cee55",
+    "8d98eb84ff8a",
+    "46c95332740d",
+    "718311cc276f",
+    "4a0eee467d95"
+   ],
+   "apoio": "0e3aab46d972",
+   "credito": "4435a22021f8",
+   "enunciado": "e1897e21a7dd",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A Língua da Tabatinga tem sido preservada porque",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q13": {
+   "alternativas": [
+    "ee847ee32eb2",
+    "0ec0e9f43f53",
+    "31ef89b5cafe",
+    "733fba7dca51",
+    "f2783adfb60b"
+   ],
+   "apoio": "129e76fb6f43",
+   "credito": "f3388c173c70",
+   "enunciado": "e09b67b8fa7a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto é marcado pela função referencial da ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q14": {
+   "alternativas": [
+    "765211c26d7f",
+    "f0a59807dcbe",
+    "1716e3a626f7",
+    "c0b9b5539217",
+    "1b6e7ddb17ff"
+   ],
+   "apoio": "a0e0d5945afa",
+   "credito": "54b38454231b",
+   "enunciado": "7b23e51b9be1",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A vivência relatada no texto evidencia que as va",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q15": {
+   "alternativas": [
+    "651dfc4cf7a2",
+    "08f0cd67b11e",
+    "c77bb1932976",
+    "b180c06a9647",
+    "4ce6cd4a8b61"
+   ],
+   "apoio": "0e3aae376a1b",
+   "credito": "fb3e0a3253c7",
+   "enunciado": "ba773d46dd13",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao tratar da telemedicina, esse texto ressalta q",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q16": {
+   "alternativas": [
+    "e959f3b3063d",
+    "80098123ac64",
+    "8ae1ada3905c",
+    "9d6250fd06c6",
+    "2003fe33548f"
+   ],
+   "apoio": "ea548a24b2a1",
+   "credito": "6166b4ae1bc8",
+   "enunciado": "f594bc43a3f7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sob a perspectiva da multiculturalidade e de aco",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q17": {
+   "alternativas": [
+    "ed76e430468a",
+    "006ceef54b16",
+    "a62aa475bb0f",
+    "a6e73d707999",
+    "77cd5400e5e1"
+   ],
+   "apoio": "f3c62f49dc88",
+   "credito": "cc5f9b40dfba",
+   "enunciado": "a9266aaf013f",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A apresentação do dado estatístico ao final dess",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q18": {
+   "alternativas": [
+    "a43a1606b90b",
+    "e9e43a18f8e0",
+    "598e64cfb37d",
+    "dcf14dee04a9",
+    "2acc169eb980"
+   ],
+   "apoio": "66b3f456a6c6",
+   "credito": "6f09e1088e76",
+   "enunciado": "52af967b177e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto evidencia a perspectiva ampliada de saúd",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q19": {
+   "alternativas": [
+    "b0115728cc58",
+    "f3c84c7e4695",
+    "728529e021b1",
+    "04f22a3bd6d3",
+    "bbcc11fe2649"
+   ],
+   "apoio": "ff0da98fdd31",
+   "credito": "11bf56e65bdb",
+   "enunciado": "46fab26c2e6a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse fragmento do romance de Júlia Lopes de Alm",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q20": {
+   "alternativas": [
+    "17a994d13b48",
+    "294b713f5aff",
+    "50436333eb3b",
+    "fc0b35a9957d",
+    "c31bed8a9a0e"
+   ],
+   "apoio": "67dd0487abc9",
+   "credito": "d74515fc8aa7",
+   "enunciado": "3d1190814cd8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O recurso utilizado na progressão textual para g",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q21": {
+   "alternativas": [
+    "1ba9b2a97c74",
+    "927c3e06e15d",
+    "f5a446dadae8",
+    "b69815a73b08",
+    "aa03a1e1f19a"
+   ],
+   "apoio": "97f7fb748ceb",
+   "credito": "428fbec8fe22",
+   "enunciado": "5f6d8ccaaf5c",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q21-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Pela leitura desses textos, infere-se que a comp",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q21-apoio-01.jpg",
+     10,
+     [
+      65.9,
+      272.3,
+      312.5,
+      518.9
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q22": {
+   "alternativas": [
+    "5d7247a1736a",
+    "fce878b3cda1",
+    "cd5fb631052d",
+    "56309faa1241",
+    "c53b125ab088"
+   ],
+   "apoio": "5b0c73d86b9d",
+   "credito": "89afbde9991c",
+   "enunciado": "28d19c43631d",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na letra da canção, a tematização da violência m",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q23": {
+   "alternativas": [
+    "9c1e33b3df5c",
+    "0cdf4e1e628a",
+    "2ba59571d4b0",
+    "97bbface871f",
+    "1ec44114bdf9"
+   ],
+   "apoio": "50f9183e9188",
+   "credito": "b5dc290edfa8",
+   "enunciado": "57f3c682aa9e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ainda que faça uma avaliação positiva da série, ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q24": {
+   "alternativas": [
+    "6bbc61088ed2",
+    "e903ed6f2f7c",
+    "a59b9ee4d6e4",
+    "db7e8c45c4d9",
+    "d03db4032aec"
+   ],
+   "apoio": "cc53a27a170e",
+   "credito": "b0bb94770af3",
+   "enunciado": "32d329dfeb83",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse fragmento, a discussão dos personagens tra",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q25": {
+   "alternativas": [
+    "595ca4de5392",
+    "fa3b851bf329",
+    "b849e5dec26b",
+    "e38b4302250b",
+    "dffd3d0a17ec"
+   ],
+   "apoio": "15e0f83d3741",
+   "credito": "9c9c3710ac51",
+   "enunciado": "568d258e54b6",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q25-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Eliseu D’Angelo Visconti (1866-1944) desenvolveu",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q25-apoio-01.jpg",
+     11,
+     [
+      324.6,
+      116.9,
+      570.3,
+      440.6
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q26": {
+   "alternativas": [
+    "ea314b1a3979",
+    "a2d7d72ec287",
+    "c48d17ffb312",
+    "4b38c88bf1e3",
+    "be38335a7033"
+   ],
+   "apoio": "f120f6ce483e",
+   "credito": "adfd50638602",
+   "enunciado": "b670f8e32e1b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto, apesar do aumento da participaç",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q27": {
+   "alternativas": [
+    "f680da9c349b",
+    "1e7cd3a10e3c",
+    "b4f938ae94d0",
+    "15c247abcd3c",
+    "6ef89afcefb4"
+   ],
+   "apoio": "26626b5e0154",
+   "credito": "9254b22d84a0",
+   "enunciado": "02b2d1efc39c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como estratégia para se aproximar de seu leitor,",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q28": {
+   "alternativas": [
+    "d2541eff92c4",
+    "34329ab3a27c",
+    "949afb85b7d8",
+    "c599726c0657",
+    "7d3775519529"
+   ],
+   "apoio": "d7ff19dba0aa",
+   "credito": "5d5a40f6de76",
+   "enunciado": "8f5203583508",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para apresentar a apropriação literária que faz ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q29": {
+   "alternativas": [
+    "94869ca7dad1",
+    "92fb447d840f",
+    "28cadd34ccd3",
+    "5b788ba82cd7",
+    "d8c11340d246"
+   ],
+   "apoio": "e79e5dd56ee6",
+   "credito": "998dcc9e738f",
+   "enunciado": "a72cba957b9a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Das reflexões do narrador, apreende-se uma persp",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q30": {
+   "alternativas": [
+    "eb33b0e6f284",
+    "03457585e85b",
+    "807b1b541f56",
+    "c26c651d7632",
+    "09db7215adea"
+   ],
+   "apoio": "62b275000559",
+   "credito": "517dfedf5beb",
+   "enunciado": "58fafc535f9c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No que diz respeito à arte, o posicionamento de ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q31": {
+   "alternativas": [
+    "365d287e6d12",
+    "9726e3ac4a05",
+    "f5cbeff0663d",
+    "76f1ac9de621",
+    "611843fd1402"
+   ],
+   "apoio": "ebd058d74ff1",
+   "credito": "e630ed147d34",
+   "enunciado": "5f7272519418",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Convidada para o último baile do Império, na Ilh",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q32": {
+   "alternativas": [
+    "256bb398af0c",
+    "a2fa99cf7562",
+    "98cffd34bcde",
+    "89715ccd4a95",
+    "a1d5b7202d36"
+   ],
+   "apoio": "60c215f2a218",
+   "credito": "762de2091a27",
+   "enunciado": "65e71d916b94",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse trecho, o drama do declínio físico da narr",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q33": {
+   "alternativas": [
+    "4a063c3019d9",
+    "0df2280f781a",
+    "91e2d1d9d110",
+    "fb34e9801091",
+    "7272a1a45e3b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "fabe46700435",
+   "enunciado": "578e633580e5",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q33-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nesse cartaz, a expressão “Vou deixar que você s",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q33-apoio-01.jpg",
+     14,
+     [
+      66.0,
+      497.0,
+      312.6,
+      635.5
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q34": {
+   "alternativas": [
+    "70bd3cd35194",
+    "e5c736177324",
+    "c650f4541f47",
+    "f49d1ede79dc",
+    "f661bf8813ed"
+   ],
+   "apoio": "1336c6ac24f3",
+   "credito": "02b08159aafd",
+   "enunciado": "2a30ffc66371",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com esse texto, o aplicativo Linklado ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q35": {
+   "alternativas": [
+    "3f4e1355f46b",
+    "791213bf4440",
+    "460c0376fb2d",
+    "cda7b10f6c29",
+    "1b6a41999d75"
+   ],
+   "apoio": "3ad25ad08a57",
+   "credito": "22b788180e19",
+   "enunciado": "1593570cdb0a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao tematizar o casamento, esse fragmento reprodu",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q36": {
+   "alternativas": [
+    "58ec9bec9245",
+    "abfb45f25880",
+    "8103de2fc7a6",
+    "d4c03a33c1a0",
+    "a5834387521d"
+   ],
+   "apoio": "54be3dc4abac",
+   "credito": "1d1c8de65bf8",
+   "enunciado": "3f0185a16ce4",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q36-apoio-01.jpg",
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q36-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A leitura comparativa das duas esculturas, separ",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q36-apoio-01.jpg",
+     15,
+     [
+      381.1,
+      453.0,
+      507.8,
+      622.5
+     ]
+    ],
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q36-apoio-02.jpg",
+     15,
+     [
+      128.4,
+      453.0,
+      255.9,
+      622.5
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q37": {
+   "alternativas": [
+    "cf4053203c3e",
+    "4cf015aa56f5",
+    "3733932af87e",
+    "d41035a14b7f",
+    "314ece79aa26"
+   ],
+   "apoio": "cd0a8c714993",
+   "credito": "75885c268962",
+   "enunciado": "baf735be77fd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Defendendo a importância da música para o bem-es",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q38": {
+   "alternativas": [
+    "ba033728eac6",
+    "3724060d1075",
+    "1f9d9634a660",
+    "53148d2e2a20",
+    "ce58d0c3890a"
+   ],
+   "apoio": "9dde9a888760",
+   "credito": "2d07f3a30888",
+   "enunciado": "3804df6a7594",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse poema, por meio da ideia de deslocamento, m",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q39": {
+   "alternativas": [
+    "017a15304232",
+    "69cabb634d48",
+    "a4b3f43f6a6c",
+    "8349ea7427e1",
+    "84e3910a252d"
+   ],
+   "apoio": "1d163a9e32d6",
+   "credito": "e52903e1a8e9",
+   "enunciado": "4229a1d77c5c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O “falar errado” a que o texto se refere constit",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q40": {
+   "alternativas": [
+    "3f02a342892d",
+    "31082bce9783",
+    "dc609299378a",
+    "25fa8ab0eefc",
+    "29823697dac0"
+   ],
+   "apoio": "e7b271ff6653",
+   "credito": "f3b2265e6174",
+   "enunciado": "09aa454ded11",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A apropriação de elementos como rivalidade, comp",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q41": {
+   "alternativas": [
+    "36d24f3ca8cb",
+    "946ca2d333c8",
+    "dbaf9dc501ae",
+    "1506cbd666cb",
+    "57418a4fcfcd"
+   ],
+   "apoio": "d59e040a2a77",
+   "credito": "20ca188c91ef",
+   "enunciado": "75b544969007",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As informações dessa reportagem auxiliam no comb",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q42": {
+   "alternativas": [
+    "36cf467cdd5f",
+    "5a4ff4ccdd28",
+    "75440c4e4f0f",
+    "80c2dcfe414d",
+    "2eaf35233066"
+   ],
+   "apoio": "efd9b2701d1e",
+   "credito": "2832aba2bd90",
+   "enunciado": "5a331a1114e5",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Apesar de haver marcas formais de carta e receit",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q43": {
+   "alternativas": [
+    "a2a354b565d7",
+    "933326c96126",
+    "886599925e56",
+    "a29c6ae8222d",
+    "7a7554b7a6f9"
+   ],
+   "apoio": "e7ce56b62920",
+   "credito": "9f9d2c8bdd6c",
+   "enunciado": "ebc5b9407543",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q43-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O experimento realizado por Regina Valkenborgh r",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q43-apoio-01.jpg",
+     18,
+     [
+      81.8,
+      288.1,
+      296.5,
+      430.4
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q44": {
+   "alternativas": [
+    "117c82a80ad2",
+    "a74175d7433e",
+    "bb90f21a8a52",
+    "8bd056fe3ea9",
+    "ed7f46a95b0d"
+   ],
+   "apoio": "bb36c87c2c32",
+   "credito": "40284c5b6bd5",
+   "enunciado": "9c3778de122a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A mudança no programa olímpico mencionada no tex",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q45": {
+   "alternativas": [
+    "981655149163",
+    "57da8b676927",
+    "683d6159c63a",
+    "2564ef8cb068",
+    "7c437eef61d6"
+   ],
+   "apoio": "f516f53f55fa",
+   "credito": "7ae3c08705cb",
+   "enunciado": "7b836307fd50",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao abordar a relação dos memes com a educação, a",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q46": {
+   "alternativas": [
+    "8339fa6317e2",
+    "3837fcfb536e",
+    "dac4361b8a0c",
+    "37cb2afbc008",
+    "e6f8be49b35d"
+   ],
+   "apoio": "339472010e7d",
+   "credito": "4fd1aeae1702",
+   "enunciado": "71caa02c4ed5",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As diferenças entre os eventos geológicos relata",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q47": {
+   "alternativas": [
+    "9d556c6ec2b7",
+    "484a2e47aaaf",
+    "4caf333cd946",
+    "9fc3f23be346",
+    "d2a62fc417d5"
+   ],
+   "apoio": "32642b16afa8",
+   "credito": "49b489967f48",
+   "enunciado": "c1e0d66fb607",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto dos sanitaristas atuantes nas décadas de",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q48": {
+   "alternativas": [
+    "533ac1e32580",
+    "2f7e618de593",
+    "23e944514f2f",
+    "1a84c840b5e7",
+    "7a0ec4009c79"
+   ],
+   "apoio": "75ccc1d28087",
+   "credito": "e91c668efc24",
+   "enunciado": "91a9ca7fdd48",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Conforme o texto, o evento gerou o seguinte impa",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q49": {
+   "alternativas": [
+    "6dc7d2604d61",
+    "7ae7a28dc1e9",
+    "8601626b7e07",
+    "5c7207fcd376",
+    "e4351959d73d"
+   ],
+   "apoio": "ef5e28e4f314",
+   "credito": "8f3620b22f96",
+   "enunciado": "1dc5e02adb91",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Brasil, os eventos descritos ganharam conotaç",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q50": {
+   "alternativas": [
+    "222167078c22",
+    "4faac35f6ed9",
+    "0c5c9de65e7e",
+    "5c9e3b74ec55",
+    "abe2790c447a"
+   ],
+   "apoio": "8399ec9b69be",
+   "credito": "1e1e1a37f1ff",
+   "enunciado": "fabc502c23ce",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os diferentes pontos de vista presentes no texto",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q51": {
+   "alternativas": [
+    "322a1317b610",
+    "657b2b519150",
+    "505e3c02cff9",
+    "50580ed71e4d",
+    "ab24ef826f95"
+   ],
+   "apoio": "5ec8903fc9ca",
+   "credito": "eaafdd869425",
+   "enunciado": "ac4b8bcda2f9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A expressão cultural descrita no texto foi rejei",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q52": {
+   "alternativas": [
+    "cf685e719656",
+    "5e4c01c1d718",
+    "0dcb5e07aea3",
+    "8349e3cebc12",
+    "b9240df5dada"
+   ],
+   "apoio": "bc6822bbfc3f",
+   "credito": "04e9f9c94c31",
+   "enunciado": "01b045a76f7b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A reivindicação do movimento norte-americano apr",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q53": {
+   "alternativas": [
+    "2f0550449688",
+    "a8b1f06ba857",
+    "c498ac4d11cd",
+    "9f654244e601",
+    "433482a0bb26"
+   ],
+   "apoio": "df70c9a3584c",
+   "credito": "bffe91ddbcee",
+   "enunciado": "93b7b515da8f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q53-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A desproporção de velocidade e tempo de duração ",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q53-apoio-01.jpg",
+     21,
+     [
+      332.4,
+      414.8,
+      562.5,
+      579.2
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q54": {
+   "alternativas": [
+    "8f3ff4cb934e",
+    "4f0d8aaa360e",
+    "6cf20e05b938",
+    "9c2efe70e2ed",
+    "81e04b8ed5f2"
+   ],
+   "apoio": "25eba35ecc8d",
+   "credito": "9a784ff855e9",
+   "enunciado": "e050a514b78f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base na reflexão suscitada no texto, o preco",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q55": {
+   "alternativas": [
+    "13e3cce4fa8a",
+    "12b11b546faa",
+    "f3be7039b26d",
+    "e649a469f349",
+    "1d5e019628d0"
+   ],
+   "apoio": "3a1ea5da47c9",
+   "credito": "865457e746a3",
+   "enunciado": "e3fece1a701f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto reforça uma concepção metafísica clás",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q56": {
+   "alternativas": [
+    "ad457a833869",
+    "cc8f5955f967",
+    "b3f893d7c5ca",
+    "41a1dda937b6",
+    "4297684ea011"
+   ],
+   "apoio": "711e15dfd1fe",
+   "credito": "a445fbbeda34",
+   "enunciado": "11a2664f5910",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ritual brasileiro apresentado no texto represe",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q57": {
+   "alternativas": [
+    "1d1861f9f8e0",
+    "ac9cbb6e0ed7",
+    "d76f737db572",
+    "9191d036348a",
+    "cd5eeac9eea4"
+   ],
+   "apoio": "278f1ca4e8c8",
+   "credito": "0150f6c2649f",
+   "enunciado": "d35761d89a5b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As características descritas no texto exibem a i",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q58": {
+   "alternativas": [
+    "4ecd32a63c5c",
+    "f2ae8797dbfa",
+    "9abd6ca3544a",
+    "1ded7b5b403d",
+    "4371e7a3a522"
+   ],
+   "apoio": "2fcc5138f835",
+   "credito": "037e3c75726f",
+   "enunciado": "77db99e4bfa1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos indicam que a prática de ações virtuos",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q59": {
+   "alternativas": [
+    "c1554e098468",
+    "0b7cef94ad28",
+    "7b334d2151c6",
+    "048157694411",
+    "2c730534f255"
+   ],
+   "apoio": "a24cdba9fdfb",
+   "credito": "4e9c3224a4d2",
+   "enunciado": "69d0788716be",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, o legado das universidade",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q60": {
+   "alternativas": [
+    "60ada110a0e6",
+    "63334aefbe57",
+    "3df2c6f10598",
+    "0f5dfaf69d8b",
+    "627be6f0db32"
+   ],
+   "apoio": "79a399d6572d",
+   "credito": "b8a7121b29d9",
+   "enunciado": "a907676ee995",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto expõe a possibilidade de uma nova racion",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q61": {
+   "alternativas": [
+    "6c00415e913e",
+    "0e55613eb264",
+    "0cdf54010964",
+    "f27886603d46",
+    "45cd46289f03"
+   ],
+   "apoio": "e8be00fed350",
+   "credito": "e5f5d91afd83",
+   "enunciado": "31b05922b813",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta uma reflexão da personagem ace",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q62": {
+   "alternativas": [
+    "5ab342db28d2",
+    "89b93ac16a8a",
+    "23d3350850d1",
+    "804005994a3a",
+    "5ef7e10e7a92"
+   ],
+   "apoio": "031b8b627f01",
+   "credito": "0324902837f9",
+   "enunciado": "cbf5eaf8cda1",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao comparar os textos, conclui-se que eles apres",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q63": {
+   "alternativas": [
+    "49733d1229c5",
+    "eb122c6f4a17",
+    "aeff5a9a503a",
+    "8f3da8b70675",
+    "4893014c26f9"
+   ],
+   "apoio": "243198e67b37",
+   "credito": "828e900d44a0",
+   "enunciado": "8bf7d6652a23",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao analisar as consequências da dinâmica apresen",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q64": {
+   "alternativas": [
+    "996068419e2a",
+    "1f2e41d61c2d",
+    "169454aba8b7",
+    "9699776dd1f9",
+    "c41a791aff65"
+   ],
+   "apoio": "57bad3694664",
+   "credito": "ce069b28bf13",
+   "enunciado": "f74828056835",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos indicam a participação de artistas e i",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q65": {
+   "alternativas": [
+    "8b1de701d790",
+    "33787ae601ac",
+    "be7d0f839c6c",
+    "6a9bf3dbf18d",
+    "fdc21d86a9d7"
+   ],
+   "apoio": "1fcc6fe3bc1e",
+   "credito": "8d92f81c0d74",
+   "enunciado": "051850cb5547",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, o processo apresentado co",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q66": {
+   "alternativas": [
+    "61c2190a9439",
+    "db1b5bf7e181",
+    "1352c3e676fa",
+    "921f736f024d",
+    "cc1a77656591"
+   ],
+   "apoio": "7823234db65a",
+   "credito": "fbd81e0042ae",
+   "enunciado": "2b1a8930a962",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual foi o efeito social resultante do avanço te",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q67": {
+   "alternativas": [
+    "4ea265e46940",
+    "cb14beef25f6",
+    "8458de5c7e8e",
+    "6b3fd274bb2d",
+    "afa973829c09"
+   ],
+   "apoio": "fe7aa38aa39b",
+   "credito": "2216989f67d2",
+   "enunciado": "c787c9a4e6f7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A adoção da tecnologia mencionada amplia a renta",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q68": {
+   "alternativas": [
+    "e579fc269820",
+    "5c2967355b28",
+    "7b3d2ed761d3",
+    "a98c033dc7a8",
+    "b4f4144aa661"
+   ],
+   "apoio": "8db3ec972c24",
+   "credito": "7f9fce229a75",
+   "enunciado": "fa7ab86bd7e3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para a região amazônica, a relação entre as info",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q69": {
+   "alternativas": [
+    "9ac8c6cd5148",
+    "6d72ba6e52dd",
+    "63e14bd664e9",
+    "36e07149d6e0",
+    "9b5994d77a09"
+   ],
+   "apoio": "ca4cd455f540",
+   "credito": "20588dcdf740",
+   "enunciado": "c8b424b169e7",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, escrito no século XVIII, a autora r",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q70": {
+   "alternativas": [
+    "777a04297225",
+    "fb4a2616d3c3",
+    "92503f34e1c4",
+    "566bc05f0c0f",
+    "de9c928ad90e"
+   ],
+   "apoio": "b28df8e9e5c3",
+   "credito": "6d7a8e745224",
+   "enunciado": "2604882af4d9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, o território torna-se cad",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q71": {
+   "alternativas": [
+    "bdf0e4919621",
+    "562a4a720d2a",
+    "ecda7dafc7c7",
+    "7da37d8416b7",
+    "84050036bb18"
+   ],
+   "apoio": "ddfaedff5991",
+   "credito": "f58e173d34bc",
+   "enunciado": "c4ed8c4ee05c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Conforme o texto, o compromisso assumido pelo Br",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q72": {
+   "alternativas": [
+    "66d64ccd44d4",
+    "17dd2d3594ff",
+    "2a6aa0938a66",
+    "b2d67d82e96b",
+    "a723d5498a14"
+   ],
+   "apoio": "eaace3c20756",
+   "credito": "c37c65ac428f",
+   "enunciado": "e3d25cbf5999",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A realidade abordada no texto indica a necessida",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q73": {
+   "alternativas": [
+    "8fd070c629df",
+    "8dec1815928e",
+    "f1b571b5b94f",
+    "6c177481961e",
+    "608a27f9748c"
+   ],
+   "apoio": "a7416e296c87",
+   "credito": "50238a85b2fc",
+   "enunciado": "0363e155fac3",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No início do século XX, a incorporação da técnic",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q74": {
+   "alternativas": [
+    "70a07fe37eb8",
+    "3945c704a5b3",
+    "53b882718aa8",
+    "c0e9daf67bbe",
+    "0125023f18e8"
+   ],
+   "apoio": "244556f8b4a2",
+   "credito": "f19641d307d8",
+   "enunciado": "41171332b2f0",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O reconhecimento da festa descrita no texto, com",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q75": {
+   "alternativas": [
+    "d51a689a5987",
+    "693bf0d32ecd",
+    "0d90f494bb4e",
+    "924a1df2b2ee",
+    "556f08fa8b98"
+   ],
+   "apoio": "57b2cec274b0",
+   "credito": "730ca40ecbbc",
+   "enunciado": "d29057a5b20b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No período iluminista, os espaços sociais mencio",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q76": {
+   "alternativas": [
+    "3e96f96eb25b",
+    "87c43ff1187f",
+    "a752ed10c49f",
+    "49899487b6d4",
+    "301aa582c26f"
+   ],
+   "apoio": "82332538d1af",
+   "credito": "6cc8d987968c",
+   "enunciado": "a1cb780867e3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual elemento da cultura contemporânea se relaci",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q77": {
+   "alternativas": [
+    "5df80c7472d9",
+    "f99064134e17",
+    "f3dec5b736fb",
+    "b0d36d57ea78",
+    "c8cd93f108ec"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8c84bc59de3d",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q77-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "VIEIRA, A. P. L. O Departamento de Imprensa e Pr",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q77-apoio-01.jpg",
+     28,
+     [
+      105.6,
+      120.0,
+      532.0,
+      292.6
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q78": {
+   "alternativas": [
+    "6f442d48c014",
+    "ecf5119cfd1f",
+    "323e81773f8e",
+    "4750de239ef7",
+    "a96d99375b12"
+   ],
+   "apoio": "554b59e764cd",
+   "credito": "e48005c3d018",
+   "enunciado": "cae34e6e0ba2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O princípio ético apresentado no texto, como ele",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q79": {
+   "alternativas": [
+    "c32fa779fff7",
+    "225a3c9401a3",
+    "f07263d5b862",
+    "35859f99130e",
+    "e450776e25cc"
+   ],
+   "apoio": "39e38b590abd",
+   "credito": "0a928db72222",
+   "enunciado": "86e17651678c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A eliminação, para os refugiados, do tipo de fro",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q80": {
+   "alternativas": [
+    "2598fbc228b8",
+    "68500f22272a",
+    "823bc805dab6",
+    "641bbcb92a93",
+    "cf1efcfa3cdc"
+   ],
+   "apoio": "4069fbf36984",
+   "credito": "87dcd7e6d434",
+   "enunciado": "15fd6dff22c4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Embora situados em continentes diferentes com pr",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q81": {
+   "alternativas": [
+    "ff248f6dde88",
+    "e61a2ce85f2f",
+    "36f2cecd91c7",
+    "f2a3a2a3049e",
+    "a21a027f05b6"
+   ],
+   "apoio": "12e41d2329b4",
+   "credito": "db642ab737c6",
+   "enunciado": "11f9cf413c9a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na esfera de ação do Estado, com a Constituição ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q82": {
+   "alternativas": [
+    "9c3c6c806646",
+    "43b636e45d25",
+    "d5d4c7e60b4c",
+    "2c42df0c09be",
+    "a0379c3f76a1"
+   ],
+   "apoio": "048eec9b1cad",
+   "credito": "ad4bb3e35699",
+   "enunciado": "a261c4ccf830",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual tipo de raciocínio corresponde ao padrão de",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q83": {
+   "alternativas": [
+    "a23428a1a319",
+    "1118c6a31386",
+    "aa2de69d60f9",
+    "a2e7dc5398ed",
+    "3b13289bca86"
+   ],
+   "apoio": "3fb0e94e9e56",
+   "credito": "3089ce20344d",
+   "enunciado": "34c41f271082",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, a cartografia é apresentada como um in",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q84": {
+   "alternativas": [
+    "e438a0e8081d",
+    "21ad55245ec4",
+    "38f6cd3533c2",
+    "ee252fcb4e78",
+    "b8c555e2cce9"
+   ],
+   "apoio": "bf07ab385c00",
+   "credito": "56bc2b491709",
+   "enunciado": "1826097e9159",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como parte do patrimônio cultural da Amazônia, o",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q85": {
+   "alternativas": [
+    "0e5dfc8e1883",
+    "40eacd091d6f",
+    "22fba6ee5c82",
+    "b88c8632262d",
+    "534c0a897c02"
+   ],
+   "apoio": "3b39991c1dd8",
+   "credito": "25035b72ce85",
+   "enunciado": "c17bbb4adb6d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual problema de âmbito nacional argentino o mov",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q86": {
+   "alternativas": [
+    "57ff8403e863",
+    "2cbce509dee1",
+    "d6658ba59e1b",
+    "e0ad10246594",
+    "129d36b8bd02"
+   ],
+   "apoio": "160a15868bbb",
+   "credito": "92e67bcf2ccf",
+   "enunciado": "a11ee9104b6b",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q86-apoio-01.jpg",
+    "/questoes/2024/regular/dia1/enem-2024-regular-d1-q86-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A comparação entre as imagens de satélite indica",
+   "recortes": [
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q86-apoio-01.jpg",
+     30,
+     [
+      324.1,
+      135.7,
+      570.8,
+      281.9
+     ]
+    ],
+    [
+     "/questoes/2024/regular/dia1/enem-2024-regular-d1-q86-apoio-02.jpg",
+     30,
+     [
+      324.1,
+      320.8,
+      570.8,
+      467.0
+     ]
+    ]
+   ]
+  },
+  "enem-2024-regular-d1-q87": {
+   "alternativas": [
+    "d2de220d4093",
+    "f8106f7a3f3f",
+    "ac5c09384a02",
+    "ce2dddff2f38",
+    "24f332ccbe67"
+   ],
+   "apoio": "0c6a10c75c8c",
+   "credito": "db50c20c8f36",
+   "enunciado": "0a2767943158",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O que sustenta o exercício do poder, conforme a ",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q88": {
+   "alternativas": [
+    "a5e9abdbfd32",
+    "d61d049df4aa",
+    "548ffec9146e",
+    "65d390344645",
+    "821f6a164e89"
+   ],
+   "apoio": "d8055469537b",
+   "credito": "93301f6f1e6e",
+   "enunciado": "dbf6b94c68d8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual medida atenua os problemas abordados no tex",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q89": {
+   "alternativas": [
+    "5cbda12256a9",
+    "fd0a63665fb7",
+    "84158537671f",
+    "dcacd7680982",
+    "681d1db4d2fc"
+   ],
+   "apoio": "e7cd3f5e4031",
+   "credito": "3343e9bc6139",
+   "enunciado": "2c08262d7a1c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A composição e o funcionamento do organismo inte",
+   "recortes": []
+  },
+  "enem-2024-regular-d1-q90": {
+   "alternativas": [
+    "8f198dcae616",
+    "1711cb0c8100",
+    "d5908a009072",
+    "9bcf1353c3a9",
+    "d48bab1c9b5d"
+   ],
+   "apoio": "0ba4a82b7bba",
+   "credito": "2c40ae335fff",
+   "enunciado": "203447225acd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta uma contradição interna do cap",
+   "recortes": []
+  }
+ }
+}
