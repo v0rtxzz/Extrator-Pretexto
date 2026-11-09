@@ -63,7 +63,7 @@ RE_AREA = re.compile(
     r'LINGUAGENS,\s*C[OÓ]DIGOS\s+E\s+SUAS\s+TECNOLOGIAS(?:\s+E\s+REDA[ÇC]Ã?O)?|'
     r'CI[ÊE]NCIAS\s+(?:HUMANAS|DA\s+NATUREZA)\s+E\s+SUAS\s+TECNOLOGIAS|'
     r'MATEM[ÁA]TICA\s+E\s+SUAS\s+TECNOLOGIAS|'
-    r'PROPOSTA\s+DE\s+REDA[ÇC]Ã?O'
+    r'PROPOSTA\s+DE\s+REDA[ÇC]Ã?O|TRANSCREVA\s+A\s+SUA\s+REDA[ÇC][ÃA]O'
     r')',
     re.I,
 )
@@ -1093,6 +1093,9 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     if P.ignorar_pontinhos:                    # pontinho vetorial (3 pt) perto do texto não é sinal de raiz
         curvas = [o for o in curvas if max(o['x1'] - o['x0'], o['bottom'] - o['top']) >= 4]
     barras = [o for o in list(reg.lines) + list(reg.rects) if _fina_horizontal(o) and not excl(o)]
+    if P.barras_em_curva:                      # traço de fração desenhado como curva fina (2020)
+        barras += [o for o in reg.curves if not excl(o) and (o['bottom'] - o['top']) < 1.0
+                   and (o['x1'] - o['x0']) > 3 * (o['bottom'] - o['top']) and (o['x1'] - o['x0']) > 3]
     if P.letra_em_circulo:                     # letra da alternativa dentro de um círculo (digital): não é radical
         letras = [c for c in chars if c['text'] in 'ABCDE']
         curvas = [o for o in curvas if not (abs((o['x1'] - o['x0']) - (o['bottom'] - o['top'])) < 2.5
@@ -1169,7 +1172,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             item['ilegivel'] = True
         if P.lixo_como_imagem and not letra and _parece_lixo(item['texto']):
             item['ilegivel'] = True                  # rótulos de gráfico lidos fora de ordem: recorta como imagem
-        m = RE_ROTULO.match(txt)
+        m = RE_ROTULO.match(re.sub(r'(?<=Quest)[^A-Za-zÀ-ÿ\s]+(?=[ãa]o)', '', txt, flags=re.I)
+                            if P.barras_em_curva else txt)            # "Quest+ão 165": glifo perdido no rótulo
         if m:
             negrito = any(k in cs[0]['fontname'] for k in ('Bold', 'Black', 'Heavy', 'Semibold'))
             if not m.group(2).strip():
@@ -1580,7 +1584,18 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
     compartilhados = []
     idioma = idioma_forcado
     materia = None
-    so_marcador = P.so_letra_marcada and sum(1 for i in fluxo if i.get('alt_marcador')) >= 20
+    # letras em fonte de marcador que ainda virão na mesma questão (até o próximo rótulo): um "A" em fonte comum
+    # antes de um "A" de marcador é rótulo de figura, não alternativa
+    marcadas_adiante, vindo = [set()] * len(fluxo), set()
+    if P.so_letra_marcada:
+        marcadas_adiante = [None] * len(fluxo)
+        for k in range(len(fluxo) - 1, -1, -1):
+            marcadas_adiante[k] = set(vindo)
+            it_k = fluxo[k]
+            if it_k.get('rotulo'):
+                vindo = set()
+            elif it_k.get('alt_marcador') and it_k.get('alt'):
+                vindo.add(it_k['alt'])
     tams = [i['tam'] for i in fluxo if i['tipo'] == 'linha' and i.get('tam')]
     tam_corpo = statistics.median(tams) if tams else 10
 
@@ -1588,7 +1603,7 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
         nonlocal atual
         atual = None
 
-    for it in fluxo:
+    for k_it, it in enumerate(fluxo):
         if it['tipo'] == 'linha':
             t = it['texto']
             area = RE_AREA.search(t)
@@ -1658,13 +1673,13 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 marcador = it.get('alt')
                 if marcador is None and P.indice_nao_e_alternativa and it.get('tam', tam_corpo) < tam_corpo * 0.85:
                     pass                                     # "A" / "A B" em tamanho de índice (k_A, p_B): não é letra
-                elif marcador is None and so_marcador:
-                    pass                                     # prova com letras em fonte de marcador: "A" solto é rótulo
                 elif marcador is None:
                     match_alt = RE_ALT_REGEX.match(t)
                     marcador = (match_alt.group(1) if match_alt and
                                 (not alt_por_fonte or t.strip() == esp or t[1:2] in ').:-' or
                                  RE_ALT_COMPACTA.match(t)) else None)
+                    if marcador and marcador in marcadas_adiante[k_it]:
+                        marcador = None                      # rótulo de figura: a alternativa de verdade vem depois
                 if P.usa_v2025:                                 # motor v2025: só a próxima letra da sequência
                     aceita = bool(esp) and marcador == esp
                 else:                                    # v2024+: letra repetida é texto; grade A D / B E / C vale fora de ordem
@@ -1717,6 +1732,14 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
     return questoes
 
 
+def _formula_solta_como_imagem(pdf, q):
+    """Alternativas cuja fórmula se espalhou em linhas (um operador "−" sozinho numa linha, frações empilhadas): o
+    texto perderia o operador. As 5 alternativas viram imagem pelo recorte da faixa de cada letra."""
+    if any(re.fullmatch(r'[−\-+×=÷·±]', ln['texto'].strip()) for a in q['alts'] for ln in a['linhas'][1:]
+           if ln.get('tipo') == 'linha'):
+        _completar_alternativas_desenhadas(pdf, q, forcar=True)
+
+
 def _tirar_rotulos_das_figuras(q):
     """Quando TODAS as alternativas têm figura, linhas curtas (até 3 palavras) a menos de 40 pt de alguma dessas
     figuras são rótulos do desenho ("Início", "escada", "Sala"), não texto da alternativa. A letra é preservada."""
@@ -1746,14 +1769,14 @@ def _texto_fraco(t):
     return not re.search(r'[A-Za-zÀ-ÿ]{4,}', t or '')
 
 
-def _completar_alternativas_desenhadas(pdf, q):
+def _completar_alternativas_desenhadas(pdf, q, forcar=False):
     """Alternativas desenhadas (gráfico, fórmula em contorno, fonte com posição errada): se alguma das 5 está vazia
     e nenhuma tem palavras de verdade, recorta cada alternativa como imagem a partir da posição da sua letra. Letras
     na mesma coluna formam uma pilha; numa grade (A D / B E / C) cada coluna de letras é tratada à parte. Os blocos
     de tinta da imagem renderizada vão para a letra mais próxima; recorte em branco cancela tudo."""
     alts = q['alts']
-    if len(alts) != 5 or not any(not texto_alternativa(a) and not a.get('figuras') for a in alts) \
-            or not all(_texto_fraco(texto_alternativa(a)) for a in alts):
+    if len(alts) != 5 or (not forcar and (not any(not texto_alternativa(a) and not a.get('figuras') for a in alts)
+                                          or not all(_texto_fraco(texto_alternativa(a)) for a in alts))):
         return
     linhas = [a['linhas'][0] if a['linhas'] else None for a in alts]
     if any(ln is None or ln.get('tipo') != 'linha' for ln in linhas) or len({ln['pg'] for ln in linhas}) != 1:
@@ -1779,6 +1802,10 @@ def _completar_alternativas_desenhadas(pdf, q):
         passos = [ls[k + 1]['top'] - ls[k]['top'] for k in range(len(ls) - 1)]
         passo = max(10.0, min(passos)) if passos else 40.0
         t = ls[0]['top'] - passo * 0.6
+        acima = [i['bottom'] for i in q['itens'] if i.get('pg') == ls[0]['pg'] and i['bottom'] <= ls[0]['top'] + 1
+                 and i.get('x1', 0) > x0 and i.get('x0', 0) < x1]
+        if acima:                                       # não sobe além do fim do enunciado
+            t = max(t, max(acima) + 1)
         b = ls[-1]['bottom'] + (passo * 1.5 if passos else 80)
         img = pg.crop((x0, t, x1, b), strict=False).to_image(resolution=72 * escala).original.convert('L')
         w, h = img.size
@@ -2404,6 +2431,7 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
                 else:
                     _completar_alternativas_desenhadas(pdf, q)
                 _tirar_rotulos_das_figuras(q)
+                _formula_solta_como_imagem(pdf, q)
         log(f'Questões reconhecidas no PDF: {len(questoes)}.')
 
         destino = Path(args.saida_img) / str(ano) / categoria / f'dia{dia}'
