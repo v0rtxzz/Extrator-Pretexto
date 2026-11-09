@@ -86,8 +86,8 @@ def sem_gabarito(pasta, ano):
 
 def escrever_consolidado(resultados, faltando_gab, rotulo):
     PASTA_REL.mkdir(exist_ok=True)
-    nome = 'CONSOLIDADO' if rotulo == 'dry-run' else 'GRAVACAO'     # a gravação não apaga o relatório da validação
-    (PASTA_REL / f'{nome}.json').write_text(
+    arq_rel = 'CONSOLIDADO' if rotulo == 'dry-run' else 'GRAVACAO'  # a gravação não apaga o relatório da validação
+    (PASTA_REL / f'{arq_rel}.json').write_text(
         json.dumps({'etapa': rotulo, 'provas': resultados, 'sem_gabarito': faltando_gab}, ensure_ascii=False, indent=1),
         encoding='utf-8')
     linhas = [f'# Relatório consolidado da extração ({rotulo})', '',
@@ -134,7 +134,7 @@ def escrever_consolidado(resultados, faltando_gab, rotulo):
         for qid, av in sorted(r['avisos'].items()):
             linhas.append(f'- `{qid}`: {"; ".join(av)}')
         linhas.append('')
-    (PASTA_REL / f'{nome}.md').write_text('\n'.join(linhas), encoding='utf-8')
+    (PASTA_REL / f'{arq_rel}.md').write_text('\n'.join(linhas), encoding='utf-8')
 
 
 def main():

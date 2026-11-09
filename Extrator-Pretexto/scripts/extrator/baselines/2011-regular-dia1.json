@@ -1,0 +1,1981 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2011",
+ "perfil": "motor v2011",
+ "questoes": {
+  "enem-2011-regular-d1-q01": {
+   "alternativas": [
+    "2f99ed4f915b",
+    "efa30b7bd510",
+    "1a754b6aa8a7",
+    "ac49c0556c9f",
+    "b2908a24874a"
+   ],
+   "apoio": "726301b38bcf",
+   "credito": "3be9988c7207",
+   "enunciado": "e1eb8e6389f3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando os movimentos políticos mencionados",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q02": {
+   "alternativas": [
+    "55a6f78712b0",
+    "7018796bdfc9",
+    "c1e5eb3b376d",
+    "f9f034e2b9c5",
+    "acfbd6edb9ab"
+   ],
+   "apoio": "7560ddf1f144",
+   "credito": "1c303928d1b0",
+   "enunciado": "a9d306a288bf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O distanciamento entre “reconhecer” e “cumprir” ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q03": {
+   "alternativas": [
+    "2995bbf9e0cd",
+    "e281de38338a",
+    "0c153717aee8",
+    "fdf7c295a74e",
+    "b7baf4a9f49a"
+   ],
+   "apoio": "d80db97e1bbd",
+   "credito": "d3401180162e",
+   "enunciado": "2a05b8baeeda",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q03-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O movimento representado na imagem, do início do",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q03-apoio-01.jpg",
+     2,
+     [
+      319.7,
+      342.9,
+      567.8,
+      523.8
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q04": {
+   "alternativas": [
+    "e1b89c26f466",
+    "87010fd25931",
+    "3c35fbbb000c",
+    "d992372481ab",
+    "8eb30e196a4a"
+   ],
+   "apoio": "df434e078238",
+   "credito": "fb0ede289d2d",
+   "enunciado": "e8030c8e6e81",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um processo econômico que tem contribuído na atu",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q05": {
+   "alternativas": [
+    "bf9e1f496ecc",
+    "481ce37e02b6",
+    "ce4f693492c0",
+    "7215b093a282",
+    "9a33cf34b53b"
+   ],
+   "apoio": "1cf1b2c8256a",
+   "credito": "d5fabc3388d6",
+   "enunciado": "1f7fbf9c17ac",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto trata da ocupação de uma parcela do terr",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q06": {
+   "alternativas": [
+    "b2220a8f8929",
+    "5f8d8f81ecc7",
+    "d49968bd3237",
+    "d5527923e18f",
+    "7224d78a13ad"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "c221b3eeeeb2",
+   "enunciado": "755f2845ee5f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q06-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico relaciona diversas variáveis ao proces",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q06-apoio-01.jpg",
+     3,
+     [
+      150.6,
+      421.8,
+      472.0,
+      657.7
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q07": {
+   "alternativas": [
+    "127b8e45fd4a",
+    "e7bc7d1cbede",
+    "b2193646c065",
+    "7cdc3a5fe351",
+    "9e3f0906417a"
+   ],
+   "apoio": "03fca3b7968d",
+   "credito": "7c8df7586713",
+   "enunciado": "ed07bc0bea98",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A partir do texto, a melhoria agronômica das sem",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q08": {
+   "alternativas": [
+    "41ab98b05447",
+    "5dab62c88adf",
+    "98c9f9210b31",
+    "a588d992df9f",
+    "8b98ff99ade9"
+   ],
+   "apoio": "2c1b03f081d5",
+   "credito": "891d84e51f16",
+   "enunciado": "c8debb5d0e2b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A preservação do solo, principalmente em áreas d",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q09": {
+   "alternativas": [
+    "b4422b610a4f",
+    "6e16c94c02dd",
+    "0a2baf1f8764",
+    "0a6d67992309",
+    "bc6ac83b4673"
+   ],
+   "apoio": "38646abe75f0",
+   "credito": "cc56ba5e0173",
+   "enunciado": "b5480edf60f0",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto exemplifica uma importante alteração soc",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q10": {
+   "alternativas": [
+    "753e1b531fa1",
+    "a642c804b27f",
+    "48439ea83fac",
+    "eed5dcb1258a",
+    "6356161dc412"
+   ],
+   "apoio": "2744a15197c4",
+   "credito": "98d9ec02e063",
+   "enunciado": "2b96fc4dbc0c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A população de uma metrópole brasileira que vive",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q11": {
+   "alternativas": [
+    "c9bb373dfd01",
+    "740ff1b9d5d5",
+    "551a94af110b",
+    "adcc0116dc9a",
+    "51abbd7bbc23"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "7d17d4a86080",
+   "enunciado": "ce0340bea492",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q11-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A imagem retrata a araucária, árvore que faz par",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q11-apoio-01.jpg",
+     5,
+     [
+      60.4,
+      111.2,
+      308.4,
+      294.3
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q12": {
+   "alternativas": [
+    "3fbce0f9f36b",
+    "60c1664c7b2d",
+    "1e8067a342d9",
+    "1cd78f794aa4",
+    "23edf6e9bc7b"
+   ],
+   "apoio": "a918b74a668c",
+   "credito": "40845a0f2208",
+   "enunciado": "acb1bf53bda4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trecho da música faz referência a uma importan",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q13": {
+   "alternativas": [
+    "ea4c0ed6d498",
+    "47925f8e8f9e",
+    "5f0015307854",
+    "625914779519",
+    "6592a0019e86"
+   ],
+   "apoio": "e70fec8cee81",
+   "credito": "cacff0d40713",
+   "enunciado": "6cdfd03b8804",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A postura consumista de nossa sociedade indica a",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q14": {
+   "alternativas": [
+    "92e177bf48dd",
+    "f82e88f6df37",
+    "65a5ea98791b",
+    "e927d519876b",
+    "ab7d62ef7b77"
+   ],
+   "apoio": "3d0960fcf931",
+   "credito": "98a88721e787",
+   "enunciado": "6f8602f7fda4",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q14-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O mapa procura representar a lógica espacial do ",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q14-apoio-01.jpg",
+     6,
+     [
+      59.2,
+      121.3,
+      309.4,
+      545.5
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q15": {
+   "alternativas": [
+    "a0b0fdad862b",
+    "5844710dba50",
+    "5d7d8c99d3be",
+    "fef32e167986",
+    "6ceff3b9871d"
+   ],
+   "apoio": "d399bc0f3c11",
+   "credito": "03c5948964cb",
+   "enunciado": "4f4fa127388d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto aponta para um fenômeno atmosférico caus",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q16": {
+   "alternativas": [
+    "c072cc555158",
+    "379de7405f01",
+    "25b885d03138",
+    "b37da5ba2786",
+    "afca1df4099b"
+   ],
+   "apoio": "6e247c7b00b0",
+   "credito": "4edab391d5b0",
+   "enunciado": "91e7e3e5a5fd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto descrito, as sociedades vivenciam mu",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q17": {
+   "alternativas": [
+    "cd00c40793e6",
+    "c83759ef1360",
+    "aa0495fad839",
+    "4b0e37f487c7",
+    "a6abf07fa084"
+   ],
+   "apoio": "5da180f261a8",
+   "credito": "83474edda07b",
+   "enunciado": "dc09eb4977d6",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O coronelismo, fenômeno político da Primeira Rep",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q18": {
+   "alternativas": [
+    "09bf5d8f73a4",
+    "8f0fbee693a6",
+    "6f73121c7519",
+    "b789b5960f94",
+    "60e82a51f8e2"
+   ],
+   "apoio": "5a00e518ccfc",
+   "credito": "fd242b540041",
+   "enunciado": "8ac2a9dac0f5",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto, os movimentos sociais contribue",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q19": {
+   "alternativas": [
+    "7a02dfd66406",
+    "f0d750f081b1",
+    "858ff9b2903e",
+    "34f8c5e6c7c2",
+    "71ca5e329cd3"
+   ],
+   "apoio": "d7f1c1473b1e",
+   "credito": "5db37dfc9ea5",
+   "enunciado": "e438fd14e085",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A legislação espelha os conflitos políticos e so",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q20": {
+   "alternativas": [
+    "0eb5fad5d3bb",
+    "dafb2d30d712",
+    "c4293f122d55",
+    "2d3aa8cc73a1",
+    "e324558bb2ca"
+   ],
+   "apoio": "8545bcd51dac",
+   "credito": "31d983aae2c6",
+   "enunciado": "afbc57b4eaf3",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto destaca a questão da tortura no país, ap",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q21": {
+   "alternativas": [
+    "33d03696d89a",
+    "e8730074925b",
+    "1b49841a8120",
+    "777f5acfae01",
+    "faa9ebb5251b"
+   ],
+   "apoio": "f57aa850cf56",
+   "credito": "1490c93bed69",
+   "enunciado": "1e1455b61874",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Partindo da perspectiva de democracia apresentad",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q22": {
+   "alternativas": [
+    "d188180baf37",
+    "0e9933d9bd4f",
+    "8ff6837faa3c",
+    "2eeca1fc09dd",
+    "60d78309aee2"
+   ],
+   "apoio": "eda4983adeeb",
+   "credito": "e8c292b24532",
+   "enunciado": "fd8ed71e826c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para a caracterização do processo político duran",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q23": {
+   "alternativas": [
+    "0c418486bc4b",
+    "923938045434",
+    "495a4d6daeaf",
+    "74dd6beea9e5",
+    "d4f9ea17a52e"
+   ],
+   "apoio": "7aa6228cb5a7",
+   "credito": "6be1c5e1deed",
+   "enunciado": "5dba9b158733",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto trata do aparato técnico-científico e su",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q24": {
+   "alternativas": [
+    "ef4ccd185ee9",
+    "43bec443d152",
+    "55e1aea0b241",
+    "e6df78621179",
+    "d3af40ecec27"
+   ],
+   "apoio": "6cd14589b475",
+   "credito": "d9a3ca9d8110",
+   "enunciado": "14561380e386",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A utilização de novas tecnologias tem causado in",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q25": {
+   "alternativas": [
+    "f607e5419dd6",
+    "efdd20e2e6d3",
+    "ffc3e54b81aa",
+    "e86568b63168",
+    "651249175005"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "53e5622e18b0",
+   "enunciado": "088d779aee04",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q25-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A análise da tabela permite identificar um inter",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q25-apoio-01.jpg",
+     9,
+     [
+      319.7,
+      120.1,
+      567.8,
+      283.4
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q26": {
+   "alternativas": [
+    "1b4e0355a816",
+    "9f72a138ccfb",
+    "ecfdc3679997",
+    "5639ee8c809d",
+    "9299bdf097c4"
+   ],
+   "apoio": "04152292c5e1",
+   "credito": "bdea8dae612e",
+   "enunciado": "633df2ad374c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto defende que a consolidação de uma determ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q27": {
+   "alternativas": [
+    "65b02f2ca6e4",
+    "bd405cb88ea5",
+    "546e7fde3731",
+    "3623b34f5ff6",
+    "8431bed2bbaa"
+   ],
+   "apoio": "9cda5fd9658b",
+   "credito": "f419a9d20af9",
+   "enunciado": "36368145df91",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto indica que existe uma significativa prod",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q28": {
+   "alternativas": [
+    "eb7800f7e6b9",
+    "f385aa61cc50",
+    "8f6263ac80b8",
+    "38abe3815bff",
+    "b5b666df4669"
+   ],
+   "apoio": "147d6436f590",
+   "credito": "23542b3a337f",
+   "enunciado": "4870e7dc982b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A situação das favelas no país reporta a graves ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q29": {
+   "alternativas": [
+    "dc2825718e6b",
+    "0e9ab10350ae",
+    "e0738ed68fff",
+    "2f9b94d8bef2",
+    "008899d722ce"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "64d0658f3e92",
+   "enunciado": "555f41ce8630",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q29-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Que aspecto histórico da escravidão no Brasil do",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q29-apoio-01.jpg",
+     10,
+     [
+      360.9,
+      120.5,
+      525.9,
+      377.1
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q30": {
+   "alternativas": [
+    "a2384652d3c6",
+    "12fe752ab49f",
+    "fd656c4e06b4",
+    "8c4b21b16712",
+    "40d2c8937ade"
+   ],
+   "apoio": "347aaa1fdc17",
+   "credito": "f5a1b15a47bc",
+   "enunciado": "1420ecd67320",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta três tipos de poder que podem ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q31": {
+   "alternativas": [
+    "851fa263b3c6",
+    "7e85ec11dce2",
+    "181c3682ec3d",
+    "bd37ac4d7c6c",
+    "b873d939f79c"
+   ],
+   "apoio": "597a64f95f0e",
+   "credito": "21a759b3d19f",
+   "enunciado": "83a9cf60b168",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O viajante francês Jean de Léry (1534-1611) repr",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q32": {
+   "alternativas": [
+    "a15f3de9ef91",
+    "946eb59f26aa",
+    "aaf4b1a117a5",
+    "a38f9ee75f66",
+    "63b72df48ca5"
+   ],
+   "apoio": "06ac614ede1a",
+   "credito": "0ccf67af1b7a",
+   "enunciado": "eba250a2ee44",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A referida lei representa um avanço não só para ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q33": {
+   "alternativas": [
+    "57db36889a87",
+    "445e1c77763a",
+    "8dcc2eba67cc",
+    "efc2f51bcefc",
+    "2b1e080332b2"
+   ],
+   "apoio": "b3b4b021a8cb",
+   "credito": "83c3077194f9",
+   "enunciado": "4f97de45e6f0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando o conceito do Antigo Sistema Coloni",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q34": {
+   "alternativas": [
+    "1a6139cc4aaa",
+    "3862afa00001",
+    "8b967eb896a6",
+    "539fdfb74157",
+    "eed70457e4fb"
+   ],
+   "apoio": "566f03c14db6",
+   "credito": "342e013def77",
+   "enunciado": "d009e70ad77e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O temor do radicalismo da luta negra no Haiti e ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q35": {
+   "alternativas": [
+    "beabd3416d2e",
+    "740afaf0d177",
+    "6f32d8dfb37e",
+    "4e3c20217072",
+    "80c5220823ce"
+   ],
+   "apoio": "69db11a1cd67",
+   "credito": "3fb49444a373",
+   "enunciado": "487cbb98e0bf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As práticas e os usos das muralhas sofreram impo",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q36": {
+   "alternativas": [
+    "0f59a4fb8ad6",
+    "f491e32282c4",
+    "a540f8d18115",
+    "58e424b1d8ba",
+    "5b31164dcce6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "471629f9305c",
+   "enunciado": "99b607ef1108",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q36-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma explicação de caráter histórico para o perce",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q36-apoio-01.jpg",
+     12,
+     [
+      318.6,
+      117.1,
+      568.7,
+      395.0
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q37": {
+   "alternativas": [
+    "ff4eb7b1a056",
+    "8b279a8277fe",
+    "01b1c5d0a577",
+    "c623b1064d2c",
+    "daf78c645e58"
+   ],
+   "apoio": "a0d2c57899ff",
+   "credito": "29a34a12a400",
+   "enunciado": "990d397c9488",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto aborda duas questões, uma ambiental e ou",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q38": {
+   "alternativas": [
+    "073d7cb511ee",
+    "8b10a392782b",
+    "69f1d015be0e",
+    "ed99ae30bc3d",
+    "1388c86731f4"
+   ],
+   "apoio": "e07186cedc1a",
+   "credito": "ccd9c7df7540",
+   "enunciado": "134fda49c216",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta um espírito de época que afeto",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q39": {
+   "alternativas": [
+    "154faad06749",
+    "b3ba811e0b96",
+    "c01e865016aa",
+    "aec40e150557",
+    "5d647d1ad858"
+   ],
+   "apoio": "3096b0e2edf4",
+   "credito": "33d3af05f5ac",
+   "enunciado": "c598d8018425",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A presença econômica da China em vastas áreas do",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q40": {
+   "alternativas": [
+    "efcac6ca3147",
+    "ff4f1fe3a179",
+    "4604462ad0ae",
+    "4c567fa4bf46",
+    "35d9a151eaeb"
+   ],
+   "apoio": "c41c1f7345bb",
+   "credito": "5a180d0aa922",
+   "enunciado": "362657413955",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A postura dos clérigos e do papa Clemente VIII d",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q41": {
+   "alternativas": [
+    "51caced81a17",
+    "ce3c50d0fbd7",
+    "026b9bcd58f8",
+    "ae8d62c51dd5",
+    "589f9d36f5be"
+   ],
+   "apoio": "795165bd563c",
+   "credito": "b11ea11e6255",
+   "enunciado": "e5982a9472f7",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nos anos 1960 eram comuns as disputas pelo signi",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q42": {
+   "alternativas": [
+    "9e068b3b8937",
+    "ca5382725b35",
+    "4b2f0e6d10bd",
+    "b8ca43cd5e23",
+    "e3882920a74d"
+   ],
+   "apoio": "2bb7b4afa331",
+   "credito": "cd95f881fde9",
+   "enunciado": "ea02082cca10",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No início da década de 1960, enquanto vários set",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q43": {
+   "alternativas": [
+    "4bae78104244",
+    "d6f4d8eae42d",
+    "03ab14be7c93",
+    "03ff245285af",
+    "4e0b4bba239c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "a6509e260275",
+   "enunciado": "3bb9b19a1784",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q43-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A imagem representa as manifestações nas ruas da",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q43-apoio-01.jpg",
+     14,
+     [
+      319.7,
+      130.2,
+      567.8,
+      297.9
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q44": {
+   "alternativas": [
+    "06df62f8653c",
+    "963d5f9df115",
+    "1189b88031a8",
+    "b4f2dd90c610",
+    "40c0ca7574bd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "720870330850",
+   "enunciado": "f0b195dad995",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q44-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O organograma apresenta os diversos atores que i",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q44-apoio-01.jpg",
+     15,
+     [
+      59.2,
+      126.2,
+      309.3,
+      293.0
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q45": {
+   "alternativas": [
+    "e3cd05880979",
+    "2123fc364583",
+    "a68dd3cb2135",
+    "6f10bb64998e",
+    "1144e92133d2"
+   ],
+   "apoio": "80495abcd3f1",
+   "credito": "91cf8ee14aff",
+   "enunciado": "5ab21bd997b3",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A mobilidade populacional da segunda metade do s",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q46": {
+   "alternativas": [
+    "a27131c93a7f",
+    "174c1bed6c3b",
+    "c9d11cdd36b0",
+    "1b44b4a239ee",
+    "c2e73974d82a"
+   ],
+   "apoio": "fe52858dfc06",
+   "credito": "1cb50d724ffa",
+   "enunciado": "c4aa7a47575d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q46-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A explicação para a necessidade do uso da engren",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q46-apoio-01.png",
+     16,
+     [
+      62.4,
+      366.5,
+      306.4,
+      517.3
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q47": {
+   "alternativas": [
+    "90d1fc55de39",
+    "0853aea282e9",
+    "6bb849a91540",
+    "718ee034b748",
+    "7a23eb044624"
+   ],
+   "apoio": "b96142cd0e39",
+   "credito": "95683f91eab5",
+   "enunciado": "0b09a12c2f87",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q47-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Suponha que, em cena anterior à apresentada, o h",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q47-apoio-01.jpg",
+     16,
+     [
+      326.7,
+      151.1,
+      560.8,
+      314.8
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q48": {
+   "alternativas": [
+    "33d6093b2bdd",
+    "8e1bd1da1e41",
+    "8637552cbe1e",
+    "ab422279aa10",
+    "3f8207842c3e"
+   ],
+   "apoio": "cabd98e01a61",
+   "credito": "f372e5cc65f2",
+   "enunciado": "5e3ff689ffca",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A plasmaferese é importante, pois, se o animal f",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q49": {
+   "alternativas": [
+    "9432a92cb0d0",
+    "cc71fb2634c3",
+    "687e93222655",
+    "75f968149f67",
+    "e8971f8687d6"
+   ],
+   "apoio": "80df86087cdb",
+   "credito": "a35cb7ccd559",
+   "enunciado": "062b2800de1e",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q49-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Relacionando os sintomas apresentados pelo pacie",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q49-apoio-01.png",
+     17,
+     [
+      60.4,
+      186.4,
+      307.9,
+      273.6
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q50": {
+   "alternativas": [
+    "95149d396ff0",
+    "2fae4c409ff7",
+    "d2a69fe50040",
+    "0988d7c207f5",
+    "b33a3b11ac35"
+   ],
+   "apoio": "82c815fd26f3",
+   "credito": "db0a98405b17",
+   "enunciado": "a19892378260",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q50-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Neste contexto, qual dos combustíveis, quando qu",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q50-apoio-01.png",
+     17,
+     [
+      319.7,
+      229.1,
+      566.8,
+      331.1
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q51": {
+   "alternativas": [
+    "d4e3604a815c",
+    "bad80badfedd",
+    "8da822c5e301",
+    "05dcaa651448",
+    "c6b7462695c3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "03848e64227b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para evitar o desmatamento da Mata Atlântica nos",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q52": {
+   "alternativas": [
+    "d3ae75f978df",
+    "a2573a407fe1",
+    "77403ff147b8",
+    "a6d5d57ba37b",
+    "eaaf10aa8c9f"
+   ],
+   "apoio": "8fde7bed38d5",
+   "credito": "962608fff966",
+   "enunciado": "472b80359b12",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O procedimento adequado para tratar a água dos r",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q53": {
+   "alternativas": [
+    "0372bba0db93",
+    "62683cb9c9b1",
+    "b11ab055444f",
+    "8a487d9eb1b3",
+    "dea4e36a258b"
+   ],
+   "apoio": "56b29ccca67c",
+   "credito": "7ff2b281c8c7",
+   "enunciado": "f162321c38ea",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O benefício da utilização dessa vacina é que pes",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q54": {
+   "alternativas": [
+    "03224a39a2c2",
+    "789ae11ec065",
+    "6b7cbef62465",
+    "6c5030fae7f4",
+    "fd114154c6c7"
+   ],
+   "apoio": "66a7ee6c4327",
+   "credito": "8f85b33d989a",
+   "enunciado": "2457380cfa18",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q54-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base no texto e na análise realizada pelo té",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q54-apoio-01.png",
+     18,
+     [
+      319.7,
+      330.8,
+      568.8,
+      425.3
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q55": {
+   "alternativas": [
+    "16f4051d7aac",
+    "5881e31934d8",
+    "64fb4207dda1",
+    "6b4a7b84ce60",
+    "22d91452d95e"
+   ],
+   "apoio": "2f7d79913428",
+   "credito": "148d37977418",
+   "enunciado": "b8870d0b8596",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica presente nas substâncias tóxica",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q56": {
+   "alternativas": [
+    "80e44cef036b",
+    "f4ba6ac30d84",
+    "9f4d6413d5e3",
+    "369f60caf585",
+    "1ef994a4c299"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7244cd04f87c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O manual de funcionamento de um captador de guit",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q57": {
+   "alternativas": [
+    "09e720cf2b1e",
+    "5f434acc0050",
+    "45b7231c559c",
+    "4611efd6d974",
+    "9fbdd0d614df"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6f018cc28d09",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O controle biológico, técnica empregada no comba",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q58": {
+   "alternativas": [
+    "b7a6997cb95e",
+    "99107211f34c",
+    "7ffaa283960c",
+    "c373eef48fe8",
+    "6a2fbe916d31"
+   ],
+   "apoio": "67921804fa3c",
+   "credito": "da274b919bad",
+   "enunciado": "48c5f3bb1247",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q58-apoio-01.jpg",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q58-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A retenção de água na superfície da pele promovi",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q58-apoio-01.jpg",
+     19,
+     [
+      406.9,
+      208.0,
+      480.6,
+      245.3
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q58-apoio-02.jpg",
+     19,
+     [
+      321.8,
+      279.5,
+      565.7,
+      306.7
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q59": {
+   "alternativas": [
+    "ff08851dedf2",
+    "3e2026d53414",
+    "abcd88bda658",
+    "12aa06698a31",
+    "e6735a4308a0"
+   ],
+   "apoio": "2020a6173385",
+   "credito": "dd1da80fbc1d",
+   "enunciado": "2205fe3ba6bc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A destruição do microambiente, no tronco de árvo",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q60": {
+   "alternativas": [
+    "344568c14000",
+    "37c2c64f99b7",
+    "33d8d7167fd0",
+    "564d58d39e99",
+    "24bc449f5976"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f96f1170d0c5",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q60-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um manual de um chuveiro elétrico são encontr",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q60-apoio-01.jpg",
+     20,
+     [
+      60.4,
+      198.9,
+      308.4,
+      348.0
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q61": {
+   "alternativas": [
+    "b0400ebb9ac3",
+    "18e94aabcf99",
+    "4f4711b4271d",
+    "7f9f0b7d676c",
+    "d8f38156da9a"
+   ],
+   "apoio": "b80619597dda",
+   "credito": "7baa041209cf",
+   "enunciado": "183dce0a280a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando a estrutura da molécula de DNA e a ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q62": {
+   "alternativas": [
+    "dd4892422649",
+    "d70bd7bdc64d",
+    "1f1fb367659a",
+    "e91058b15db2",
+    "d6c1ed415414"
+   ],
+   "apoio": "2b6f1aaa48d6",
+   "credito": "19a00f99bc09",
+   "enunciado": "9eaa291e8b29",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q62-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A análise da água de um lago que recebe a descar",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q62-apoio-01.jpg",
+     21,
+     [
+      145.5,
+      190.1,
+      482.7,
+      432.6
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q63": {
+   "alternativas": [
+    "2c42f0b61d31",
+    "9bcb1f903372",
+    "6543e670c6b5",
+    "9ceb09aeacb9",
+    "4b4e466a77cf"
+   ],
+   "apoio": "ba1197b4f830",
+   "credito": "27ef8fdf96a9",
+   "enunciado": "99e461922002",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q63-apoio-01.jpg",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q63-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual a cor da substância que deu origem ao espec",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q63-apoio-01.jpg",
+     22,
+     [
+      109.7,
+      349.7,
+      259.0,
+      471.6
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q63-apoio-02.jpg",
+     22,
+     [
+      62.3,
+      502.4,
+      301.5,
+      604.7
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q64": {
+   "alternativas": [
+    "8aa6b746d685",
+    "b88516400d07",
+    "c9be45631ed1",
+    "7cbb31094ce3",
+    "56959e625ba3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "49faeb14b21b",
+   "enunciado": "e42782c9e175",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q64-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O mapa mostra a área de ocorrência da malária no",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q64-apoio-01.jpg",
+     22,
+     [
+      319.7,
+      133.4,
+      568.7,
+      293.2
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q65": {
+   "alternativas": [
+    "c8d852e8915a",
+    "7883f4898617",
+    "85972c2d64de",
+    "65d2f41c2868",
+    "27e5503d0c02"
+   ],
+   "apoio": "8372b2c47e41",
+   "credito": "d25f47b9bb42",
+   "enunciado": "f1268b737151",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Alguns cânceres esporádicos representam exemplos",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q66": {
+   "alternativas": [
+    "05b95e762c35",
+    "2c4c7b0e4761",
+    "dc7faee5e279",
+    "f74459ebefd6",
+    "f93b3e6bcaee"
+   ],
+   "apoio": "5af79dc91fab",
+   "credito": "b47243d7f910",
+   "enunciado": "37eb75c91caa",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, as transformações de ener",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q67": {
+   "alternativas": [
+    "16c40629d261",
+    "c0e6d71526a2",
+    "df5bca007d9f",
+    "d07d38aa4359",
+    "d9bce3e878e2"
+   ],
+   "apoio": "70db4f099f46",
+   "credito": "22876492b7d0",
+   "enunciado": "7cfa209e6fb0",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q67-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com as curvas de assinatura espectral ",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q67-apoio-01.jpg",
+     23,
+     [
+      73.9,
+      537.8,
+      294.0,
+      732.9
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q68": {
+   "alternativas": [
+    "07e4ea7107fe",
+    "5da9c0b886e7",
+    "7a36eef97794",
+    "a35ff9d540b6",
+    "a24a1a065219"
+   ],
+   "apoio": "8609ec851981",
+   "credito": "3be9a64ed9c0",
+   "enunciado": "28055e984850",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A importância dessa inovação tecnológica para a ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q69": {
+   "alternativas": [
+    "b7dfe7b58591",
+    "cbb8e5b329d3",
+    "30cf6d3e05db",
+    "e7eb24853ec5",
+    "3a0288b1bf51"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a02a7eb8a97b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os sintomas mais sérios da Gripe A, causada pelo",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q70": {
+   "alternativas": [
+    "1c00c37f89fd",
+    "b1e75716db0d",
+    "712ef1c65a53",
+    "6f701bdac031",
+    "582d4d82bb5f"
+   ],
+   "apoio": "af591220af9f",
+   "credito": "cf171f749933",
+   "enunciado": "6b9ab760fc0b",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-01.jpg",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-02.jpg",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-03.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Tendo por base os esquemas mostrados, em quais c",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-01.jpg",
+     24,
+     [
+      71.0,
+      499.4,
+      229.2,
+      620.4
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-02.jpg",
+     24,
+     [
+      249.8,
+      499.4,
+      299.2,
+      540.7
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q70-apoio-03.jpg",
+     24,
+     [
+      248.3,
+      559.0,
+      296.8,
+      614.4
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q71": {
+   "alternativas": [
+    "6df059dd9ae4",
+    "5d501181932e",
+    "25351352852d",
+    "7df3444105ce",
+    "3ecea6ffce9b"
+   ],
+   "apoio": "974a1e9c9615",
+   "credito": "18b8717616d9",
+   "enunciado": "54eebdcc1d75",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto mostra um dos pontos de vista a respeito",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q72": {
+   "alternativas": [
+    "5510fd5dccfc",
+    "86aaceb4ca82",
+    "7f500f559bec",
+    "5d4ad9e24882",
+    "08d5d51754b7"
+   ],
+   "apoio": "2aac3e023c10",
+   "credito": "4af37b3bdc6d",
+   "enunciado": "db6bad7c26be",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q72-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A combinação entre o ácido cólico e a glicina ou",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q72-apoio-01.jpg",
+     25,
+     [
+      59.5,
+      245.5,
+      309.2,
+      413.6
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q73": {
+   "alternativas": [
+    "37c2c64f99b7",
+    "4da12286cffa",
+    "082459698110",
+    "8d7e3bb1e4a2",
+    "c6e05dc596ea"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1ec05a0c9e83",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q73-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um experimento realizado para determinar a de",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q73-apoio-01.jpg",
+     25,
+     [
+      404.3,
+      238.3,
+      483.2,
+      338.3
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q74": {
+   "alternativas": [
+    "67c989c96312",
+    "fdc581925078",
+    "ac549497c8b4",
+    "333586fbd43c",
+    "a320aa731642"
+   ],
+   "apoio": "1d4a705ef4b6",
+   "credito": "e0042954b7b4",
+   "enunciado": "10eb52d70e98",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No problema apresentado para gerar imagens atrav",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q75": {
+   "alternativas": [
+    "1b90a49ff828",
+    "1a20f36902f2",
+    "5629ae65c38e",
+    "986eb3b7dc07",
+    "141f112b88bd"
+   ],
+   "apoio": "d47fcc554ee7",
+   "credito": "5a1a20805164",
+   "enunciado": "f3ddd90d62f4",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q75-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando que uma pessoa consuma refrigerante",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q75-apoio-01.jpg",
+     26,
+     [
+      59.2,
+      311.1,
+      309.4,
+      342.8
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q76": {
+   "alternativas": [
+    "cf707923c459",
+    "fc77e3f3ea81",
+    "8c57e2961975",
+    "313f56d55e84",
+    "d3628a4d455a"
+   ],
+   "apoio": "be7122f310e5",
+   "credito": "180c27c90d0e",
+   "enunciado": "500ee6ff122e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, a ideia do senso comum é confrontad",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q77": {
+   "alternativas": [
+    "a7d604a9b163",
+    "b223e6d308b0",
+    "94a0785b8341",
+    "2adc9c004fe1",
+    "ee2aea62ad68"
+   ],
+   "apoio": "6cffee4be9cc",
+   "credito": "c0d8fded06c0",
+   "enunciado": "c83941729b74",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q77-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A distância percorrida pela régua aumenta mais r",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q77-apoio-01.png",
+     26,
+     [
+      319.7,
+      516.8,
+      567.8,
+      586.5
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q78": {
+   "alternativas": [
+    "38249bcd3187",
+    "7a83366df922",
+    "a2b3781208f7",
+    "e78341e9d763",
+    "f8738efdd85c"
+   ],
+   "apoio": "4a9c75241d35",
+   "credito": "3725bc99a843",
+   "enunciado": "2b78abca22d2",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q78-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A característica de funcionamento que garante es",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q78-apoio-01.jpg",
+     27,
+     [
+      60.4,
+      251.0,
+      308.4,
+      416.9
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q79": {
+   "alternativas": [
+    "c8efb2850a47",
+    "fe3b3cc4193c",
+    "204e41dc1d60",
+    "d163677e7438",
+    "96a8c8a6c4ef"
+   ],
+   "apoio": "c48e5e42b9c9",
+   "credito": "f8d09caae198",
+   "enunciado": "31f04f6b0a33",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O gás mencionado no texto é produzido",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q80": {
+   "alternativas": [
+    "20faf0f10bca",
+    "2b025c172f0e",
+    "68d5c86bdf94",
+    "79a4ea43c392",
+    "6f9fac950cc4"
+   ],
+   "apoio": "5c2e3bfb1dfc",
+   "credito": "07429ca30d1f",
+   "enunciado": "34e2620f398d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Brasil, em termos do impacto das fontes de en",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q81": {
+   "alternativas": [
+    "a17b7415806a",
+    "bea245ebfe4a",
+    "cc56492812bb",
+    "ea62ce3f5cc6",
+    "3925ad943140"
+   ],
+   "apoio": "a3d9126ea7e4",
+   "credito": "23c9d276c111",
+   "enunciado": "727d1c2e1337",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com a estequiometria da reação descrit",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q82": {
+   "alternativas": [
+    "2bcf3aea75cb",
+    "1b979bc42087",
+    "72270a397d7f",
+    "aa5ebcfddd93",
+    "688fd3c9b545"
+   ],
+   "apoio": "b34bab93d4d9",
+   "credito": "4802f1d8476d",
+   "enunciado": "319fec2720dd",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A relação descrita no texto, entre a fêmea do gê",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q83": {
+   "alternativas": [
+    "6b4ea2da1341",
+    "f43c03586fb0",
+    "f2459e8f93f9",
+    "079346fdd902",
+    "9453f801bcd5"
+   ],
+   "apoio": "fd3962c26439",
+   "credito": "09e5c50c6493",
+   "enunciado": "b65247d7d7b0",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O nitrogênio incorporado ao solo, como consequên",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q84": {
+   "alternativas": [
+    "b82f836db026",
+    "0f7053bf54ad",
+    "b15fbe20b3e2",
+    "28a28af980be",
+    "b7119bf928b1"
+   ],
+   "apoio": "fca09a3d341d",
+   "credito": "02219487c5db",
+   "enunciado": "3cde64e0ba89",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-01.png",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-02.png",
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em qual das situações a seguir está representado",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-01.png",
+     28,
+     [
+      372.9,
+      237.1,
+      527.7,
+      308.4
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-02.png",
+     28,
+     [
+      385.5,
+      351.0,
+      527.7,
+      422.3
+     ]
+    ],
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q84-apoio-03.png",
+     28,
+     [
+      385.5,
+      436.7,
+      527.7,
+      510.6
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q85": {
+   "alternativas": [
+    "e88357891940",
+    "5107d44080c6",
+    "67ff6d4128ac",
+    "75ee703d4d2e",
+    "8f7133e673a4"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "580c64b66275",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um dos processos usados no tratamento do lixo é ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q86": {
+   "alternativas": [
+    "64a53b6ad851",
+    "83f4483b584e",
+    "9cf5e562b30a",
+    "0904115cc90a",
+    "fd08fbccf57a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7517897adb5c",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q86-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma das modalidades presentes nas olimpíadas é o",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q86-apoio-01.jpg",
+     29,
+     [
+      61.4,
+      514.3,
+      309.3,
+      756.1
+     ]
+    ]
+   ]
+  },
+  "enem-2011-regular-d1-q87": {
+   "alternativas": [
+    "ffd772a6dadc",
+    "a9a4a81996c9",
+    "e797a1f2ee5a",
+    "de1d52f5e4d4",
+    "da95ffc3cba2"
+   ],
+   "apoio": "6f6a435da503",
+   "credito": "b4758c34173b",
+   "enunciado": "3c1db4d9bc3c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O poema acima sugere a existência de relações de",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q88": {
+   "alternativas": [
+    "8aa909ce2ab7",
+    "0a3fe3b13f21",
+    "e55bd7f0a309",
+    "1d9423367f56",
+    "e56d164a72f9"
+   ],
+   "apoio": "35bf700c8335",
+   "credito": "c09f11d814da",
+   "enunciado": "e0a024177504",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A utilização da técnica do cultivo integrado de ",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q89": {
+   "alternativas": [
+    "9ea59c84c46d",
+    "a99f25ad8f48",
+    "789bf4007a84",
+    "a6e4e06381a1",
+    "3bba4aafe5c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4f4a0f4013f4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante as estações chuvosas, aumentam no Brasil",
+   "recortes": []
+  },
+  "enem-2011-regular-d1-q90": {
+   "alternativas": [
+    "e1dd1d613804",
+    "142d945a437b",
+    "ca90a50d6d82",
+    "dcaba7e0661d",
+    "90d9581cb08c"
+   ],
+   "apoio": "f2bc00c1c699",
+   "credito": "b89799956d2f",
+   "enunciado": "f90fc0ff158e",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2011/regular/dia1/enem-2011-regular-d1-q90-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A criação de gado em larga escala contribui para",
+   "recortes": [
+    [
+     "/questoes/2011/regular/dia1/enem-2011-regular-d1-q90-apoio-01.jpg",
+     31,
+     [
+      60.4,
+      118.2,
+      308.2,
+      326.1
+     ]
+    ]
+   ]
+  }
+ }
+}

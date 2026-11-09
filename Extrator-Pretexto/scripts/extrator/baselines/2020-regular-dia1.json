@@ -1,0 +1,1803 @@
+{
+ "extraidas": 95,
+ "ignoradas": [],
+ "motor": "v2020",
+ "perfil": "motor v2020",
+ "questoes": {
+  "enem-2020-regular-d1-q01-esp": {
+   "alternativas": [
+    "8a8cbc537ccf",
+    "3cb4287409e7",
+    "9d5512f330f9",
+    "28a77d8df11f",
+    "14ce8a853814"
+   ],
+   "apoio": "c2edb923d474",
+   "credito": "ae8095533a22",
+   "enunciado": "af2675cccc90",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Rubén Blades é um compositor panamenho de cançõe",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q01-ing": {
+   "alternativas": [
+    "039c1caac57c",
+    "53c45601ccb7",
+    "9563a4bf00a2",
+    "c65d4ed9b250",
+    "0a9d35d2e392"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "e754023d68a7",
+   "enunciado": "22ce72d9789a",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q01-ing-apoio-01.jpg",
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q01-ing-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os recursos usados nesse pôster de divulgação de",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q01-ing-apoio-01.jpg",
+     2,
+     [
+      31.2,
+      139.9,
+      277.8,
+      446.4
+     ]
+    ],
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q01-ing-apoio-02.jpg",
+     2,
+     [
+      289.1,
+      76.6,
+      535.8,
+      466.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q02-esp": {
+   "alternativas": [
+    "1e879cbace4f",
+    "31d31940d2a8",
+    "67bb4c6ceb22",
+    "4e4327cbaccd",
+    "330973712b00"
+   ],
+   "apoio": "2bdde2ce5526",
+   "credito": "977772860bb5",
+   "enunciado": "0da03b298c4b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Transformar palavras em atitudes tem sido um dos",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q02-ing": {
+   "alternativas": [
+    "5a4e86c8cb73",
+    "71e4fe3dfd62",
+    "1123932235ea",
+    "a159933e3b29",
+    "82b24a3dabcc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "51405dd6e172",
+   "enunciado": "0362dc87e1be",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse pôster de divulgação de uma campanha que a",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q03-esp": {
+   "alternativas": [
+    "e9ed09781c7d",
+    "5d839dee8f20",
+    "26793438496b",
+    "96a423cff2af",
+    "bf184b25542f"
+   ],
+   "apoio": "b2f8c151c70d",
+   "credito": "f0b1dde126fe",
+   "enunciado": "e801490e6d3d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa resenha crítica acerca do filme Relatos Sa",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q03-ing": {
+   "alternativas": [
+    "05998d0994fe",
+    "59f8edd87a14",
+    "6b8279935da6",
+    "2433f5776583",
+    "d73f8a7224f4"
+   ],
+   "apoio": "af9e92abe5a5",
+   "credito": "9491ee3da529",
+   "enunciado": "18e7094cdada",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O escritor nigeriano Chinua Achebe traz uma refl",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q04-esp": {
+   "alternativas": [
+    "21b8f5414d73",
+    "9bb26494645b",
+    "5d8b08b177e6",
+    "97dee3fb541b",
+    "de663eae6335"
+   ],
+   "apoio": "e2d24916ebb7",
+   "credito": "c38fe7fe40c3",
+   "enunciado": "571479d0a48b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao abordar a expropriação de territórios mexican",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q04-ing": {
+   "alternativas": [
+    "27dbd878134e",
+    "005c497ec2b0",
+    "1aacc05713a4",
+    "3c2ed5a45c1b",
+    "a3761f575960"
+   ],
+   "apoio": "36d8eefb0ab6",
+   "credito": "ec34bfb77051",
+   "enunciado": "986274eb6675",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No poema de Robert Frost, as palavras “fault” e ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q05-esp": {
+   "alternativas": [
+    "983fc4dc317e",
+    "5d0e11096587",
+    "8704a9223db0",
+    "52055e41ff9d",
+    "dd9205cdcd2f"
+   ],
+   "apoio": "b28d5075c3d4",
+   "credito": "96415dd5af91",
+   "enunciado": "45fcf678a747",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, no qual é narrada a visita à casa de u",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q05-ing": {
+   "alternativas": [
+    "46e4402b3f07",
+    "13966eda62c8",
+    "21985e90c9e9",
+    "8ee759d4651d",
+    "f0d161534ca8"
+   ],
+   "apoio": "9051c1823f6a",
+   "credito": "f7dd6f7809e0",
+   "enunciado": "4b21c48b99bb",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A passagem do romance da escritora nigeriana tra",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q06": {
+   "alternativas": [
+    "bbc2e6c0b354",
+    "087b3d933807",
+    "2eb213113104",
+    "95594a9b2633",
+    "e214c973b572"
+   ],
+   "apoio": "415983079158",
+   "credito": "6910c277d7e7",
+   "enunciado": "a55ca5179482",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q06-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os processos de interação comunicativa preveem a",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q06-apoio-01.jpg",
+     6,
+     [
+      289.1,
+      76.6,
+      535.9,
+      413.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q07": {
+   "alternativas": [
+    "2947c6f925c3",
+    "cc5050ab6223",
+    "201ae40c4dc1",
+    "0f000a47254e",
+    "f7a2c5c79b4f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "72c24aeb5bdb",
+   "enunciado": "5f2ac4aa8a63",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A frase, título do filme, reproduz uma variedade",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q08": {
+   "alternativas": [
+    "bf59f60f5884",
+    "a99dce22a867",
+    "b5bbc0223a19",
+    "5b56ed9b0816",
+    "f80c086fdfb6"
+   ],
+   "apoio": "55c4dbe6e5ab",
+   "credito": "648309008e27",
+   "enunciado": "24db22128b32",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na prática artística mencionada no texto, o corp",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q09": {
+   "alternativas": [
+    "25a6bdc1dbd2",
+    "0492028a5832",
+    "53fd09541968",
+    "f9aa116dc8f2",
+    "868234413688"
+   ],
+   "apoio": "a66653925963",
+   "credito": "57ce76d1c3ec",
+   "enunciado": "729150a0452b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A leitura do texto permite ao leitor entrar em c",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q10": {
+   "alternativas": [
+    "7a19d6e1af5a",
+    "02a0818e00f0",
+    "0ec326adb1a0",
+    "fef6ed57ef06",
+    "560088958266"
+   ],
+   "apoio": "cbab6faf3c49",
+   "credito": "331d6434368e",
+   "enunciado": "1a71235a6bc9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As aspas sinalizam expressões metafóricas empreg",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q11": {
+   "alternativas": [
+    "9c1f42ab1d7e",
+    "4477a668ea88",
+    "7140555f1091",
+    "77b2a7ab67da",
+    "610196be7d0d"
+   ],
+   "apoio": "f4366224a1ba",
+   "credito": "554b30a06f87",
+   "enunciado": "1853aeac4002",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No trecho, o narrador mobiliza recursos de lingu",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q12": {
+   "alternativas": [
+    "f90b72dc1419",
+    "17693fdb6a29",
+    "518ccee75c6c",
+    "ed9cba92ee5b",
+    "fb96e0aa3cdf"
+   ],
+   "apoio": "af2446f00617",
+   "credito": "a2d04e9b8e33",
+   "enunciado": "99cb2dcc0eda",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao situar a composição no panorama cultural bras",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q13": {
+   "alternativas": [
+    "cb25bc5c0050",
+    "27a3e2eb5777",
+    "34a8afde1d33",
+    "ed71b9972a14",
+    "74112cc879b0"
+   ],
+   "apoio": "bfea38f96981",
+   "credito": "c1f2fe872761",
+   "enunciado": "09a33cc66943",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A inter-relação entre tecnologia e sociedade tem",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q14": {
+   "alternativas": [
+    "c9b4ceaa31b6",
+    "9f96f8f24a1c",
+    "f549bab427c9",
+    "fcf7589ecea8",
+    "c81fbb324047"
+   ],
+   "apoio": "8a0798812202",
+   "credito": "4c743dcd7c5b",
+   "enunciado": "7b125f8cfdc3",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q14-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A provocação desse grupo gera um debate em torno",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q14-apoio-01.jpg",
+     8,
+     [
+      341.8,
+      231.0,
+      484.2,
+      419.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q15": {
+   "alternativas": [
+    "a95a17935067",
+    "0904bfd63870",
+    "6c920b9a5869",
+    "a1775283cbc7",
+    "e38bcfdb8e01"
+   ],
+   "apoio": "941b2eced150",
+   "credito": "48edb2d79929",
+   "enunciado": "8015e3a00817",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q15-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O esporte é uma manifestação cultural na qual se",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q15-apoio-01.jpg",
+     9,
+     [
+      31.2,
+      253.5,
+      277.9,
+      490.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q16": {
+   "alternativas": [
+    "e727d20ceb32",
+    "0f32e38b05d2",
+    "b9cbc7b0add4",
+    "2be2e40c2a71",
+    "33983c15170f"
+   ],
+   "apoio": "506db7529e3f",
+   "credito": "bb69f0eb76c9",
+   "enunciado": "1f6ae41a8ce8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As reivindicações dos operários, quanto às condi",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q17": {
+   "alternativas": [
+    "2092314d773b",
+    "290947f57c67",
+    "fffeb674a581",
+    "72c5bc73a850",
+    "f77246579790"
+   ],
+   "apoio": "fb84d0de7d8a",
+   "credito": "f5b12457e29f",
+   "enunciado": "ddb1706526ae",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base no texto, a relação entre saúde e estil",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q18": {
+   "alternativas": [
+    "2923e217ce9d",
+    "eff04ea26a01",
+    "922edbc178af",
+    "a480afb5f723",
+    "2766866ff580"
+   ],
+   "apoio": "6340cea88096",
+   "credito": "90a7a1dc65f8",
+   "enunciado": "f1c1e09ec172",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No poema, a descrição lírica do objeto represent",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q19": {
+   "alternativas": [
+    "d9559fef2867",
+    "e2bb2f44d03b",
+    "6f6ac7ecf581",
+    "1772adc9d7ee",
+    "68b468631054"
+   ],
+   "apoio": "348e06427b55",
+   "credito": "5c1a54740d7e",
+   "enunciado": "62279f723a20",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa petição de habeas corpus, ao transgredir o ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q20": {
+   "alternativas": [
+    "8cda6750cee8",
+    "8451fc4cca65",
+    "f7264ff3203c",
+    "3856fd4a6669",
+    "b37cf06a8dfb"
+   ],
+   "apoio": "d0cc620d3661",
+   "credito": "d1afef0b0bcf",
+   "enunciado": "29427e8fce4f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, é possível identificar o ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q21": {
+   "alternativas": [
+    "4caa9a0d1169",
+    "1d7b66ed1d44",
+    "fe33c84a1cae",
+    "de5db0821497",
+    "8029552230d0"
+   ],
+   "apoio": "8d2d7dabab29",
+   "credito": "430d9701969a",
+   "enunciado": "233e2d4b981f",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q21-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O fragmento faz parte da canção brasileira conte",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q21-apoio-01.jpg",
+     11,
+     [
+      300.6,
+      389.7,
+      535.7,
+      588.7
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q22": {
+   "alternativas": [
+    "4beada46121f",
+    "3d8bc4c34e0d",
+    "449baaf8050a",
+    "ca8d46c7331a",
+    "d276ffcfed4f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "f65f71ca2035",
+   "enunciado": "8ea160177e78",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse anúncio publicitário propõe soluções para u",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q23": {
+   "alternativas": [
+    "01aee536c848",
+    "41b99ba0e199",
+    "73027d1457fb",
+    "1b53a2e9f40b",
+    "6586c08f7545"
+   ],
+   "apoio": "5a4d2e85d4be",
+   "credito": "93ad3af0c1b1",
+   "enunciado": "8d5985d53730",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As repetições e as frases curtas constituem proc",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q24": {
+   "alternativas": [
+    "5caa8de1cd44",
+    "3befc7f5b6ba",
+    "b1b2b9975665",
+    "d71fcd68cccb",
+    "f6d9bb28cea9"
+   ],
+   "apoio": "a0b3806d45be",
+   "credito": "947d9d9ad645",
+   "enunciado": "02638cf54b11",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q24-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Esse decreto pauta-se na ideia de que o uso do g",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q24-apoio-01.jpg",
+     12,
+     [
+      309.4,
+      76.6,
+      535.7,
+      240.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q25": {
+   "alternativas": [
+    "4e207113d62c",
+    "92905ee8a5b4",
+    "a4244ec4b9ea",
+    "a203645ad15b",
+    "1d7a69e46c48"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "c68a13cff7ae",
+   "enunciado": "ec06ccb3e1d3",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q25-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A obra de Joseph Kosuth data de 1965 e se consti",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q25-apoio-01.jpg",
+     12,
+     [
+      327.3,
+      403.9,
+      535.7,
+      516.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q26": {
+   "alternativas": [
+    "41d6c7238cfd",
+    "9ee28835b420",
+    "d309ad652073",
+    "d3f4410a6574",
+    "3e8a666dc183"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "f76b19aa055e",
+   "enunciado": "183421642fd7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A realidade virtual é uma tecnologia de informaç",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q27": {
+   "alternativas": [
+    "893ab44a83e2",
+    "6c264873601c",
+    "8c1bd0751060",
+    "b0ffa2c8879e",
+    "dcd62bcb2ffb"
+   ],
+   "apoio": "fb543243b85a",
+   "credito": "a0fd0b2a0caf",
+   "enunciado": "54bf36bdea9e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "É comum coexistirem sequências tipológicas em um",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q28": {
+   "alternativas": [
+    "e7339de9e678",
+    "38cbb03e60db",
+    "a98660ca673f",
+    "f1f109961664",
+    "1978b21abe2d"
+   ],
+   "apoio": "8aeafda01872",
+   "credito": "33a45bef51bd",
+   "enunciado": "ceaf79dda743",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A incorporação de um trecho da obra para flauta ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q29": {
+   "alternativas": [
+    "898c9072fba0",
+    "4474ae515264",
+    "e1ca8d84c673",
+    "9f43b4072fca",
+    "42be05000b13"
+   ],
+   "apoio": "220d9199a601",
+   "credito": "2b4bae291c8d",
+   "enunciado": "a2ddc1790f07",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa letra da canção, a suposição do último ver",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q30": {
+   "alternativas": [
+    "5633ad010711",
+    "38c48e527846",
+    "0f1ee9895eb2",
+    "a1e9ada08414",
+    "55c6a9b03c2f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "90f3c23a329d",
+   "enunciado": "7bf608af3991",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa campanha de conscientização sobre o assédio",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q31": {
+   "alternativas": [
+    "0bd3b20bb38d",
+    "dfe80b5c7349",
+    "db1435c7958f",
+    "315583da3bcd",
+    "789e53e4f465"
+   ],
+   "apoio": "90317da6248f",
+   "credito": "2b449c7b7fb0",
+   "enunciado": "b3496399e455",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Pelas características do texto lido, que trata d",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q32": {
+   "alternativas": [
+    "9e100478ad4b",
+    "58eced097f46",
+    "ccada9ce942a",
+    "1f0cb2bd849a",
+    "a89720781e78"
+   ],
+   "apoio": "e2ff2616e4a9",
+   "credito": "2c3ac33feed5",
+   "enunciado": "4a3663f03c3a",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os ditados populares são frases de sabedoria cri",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q33": {
+   "alternativas": [
+    "be91d0ea1c5e",
+    "b893a514590f",
+    "a8954258bdc9",
+    "26cd4f633911",
+    "e61535a4cb2e"
+   ],
+   "apoio": "b70ea9ca03c0",
+   "credito": "296388986cea",
+   "enunciado": "e395b1214091",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q33-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando-se a função que os cartazes colados",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q33-apoio-01.jpg",
+     15,
+     [
+      31.2,
+      297.7,
+      277.8,
+      544.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q34": {
+   "alternativas": [
+    "bf38a7c89f1d",
+    "f0c98c389043",
+    "3537fa007317",
+    "e3f971698d6b",
+    "49e98a61a722"
+   ],
+   "apoio": "3e4d9ef928d3",
+   "credito": "8849831f2b79",
+   "enunciado": "3dcd356067ea",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As significações afetivas engendradas no fragmen",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q35": {
+   "alternativas": [
+    "249df5ee66b3",
+    "703d1b5a76bf",
+    "b2bdf96b075a",
+    "be11ec628c03",
+    "13753a372f25"
+   ],
+   "apoio": "42ceab457f03",
+   "credito": "432d7ab8a649",
+   "enunciado": "5cc52ccec47b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os jogos eletrônicos presentes na cultura juveni",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q36": {
+   "alternativas": [
+    "7d9cf74944dc",
+    "0c52e6567e31",
+    "399dde13644f",
+    "7f0f738ae7ad",
+    "ad2e3a214af6"
+   ],
+   "apoio": "bde4bdc85e76",
+   "credito": "588fd11787b0",
+   "enunciado": "0bbfc0ebd83e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, podemos identifi car uma ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q37": {
+   "alternativas": [
+    "7a93e8284ce8",
+    "1ebc38b5a061",
+    "b9860626ee18",
+    "53271b4a92cf",
+    "0661ff9345f8"
+   ],
+   "apoio": "c2f285604628",
+   "credito": "b62c14423af5",
+   "enunciado": "3bea114e7808",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q37-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base no conceito apresentado no texto, a saú",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q37-apoio-01.jpg",
+     16,
+     [
+      30.9,
+      434.0,
+      278.1,
+      618.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q38": {
+   "alternativas": [
+    "6e01aaa7e7c0",
+    "b6d8804e9b77",
+    "4469f8cf2467",
+    "313bc9c0d660",
+    "a0a9ab109c4e"
+   ],
+   "apoio": "c1bd4eb14b37",
+   "credito": "ff4afbefd1e3",
+   "enunciado": "647e2b137534",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse texto, busca-se seduzir o leitor por meio ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q39": {
+   "alternativas": [
+    "c0989e89ad65",
+    "3554fbc9e044",
+    "3f93e12b23c0",
+    "e72a290bc0dd",
+    "da0da5fc261b"
+   ],
+   "apoio": "5a191af94a4b",
+   "credito": "b1d6e9f7f651",
+   "enunciado": "933c86554699",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Hino à Bandeira, a descrição é um recurso uti",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q40": {
+   "alternativas": [
+    "26f2180a34c6",
+    "4adaa89d07d9",
+    "c5736ef2fa81",
+    "4a8edcf28788",
+    "a075107811ad"
+   ],
+   "apoio": "627e7530e2ea",
+   "credito": "e68d00a8ac27",
+   "enunciado": "71564161e15c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ficção modernista explorou tipos humanos em si",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q41": {
+   "alternativas": [
+    "226171dc3308",
+    "ad2c50913cce",
+    "5bbd16d07988",
+    "9d7f4fbe05f8",
+    "bfa9e558b33e"
+   ],
+   "apoio": "8bb949ae68bf",
+   "credito": "7251d941e8b6",
+   "enunciado": "d020301c3cd9",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa petição da pitoresca personagem do romance",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q42": {
+   "alternativas": [
+    "664a6e174ba3",
+    "c80658c0e0a7",
+    "851d03098a31",
+    "f95bbdc828af",
+    "f2d90fb890fc"
+   ],
+   "apoio": "241ed6072ad8",
+   "credito": "f7a3ed6d59a9",
+   "enunciado": "0162617910bd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Pela sua interatividade, os exergames apresentam",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q43": {
+   "alternativas": [
+    "438c13291bd8",
+    "1fe5d4d76ccb",
+    "31b51c37da91",
+    "e855761921eb",
+    "ae8abac29033"
+   ],
+   "apoio": "ec5b8efb41f0",
+   "credito": "08a5a3106e5b",
+   "enunciado": "ac05997ed27d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto permite o desnudamento da sociedade ao r",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q44": {
+   "alternativas": [
+    "0a110c821749",
+    "9b01e72ee950",
+    "b9f61ac11b4f",
+    "62e956087038",
+    "0835e9c3885c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "2261096a0f6a",
+   "enunciado": "1cb4fa555118",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q44-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nessa campanha publicitária, a imagem da família",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q44-apoio-01.jpg",
+     18,
+     [
+      31.4,
+      448.0,
+      277.6,
+      591.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q45": {
+   "alternativas": [
+    "5393ab03d6ca",
+    "21a20a4bf645",
+    "de265c05820c",
+    "675d71e08c5e",
+    "f0ae19e317a8"
+   ],
+   "apoio": "2eadd5f5cd6c",
+   "credito": "98813f38b1ba",
+   "enunciado": "97e09994bec0",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A tematização de Curitiba é frequente na obra de",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q46": {
+   "alternativas": [
+    "5eba43147185",
+    "424e114c6acf",
+    "218aa9813b1b",
+    "ce1a485cbf6b",
+    "06b341a2f22b"
+   ],
+   "apoio": "0fe9ba9ad35f",
+   "credito": "95e0745e98c6",
+   "enunciado": "b0ce07dec23e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma ação estatal de longo prazo capaz de reduzir",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q47": {
+   "alternativas": [
+    "6bf5fbc5f89c",
+    "4d50ae7b6989",
+    "fc0a1f069253",
+    "1537ba5e86fb",
+    "7c567f47a796"
+   ],
+   "apoio": "add061040aa0",
+   "credito": "44933912fad8",
+   "enunciado": "4c008142ffeb",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sobre o espaço brasileiro, o texto apresenta arg",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q48": {
+   "alternativas": [
+    "69107bc48e7d",
+    "ec31191573f5",
+    "2cb2f4e00f26",
+    "170e9ca066fc",
+    "4115f678ebc8"
+   ],
+   "apoio": "8abc66742467",
+   "credito": "9ac6c72b1c68",
+   "enunciado": "8f177ebeb210",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A transformação descrita no texto tem sido insuf",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q49": {
+   "alternativas": [
+    "547e0cca7280",
+    "24f1b09949a2",
+    "bc516f02ebca",
+    "5a8300c37615",
+    "0c0276d09d8c"
+   ],
+   "apoio": "1789e92ea643",
+   "credito": "bf0ba10158ad",
+   "enunciado": "e3cd23f62a7c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os movimentos em prol da reforma agrária, que at",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q50": {
+   "alternativas": [
+    "b0bd4f23bf18",
+    "0d5895b6d0f1",
+    "8c7024c2389b",
+    "9a84fdb9274b",
+    "52adcee92e8b"
+   ],
+   "apoio": "23959caf0f74",
+   "credito": "9e30738bf3dd",
+   "enunciado": "06850ac03724",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O resultado do processo geográfico descrito foi ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q51": {
+   "alternativas": [
+    "bbbda38a7892",
+    "1d9492347faf",
+    "c4e5c76f9ebe",
+    "0d98865cf5f7",
+    "a90eb00caedc"
+   ],
+   "apoio": "4c13e519f4da",
+   "credito": "dc8d88405566",
+   "enunciado": "ba0ec9016b4b",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q51-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A dinâmica produtiva apresentada na imagem tem c",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q51-apoio-01.jpg",
+     21,
+     [
+      144.6,
+      246.5,
+      422.3,
+      635.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q52": {
+   "alternativas": [
+    "3dedf864d1ac",
+    "7d691a5254d6",
+    "36a51ff73996",
+    "67874fabc2f6",
+    "3247cbb3d730"
+   ],
+   "apoio": "a2692035d5ac",
+   "credito": "82fd6496122a",
+   "enunciado": "6961eb46a996",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os acontecimentos históricos citados ajudaram es",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q53": {
+   "alternativas": [
+    "2add0f2b2f3f",
+    "2b003abcf8c7",
+    "37b280c3d8b9",
+    "00e8a581df2b",
+    "f7d8631d608b"
+   ],
+   "apoio": "f1745ca378df",
+   "credito": "a406906d889b",
+   "enunciado": "b0fb5e3daa0f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto descreve uma confusão da personagem em r",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q54": {
+   "alternativas": [
+    "41f57c6ed6f8",
+    "3133a37e8a61",
+    "3723f1e88ccf",
+    "af14b23affed",
+    "0c4500469ed0"
+   ],
+   "apoio": "cf277e7f9b8e",
+   "credito": "d030a8678da2",
+   "enunciado": "39f75f0f83ba",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, a arte mencionada é impor",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q55": {
+   "alternativas": [
+    "8c238f1ebefc",
+    "673ca80eb15f",
+    "cd809772f4e7",
+    "48bad3fe9cf6",
+    "36fc495fe1c7"
+   ],
+   "apoio": "ed48b16eee9a",
+   "credito": "8c5f6e5d17ed",
+   "enunciado": "683ada0cda93",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto confere visibilidade a uma doutrina filo",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q56": {
+   "alternativas": [
+    "efa3c19a4a43",
+    "39db0f17fe35",
+    "7fcdbae37334",
+    "319485906cee",
+    "c06f5aa4e00a"
+   ],
+   "apoio": "58d819d45b5c",
+   "credito": "aeccf938a9d4",
+   "enunciado": "2091fb6cab83",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para que haja a redução da pressão sobre o recur",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q57": {
+   "alternativas": [
+    "98ffc23e07ee",
+    "57af4c39168d",
+    "578254950107",
+    "bc9eb0fce344",
+    "de786f923551"
+   ],
+   "apoio": "37df009ce452",
+   "credito": "3385344c5ace",
+   "enunciado": "212169bd1baa",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Tomando o texto como parâmetro, qual tendência c",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q58": {
+   "alternativas": [
+    "1102341fae01",
+    "86bfe9aa1e22",
+    "011f47096fe8",
+    "034865e59b21",
+    "5c44b6f53d0a"
+   ],
+   "apoio": "8ff521b8dff4",
+   "credito": "6e8679b29164",
+   "enunciado": "337d16c30a83",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O modelo de planejamento urbano problematizado n",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q59": {
+   "alternativas": [
+    "8e051957b1e0",
+    "262a64fa998c",
+    "f733740984b3",
+    "7b6805116b45",
+    "3e6ab933a9d4"
+   ],
+   "apoio": "fac466e633d3",
+   "credito": "74860cf4c82b",
+   "enunciado": "eaf39c29d0fe",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As estruturas geológicas indicadas no texto são ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q60": {
+   "alternativas": [
+    "bea9012e8c1b",
+    "adc6fb9cb388",
+    "fafd201c1461",
+    "1513c64d6b1b",
+    "aafaccbf5265"
+   ],
+   "apoio": "b770121f7947",
+   "credito": "c8a4741f4f02",
+   "enunciado": "ed717154223b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto descreve a experiência do personagem de ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q61": {
+   "alternativas": [
+    "0c73e39cd6cd",
+    "8983373a87c5",
+    "c77c179cb87c",
+    "f6b7583410e7",
+    "7ff1cc468cca"
+   ],
+   "apoio": "2f9c0fe2ee06",
+   "credito": "3fedabb31493",
+   "enunciado": "6d824772eaf4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Escrito na década de 1970, o texto considera a p",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q62": {
+   "alternativas": [
+    "c573ea858873",
+    "4416378249c8",
+    "55abc0015ede",
+    "86107e425569",
+    "00e5995cf831"
+   ],
+   "apoio": "79d99b3bc0e8",
+   "credito": "ba041801d9b8",
+   "enunciado": "4c87fd22f51c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse contexto de organização da vida social, as",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q63": {
+   "alternativas": [
+    "47d2bbf793fd",
+    "adf40b1d657b",
+    "d68c9fc6080e",
+    "ebf45adc8476",
+    "372ca47fa327"
+   ],
+   "apoio": "9ef1557f3c3a",
+   "credito": "f3b4b162dc6b",
+   "enunciado": "a9663eff5202",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O processo de ressignificação do trabalho nas so",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q64": {
+   "alternativas": [
+    "48a5d2936f2d",
+    "41a2f3fa4fe6",
+    "1170a2d2de41",
+    "2ff04ec19183",
+    "a2e89faacaa9"
+   ],
+   "apoio": "09b935ab4c36",
+   "credito": "fd2e30a30c48",
+   "enunciado": "eae6e62203eb",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse contexto, a criticada postura dos governos",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q65": {
+   "alternativas": [
+    "7208089c6c6d",
+    "91b2ec76da03",
+    "df8b7ad1f67a",
+    "c587c0ea7bf8",
+    "b269dba91837"
+   ],
+   "apoio": "48a83f43fbb4",
+   "credito": "4971f4b48905",
+   "enunciado": "cb8bc8a5db8e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O mapa e o texto se complementam indicando que a",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q66": {
+   "alternativas": [
+    "b6ab424306fc",
+    "fe168a982c90",
+    "d886275b3479",
+    "c62bfb87f60b",
+    "1443be67bfa9"
+   ],
+   "apoio": "7e372c82a19e",
+   "credito": "ce081e21deef",
+   "enunciado": "8f994781b16b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica apresentada dessa manifestação ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q67": {
+   "alternativas": [
+    "c84269ce4bd4",
+    "8e2798d6b6ca",
+    "4fff79bdcf51",
+    "cdb22a16a7c6",
+    "ad8348a85941"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "9485bc59d459",
+   "enunciado": "058c155e13e8",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q67-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os aspectos físicos apresentados originam-se da ",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q67-apoio-01.jpg",
+     26,
+     [
+      30.7,
+      90.2,
+      278.4,
+      420.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q68": {
+   "alternativas": [
+    "ca18b3735489",
+    "799e85b8123a",
+    "0ef88cc89ca2",
+    "28fc37952e43",
+    "188d64b9242e"
+   ],
+   "apoio": "f0a3b7e9cb51",
+   "credito": "41116ee0ca78",
+   "enunciado": "387e46856d22",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, novos estudos têm valoriz",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q69": {
+   "alternativas": [
+    "3a6c57055fe5",
+    "c241ead4a2b7",
+    "b9b0cc7b09d0",
+    "a70d235cff75",
+    "ddf31bd0e2e0"
+   ],
+   "apoio": "89bb122853d8",
+   "credito": "7507217e0fef",
+   "enunciado": "99a80e7fdcee",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto do pensamento político, a ideia apre",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q70": {
+   "alternativas": [
+    "02befc625777",
+    "06e5ecba0332",
+    "844bf2e1cc4a",
+    "8f6873c68b5e",
+    "d9d61d263f4e"
+   ],
+   "apoio": "e1c3d6f9826b",
+   "credito": "ed3677435759",
+   "enunciado": "489784403183",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O acontecimento histórico mencionado no texto de",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q71": {
+   "alternativas": [
+    "d9ca0d02d229",
+    "51eddd4702c9",
+    "decc398c9741",
+    "4b1253e347fe",
+    "fec20b3a550e"
+   ],
+   "apoio": "ca5ad5043062",
+   "credito": "4f9d629fdc67",
+   "enunciado": "af90611d5735",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto das distintas formas de apropriação ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q72": {
+   "alternativas": [
+    "bc9925f57380",
+    "5961cb2f9479",
+    "2e93206f5a3d",
+    "e980263fd34d",
+    "e5933eb30611"
+   ],
+   "apoio": "6f3f14c59477",
+   "credito": "dbad4a9bcb82",
+   "enunciado": "6fb198b875be",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O novo gênero de escrita aludido no texto é o(a)",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q73": {
+   "alternativas": [
+    "94f483b92cf4",
+    "e7b961306162",
+    "da56e5449417",
+    "53c0fc825c9e",
+    "9017fe3ac78f"
+   ],
+   "apoio": "4d210c25dac7",
+   "credito": "712ea4be70d8",
+   "enunciado": "fabb40625643",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como signatário da Declaração citada, o Brasil c",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q74": {
+   "alternativas": [
+    "f32f9445619c",
+    "4dafddf0f55f",
+    "882da87a28ae",
+    "ac27846ec9f5",
+    "a417c83ac624"
+   ],
+   "apoio": "1bda7890612d",
+   "credito": "49964cbb0cae",
+   "enunciado": "0a44baa88477",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos mostram-se alinhados a um entendimento",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q75": {
+   "alternativas": [
+    "4d41c3c6b292",
+    "b7cd3dc8f732",
+    "94c5756ab765",
+    "7fc2f7a27101",
+    "344f087bb2a7"
+   ],
+   "apoio": "04ca69562cda",
+   "credito": "82d1a94ec5af",
+   "enunciado": "76ab35b160e2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na análise contida no texto, a representação car",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q76": {
+   "alternativas": [
+    "58c266f69c75",
+    "c49e6cd314cb",
+    "ef53e6e678ca",
+    "0583d494f08c",
+    "04444e42c326"
+   ],
+   "apoio": "3e17a8f016f0",
+   "credito": "1d3af342ef47",
+   "enunciado": "49e291ba3ac3",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto tematiza o papel desempenhado por uma no",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q77": {
+   "alternativas": [
+    "9a76e76b33b9",
+    "fa5576e96af0",
+    "1e482b46b6ba",
+    "e5176a113520",
+    "b814c7915fbe"
+   ],
+   "apoio": "9743cc5bcbee",
+   "credito": "8edbdd0385b6",
+   "enunciado": "919108bf72cd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No fragmento, Aristóteles promove uma reflexão q",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q78": {
+   "alternativas": [
+    "85c6d6449f77",
+    "6d55d2b0b0c1",
+    "12987af0e19f",
+    "1fad008446e6",
+    "ce243773c990"
+   ],
+   "apoio": "f3fd5b60d862",
+   "credito": "c7a324884ece",
+   "enunciado": "eb3e2f54a2f1",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica organizacional do modelo em que",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q79": {
+   "alternativas": [
+    "88e947217bde",
+    "bb8e58cf8329",
+    "74590bec846f",
+    "ba1a26bfb598",
+    "211f5a61982d"
+   ],
+   "apoio": "189f318d43d6",
+   "credito": "1a3232379525",
+   "enunciado": "50d806773187",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A comparação mencionada no texto foi possível em",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q80": {
+   "alternativas": [
+    "2cffe5f038a4",
+    "024eb8c31d16",
+    "79a3b9676d47",
+    "888a1249a985",
+    "e3b5c8a00d28"
+   ],
+   "apoio": "ce70ac3cf64c",
+   "credito": "941617d0b4c0",
+   "enunciado": "db97a1059b9a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, a visibilidade dos sering",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q81": {
+   "alternativas": [
+    "1f9af9d21db3",
+    "0a3ba961e8bb",
+    "415811d163e1",
+    "53c503133ecd",
+    "eb1aa101ec8d"
+   ],
+   "apoio": "087505492531",
+   "credito": "3cfed68aee16",
+   "enunciado": "54fc5ce322e8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto explicita premissas da expansão ultramar",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q82": {
+   "alternativas": [
+    "ce7a39a52897",
+    "7e2c8dad4c21",
+    "1d0c96457f67",
+    "a0f75f2ee7f3",
+    "429f1a3f74d5"
+   ],
+   "apoio": "5ea1d950fd5a",
+   "credito": "ad4c63482227",
+   "enunciado": "05f3f785cba8",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica física que justifica a fixação ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q83": {
+   "alternativas": [
+    "b5cb7e6b0568",
+    "3378e0378bb3",
+    "2a14b08218ea",
+    "6d18d7815e5c",
+    "757a5183f6ae"
+   ],
+   "apoio": "ef6d063ef752",
+   "credito": "8910aacce4d5",
+   "enunciado": "644d5762e079",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um motivo que explica a ambientação da prática d",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q84": {
+   "alternativas": [
+    "ebfab63b687b",
+    "6b3c49ce17d6",
+    "f4fac7771791",
+    "4ef0d1e2d4be",
+    "2eef7e959569"
+   ],
+   "apoio": "e08754c8e806",
+   "credito": "93a4489f6097",
+   "enunciado": "9fb98e55bbbe",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual feição fisiográfica é gerada pelo processo ",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q85": {
+   "alternativas": [
+    "3e29c71d31be",
+    "bd7f0821172a",
+    "cd10afd3b734",
+    "7b298173e43b",
+    "d3607b7c2147"
+   ],
+   "apoio": "d73c8d47a098",
+   "credito": "a372b284ee65",
+   "enunciado": "f082b41b217a",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os fragmentos das matérias jornalísticas sobre o",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q86": {
+   "alternativas": [
+    "ba67d6fff8a6",
+    "c9fdb8d02cc8",
+    "efe2b27ad009",
+    "42dade6d23c9",
+    "a3b7118e83cf"
+   ],
+   "apoio": "6ee1b9bb0e6c",
+   "credito": "8658dc7a6ca8",
+   "enunciado": "e8acc2d0dc0a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse documento, elaborado no contexto da Revoluç",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q87": {
+   "alternativas": [
+    "e93ccd720a7b",
+    "e2cfb3f47478",
+    "a255cf2bed4a",
+    "4c5a59a346b6",
+    "79f0fbb64d45"
+   ],
+   "apoio": "e22ef9e76e5d",
+   "credito": "018a1721afe5",
+   "enunciado": "2a22c8f2ba34",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Naquele contexto, a emergência do sistema de gov",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q88": {
+   "alternativas": [
+    "2a900363cce6",
+    "a52772faf922",
+    "f69c056c85cf",
+    "73ed01b91bb9",
+    "5b73a47e0a32"
+   ],
+   "apoio": "5344f31a6091",
+   "credito": "a2f1fdb66eb9",
+   "enunciado": "80c0da892116",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/regular/dia1/enem-2020-regular-d1-q88-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando a análise dos textos, a condição at",
+   "recortes": [
+    [
+     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q88-apoio-01.jpg",
+     31,
+     [
+      31.2,
+      108.7,
+      277.9,
+      274.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-regular-d1-q89": {
+   "alternativas": [
+    "8b1212d1f82d",
+    "4a68084565fa",
+    "c009701426af",
+    "df5eb13d714a",
+    "fdb5b1773551"
+   ],
+   "apoio": "15a8bb65fff9",
+   "credito": "7db62f4055e8",
+   "enunciado": "dac5d2d3b42c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o autor, qual é a origem do conhecimento",
+   "recortes": []
+  },
+  "enem-2020-regular-d1-q90": {
+   "alternativas": [
+    "6b692b8583b2",
+    "f0660106988e",
+    "b01f2422011a",
+    "3f230558cfcd",
+    "2181fc1b9b90"
+   ],
+   "apoio": "cca2bc88941a",
+   "credito": "20e31edd0907",
+   "enunciado": "d90c1e147890",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sobre a tragédia de Mariana, os textos apresenta",
+   "recortes": []
+  }
+ }
+}
