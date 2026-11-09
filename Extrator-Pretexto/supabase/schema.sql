@@ -65,6 +65,7 @@ create table if not exists public.questoes (
                   check (jsonb_typeof(alternativas_imagens) = 'object'),
   gabarito        text,                           -- A a E; nulo SOMENTE quando a questão é anulada (veja a restrição abaixo)
   anulada         boolean not null default false,
+  explicacao      text,                           -- resolução comentada gerada por IA após a extração (pode ser nula)
   criado_em       timestamptz not null default now(),
 
   -- Busca por texto em português no enunciado.
@@ -93,6 +94,8 @@ comment on column public.questoes.alternativas_imagens is
   'Mapa JSONB das alternativas para suas imagens, por exemplo {"A":["/questoes/a.png"]}.';
 comment on column public.questoes.gabarito is
   'Letra certa (A a E). Nulo somente em questão anulada.';
+comment on column public.questoes.explicacao is
+  'Explicação da resolução, gerada por IA (scripts/extrator/explicar.py) cruzando enunciado, alternativas e gabarito oficial. Nula até ser gerada; nula em anuladas.';
 comment on column public.questoes.tem_imagem is
   'Gerada: verdadeiro se há imagem no enunciado (imagem_url / imagens_url) ou em alguma alternativa.';
 
@@ -206,6 +209,9 @@ alter table public.questoes drop constraint if exists questoes_categoria_check;
 alter table public.questoes
   add constraint questoes_categoria_check
   check (categoria in ('regular', 'ppl', 'digital', 'segunda', 'terceira'));
+
+-- questoes: explicação da resolução gerada por IA.
+alter table public.questoes add column if not exists explicacao text;
 
 -- questoes: várias imagens por questão e imagens nas alternativas.
 alter table public.questoes add column if not exists imagens_url text[] not null default '{}';

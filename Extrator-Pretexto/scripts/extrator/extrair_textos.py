@@ -44,6 +44,7 @@ AQUI = Path(__file__).resolve().parent
 sys.path.insert(0, str(AQUI))
 from dataclasses import replace  # noqa: E402
 from perfis import obter_perfil  # noqa: E402
+import explicar as IA  # noqa: E402
 
 RAIZ = AQUI.parents[1]
 CATEGORIAS = ['regular', 'ppl', 'digital', 'segunda', 'terceira']
@@ -52,7 +53,7 @@ CATEGORIAS = ['regular', 'ppl', 'digital', 'segunda', 'terceira']
 # O rótulo aparece como "QUESTÃO 01" ou "Questão 18" (às vezes no mesmo PDF): sempre sem diferenciar caixa.
 RE_ROTULO = re.compile(r'^\s*QUEST[ÃA]O\s+(\d{1,3})\b\s*(.*)$', re.I | re.S)
 RE_QUESTAO = re.compile(r'QUEST[ÃA]O\s+(\d{1,3})\b', re.I)
-RE_TEXTO_PARA = re.compile(r'^Texto\s+para\s+as\s+Quest[õo]es\s+de\s+(\d{1,3})\s+a\s+(\d{1,3})', re.I)
+RE_TEXTO_PARA = re.compile(r'^Texto\s+para\s+as\s+Quest[õo]es\s+(?:de\s+)?(\d{1,3})\s+(?:a|e)\s+(\d{1,3})', re.I)
 RE_SECAO_IDIOMA = re.compile(r'Quest[õo]es\s+de\s+\d+\s+a\s+\d+\s*\(\s*op[cç][ãa]o\s+(ingl[eê]s|espanhol)\s*\)', re.I)
 RE_AREA = re.compile(
     r'(?:PROVA\s+DE\s+)?(?:'
@@ -107,8 +108,10 @@ def sql_str(v):
 
 
 # ───────────────────────── Geometria ─────────────────────────
-def caixa_visivel(pagina):
+def caixa_visivel(pagina, P=None):
     """(x0, topo, x1, fundo) da área visível (CropBox) em coordenadas do pdfplumber. Fora dela é sangria."""
+    if P is not None and P.ignorar_cropbox:          # CropBox errada (2009 corta o topo): usa a página inteira
+        return (0, 0, pagina.width, pagina.height)
     try:
         cb = pagina.cropbox
         h = pagina.height
@@ -117,9 +120,33 @@ def caixa_visivel(pagina):
         return (0, 0, pagina.width, pagina.height)
 
 
+# Ordem padrão de glifos do Macintosh (tabela 'post' do TrueType), índices 3 a 257. Fontes Arial/Times embutidas
+# sem tabela Unicode (o pdfplumber devolve "(cid:N)") mantêm essa ordem: cid 36 = "A", cid 116 = "í" (na Arial do
+# Windows, a partir do 172 os índices andam uma casa: falta o espaço rígido).
+_GLIFOS_MAC = ' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄¤‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔ\uf8ffÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇŁłŠšŽž¦ÐðÝýÞþ−×¹²³½¼¾₣ĞğİŞşĆćČčđ'
+RE_CID = re.compile(r'^\(cid:(\d+)\)$')
+
+
+def decodificar_cid(chars, familias):
+    """Perfis com `decodificar_cid`: troca "(cid:N)" pelo caractere da ordem padrão de glifos, só nas fontes das
+    `familias` (ex.: ArialMT). Devolve quantos caracteres foram decodificados."""
+    n = 0
+    for c in chars:
+        m = RE_CID.match(c['text'])
+        if m and any(f in c['fontname'] for f in familias):
+            k = int(m.group(1))
+            k = k + 1 if k >= 172 else k       # a Arial do Windows não tem o glifo 172 (espaço rígido) da ordem Mac
+            if 3 <= k <= 257 and _GLIFOS_MAC[k - 3] != '\uf8ff':
+                c['text'] = _GLIFOS_MAC[k - 3]
+                n += 1
+    return n
+
+
 def preparar_pagina(pagina, P):
     """Remove caracteres duplicados, marca d'água (fonte minúscula) e o que está fora da área visível."""
-    vx0, vt, vx1, vb = caixa_visivel(pagina)
+    vx0, vt, vx1, vb = caixa_visivel(pagina, P)
+    if P.decodificar_cid:
+        decodificar_cid(pagina.chars, P.decodificar_cid)
     pagina = pagina.dedupe_chars()
 
     def manter(o):
@@ -184,7 +211,7 @@ def calha_por_separador(pagina, topo, rodape, P):
     """O caderno desenha uma linha vertical entre as colunas: é a calha exata (não depende do texto)."""
     if not P.separador_vertical:
         return None
-    vx0, _, vx1, _ = caixa_visivel(pagina)
+    vx0, _, vx1, _ = caixa_visivel(pagina, P)
     meio0, meio1 = vx0 + (vx1 - vx0) * 0.35, vx0 + (vx1 - vx0) * 0.65
     alt = rodape - topo
     for o in list(pagina.lines) + list(pagina.rects) + list(pagina.curves):
@@ -244,15 +271,40 @@ def caixas_visiveis_imagens(caminho_pdf, pagina_orig, pn):
     return out
 
 
+def _filetes_de_grafico(objs, filetes):
+    """Perfis com `filetes_de_grafico`: devolve aos objetos os filetes que fazem parte de um desenho (eixos de
+    gráfico, linhas de esquema). Fica o filete que encosta em um traço vetorial que não é filete (seta, curva), ou
+    em outro filete perpendicular (eixos em L), e, depois, o que estiver dentro da área desses desenhos."""
+    vet = [o['caixa'] for o in objs if not o['img']]
+    horiz = lambda c: (c[2] - c[0]) >= (c[3] - c[1])
+    usados = set()
+    for i, f in enumerate(filetes):
+        if any(intersecta(f, v, folga=2) for v in vet) or any(
+                j != i and horiz(f) != horiz(g) and intersecta(f, g, folga=2) for j, g in enumerate(filetes)):
+            usados.add(i)
+    if not usados:
+        return objs
+    areas = [filetes[i] for i in usados]
+    for i, f in enumerate(filetes):
+        if i not in usados and any(a[0] - 4 <= f[0] and f[2] <= a[2] + 4 and a[1] - 4 <= f[1] and f[3] <= a[3] + 4
+                                   for a in [uniao(x, y) for x in areas for y in areas if intersecta(x, y, folga=2)]):
+            usados.add(i)
+    return objs + [{'caixa': filetes[i], 'img': False, 'n': 1, 'membros': [(filetes[i], False)]} for i in sorted(usados)]
+
+
 def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
     """Agrupa imagens e desenhos vetoriais em blocos. Devolve (figuras, caixas):
       - figuras: imagens, gráficos, mapas, tabelas (recortados e salvos como imagem);
       - caixas: retângulos isolados = fundo de quadro de texto ou faixa de título (o texto é lido normalmente).
     Cada figura guarda `membros` (os objetos originais) para separar alternativas que são imagens distintas."""
-    objs = []
+    objs, filetes = [], []
+    zonas_rotulo = _zonas_rotulo(pagina.chars) if P.quadro_rotulo else []
     for tipo, lista in (('img', pagina.images), ('vet', pagina.curves + pagina.rects + pagina.lines)):
         for o in lista:
             c = caixa(o)
+            if tipo == 'vet' and any(z[0] <= c[0] and c[2] <= z[2] and z[1] <= c[1] and c[3] <= z[3]
+                                     for z in zonas_rotulo):
+                continue                                       # quadrinho do rótulo 'Questão | N'
             if tipo == 'img':
                 c = aparadas.get(tuple(round(v) for v in c), c)
             w, h = c[2] - c[0], c[3] - c[1]
@@ -264,6 +316,8 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             if P.margem_figuras > 0 and (cx < vis[0] + P.margem_figuras or cx > vis[2] - P.margem_figuras):
                 continue                                       # faixa decorativa da borda da página
             if tipo == 'vet' and (min(w, h) < 2.5 and max(w, h) > 20):   # filete
+                if P.filetes_de_grafico and h < pagina.height * 0.6 and w < pagina.width * 0.9:
+                    filetes.append(c)                  # pode ser eixo/linha de um gráfico vetorial (decide abaixo)
                 continue
             if tipo == 'vet' and P.filete_max_esp > 0 and max(w, h) >= 40 and min(w, h) <= P.filete_max_esp \
                     and max(w, h) / max(min(w, h), 0.1) >= 12:          # filete grosso (barra decorativa)
@@ -273,6 +327,8 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             if w > pagina.width * 0.97:                                    # moldura da página
                 continue
             objs.append({'caixa': c, 'img': tipo == 'img', 'n': 1, 'membros': [(c, tipo == 'img')]})
+    if filetes:
+        objs = _filetes_de_grafico(objs, filetes)
     grupos = objs
 
     def traco(g):                     # traço vetorial minúsculo e isolado (ponta de filete, risco)
@@ -672,12 +728,13 @@ def fundir_indices(lns):
     return sorted(resto, key=lambda l: l['top'])
 
 
-# ───────────────────────── Motor v1: comportamento CONGELADO, validado em 2025 ─────────────────────────
-# Estas funções são cópias literais do extrator usado e validado em 2025. Não as altere para corrigir outro ano:
-# melhorias novas vão nas versões sem sufixo (motor v2) e só valem para perfis com motor='v2'.
-# O perfil de 2025 fixa motor='v1' (ver perfis.py); scripts/extrator/verificar_baseline.py confere que nada mudou.
+# ───────────────────────── Motor v2025: comportamento CONGELADO, validado em 2025 ─────────────────────────
+# Estas funções (sufixo _v2025) são cópias literais do extrator usado e validado em 2025 e só rodam nas provas de
+# 2025. Não as altere para corrigir outro ano: as funções sem sufixo formam o código-base do motor v2024, herdado
+# pelos motores dos demais anos (v2023 ... v2009), que se diferenciam pelos ajustes do seu perfil em perfis.py.
+# scripts/extrator/verificar_baseline.py confere que nada mudou nos anos validados.
 
-def _texto_de_chars_v1(cs):
+def _texto_de_chars_v2025(cs):
     """Texto de um grupo de caracteres (numerador/denominador), com índices convertidos."""
     cs = agrupar_indices([c for c in cs if c['text'].strip()])
     cs = sorted(cs, key=lambda c: (round((c['top'] + c['bottom']) / 2 / 3), c['x0']))
@@ -702,7 +759,7 @@ def _texto_de_chars_v1(cs):
     return ''.join(out).strip()
 
 
-def marcar_radicais_v1(chars, curvas):
+def marcar_radicais_v2025(chars, curvas):
     """O sinal de raiz é um desenho preenchido (gancho + barra), não um caractere. O radicando fica sob ele:
     insere '√' antes dele ('√2', '√(x+1)'). Devolve (chars, quantidade)."""
     trocas, n = {}, 0
@@ -728,7 +785,7 @@ def marcar_radicais_v1(chars, curvas):
     return ([trocas.get(id(c), c) for c in chars], n) if trocas else (chars, 0)
 
 
-def fundir_fracoes_v1(chars, barras):
+def fundir_fracoes_v2025(chars, barras):
     """Fração empilhada vira 'num/den': numerador e denominador estão em linhas separadas, o que embaralharia
     o texto. Devolve (chars, quantidade)."""
     usados, sinteticos = set(), []
@@ -741,7 +798,7 @@ def fundir_fracoes_v1(chars, barras):
             continue
         if max(c['size'] for c in num + den) > 14:
             continue
-        tn, td = _texto_de_chars_v1(num), _texto_de_chars_v1(den)
+        tn, td = _texto_de_chars_v2025(num), _texto_de_chars_v2025(den)
         if not tn or not td:
             continue
         emb = lambda t: f'({t})' if _composto(t) else t
@@ -760,7 +817,7 @@ def fundir_fracoes_v1(chars, barras):
     return [c for c in chars if id(c) not in usados] + sinteticos, len(sinteticos)
 
 
-def ilegiveis_para_figuras_v1(itens, pn, largura):
+def ilegiveis_para_figuras_v2025(itens, pn, largura):
     """Linhas com glifos indecifráveis são recortadas como imagem; o texto corrompido não é mantido.
     Alternativa afetada = UMA imagem. As linhas da zona de alternativas (numeradores acima da letra,
     denominadores abaixo) pertencem à letra verticalmente mais próxima; só entram no recorte linhas alinhadas
@@ -836,7 +893,7 @@ def ilegiveis_para_figuras_v1(itens, pn, largura):
     return saida
 
 
-def _figuras_para_alternativas_v1(q):
+def _figuras_para_alternativas_v2025(q):
     """Figuras ao lado das letras A–E pertencem às alternativas; as demais são imagens de apoio."""
     linhas_alt = [(a, l) for a in q['alts'] for l in a['linhas'] if l.get('alt') == a['letra']]
     por_linha = {}
@@ -906,6 +963,50 @@ def _indices_soltos(chars_linha, tam_corpo):
     return len(pequenos) if pequenos and len(pequenos) < len(cs) * 0.5 else 0
 
 
+def _zonas_rotulo(chars):
+    """Caixas em volta dos rótulos "Questão N" em negrito (quadrinho desenhado com retângulos)."""
+    zonas = []
+    chars = [c for c in chars if len(c['text']) == 1]      # "(cid:N)" e ligaduras não entram na busca
+    texto = ''.join(c['text'] for c in chars)
+    for m in re.finditer(r'Quest[ãa]o(?!es)', texto, re.I):
+        cs = chars[m.start():m.end()]
+        if any(k in cs[0]['fontname'] for k in ('Bold', 'Black', 'Heavy')):
+            zonas.append((min(c['x0'] for c in cs) - 6, min(c['top'] for c in cs) - 6,
+                          max(c['x1'] for c in cs) + 45, max(c['bottom'] for c in cs) + 8))
+    return zonas
+
+
+def _sem_bordas_do_rotulo(chars, barras):
+    """Remove as bordas horizontais do quadrinho do rótulo "Questão N" (só perfis com `quadro_rotulo`)."""
+    zonas = _zonas_rotulo(chars)
+    if not zonas:
+        return barras
+    return [b for b in barras if not any(z[0] <= b['x0'] and b['x1'] <= z[2] and z[1] <= b['top'] <= z[3]
+                                         for z in zonas)]
+
+
+def _dividir_alternativas_lado_a_lado(brutas, P):
+    """Linha com duas letras de alternativa em fonte de marcador ("A 1,16 metros.   D 5,6 metros."): vira uma linha
+    por alternativa, cortando na posição de cada marcador (só perfis com `alternativas_lado_a_lado`)."""
+    saida = []
+    for ln in brutas:
+        cs = [c for c in ln['chars'] if c['text'].strip()]
+        marcas = [c for c in cs if c['text'] in 'ABCDE' and any(k in c['fontname'] for k in P.fontes_letra)]
+        partes = re.split(r'\s+(?=[A-E]\s)', ln['text'])
+        if len(marcas) < 2 or cs[0] is not marcas[0] or len(partes) != len(marcas):
+            saida.append(ln)
+            continue
+        cortes = [m['x0'] - 0.5 for m in marcas[1:]] + [float('inf')]
+        ini = float('-inf')
+        for texto, fim in zip(partes, cortes):
+            grupo = [c for c in ln['chars'] if ini <= c['x0'] < fim]
+            ini = fim
+            if grupo:
+                saida.append(dict(ln, text=texto, chars=grupo, x0=min(c['x0'] for c in grupo),
+                                  x1=max(c['x1'] for c in grupo), lado_a_lado=True))
+    return saida
+
+
 def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     """Linhas de texto de uma região (uma coluna ou a página toda), sem o texto de dentro das figuras
     (`excl`), sem linhas em `pular_tops`, sem numeração de margem e com frações linearizadas."""
@@ -914,25 +1015,36 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     chars, numerada = remover_numeracao(chars)
     curvas = [o for o in reg.curves if not excl(o)]
     barras = [o for o in list(reg.lines) + list(reg.rects) if _fina_horizontal(o) and not excl(o)]
-    if P.v1:                                   # motor v1: comportamento congelado de 2025
-        chars, nrad = marcar_radicais_v1(chars, curvas)
-        chars, nfr = fundir_fracoes_v1(chars, barras)
+    if P.letra_em_circulo:                     # letra da alternativa dentro de um círculo (digital): não é radical
+        letras = [c for c in chars if c['text'] in 'ABCDE']
+        curvas = [o for o in curvas if not (abs((o['x1'] - o['x0']) - (o['bottom'] - o['top'])) < 2.5
+                                            and 6 <= o['x1'] - o['x0'] <= 20
+                                            and any(o['x0'] <= (c['x0'] + c['x1']) / 2 <= o['x1']
+                                                    and o['top'] <= (c['top'] + c['bottom']) / 2 <= o['bottom']
+                                                    for c in letras))]
+    if P.quadro_rotulo:                        # rótulo "Questão | N" desenhado como tabelinha (2009...): a borda
+        barras = _sem_bordas_do_rotulo(chars, barras)   # de baixo não é traço de fração
+    if P.usa_v2025:                                   # motor v2025: comportamento congelado de 2025
+        chars, nrad = marcar_radicais_v2025(chars, curvas)
+        chars, nfr = fundir_fracoes_v2025(chars, barras)
     else:
         chars, nrad = marcar_radicais(chars, curvas, barras, 'sem_fracao')
         chars, nfr = fundir_fracoes(chars, barras)
         chars, nrad2 = marcar_radicais(chars, curvas, barras, 'com_fracao')
     if not chars:
         return []
-    chars = agrupar_indices(chars, P.fontes_letra)   # compartilhado pelos motores v1 e v2
+    chars = agrupar_indices(chars, P.fontes_letra)   # compartilhado por todos os motores (v2025, v2024 e derivados)
     tam_corpo = Counter(round(c['size'], 1) for c in chars if c['size'] >= 8 and c['text'].strip()).most_common(1)
     tam_corpo = tam_corpo[0][0] if tam_corpo else 10
     brutas = chars_to_textmap(chars, y_tolerance=4).extract_text_lines(strip=True, return_chars=True)
+    if P.alternativas_lado_a_lado:
+        brutas = _dividir_alternativas_lado_a_lado(brutas, P)
     for ln in brutas:
         ln['text'] = aplicar_indices(ln)
     out = []
     for ln in fundir_indices(list(brutas)):
         txt = limpar(RE_MARCA_SUB.sub('', ln['text']))
-        if not P.v1:
+        if not P.usa_v2025:
             txt = re.sub(r'\) ([,.;:])', r')\1', txt)           # ")" fim de fração/raiz + pontuação colada
         if RE_SO_MARCA.match(txt):
             continue
@@ -942,6 +1054,7 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         if not cs:
             continue
         letra, fonte_marcador = None, False
+        lado_a_lado = bool(ln.get('lado_a_lado'))
         if cs[0]['text'] in 'ABCDE':
             fonte_marcador = any(k in cs[0]['fontname'] for k in P.fontes_letra)
             if fonte_marcador or (not P.letra_so_por_marcador and len(cs) > 2
@@ -958,6 +1071,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             'fracoes': len({id(c) for c in ln['chars'] if c.get('fracao')}),   # o pdfplumber repete o objeto por caractere
             'indices_soltos': _indices_soltos(ln['chars'], tam_corpo),
         }
+        if lado_a_lado:
+            item['lado_a_lado'] = True
         partes = (cs[1:] or cs) if letra else cs
         ext = [c.get('_ext') or (c['x0'], c['top'], c['x1'], c['bottom']) for c in partes]
         item['_cb'] = (min(e[0] for e in ext), min(e[1] for e in ext), max(e[2] for e in ext), max(e[3] for e in ext))
@@ -969,6 +1084,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             negrito = any(k in cs[0]['fontname'] for k in ('Bold', 'Black', 'Heavy', 'Semibold'))
             if not m.group(2).strip():
                 item['rotulo'] = int(m.group(1))
+            elif P.rotulo_com_area and re.match(r'^[-–—]\s*', m.group(2)) and RE_AREA.search(m.group(2)):
+                item['rotulo'] = int(m.group(1))                  # "Questão 93 - Ciências da Natureza..." (digital)
             elif negrito:                                         # rótulo colado ao texto: separa
                 item['rotulo'] = int(m.group(1))
                 resto = dict(item, texto=limpar(m.group(2)), tam=item['tam'], rotulo=None)
@@ -1068,6 +1185,10 @@ def ilegiveis_para_figuras(itens, pn, largura):
                 elif it['alt'] == esperado and atual:
                     atual.append(k)
                     esperado = chr(ord(esperado) + 1)
+                elif it.get('lado_a_lado') and atual:   # alternativas lado a lado (A D / B E / C): fora de ordem
+                    atual.append(k)
+                    feitas = {itens[x]['alt'] for x in atual}
+                    esperado = next((l for l in 'ABCDE' if l not in feitas), 'F')
                 else:
                     it['alt'] = None                # "C" de uma fórmula, p. ex. CHCl₃: não é alternativa
         if atual:
@@ -1209,7 +1330,7 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
     for pn in paginas:
         orig = pdf.pages[pn - 1]
         pagina = preparar_pagina(orig, P)
-        vis = caixa_visivel(orig)
+        vis = caixa_visivel(orig, P)
         alt_vis = vis[3] - vis[1]
         topo, rodape = vis[1] + alt_vis * P.topo_rel, vis[1] + alt_vis * P.rodape_rel
         aparadas = caixas_visiveis_imagens(caminho, orig, pn) if P.aparar_transparencia else {}
@@ -1217,9 +1338,13 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         caixas_fig = [f['caixa'] for f in figs]
         manter_texto = chars_de_texto_corrido(pagina, caixas_fig)
 
+        zonas_rot = _zonas_rotulo(pagina.chars) if P.proteger_rotulos else []
+
         def so_fig(o):
             if not centro_dentro(o, caixas_fig):
                 return False
+            if zonas_rot and o.get('object_type') == 'char' and centro_dentro(o, zonas_rot):
+                return False                              # rótulo "Questão NN" encostado numa figura
             return not (o.get('object_type') == 'char' and _chave_char(o) in manter_texto)
 
         quadros = []        # quadros de texto com 2 colunas por dentro (ex.: "Texto I | Texto II")
@@ -1257,7 +1382,7 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         if idiomas_cab:
             idioma_cab = 'ingles' if idiomas_cab[0] else 'espanhol'
             for i in cabecalho_fluxo:
-                if i.get('rotulo') and i['rotulo'] <= P.questoes_idioma[1]:
+                if i.get('rotulo') and P.e_idioma(i['rotulo']):
                     i['idioma_contexto'] = idioma_cab
         if cabecalho_fluxo:
             for nome, itens in regs.items():
@@ -1290,7 +1415,7 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         for nome in ('S0', 'E', 'D', 'U', 'S1'):
             itens = regs.get(nome, [])
             itens.sort(key=lambda i: i.get('ord', (i['top'], 0, i['top'])))
-            itens = (ilegiveis_para_figuras_v1 if P.v1 else ilegiveis_para_figuras)(itens, pn, pagina.width)
+            itens = (ilegiveis_para_figuras_v2025 if P.usa_v2025 else ilegiveis_para_figuras)(itens, pn, pagina.width)
             caixas_formula.extend(i['caixa'] for i in itens if i['tipo'] == 'figura' and i.get('formula'))
             geometria(itens)
             fluxo.extend(itens)
@@ -1331,15 +1456,11 @@ def materia_da_area(texto):
     return None
 
 
-def materia_por_numero(numero):
-    if 1 <= numero <= 45:
-        return 'linguagens'
-    if 46 <= numero <= 90:
-        return 'humanas'
-    if 91 <= numero <= 135:
-        return 'natureza'
-    if 136 <= numero <= 180:
-        return 'matematica'
+def materia_por_numero(numero, P=None):
+    """Área pelo número da questão. A ordem das áreas muda entre edições (ver `Perfil.areas`)."""
+    areas = P.areas if P is not None else ('linguagens', 'humanas', 'natureza', 'matematica')
+    if 1 <= numero <= 180:
+        return areas[(numero - 1) // 45]
     return None
 
 
@@ -1365,17 +1486,17 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
             num = it.get('rotulo')
             if num:
                 fechar()
-                if num <= P.questoes_idioma[1] and it.get('idioma_contexto'):
+                if P.e_idioma(num) and it.get('idioma_contexto'):
                     idioma = it['idioma_contexto']
-                elif num > P.questoes_idioma[1]:
-                    idioma = idioma_forcado if idioma_forcado and num <= P.questoes_idioma[1] else None
-                materia_fixa = materia_por_numero(num)
+                elif not P.e_idioma(num):
+                    idioma = None
+                materia_fixa = materia_por_numero(num, P)
                 if materia_fixa:
                     materia = materia_fixa
                 if compartilhado is not None:
                     compartilhados.append(compartilhado)
                     compartilhado = None
-                idioma_q = idioma if num <= P.questoes_idioma[1] else None
+                idioma_q = idioma if P.e_idioma(num) else None
                 chave = (num, idioma_q)
                 if chave in questoes:
                     atual = questoes[chave]
@@ -1405,7 +1526,7 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
             m = re.search(r'Quest[õo]es\s+de\s+(\d{1,3})\s+a\s+(\d{1,3})', t, re.I)
             if m:
                 fechar()
-                materia = materia_por_numero(int(m.group(2)))
+                materia = materia_por_numero(int(m.group(2)), P)
                 continue
 
             if atual is not None:
@@ -1413,11 +1534,11 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 esp = next((letra for letra in 'ABCDE' if letra not in letras_usadas), None)
                 par = RE_ALT_PARES.fullmatch(t.strip())
                 if (par and esp == par.group(1).upper() and par.group(2).upper() not in letras_usadas
-                        and (P.v1 or par.group(1).upper() != par.group(2).upper())):   # v2: "A A" não é par
+                        and (P.usa_v2025 or par.group(1).upper() != par.group(2).upper())):   # v2024+: "A A" não é par
                     marcas = it.get('marcas_x') or []
                     for indice, letra in enumerate((par.group(1).upper(), par.group(2).upper())):
                         linha_alt = dict(it, texto=letra, alt=letra, par_indice=indice,
-                                         x0=marcas[indice] if (not P.v1 and len(marcas) > indice) else it['x0'])
+                                         x0=marcas[indice] if (not P.usa_v2025 and len(marcas) > indice) else it['x0'])
                         atual['alts'].append({'letra': letra, 'linhas': [linha_alt]})
                     continue
                 marcador = it.get('alt')
@@ -1426,9 +1547,9 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                     marcador = (match_alt.group(1) if match_alt and
                                 (not alt_por_fonte or t.strip() == esp or t[1:2] in ').:-' or
                                  RE_ALT_COMPACTA.match(t)) else None)
-                if P.v1:                                 # motor v1: só a próxima letra da sequência
+                if P.usa_v2025:                                 # motor v2025: só a próxima letra da sequência
                     aceita = bool(esp) and marcador == esp
-                else:                                    # v2: letra repetida é texto; grade A D / B E / C vale fora de ordem
+                else:                                    # v2024+: letra repetida é texto; grade A D / B E / C vale fora de ordem
                     if marcador and marcador in letras_usadas:
                         marcador = None
                     aceita = bool(marcador) and (marcador == esp or bool(it.get('alt_marcador')))
@@ -1466,7 +1587,7 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
         q['itens'] = list(pre) + q['itens']
         q['compartilhado'] = bool(pre)
         q['alts'].sort(key=lambda a: a['letra'])
-        (_figuras_para_alternativas_v1 if P.v1 else _figuras_para_alternativas)(q)
+        (_figuras_para_alternativas_v2025 if P.usa_v2025 else _figuras_para_alternativas)(q)
     return questoes
 
 
@@ -1641,8 +1762,44 @@ def salvar_figura(pdf, fig, destino, dpi, formato):
 
 
 # ───────────────────────── Gabarito ─────────────────────────
-def carregar_gabaritos(caminho, idioma_forcado=None):
+def _gabarito_por_cor(caminho, cor, P):
+    """Gabarito com os cadernos de várias cores lado a lado (2009): lê só a coluna da cor `cor`.
+    Lê palavra a palavra na ordem (página, linha, x) dentro da faixa da coluna, para não perder a linha que o PDF
+    quebra entre duas páginas ("67" no pé da página 1 e "D" no topo da página 2)."""
+    alvo = norm(cor)
+    fichas = []
+    with pdfplumber.open(caminho) as pdf:
+        for pn, pg in enumerate(pdf.pages):
+            ws = pg.extract_words()
+            cab = [w for w in ws if norm(w['text']) == alvo]
+            gab = [w for w in ws if norm(w['text']).replace('_', '') == 'gab' + alvo]
+            if not cab or not gab:
+                continue
+            x0, x1 = cab[0]['x0'] - 4, gab[0]['x1'] + 4
+            for w in sorted(ws, key=lambda w: (round(w['top']), w['x0'])):
+                if w['top'] > cab[0]['bottom'] and x0 <= (w['x0'] + w['x1']) / 2 <= x1:
+                    fichas.append(w['text'])
+    gab, numero = {}, None
+    for t in fichas:
+        if re.fullmatch(r'\d{1,3}', t):
+            numero = int(t)
+        elif numero and (re.fullmatch(r'[A-E]', t, re.I) or re.match(r'anulad', t, re.I)):
+            resposta = None if re.match(r'anulad', t, re.I) else t.upper()
+            if P.e_idioma(numero):          # 2009: uma só resposta vale para inglês e espanhol
+                gab[(numero, 'ingles')] = gab[(numero, 'espanhol')] = resposta
+            else:
+                gab[(numero, None)] = resposta
+            numero = None
+    if not gab:
+        sys.exit(f'Nenhuma resposta da cor "{cor}" foi reconhecida no PDF de gabarito.')
+    return gab
+
+
+def carregar_gabaritos(caminho, idioma_forcado=None, P=None):
     """Lê pares questão/resposta do PDF oficial de gabarito. Chave: (número, idioma|None)."""
+    if P is not None and P.cor_gabarito:
+        return _gabarito_por_cor(caminho, P.cor_gabarito, P)
+    e_idioma = P.e_idioma if P is not None else (lambda n: 1 <= n <= 5)
     padrao_bilingue = re.compile(r'^\s*(\d{1,3})\s+([A-E])\s+([A-E])\s+(\d{1,3})\s+([A-E])\s*$', re.I)
     padrao = re.compile(
         r'(?<!\d)(?:QUEST[ÃA]O\s*)?(\d{1,3})\s*(?:[:.)\-]\s*|\s+)'
@@ -1661,23 +1818,29 @@ def carregar_gabaritos(caminho, idioma_forcado=None):
             idioma_atual = 'espanhol'
         for m in anuladas.finditer(linha):
             numero = int(m.group(1))
-            if 1 <= numero <= 180 and (numero > 5 or idioma_atual in ('ingles', 'espanhol')):
-                gab[(numero, idioma_atual if numero <= 5 else None)] = None
+            if 1 <= numero <= 180 and (not e_idioma(numero) or idioma_atual in ('ingles', 'espanhol')):
+                gab[(numero, idioma_atual if e_idioma(numero) else None)] = None
         bi = padrao_bilingue.fullmatch(linha)
         if bilingue_doc and bi:
             ni, nc = int(bi.group(1)), int(bi.group(4))
-            if 1 <= ni <= 5 and 46 <= nc <= 180:
+            if e_idioma(ni) and 46 <= nc <= 180 and not e_idioma(nc):
                 gab[(ni, 'ingles')] = bi.group(2).upper()
                 gab[(ni, 'espanhol')] = bi.group(3).upper()
                 gab[(nc, None)] = bi.group(5).upper()
                 continue
+        par_idioma = re.fullmatch(r'\s*(\d{1,3})\s+([A-E])\s+([A-E])\s*', linha, re.I)
+        if bilingue_doc and par_idioma and e_idioma(int(par_idioma.group(1))):   # "91 E D" (inglês, espanhol)
+            ni = int(par_idioma.group(1))
+            gab[(ni, 'ingles')] = par_idioma.group(2).upper()
+            gab[(ni, 'espanhol')] = par_idioma.group(3).upper()
+            continue
         for m in padrao.finditer(linha.upper()):
             numero, resposta = int(m.group(1)), m.group(2).upper()
             if not 1 <= numero <= 180:
                 continue
-            if numero <= 5 and idioma_atual not in ('ingles', 'espanhol'):
+            if e_idioma(numero) and idioma_atual not in ('ingles', 'espanhol'):
                 continue
-            chave = (numero, idioma_atual if numero <= 5 else None)
+            chave = (numero, idioma_atual if e_idioma(numero) else None)
             if chave in gab and gab[chave] and gab[chave] != resposta:
                 sys.exit(f'O PDF de gabarito tem respostas conflitantes para a questão {numero}.')
             gab[chave] = resposta
@@ -1757,7 +1920,7 @@ def auditar_cobertura(palavras_corpo, resultados):
 def sql_questao(registro):
     colunas = ('id', 'numero', 'materia', 'ano', 'categoria', 'idioma', 'enunciado',
                'texto_apoio', 'credito_texto', 'imagem_url', 'imagens_url',
-               'alternativas_imagens', 'alternativas', 'gabarito', 'anulada')
+               'alternativas_imagens', 'alternativas', 'gabarito', 'anulada', 'explicacao')
     valores = (
         sql_str(registro['id']), str(registro['numero']), sql_str(registro['materia']),
         str(registro['ano']), sql_str(registro['categoria']), sql_str(registro['idioma']),
@@ -1768,8 +1931,9 @@ def sql_questao(registro):
         f'{sql_str(json.dumps(registro["alternativas_imagens"], ensure_ascii=False))}::jsonb',
         f'{sql_str(json.dumps(registro["alternativas"], ensure_ascii=False))}::jsonb',
         sql_str(registro['gabarito']), 'true' if registro['anulada'] else 'false',
+        sql_str(registro.get('explicacao')),
     )
-    preservar = {'texto_apoio', 'credito_texto', 'imagem_url'}
+    preservar = {'texto_apoio', 'credito_texto', 'imagem_url', 'explicacao'}
 
     def atualiza(c):
         if c in preservar:
@@ -1797,7 +1961,7 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         'topo_rel': args.topo, 'rodape_rel': args.rodape, 'tam_credito': args.tam_credito})
     log(f'\n══ {ano} · {categoria} · dia {dia}{" · " + idioma_forcado if idioma_forcado else ""} · {Path(caminho_pdf).name}')
     log(f'perfil: {P.nome}')
-    gabaritos = carregar_gabaritos(caminho_gab, idioma_forcado)
+    gabaritos = carregar_gabaritos(caminho_gab, idioma_forcado, P)
     log(f'{len(gabaritos)} respostas carregadas do gabarito.')
 
     with pdfplumber.open(caminho_pdf) as pdf:
@@ -1808,6 +1972,10 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         else:
             paginas = list(range(1, total + 1))
         paginas = [p for p in paginas if 1 <= p <= total]
+        if P.pular_capa and not args.paginas:        # capa com instruções: não tem questão
+            capa = pdf.pages[0].extract_text() or ''
+            if re.search(r'LEIA\s*ATENTAMENTE|INSTRU[ÇC][ÕO]ES', capa, re.I) and not RE_QUESTAO.search(capa):
+                paginas = [p for p in paginas if p != 1]
         fluxo, corpo_palavras, perdas = ler_fluxo(pdf, str(caminho_pdf), paginas, P, log)
         alt_por_fonte = any(i.get('alt') for i in fluxo if i['tipo'] == 'linha')
         log(f'PDF: {total} páginas; lidas {len(paginas)}; alternativas por {"fonte" if alt_por_fonte else "texto"}.')
@@ -1876,6 +2044,16 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
             r['_avisos'] = auditar(r)
             resultados.append(r)
 
+        # explicação da resolução (IA), logo após a extração: cruza enunciado, alternativas e gabarito oficial
+        nome_cache = f'{ano}-{categoria}-dia{dia}{sufixo_saida}'
+        if getattr(args, 'explicar', False) and not args.dry_run:
+            IA.explicar(resultados, nome_cache, Path(args.saida_img).parent, log,
+                        modelo=args.modelo_explicacao, refazer=args.explicar_refazer)
+        else:
+            IA.carregar_do_cache(resultados, nome_cache)
+            n_cache = sum(1 for r in resultados if r['explicacao'])
+            log(f'EXPLICAÇÕES (IA): {n_cache} do cache' + ('' if getattr(args, 'explicar', False) else
+                ' (use --explicar, sem --dry-run, para gerar as que faltam)') + '.')
         faltantes = auditar_cobertura(corpo_palavras, resultados)
         digitos_falt = auditar_digitos(corpo_palavras, resultados)
 
@@ -1888,17 +2066,19 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
                 f'{len(r["imagens_url"])} img apoio, {sum(map(len, r["alternativas_imagens"].values()))} img alt.{extra}')
     for rotulo, motivo in ignoradas:
         log(f'- {rotulo}: IGNORADA; {motivo}.')
-    esperado = 95 if dia == 1 and not idioma_forcado else (90 if dia == 2 else 50 if idioma_forcado else None)
     numeros = {(r['numero'], r['idioma']) for r in resultados}
-    ausentes = []
-    if dia == 2:
-        ausentes = [n for n in range(91, 181) if (n, None) not in numeros]
-    elif dia == 1:
-        ausentes = ([f'{n}-ing' for n in range(1, 6) if (n, 'ingles') not in numeros] if idioma_forcado in (None, 'ingles') else []) \
-            + ([f'{n}-esp' for n in range(1, 6) if (n, 'espanhol') not in numeros] if idioma_forcado in (None, 'espanhol') else []) \
-            + [n for n in range(6, 91) if (n, None) not in numeros]
+    idiomas = ([idioma_forcado] if idioma_forcado else ['ingles', 'espanhol']) if P.tem_idioma(dia) else []
+    esperadas = []
+    for n in P.faixa_dia(dia):
+        if P.e_idioma(n):
+            esperadas += [(n, i) for i in idiomas]
+        else:
+            esperadas.append((n, None))
+    esperado = len(esperadas)
+    ausentes = [f'{n}-{i[:3]}' if i else n
+                for n, i in esperadas if (n, i) not in numeros]
     log(f'\nRESUMO: {len(resultados)} questões extraídas'
-        + (f' de {esperado} esperadas' if esperado and not idioma_forcado else '')
+        + f' de {esperado} esperadas'
         + f' · {len(com_aviso)} com aviso · {len(ignoradas)} ignoradas · '
         f'{sum(1 for r in resultados if r["anulada"])} anuladas.')
     if ausentes:
@@ -1912,6 +2092,16 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
     n_dig = sum(digitos_falt.values())
     log(f'COBERTURA DOS NÚMEROS: ' + (f'{n_dig} algarismo(s) do PDF não aparecem no resultado ({digitos_falt}).' if n_dig else 'completa.'))
 
+    extrair_prova.ultimo_relatorio = {
+        'ano': ano, 'categoria': categoria, 'dia': dia, 'idioma': idioma_forcado, 'motor': P.motor,
+        'esperadas': esperado, 'extraidas': len(resultados), 'com_aviso': len(com_aviso),
+        'ignoradas': [list(i) for i in ignoradas], 'ausentes': [str(a) for a in ausentes],
+        'anuladas': sum(1 for r in resultados if r['anulada']),
+        'palavras_sem_cobertura': len(faltantes), 'exemplos_sem_cobertura': faltantes[:12],
+        'letras_perdidas': len(perdas), 'algarismos_sem_cobertura': n_dig,
+        'avisos': {r['id']: r['_avisos'] for r in resultados if r['_avisos']},
+        'explicacoes': sum(1 for r in resultados if r.get('explicacao')),
+    }
     if args.json:
         saida = [{k: v for k, v in r.items() if not k.startswith('_')} | {'avisos': r['_avisos']} for r in resultados]
         Path(args.json.replace('{n}', f'{ano}-{categoria}-d{dia}{sufixo_saida}')).write_text(
@@ -1977,6 +2167,11 @@ def main():
     ap.add_argument('--topo', type=float, help='ajusta a fração da altura visível que é cabeçalho')
     ap.add_argument('--rodape', type=float, help='ajusta a fração da altura visível onde começa o rodapé')
     ap.add_argument('--tam-credito', type=float, help='ajusta a razão de fonte abaixo da qual a linha é crédito')
+    ap.add_argument('--explicar', action='store_true',
+                    help='gera a coluna explicacao com IA (Claude) logo após a extração; exige ANTHROPIC_API_KEY')
+    ap.add_argument('--explicar-refazer', action='store_true', help='ignora o cache de explicações e gera de novo')
+    ap.add_argument('--modelo-explicacao', default=IA.MODELO_PADRAO, help='modelo usado nas explicações')
+    ap.add_argument('--relatorio', help='grava o relatório consolidado (JSON) de todas as provas processadas')
     args = ap.parse_args()
 
     if not 1998 <= args.ano <= 2050:
@@ -1993,11 +2188,20 @@ def main():
         ap.error(f'nenhuma prova encontrada em {args.pasta_provas}/{args.ano}. Use --pdf/--gabarito ou ajuste --pasta-provas.')
     if not args.tudo and not (args.categoria and args.dia):
         ap.error('informe --tudo, ou --categoria e --dia, ou o modo manual (--pdf).')
-    total = []
+    total, relatorio = [], []
     for pdf, gab, cat, dia, idioma in provas:
         suf = f'-{idioma}' if idioma else ''
-        res, ign, falt = extrair_prova(args, pdf, gab, args.ano, dia, cat, idioma, suf)
+        try:
+            res, ign, falt = extrair_prova(args, pdf, gab, args.ano, dia, cat, idioma, suf)
+        except SystemExit as e:        # uma prova com problema não interrompe as demais do ano
+            print(f'ERRO em {args.ano} {cat} dia {dia}{suf}: {e}')
+            relatorio.append({'ano': args.ano, 'categoria': cat, 'dia': dia, 'idioma': idioma, 'erro': str(e)})
+            total.append((cat, dia, idioma, 0, 0, 0))
+            continue
+        relatorio.append(getattr(extrair_prova, 'ultimo_relatorio', {}))
         total.append((cat, dia, idioma, len(res), len(ign), len(falt)))
+    if args.relatorio:
+        Path(args.relatorio).write_text(json.dumps(relatorio, ensure_ascii=False, indent=1), encoding='utf-8')
     if len(total) > 1:
         print('\n══ PANORAMA')
         for cat, dia, idioma, n, ni, nf in total:

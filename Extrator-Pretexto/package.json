@@ -11,7 +11,8 @@
     "start": "next start",
     "test:grade": "node --no-warnings scripts/testar-grade.mjs",
     "extrair": "python scripts/extrator/extrair_textos.py",
-    "verificar": "python scripts/extrator/verificar_baseline.py"
+    "verificar": "python scripts/extrator/verificar_baseline.py",
+    "extrair:lote": "python scripts/extrator/lote.py"
   },
   "dependencies": {
     "next": "14.2.35",

@@ -1,9 +1,13 @@
 # Uso do extrator Pretexto
 
 Um único extrator (`scripts/extrator/extrair_textos.py`) lê as provas do ENEM. As diferenças de diagramação de cada
-ano, dia e categoria, e o **motor** de extração usado em cada ano, ficam em `scripts/extrator/perfis.py`.
+ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts/extrator/perfis.py`.
 
-Estado atual: **2025 (motor v1)** e **2024 (motor v2)** estão validados. Os demais anos ainda não foram validados.
+**Cada ano tem o seu motor, com o nome do ano** (`v2025`, `v2024`, ..., `v2009`), e cada motor é usado
+**exclusivamente** para as questões do seu ano. O antigo motor `v1` passou a se chamar `v2025` e o antigo `v2`,
+`v2024`. Todo motor novo recebe obrigatoriamente o nome do ano a que se refere (ex.: `v2026`).
+
+<!-- ESTADO-POR-ANO -->
 
 ## 1) Preparar o ambiente
 
@@ -55,8 +59,43 @@ Rode o mesmo comando sem `--dry-run`. O extrator cria:
 - `supabase/ATUALIZAR-ANO-CATEGORIA-diaDIA.sql`, com inserções/atualizações pelo ID de cada questão.
 
 Cada combinação de ano, categoria e dia tem seu próprio SQL e sua própria pasta de imagens. O SQL grava em
-`imagem_url` a primeira imagem de apoio, todas em `imagens_url`, e as imagens das alternativas em
-`alternativas_imagens` (mapa de letra para lista de URLs).
+`imagem_url` a primeira imagem de apoio, todas em `imagens_url`, as imagens das alternativas em
+`alternativas_imagens` (mapa de letra para lista de URLs) e a resolução comentada em `explicacao`.
+
+### 4.1) Explicação da resolução por IA (`explicacao`)
+
+Com `--explicar` (sem `--dry-run`), logo depois de extrair e recortar as imagens, o extrator envia cada questão não
+anulada ao Claude (`scripts/extrator/explicar.py`, modelo padrão `claude-opus-5-5`, troque com
+`--modelo-explicacao`). A IA recebe texto de apoio, crédito, enunciado, as cinco alternativas, as imagens e o
+**gabarito oficial**, e escreve a explicação analisando cruzadamente enunciado, alternativas e gabarito: o que a
+questão pede, a resolução, por que a letra oficial está correta e por que as outras não estão. Ela nunca defende
+outra letra; se discordar do gabarito ou achar o texto extraído corrompido, a explicação começa com `[REVISAR]`.
+
+```bash
+export ANTHROPIC_API_KEY=...      # chave da API da Anthropic (nunca no frontend nem no repositório)
+python scripts/extrator/extrair_textos.py --ano 2025 --categoria regular --dia 1 --explicar
+```
+
+- Cache: `scripts/extrator/explicacoes/ANO-CATEGORIA-diaN.json`, por hash do conteúdo da questão. Reextrair não paga de
+  novo; só questões novas ou alteradas são reenviadas. `--explicar-refazer` ignora o cache.
+- Sem `--explicar` (ou com `--dry-run`) só o cache é usado; nada é enviado à API.
+- Sem credencial, as questões ficam com `explicacao = null` e o SQL **preserva** a explicação já gravada no banco.
+- Em um banco existente, rode antes `supabase/ADICIONAR_EXPLICACAO_QUESTOES.sql`.
+- A explicação é gerada por IA: revise as marcadas `[REVISAR]` antes de publicar.
+
+### 4.2) Extração em lote (`lote.py`)
+
+```bash
+# 1) validação prévia de todos os anos (nada é gravado)
+python scripts/extrator/lote.py --de 2009 --ate 2025 --dry-run
+# 2) leia relatorios/CONSOLIDADO.md
+# 3) gravação definitiva só das provas com status OK na validação (use --incluir-revisar para as demais)
+python scripts/extrator/lote.py --de 2009 --ate 2025 --gravar [--explicar]
+```
+
+Cada prova chama o motor do seu ano. Status no consolidado: **OK** (todas as questões, cobertura completa),
+**REVISAR** (todas as questões, mas sobrou texto/número do PDF sem cobertura), **FALHA** (faltam questões) e **ERRO**
+(gabarito ilegível, por exemplo). Os logs completos ficam em `relatorios/logs/`.
 
 ## 5) Ler o relatório
 
@@ -99,7 +138,7 @@ gravar o resultado completo e revisar o texto extraído.
 | índice à esquerda (isótopos) | `²₁D`, `¹²₆C`, `⁴⁰₁₉K` |
 | raiz | `√2`, `√(x+1)`, `√(k/m)` |
 | glifo sem Unicode | recorte da fórmula como imagem + aviso |
-| raiz com índice (∛), raiz sobre fração com índice, fração em expoente, fração de fração (motor v2) | recorte da fórmula como imagem + aviso |
+| raiz com índice (∛), raiz sobre fração com índice, fração em expoente, fração de fração (motores de código-base v2024) | recorte da fórmula como imagem + aviso |
 
 ## 6) Revisar o resultado
 
@@ -150,38 +189,55 @@ A diagramação do ENEM muda entre edições. Em vez de um script por ano, `scri
 de cada ano/dia/categoria:
 
 ```python
-REGRAS = [
-    Regra('2024: motor v2', anos=(2024,), ajustes=dict(...)),
-    Regra('2025: motor v1', anos=(2025,), ajustes=dict(motor='v1', ...)),
-]
+MOTORES = {
+    'v2025': Motor('...', base='v2025', ajustes=dict(...)),   # código congelado de 2025
+    'v2024': Motor('...'),                                      # código-base atual
+    'v2023': Motor('...', ajustes=dict(...)),
+    ...
+    'v2009': Motor('...', ajustes=dict(cor_gabarito='azul', quadro_rotulo=True, ...)),
+}
+REGRAS = {'v2014': [Regra('PPL: ...', categorias=('ppl',), ajustes=dict(...))]}   # ajustes por dia/categoria
 ```
 
-Campos principais do perfil: `motor`; `topo_rel` e `rodape_rel` (frações da altura visível que são cabeçalho e
+Campos principais do perfil: `motor` (sempre `v{ANO}`) e `base` (código executado: `v2025` ou `v2024`); `topo_rel` e `rodape_rel` (frações da altura visível que são cabeçalho e
 rodapé); `fontes_letra` (fontes que desenham a letra das alternativas); `tam_credito`; `img_min_w/h` e `vet_min_w/h`
 (tamanho mínimo de figura); `margem_figuras` (faixa decorativa da borda); `filete_max_esp` (barras decorativas);
 `emoji_max` (imagem pequena no meio do texto, que não funde com a vizinha); `isolar_tracos`; `letra_marcador_auto`.
+Campos da estrutura da prova: `areas` (ordem das áreas por bloco de 45 questões: até 2016 o dia 1 é Humanas +
+Natureza, e em 2009 Natureza vem antes de Humanas), `questoes_idioma` (1–5 desde 2017; 91–95 até 2016),
+`cor_gabarito` (gabarito com várias cores lado a lado, 2009). Campos dos anos antigos: `pular_capa`,
+`filetes_de_grafico` (eixos finos de gráficos vetoriais fazem parte da figura), `decodificar_cid` (fontes Arial sem
+Unicode, decodificadas pela ordem padrão de glifos), `quadro_rotulo` (rótulo "Questão | N" em tabelinha).
 
-Parte-se do perfil base; cada regra cujo filtro (`anos`, `dias`, `categorias`) combina aplica seus campos, na ordem em
-que aparecem. O relatório imprime o perfil usado em cada prova (`perfil: ...`). Ajustes pontuais sem editar arquivo:
+Parte-se do perfil base, aplica-se o motor do ano (`MOTORES['v{ANO}']`) e, depois, as regras desse motor cujo filtro
+(`dias`, `categorias`) combina, na ordem em que aparecem. O relatório imprime o perfil usado em cada prova (`perfil: ...`). Ajustes pontuais sem editar arquivo:
 `--topo`, `--rodape`, `--tam-credito`.
 
-### Dois motores
+### Um motor por ano
 
-| Motor | Usado em | O que é |
-|---|---|---|
-| `v1` | **2025** | Cópia congelada do extrator usado em 2025 (funções com sufixo `_v1`). |
-| `v2` | **2024** e anos novos | Melhorias: raiz/fração complexas, grade de alternativas, letras só por marcador, faixa decorativa da borda, filete grosso, raiz sobre fração. |
+| Motor | Usado em | Código-base | O que é |
+|---|---|---|---|
+| `v2025` (antigo `v1`) | **somente 2025** | `v2025` | Cópia congelada do extrator usado em 2025 (funções com sufixo `_v2025`). |
+| `v2024` (antigo `v2`) | **somente 2024** | `v2024` | Melhorias: raiz/fração complexas, grade de alternativas, letras só por marcador, faixa decorativa da borda, filete grosso, raiz sobre fração. |
+| `v2023` … `v2017` | cada um, **somente o seu ano** | `v2024` | Ciclo 2017+ (dia 1 = Linguagens + Humanas), com os ajustes do ano. |
+| `v2016` … `v2009` | cada um, **somente o seu ano** | `v2024` | Dia 1 = Humanas + Natureza (2009: Natureza + Humanas), idiomas nas questões 91–95, ajustes do ano. |
 
-**Compartilhado pelos dois motores** (melhorias de índices/expoentes e de texto, que valem para 2024 e 2025):
+Os motores `v2023` a `v2009` reaproveitam o código-base `v2024`, mas cada um tem os seus ajustes de perfil, que
+nenhum outro ano lê. Um comportamento novo de código entra atrás de um campo de perfil desligado por padrão e é ligado
+só no motor que precisa dele; assim 2024 e 2025 não mudam (a trava de regressão confere).
+
+**Compartilhado por todos os motores** (melhorias de índices/expoentes e de texto):
 agrupamento de sobrescritos/subscritos (`agrupar_indices`, `aplicar_indices`), índices à esquerda (isótopos),
 carga iônica (`PO₄³⁻`), texto corrido encostado em uma figura (a letra `R` de "proteção R_P"), créditos em
 itálico e as auditorias do relatório.
 
 **Regras de ouro**
 
-1. Uma correção específica de 2025 vai nas funções `_v1` ou no perfil de 2025. Uma correção específica de 2024 ou de
-   ano novo vai nas funções sem sufixo (motor v2). **Nunca corrija um ano mexendo no motor do outro.**
-2. Funções compartilhadas afetam os dois anos. Depois de qualquer alteração, rode a trava de regressão (abaixo).
+1. Uma correção específica de 2025 vai nas funções `_v2025` ou no motor `v2025`. Uma correção de qualquer outro ano
+   vai no motor daquele ano (`v2009`…`v2024`), atrás de um campo de perfil. **Nunca corrija um ano mexendo no motor
+   do outro**, nem nos valores-padrão de `Perfil`.
+2. Funções compartilhadas afetam todos os anos. Depois de qualquer alteração, rode a trava de regressão (abaixo).
+3. Ano novo = motor novo com o nome do ano (`'v2026': Motor(...)`), validado e com foto gravada.
 
 ### Trava de regressão (`verificar_baseline.py`)
 
@@ -207,7 +263,7 @@ versões do `pypdfium2`).
 
 ## O que foi corrigido (em relação às versões anteriores)
 
-**2025, motor v1 (10 questões corrigidas; das 237 imagens, só as da Q14 mudaram):**
+**2025, motor v2025 (antigo v1; 10 questões corrigidas; das 237 imagens, só as da Q14 mudaram):**
 
 | Questão | Antes | Agora |
 |---|---|---|
@@ -222,7 +278,7 @@ versões do `pypdfium2`).
 | Segunda d2 Q108 | `verniz₊`, `Pb² ` | `verniz`, `Pb²⁺` |
 | Segunda d2 Q110 | `_{Chemistry}` | `Chemistry` |
 
-**2024, motor v2 (5 questões de texto, 1 imagem solta removida):**
+**2024, motor v2024 (antigo v2; 5 questões de texto, 1 imagem solta removida):**
 
 | Questão | Antes | Agora |
 |---|---|---|
