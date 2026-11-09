@@ -90,6 +90,8 @@ class Perfil:
     desenho_baixo: bool = False      # desenho com 6+ traços e 12+ pt de altura é figura (fórmula estrutural)
     remover_texto_invisivel: bool = False  # caractere que não aparece na página renderizada é descartado
     curva_recortada: bool = False    # curva grande que atravessa a calha tem a caixa cortada na calha (clip da coluna)
+    botoes_sem_letra: bool = False   # alternativas marcadas só por botão circular vazio (digital 2022)
+    pular_instrucoes: bool = False   # digital: páginas de instruções antes da 1ª questão não são lidas
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
     gabarito_no_caderno: bool = False  # o "gabarito" é o caderno com a letra certa circulada (2010)
@@ -172,7 +174,7 @@ MOTORES = {
 # Ajustes por dia/categoria dentro de um motor: {'v2024': [Regra(...), ...]}
 REGRAS = {
     f'v{ano}': [Regra('digital: uma questão por página, rótulo com a área', categorias=('digital',),
-                      ajustes=dict(rotulo_com_area=True, letra_em_circulo=True, topo_rel=topo,
+                      ajustes=dict(rotulo_com_area=True, letra_em_circulo=True, topo_rel=topo, pular_instrucoes=True,
                                    ignorar_fundo_pagina=True))]
     for ano, topo in ((2020, 0.04), (2021, 0.028), (2022, 0.015))
 }
@@ -182,6 +184,7 @@ REGRAS['v2017'] = [Regra('PPL dia 1: rodapé mais alto', dias=(1,), categorias=(
 REGRAS['v2018'] = [Regra('PPL: rodapé mais alto', categorias=('ppl',), ajustes=dict(rodape_rel=0.93))]
 REGRAS['v2015'] = [Regra('PPL: rodapé mais alto e cabeçalho maior', categorias=('ppl',),
                          ajustes=dict(rodape_rel=0.936, topo_rel=0.088))]
+REGRAS['v2022'].append(Regra('digital: botões sem letra', categorias=('digital',), ajustes=dict(botoes_sem_letra=True)))
 for _ano in (2021, 2022):          # letras das alternativas em Segoe UI Bold dentro de um círculo
     REGRAS[f'v{_ano}'].append(Regra('digital: letras em SegoeUI-Bold', categorias=('digital',),
                                     ajustes=dict(fontes_letra=('Bundesbahn', 'Circled', 'SegoeUI-Bold'),

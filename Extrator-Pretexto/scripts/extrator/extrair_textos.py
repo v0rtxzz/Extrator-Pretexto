@@ -414,8 +414,10 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
                 continue
             if w > pagina.width * 0.97:                                    # moldura da página
                 continue
-            if P.ignorar_fundo_pagina and w * h > pagina.width * pagina.height * 0.4:
-                continue                                       # fundo/moldura gráfica da tela (digital)
+            if P.ignorar_fundo_pagina and (w * h > pagina.width * pagina.height * 0.4 or (
+                    w * h > pagina.width * pagina.height * 0.12 and tipo == 'vet'
+                    and sum(1 for ch in pagina.chars if centro_dentro(ch, [c])) > 60)):
+                continue                                       # fundo/cartão da tela com o texto por cima (digital)
             objs.append({'caixa': c, 'img': tipo == 'img', 'n': 1, 'membros': [(c, tipo == 'img')]})
     if filetes:
         objs = _filetes_de_grafico(objs, filetes)
@@ -1603,6 +1605,9 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         def onde(cx):
             return 'U' if not calha else ('E' if cx < calha else 'D')
 
+        if P.botoes_sem_letra:
+            for item in _botoes_sem_letra(pagina, topo, rodape, calha, pn):
+                regs.setdefault(item['col'], []).append(item)
         if P.alternativas_desenhadas:
             for item in _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
                 regs.setdefault(item['col'], []).append(item)
@@ -1891,7 +1896,8 @@ def _completar_alternativas_desenhadas(pdf, q, forcar=False):
     linhas = [a['linhas'][0] if a['linhas'] else None for a in alts]
     if any(ln is None or ln.get('tipo') != 'linha' for ln in linhas) or len({ln['pg'] for ln in linhas}) != 1:
         return
-    if len({round(ln['top']) for ln in linhas}) < 5:   # letras na mesma altura: alguma é letra de fórmula (C₆,₄)
+    if len({round(ln['top']) for ln in linhas}) < 5 and max(ln['x0'] for ln in linhas) - min(ln['x0'] for ln in linhas) < 15:
+        # pilha única com letras na mesma altura: alguma é letra de fórmula (C₆,₄)
         x_letra = min(ln['x0'] for ln in linhas)
         cand = {}
         for a in alts:
@@ -1927,7 +1933,7 @@ def _completar_alternativas_desenhadas(pdf, q, forcar=False):
         acima = [i['bottom'] for i in q['itens'] if i.get('pg') == ls[0]['pg'] and i['bottom'] <= ls[0]['top'] + 1
                  and i.get('x1', 0) > x0 and i.get('x0', 0) < x1]
         if acima:                                       # não sobe além do fim do enunciado
-            t = max(t, max(acima) + 1)
+            t = min(max(t, max(acima) + 1), ls[0]['top'] - 2)
         b = ls[-1]['bottom'] + (passo * 1.5 if passos else 80)
         img = pg.crop((x0, t, x1, b), strict=False).to_image(resolution=72 * escala).original.convert('L')
         w, h = img.size
@@ -2046,6 +2052,40 @@ def _absorver_rotulos(itens):
     return saida
 
 
+def _botoes_sem_letra(pagina, topo, rodape, calha, pn):
+    """Provas digitais com alternativas marcadas só por um botão circular vazio (sem a letra): 5 círculos de 10-20 pt
+    empilhados na mesma coluna viram as letras A-E, na ordem de cima para baixo. O texto à direita de cada botão é
+    lido normalmente e fica nessa alternativa."""
+    circ = sorted((o for o in pagina.curves if 10 <= o['x1'] - o['x0'] <= 20 and 10 <= o['bottom'] - o['top'] <= 20
+                   and abs((o['x1'] - o['x0']) - (o['bottom'] - o['top'])) < 2 and topo <= o['top'] <= rodape),
+                  key=lambda o: (round(o['x0'] / 3), o['top']))
+    unicos = []
+    for o in circ:                                   # o mesmo botão costuma vir desenhado duas vezes
+        if not any(abs(o['x0'] - u['x0']) < 2 and abs(o['top'] - u['top']) < 2 for u in unicos):
+            unicos.append(o)
+    grupos, atual = [], []
+    for o in unicos:
+        if atual and (abs(o['x0'] - atual[-1]['x0']) > 2 or not 15 < o['top'] - atual[-1]['top'] < 120):
+            grupos.append(atual)
+            atual = []
+        atual.append(o)
+    grupos.append(atual)
+    itens = []
+    for g in grupos:
+        if len(g) != 5:
+            continue
+        if any(c['text'] in 'ABCDE' and centro_dentro(c, [(o['x0'], o['top'], o['x1'], o['bottom'])])
+               for o in g for c in pagina.chars):
+            continue                                 # o botão já tem a letra escrita: leitura normal
+        col = 'U' if not calha else ('E' if g[0]['x0'] < calha else 'D')
+        for letra, o in zip('ABCDE', g):
+            itens.append({'texto': letra, 'x0': o['x0'], 'x1': o['x1'], 'top': o['top'] - 0.5, 'bottom': o['bottom'],
+                          'fonte': 'botão', 'tam': 10, 'alt': letra, 'alt_marcador': True, 'pg': pn, 'col': col,
+                          'tipo': 'linha', 'numerada': False, 'marcas_x': [o['x0']], 'fracoes': 0,
+                          'indices_soltos': 0, '_cb': (o['x0'], o['top'], o['x1'], o['bottom']), '_cx0': o['x1']})
+    return itens
+
+
 def _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
     """Alternativas cujo texto foi convertido em desenho (sem caracteres): 5 bolinhas de 6-11 pt empilhadas na mesma
     coluna, sem texto à direita. Cada bolinha vira a letra A-E e a faixa à direita vira a figura da alternativa."""
@@ -2090,17 +2130,22 @@ def _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
 
 
 def _alternativas_por_figuras(q):
-    """Questão sem letras legíveis (A-E desenhadas como vetor) cujas alternativas são 5 figuras parecidas, depois do
-    último texto: as figuras viram as alternativas A-E, na ordem de leitura (só perfis com `alternativas_por_figuras`)."""
+    """Questão sem letras legíveis (A-E desenhadas ou dentro da imagem) cujas alternativas são figuras parecidas
+    depois do último texto: as 5 últimas figuras (por página e altura) viram as alternativas A-E, na ordem de leitura
+    (só perfis com `alternativas_por_figuras`)."""
     itens = q['itens']
-    ult_texto = max((k for k, i in enumerate(itens) if i['tipo'] == 'linha'), default=-1)
-    figs = [i for i in itens[ult_texto + 1:] if i['tipo'] == 'figura']
-    if len(figs) != 5 or len(figs) != len(itens) - ult_texto - 1:
+    linhas = [i for i in itens if i['tipo'] == 'linha']
+    ult = max(((i['pg'], i['top']) for i in linhas), default=(0, -1))
+    figs = sorted((i for i in itens if i['tipo'] == 'figura' and (i['pg'], i['top']) > ult),
+                  key=lambda i: (i['pg'], i['top'] if i.get('col') != 'D' else i['top'] + 10000))
+    if len(figs) < 5:
         return
+    figs = figs[-5:]
     areas = [(f['caixa'][2] - f['caixa'][0]) * (f['caixa'][3] - f['caixa'][1]) for f in figs]
     if max(areas) > min(areas) * 3:                   # tamanhos muito diferentes: não é uma grade de alternativas
         return
-    q['itens'] = itens[:ult_texto + 1]
+    ids = {id(f) for f in figs}
+    q['itens'] = [i for i in itens if id(i) not in ids]
     q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
 
 
@@ -2538,6 +2583,11 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         else:
             paginas = list(range(1, total + 1))
         paginas = [p for p in paginas if 1 <= p <= total]
+        if P.pular_instrucoes and not args.paginas:   # digital: páginas de instruções antes da 1ª questão
+            for k in list(paginas):
+                if RE_QUESTAO.search(pdf.pages[k - 1].extract_text() or ''):
+                    break
+                paginas.remove(k)
         if P.pular_capa and not args.paginas:        # capa com instruções: não tem questão
             capa = pdf.pages[0].extract_text() or ''
             if not RE_QUESTAO.search(capa):
