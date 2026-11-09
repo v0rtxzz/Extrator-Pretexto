@@ -134,9 +134,16 @@ def decodificar_cid(chars, familias):
     """Perfis com `decodificar_cid`: troca "(cid:N)" pelo caractere da ordem padrão de glifos, só nas fontes das
     `familias` (ex.: ArialMT). Devolve quantos caracteres foram decodificados."""
     n = 0
+    por_fonte = {}
     for c in chars:
         m = RE_CID.match(c['text'])
-        if m and any(f in c['fontname'] for f in familias):
+        if m:
+            por_fonte.setdefault(c['fontname'], []).append(int(m.group(1)))
+    # subconjunto com ordem própria (cid 2, 3, 4...): a ordem padrão não vale; fica para o OCR
+    proprias = {f for f, ks in por_fonte.items() if sum(1 for k in ks if k < 29) > len(ks) * 0.5}
+    for c in chars:
+        m = RE_CID.match(c['text'])
+        if m and c['fontname'] not in proprias and any(f in c['fontname'] for f in familias):
             k = int(m.group(1))
             k = k + 1 if k >= 172 else k       # a Arial do Windows não tem o glifo 172 (espaço rígido) da ordem Mac
             if 3 <= k <= 257 and _GLIFOS_MAC[k - 3] != '\uf8ff':
@@ -1856,8 +1863,45 @@ def _gabarito_por_cor(caminho, cor, P):
     return gab
 
 
+def _gabarito_marcado(caminho, P):
+    """Caderno com a resposta marcada (2010): a letra certa tem um círculo só contornado em volta.
+    Extrai as questões do próprio caderno (mesmo motor) e devolve, para cada uma, a alternativa cuja letra está
+    dentro de um círculo. Questão sem círculo, ou com mais de um, fica de fora (e é listada como ignorada)."""
+    with pdfplumber.open(caminho) as pdf:
+        circulos = {}
+        for pn, pg in enumerate(pdf.pages, start=1):
+            for o in pg.curves:
+                w, h = o['x1'] - o['x0'], o['bottom'] - o['top']
+                if 10 <= w <= 24 and 10 <= h <= 24 and abs(w - h) < 6 and o.get('stroke') and not o.get('fill'):
+                    circulos.setdefault(pn, []).append((o['x0'] - 2, o['top'] - 3, o['x1'] + 2, o['bottom'] + 3))
+        P2 = replace(P, gabarito_no_caderno=False)
+        mudo = io.StringIO()
+        import contextlib
+        with contextlib.redirect_stdout(mudo):
+            fluxo, _, _ = ler_fluxo(pdf, str(caminho), list(range(1, len(pdf.pages) + 1)), P2, lambda m: None)
+            alt_fonte = any(i.get('alt') for i in fluxo if i['tipo'] == 'linha')
+            questoes = segmentar(fluxo, alt_fonte, P2, None, lambda m: None)
+    gab = {}
+    for chave, q in questoes.items():
+        marcadas = set()
+        for a in q['alts']:
+            ln = a['linhas'][0]
+            if ln.get('tipo') != 'linha':
+                continue
+            ponto = (ln['x0'] - 4, ln['top'], ln['x0'] + 8, ln['bottom'])     # a letra fica no começo da linha
+            if any(intersecta(ponto, c) for c in circulos.get(ln['pg'], [])):
+                marcadas.add(a['letra'])
+        if len(marcadas) == 1:
+            gab[chave] = marcadas.pop()
+    if not gab:
+        sys.exit('Nenhuma resposta marcada foi reconhecida no caderno.')
+    return gab
+
+
 def carregar_gabaritos(caminho, idioma_forcado=None, P=None):
     """Lê pares questão/resposta do PDF oficial de gabarito. Chave: (número, idioma|None)."""
+    if P is not None and P.gabarito_no_caderno:
+        return _gabarito_marcado(caminho, P)
     if P is not None and P.cor_gabarito:
         return _gabarito_por_cor(caminho, P.cor_gabarito, P)
     e_idioma = P.e_idioma if P is not None else (lambda n: 1 <= n <= 5)
@@ -2198,6 +2242,8 @@ def descobrir_provas(pasta, ano, categoria=None, dia=None):
                 continue
             idioma = m.group(2)
             gab = cat_dir / (f'dia{m.group(1)}-gabarito' + (f'-{idioma}' if idioma else '') + '.pdf')
+            if not gab.exists() and obter_perfil(ano, int(m.group(1)), cat_dir.name).gabarito_no_caderno:
+                gab = pdf                                  # o próprio caderno traz a resposta marcada (2010)
             if not gab.exists():
                 print(f'aviso: sem gabarito para {pdf} (esperado {gab.name}); ignorado.')
                 continue
