@@ -36,8 +36,9 @@
     "Tordesilhas."
    ],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 14,
+   "algarismos_sem_cobertura": 18,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -49,24 +50,12 @@
    "idioma": null,
    "motor": "v2009",
    "esperadas": 90,
-   "extraidas": 88,
-   "com_aviso": 9,
-   "ignoradas": [
-    [
-     "enem-2009-regular-d2-q144",
-     "4 alternativas em vez de 5"
-    ],
-    [
-     "enem-2009-regular-d2-q148",
-     "4 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "144",
-    "148"
-   ],
+   "extraidas": 90,
+   "com_aviso": 10,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 1,
-   "palavras_sem_cobertura": 106,
+   "palavras_sem_cobertura": 75,
    "exemplos_sem_cobertura": [
     "Rubem",
     "Valentim.",
@@ -82,7 +71,7 @@
     "http://www.masterworksfineart.com."
    ],
    "letras_perdidas": 3,
-   "algarismos_sem_cobertura": 39,
+   "algarismos_sem_cobertura": 4,
    "avisos": {
     "enem-2009-regular-d2-q98": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -94,6 +83,9 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q140": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2009-regular-d2-q144": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q164": [
@@ -112,26 +104,9 @@
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
-   "gravado": false
-  },
-  "2010-regular-dia1": {
-   "ano": 2010,
-   "categoria": "regular",
-   "dia": 1,
-   "idioma": null,
-   "erro": "O PDF de gabarito tem respostas conflitantes para a questão 3.",
-   "status": "ERRO",
-   "gravado": false
-  },
-  "2010-regular-dia2": {
-   "ano": 2010,
-   "categoria": "regular",
-   "dia": 2,
-   "idioma": null,
-   "erro": "O PDF de gabarito tem respostas conflitantes para a questão 1.",
-   "status": "ERRO",
+   "status": "REVISAR",
    "gravado": false
   },
   "2011-regular-dia1": {
@@ -142,17 +117,22 @@
    "motor": "v2011",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 0,
+   "com_aviso": 1,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 0,
-   "avisos": {},
+   "algarismos_sem_cobertura": 6,
+   "avisos": {
+    "enem-2011-regular-d1-q80": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ]
+   },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2011-regular-dia2": {
@@ -162,32 +142,10 @@
    "idioma": null,
    "motor": "v2011",
    "esperadas": 95,
-   "extraidas": 91,
-   "com_aviso": 4,
-   "ignoradas": [
-    [
-     "enem-2011-regular-d2-q152",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2011-regular-d2-q155",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2011-regular-d2-q178",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2011-regular-d2-q179",
-     "0 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "152",
-    "155",
-    "178",
-    "179"
-   ],
+   "extraidas": 95,
+   "com_aviso": 6,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -203,12 +161,20 @@
     "enem-2011-regular-d2-q145": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2011-regular-d2-q155": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
     "enem-2011-regular-d2-q163": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2011-regular-d2-q178": [
+     "1 fração(ões) linearizada(s) como a/b: conferir",
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2012-ppl-dia1": {
@@ -218,45 +184,31 @@
    "idioma": null,
    "motor": "v2012",
    "esperadas": 90,
-   "extraidas": 89,
-   "com_aviso": 2,
-   "ignoradas": [
-    [
-     "enem-2012-ppl-d1-q50",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "50"
-   ],
+   "extraidas": 90,
+   "com_aviso": 3,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 22,
+   "palavras_sem_cobertura": 1,
    "exemplos_sem_cobertura": [
-    "Emissões",
-    "polímeros",
-    "isolantes",
-    "polímeros",
-    "conduzem",
-    "polímeros",
-    "covalentes",
-    "duplas",
-    "conjugadas",
-    "incluindo",
-    "aromáticos.",
-    "desfaça"
+    "Emissões"
    ],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 30,
+   "algarismos_sem_cobertura": 0,
    "avisos": {
     "enem-2012-ppl-d1-q48": [
      "enunciado muito curto"
+    ],
+    "enem-2012-ppl-d1-q73": [
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2012-ppl-d1-q75": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2012-ppl-dia2": {
@@ -266,17 +218,10 @@
    "idioma": null,
    "motor": "v2012",
    "esperadas": 95,
-   "extraidas": 94,
-   "com_aviso": 4,
-   "ignoradas": [
-    [
-     "enem-2012-ppl-d2-q161",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "161"
-   ],
+   "extraidas": 95,
+   "com_aviso": 5,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -293,12 +238,16 @@
     "enem-2012-ppl-d2-q150": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2012-ppl-d2-q168": [
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
     "enem-2012-ppl-d2-q177": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2012-regular-dia1": {
@@ -309,7 +258,7 @@
    "motor": "v2012",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 4,
+   "com_aviso": 3,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -318,21 +267,20 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
-    "enem-2012-regular-d1-q60": [
-     "enunciado muito curto"
-    ],
     "enem-2012-regular-d1-q66": [
-     "enunciado muito curto"
+     "enunciado muito curto",
+     "CRÍTICO: texto_apoio com rótulos de gráfico embaralhados (\"eᵥ Lₐ gₑ n_E\")"
     ],
     "enem-2012-regular-d1-q77": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2012-regular-d1-q78": [
-     "enunciado muito curto"
+     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2012-regular-dia2": {
@@ -343,15 +291,15 @@
    "motor": "v2012",
    "esperadas": 95,
    "extraidas": 93,
-   "com_aviso": 7,
+   "com_aviso": 8,
    "ignoradas": [
     [
      "enem-2012-regular-d2-q153",
-     "enunciado ou alternativa vazio"
+     "3 alternativas em vez de 5"
     ],
     [
      "enem-2012-regular-d2-q169",
-     "enunciado ou alternativa vazio"
+     "4 alternativas em vez de 5"
     ]
    ],
    "ausentes": [
@@ -371,6 +319,10 @@
      "3 fração(ões) linearizada(s) como a/b: conferir",
      "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
+    "enem-2012-regular-d2-q151": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"15 oₘ 12 aₘ oₑ gₑ₉ d nₑ₆ x_E 3\")"
+    ],
     "enem-2012-regular-d2-q152": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
@@ -387,6 +339,7 @@
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -412,6 +365,7 @@
      "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -423,10 +377,17 @@
    "idioma": null,
    "motor": "v2013",
    "esperadas": 95,
-   "extraidas": 95,
-   "com_aviso": 9,
-   "ignoradas": [],
-   "ausentes": [],
+   "extraidas": 94,
+   "com_aviso": 10,
+   "ignoradas": [
+    [
+     "enem-2013-ppl-d2-q148",
+     "3 alternativas em vez de 5"
+    ]
+   ],
+   "ausentes": [
+    "148"
+   ],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -451,6 +412,9 @@
     "enem-2013-ppl-d2-q160": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
+    "enem-2013-ppl-d2-q161": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
     "enem-2013-ppl-d2-q162": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
@@ -461,8 +425,9 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "FALHA",
    "gravado": false
   },
   "2013-regular-dia1": {
@@ -472,35 +437,21 @@
    "idioma": null,
    "motor": "v2013",
    "esperadas": 90,
-   "extraidas": 89,
+   "extraidas": 90,
    "com_aviso": 2,
-   "ignoradas": [
-    [
-     "enem-2013-regular-d1-q58",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "58"
-   ],
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 30,
+   "palavras_sem_cobertura": 5,
    "exemplos_sem_cobertura": [
     "http://blig.ig.com.br.",
     "ciclo",
     "acentuou-se",
     "revoluções",
-    "industriais.",
-    "citral,",
-    "fortemente",
-    "cítrico,",
-    "capim-limão,",
-    "essencial",
-    "fabricação",
-    "atraem"
+    "industriais."
    ],
-   "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 15,
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 8,
    "avisos": {
     "enem-2013-regular-d1-q49": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -509,8 +460,9 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2013-regular-dia2": {
@@ -573,6 +525,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -592,7 +545,7 @@
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 1,
+   "algarismos_sem_cobertura": 53,
    "avisos": {
     "enem-2014-ppl-d1-q54": [
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -614,6 +567,7 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
    "gravado": false
@@ -625,17 +579,10 @@
    "idioma": null,
    "motor": "v2014",
    "esperadas": 95,
-   "extraidas": 94,
-   "com_aviso": 7,
-   "ignoradas": [
-    [
-     "enem-2014-ppl-d2-q137",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "137"
-   ],
+   "extraidas": 95,
+   "com_aviso": 8,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -663,10 +610,14 @@
     ],
     "enem-2014-ppl-d2-q176": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2014-ppl-d2-q179": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2014-regular-dia1": {
@@ -689,6 +640,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 4,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
    "gravado": false
@@ -700,22 +652,10 @@
    "idioma": null,
    "motor": "v2014",
    "esperadas": 95,
-   "extraidas": 93,
+   "extraidas": 95,
    "com_aviso": 3,
-   "ignoradas": [
-    [
-     "enem-2014-regular-d2-q144",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2014-regular-d2-q160",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "144",
-    "160"
-   ],
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -732,8 +672,9 @@
      "3 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2014-terceira-dia1": {
@@ -743,48 +684,16 @@
    "idioma": null,
    "motor": "v2014",
    "esperadas": 90,
-   "extraidas": 89,
-   "com_aviso": 6,
-   "ignoradas": [
-    [
-     "enem-2014-terceira-d1-q02",
-     "4 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "2"
-   ],
+   "extraidas": 90,
+   "com_aviso": 2,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 31,
-   "exemplos_sem_cobertura": [
-    "Ministério",
-    "Miniver,",
-    "Novilíngua",
-    "completamente",
-    "visível.",
-    "enorme",
-    "alvíssimo",
-    "erguendo-se",
-    "trezentos",
-    "metros",
-    "Winston",
-    "conseguia"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 226,
+   "algarismos_sem_cobertura": 124,
    "avisos": {
-    "enem-2014-terceira-d1-q09": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2014-terceira-d1-q27": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2014-terceira-d1-q40": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2014-terceira-d1-q50": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
     "enem-2014-terceira-d1-q56": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -792,8 +701,9 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2014-terceira-dia2": {
@@ -803,42 +713,20 @@
    "idioma": null,
    "motor": "v2014",
    "esperadas": 95,
-   "extraidas": 91,
-   "com_aviso": 13,
-   "ignoradas": [
-    [
-     "enem-2014-terceira-d2-q119",
-     "4 alternativas em vez de 5"
-    ],
-    [
-     "enem-2014-terceira-d2-q126",
-     "4 alternativas em vez de 5"
-    ],
-    [
-     "enem-2014-terceira-d2-q137",
-     "4 alternativas em vez de 5"
-    ],
-    [
-     "enem-2014-terceira-d2-q157",
-     "4 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "119",
-    "126",
-    "137",
-    "157"
-   ],
+   "extraidas": 95,
+   "com_aviso": 17,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
-    "enem-2014-terceira-d2-q104": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
+    "enem-2014-terceira-d2-q126": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2014-terceira-d2-q112": [
+    "enem-2014-terceira-d2-q137": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2014-terceira-d2-q139": [
@@ -846,9 +734,6 @@
     ],
     "enem-2014-terceira-d2-q141": [
      "4 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2014-terceira-d2-q144": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2014-terceira-d2-q148": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
@@ -862,8 +747,25 @@
     "enem-2014-terceira-d2-q165": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2014-terceira-d2-q167": [
+     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2014-terceira-d2-q168": [
+     "enunciado muito curto",
+     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2014-terceira-d2-q169": [
+     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
     "enem-2014-terceira-d2-q170": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
+     "1 fração(ões) linearizada(s) como a/b: conferir",
+     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2014-terceira-d2-q171": [
+     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2014-terceira-d2-q172": [
+     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2014-terceira-d2-q174": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -875,8 +777,9 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2015-ppl-dia1": {
@@ -887,74 +790,39 @@
    "motor": "v2015",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 18,
+   "com_aviso": 7,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
-   "letras_perdidas": 4,
-   "algarismos_sem_cobertura": 42,
+   "letras_perdidas": 3,
+   "algarismos_sem_cobertura": 10,
    "avisos": {
-    "enem-2015-ppl-d1-q06": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q12": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q18": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q26": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q39": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q44": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2015-ppl-d1-q46": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d1-q49": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q57": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d1-q61": [
-     "1 fração(ões) linearizada(s) como a/b: conferir",
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d1-q63": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
-    "enem-2015-ppl-d1-q66": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2015-ppl-d1-q73": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2015-ppl-d1-q77": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2015-ppl-d1-q80": [
-     "1 fração(ões) linearizada(s) como a/b: conferir",
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q82": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d1-q86": [
      "3 fração(ões) linearizada(s) como a/b: conferir",
      "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d1-q88": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
    "gravado": false
@@ -967,7 +835,7 @@
    "motor": "v2015",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 20,
+   "com_aviso": 8,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -976,47 +844,17 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
-    "enem-2015-ppl-d2-q92-ing": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q93-esp": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q100": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q105": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q110": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q116": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q123": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q131": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q137": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q143": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    "enem-2015-ppl-d2-q94-ing": [
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2015-ppl-d2-q147": [
      "4 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d2-q149": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2015-ppl-d2-q152": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2015-ppl-d2-q154": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2015-ppl-d2-q156": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -1024,21 +862,16 @@
     "enem-2015-ppl-d2-q162": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
-    "enem-2015-ppl-d2-q164": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q170": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2015-ppl-d2-q178": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2015-ppl-d2-q179": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2015-ppl-d2-q180": [
+     "CRÍTICO: alt A termina em \"E\" (possível corte)"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2015-regular-dia1": {
@@ -1056,16 +889,17 @@
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 0,
+   "algarismos_sem_cobertura": 98,
    "avisos": {
-    "enem-2015-regular-d1-q27": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2015-regular-d1-q48": [
      "enunciado muito curto"
     ],
     "enem-2015-regular-d1-q53": [
      "3 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2015-regular-d1-q69": [
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"40 2 cáᵒ g b 4 da 20ᵉ ua_{sd} \")"
     ],
     "enem-2015-regular-d1-q70": [
      "3 fração(ões) linearizada(s) como a/b: conferir"
@@ -1077,8 +911,9 @@
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2015-regular-dia2": {
@@ -1089,7 +924,7 @@
    "motor": "v2015",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 7,
+   "com_aviso": 8,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -1118,12 +953,16 @@
     "enem-2015-regular-d2-q164": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2015-regular-d2-q167": [
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"D C D G O M A B A N F Figura 1\")"
+    ],
     "enem-2015-regular-d2-q180": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2016-ppl-dia1": {
@@ -1134,7 +973,7 @@
    "motor": "v2016",
    "esperadas": 90,
    "extraidas": 89,
-   "com_aviso": 1,
+   "com_aviso": 2,
    "ignoradas": [
     [
      "enem-2016-ppl-d1-q71",
@@ -1165,8 +1004,13 @@
    "avisos": {
     "enem-2016-ppl-d1-q78": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2016-ppl-d1-q82": [
+     "CRÍTICO: alt C termina em \"A\" (possível corte)",
+     "CRÍTICO: alt D termina em \"A\" (possível corte)"
     ]
    },
+   "criticos": 2,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -1219,6 +1063,7 @@
      "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
    "gravado": false
@@ -1230,41 +1075,24 @@
    "idioma": null,
    "motor": "v2016",
    "esperadas": 90,
-   "extraidas": 89,
-   "com_aviso": 4,
-   "ignoradas": [
-    [
-     "enem-2016-regular-d1-q85",
-     "1 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "85"
-   ],
+   "extraidas": 90,
+   "com_aviso": 7,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 16,
-   "exemplos_sem_cobertura": [
-    "tensoativos",
-    "capazes",
-    "interagir",
-    "iônica",
-    "tensoativos",
-    "lipofílica",
-    "tensoativo",
-    "representada",
-    "estrutural",
-    "tensoativo",
-    "esquemática",
-    "adicionar"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 9,
+   "algarismos_sem_cobertura": 0,
    "avisos": {
     "enem-2016-regular-d1-q49": [
-     "enunciado muito curto"
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2016-regular-d1-q50": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2016-regular-d1-q55": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2016-regular-d1-q58": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -1272,10 +1100,17 @@
     "enem-2016-regular-d1-q59": [
      "4 fração(ões) linearizada(s) como a/b: conferir",
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2016-regular-d1-q85": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2016-regular-d1-q89": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2016-regular-dia2": {
@@ -1285,25 +1120,18 @@
    "idioma": null,
    "motor": "v2016",
    "esperadas": 95,
-   "extraidas": 94,
-   "com_aviso": 13,
-   "ignoradas": [
-    [
-     "enem-2016-regular-d2-q155",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "155"
-   ],
+   "extraidas": 95,
+   "com_aviso": 14,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
-    "enem-2016-regular-d2-q123": [
-     "alt A muito longa (1392 car.): pode conter texto da questão seguinte"
+    "enem-2016-regular-d2-q91-esp": [
+     "CRÍTICO: enunciado: rodapé do caderno no texto"
     ],
     "enem-2016-regular-d2-q147": [
      "7 fração(ões) linearizada(s) como a/b: conferir"
@@ -1318,7 +1146,7 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2016-regular-d2-q162": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2016-regular-d2-q163": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -1335,6 +1163,9 @@
     "enem-2016-regular-d2-q169": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2016-regular-d2-q176": [
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"Q (L/min) Q (L/min) t (min) t \")"
+    ],
     "enem-2016-regular-d2-q178": [
      "enunciado muito curto"
     ],
@@ -1343,8 +1174,9 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 2,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2016-segunda-dia1": {
@@ -1374,6 +1206,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -1385,17 +1218,10 @@
    "idioma": null,
    "motor": "v2016",
    "esperadas": 95,
-   "extraidas": 94,
-   "com_aviso": 8,
-   "ignoradas": [
-    [
-     "enem-2016-segunda-d2-q165",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "165"
-   ],
+   "extraidas": 95,
+   "com_aviso": 7,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
@@ -1414,9 +1240,6 @@
     "enem-2016-segunda-d2-q148": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
-    "enem-2016-segunda-d2-q150": [
-     "enunciado muito curto"
-    ],
     "enem-2016-segunda-d2-q156": [
      "2 fração(ões) linearizada(s) como a/b: conferir",
      "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -1428,8 +1251,9 @@
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2017-ppl-dia1": {
@@ -1440,7 +1264,7 @@
    "motor": "v2017",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 1,
+   "com_aviso": 5,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -1449,12 +1273,25 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
+    "enem-2017-ppl-d1-q02-ing": [
+     "CRÍTICO: credito: rodapé do caderno no texto"
+    ],
+    "enem-2017-ppl-d1-q03-esp": [
+     "CRÍTICO: credito: rodapé do caderno no texto"
+    ],
+    "enem-2017-ppl-d1-q26": [
+     "CRÍTICO: credito: rodapé do caderno no texto"
+    ],
+    "enem-2017-ppl-d1-q44": [
+     "CRÍTICO: credito: rodapé do caderno no texto"
+    ],
     "enem-2017-ppl-d1-q77": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 4,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2017-ppl-dia2": {
@@ -1464,50 +1301,17 @@
    "idioma": null,
    "motor": "v2017",
    "esperadas": 90,
-   "extraidas": 86,
-   "com_aviso": 7,
-   "ignoradas": [
-    [
-     "enem-2017-ppl-d2-q101",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2017-ppl-d2-q148",
-     "3 alternativas em vez de 5"
-    ],
-    [
-     "enem-2017-ppl-d2-q169",
-     "3 alternativas em vez de 5"
-    ],
-    [
-     "enem-2017-ppl-d2-q179",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "101",
-    "148",
-    "169",
-    "179"
-   ],
+   "extraidas": 90,
+   "com_aviso": 8,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 68,
+   "palavras_sem_cobertura": 1,
    "exemplos_sem_cobertura": [
-    "trecho",
-    "retilíneo",
-    "afluente",
-    "perpendicular",
-    "cima,",
-    "barco",
-    "trafega",
-    "afluente",
-    "correnteza",
-    "uniformemente,",
-    "barco",
-    "arrastado"
+    "Nordeste"
    ],
    "letras_perdidas": 3,
-   "algarismos_sem_cobertura": 190,
+   "algarismos_sem_cobertura": 66,
    "avisos": {
     "enem-2017-ppl-d2-q98": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -1529,10 +1333,14 @@
     ],
     "enem-2017-ppl-d2-q164": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2017-ppl-d2-q169": [
+     "enunciado muito curto"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2017-regular-dia1": {
@@ -1543,17 +1351,35 @@
    "motor": "v2017",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 0,
+   "com_aviso": 1,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
+   "palavras_sem_cobertura": 24,
+   "exemplos_sem_cobertura": [
+    "Expressionismo.",
+    "desarranjo,",
+    "Henri",
+    "Matisse,",
+    "Fauvismo.",
+    "Bailarina",
+    "deitada,",
+    "Henri",
+    "Matisse",
+    "Diego",
+    "Rivera,",
+    "Muralismo."
+   ],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
-   "avisos": {},
+   "avisos": {
+    "enem-2017-regular-d1-q59": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ]
+   },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2017-regular-dia2": {
@@ -1563,43 +1389,41 @@
    "idioma": null,
    "motor": "v2017",
    "esperadas": 90,
-   "extraidas": 88,
-   "com_aviso": 13,
+   "extraidas": 89,
+   "com_aviso": 14,
    "ignoradas": [
-    [
-     "enem-2017-regular-d2-q125",
-     "enunciado ou alternativa vazio"
-    ],
     [
      "enem-2017-regular-d2-q143",
      "enunciado ou alternativa vazio"
     ]
    ],
    "ausentes": [
-    "125",
     "143"
    ],
    "anuladas": 0,
-   "palavras_sem_cobertura": 47,
+   "palavras_sem_cobertura": 22,
    "exemplos_sem_cobertura": [
-    "polimerase",
-    "(PCR,",
-    "sigla",
-    "replicação",
-    "vitro",
-    "rápida.",
-    "avanços",
-    "científicos",
-    "investigação",
-    "genômica.",
-    "hélice",
-    "estabilizada"
+    "caminhão-cegonha",
+    "dez",
+    "carrinhos",
+    "transportados,",
+    "pintura",
+    "carrinhos",
+    "atraente.",
+    "laranja",
+    "carrinho",
+    "pintado",
+    "caminhão-cegonha",
+    "determinou"
    ],
    "letras_perdidas": 4,
-   "algarismos_sem_cobertura": 17,
+   "algarismos_sem_cobertura": 25,
    "avisos": {
     "enem-2017-regular-d2-q95": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2017-regular-d2-q119": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2017-regular-d2-q127": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -1624,7 +1448,6 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2017-regular-d2-q165": [
-     "enunciado muito curto",
      "4 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2017-regular-d2-q167": [
@@ -1641,6 +1464,7 @@
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -1653,7 +1477,7 @@
    "motor": "v2018",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 0,
+   "com_aviso": 1,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -1661,9 +1485,14 @@
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
-   "avisos": {},
+   "avisos": {
+    "enem-2018-ppl-d1-q31": [
+     "CRÍTICO: credito: rodapé do caderno no texto"
+    ]
+   },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "OK",
+   "status": "REVISAR",
    "gravado": false
   },
   "2018-ppl-dia2": {
@@ -1673,40 +1502,15 @@
    "idioma": null,
    "motor": "v2018",
    "esperadas": 90,
-   "extraidas": 88,
-   "com_aviso": 12,
-   "ignoradas": [
-    [
-     "enem-2018-ppl-d2-q140",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2018-ppl-d2-q177",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "140",
-    "177"
-   ],
+   "extraidas": 90,
+   "com_aviso": 13,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 43,
-   "exemplos_sem_cobertura": [
-    "Isometria",
-    "transformação",
-    "aplicada",
-    "mantém",
-    "distâncias",
-    "transformações",
-    "isométricas",
-    "chamada",
-    "espelho,",
-    "refletida",
-    "transformação.",
-    "redor"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 4,
-   "algarismos_sem_cobertura": 140,
+   "algarismos_sem_cobertura": 138,
    "avisos": {
     "enem-2018-ppl-d2-q96": [
      "2 fração(ões) linearizada(s) como a/b: conferir",
@@ -1746,10 +1550,15 @@
     ],
     "enem-2018-ppl-d2-q172": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2018-ppl-d2-q177": [
+     "3 fração(ões) linearizada(s) como a/b: conferir",
+     "CRÍTICO: credito: rodapé do caderno no texto"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2018-regular-dia1": {
@@ -1759,25 +1568,19 @@
    "idioma": null,
    "motor": "v2018",
    "esperadas": 95,
-   "extraidas": 94,
+   "extraidas": 95,
    "com_aviso": 0,
-   "ignoradas": [
-    [
-     "enem-2018-regular-d1-q56",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "56"
-   ],
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2018-regular-dia2": {
@@ -1787,58 +1590,52 @@
    "idioma": null,
    "motor": "v2018",
    "esperadas": 90,
-   "extraidas": 88,
-   "com_aviso": 15,
+   "extraidas": 89,
+   "com_aviso": 17,
    "ignoradas": [
-    [
-     "enem-2018-regular-d2-q95",
-     "enunciado ou alternativa vazio"
-    ],
     [
      "enem-2018-regular-d2-q140",
      "0 alternativas em vez de 5"
     ]
    ],
    "ausentes": [
-    "95",
     "140"
    ],
    "anuladas": 1,
-   "palavras_sem_cobertura": 24,
+   "palavras_sem_cobertura": 6,
    "exemplos_sem_cobertura": [
-    "densímetro",
-    "divisão",
-    "marcações",
-    "colocou",
-    "instrumento",
-    "repouso",
-    "Legenda:",
-    "Densímetro",
     "potenciais-padrão",
-    "outros",
-    "recipientes",
-    "adicionou"
+    "Bookman,",
+    "artesão",
+    "cilíndricos",
+    "externas",
+    "(radiano)"
    ],
-   "letras_perdidas": 5,
-   "algarismos_sem_cobertura": 8,
+   "letras_perdidas": 4,
+   "algarismos_sem_cobertura": 2,
    "avisos": {
     "enem-2018-regular-d2-q93": [
      "3 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2018-regular-d2-q95": [
+     "enunciado muito curto"
+    ],
     "enem-2018-regular-d2-q103": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
-    "enem-2018-regular-d2-q108": [
-     "enunciado muito curto"
+    "enem-2018-regular-d2-q109": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2018-regular-d2-q116": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2018-regular-d2-q118": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"ãᵒ çₐ ᵉ_d0 a_g eₙ E\")"
     ],
     "enem-2018-regular-d2-q136": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: enunciado com rótulos de gráfico embaralhados (\"A Transferência Eletrônica Dis\")"
     ],
     "enem-2018-regular-d2-q137": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -1848,6 +1645,9 @@
     ],
     "enem-2018-regular-d2-q142": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2018-regular-d2-q146": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2018-regular-d2-q148": [
      "10 fração(ões) linearizada(s) como a/b: conferir"
@@ -1868,6 +1668,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 2,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -1879,38 +1680,19 @@
    "idioma": null,
    "motor": "v2019",
    "esperadas": 95,
-   "extraidas": 94,
+   "extraidas": 95,
    "com_aviso": 0,
-   "ignoradas": [
-    [
-     "enem-2019-ppl-d1-q31",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "31"
-   ],
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 40,
-   "exemplos_sem_cobertura": [
-    "Esbraseia",
-    "agonia",
-    "bandos",
-    "destacados,",
-    "céus",
-    "púrpura",
-    "raiados,",
-    "Fogem...",
-    "Fecha-se",
-    "pálpebra",
-    "Delineiam-se",
-    "serrania"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "OK",
    "gravado": false
   },
   "2019-ppl-dia2": {
@@ -1920,35 +1702,21 @@
    "idioma": null,
    "motor": "v2019",
    "esperadas": 90,
-   "extraidas": 89,
-   "com_aviso": 19,
-   "ignoradas": [
-    [
-     "enem-2019-ppl-d2-q132",
-     "4 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "132"
-   ],
+   "extraidas": 90,
+   "com_aviso": 20,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 16,
+   "palavras_sem_cobertura": 5,
    "exemplos_sem_cobertura": [
-    "foguete",
-    "sideral",
-    "propulsores",
-    "desligados.",
-    "propulsores,",
-    "piloto",
-    "propulsores",
-    "alterar",
-    "foguete",
-    "desliga",
-    "interações",
-    "desprezíveis."
+    "C(CH",
+    "C(CH",
+    "C(CH",
+    "C(CH",
+    "Centro-Oeste"
    ],
    "letras_perdidas": 24,
-   "algarismos_sem_cobertura": 4,
+   "algarismos_sem_cobertura": 15,
    "avisos": {
     "enem-2019-ppl-d2-q100": [
      "1 fração(ões) linearizada(s) como a/b: conferir",
@@ -1969,14 +1737,14 @@
     "enem-2019-ppl-d2-q131": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2019-ppl-d2-q132": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
     "enem-2019-ppl-d2-q138": [
      "enunciado muito curto"
     ],
     "enem-2019-ppl-d2-q141": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2019-ppl-d2-q142": [
-     "enunciado muito curto"
     ],
     "enem-2019-ppl-d2-q150": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -2003,6 +1771,9 @@
     "enem-2019-ppl-d2-q161": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2019-ppl-d2-q168": [
+     "CRÍTICO: alt A termina em \"A\" (possível corte)"
+    ],
     "enem-2019-ppl-d2-q174": [
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -2013,8 +1784,9 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 1,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2019-regular-dia1": {
@@ -2034,6 +1806,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -2045,35 +1818,20 @@
    "idioma": null,
    "motor": "v2019",
    "esperadas": 90,
-   "extraidas": 89,
+   "extraidas": 90,
    "com_aviso": 6,
-   "ignoradas": [
-    [
-     "enem-2019-regular-d2-q171",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "171"
-   ],
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 26,
+   "palavras_sem_cobertura": 4,
    "exemplos_sem_cobertura": [
     "Licófitas",
     "Pteridófitas",
     "cavalinhas,",
-    "Gimnospermas",
-    "confecciona",
-    "comercializa",
-    "locomotiva,",
-    "pintada",
-    "preta,",
-    "vagões",
-    "vagões,",
-    "pintados"
+    "Gimnospermas"
    ],
    "letras_perdidas": 27,
-   "algarismos_sem_cobertura": 14,
+   "algarismos_sem_cobertura": 4,
    "avisos": {
     "enem-2019-regular-d2-q91": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -2096,8 +1854,9 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2020-digital-dia1-espanhol": {
@@ -2143,6 +1902,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -2193,6 +1953,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -2204,7 +1965,7 @@
    "idioma": null,
    "motor": "v2020",
    "esperadas": 90,
-   "extraidas": 72,
+   "extraidas": 75,
    "com_aviso": 0,
    "ignoradas": [
     [
@@ -2216,23 +1977,11 @@
      "enunciado ou alternativa vazio"
     ],
     [
-     "enem-2020-digital-d2-q143",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2020-digital-d2-q163",
-     "enunciado ou alternativa vazio"
-    ],
-    [
      "enem-2020-digital-d2-q165",
      "0 alternativas em vez de 5"
     ],
     [
      "enem-2020-digital-d2-q173",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2020-digital-d2-q178",
      "enunciado ou alternativa vazio"
     ],
     [
@@ -2244,8 +1993,6 @@
     "92",
     "107",
     "121",
-    "143",
-    "163",
     "165",
     "166",
     "167",
@@ -2257,11 +2004,10 @@
     "173",
     "176",
     "177",
-    "178",
     "180"
    ],
    "anuladas": 1,
-   "palavras_sem_cobertura": 234,
+   "palavras_sem_cobertura": 185,
    "exemplos_sem_cobertura": [
     "principal",
     "menu",
@@ -2277,8 +2023,9 @@
     "exibe"
    ],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 116,
+   "algarismos_sem_cobertura": 111,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -2300,6 +2047,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -2311,41 +2059,26 @@
    "idioma": null,
    "motor": "v2020",
    "esperadas": 90,
-   "extraidas": 89,
-   "com_aviso": 8,
-   "ignoradas": [
-    [
-     "enem-2020-ppl-d2-q140",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "140"
-   ],
+   "extraidas": 90,
+   "com_aviso": 9,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 1,
-   "palavras_sem_cobertura": 32,
-   "exemplos_sem_cobertura": [
-    "civilização",
-    "maia",
-    "estivesse",
-    "declínio",
-    "época",
-    "espanhóis",
-    "astronomia,",
-    "notável.",
-    "possuíam",
-    "numérico",
-    "avançado",
-    "decimal"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 2,
-   "algarismos_sem_cobertura": 106,
+   "algarismos_sem_cobertura": 34,
    "avisos": {
     "enem-2020-ppl-d2-q138": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"m éₘ uₚ dₙ\")"
     ],
     "enem-2020-ppl-d2-q141": [
      "alternativa com números soltos: conferir (raiz/estrutura matemática?)"
+    ],
+    "enem-2020-ppl-d2-q150": [
+     "CRÍTICO: alt B termina em \"A\" (possível corte)",
+     "CRÍTICO: alt D termina em \"A\" (possível corte)"
     ],
     "enem-2020-ppl-d2-q155": [
      "8 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
@@ -2365,11 +2098,13 @@
      "alternativa com números soltos: conferir (raiz/estrutura matemática?)"
     ],
     "enem-2020-ppl-d2-q171": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: credito_texto com rótulos de gráfico embaralhados (\"v o 40ˢ vₛ o_d aₙ 0 0 20⁰ 1 o \")"
     ]
    },
+   "criticos": 4,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2020-regular-dia1": {
@@ -2389,6 +2124,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -2400,27 +2136,57 @@
    "idioma": null,
    "motor": "v2020",
    "esperadas": 90,
-   "extraidas": 90,
-   "com_aviso": 10,
-   "ignoradas": [],
-   "ausentes": [],
+   "extraidas": 89,
+   "com_aviso": 13,
+   "ignoradas": [
+    [
+     "enem-2020-regular-d2-q94",
+     "2 alternativas em vez de 5"
+    ]
+   ],
+   "ausentes": [
+    "94"
+   ],
    "anuladas": 2,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
-   "letras_perdidas": 4,
-   "algarismos_sem_cobertura": 1,
+   "palavras_sem_cobertura": 12,
+   "exemplos_sem_cobertura": [
+    "microempresário",
+    "essenciais",
+    "fragrância",
+    "poli-insaturada",
+    "hidroxila",
+    "terminal.",
+    "catálogo",
+    "essenciais",
+    "escolha",
+    "essência,",
+    "estruturas",
+    "empresário"
+   ],
+   "letras_perdidas": 2,
+   "algarismos_sem_cobertura": 28,
    "avisos": {
     "enem-2020-regular-d2-q93": [
      "enunciado muito curto"
     ],
+    "enem-2020-regular-d2-q107": [
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
     "enem-2020-regular-d2-q113": [
      "enunciado muito curto"
+    ],
+    "enem-2020-regular-d2-q121": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2020-regular-d2-q137": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2020-regular-d2-q142": [
      "alternativa com números soltos: conferir (raiz/estrutura matemática?)"
+    ],
+    "enem-2020-regular-d2-q149": [
+     "CRÍTICO: alt B termina em \"A\" (possível corte)",
+     "CRÍTICO: alt D termina em \"A\" (possível corte)"
     ],
     "enem-2020-regular-d2-q150": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -2439,1895 +2205,11 @@
      "alternativa com números soltos: conferir (raiz/estrutura matemática?)"
     ],
     "enem-2020-regular-d2-q175": [
-     "enunciado muito curto"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": false
-  },
-  "2021-digital-dia1-espanhol": {
-   "ano": 2021,
-   "categoria": "digital",
-   "dia": 1,
-   "idioma": "espanhol",
-   "motor": "v2021",
-   "esperadas": 90,
-   "extraidas": 32,
-   "com_aviso": 26,
-   "ignoradas": [],
-   "ausentes": [
-    "1-esp",
-    "2-esp",
-    "3-esp",
-    "4-esp",
-    "6",
-    "18",
-    "19",
-    "22",
-    "23",
-    "24",
-    "25",
-    "26",
-    "29",
-    "31",
-    "38",
-    "40",
-    "43",
-    "46",
-    "47",
-    "48",
-    "50",
-    "51",
-    "52",
-    "53",
-    "54",
-    "55",
-    "56",
-    "57",
-    "58",
-    "59",
-    "60",
-    "61",
-    "62",
-    "63",
-    "64",
-    "65",
-    "66",
-    "67",
-    "68",
-    "69",
-    "70",
-    "71",
-    "72",
-    "73",
-    "74",
-    "75",
-    "76",
-    "78",
-    "79",
-    "80",
-    "81",
-    "82",
-    "83",
-    "84",
-    "86",
-    "87",
-    "88",
-    "89"
-   ],
-   "anuladas": 0,
-   "palavras_sem_cobertura": 135,
-   "exemplos_sem_cobertura": [
-    "provas",
-    "cinco",
-    "trinta",
-    "minutos.",
-    "Bloqueie",
-    "ausentar",
-    "aplicação.",
-    "Reserve",
-    "conferir",
-    "CARTÃO-RESPOSTA",
-    "preenchido",
-    "preencher"
-   ],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 1,
-   "avisos": {
-    "enem-2021-digital-d1-q05-esp": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q07": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q08": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q09": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q11": [
-     "3 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q12": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q13": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q15": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q16": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q17": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q21": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q27": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q28": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q30": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q32": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q33": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q35": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q36": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q37": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q39": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q41": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q42": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q44": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q49": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q85": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q90": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "FALHA",
-   "gravado": false
-  },
-  "2021-digital-dia1-ingles": {
-   "ano": 2021,
-   "categoria": "digital",
-   "dia": 1,
-   "idioma": "ingles",
-   "motor": "v2021",
-   "esperadas": 90,
-   "extraidas": 32,
-   "com_aviso": 26,
-   "ignoradas": [],
-   "ausentes": [
-    "1-ing",
-    "3-ing",
-    "4-ing",
-    "5-ing",
-    "6",
-    "18",
-    "19",
-    "22",
-    "23",
-    "24",
-    "25",
-    "26",
-    "29",
-    "31",
-    "38",
-    "40",
-    "43",
-    "46",
-    "47",
-    "48",
-    "50",
-    "51",
-    "52",
-    "53",
-    "54",
-    "55",
-    "56",
-    "57",
-    "58",
-    "59",
-    "60",
-    "61",
-    "62",
-    "63",
-    "64",
-    "65",
-    "66",
-    "67",
-    "68",
-    "69",
-    "70",
-    "71",
-    "72",
-    "73",
-    "74",
-    "75",
-    "76",
-    "78",
-    "79",
-    "80",
-    "81",
-    "82",
-    "83",
-    "84",
-    "86",
-    "87",
-    "88",
-    "89"
-   ],
-   "anuladas": 0,
-   "palavras_sem_cobertura": 133,
-   "exemplos_sem_cobertura": [
-    "provas",
-    "cinco",
-    "trinta",
-    "minutos.",
-    "Bloqueie",
-    "ausentar",
-    "aplicação.",
-    "conferir",
-    "CARTÃO-RESPOSTA",
-    "preenchido",
-    "preencher",
-    "FOLHA"
-   ],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 1,
-   "avisos": {
-    "enem-2021-digital-d1-q02-ing": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q07": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q08": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q09": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q11": [
-     "3 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q12": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q13": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q15": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q16": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q17": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q21": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q27": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q28": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q30": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q32": [
-     "2 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q33": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q35": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q36": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q37": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q39": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q41": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q42": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q44": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q49": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q85": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d1-q90": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "FALHA",
-   "gravado": false
-  },
-  "2021-digital-dia2": {
-   "ano": 2021,
-   "categoria": "digital",
-   "dia": 2,
-   "idioma": null,
-   "motor": "v2021",
-   "esperadas": 90,
-   "extraidas": 23,
-   "com_aviso": 22,
-   "ignoradas": [
-    [
-     "enem-2021-digital-d2-q102",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q105",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q108",
-     "1 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q126",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q135",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q137",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q138",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q161",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-digital-d2-q162",
-     "0 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "92",
-    "95",
-    "96",
-    "97",
-    "98",
-    "100",
-    "101",
-    "102",
-    "104",
-    "105",
-    "107",
-    "108",
-    "109",
-    "110",
-    "111",
-    "112",
-    "113",
-    "114",
-    "115",
-    "117",
-    "118",
-    "119",
-    "121",
-    "123",
-    "125",
-    "126",
-    "127",
-    "128",
-    "129",
-    "130",
-    "131",
-    "132",
-    "133",
-    "134",
-    "135",
-    "136",
-    "137",
-    "138",
-    "139",
-    "141",
-    "142",
-    "144",
-    "145",
-    "146",
-    "148",
-    "150",
-    "152",
-    "155",
-    "157",
-    "158",
-    "159",
-    "161",
-    "162",
-    "163",
-    "164",
-    "165",
-    "167",
-    "168",
-    "170",
-    "171",
-    "172",
-    "173",
-    "174",
-    "176",
-    "178",
-    "179",
-    "180"
-   ],
-   "anuladas": 0,
-   "palavras_sem_cobertura": 485,
-   "exemplos_sem_cobertura": [
-    "provas",
-    "horas.",
-    "Bloqueie",
-    "tela",
-    "ausentar",
-    "durante",
-    "aplicação.",
-    "Reserve",
-    "suficiente",
-    "conferir",
-    "CARTÃO-RESPOSTA",
-    "DIGITAL,"
-   ],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 78,
-   "avisos": {
-    "enem-2021-digital-d2-q91": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q93": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q94": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q99": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q103": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q106": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q116": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q120": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q124": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q140": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q143": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q147": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q149": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q151": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q153": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q154": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q156": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q160": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q166": [
-     "3 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q169": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q175": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-digital-d2-q177": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "FALHA",
-   "gravado": false
-  },
-  "2021-ppl-dia1": {
-   "ano": 2021,
-   "categoria": "ppl",
-   "dia": 1,
-   "idioma": null,
-   "motor": "v2021",
-   "esperadas": 95,
-   "extraidas": 95,
-   "com_aviso": 95,
-   "ignoradas": [],
-   "ausentes": [],
-   "anuladas": 1,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 0,
-   "avisos": {
-    "enem-2021-ppl-d1-q01-esp": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q01-ing": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q02-esp": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q02-ing": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q03-esp": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q03-ing": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q04-esp": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q04-ing": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q05-esp": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q05-ing": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q06": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q07": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q08": [
-     "14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q09": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q10": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q11": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q12": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q13": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q14": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q15": [
-     "13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q16": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q17": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q18": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q19": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q20": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q21": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q22": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q23": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q24": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q25": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q26": [
-     "15 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q27": [
-     "13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q28": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q29": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q30": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q31": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q32": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q33": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q34": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q35": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q36": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q37": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q38": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q39": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q40": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q41": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q42": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q43": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q44": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q45": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q46": [
      "enunciado muito curto",
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q47": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q48": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q49": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q50": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q51": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q52": [
-     "enunciado muito curto",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q53": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q54": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q55": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q56": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q57": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q58": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q59": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q60": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q61": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q62": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q63": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q64": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q65": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q66": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q67": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q68": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q69": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q70": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q71": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q72": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q73": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q74": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q75": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q76": [
-     "enunciado muito curto",
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q77": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q78": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q79": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q80": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q81": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q82": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q83": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q84": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q85": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q86": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q87": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q88": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q89": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d1-q90": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "OK",
-   "gravado": false
-  },
-  "2021-ppl-dia2": {
-   "ano": 2021,
-   "categoria": "ppl",
-   "dia": 2,
-   "idioma": null,
-   "motor": "v2021",
-   "esperadas": 90,
-   "extraidas": 87,
-   "com_aviso": 85,
-   "ignoradas": [
-    [
-     "enem-2021-ppl-d2-q123",
-     "3 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-ppl-d2-q136",
-     "4 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-ppl-d2-q171",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "123",
-    "136",
-    "171"
-   ],
-   "anuladas": 0,
-   "palavras_sem_cobertura": 25,
-   "exemplos_sem_cobertura": [
-    "biodiesel",
-    "alternativo",
-    "produzido",
-    "consideradas.",
-    "genérico",
-    "grupamento",
-    "alquila",
-    "Triacilglicerol:",
-    "óleos",
-    "grupamentos:",
-    "percorreu",
-    "objeto,"
-   ],
-   "letras_perdidas": 2,
-   "algarismos_sem_cobertura": 240,
-   "avisos": {
-    "enem-2021-ppl-d2-q91": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q92": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q93": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q94": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q95": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q96": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q97": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q98": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q99": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q100": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q101": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q103": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q104": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q105": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q106": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q107": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q108": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q109": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q110": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q111": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q112": [
-     "enunciado muito curto",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q113": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q114": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q115": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q116": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q117": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q118": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q119": [
-     "13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q120": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q121": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q122": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q124": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q125": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q126": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q127": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q128": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q129": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q130": [
-     "enunciado muito curto",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q131": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q132": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q133": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q134": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q135": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q137": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q138": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q139": [
-     "5 fração(ões) linearizada(s) como a/b: conferir",
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q140": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q141": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q142": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q143": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q144": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q145": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q146": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q147": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q148": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q149": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q150": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q151": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q152": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q153": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q154": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q155": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q156": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q157": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q158": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q159": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q160": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q161": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q162": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q163": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q164": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q165": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q166": [
-     "1 fração(ões) linearizada(s) como a/b: conferir",
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q167": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q169": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q170": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q172": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q173": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q174": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q175": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q176": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q177": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q178": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q179": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-ppl-d2-q180": [
-     "12 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "FALHA",
-   "gravado": false
-  },
-  "2021-regular-dia1": {
-   "ano": 2021,
-   "categoria": "regular",
-   "dia": 1,
-   "idioma": null,
-   "motor": "v2021",
-   "esperadas": 95,
-   "extraidas": 95,
-   "com_aviso": 95,
-   "ignoradas": [],
-   "ausentes": [],
-   "anuladas": 0,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 0,
-   "avisos": {
-    "enem-2021-regular-d1-q01-esp": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q01-ing": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q02-esp": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q02-ing": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q03-esp": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q03-ing": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q04-esp": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q04-ing": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q05-esp": [
-     "enunciado muito curto",
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q05-ing": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q06": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q07": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q08": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q09": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q10": [
-     "13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q11": [
-     "14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q12": [
-     "enunciado muito curto",
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q13": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q14": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q15": [
-     "13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q16": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q17": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q18": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q19": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q20": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q21": [
-     "14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q22": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q23": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q24": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q25": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q26": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q27": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q28": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q29": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q30": [
-     "14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q31": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q32": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q33": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q34": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q35": [
-     "enunciado muito curto",
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q36": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q37": [
-     "enunciado muito curto",
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q38": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q39": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q40": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q41": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q42": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q43": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q44": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q45": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q46": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q47": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q48": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q49": [
-     "12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q50": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q51": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q52": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q53": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q54": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q55": [
-     "enunciado muito curto",
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q56": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q57": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q58": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q59": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q60": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q61": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q62": [
-     "enunciado muito curto",
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q63": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q64": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q65": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q66": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q67": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q68": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q69": [
-     "enunciado muito curto",
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q70": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q71": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q72": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q73": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q74": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q75": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q76": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q77": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q78": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q79": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q80": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q81": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q82": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q83": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q84": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q85": [
-     "enunciado muito curto",
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q86": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q87": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q88": [
-     "enunciado muito curto",
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q89": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d1-q90": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ]
-   },
-   "explicacoes": 0,
-   "status": "OK",
-   "gravado": false
-  },
-  "2021-regular-dia2": {
-   "ano": 2021,
-   "categoria": "regular",
-   "dia": 2,
-   "idioma": null,
-   "motor": "v2021",
-   "esperadas": 90,
-   "extraidas": 83,
-   "com_aviso": 82,
-   "ignoradas": [
-    [
-     "enem-2021-regular-d2-q105",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2021-regular-d2-q123",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2021-regular-d2-q135",
-     "3 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-regular-d2-q137",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2021-regular-d2-q161",
-     "3 alternativas em vez de 5"
-    ],
-    [
-     "enem-2021-regular-d2-q162",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2021-regular-d2-q173",
-     "enunciado ou alternativa vazio"
-    ]
-   ],
-   "ausentes": [
-    "105",
-    "123",
-    "135",
-    "137",
-    "161",
-    "162",
-    "173"
-   ],
-   "anuladas": 1,
-   "palavras_sem_cobertura": 71,
-   "exemplos_sem_cobertura": [
-    "esferas",
-    "carregadas",
-    "iguais",
-    "rígida",
-    "isolante",
-    "haltere.",
-    "diagrama",
-    "esquemático",
-    "magnéticas",
-    "atuam",
-    "tratado",
-    "cloro."
-   ],
-   "letras_perdidas": 3,
-   "algarismos_sem_cobertura": 323,
-   "avisos": {
-    "enem-2021-regular-d2-q91": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q92": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q93": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q94": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q95": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q96": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q97": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q98": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q99": [
-     "11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q100": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q101": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q102": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q103": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q104": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q106": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q107": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q108": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q109": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q110": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q111": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q112": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q113": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q114": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q115": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q116": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q117": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q118": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q119": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q120": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q121": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q122": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q124": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q125": [
-     "enunciado muito curto",
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q126": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q127": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q128": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q129": [
-     "enunciado muito curto",
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q130": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q131": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q132": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q133": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q134": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q136": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q138": [
-     "10 fração(ões) linearizada(s) como a/b: conferir",
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q139": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q140": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q141": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q142": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q143": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q144": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q145": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q146": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q147": [
-     "10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q148": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q149": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q150": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q151": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q152": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q153": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q154": [
-     "7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q155": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q156": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q157": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q158": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q159": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q160": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q163": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q165": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q166": [
-     "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q167": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q168": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q169": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q170": [
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q171": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q172": [
-     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q174": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q175": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q176": [
-     "9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q177": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q178": [
-     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q179": [
-     "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2021-regular-d2-q180": [
      "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 2,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -4543,6 +2425,7 @@
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -4755,6 +2638,7 @@
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -4766,7 +2650,7 @@
    "idioma": null,
    "motor": "v2022",
    "esperadas": 90,
-   "extraidas": 27,
+   "extraidas": 28,
    "com_aviso": 25,
    "ignoradas": [
     [
@@ -4779,10 +2663,6 @@
     ],
     [
      "enem-2022-digital-d2-q103",
-     "0 alternativas em vez de 5"
-    ],
-    [
-     "enem-2022-digital-d2-q106",
      "0 alternativas em vez de 5"
     ],
     [
@@ -4819,7 +2699,6 @@
     "103",
     "104",
     "105",
-    "106",
     "108",
     "109",
     "110",
@@ -4872,7 +2751,7 @@
     "180"
    ],
    "anuladas": 0,
-   "palavras_sem_cobertura": 424,
+   "palavras_sem_cobertura": 399,
    "exemplos_sem_cobertura": [
     "considerados",
     "campo",
@@ -4888,7 +2767,7 @@
     "assinatura"
    ],
    "letras_perdidas": 2,
-   "algarismos_sem_cobertura": 97,
+   "algarismos_sem_cobertura": 83,
    "avisos": {
     "enem-2022-digital-d2-q91": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
@@ -4993,6 +2872,7 @@
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -5005,11 +2885,11 @@
    "motor": "v2022",
    "esperadas": 95,
    "extraidas": 94,
-   "com_aviso": 1,
+   "com_aviso": 2,
    "ignoradas": [
     [
      "enem-2022-ppl-d1-q90",
-     "enunciado ou alternativa vazio"
+     "2 alternativas em vez de 5"
     ]
    ],
    "ausentes": [
@@ -5023,8 +2903,12 @@
    "avisos": {
     "enem-2022-ppl-d1-q29": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2022-ppl-d1-q51": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -5094,6 +2978,7 @@
      "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
    "gravado": false
@@ -5115,6 +3000,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -5127,45 +3013,42 @@
    "motor": "v2022",
    "esperadas": 90,
    "extraidas": 88,
-   "com_aviso": 14,
+   "com_aviso": 13,
    "ignoradas": [
     [
-     "enem-2022-regular-d2-q160",
-     "enunciado ou alternativa vazio"
+     "enem-2022-regular-d2-q103",
+     "1 alternativas em vez de 5"
     ],
     [
-     "enem-2022-regular-d2-q180",
-     "enunciado ou alternativa vazio"
+     "enem-2022-regular-d2-q156",
+     "4 alternativas em vez de 5"
     ]
    ],
    "ausentes": [
-    "160",
-    "180"
+    "103",
+    "156"
    ],
    "anuladas": 1,
-   "palavras_sem_cobertura": 36,
+   "palavras_sem_cobertura": 51,
    "exemplos_sem_cobertura": [
-    "robô,",
-    "externa",
-    "metálico,",
-    "extremidades",
-    "médios",
-    "arestas",
-    "centros",
-    "converte",
-    "converte",
-    "movimentação,",
-    "alternando",
-    "conversões"
+    "Tribologia",
+    "superfícies",
+    "desgaste",
+    "atrito,",
+    "extrema",
+    "importância",
+    "bens",
+    "testar",
+    "muleta,",
+    "realiza-se",
+    "tribológico,",
+    "pressionando-a"
    ],
    "letras_perdidas": 5,
-   "algarismos_sem_cobertura": 5,
+   "algarismos_sem_cobertura": 24,
    "avisos": {
     "enem-2022-regular-d2-q93": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2022-regular-d2-q103": [
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2022-regular-d2-q108": [
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -5174,7 +3057,19 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2022-regular-d2-q116": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)",
+     "CRÍTICO: alt A termina em \"A\" (possível corte)",
+     "CRÍTICO: alt B termina em \"A\" (possível corte)",
+     "CRÍTICO: alt C termina em \"A\" (possível corte)",
+     "CRÍTICO: alt D termina em \"A\" (possível corte)",
+     "CRÍTICO: alt E termina em \"A\" (possível corte)"
+    ],
+    "enem-2022-regular-d2-q119": [
+     "CRÍTICO: alt A termina em \"A\" (possível corte)",
+     "CRÍTICO: alt B termina em \"A\" (possível corte)",
+     "CRÍTICO: alt C termina em \"A\" (possível corte)",
+     "CRÍTICO: alt D termina em \"A\" (possível corte)",
+     "CRÍTICO: alt E termina em \"A\" (possível corte)"
     ],
     "enem-2022-regular-d2-q134": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
@@ -5199,14 +3094,11 @@
      "4 fração(ões) linearizada(s) como a/b: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2022-regular-d2-q156": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2022-regular-d2-q157": [
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 10,
    "explicacoes": 0,
    "status": "FALHA",
    "gravado": false
@@ -5232,6 +3124,7 @@
      "enunciado muito curto"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -5243,40 +3136,15 @@
    "idioma": null,
    "motor": "v2023",
    "esperadas": 90,
-   "extraidas": 88,
-   "com_aviso": 14,
-   "ignoradas": [
-    [
-     "enem-2023-ppl-d2-q159",
-     "enunciado ou alternativa vazio"
-    ],
-    [
-     "enem-2023-ppl-d2-q180",
-     "4 alternativas em vez de 5"
-    ]
-   ],
-   "ausentes": [
-    "159",
-    "180"
-   ],
+   "extraidas": 90,
+   "com_aviso": 15,
+   "ignoradas": [],
+   "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 32,
-   "exemplos_sem_cobertura": [
-    "esférico,",
-    "decoração",
-    "espessura",
-    "superfícies",
-    "externa",
-    "Veja",
-    "calorias,",
-    "domésticas:",
-    "varrer",
-    "calorias;",
-    "aspirador",
-    "calorias;"
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 2,
-   "algarismos_sem_cobertura": 116,
+   "algarismos_sem_cobertura": 46,
    "avisos": {
     "enem-2023-ppl-d2-q106": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -5307,6 +3175,9 @@
     "enem-2023-ppl-d2-q158": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
+    "enem-2023-ppl-d2-q159": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
     "enem-2023-ppl-d2-q161": [
      "15 fração(ões) linearizada(s) como a/b: conferir"
     ],
@@ -5324,8 +3195,9 @@
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
-   "status": "FALHA",
+   "status": "REVISAR",
    "gravado": false
   },
   "2023-regular-dia1": {
@@ -5345,6 +3217,7 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {},
+   "criticos": 0,
    "explicacoes": 0,
    "status": "OK",
    "gravado": false
@@ -5357,21 +3230,18 @@
    "motor": "v2023",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 13,
+   "com_aviso": 10,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
-   "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 16,
+   "letras_perdidas": 2,
+   "algarismos_sem_cobertura": 51,
    "avisos": {
     "enem-2023-regular-d2-q109": [
      "3 fração(ões) linearizada(s) como a/b: conferir",
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2023-regular-d2-q110": [
-     "enunciado muito curto"
     ],
     "enem-2023-regular-d2-q113": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -5380,7 +3250,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2023-regular-d2-q132": [
-     "enunciado muito curto"
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2023-regular-d2-q141": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -5399,22 +3269,406 @@
     ],
     "enem-2023-regular-d2-q173": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2023-regular-d2-q177": [
-     "enunciado muito curto"
-    ],
-    "enem-2023-regular-d2-q178": [
-     "enunciado muito curto"
     ]
    },
+   "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
+   "gravado": false
+  },
+  "2024-ppl-dia1": {
+   "ano": 2024,
+   "categoria": "ppl",
+   "dia": 1,
+   "idioma": null,
+   "motor": "v2024",
+   "esperadas": 95,
+   "extraidas": 95,
+   "com_aviso": 0,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {},
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2024-ppl-dia2": {
+   "ano": 2024,
+   "categoria": "ppl",
+   "dia": 2,
+   "idioma": null,
+   "motor": "v2024",
+   "esperadas": 90,
+   "extraidas": 90,
+   "com_aviso": 11,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {
+    "enem-2024-ppl-d2-q104": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q106": [
+     "3 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q119": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q126": [
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-ppl-d2-q128": [
+     "5 fração(ões) linearizada(s) como a/b: conferir",
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-ppl-d2-q144": [
+     "3 fração(ões) linearizada(s) como a/b: conferir",
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-ppl-d2-q152": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-ppl-d2-q155": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q165": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q178": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-ppl-d2-q179": [
+     "4 fração(ões) linearizada(s) como a/b: conferir",
+     "3 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
+     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ]
+   },
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2024-regular-dia1": {
+   "ano": 2024,
+   "categoria": "regular",
+   "dia": 1,
+   "idioma": null,
+   "motor": "v2024",
+   "esperadas": 95,
+   "extraidas": 95,
+   "com_aviso": 0,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {},
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2024-regular-dia2": {
+   "ano": 2024,
+   "categoria": "regular",
+   "dia": 2,
+   "idioma": null,
+   "motor": "v2024",
+   "esperadas": 90,
+   "extraidas": 90,
+   "com_aviso": 14,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 1,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {
+    "enem-2024-regular-d2-q142": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q148": [
+     "1 fração(ões) linearizada(s) como a/b: conferir",
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-regular-d2-q149": [
+     "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-regular-d2-q159": [
+     "4 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q165": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q166": [
+     "5 fração(ões) linearizada(s) como a/b: conferir",
+     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-regular-d2-q167": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q169": [
+     "15 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q170": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2024-regular-d2-q171": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q172": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q175": [
+     "3 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q177": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2024-regular-d2-q180": [
+     "19 fração(ões) linearizada(s) como a/b: conferir",
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ]
+   },
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-ppl-dia1": {
+   "ano": 2025,
+   "categoria": "ppl",
+   "dia": 1,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 95,
+   "extraidas": 95,
+   "com_aviso": 0,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {},
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-ppl-dia2": {
+   "ano": 2025,
+   "categoria": "ppl",
+   "dia": 2,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 90,
+   "extraidas": 90,
+   "com_aviso": 15,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {
+    "enem-2025-ppl-d2-q97": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-ppl-d2-q106": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-ppl-d2-q117": [
+     "4 fração(ões) linearizada(s) como a/b: conferir",
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-ppl-d2-q129": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q138": [
+     "3 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q144": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q148": [
+     "14 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q156": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q159": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q161": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q166": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q175": [
+     "5 fração(ões) linearizada(s) como a/b: conferir",
+     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-ppl-d2-q178": [
+     "4 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q179": [
+     "1 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-ppl-d2-q180": [
+     "4 fração(ões) linearizada(s) como a/b: conferir"
+    ]
+   },
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-regular-dia1": {
+   "ano": 2025,
+   "categoria": "regular",
+   "dia": 1,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 95,
+   "extraidas": 95,
+   "com_aviso": 0,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {},
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-regular-dia2": {
+   "ano": 2025,
+   "categoria": "regular",
+   "dia": 2,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 90,
+   "extraidas": 90,
+   "com_aviso": 8,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 3,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {
+    "enem-2025-regular-d2-q132": [
+     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-regular-d2-q137": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-regular-d2-q152": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-regular-d2-q157": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-regular-d2-q160": [
+     "6 fração(ões) linearizada(s) como a/b: conferir",
+     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+    ],
+    "enem-2025-regular-d2-q172": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-regular-d2-q178": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-regular-d2-q179": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ]
+   },
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-segunda-dia1": {
+   "ano": 2025,
+   "categoria": "segunda",
+   "dia": 1,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 95,
+   "extraidas": 95,
+   "com_aviso": 0,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {},
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
+   "gravado": false
+  },
+  "2025-segunda-dia2": {
+   "ano": 2025,
+   "categoria": "segunda",
+   "dia": 2,
+   "idioma": null,
+   "motor": "v2025",
+   "esperadas": 90,
+   "extraidas": 90,
+   "com_aviso": 4,
+   "ignoradas": [],
+   "ausentes": [],
+   "anuladas": 0,
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
+   "letras_perdidas": 0,
+   "algarismos_sem_cobertura": 0,
+   "avisos": {
+    "enem-2025-segunda-d2-q136": [
+     "7 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-segunda-d2-q151": [
+     "3 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-segunda-d2-q158": [
+     "2 fração(ões) linearizada(s) como a/b: conferir"
+    ],
+    "enem-2025-segunda-d2-q169": [
+     "5 fração(ões) linearizada(s) como a/b: conferir"
+    ]
+   },
+   "criticos": 0,
+   "explicacoes": 0,
+   "status": "OK",
    "gravado": false
   }
  },
  "sem_gabarito": [
-  "2010/ppl/dia1-prova.pdf",
-  "2010/ppl/dia2-prova.pdf",
   "2011/ppl/dia1-prova.pdf",
   "2011/ppl/dia2-prova.pdf"
  ]
