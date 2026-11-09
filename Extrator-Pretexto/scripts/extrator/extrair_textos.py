@@ -367,6 +367,19 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
                     break
             if mudou:
                 break
+    if P.rotulos_na_figura:                     # palavra que cruza a borda do desenho ("HNO₃ 60%") entra inteira nele
+        palavras = None
+        for g in grupos:
+            if g['img'] or g['n'] < 3:
+                continue
+            palavras = palavras if palavras is not None else pagina.extract_words()
+            c = g['caixa']
+            for w in palavras:
+                cw = (w['x0'], w['top'], w['x1'], w['bottom'])
+                dentro = c[0] - 1 <= cw[0] and cw[2] <= c[2] + 1 and c[1] - 1 <= cw[1] and cw[3] <= c[3] + 1
+                if not dentro and intersecta(c, cw):
+                    c = uniao(c, cw)
+            g['caixa'] = c
     figuras, caixas = [], []
     for g in grupos:
         w, h = g['caixa'][2] - g['caixa'][0], g['caixa'][3] - g['caixa'][1]
@@ -1077,6 +1090,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         chars = [c for c in chars if c.get('upright', True)]
     chars, numerada = remover_numeracao(chars)
     curvas = [o for o in reg.curves if not excl(o)]
+    if P.ignorar_pontinhos:                    # pontinho vetorial (3 pt) perto do texto não é sinal de raiz
+        curvas = [o for o in curvas if max(o['x1'] - o['x0'], o['bottom'] - o['top']) >= 4]
     barras = [o for o in list(reg.lines) + list(reg.rects) if _fina_horizontal(o) and not excl(o)]
     if P.letra_em_circulo:                     # letra da alternativa dentro de um círculo (digital): não é radical
         letras = [c for c in chars if c['text'] in 'ABCDE']
@@ -1099,7 +1114,7 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     chars = agrupar_indices(chars, P.fontes_letra)   # compartilhado por todos os motores (v2025, v2024 e derivados)
     tam_corpo = Counter(round(c['size'], 1) for c in chars if c['size'] >= 8 and c['text'].strip()).most_common(1)
     tam_corpo = tam_corpo[0][0] if tam_corpo else 10
-    brutas = chars_to_textmap(chars, y_tolerance=4).extract_text_lines(strip=True, return_chars=True)
+    brutas = chars_to_textmap(chars, y_tolerance=P.tolerancia_linha).extract_text_lines(strip=True, return_chars=True)
     if P.alternativas_lado_a_lado:
         brutas = _dividir_alternativas_lado_a_lado(brutas, P)
     for ln in brutas:
@@ -1111,6 +1126,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             txt = re.sub(r'\) ([,.;:])', r')\1', txt)           # ")" fim de fração/raiz + pontuação colada
         if RE_SO_MARCA.match(txt):
             continue
+        if P.ignorar_ano_solto and txt.strip() == P.motor[1:]:
+            continue                                 # ano da prova impresso solto no cabeçalho/rodapé
         if P.quadro_rotulo and re.fullmatch(r'Rascunho', txt, re.I):
             continue                                 # rótulo do espaço de rascunho (2009)
         if not txt or (txt.isdigit() and len(txt) <= 3 and RE_MARCA_SUB.search(ln['text'])):
@@ -1497,8 +1514,11 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         for nome in ('S0', 'E', 'D', 'U', 'S1'):
             itens = regs.get(nome, [])
             itens.sort(key=lambda i: i.get('ord', (i['top'], 0, i['top'])))
+            if P.rotulos_na_figura:
+                itens = _absorver_rotulos(itens)
             itens = (ilegiveis_para_figuras_v2025 if P.usa_v2025 else ilegiveis_para_figuras)(itens, pn, pagina.width)
-            caixas_formula.extend(i['caixa'] for i in itens if i['tipo'] == 'figura' and i.get('formula'))
+            caixas_formula.extend(i['caixa'] for i in itens if i['tipo'] == 'figura'
+                                  and (i.get('formula') or P.rotulos_na_figura))   # inclui rótulos absorvidos
             geometria(itens)
             fluxo.extend(itens)
 
@@ -1511,6 +1531,10 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         palavras_pag = corpo.extract_words()
         if P.ignorar_texto_girado:                      # rótulos girados de gráfico/mapa ficam dentro da figura
             palavras_pag = [w for w in palavras_pag if w.get('upright', True)]
+        if P.ignorar_ano_solto:
+            anos_soltos = {round(w['top']) for w in palavras_pag if w['text'] == P.motor[1:]
+                           and sum(1 for o in palavras_pag if abs(o['top'] - w['top']) < 2) == 1}
+            palavras_pag = [w for w in palavras_pag if round(w['top']) not in anos_soltos]
         linhas_rotulo = {round(w['top'] / 3) for w in palavras_pag if norm(w['text']) in ('questao', 'questoes')}
         linhas_titulo = {round(w['top'] / 3) for w in palavras_pag if norm(w['text']) == 'questoes'}
         for w in palavras_pag:
@@ -1842,6 +1866,35 @@ def _dividir_figura_em_alternativas(pdf, q):
         figs.append(dict(fig, caixa=cb, top=cb[1], bottom=cb[3], x0=cb[0], x1=cb[2], membros=[]))
     q['itens'] = itens[:-1]
     q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
+
+
+def _absorver_rotulos(itens):
+    """Linhas curtas (sem letra de alternativa) encostadas em figuras são rótulos delas (eixo de gráfico, legenda de
+    ponto): cada figura tocada cresce para incluir o pedaço da linha que está sobre ela, e a linha sai do texto.
+    Até 3 palavras; até 8 se a linha inteira estiver sobre as figuras (rótulos de dois gráficos lado a lado)."""
+    figs = [i for i in itens if i['tipo'] == 'figura' and not i.get('formula')]
+    if not figs:
+        return itens
+    tams = [i['tam'] for i in itens if i['tipo'] == 'linha' and i.get('tam')]
+    corpo = statistics.median(tams) if tams else 10
+    saida = []
+    for it in itens:
+        n = len(it['texto'].split()) if it['tipo'] == 'linha' else 99
+        parece_rotulo = it['tipo'] == 'linha' and (_texto_fraco(it['texto']) or it.get('tam', corpo) < corpo * 0.9)
+        if parece_rotulo and not it.get('alt') and not it.get('rotulo') and n <= 8:
+            cb = (it['x0'], it['top'], it['x1'], it['bottom'])
+            perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=8)]
+            sobre = perto and min(f['caixa'][0] for f in perto) - 12 <= cb[0] and cb[2] <= max(f['caixa'][2] for f in perto) + 12
+            if perto and (n <= 3 or sobre):
+                for f in perto:
+                    parte = cb if len(perto) == 1 else (max(cb[0], f['caixa'][0] - 12), cb[1],
+                                                        min(cb[2], f['caixa'][2] + 12), cb[3])
+                    if parte[0] < parte[2]:
+                        f['caixa'] = uniao(f['caixa'], parte)
+                        f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
+                continue
+        saida.append(it)
+    return saida
 
 
 def _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
@@ -2236,7 +2289,7 @@ def auditar(r):
         av.append('texto com linhas numeradas: numeração removida')
     for i, a in enumerate(r['alternativas']):                       # (crítico) alternativa cortada no meio
         if re.search(r'\s(?:do|da|dos|das|de|com|em|no|na|nos|nas|para|por|pela|pelo|e|ou|a|o|as|os|que|um|uma)$',
-                     a or '', re.I):
+                     a or ''):                                       # minúsculas: "ponto A" não é corte
             av.append(f'CRÍTICO: alt {chr(65 + i)} termina em "{a.split()[-1]}" (possível corte)')
     for nome in ('enunciado', 'texto_apoio', 'credito_texto'):
         for linha in (r.get(nome) or '').splitlines():
@@ -2245,7 +2298,7 @@ def auditar(r):
                 break
     for nome, valor in [('enunciado', r['enunciado']), ('credito', r['credito_texto'])] + \
             [(f'alt {chr(65 + i)}', a) for i, a in enumerate(r['alternativas'])]:
-        if valor and re.search(r'P[áa]gina\s+\d+|\bCaderno\s+\d+\s*[-–]|\d+º\s*dia\s*\|', valor):
+        if valor and re.search(r'\bCaderno\s+\d+\s*[-–].{0,30}P[áa]gina\s+\d+|\d+º\s*dia\s*\|', valor):
             av.append(f'CRÍTICO: {nome}: rodapé do caderno no texto')
     return av
 

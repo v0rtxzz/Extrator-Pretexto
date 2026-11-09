@@ -80,6 +80,10 @@ class Perfil:
     alternativas_por_figuras: bool = False  # 5 figuras sem letra legível no fim da questão = alternativas A-E
     alternativas_desenhadas: bool = False  # 5 bolinhas sem texto ao lado: alternativas desenhadas (viram imagem)
     so_letra_marcada: bool = False   # se a prova usa fonte de marcador nas letras, "A" em fonte comum não é alternativa
+    rotulos_na_figura: bool = False  # linha curta encostada numa figura (eixo, legenda) entra na figura
+    ignorar_ano_solto: bool = False  # linha só com o ano da prova (cabeçalho/rodapé) não é texto de questão
+    tolerancia_linha: float = 4.0    # diferença vertical (pt) ainda considerada a mesma linha (subscritos C₆H₁₂O₆)
+    ignorar_pontinhos: bool = False  # curvas menores que 4 pt não são sinal de raiz
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
     gabarito_no_caderno: bool = False  # o "gabarito" é o caderno com a letra certa circulada (2010)
@@ -122,7 +126,7 @@ class Regra:
 
 
 # Ponto de partida dos motores 2009-2023 (cada motor recebe uma CÓPIA; mudar aqui não altera 2024 nem 2025).
-_CICLO_ANTIGO = dict(so_letra_marcada=True, alternativas_desenhadas=True, alternativas_por_figuras=True, lixo_como_imagem=True, caixa_sem_texto_e_figura=True, salto_fim_questao=24.0, indice_nao_e_alternativa=True, pular_capa=True, proteger_rotulos=True, ignorar_texto_girado=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
+_CICLO_ANTIGO = dict(ignorar_pontinhos=True, tolerancia_linha=5.5, ignorar_ano_solto=True, rotulos_na_figura=True, so_letra_marcada=True, alternativas_desenhadas=True, alternativas_por_figuras=True, lixo_como_imagem=True, caixa_sem_texto_e_figura=True, salto_fim_questao=24.0, indice_nao_e_alternativa=True, pular_capa=True, proteger_rotulos=True, ignorar_texto_girado=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
 _ATE_2016 = dict(_CICLO_ANTIGO, areas=AREAS_ATE_2016, questoes_idioma=(91, 95))
 
 # ───────────────────────── Motores (um por ano; o nome é sempre o ano) ─────────────────────────
@@ -168,6 +172,8 @@ REGRAS = {
 }
 REGRAS['v2014'] = [Regra('PPL e terceira: rodapé mais alto', categorias=('ppl', 'terceira'),
                          ajustes=dict(rodape_rel=0.936))]
+REGRAS['v2017'] = [Regra('PPL: rodapé mais alto', categorias=('ppl',), ajustes=dict(rodape_rel=0.93))]
+REGRAS['v2018'] = [Regra('PPL: rodapé mais alto', categorias=('ppl',), ajustes=dict(rodape_rel=0.93))]
 REGRAS['v2015'] = [Regra('PPL: rodapé mais alto e cabeçalho maior', categorias=('ppl',),
                          ajustes=dict(rodape_rel=0.936, topo_rel=0.088))]
 for _ano in (2021, 2022):          # letras das alternativas em Segoe UI Bold dentro de um círculo
