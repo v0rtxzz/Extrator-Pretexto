@@ -152,16 +152,85 @@ def decodificar_cid(chars, familias):
     return n
 
 
+def _calha_pelo_texto(pagina, topo, rodape):
+    """Centro da faixa vertical sem nenhum caractere entre 35% e 65% da largura (a calha entre as colunas)."""
+    ocup = [0] * int(pagina.width + 1)
+    for c in pagina.chars:
+        if c['text'].strip() and topo <= c['top'] <= rodape:
+            for x in range(int(c['x0']), min(int(c['x1']) + 1, len(ocup))):
+                ocup[x] += 1
+    ini, fim = int(pagina.width * 0.35), int(pagina.width * 0.65)
+    melhor, atual = None, None
+    for x in range(ini, fim + 1):
+        if ocup[x] == 0:
+            atual = (atual[0], x) if atual else (x, x)
+            if not melhor or atual[1] - atual[0] > melhor[1] - melhor[0]:
+                melhor = atual
+        else:
+            atual = None
+    return (melhor[0] + melhor[1]) / 2 if melhor and melhor[1] - melhor[0] >= 8 else None
+
+
+def _mapa_de_tinta(pagina, dpi=50):
+    """Função caixa -> bool: há tinta (pixel escuro) nessa área da página renderizada?"""
+    try:
+        imagem = pagina.to_image(resolution=dpi)
+        img = imagem.original.convert('L')
+    except Exception:
+        return None
+    w, h = img.size
+    bx0, bt, bx1, bb = imagem.bbox
+    ex, ey = w / (bx1 - bx0), h / (bb - bt)
+    px = img.load()
+
+    def tem(c):
+        x0, x1 = max(int((c[0] - bx0) * ex) - 1, 0), min(int((c[2] - bx0) * ex) + 2, w)
+        t, b = max(int((c[1] - bt) * ey) - 1, 0), min(int((c[3] - bt) * ey) + 2, h)
+        if x1 <= x0 or b <= t:
+            return True
+        passo = max(1, (x1 - x0) * (b - t) // 4000)
+        return any(px[x, y] < 235 for x in range(x0, x1, passo) for y in range(t, b, passo))
+    return tem
+
+
+def _chars_invisiveis(pagina, dpi=50):
+    """Caracteres que não aparecem na página renderizada (texto oculto, recortado ou na cor do fundo): a área deles é
+    toda branca. Texto branco sobre fundo escuro continua, porque a área tem tinta."""
+    try:
+        imagem = pagina.to_image(resolution=dpi)
+        img = imagem.original.convert('L')
+    except Exception:
+        return set()
+    w, h = img.size
+    bx0, bt, bx1, bb = imagem.bbox                    # área da página que a imagem cobre (CropBox)
+    ex, ey = w / (bx1 - bx0), h / (bb - bt)
+    px = img.load()
+    fora = set()
+    for c in pagina.chars:
+        if not c['text'].strip():
+            continue
+        x0, x1 = max(int((c['x0'] - bx0) * ex), 0), min(int((c['x1'] - bx0) * ex) + 1, w)
+        t, b = max(int((c['top'] - bt) * ey), 0), min(int((c['bottom'] - bt) * ey) + 1, h)
+        if x1 <= x0 or b <= t:
+            continue
+        if min(px[x, y] for x in range(x0, x1) for y in range(t, b)) > 235:
+            fora.add(_chave_char(c))
+    return fora
+
+
 def preparar_pagina(pagina, P):
     """Remove caracteres duplicados, marca d'água (fonte minúscula) e o que está fora da área visível."""
     vx0, vt, vx1, vb = caixa_visivel(pagina, P)
     if P.decodificar_cid:
         decodificar_cid(pagina.chars, P.decodificar_cid)
     pagina = pagina.dedupe_chars()
+    invisiveis = _chars_invisiveis(pagina) if P.remover_texto_invisivel else set()
 
     def manter(o):
         if o.get('object_type') != 'char':
             return True
+        if invisiveis and _chave_char(o) in invisiveis:
+            return False
         if o['size'] < P.tam_min_char:
             return False
         cx, cy = (o['x0'] + o['x1']) / 2, (o['top'] + o['bottom']) / 2
@@ -309,14 +378,23 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
     Cada figura guarda `membros` (os objetos originais) para separar alternativas que são imagens distintas."""
     objs, filetes = [], []
     zonas_rotulo = _zonas_rotulo(pagina.chars) if P.quadro_rotulo else []
+    tinta = _mapa_de_tinta(pagina) if P.remover_texto_invisivel else None
+    calha_txt = _calha_pelo_texto(pagina, topo, rodape) if P.curva_recortada else None
     for tipo, lista in (('img', pagina.images), ('vet', pagina.curves + pagina.rects + pagina.lines)):
         for o in lista:
             c = caixa(o)
+            meio = calha_txt
+            if meio and P.curva_recortada and tipo == 'vet' and o.get('object_type') == 'curve' \
+                    and c[2] - c[0] > pagina.width * 0.35 and c[0] < meio - 8 and meio < c[2]:
+                # curva grande que atravessa a calha (círculo recortado pela coluna): a caixa fica do lado do centro
+                c = (c[0], c[1], meio - 3, c[3]) if (c[0] + c[2]) / 2 < meio else (meio + 3, c[1], c[2], c[3])
             if tipo == 'vet' and any(z[0] <= c[0] and c[2] <= z[2] and z[1] <= c[1] and c[3] <= z[3]
                                      for z in zonas_rotulo):
                 continue                                       # quadrinho do rótulo 'Questão | N'
             if tipo == 'img':
                 c = aparadas.get(tuple(round(v) for v in c), c)
+            elif tinta is not None and not tinta(c):
+                continue                                       # traço escondido pelo recorte (clip): não aparece
             w, h = c[2] - c[0], c[3] - c[1]
             if c[3] < topo or c[1] > rodape:
                 continue
@@ -358,6 +436,10 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             for j in range(i + 1, len(grupos)):
                 folga = 0 if ((P.isolar_tracos and (traco(grupos[i]) or traco(grupos[j])))
                               or (P.emoji_max > 0 and (emoji(grupos[i]) or emoji(grupos[j])))) else 6   # só se junta ao que sobrepõe
+                if calha_txt and P.curva_recortada and (
+                        (grupos[i]['caixa'][2] <= calha_txt + 1 and grupos[j]['caixa'][0] >= calha_txt - 1) or
+                        (grupos[j]['caixa'][2] <= calha_txt + 1 and grupos[i]['caixa'][0] >= calha_txt - 1)):
+                    continue                                  # um de cada lado da calha: colunas diferentes
                 if intersecta(grupos[i]['caixa'], grupos[j]['caixa'], folga=folga):
                     a, b = grupos[i], grupos[j]
                     grupos[i] = {'caixa': uniao(a['caixa'], b['caixa']), 'img': a['img'] or b['img'],
@@ -390,6 +472,8 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             figuras.append(g)
         elif not g['img'] and g['n'] >= 3 and w >= P.vet_min_w and h >= P.vet_min_h:
             figuras.append(g)
+        elif P.desenho_baixo and not g['img'] and g['n'] >= 6 and w >= P.vet_min_w and h >= 12:
+            figuras.append(g)                          # fórmula estrutural em zigue-zague (baixa e larga)
         elif not g['img'] and g['n'] <= 2 and w >= 150 and h >= 40:
             if P.caixa_sem_texto_e_figura and not any(c['text'].strip() and centro_dentro(c, [g['caixa']])
                                                       for c in pagina.chars):
@@ -1482,7 +1566,7 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
             meio = pagina.width * P.calha_padrao
             cruzam = [w for w in pagina.crop((0, topo, pagina.width, rodape), strict=False).extract_words()
                       if w['x0'] < meio - 2 < meio + 2 < w['x1'] and not so_fig(w)]
-            if len(cruzam) <= 2:
+            if not cruzam:
                 calha = meio
         regs = regioes_com_colunas(pagina, (0, topo, pagina.width, rodape), calha, excl, pn, '', P)
 
@@ -1790,8 +1874,9 @@ def _tirar_rotulos_das_figuras(q):
 
 
 def _texto_fraco(t):
-    """Texto de alternativa sem nenhuma palavra (só números, letras soltas, fórmula): sobra de gráfico/desenho."""
-    return not re.search(r'[A-Za-zÀ-ÿ]{4,}', t or '')
+    """Texto de alternativa sem nenhuma palavra (só números, letras soltas, fórmula como OCOCH₃): sobra de desenho.
+    Palavra de verdade tem ao menos 3 letras minúsculas seguidas."""
+    return not re.search(r'[a-zà-ÿ]{3,}', t or '')
 
 
 def _completar_alternativas_desenhadas(pdf, q, forcar=False):
