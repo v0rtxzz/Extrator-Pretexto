@@ -14,7 +14,8 @@ Cada prova roda em um processo separado (--processos N). O log completo de cada 
 relatorios/logs/ANO-CATEGORIA-diaN[-idioma].log e o resumo para relatorios/CONSOLIDADO.{md,json}.
 
 Critério de aprovação (status OK): todas as questões esperadas extraídas, nenhuma ignorada/ausente, nenhuma palavra
-nem algarismo do PDF sem cobertura e nenhuma letra perdida na leitura das linhas. Avisos por questão (frações
+nem algarismo do PDF sem cobertura, nenhuma letra perdida na leitura das linhas e nenhum aviso CRÍTICO (alternativa
+cortada, rótulos de gráfico embaralhados, rodapé no texto). Avisos por questão (frações
 linearizadas, fórmulas salvas como imagem) não reprovam, mas aparecem no relatório.
 """
 import argparse
@@ -41,7 +42,8 @@ def _status(r):
     if r.get('erro'):
         return 'ERRO'
     if (r['extraidas'] == r['esperadas'] and not r['ignoradas'] and not r['ausentes']
-            and not r['palavras_sem_cobertura'] and not r['algarismos_sem_cobertura'] and not r['letras_perdidas']):
+            and not r['palavras_sem_cobertura'] and not r['algarismos_sem_cobertura'] and not r['letras_perdidas']
+            and not r.get('criticos')):
         return 'OK'
     if r['extraidas'] == r['esperadas'] and not r['ignoradas']:
         return 'REVISAR'          # todas as questões, mas sobrou texto/número sem cobertura

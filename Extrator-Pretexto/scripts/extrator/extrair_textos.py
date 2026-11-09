@@ -1004,6 +1004,22 @@ def _sem_bordas_do_rotulo(chars, barras):
                                          for z in zonas)]
 
 
+RE_INDICE_LETRA = re.compile(r'[\u1d2c-\u1dbf\u2090-\u209c]')       # ᵃ ᵍ ᵗ ₐ ₓ ... (índice em forma de letra)
+
+
+def _parece_lixo(texto):
+    """Linha que parece rótulos de gráfico embaralhados: várias letras-índice numa linha curta (Aᵍ_{by}, lᵗᵘ_d)
+    ou muitas letras soltas ("F n o g s , s a i n l f d u e"). Kₐ, CO₂, x² e 10⁸ não contam."""
+    toks = texto.split()
+    if not toks:
+        return False
+    n_ind = len(RE_INDICE_LETRA.findall(texto)) + texto.count('_{')
+    if n_ind >= 3 or (n_ind >= 2 and len(texto) <= 12):
+        return True
+    soltas = sum(1 for t in toks if len(t) == 1 and t.isalpha() and t not in 'aeoAEOyY')
+    return len(toks) >= 8 and soltas >= len(toks) * 0.5
+
+
 def _precisa_ocr(cs):
     """Linha em que ao menos 30% dos caracteres são glifos sem Unicode ("(cid:N)") e nenhum é estrutura matemática."""
     ruins = sum(1 for c in cs if RE_GLIFO_RUIM.search(c['text']))
@@ -1037,7 +1053,7 @@ def _dividir_alternativas_lado_a_lado(brutas, P):
     for ln in brutas:
         cs = [c for c in ln['chars'] if c['text'].strip()]
         marcas = [c for c in cs if c['text'] in 'ABCDE' and any(k in c['fontname'] for k in P.fontes_letra)]
-        partes = re.split(r'\s+(?=[A-E]\s)', ln['text'])
+        partes = re.split(r'\s+(?=[A-E](?:\s|$))', ln['text'])
         if len(marcas) < 2 or cs[0] is not marcas[0] or len(partes) != len(marcas):
             saida.append(ln)
             continue
@@ -1057,6 +1073,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     (`excl`), sem linhas em `pular_tops`, sem numeração de margem e com frações linearizadas."""
     reg = pagina.crop(bbox, strict=False)
     chars = [c for c in reg.chars if not excl(c) and not any(abs(c['top'] - t) < 3 for t in pular_tops)]
+    if P.ignorar_texto_girado:                     # rótulos girados (eixo de gráfico) não são linhas de texto
+        chars = [c for c in chars if c.get('upright', True)]
     chars, numerada = remover_numeracao(chars)
     curvas = [o for o in reg.curves if not excl(o)]
     barras = [o for o in list(reg.lines) + list(reg.rects) if _fina_horizontal(o) and not excl(o)]
@@ -1132,6 +1150,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         if not item.get('ocr') and (any(RE_GLIFO_RUIM.search(c['text']) or c.get('_complexo') for c in cs)
                                     or item['indices_soltos']):
             item['ilegivel'] = True
+        if P.lixo_como_imagem and not letra and _parece_lixo(item['texto']):
+            item['ilegivel'] = True                  # rótulos de gráfico lidos fora de ordem: recorta como imagem
         m = RE_ROTULO.match(txt)
         if m:
             negrito = any(k in cs[0]['fontname'] for k in ('Bold', 'Black', 'Heavy', 'Semibold'))
@@ -1453,6 +1473,9 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         def onde(cx):
             return 'U' if not calha else ('E' if cx < calha else 'D')
 
+        if P.alternativas_desenhadas:
+            for item in _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
+                regs.setdefault(item['col'], []).append(item)
         for f in figs:
             cb = f['caixa']
             if calha and (cb[2] - cb[0]) > calha * 0.9:
@@ -1533,6 +1556,7 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
     compartilhados = []
     idioma = idioma_forcado
     materia = None
+    so_marcador = P.so_letra_marcada and sum(1 for i in fluxo if i.get('alt_marcador')) >= 20
     tams = [i['tam'] for i in fluxo if i['tipo'] == 'linha' and i.get('tam')]
     tam_corpo = statistics.median(tams) if tams else 10
 
@@ -1610,6 +1634,8 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 marcador = it.get('alt')
                 if marcador is None and P.indice_nao_e_alternativa and it.get('tam', tam_corpo) < tam_corpo * 0.85:
                     pass                                     # "A" / "A B" em tamanho de índice (k_A, p_B): não é letra
+                elif marcador is None and so_marcador:
+                    pass                                     # prova com letras em fonte de marcador: "A" solto é rótulo
                 elif marcador is None:
                     match_alt = RE_ALT_REGEX.match(t)
                     marcador = (match_alt.group(1) if match_alt and
@@ -1628,7 +1654,13 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 if atual['alts']:
                     ult = atual['alts'][-1]['linhas'][-1]
                     mesma_col = (ult['pg'], ult['col']) == (it['pg'], it['col'])
-                    if len(atual['alts']) == 5 and (not mesma_col or it['top'] - ult['top'] > P.salto_fim_questao):
+                    salto = it['top'] - ult['top']
+                    primeira = atual['alts'][-1]['linhas'][0]
+                    recuo = primeira.get('_cx0', primeira['x0'])          # onde começa o texto da alternativa
+                    continua = abs(it['x0'] - recuo) <= 3 or (ult is not primeira and abs(it['x0'] - ult['x0']) <= 3)
+                    continua = continua and it.get('tam', tam_corpo) >= tam_corpo * 0.92   # legenda/rodapé não
+                    if len(atual['alts']) == 5 and (not mesma_col or salto > P.salto_fim_questao
+                                                   or (salto > 16 and not continua)):
                         fechar()          # acabou a questão; o que vier depois não é dela
                         continue
                     atual['alts'][-1]['linhas'].append(it)
@@ -1656,7 +1688,218 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
         q['compartilhado'] = bool(pre)
         q['alts'].sort(key=lambda a: a['letra'])
         (_figuras_para_alternativas_v2025 if P.usa_v2025 else _figuras_para_alternativas)(q)
+        if P.alternativas_por_figuras and not q['alts']:
+            _alternativas_por_figuras(q)
     return questoes
+
+
+def _tirar_rotulos_das_figuras(q):
+    """Quando TODAS as alternativas têm figura, linhas curtas (até 3 palavras) a menos de 40 pt de alguma dessas
+    figuras são rótulos do desenho ("Início", "escada", "Sala"), não texto da alternativa. A letra é preservada."""
+    alts = q['alts']
+    if len(alts) != 5 or not all(a.get('figuras') for a in alts):
+        return
+    caixas = [(f['pg'], f['caixa'][0] - 40, f['caixa'][1] - 12, f['caixa'][2] + 40, f['caixa'][3] + 12)
+              for a in alts for f in a['figuras']]
+
+    def rotulo(ln, x, texto):
+        cy = (ln['top'] + ln['bottom']) / 2
+        return len(texto.split()) <= 3 and any(pg == ln['pg'] and c0 <= x <= c2 and c1 <= cy <= c3
+                                               for pg, c0, c1, c2, c3 in caixas)
+    for a in alts:
+        novas = []
+        for k, ln in enumerate(a['linhas']):
+            if k == 0 and ln.get('alt') == a['letra']:
+                resto = re.sub(r'^[A-E]\s*', '', ln['texto'])
+                novas.append(dict(ln, texto=a['letra']) if resto and rotulo(ln, ln.get('_cx0', ln['x0']) + 1, resto) else ln)
+            elif not rotulo(ln, ln['x0'] + 1, ln['texto']):
+                novas.append(ln)
+        a['linhas'] = novas
+
+
+def _texto_fraco(t):
+    """Texto de alternativa sem nenhuma palavra (só números, letras soltas, fórmula): sobra de gráfico/desenho."""
+    return not re.search(r'[A-Za-zÀ-ÿ]{4,}', t or '')
+
+
+def _completar_alternativas_desenhadas(pdf, q):
+    """Alternativas desenhadas (gráfico, fórmula em contorno, fonte com posição errada): se alguma das 5 está vazia
+    e nenhuma tem palavras de verdade, recorta cada alternativa como imagem a partir da posição da sua letra. Letras
+    na mesma coluna formam uma pilha; numa grade (A D / B E / C) cada coluna de letras é tratada à parte. Os blocos
+    de tinta da imagem renderizada vão para a letra mais próxima; recorte em branco cancela tudo."""
+    alts = q['alts']
+    if len(alts) != 5 or not any(not texto_alternativa(a) and not a.get('figuras') for a in alts) \
+            or not all(_texto_fraco(texto_alternativa(a)) for a in alts):
+        return
+    linhas = [a['linhas'][0] if a['linhas'] else None for a in alts]
+    if any(ln is None or ln.get('tipo') != 'linha' for ln in linhas) or len({ln['pg'] for ln in linhas}) != 1:
+        return
+    pg = pdf.pages[linhas[0]['pg'] - 1]
+    meio_pag = pg.width / 2
+    pilhas = []                                          # letras agrupadas pela posição x
+    for k in sorted(range(5), key=lambda k: linhas[k]['x0']):
+        if pilhas and abs(linhas[k]['x0'] - linhas[pilhas[-1][0]]['x0']) < 15:
+            pilhas[-1].append(k)
+        else:
+            pilhas.append([k])
+    novas = {}
+    escala = 2.0
+    for n_p, pilha in enumerate(pilhas):
+        pilha.sort(key=lambda k: linhas[k]['top'])
+        ls = [linhas[k] for k in pilha]
+        x0 = max(ln['x0'] for ln in ls) + 12            # logo depois da letra (o resto da linha pode ser lixo)
+        if n_p + 1 < len(pilhas):
+            x1 = min(linhas[k]['x0'] for k in pilhas[n_p + 1]) - 3
+        else:
+            x1 = meio_pag - 4 if ls[0]['x0'] < meio_pag and ls[0].get('col') == 'E' else pg.width - 20
+        passos = [ls[k + 1]['top'] - ls[k]['top'] for k in range(len(ls) - 1)]
+        passo = max(10.0, min(passos)) if passos else 40.0
+        t = ls[0]['top'] - passo * 0.6
+        b = ls[-1]['bottom'] + (passo * 1.5 if passos else 80)
+        img = pg.crop((x0, t, x1, b), strict=False).to_image(resolution=72 * escala).original.convert('L')
+        w, h = img.size
+        px = img.load()
+        xs = [x for x in range(w)                       # ignora linhas verticais contínuas (borda, separador)
+              if sum(1 for y in range(0, h, 3) if px[x, y] < 230) < (h / 3) * 0.8]
+        blocos = _faixas_brancas([sum(1 for x in xs if px[x, y] < 230) for y in range(h)], 0, 2)
+        centros = [((ln['top'] + ln['bottom']) / 2 - t) * escala for ln in ls]
+        grupos = [[] for _ in ls]
+        for ya, yb in blocos:
+            meio = (ya + yb) / 2
+            dono = min(range(len(ls)), key=lambda k: abs(centros[k] - meio))
+            if abs(meio - centros[dono]) <= passo * escala * 0.65:   # longe de toda letra: não é alternativa
+                grupos[dono].append((ya, yb))
+        for k, ln, g in zip(pilha, ls, grupos):
+            if not g:
+                return
+            ya, yb = min(a for a, _ in g), max(b2 for _, b2 in g)
+            faixa = img.crop((min(xs), ya, max(xs) + 1, yb)).point(lambda v: 255 if v < 230 else 0).getbbox()
+            faixa = faixa and (faixa[0] + min(xs), faixa[1], faixa[2] + min(xs), faixa[3])
+            if not faixa:
+                return
+            cb = (x0 + faixa[0] / escala - 1, t + ya / escala - 1, x0 + faixa[2] / escala + 1, t + yb / escala + 1)
+            novas[k] = {'tipo': 'figura', 'caixa': cb, 'raster': False, 'top': cb[1], 'bottom': cb[3], 'x0': cb[0],
+                        'x1': cb[2], 'pg': ln['pg'], 'col': ln.get('col'), 'page_width': pg.width, 'membros': [],
+                        'pad': 1}
+    for k, a in enumerate(alts):
+        a['figuras'] = [novas[k]]
+        a['linhas'] = a['linhas'][:1]                  # a letra fica; o texto-lixo do desenho sai
+        a['linhas'][0] = dict(a['linhas'][0], texto=a['letra'])
+
+
+def _faixas_brancas(valores, limiar, minimo):
+    """Intervalos [ini, fim) em que `valores` (linha/coluna de pixels) não está em branco."""
+    faixas, ini = [], None
+    for k, v in enumerate(list(valores) + [0]):
+        if v > limiar and ini is None:
+            ini = k
+        elif v <= limiar and ini is not None:
+            if k - ini >= minimo:
+                faixas.append((ini, k))
+            ini = None
+    return faixas
+
+
+def _dividir_figura_em_alternativas(pdf, q):
+    """Questão sem alternativas cuja última figura traz as 5 alternativas juntas (imagem única em grade): divide a
+    figura nas faixas em branco e atribui as letras pela posição (5 linhas: A-E; 3 linhas 2-2-1: A D / B E / C)."""
+    itens = q['itens']
+    if not itens or itens[-1]['tipo'] != 'figura':
+        return
+    fig = itens[-1]
+    x0, t, x1, b = fig['caixa']
+    escala = 2.0                                      # 144 dpi
+    try:
+        img = pdf.pages[fig['pg'] - 1].crop((x0, t, x1, b), strict=False).to_image(resolution=72 * escala).original.convert('L')
+    except Exception:
+        return
+    w, h = img.size
+    px = img.load()
+    tinta = lambda xs, ys: sum(1 for x in xs for y in ys if px[x, y] < 200)
+    linhas = _faixas_brancas([tinta(range(0, w, 2), [y]) for y in range(h)], 0, 12)
+    if len(linhas) not in (3, 5):
+        return
+    celulas = []
+    for (ya, yb) in linhas:
+        cols = _faixas_brancas([tinta([x], range(ya, yb, 2)) for x in range(w)], 0, 12)
+        juntas = []                                   # junta colunas separadas por vão pequeno (rótulos do gráfico)
+        for c in cols:
+            if juntas and c[0] - juntas[-1][1] < w * 0.08:
+                juntas[-1] = (juntas[-1][0], c[1])
+            else:
+                juntas.append(c)
+        celulas.append([(xa, ya, xb, yb) for xa, xb in juntas])
+    formato = [len(c) for c in celulas]
+    if formato == [1, 1, 1, 1, 1]:
+        ordem = [c[0] for c in celulas]
+    elif formato == [2, 2, 1]:
+        ordem = [celulas[0][0], celulas[1][0], celulas[2][0], celulas[0][1], celulas[1][1]]   # A B C | D E
+    else:
+        return
+    figs = []
+    for (xa, ya, xb, yb) in ordem:
+        cb = (x0 + xa / escala - 1, t + ya / escala - 1, x0 + xb / escala + 1, t + yb / escala + 1)
+        figs.append(dict(fig, caixa=cb, top=cb[1], bottom=cb[3], x0=cb[0], x1=cb[2], membros=[]))
+    q['itens'] = itens[:-1]
+    q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
+
+
+def _alternativas_desenhadas(pagina, topo, rodape, calha, pn):
+    """Alternativas cujo texto foi convertido em desenho (sem caracteres): 5 bolinhas de 6-11 pt empilhadas na mesma
+    coluna, sem texto à direita. Cada bolinha vira a letra A-E e a faixa à direita vira a figura da alternativa."""
+    discos = sorted((o for o in pagina.curves
+                     if 6 <= o['x1'] - o['x0'] <= 11 and 6 <= o['bottom'] - o['top'] <= 11
+                     and abs((o['x1'] - o['x0']) - (o['bottom'] - o['top'])) < 1 and topo <= o['top'] <= rodape),
+                    key=lambda o: (round(o['x0'] / 4), o['top']))
+    grupos, atual = [], []
+    for d in discos:
+        if atual and (abs(d['x0'] - atual[-1]['x0']) > 2 or not 8 < d['top'] - atual[-1]['top'] < 90):
+            grupos.append(atual)
+            atual = []
+        atual.append(d)
+    grupos.append(atual)
+    itens = []
+    for g in grupos:
+        if len(g) != 5:
+            continue
+        col = 'U' if not calha else ('E' if g[0]['x0'] < calha else 'D')
+        x_fim = (calha - 2) if (calha and col == 'E') else pagina.width
+        faixas = []
+        for k, d in enumerate(g):
+            fim = g[k + 1]['top'] - 1 if k < 4 else d['bottom'] + (g[1]['top'] - g[0]['top'])
+            membros = [o for o in pagina.curves + pagina.rects + pagina.lines
+                       if o['x0'] >= d['x1'] + 1 and o['x1'] <= x_fim and d['top'] - 3 <= o['top'] and o['bottom'] <= fim]
+            com_texto = any(c['text'].strip() and d['x1'] < c['x0'] < x_fim and d['top'] - 3 <= c['top'] <= fim
+                            for c in pagina.chars)
+            if not membros or com_texto:
+                break
+            faixas.append((d, (min(o['x0'] for o in membros), min(o['top'] for o in membros),
+                               max(o['x1'] for o in membros), max(o['bottom'] for o in membros))))
+        if len(faixas) != 5:
+            continue
+        for letra, (d, cb) in zip('ABCDE', faixas):
+            itens.append({'texto': letra, 'x0': d['x0'], 'x1': d['x1'], 'top': d['top'], 'bottom': d['bottom'],
+                          'fonte': 'desenho', 'tam': 10, 'alt': letra, 'alt_marcador': True, 'pg': pn, 'col': col,
+                          'tipo': 'linha', 'numerada': False, 'marcas_x': [d['x0']], 'fracoes': 0, 'indices_soltos': 0,
+                          '_cb': (d['x0'], d['top'], d['x1'], d['bottom']), '_cx0': d['x1']})
+            itens.append({'tipo': 'figura', 'caixa': cb, 'raster': False, 'top': cb[1], 'bottom': cb[3], 'x0': cb[0],
+                          'x1': cb[2], 'pg': pn, 'col': col, 'page_width': pagina.width, 'membros': [], 'pad': 2})
+    return itens
+
+
+def _alternativas_por_figuras(q):
+    """Questão sem letras legíveis (A-E desenhadas como vetor) cujas alternativas são 5 figuras parecidas, depois do
+    último texto: as figuras viram as alternativas A-E, na ordem de leitura (só perfis com `alternativas_por_figuras`)."""
+    itens = q['itens']
+    ult_texto = max((k for k, i in enumerate(itens) if i['tipo'] == 'linha'), default=-1)
+    figs = [i for i in itens[ult_texto + 1:] if i['tipo'] == 'figura']
+    if len(figs) != 5 or len(figs) != len(itens) - ult_texto - 1:
+        return
+    areas = [(f['caixa'][2] - f['caixa'][0]) * (f['caixa'][3] - f['caixa'][1]) for f in figs]
+    if max(areas) > min(areas) * 3:                   # tamanhos muito diferentes: não é uma grade de alternativas
+        return
+    q['itens'] = itens[:ult_texto + 1]
+    q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
 
 
 def _figuras_para_alternativas(q):
@@ -1885,6 +2128,8 @@ def _gabarito_marcado(caminho, P):
     for chave, q in questoes.items():
         marcadas = set()
         for a in q['alts']:
+            if not a['linhas']:
+                continue
             ln = a['linhas'][0]
             if ln.get('tipo') != 'linha':
                 continue
@@ -1989,6 +2234,19 @@ def auditar(r):
         av.append(f'{r["_formulas"]} fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)')
     if r.get('_numerada'):
         av.append('texto com linhas numeradas: numeração removida')
+    for i, a in enumerate(r['alternativas']):                       # (crítico) alternativa cortada no meio
+        if re.search(r'\s(?:do|da|dos|das|de|com|em|no|na|nos|nas|para|por|pela|pelo|e|ou|a|o|as|os|que|um|uma)$',
+                     a or '', re.I):
+            av.append(f'CRÍTICO: alt {chr(65 + i)} termina em "{a.split()[-1]}" (possível corte)')
+    for nome in ('enunciado', 'texto_apoio', 'credito_texto'):
+        for linha in (r.get(nome) or '').splitlines():
+            if _parece_lixo(linha):
+                av.append(f'CRÍTICO: {nome} com rótulos de gráfico embaralhados ("{linha[:30]}")')
+                break
+    for nome, valor in [('enunciado', r['enunciado']), ('credito', r['credito_texto'])] + \
+            [(f'alt {chr(65 + i)}', a) for i, a in enumerate(r['alternativas'])]:
+        if valor and re.search(r'P[áa]gina\s+\d+|\bCaderno\s+\d+\s*[-–]|\d+º\s*dia\s*\|', valor):
+            av.append(f'CRÍTICO: {nome}: rodapé do caderno no texto')
     return av
 
 
@@ -2086,6 +2344,13 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         alt_por_fonte = any(i.get('alt') for i in fluxo if i['tipo'] == 'linha')
         log(f'PDF: {total} páginas; lidas {len(paginas)}; alternativas por {"fonte" if alt_por_fonte else "texto"}.')
         questoes = segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log)
+        if P.alternativas_por_figuras:               # alternativas numa imagem só, em grade (A D / B E / C)
+            for q in questoes.values():
+                if not q['alts']:
+                    _dividir_figura_em_alternativas(pdf, q)
+                else:
+                    _completar_alternativas_desenhadas(pdf, q)
+                _tirar_rotulos_das_figuras(q)
         log(f'Questões reconhecidas no PDF: {len(questoes)}.')
 
         destino = Path(args.saida_img) / str(ano) / categoria / f'dia{dia}'
@@ -2206,6 +2471,7 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         'palavras_sem_cobertura': len(faltantes), 'exemplos_sem_cobertura': faltantes[:12],
         'letras_perdidas': len(perdas), 'algarismos_sem_cobertura': n_dig,
         'avisos': {r['id']: r['_avisos'] for r in resultados if r['_avisos']},
+        'criticos': sum(1 for r in resultados for v in r['_avisos'] if v.startswith('CRÍTICO')),
         'explicacoes': sum(1 for r in resultados if r.get('explicacao')),
     }
     if args.json:
