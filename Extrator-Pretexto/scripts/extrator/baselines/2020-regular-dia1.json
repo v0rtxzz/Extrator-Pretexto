@@ -6,15 +6,15 @@
  "questoes": {
   "enem-2020-regular-d1-q01-esp": {
    "alternativas": [
-    "8a8cbc537ccf",
-    "3cb4287409e7",
-    "9d5512f330f9",
-    "28a77d8df11f",
-    "14ce8a853814"
+    "81ef101ee9fd",
+    "ba8a33f7a6f4",
+    "f315d08c79e8",
+    "94fdb2f0a4fe",
+    "884d1f7e3ace"
    ],
-   "apoio": "c2edb923d474",
-   "credito": "ae8095533a22",
-   "enunciado": "af2675cccc90",
+   "apoio": "98a45db0a0f2",
+   "credito": "0d4399226653",
+   "enunciado": "e32a61fbe6ad",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -23,14 +23,14 @@
   },
   "enem-2020-regular-d1-q01-ing": {
    "alternativas": [
-    "039c1caac57c",
-    "53c45601ccb7",
-    "9563a4bf00a2",
-    "c65d4ed9b250",
-    "0a9d35d2e392"
+    "3cc4e5bd7285",
+    "fa31979b654e",
+    "9281afd1a03f",
+    "d81349114eaf",
+    "55065a4a579b"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "e754023d68a7",
+   "credito": "51b15caf7ce3",
    "enunciado": "22ce72d9789a",
    "gabarito": "A",
    "imagens": [
@@ -57,22 +57,22 @@
       289.1,
       76.6,
       535.8,
-      466.8
+      477.4
      ]
     ]
    ]
   },
   "enem-2020-regular-d1-q02-esp": {
    "alternativas": [
-    "1e879cbace4f",
-    "31d31940d2a8",
-    "67bb4c6ceb22",
-    "4e4327cbaccd",
-    "330973712b00"
+    "712d45da6d7e",
+    "1a26c3f0457c",
+    "0c64631af7fb",
+    "6c64b251c8ab",
+    "a9a6cf1e26a6"
    ],
-   "apoio": "2bdde2ce5526",
-   "credito": "977772860bb5",
-   "enunciado": "0da03b298c4b",
+   "apoio": "3695aa705b77",
+   "credito": "47314cea7861",
+   "enunciado": "88e2befce781",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -81,15 +81,15 @@
   },
   "enem-2020-regular-d1-q02-ing": {
    "alternativas": [
-    "5a4e86c8cb73",
-    "71e4fe3dfd62",
-    "1123932235ea",
-    "a159933e3b29",
-    "82b24a3dabcc"
+    "bb383592543c",
+    "cf2164c50a27",
+    "a5e891380cba",
+    "033728d2ac8c",
+    "9129dca55d85"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "51405dd6e172",
-   "enunciado": "0362dc87e1be",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "436742fea52b",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -98,15 +98,15 @@
   },
   "enem-2020-regular-d1-q03-esp": {
    "alternativas": [
-    "e9ed09781c7d",
-    "5d839dee8f20",
-    "26793438496b",
-    "96a423cff2af",
-    "bf184b25542f"
+    "1fdcff0c96d6",
+    "4e36ad4c7182",
+    "ee057ac32bcc",
+    "d4bc436edfea",
+    "1c143c6e6715"
    ],
-   "apoio": "b2f8c151c70d",
-   "credito": "f0b1dde126fe",
-   "enunciado": "e801490e6d3d",
+   "apoio": "c4f7ca76be65",
+   "credito": "13bf261db807",
+   "enunciado": "233d3e47dede",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -115,15 +115,15 @@
   },
   "enem-2020-regular-d1-q03-ing": {
    "alternativas": [
-    "05998d0994fe",
-    "59f8edd87a14",
-    "6b8279935da6",
-    "2433f5776583",
-    "d73f8a7224f4"
+    "ba61d98109a9",
+    "72b6d7b9860e",
+    "449110a42dbe",
+    "d505955d587d",
+    "5c34e3426e06"
    ],
-   "apoio": "af9e92abe5a5",
-   "credito": "9491ee3da529",
-   "enunciado": "18e7094cdada",
+   "apoio": "03b9875ce232",
+   "credito": "a7594c9ff20a",
+   "enunciado": "76b7f15390ec",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -133,14 +133,14 @@
   "enem-2020-regular-d1-q04-esp": {
    "alternativas": [
     "21b8f5414d73",
-    "9bb26494645b",
-    "5d8b08b177e6",
-    "97dee3fb541b",
-    "de663eae6335"
+    "919c818272eb",
+    "aefb06a751ea",
+    "6e6d271a541c",
+    "599251058d7c"
    ],
-   "apoio": "e2d24916ebb7",
-   "credito": "c38fe7fe40c3",
-   "enunciado": "571479d0a48b",
+   "apoio": "1478ac6426ac",
+   "credito": "f8ad3ded5acd",
+   "enunciado": "1ba6e15eb72b",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -149,49 +149,49 @@
   },
   "enem-2020-regular-d1-q04-ing": {
    "alternativas": [
-    "27dbd878134e",
-    "005c497ec2b0",
-    "1aacc05713a4",
-    "3c2ed5a45c1b",
-    "a3761f575960"
+    "e26211d802b9",
+    "52c6894725aa",
+    "5c988f85b74c",
+    "da72c8d3066c",
+    "802819c50654"
    ],
-   "apoio": "36d8eefb0ab6",
-   "credito": "ec34bfb77051",
-   "enunciado": "986274eb6675",
+   "apoio": "cc69bfa0aaa9",
+   "credito": "21dcde0e0606",
+   "enunciado": "7fe882f6a144",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No poema de Robert Frost, as palavras “fault” e ",
+   "previa": "No poema de Robert Frost as palavras “fault” e “",
    "recortes": []
   },
   "enem-2020-regular-d1-q05-esp": {
    "alternativas": [
-    "983fc4dc317e",
-    "5d0e11096587",
-    "8704a9223db0",
-    "52055e41ff9d",
-    "dd9205cdcd2f"
+    "cc90228bf517",
+    "b89448762282",
+    "f4621e9fe9a1",
+    "de49f001dff2",
+    "42688c4d6337"
    ],
-   "apoio": "b28d5075c3d4",
-   "credito": "96415dd5af91",
-   "enunciado": "45fcf678a747",
+   "apoio": "5f718396cd29",
+   "credito": "9ec9215489a1",
+   "enunciado": "b7fa96c5f6df",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto, no qual é narrada a visita à casa de u",
+   "previa": "No texto no qua é narrada a visita à casa de uma",
    "recortes": []
   },
   "enem-2020-regular-d1-q05-ing": {
    "alternativas": [
-    "46e4402b3f07",
-    "13966eda62c8",
-    "21985e90c9e9",
-    "8ee759d4651d",
-    "f0d161534ca8"
+    "b5e43171821f",
+    "e19744a7be88",
+    "065734006a4c",
+    "d1c7163a9d7c",
+    "e79c6f3d6e02"
    ],
-   "apoio": "9051c1823f6a",
-   "credito": "f7dd6f7809e0",
-   "enunciado": "4b21c48b99bb",
+   "apoio": "28a17088908a",
+   "credito": "220cf138732a",
+   "enunciado": "b7b6f74dc313",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -200,15 +200,15 @@
   },
   "enem-2020-regular-d1-q06": {
    "alternativas": [
-    "bbc2e6c0b354",
-    "087b3d933807",
-    "2eb213113104",
-    "95594a9b2633",
-    "e214c973b572"
+    "571fd48819f7",
+    "50f9369aae79",
+    "7a8684d6d755",
+    "ed240fde744a",
+    "89fe64036807"
    ],
-   "apoio": "415983079158",
-   "credito": "6910c277d7e7",
-   "enunciado": "a55ca5179482",
+   "apoio": "472c41bd033d",
+   "credito": "d6ca07b16a55",
+   "enunciado": "6f9e0e07fd50",
    "gabarito": "C",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q06-apoio-01.jpg"
@@ -230,48 +230,48 @@
   },
   "enem-2020-regular-d1-q07": {
    "alternativas": [
-    "2947c6f925c3",
-    "cc5050ab6223",
-    "201ae40c4dc1",
-    "0f000a47254e",
-    "f7a2c5c79b4f"
+    "52575cd831ac",
+    "67030faece1f",
+    "1b9a71f2c329",
+    "5e1bfcc8b56c",
+    "315c2c9f5a8f"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "72c24aeb5bdb",
-   "enunciado": "5f2ac4aa8a63",
+   "credito": "6da0c011b10e",
+   "enunciado": "607f468e36f8",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "A frase, título do filme, reproduz uma variedade",
+   "previa": "A frase título do filme reproduz uma variedade l",
    "recortes": []
   },
   "enem-2020-regular-d1-q08": {
    "alternativas": [
-    "bf59f60f5884",
-    "a99dce22a867",
-    "b5bbc0223a19",
-    "5b56ed9b0816",
-    "f80c086fdfb6"
+    "a8c5db9cc1a6",
+    "096cceffa2bc",
+    "bb4c9047aa4f",
+    "051d41603494",
+    "eb9be2660610"
    ],
-   "apoio": "55c4dbe6e5ab",
-   "credito": "648309008e27",
-   "enunciado": "24db22128b32",
+   "apoio": "19ad4eabd7e0",
+   "credito": "767664bd0281",
+   "enunciado": "942a726a563c",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Na prática artística mencionada no texto, o corp",
+   "previa": "Na prática artística mencionada no texto o corpo",
    "recortes": []
   },
   "enem-2020-regular-d1-q09": {
    "alternativas": [
-    "25a6bdc1dbd2",
-    "0492028a5832",
-    "53fd09541968",
-    "f9aa116dc8f2",
-    "868234413688"
+    "aa57b9f29fa6",
+    "91a66f2d3426",
+    "a0a6915bd481",
+    "235f3e0fb718",
+    "c92accb1bc45"
    ],
-   "apoio": "a66653925963",
-   "credito": "57ce76d1c3ec",
+   "apoio": "1578999193c3",
+   "credito": "656ae14bfca5",
    "enunciado": "729150a0452b",
    "gabarito": "A",
    "imagens": [],
@@ -281,14 +281,14 @@
   },
   "enem-2020-regular-d1-q10": {
    "alternativas": [
-    "7a19d6e1af5a",
-    "02a0818e00f0",
-    "0ec326adb1a0",
-    "fef6ed57ef06",
-    "560088958266"
+    "bd531bf88018",
+    "d538d80ec7a1",
+    "22a172e47eb8",
+    "5331a87c9da0",
+    "6117ab80dd7d"
    ],
-   "apoio": "cbab6faf3c49",
-   "credito": "331d6434368e",
+   "apoio": "bd872aedbf10",
+   "credito": "77f158a5a7ed",
    "enunciado": "1a71235a6bc9",
    "gabarito": "C",
    "imagens": [],
@@ -298,49 +298,49 @@
   },
   "enem-2020-regular-d1-q11": {
    "alternativas": [
-    "9c1f42ab1d7e",
-    "4477a668ea88",
-    "7140555f1091",
-    "77b2a7ab67da",
-    "610196be7d0d"
+    "a8da6f69a3e4",
+    "d53c516ff07d",
+    "d931704b601e",
+    "f28d3b3a55da",
+    "e2a15a699bb6"
    ],
-   "apoio": "f4366224a1ba",
-   "credito": "554b30a06f87",
-   "enunciado": "1853aeac4002",
+   "apoio": "f97945891cda",
+   "credito": "19c783afbe7e",
+   "enunciado": "f5818108224f",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No trecho, o narrador mobiliza recursos de lingu",
+   "previa": "No trecho o narrador mobiliza recursos de lingua",
    "recortes": []
   },
   "enem-2020-regular-d1-q12": {
    "alternativas": [
-    "f90b72dc1419",
+    "f778d6c33513",
     "17693fdb6a29",
-    "518ccee75c6c",
-    "ed9cba92ee5b",
-    "fb96e0aa3cdf"
+    "4bcc634b0b18",
+    "383da71bceb6",
+    "6b1683c522a2"
    ],
-   "apoio": "af2446f00617",
-   "credito": "a2d04e9b8e33",
-   "enunciado": "99cb2dcc0eda",
+   "apoio": "416dd391fd0e",
+   "credito": "c9dcd0dab6cc",
+   "enunciado": "2a11098fc4be",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Ao situar a composição no panorama cultural bras",
+   "previa": "Ao situar a composição no panorama cultura brasi",
    "recortes": []
   },
   "enem-2020-regular-d1-q13": {
    "alternativas": [
-    "cb25bc5c0050",
-    "27a3e2eb5777",
-    "34a8afde1d33",
-    "ed71b9972a14",
-    "74112cc879b0"
+    "4112a69879ca",
+    "754ee07b1d48",
+    "5a3d773b212a",
+    "a25ee8a631d9",
+    "2a049824991a"
    ],
-   "apoio": "bfea38f96981",
-   "credito": "c1f2fe872761",
-   "enunciado": "09a33cc66943",
+   "apoio": "8b12eedcccb1",
+   "credito": "f928eea902a4",
+   "enunciado": "647d793fc004",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -349,14 +349,14 @@
   },
   "enem-2020-regular-d1-q14": {
    "alternativas": [
-    "c9b4ceaa31b6",
-    "9f96f8f24a1c",
-    "f549bab427c9",
-    "fcf7589ecea8",
-    "c81fbb324047"
+    "39475e1984fe",
+    "7d392540c96c",
+    "36a943d80e87",
+    "4fe250a986d7",
+    "79e449826d63"
    ],
-   "apoio": "8a0798812202",
-   "credito": "4c743dcd7c5b",
+   "apoio": "5bff1c0ec7d5",
+   "credito": "f8040f7a8327",
    "enunciado": "7b125f8cfdc3",
    "gabarito": "B",
    "imagens": [
@@ -379,21 +379,21 @@
   },
   "enem-2020-regular-d1-q15": {
    "alternativas": [
-    "a95a17935067",
-    "0904bfd63870",
-    "6c920b9a5869",
-    "a1775283cbc7",
-    "e38bcfdb8e01"
+    "ffe77da57fe7",
+    "62fe9ef9e7ab",
+    "fc40de2bd0e7",
+    "4381f5dd9155",
+    "5edcac049f23"
    ],
-   "apoio": "941b2eced150",
-   "credito": "48edb2d79929",
-   "enunciado": "8015e3a00817",
+   "apoio": "ec40f16e1c97",
+   "credito": "153fbfe5fc36",
+   "enunciado": "f8e6504e2378",
    "gabarito": "B",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q15-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "O esporte é uma manifestação cultural na qual se",
+   "previa": "O esporte é uma manifestação cultura na qual se ",
    "recortes": [
     [
      "/questoes/2020/regular/dia1/enem-2020-regular-d1-q15-apoio-01.jpg",
@@ -409,100 +409,100 @@
   },
   "enem-2020-regular-d1-q16": {
    "alternativas": [
-    "e727d20ceb32",
-    "0f32e38b05d2",
-    "b9cbc7b0add4",
-    "2be2e40c2a71",
-    "33983c15170f"
+    "0bc9f8b54210",
+    "5902f398e320",
+    "8bb9f9c385f0",
+    "21b5dd5a6acc",
+    "ca999470bb8b"
    ],
-   "apoio": "506db7529e3f",
-   "credito": "bb69f0eb76c9",
-   "enunciado": "1f6ae41a8ce8",
+   "apoio": "c5b221ceb2dd",
+   "credito": "5f01e55aafa5",
+   "enunciado": "6688ea30a1a8",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "As reivindicações dos operários, quanto às condi",
+   "previa": "As reivindicações dos operários quanto às condiç",
    "recortes": []
   },
   "enem-2020-regular-d1-q17": {
    "alternativas": [
-    "2092314d773b",
-    "290947f57c67",
-    "fffeb674a581",
-    "72c5bc73a850",
-    "f77246579790"
+    "ca1e79d9775f",
+    "4e6f3cf6fe8b",
+    "affa5c4c7097",
+    "eb819c0eebbe",
+    "abdea575b8e2"
    ],
-   "apoio": "fb84d0de7d8a",
-   "credito": "f5b12457e29f",
-   "enunciado": "ddb1706526ae",
+   "apoio": "4ef734bcc9d2",
+   "credito": "b4d3de99fce5",
+   "enunciado": "5aeedf3814a4",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Com base no texto, a relação entre saúde e estil",
+   "previa": "Com base no texto a relação entre saúde e estilo",
    "recortes": []
   },
   "enem-2020-regular-d1-q18": {
    "alternativas": [
-    "2923e217ce9d",
-    "eff04ea26a01",
-    "922edbc178af",
-    "a480afb5f723",
-    "2766866ff580"
+    "de85e142cc9e",
+    "a1fc4b7ac6a9",
+    "abef79445d8f",
+    "6c89199f515a",
+    "af6e263a0b24"
    ],
-   "apoio": "6340cea88096",
-   "credito": "90a7a1dc65f8",
-   "enunciado": "f1c1e09ec172",
+   "apoio": "81bdb9fd1ff8",
+   "credito": "83f86d9e0206",
+   "enunciado": "031a3b1a474f",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No poema, a descrição lírica do objeto represent",
+   "previa": "No poema a descrição lírica do objeto representa",
    "recortes": []
   },
   "enem-2020-regular-d1-q19": {
    "alternativas": [
-    "d9559fef2867",
-    "e2bb2f44d03b",
-    "6f6ac7ecf581",
-    "1772adc9d7ee",
-    "68b468631054"
+    "ab55cc65d8a3",
+    "6350f4dc5de5",
+    "a2e2c8db297f",
+    "f1775a88327e",
+    "1258dfc7510f"
    ],
-   "apoio": "348e06427b55",
-   "credito": "5c1a54740d7e",
-   "enunciado": "62279f723a20",
+   "apoio": "49be2c8ffd01",
+   "credito": "d99df4465bb5",
+   "enunciado": "ab97ee94c939",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Essa petição de habeas corpus, ao transgredir o ",
+   "previa": "Essa petição de habeas corpus ao transgredir o r",
    "recortes": []
   },
   "enem-2020-regular-d1-q20": {
    "alternativas": [
-    "8cda6750cee8",
-    "8451fc4cca65",
+    "e453f42f853a",
+    "48ad043aaedd",
     "f7264ff3203c",
-    "3856fd4a6669",
+    "2420194f0e64",
     "b37cf06a8dfb"
    ],
-   "apoio": "d0cc620d3661",
-   "credito": "d1afef0b0bcf",
-   "enunciado": "29427e8fce4f",
+   "apoio": "910abd8b7f14",
+   "credito": "bd5c4c6e98dc",
+   "enunciado": "f1d75f749d79",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, é possível identificar o ",
+   "previa": "De acordo com o texto é possível identificar o “",
    "recortes": []
   },
   "enem-2020-regular-d1-q21": {
    "alternativas": [
-    "4caa9a0d1169",
-    "1d7b66ed1d44",
-    "fe33c84a1cae",
-    "de5db0821497",
-    "8029552230d0"
+    "e23cbf00aee8",
+    "9ee18c132d1d",
+    "3738a5387e3f",
+    "68f16fc3708f",
+    "70f518f4cb4f"
    ],
-   "apoio": "8d2d7dabab29",
-   "credito": "430d9701969a",
-   "enunciado": "233e2d4b981f",
+   "apoio": "0716d06101e3",
+   "credito": "11f6c0252b3e",
+   "enunciado": "af413630982a",
    "gabarito": "B",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q21-apoio-01.jpg"
@@ -517,22 +517,22 @@
       300.6,
       389.7,
       535.7,
-      588.7
+      598.0
      ]
     ]
    ]
   },
   "enem-2020-regular-d1-q22": {
    "alternativas": [
-    "4beada46121f",
-    "3d8bc4c34e0d",
-    "449baaf8050a",
-    "ca8d46c7331a",
+    "dae51260962d",
+    "3d6c54d0a696",
+    "30cb10a84f60",
+    "64316698405e",
     "d276ffcfed4f"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "f65f71ca2035",
-   "enunciado": "8ea160177e78",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0914c6aef8f7",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -542,14 +542,14 @@
   "enem-2020-regular-d1-q23": {
    "alternativas": [
     "01aee536c848",
-    "41b99ba0e199",
-    "73027d1457fb",
-    "1b53a2e9f40b",
-    "6586c08f7545"
+    "56ab9c2fb8cc",
+    "956c27626b7f",
+    "70a1c78bc415",
+    "bd4e97c91586"
    ],
-   "apoio": "5a4d2e85d4be",
-   "credito": "93ad3af0c1b1",
-   "enunciado": "8d5985d53730",
+   "apoio": "b72888e21127",
+   "credito": "3043959ccbfe",
+   "enunciado": "06b06dcf9436",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -558,15 +558,15 @@
   },
   "enem-2020-regular-d1-q24": {
    "alternativas": [
-    "5caa8de1cd44",
-    "3befc7f5b6ba",
-    "b1b2b9975665",
-    "d71fcd68cccb",
-    "f6d9bb28cea9"
+    "c14fe9190b83",
+    "e03c8b6d0366",
+    "e481cd9a158d",
+    "162b852cfce0",
+    "06f43e6c4193"
    ],
-   "apoio": "a0b3806d45be",
-   "credito": "947d9d9ad645",
-   "enunciado": "02638cf54b11",
+   "apoio": "7c1cedfa7204",
+   "credito": "44d301ab3726",
+   "enunciado": "34586619ad04",
    "gabarito": "D",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q24-apoio-01.jpg"
@@ -588,15 +588,15 @@
   },
   "enem-2020-regular-d1-q25": {
    "alternativas": [
-    "4e207113d62c",
-    "92905ee8a5b4",
-    "a4244ec4b9ea",
-    "a203645ad15b",
-    "1d7a69e46c48"
+    "3193f3f6fecf",
+    "b25dbe768cc0",
+    "f68f2ccaab9f",
+    "bc56c67c271e",
+    "b329ff03e240"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "c68a13cff7ae",
-   "enunciado": "ec06ccb3e1d3",
+   "credito": "73fe832c5a6c",
+   "enunciado": "6a5bb4d887a6",
    "gabarito": "A",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q25-apoio-01.jpg"
@@ -611,39 +611,39 @@
       327.3,
       403.9,
       535.7,
-      516.3
+      524.0
      ]
     ]
    ]
   },
   "enem-2020-regular-d1-q26": {
    "alternativas": [
-    "41d6c7238cfd",
-    "9ee28835b420",
-    "d309ad652073",
-    "d3f4410a6574",
-    "3e8a666dc183"
+    "40684fe9ec01",
+    "1a910d1d9b64",
+    "29ca85b2ebc2",
+    "4d2871b51ee4",
+    "bd518093d121"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "f76b19aa055e",
-   "enunciado": "183421642fd7",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5d66dc3461fe",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "A realidade virtual é uma tecnologia de informaç",
+   "previa": "A realidade virtua é uma tecnologia de informaçã",
    "recortes": []
   },
   "enem-2020-regular-d1-q27": {
    "alternativas": [
-    "893ab44a83e2",
-    "6c264873601c",
-    "8c1bd0751060",
-    "b0ffa2c8879e",
-    "dcd62bcb2ffb"
+    "c73e56effcc6",
+    "5bcfae64f7d9",
+    "60748eb3872e",
+    "99e53d1e5d79",
+    "06965f73dc7f"
    ],
-   "apoio": "fb543243b85a",
-   "credito": "a0fd0b2a0caf",
-   "enunciado": "54bf36bdea9e",
+   "apoio": "2ee28a4a6f93",
+   "credito": "8b4b640891ee",
+   "enunciado": "bf7116fb49fc",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -652,14 +652,14 @@
   },
   "enem-2020-regular-d1-q28": {
    "alternativas": [
-    "e7339de9e678",
+    "3fd460b2439c",
     "38cbb03e60db",
-    "a98660ca673f",
-    "f1f109961664",
-    "1978b21abe2d"
+    "e7340545fe9c",
+    "2976ac9c1557",
+    "d421a68a256e"
    ],
-   "apoio": "8aeafda01872",
-   "credito": "33a45bef51bd",
+   "apoio": "a13bf79bc8f8",
+   "credito": "bae427e56f6d",
    "enunciado": "ceaf79dda743",
    "gabarito": "E",
    "imagens": [],
@@ -669,32 +669,32 @@
   },
   "enem-2020-regular-d1-q29": {
    "alternativas": [
-    "898c9072fba0",
-    "4474ae515264",
-    "e1ca8d84c673",
-    "9f43b4072fca",
-    "42be05000b13"
+    "8b9c5087b0ff",
+    "ab03aa318c06",
+    "bb3d1b71adc8",
+    "0a30db470c11",
+    "be51031b6cc0"
    ],
-   "apoio": "220d9199a601",
-   "credito": "2b4bae291c8d",
-   "enunciado": "a2ddc1790f07",
+   "apoio": "90535532c6c2",
+   "credito": "0d6c1f6ce44c",
+   "enunciado": "942f4a3690cd",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Nessa letra da canção, a suposição do último ver",
+   "previa": "Nessa letra da canção a suposição do último vers",
    "recortes": []
   },
   "enem-2020-regular-d1-q30": {
    "alternativas": [
-    "5633ad010711",
-    "38c48e527846",
-    "0f1ee9895eb2",
-    "a1e9ada08414",
-    "55c6a9b03c2f"
+    "dfd643d0cb54",
+    "6608eba189ac",
+    "8ca894af2126",
+    "c0e895ea4edf",
+    "5f02c78bf1f0"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "90f3c23a329d",
-   "enunciado": "7bf608af3991",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "500583176956",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -703,32 +703,32 @@
   },
   "enem-2020-regular-d1-q31": {
    "alternativas": [
-    "0bd3b20bb38d",
-    "dfe80b5c7349",
-    "db1435c7958f",
-    "315583da3bcd",
-    "789e53e4f465"
+    "103efc7d0a57",
+    "454ae08103c2",
+    "9939a69d0ce4",
+    "37638d5c6324",
+    "b44d573eb5bc"
    ],
-   "apoio": "90317da6248f",
-   "credito": "2b449c7b7fb0",
-   "enunciado": "b3496399e455",
+   "apoio": "281927964b84",
+   "credito": "1d06819738d9",
+   "enunciado": "1aef07e54754",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Pelas características do texto lido, que trata d",
+   "previa": "Pelas características do texto lido que trata da",
    "recortes": []
   },
   "enem-2020-regular-d1-q32": {
    "alternativas": [
-    "9e100478ad4b",
-    "58eced097f46",
-    "ccada9ce942a",
-    "1f0cb2bd849a",
-    "a89720781e78"
+    "c6d4b7343b21",
+    "8aa0d93caee0",
+    "a108ac0e8e0d",
+    "7d6c0f219799",
+    "c9cbd5090f2e"
    ],
-   "apoio": "e2ff2616e4a9",
-   "credito": "2c3ac33feed5",
-   "enunciado": "4a3663f03c3a",
+   "apoio": "5185718f57bb",
+   "credito": "c027c9902699",
+   "enunciado": "ff946dc40505",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -737,15 +737,15 @@
   },
   "enem-2020-regular-d1-q33": {
    "alternativas": [
-    "be91d0ea1c5e",
-    "b893a514590f",
-    "a8954258bdc9",
-    "26cd4f633911",
-    "e61535a4cb2e"
+    "eef1d7dc74fd",
+    "1ccefb7daa1a",
+    "260abb70b2bf",
+    "ae36788a0e47",
+    "12e81de8e1d1"
    ],
-   "apoio": "b70ea9ca03c0",
-   "credito": "296388986cea",
-   "enunciado": "e395b1214091",
+   "apoio": "d789e841a425",
+   "credito": "3980bd2e9e08",
+   "enunciado": "1e4af520674e",
    "gabarito": "A",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q33-apoio-01.jpg"
@@ -758,7 +758,7 @@
      15,
      [
       31.2,
-      297.7,
+      280.9,
       277.8,
       544.3
      ]
@@ -767,14 +767,14 @@
   },
   "enem-2020-regular-d1-q34": {
    "alternativas": [
-    "bf38a7c89f1d",
-    "f0c98c389043",
-    "3537fa007317",
-    "e3f971698d6b",
-    "49e98a61a722"
+    "8f2ba79d5f6b",
+    "d344c0d71ff6",
+    "de28cb764bef",
+    "59e4ae178be2",
+    "e757b61ac69a"
    ],
-   "apoio": "3e4d9ef928d3",
-   "credito": "8849831f2b79",
+   "apoio": "a668480d0ebc",
+   "credito": "8d8f2afab553",
    "enunciado": "3dcd356067ea",
    "gabarito": "A",
    "imagens": [],
@@ -784,14 +784,14 @@
   },
   "enem-2020-regular-d1-q35": {
    "alternativas": [
-    "249df5ee66b3",
-    "703d1b5a76bf",
-    "b2bdf96b075a",
-    "be11ec628c03",
-    "13753a372f25"
+    "fa1e777c0dbd",
+    "db5ca0a857db",
+    "a131cd5c530f",
+    "96584f9dc1e9",
+    "a82ec496cfe4"
    ],
-   "apoio": "42ceab457f03",
-   "credito": "432d7ab8a649",
+   "apoio": "13bf1e2f63ff",
+   "credito": "9fcefa2bd5eb",
    "enunciado": "5cc52ccec47b",
    "gabarito": "A",
    "imagens": [],
@@ -801,38 +801,38 @@
   },
   "enem-2020-regular-d1-q36": {
    "alternativas": [
-    "7d9cf74944dc",
-    "0c52e6567e31",
-    "399dde13644f",
+    "379ca675338d",
+    "2d7a5da9d359",
+    "10a4b22652a8",
     "7f0f738ae7ad",
-    "ad2e3a214af6"
+    "cc7f62ae6232"
    ],
-   "apoio": "bde4bdc85e76",
-   "credito": "588fd11787b0",
-   "enunciado": "0bbfc0ebd83e",
+   "apoio": "0e15b7946d5f",
+   "credito": "f1c8d3abea6e",
+   "enunciado": "0f9bf0fff2ec",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, podemos identifi car uma ",
+   "previa": "De acordo com o texto podemos identifi car uma a",
    "recortes": []
   },
   "enem-2020-regular-d1-q37": {
    "alternativas": [
-    "7a93e8284ce8",
-    "1ebc38b5a061",
-    "b9860626ee18",
-    "53271b4a92cf",
-    "0661ff9345f8"
+    "accf7b848fa3",
+    "cd2dbc8f3d42",
+    "4bc2f6fffb65",
+    "646d6b1eb8a8",
+    "dfdc474b9e39"
    ],
-   "apoio": "c2f285604628",
-   "credito": "b62c14423af5",
-   "enunciado": "3bea114e7808",
+   "apoio": "f831273a21be",
+   "credito": "2530590c3369",
+   "enunciado": "339589344db1",
    "gabarito": "E",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q37-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Com base no conceito apresentado no texto, a saú",
+   "previa": "Com base no conceito apresentado no texto a saúd",
    "recortes": [
     [
      "/questoes/2020/regular/dia1/enem-2020-regular-d1-q37-apoio-01.jpg",
@@ -841,39 +841,39 @@
       30.9,
       434.0,
       278.1,
-      618.3
+      628.9
      ]
     ]
    ]
   },
   "enem-2020-regular-d1-q38": {
    "alternativas": [
-    "6e01aaa7e7c0",
-    "b6d8804e9b77",
-    "4469f8cf2467",
-    "313bc9c0d660",
-    "a0a9ab109c4e"
+    "efcf65210bbd",
+    "48febb790b5b",
+    "ff4470c2263b",
+    "50ff2b94528a",
+    "8a7585c2ca54"
    ],
-   "apoio": "c1bd4eb14b37",
-   "credito": "ff4afbefd1e3",
-   "enunciado": "647e2b137534",
+   "apoio": "656c00716dea",
+   "credito": "dcc4d7ecf9b8",
+   "enunciado": "7f345447edbe",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Nesse texto, busca-se seduzir o leitor por meio ",
+   "previa": "Nesse texto busca-se seduzir o leitor por meio d",
    "recortes": []
   },
   "enem-2020-regular-d1-q39": {
    "alternativas": [
-    "c0989e89ad65",
-    "3554fbc9e044",
-    "3f93e12b23c0",
-    "e72a290bc0dd",
-    "da0da5fc261b"
+    "4cacf6441132",
+    "bfb390408a6b",
+    "970cfc1e6eb4",
+    "432ed8bcd206",
+    "785ee7409530"
    ],
-   "apoio": "5a191af94a4b",
-   "credito": "b1d6e9f7f651",
-   "enunciado": "933c86554699",
+   "apoio": "e3d9e7854699",
+   "credito": "47ebd6749960",
+   "enunciado": "41d256131b13",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -882,15 +882,15 @@
   },
   "enem-2020-regular-d1-q40": {
    "alternativas": [
-    "26f2180a34c6",
-    "4adaa89d07d9",
-    "c5736ef2fa81",
-    "4a8edcf28788",
-    "a075107811ad"
+    "b57bcb9ad03b",
+    "9a164e3631b7",
+    "c5de0ace40de",
+    "cb2e73fac252",
+    "cb253c36b707"
    ],
-   "apoio": "627e7530e2ea",
-   "credito": "e68d00a8ac27",
-   "enunciado": "71564161e15c",
+   "apoio": "aba8078a8895",
+   "credito": "fdd6602d28e7",
+   "enunciado": "bb6a963a4afa",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -899,15 +899,15 @@
   },
   "enem-2020-regular-d1-q41": {
    "alternativas": [
-    "226171dc3308",
-    "ad2c50913cce",
-    "5bbd16d07988",
-    "9d7f4fbe05f8",
-    "bfa9e558b33e"
+    "ce277d077a13",
+    "9ba054faddc0",
+    "bfb819623366",
+    "c08333ada67c",
+    "594a6c1c4a00"
    ],
-   "apoio": "8bb949ae68bf",
-   "credito": "7251d941e8b6",
-   "enunciado": "d020301c3cd9",
+   "apoio": "a0e52de90c0a",
+   "credito": "6a917ef3441f",
+   "enunciado": "c694d6e9f1a1",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -916,31 +916,31 @@
   },
   "enem-2020-regular-d1-q42": {
    "alternativas": [
-    "664a6e174ba3",
-    "c80658c0e0a7",
-    "851d03098a31",
-    "f95bbdc828af",
-    "f2d90fb890fc"
+    "66730b9f7f1e",
+    "d0583cf0979f",
+    "113f520d6b61",
+    "c8480bfe6a39",
+    "9de8ab2edd57"
    ],
-   "apoio": "241ed6072ad8",
-   "credito": "f7a3ed6d59a9",
-   "enunciado": "0162617910bd",
+   "apoio": "83634e3c2d61",
+   "credito": "085605fab66b",
+   "enunciado": "2f190beaae85",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Pela sua interatividade, os exergames apresentam",
+   "previa": "Pela sua interatividade os exergames apresentam-",
    "recortes": []
   },
   "enem-2020-regular-d1-q43": {
    "alternativas": [
-    "438c13291bd8",
-    "1fe5d4d76ccb",
-    "31b51c37da91",
-    "e855761921eb",
-    "ae8abac29033"
+    "52d473cbccbb",
+    "5d011f494357",
+    "299ca3404aa5",
+    "18d9edc76410",
+    "c1757e582626"
    ],
-   "apoio": "ec5b8efb41f0",
-   "credito": "08a5a3106e5b",
+   "apoio": "16a92af13266",
+   "credito": "187cb603ab32",
    "enunciado": "ac05997ed27d",
    "gabarito": "D",
    "imagens": [],
@@ -950,21 +950,21 @@
   },
   "enem-2020-regular-d1-q44": {
    "alternativas": [
-    "0a110c821749",
-    "9b01e72ee950",
-    "b9f61ac11b4f",
-    "62e956087038",
-    "0835e9c3885c"
+    "96d14ed2b2df",
+    "eea78cec3de8",
+    "e1830dbaafc5",
+    "37786e2d4660",
+    "db248f85c080"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "2261096a0f6a",
-   "enunciado": "1cb4fa555118",
+   "credito": "2defb95316e9",
+   "enunciado": "926be5a6d155",
    "gabarito": "B",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q44-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Nessa campanha publicitária, a imagem da família",
+   "previa": "Nessa campanha publicitária a imagem da família ",
    "recortes": [
     [
      "/questoes/2020/regular/dia1/enem-2020-regular-d1-q44-apoio-01.jpg",
@@ -980,15 +980,15 @@
   },
   "enem-2020-regular-d1-q45": {
    "alternativas": [
-    "5393ab03d6ca",
-    "21a20a4bf645",
-    "de265c05820c",
-    "675d71e08c5e",
-    "f0ae19e317a8"
+    "265eef362971",
+    "54f6363d2eee",
+    "d4537c9551a5",
+    "f448338a9727",
+    "a9b24c3c5fd2"
    ],
-   "apoio": "2eadd5f5cd6c",
-   "credito": "98813f38b1ba",
-   "enunciado": "97e09994bec0",
+   "apoio": "0a56a80eeac6",
+   "credito": "45838c8b478f",
+   "enunciado": "4e4f42ce2e80",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -997,48 +997,48 @@
   },
   "enem-2020-regular-d1-q46": {
    "alternativas": [
-    "5eba43147185",
-    "424e114c6acf",
-    "218aa9813b1b",
-    "ce1a485cbf6b",
-    "06b341a2f22b"
+    "d434fe8029cc",
+    "ee23c552febb",
+    "ccab32cb3ea8",
+    "08b27e659e44",
+    "763b578db2d6"
    ],
-   "apoio": "0fe9ba9ad35f",
-   "credito": "95e0745e98c6",
-   "enunciado": "b0ce07dec23e",
+   "apoio": "78f4ea0bb161",
+   "credito": "0b61a0e78d04",
+   "enunciado": "23450674e10a",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Uma ação estatal de longo prazo capaz de reduzir",
+   "previa": "Uma ação estata de longo prazo capaz de reduzir ",
    "recortes": []
   },
   "enem-2020-regular-d1-q47": {
    "alternativas": [
-    "6bf5fbc5f89c",
-    "4d50ae7b6989",
-    "fc0a1f069253",
-    "1537ba5e86fb",
-    "7c567f47a796"
+    "a344b7e6f634",
+    "7f64b176e093",
+    "c5aab0ede1a8",
+    "7ac7208ef2c5",
+    "1f000e07fa48"
    ],
-   "apoio": "add061040aa0",
-   "credito": "44933912fad8",
-   "enunciado": "4c008142ffeb",
+   "apoio": "e551fb5eb894",
+   "credito": "ccfc01d1ba74",
+   "enunciado": "3f9481b84ac2",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Sobre o espaço brasileiro, o texto apresenta arg",
+   "previa": "Sobre o espaço brasileiro o texto apresenta argu",
    "recortes": []
   },
   "enem-2020-regular-d1-q48": {
    "alternativas": [
-    "69107bc48e7d",
-    "ec31191573f5",
-    "2cb2f4e00f26",
-    "170e9ca066fc",
-    "4115f678ebc8"
+    "1ead8fd4733d",
+    "3b3b1d791648",
+    "d241c8f12b24",
+    "1d1e6fca6483",
+    "ebefe824ae64"
    ],
-   "apoio": "8abc66742467",
-   "credito": "9ac6c72b1c68",
+   "apoio": "f75012fb4d87",
+   "credito": "4e3c96032b93",
    "enunciado": "8f177ebeb210",
    "gabarito": "B",
    "imagens": [],
@@ -1048,48 +1048,48 @@
   },
   "enem-2020-regular-d1-q49": {
    "alternativas": [
-    "547e0cca7280",
-    "24f1b09949a2",
-    "bc516f02ebca",
-    "5a8300c37615",
-    "0c0276d09d8c"
+    "e857ecabf35c",
+    "81ed550b147e",
+    "c989026a92d9",
+    "c37d892d20d0",
+    "9e343754cf81"
    ],
-   "apoio": "1789e92ea643",
-   "credito": "bf0ba10158ad",
-   "enunciado": "e3cd23f62a7c",
+   "apoio": "47d5911e79ad",
+   "credito": "d992f781fd35",
+   "enunciado": "19787a1bd300",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Os movimentos em prol da reforma agrária, que at",
+   "previa": "Os movimentos em prol da reforma agrária que atu",
    "recortes": []
   },
   "enem-2020-regular-d1-q50": {
    "alternativas": [
-    "b0bd4f23bf18",
-    "0d5895b6d0f1",
-    "8c7024c2389b",
-    "9a84fdb9274b",
-    "52adcee92e8b"
+    "a14dd6a5c833",
+    "fe507dd8f655",
+    "2a94620f09f6",
+    "6aaddcafcd35",
+    "7707e367648e"
    ],
-   "apoio": "23959caf0f74",
-   "credito": "9e30738bf3dd",
-   "enunciado": "06850ac03724",
+   "apoio": "38b52539da67",
+   "credito": "8492b108fde1",
+   "enunciado": "b898ae19fecc",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O resultado do processo geográfico descrito foi ",
+   "previa": "O resultado do processo geográfico descrito fo o",
    "recortes": []
   },
   "enem-2020-regular-d1-q51": {
    "alternativas": [
-    "bbbda38a7892",
-    "1d9492347faf",
-    "c4e5c76f9ebe",
-    "0d98865cf5f7",
-    "a90eb00caedc"
+    "cf257fb34704",
+    "50f5eda08965",
+    "7113c9e2a5a3",
+    "1c2028f670bb",
+    "b3f6e945979c"
    ],
    "apoio": "4c13e519f4da",
-   "credito": "dc8d88405566",
+   "credito": "4f3e2639133e",
    "enunciado": "ba0ec9016b4b",
    "gabarito": "D",
    "imagens": [
@@ -1112,15 +1112,15 @@
   },
   "enem-2020-regular-d1-q52": {
    "alternativas": [
-    "3dedf864d1ac",
-    "7d691a5254d6",
-    "36a51ff73996",
-    "67874fabc2f6",
-    "3247cbb3d730"
+    "9a7080cedb80",
+    "de345dd04635",
+    "5d6ea431af3b",
+    "bb068e7fe711",
+    "56c55a54744e"
    ],
-   "apoio": "a2692035d5ac",
-   "credito": "82fd6496122a",
-   "enunciado": "6961eb46a996",
+   "apoio": "ecb407c5f65b",
+   "credito": "764278d99967",
+   "enunciado": "85a0f95edb93",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -1129,14 +1129,14 @@
   },
   "enem-2020-regular-d1-q53": {
    "alternativas": [
-    "2add0f2b2f3f",
-    "2b003abcf8c7",
-    "37b280c3d8b9",
-    "00e8a581df2b",
-    "f7d8631d608b"
+    "52ce9a1fb87c",
+    "210a20eaea92",
+    "d1e8a2f17fe7",
+    "db345757053c",
+    "dafdae28cce4"
    ],
-   "apoio": "f1745ca378df",
-   "credito": "a406906d889b",
+   "apoio": "b3064595d0b7",
+   "credito": "53f7b962f496",
    "enunciado": "b0fb5e3daa0f",
    "gabarito": "D",
    "imagens": [],
@@ -1146,32 +1146,32 @@
   },
   "enem-2020-regular-d1-q54": {
    "alternativas": [
-    "41f57c6ed6f8",
-    "3133a37e8a61",
-    "3723f1e88ccf",
-    "af14b23affed",
-    "0c4500469ed0"
+    "35076cc82680",
+    "89902f1e3c9d",
+    "b8137663c1a2",
+    "b78d7882d007",
+    "15b18dcc9b6a"
    ],
-   "apoio": "cf277e7f9b8e",
-   "credito": "d030a8678da2",
-   "enunciado": "39f75f0f83ba",
+   "apoio": "944a4dc87633",
+   "credito": "ab1b531fd838",
+   "enunciado": "bffdebe4ff0f",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, a arte mencionada é impor",
+   "previa": "De acordo com o texto a arte mencionada é import",
    "recortes": []
   },
   "enem-2020-regular-d1-q55": {
    "alternativas": [
-    "8c238f1ebefc",
-    "673ca80eb15f",
-    "cd809772f4e7",
-    "48bad3fe9cf6",
-    "36fc495fe1c7"
+    "7cb2b5504094",
+    "0fc72e682870",
+    "c18e3ee36f09",
+    "100cd20f3197",
+    "ebbaa6be0016"
    ],
-   "apoio": "ed48b16eee9a",
-   "credito": "8c5f6e5d17ed",
-   "enunciado": "683ada0cda93",
+   "apoio": "e197534eea42",
+   "credito": "32f301360226",
+   "enunciado": "a4ec678d2d6d",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1180,15 +1180,15 @@
   },
   "enem-2020-regular-d1-q56": {
    "alternativas": [
-    "efa3c19a4a43",
-    "39db0f17fe35",
-    "7fcdbae37334",
-    "319485906cee",
-    "c06f5aa4e00a"
+    "80801d6f69a7",
+    "d92043ebdd8d",
+    "648491575a97",
+    "999849b4f7f1",
+    "3b552961e7fa"
    ],
-   "apoio": "58d819d45b5c",
-   "credito": "aeccf938a9d4",
-   "enunciado": "2091fb6cab83",
+   "apoio": "a8ab0082e535",
+   "credito": "df99edb16fc7",
+   "enunciado": "b3031fa5463b",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -1197,31 +1197,31 @@
   },
   "enem-2020-regular-d1-q57": {
    "alternativas": [
-    "98ffc23e07ee",
-    "57af4c39168d",
+    "7469a154617e",
+    "d81ad7c0d88a",
     "578254950107",
-    "bc9eb0fce344",
-    "de786f923551"
+    "cd0e8fb99f9d",
+    "f0d59b068c5c"
    ],
-   "apoio": "37df009ce452",
-   "credito": "3385344c5ace",
-   "enunciado": "212169bd1baa",
+   "apoio": "07e92226c998",
+   "credito": "68129e3ca00e",
+   "enunciado": "194bfe649e58",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Tomando o texto como parâmetro, qual tendência c",
+   "previa": "Tomando o texto como parâmetro qual tendência co",
    "recortes": []
   },
   "enem-2020-regular-d1-q58": {
    "alternativas": [
     "1102341fae01",
     "86bfe9aa1e22",
-    "011f47096fe8",
-    "034865e59b21",
-    "5c44b6f53d0a"
+    "f6368c6d9f1c",
+    "89a03e356932",
+    "c9b32a6fad0d"
    ],
-   "apoio": "8ff521b8dff4",
-   "credito": "6e8679b29164",
+   "apoio": "c8f6d28acb4b",
+   "credito": "14084f9f5a9c",
    "enunciado": "337d16c30a83",
    "gabarito": "E",
    "imagens": [],
@@ -1231,14 +1231,14 @@
   },
   "enem-2020-regular-d1-q59": {
    "alternativas": [
-    "8e051957b1e0",
-    "262a64fa998c",
-    "f733740984b3",
-    "7b6805116b45",
-    "3e6ab933a9d4"
+    "6dadbec655d0",
+    "011d51433570",
+    "b98829652909",
+    "09f7844b526c",
+    "425688a0309c"
    ],
-   "apoio": "fac466e633d3",
-   "credito": "74860cf4c82b",
+   "apoio": "a776d2733f26",
+   "credito": "aeb4ad237093",
    "enunciado": "eaf39c29d0fe",
    "gabarito": "C",
    "imagens": [],
@@ -1248,15 +1248,15 @@
   },
   "enem-2020-regular-d1-q60": {
    "alternativas": [
-    "bea9012e8c1b",
-    "adc6fb9cb388",
-    "fafd201c1461",
-    "1513c64d6b1b",
-    "aafaccbf5265"
+    "28193a5175f8",
+    "07fa8e1e94de",
+    "2653680295f2",
+    "c3033be5f5fe",
+    "c382f4ff6d48"
    ],
-   "apoio": "b770121f7947",
-   "credito": "c8a4741f4f02",
-   "enunciado": "ed717154223b",
+   "apoio": "54b4b10d8cb5",
+   "credito": "bd776b0ba7a6",
+   "enunciado": "557d81cda4fc",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1265,49 +1265,49 @@
   },
   "enem-2020-regular-d1-q61": {
    "alternativas": [
-    "0c73e39cd6cd",
-    "8983373a87c5",
-    "c77c179cb87c",
-    "f6b7583410e7",
-    "7ff1cc468cca"
+    "ebadb35415f7",
+    "64c7cdc03292",
+    "4c1378165785",
+    "794ec165ad92",
+    "e0266246ff81"
    ],
-   "apoio": "2f9c0fe2ee06",
-   "credito": "3fedabb31493",
-   "enunciado": "6d824772eaf4",
+   "apoio": "f43d09a128c9",
+   "credito": "1ad96995bd62",
+   "enunciado": "af69974f78b5",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Escrito na década de 1970, o texto considera a p",
+   "previa": "Escrito na década de 1970 o texto considera a pa",
    "recortes": []
   },
   "enem-2020-regular-d1-q62": {
    "alternativas": [
-    "c573ea858873",
-    "4416378249c8",
-    "55abc0015ede",
+    "97bc7b0d9713",
+    "dab755f58e52",
+    "0035ea937a5c",
     "86107e425569",
-    "00e5995cf831"
+    "43a107803c59"
    ],
-   "apoio": "79d99b3bc0e8",
-   "credito": "ba041801d9b8",
-   "enunciado": "4c87fd22f51c",
+   "apoio": "be32edf36c0e",
+   "credito": "2651035533e5",
+   "enunciado": "ec6fb472b03d",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Nesse contexto de organização da vida social, as",
+   "previa": "Nesse contexto de organização da vida social as ",
    "recortes": []
   },
   "enem-2020-regular-d1-q63": {
    "alternativas": [
-    "47d2bbf793fd",
-    "adf40b1d657b",
-    "d68c9fc6080e",
-    "ebf45adc8476",
-    "372ca47fa327"
+    "e04573c4490c",
+    "5db2ae873317",
+    "5d98660383dc",
+    "28c4a0354c98",
+    "94c49ef23660"
    ],
-   "apoio": "9ef1557f3c3a",
-   "credito": "f3b4b162dc6b",
-   "enunciado": "a9663eff5202",
+   "apoio": "37203f07c801",
+   "credito": "2d56f8f9ab06",
+   "enunciado": "57c61fe90f76",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -1316,31 +1316,31 @@
   },
   "enem-2020-regular-d1-q64": {
    "alternativas": [
-    "48a5d2936f2d",
-    "41a2f3fa4fe6",
-    "1170a2d2de41",
-    "2ff04ec19183",
-    "a2e89faacaa9"
+    "d4f541e5b3c5",
+    "df5329e80155",
+    "a7c882af0b8b",
+    "24bccec06872",
+    "29185f9459f7"
    ],
-   "apoio": "09b935ab4c36",
-   "credito": "fd2e30a30c48",
-   "enunciado": "eae6e62203eb",
+   "apoio": "0901a7efb651",
+   "credito": "54a7b3c4703f",
+   "enunciado": "8b892a563380",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Nesse contexto, a criticada postura dos governos",
+   "previa": "Nesse contexto a criticada postura dos governos ",
    "recortes": []
   },
   "enem-2020-regular-d1-q65": {
    "alternativas": [
-    "7208089c6c6d",
-    "91b2ec76da03",
-    "df8b7ad1f67a",
-    "c587c0ea7bf8",
-    "b269dba91837"
+    "532452e18b78",
+    "ad88b1950037",
+    "a46764dd36df",
+    "13e05582af81",
+    "07c2410e5fef"
    ],
-   "apoio": "48a83f43fbb4",
-   "credito": "4971f4b48905",
+   "apoio": "c6f40739c70f",
+   "credito": "ce0135e475d0",
    "enunciado": "cb8bc8a5db8e",
    "gabarito": "D",
    "imagens": [],
@@ -1350,15 +1350,15 @@
   },
   "enem-2020-regular-d1-q66": {
    "alternativas": [
-    "b6ab424306fc",
-    "fe168a982c90",
-    "d886275b3479",
-    "c62bfb87f60b",
-    "1443be67bfa9"
+    "d35c5995b11c",
+    "8cbdf3594475",
+    "0d3e4fb1b9ac",
+    "c94a868ea995",
+    "4bf5a39d3188"
    ],
-   "apoio": "7e372c82a19e",
-   "credito": "ce081e21deef",
-   "enunciado": "8f994781b16b",
+   "apoio": "e6da65e7eea8",
+   "credito": "bea18d590818",
+   "enunciado": "57469fe8fb77",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1367,15 +1367,15 @@
   },
   "enem-2020-regular-d1-q67": {
    "alternativas": [
-    "c84269ce4bd4",
-    "8e2798d6b6ca",
-    "4fff79bdcf51",
+    "f026e4784e1c",
+    "69e1ff00bb91",
+    "593fb2123bb2",
     "cdb22a16a7c6",
-    "ad8348a85941"
+    "90988dcb044c"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "9485bc59d459",
-   "enunciado": "058c155e13e8",
+   "credito": "17241c9b1c15",
+   "enunciado": "22aa09be70b1",
    "gabarito": "B",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q67-apoio-01.jpg"
@@ -1397,49 +1397,49 @@
   },
   "enem-2020-regular-d1-q68": {
    "alternativas": [
-    "ca18b3735489",
-    "799e85b8123a",
-    "0ef88cc89ca2",
-    "28fc37952e43",
-    "188d64b9242e"
+    "14f8144a74f6",
+    "d249dcc2c6ff",
+    "0fbd5dd14e5f",
+    "f64a59fbdffb",
+    "4de1367a4881"
    ],
-   "apoio": "f0a3b7e9cb51",
-   "credito": "41116ee0ca78",
-   "enunciado": "387e46856d22",
+   "apoio": "17e17ee0213f",
+   "credito": "0cc847950754",
+   "enunciado": "8725e26613ef",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, novos estudos têm valoriz",
+   "previa": "De acordo com o texto novos estudos têm valoriza",
    "recortes": []
   },
   "enem-2020-regular-d1-q69": {
    "alternativas": [
-    "3a6c57055fe5",
-    "c241ead4a2b7",
-    "b9b0cc7b09d0",
-    "a70d235cff75",
-    "ddf31bd0e2e0"
+    "80222f75a1dd",
+    "4801fd604d64",
+    "a6669d2bba0c",
+    "6d0024e3b547",
+    "b7965fcb27f3"
    ],
-   "apoio": "89bb122853d8",
-   "credito": "7507217e0fef",
-   "enunciado": "99a80e7fdcee",
+   "apoio": "e04c9c6b106e",
+   "credito": "e4f1518f2ed7",
+   "enunciado": "b72cbef88f39",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No contexto do pensamento político, a ideia apre",
+   "previa": "No contexto do pensamento poítico a ideia aprese",
    "recortes": []
   },
   "enem-2020-regular-d1-q70": {
    "alternativas": [
-    "02befc625777",
-    "06e5ecba0332",
-    "844bf2e1cc4a",
-    "8f6873c68b5e",
-    "d9d61d263f4e"
+    "8d1cfad4bd18",
+    "761b3a5fb2f4",
+    "e8fb9cef64d8",
+    "0f184c3669f2",
+    "43ad8e75ee76"
    ],
-   "apoio": "e1c3d6f9826b",
-   "credito": "ed3677435759",
-   "enunciado": "489784403183",
+   "apoio": "021774b64695",
+   "credito": "27e0cc13e3fc",
+   "enunciado": "56448ebb9565",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1448,15 +1448,15 @@
   },
   "enem-2020-regular-d1-q71": {
    "alternativas": [
-    "d9ca0d02d229",
-    "51eddd4702c9",
-    "decc398c9741",
-    "4b1253e347fe",
-    "fec20b3a550e"
+    "0f386afaae93",
+    "479803fd5745",
+    "ae3b46636535",
+    "215a40c4bfa4",
+    "a36dc80634fd"
    ],
-   "apoio": "ca5ad5043062",
-   "credito": "4f9d629fdc67",
-   "enunciado": "af90611d5735",
+   "apoio": "7d01db2628ef",
+   "credito": "910db4f3f5cb",
+   "enunciado": "32a0f96571d0",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -1465,14 +1465,14 @@
   },
   "enem-2020-regular-d1-q72": {
    "alternativas": [
-    "bc9925f57380",
-    "5961cb2f9479",
-    "2e93206f5a3d",
-    "e980263fd34d",
-    "e5933eb30611"
+    "e898e604e020",
+    "81f55c174207",
+    "c2850e87019a",
+    "641ae309c890",
+    "2c146f4446c3"
    ],
-   "apoio": "6f3f14c59477",
-   "credito": "dbad4a9bcb82",
+   "apoio": "51315e5c0991",
+   "credito": "6ec44b9ce90e",
    "enunciado": "6fb198b875be",
    "gabarito": "B",
    "imagens": [],
@@ -1482,32 +1482,32 @@
   },
   "enem-2020-regular-d1-q73": {
    "alternativas": [
-    "94f483b92cf4",
-    "e7b961306162",
-    "da56e5449417",
-    "53c0fc825c9e",
-    "9017fe3ac78f"
+    "08597b106da6",
+    "46b6a467cf86",
+    "137ad474babf",
+    "f3f0a1c108ec",
+    "b45e7dd6e6fd"
    ],
-   "apoio": "4d210c25dac7",
-   "credito": "712ea4be70d8",
-   "enunciado": "fabb40625643",
+   "apoio": "0f0505ece2a8",
+   "credito": "90b6c3f449ca",
+   "enunciado": "b0d8c71dcff8",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Como signatário da Declaração citada, o Brasil c",
+   "previa": "Como signatário da Declaração citada o Brasil co",
    "recortes": []
   },
   "enem-2020-regular-d1-q74": {
    "alternativas": [
-    "f32f9445619c",
-    "4dafddf0f55f",
-    "882da87a28ae",
-    "ac27846ec9f5",
-    "a417c83ac624"
+    "f6ab0a236a37",
+    "ce0318eeccec",
+    "43db9d76074b",
+    "5d36acb131a1",
+    "b0ae33341f61"
    ],
-   "apoio": "1bda7890612d",
-   "credito": "49964cbb0cae",
-   "enunciado": "0a44baa88477",
+   "apoio": "3c8f727a7867",
+   "credito": "1cc3a112ff28",
+   "enunciado": "883805edccd6",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -1516,66 +1516,66 @@
   },
   "enem-2020-regular-d1-q75": {
    "alternativas": [
-    "4d41c3c6b292",
-    "b7cd3dc8f732",
-    "94c5756ab765",
-    "7fc2f7a27101",
-    "344f087bb2a7"
+    "9f42a4ca2d90",
+    "b35f09c94f5a",
+    "7717987db99f",
+    "0f256ca43f6d",
+    "004931443f8c"
    ],
-   "apoio": "04ca69562cda",
-   "credito": "82d1a94ec5af",
-   "enunciado": "76ab35b160e2",
+   "apoio": "72158ad80506",
+   "credito": "8cf80c68c63a",
+   "enunciado": "c97264432797",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Na análise contida no texto, a representação car",
+   "previa": "Na análise contida no texto a representação cart",
    "recortes": []
   },
   "enem-2020-regular-d1-q76": {
    "alternativas": [
-    "58c266f69c75",
-    "c49e6cd314cb",
-    "ef53e6e678ca",
-    "0583d494f08c",
-    "04444e42c326"
+    "cf865bf720e1",
+    "7d09e081a130",
+    "7dbd965677ef",
+    "3a0b7d89c66d",
+    "58e5790bfbdd"
    ],
-   "apoio": "3e17a8f016f0",
-   "credito": "1d3af342ef47",
-   "enunciado": "49e291ba3ac3",
+   "apoio": "39085244cfbe",
+   "credito": "0731ffafa9e7",
+   "enunciado": "65ab4bc106cb",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O texto tematiza o papel desempenhado por uma no",
+   "previa": "O texto tematiza o pape desempenhado por uma nor",
    "recortes": []
   },
   "enem-2020-regular-d1-q77": {
    "alternativas": [
-    "9a76e76b33b9",
-    "fa5576e96af0",
-    "1e482b46b6ba",
-    "e5176a113520",
-    "b814c7915fbe"
+    "6255fd9ed313",
+    "a4d4b080da6a",
+    "2887349faceb",
+    "f840396e2f04",
+    "566ca32f5e84"
    ],
-   "apoio": "9743cc5bcbee",
-   "credito": "8edbdd0385b6",
-   "enunciado": "919108bf72cd",
+   "apoio": "953b11cc93e2",
+   "credito": "bb91b4cc5352",
+   "enunciado": "c011250fb4d8",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No fragmento, Aristóteles promove uma reflexão q",
+   "previa": "No fragmento Aristóteles promove uma reflexão qu",
    "recortes": []
   },
   "enem-2020-regular-d1-q78": {
    "alternativas": [
-    "85c6d6449f77",
-    "6d55d2b0b0c1",
-    "12987af0e19f",
-    "1fad008446e6",
-    "ce243773c990"
+    "7b36d971ee19",
+    "0dd4a96a3984",
+    "4c995d6a84aa",
+    "dd68683f7ac1",
+    "701d27f743fe"
    ],
-   "apoio": "f3fd5b60d862",
-   "credito": "c7a324884ece",
-   "enunciado": "eb3e2f54a2f1",
+   "apoio": "556f53fb4eec",
+   "credito": "b7af2d1b253d",
+   "enunciado": "6b932d61ec0f",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -1584,15 +1584,15 @@
   },
   "enem-2020-regular-d1-q79": {
    "alternativas": [
-    "88e947217bde",
-    "bb8e58cf8329",
-    "74590bec846f",
+    "cdfb2e50a745",
+    "ad572409072d",
+    "8ba4c00e252a",
     "ba1a26bfb598",
-    "211f5a61982d"
+    "6da3b863e440"
    ],
-   "apoio": "189f318d43d6",
-   "credito": "1a3232379525",
-   "enunciado": "50d806773187",
+   "apoio": "b3dcfdca7740",
+   "credito": "016aacef2b93",
+   "enunciado": "c4ea30925161",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -1601,31 +1601,31 @@
   },
   "enem-2020-regular-d1-q80": {
    "alternativas": [
-    "2cffe5f038a4",
-    "024eb8c31d16",
-    "79a3b9676d47",
-    "888a1249a985",
+    "a7edc04c8987",
+    "99e5af0ede61",
+    "2d292bb57660",
+    "4d01deab978b",
     "e3b5c8a00d28"
    ],
-   "apoio": "ce70ac3cf64c",
-   "credito": "941617d0b4c0",
-   "enunciado": "db97a1059b9a",
+   "apoio": "c6f4f9107359",
+   "credito": "03218ecc0e0d",
+   "enunciado": "57236bd9e7fd",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, a visibilidade dos sering",
+   "previa": "De acordo com o texto a visibilidade dos seringu",
    "recortes": []
   },
   "enem-2020-regular-d1-q81": {
    "alternativas": [
-    "1f9af9d21db3",
-    "0a3ba961e8bb",
-    "415811d163e1",
-    "53c503133ecd",
-    "eb1aa101ec8d"
+    "34f3ce7bc3a7",
+    "86c89d09767c",
+    "961cdca13810",
+    "a41174093ce9",
+    "c16bb4ec5166"
    ],
-   "apoio": "087505492531",
-   "credito": "3cfed68aee16",
+   "apoio": "1c45faad15d2",
+   "credito": "44a6fbce9fc6",
    "enunciado": "54fc5ce322e8",
    "gabarito": "C",
    "imagens": [],
@@ -1635,14 +1635,14 @@
   },
   "enem-2020-regular-d1-q82": {
    "alternativas": [
-    "ce7a39a52897",
-    "7e2c8dad4c21",
-    "1d0c96457f67",
-    "a0f75f2ee7f3",
-    "429f1a3f74d5"
+    "4f5cf1cb23cf",
+    "d8ed04ecd2c5",
+    "f35ea6151ff8",
+    "5ad35bb837ce",
+    "2a3ce06f6794"
    ],
-   "apoio": "5ea1d950fd5a",
-   "credito": "ad4c63482227",
+   "apoio": "f8b20602f590",
+   "credito": "29c6bfa3314b",
    "enunciado": "05f3f785cba8",
    "gabarito": "A",
    "imagens": [],
@@ -1652,14 +1652,14 @@
   },
   "enem-2020-regular-d1-q83": {
    "alternativas": [
-    "b5cb7e6b0568",
-    "3378e0378bb3",
-    "2a14b08218ea",
-    "6d18d7815e5c",
-    "757a5183f6ae"
+    "935289194493",
+    "0b322b554ef7",
+    "26a11012f6dc",
+    "a873e7c69396",
+    "e651a4548632"
    ],
-   "apoio": "ef6d063ef752",
-   "credito": "8910aacce4d5",
+   "apoio": "eed2f212608a",
+   "credito": "c180ac21ef45",
    "enunciado": "644d5762e079",
    "gabarito": "D",
    "imagens": [],
@@ -1669,14 +1669,14 @@
   },
   "enem-2020-regular-d1-q84": {
    "alternativas": [
-    "ebfab63b687b",
-    "6b3c49ce17d6",
-    "f4fac7771791",
-    "4ef0d1e2d4be",
-    "2eef7e959569"
+    "d13c9fcea470",
+    "c88f907fdbfb",
+    "d0278f2cc936",
+    "30da985e33b8",
+    "a10a4e24f7b1"
    ],
-   "apoio": "e08754c8e806",
-   "credito": "93a4489f6097",
+   "apoio": "d154fcd7e40b",
+   "credito": "044ac54a5f74",
    "enunciado": "9fb98e55bbbe",
    "gabarito": "E",
    "imagens": [],
@@ -1686,15 +1686,15 @@
   },
   "enem-2020-regular-d1-q85": {
    "alternativas": [
-    "3e29c71d31be",
-    "bd7f0821172a",
-    "cd10afd3b734",
-    "7b298173e43b",
-    "d3607b7c2147"
+    "f5c05ebb0943",
+    "96266d6da575",
+    "f68ec77fcf40",
+    "c83880fbfd12",
+    "30fae17a5796"
    ],
-   "apoio": "d73c8d47a098",
-   "credito": "a372b284ee65",
-   "enunciado": "f082b41b217a",
+   "apoio": "aeb2c60ae537",
+   "credito": "c888f8db0658",
+   "enunciado": "7c9ff32eca25",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -1704,54 +1704,54 @@
   "enem-2020-regular-d1-q86": {
    "alternativas": [
     "ba67d6fff8a6",
-    "c9fdb8d02cc8",
-    "efe2b27ad009",
-    "42dade6d23c9",
-    "a3b7118e83cf"
+    "18781b29959e",
+    "bf346c428278",
+    "e9f020881521",
+    "aa0e5d4de3f2"
    ],
-   "apoio": "6ee1b9bb0e6c",
-   "credito": "8658dc7a6ca8",
-   "enunciado": "e8acc2d0dc0a",
+   "apoio": "92b332c583ff",
+   "credito": "f8c63e10513d",
+   "enunciado": "efca5744f19a",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Esse documento, elaborado no contexto da Revoluç",
+   "previa": "Esse documento elaborado no contexto da Revoluçã",
    "recortes": []
   },
   "enem-2020-regular-d1-q87": {
    "alternativas": [
-    "e93ccd720a7b",
-    "e2cfb3f47478",
-    "a255cf2bed4a",
-    "4c5a59a346b6",
+    "339f06024fc2",
+    "6d8d7d85b4b0",
+    "cd79cf2eb372",
+    "211793b70c8a",
     "79f0fbb64d45"
    ],
-   "apoio": "e22ef9e76e5d",
-   "credito": "018a1721afe5",
-   "enunciado": "2a22c8f2ba34",
+   "apoio": "d744378677db",
+   "credito": "b0ac73a1c46e",
+   "enunciado": "9662ad1245e0",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Naquele contexto, a emergência do sistema de gov",
+   "previa": "Naquele contexto a emergência do sistema de gove",
    "recortes": []
   },
   "enem-2020-regular-d1-q88": {
    "alternativas": [
-    "2a900363cce6",
-    "a52772faf922",
-    "f69c056c85cf",
-    "73ed01b91bb9",
-    "5b73a47e0a32"
+    "2f57d5384fe0",
+    "aa962a2fda73",
+    "b2244a66df93",
+    "a5e49eadc007",
+    "93a6b6be1db8"
    ],
-   "apoio": "5344f31a6091",
-   "credito": "a2f1fdb66eb9",
-   "enunciado": "80c0da892116",
+   "apoio": "ff3bf7413f40",
+   "credito": "147e81fa21e1",
+   "enunciado": "1f146e61a8b3",
    "gabarito": "C",
    "imagens": [
     "/questoes/2020/regular/dia1/enem-2020-regular-d1-q88-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Considerando a análise dos textos, a condição at",
+   "previa": "Considerando a análise dos textos a condição atu",
    "recortes": [
     [
      "/questoes/2020/regular/dia1/enem-2020-regular-d1-q88-apoio-01.jpg",
@@ -1767,36 +1767,36 @@
   },
   "enem-2020-regular-d1-q89": {
    "alternativas": [
-    "8b1212d1f82d",
-    "4a68084565fa",
-    "c009701426af",
-    "df5eb13d714a",
-    "fdb5b1773551"
+    "1065a7c5d3f7",
+    "f859c47c2aae",
+    "892616e5a868",
+    "cc24f2c73524",
+    "0999c5d82b73"
    ],
-   "apoio": "15a8bb65fff9",
-   "credito": "7db62f4055e8",
-   "enunciado": "dac5d2d3b42c",
+   "apoio": "436ff02ad9cf",
+   "credito": "09e025e017d1",
+   "enunciado": "2ad0d0f9cd76",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Segundo o autor, qual é a origem do conhecimento",
+   "previa": "Segundo o autor qua é a origem do conhecimento h",
    "recortes": []
   },
   "enem-2020-regular-d1-q90": {
    "alternativas": [
-    "6b692b8583b2",
-    "f0660106988e",
-    "b01f2422011a",
-    "3f230558cfcd",
-    "2181fc1b9b90"
+    "ac1b96923fc9",
+    "af95f2ff9f4d",
+    "8fc839ba8a5f",
+    "21f3ba738336",
+    "31b0819ea4ae"
    ],
-   "apoio": "cca2bc88941a",
-   "credito": "20e31edd0907",
-   "enunciado": "d90c1e147890",
+   "apoio": "eb10a70f6058",
+   "credito": "d1000de85812",
+   "enunciado": "2d4d96513247",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Sobre a tragédia de Mariana, os textos apresenta",
+   "previa": "Sobre a tragédia de Mariana os textos apresentam",
    "recortes": []
   }
  }

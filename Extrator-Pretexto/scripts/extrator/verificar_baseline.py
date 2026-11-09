@@ -111,11 +111,14 @@ def main():
     ap.add_argument('--dia', type=int, choices=[1, 2])
     ap.add_argument('--todos', action='store_true', help='todos os anos que têm foto em baselines/')
     ap.add_argument('--atualizar', action='store_true', help='grava/atualiza a foto (só após revisar a mudança!)')
+    ap.add_argument('--pular-anos', help='anos a não conferir, ex.: 2010,2021 (provas pendentes de reprocessamento)')
     ap.add_argument('--pasta-provas', default=str(E.RAIZ / 'provas'))
     a = ap.parse_args()
     if not a.ano and not a.todos:
         ap.error('informe --ano ou --todos.')
     anos = sorted({int(p.name.split('-')[0]) for p in PASTA_FOTOS.glob('*.json')}) if a.todos else [a.ano]
+    if a.pular_anos:
+        anos = [x for x in anos if x not in {int(y) for y in a.pular_anos.split(',')}]
     if not anos:
         ap.error('não há fotos em baselines/.')
     houve_diferenca = False

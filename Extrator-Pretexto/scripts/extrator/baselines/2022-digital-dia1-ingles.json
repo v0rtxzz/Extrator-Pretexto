@@ -1,0 +1,7710 @@
+{
+ "extraidas": 89,
+ "ignoradas": [
+  "enem-2022-digital-d1-q04-ing"
+ ],
+ "motor": "v2022",
+ "perfil": "motor v2022 + digital: uma questão por página, rótulo com a área + digital: botões sem letra + digital: letras em SegoeUI-Bold",
+ "questoes": {
+  "enem-2022-digital-d1-q01-ing": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "4489da5a2abe",
+   "credito": "5b39e288b966",
+   "enunciado": "5c0790e5a89a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-E-01.png"
+    ]
+   },
+   "previa": "Ao relatar suas vivências, o autor destaca o(a)",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-A-01.png",
+     7,
+     [
+      185.5,
+      401.8,
+      434.0,
+      418.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-B-01.png",
+     7,
+     [
+      185.5,
+      447.6,
+      477.6,
+      464.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-C-01.png",
+     7,
+     [
+      185.5,
+      493.4,
+      497.8,
+      509.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-D-01.png",
+     7,
+     [
+      185.5,
+      539.2,
+      518.1,
+      555.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q01-ing-alt-E-01.png",
+     7,
+     [
+      185.5,
+      585.0,
+      568.4,
+      601.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q02-ing": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "2ca243914afe",
+   "credito": "f19c0c92b056",
+   "enunciado": "9f01411c6cc8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto aborda relações interpessoais com o obje",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-A-01.png",
+     8,
+     [
+      185.5,
+      371.1,
+      548.1,
+      387.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-B-01.png",
+     8,
+     [
+      185.5,
+      416.9,
+      582.7,
+      433.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-C-01.png",
+     8,
+     [
+      185.5,
+      462.6,
+      595.4,
+      479.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-D-01.png",
+     8,
+     [
+      185.5,
+      508.4,
+      599.2,
+      524.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q02-ing-alt-E-01.png",
+     8,
+     [
+      185.5,
+      554.2,
+      614.2,
+      570.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q03-ing": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "5536d98c36f1",
+   "enunciado": "82039c49db16",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-E-01.png"
+    ]
+   },
+   "previa": "Nessa tirinha, o comportamento da mulher express",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-A-01.png",
+     10,
+     [
+      185.5,
+      76.1,
+      353.6,
+      92.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-B-01.png",
+     10,
+     [
+      185.5,
+      121.9,
+      356.7,
+      138.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-C-01.png",
+     10,
+     [
+      185.5,
+      167.7,
+      383.7,
+      184.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-D-01.png",
+     10,
+     [
+      185.5,
+      213.5,
+      396.4,
+      230.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q03-ing-alt-E-01.png",
+     10,
+     [
+      185.5,
+      259.3,
+      399.5,
+      275.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q05-ing": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "cb96499fcecc",
+   "credito": "6b1c9aed663e",
+   "enunciado": "21be3c8a3018",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse poema, o eu lírico evidencia um sentimento",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-A-01.png",
+     12,
+     [
+      185.5,
+      524.2,
+      419.7,
+      540.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-B-01.png",
+     12,
+     [
+      185.5,
+      569.9,
+      384.4,
+      586.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-C-01.png",
+     12,
+     [
+      185.5,
+      615.7,
+      443.8,
+      632.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-D-01.png",
+     12,
+     [
+      185.5,
+      661.5,
+      437.0,
+      678.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q05-ing-alt-E-01.png",
+     12,
+     [
+      185.5,
+      707.3,
+      461.7,
+      723.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q06": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "75b3d022af23",
+   "credito": "29b56bb0cecd",
+   "enunciado": "f19a98ad479f",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse texto de opinião, as marcas linguísticas r",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-A-01.png",
+     13,
+     [
+      185.5,
+      403.3,
+      610.4,
+      419.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-B-01.png",
+     13,
+     [
+      185.5,
+      449.1,
+      618.7,
+      465.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-C-01.png",
+     13,
+     [
+      185.5,
+      494.9,
+      683.2,
+      531.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-D-01.png",
+     13,
+     [
+      185.5,
+      560.9,
+      683.3,
+      597.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q06-alt-E-01.png",
+     13,
+     [
+      185.5,
+      627.0,
+      683.9,
+      663.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q07": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "07241fa3c701",
+   "credito": "60f255aff786",
+   "enunciado": "ff4aba84fd64",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-E-01.png"
+    ]
+   },
+   "previa": "Os dois textos abordam a temática de animais de ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-apoio-01.jpg",
+     14,
+     [
+      158.3,
+      98.8,
+      683.7,
+      463.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-A-01.png",
+     14,
+     [
+      185.5,
+      852.1,
+      542.1,
+      868.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-B-01.png",
+     14,
+     [
+      185.5,
+      897.9,
+      539.9,
+      914.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-C-01.png",
+     14,
+     [
+      185.5,
+      943.7,
+      539.1,
+      960.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-D-01.png",
+     14,
+     [
+      185.5,
+      989.4,
+      470.1,
+      1005.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q07-alt-E-01.png",
+     14,
+     [
+      185.5,
+      1035.2,
+      457.3,
+      1051.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q08": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "c33a278e973e",
+   "credito": "1b4e8550d899",
+   "enunciado": "0cc7312e4c14",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-E-01.png"
+    ]
+   },
+   "previa": "Ao divulgar a adaptação do jogo para questões re",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-A-01.png",
+     15,
+     [
+      185.5,
+      589.5,
+      480.6,
+      606.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-B-01.png",
+     15,
+     [
+      185.5,
+      635.2,
+      512.1,
+      651.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-C-01.png",
+     15,
+     [
+      185.5,
+      681.0,
+      536.1,
+      697.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-D-01.png",
+     15,
+     [
+      185.5,
+      726.8,
+      570.6,
+      743.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q08-alt-E-01.png",
+     15,
+     [
+      185.5,
+      772.6,
+      588.7,
+      789.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q09": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "268b6e33197c",
+   "enunciado": "790c3ab75c61",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-E-01.png"
+    ]
+   },
+   "previa": "Para convencer o público-alvo sobre a necessidad",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-apoio-01.jpg",
+     16,
+     [
+      158.3,
+      66.5,
+      683.7,
+      372.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-A-01.png",
+     16,
+     [
+      185.5,
+      494.1,
+      593.2,
+      510.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-B-01.png",
+     16,
+     [
+      185.5,
+      539.9,
+      574.4,
+      556.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-C-01.png",
+     16,
+     [
+      185.5,
+      585.7,
+      631.5,
+      602.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-D-01.png",
+     16,
+     [
+      185.5,
+      631.5,
+      643.5,
+      648.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q09-alt-E-01.png",
+     16,
+     [
+      185.5,
+      677.3,
+      675.0,
+      693.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q10": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "4fce316e96b9",
+   "credito": "63871dd50ea8",
+   "enunciado": "09535025c0f7",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-E-01.png"
+    ]
+   },
+   "previa": "Segundo os autores citados no texto, a expansão ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-A-01.png",
+     17,
+     [
+      185.5,
+      431.9,
+      313.1,
+      448.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-B-01.png",
+     17,
+     [
+      185.5,
+      477.6,
+      340.1,
+      494.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-C-01.png",
+     17,
+     [
+      185.5,
+      523.4,
+      372.4,
+      539.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-D-01.png",
+     17,
+     [
+      185.5,
+      569.2,
+      371.7,
+      585.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q10-alt-E-01.png",
+     17,
+     [
+      185.5,
+      615.0,
+      418.9,
+      631.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q11": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "86c4cfcea564",
+   "credito": "371d8d8e107a",
+   "enunciado": "040afe81112d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto revela que, quando a sociedade promove o",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-A-01.png",
+     18,
+     [
+      185.5,
+      403.3,
+      467.1,
+      419.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-B-01.png",
+     18,
+     [
+      185.5,
+      449.1,
+      455.0,
+      465.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-C-01.png",
+     18,
+     [
+      185.5,
+      494.9,
+      428.7,
+      511.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-D-01.png",
+     18,
+     [
+      185.5,
+      540.7,
+      485.8,
+      557.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q11-alt-E-01.png",
+     18,
+     [
+      185.5,
+      586.5,
+      542.9,
+      603.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q12": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "67bbb98e6879",
+   "credito": "9f0816b71f08",
+   "enunciado": "066d02f8c6df",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse texto, o uso da norma-padrão defendido por",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-A-01.png",
+     19,
+     [
+      185.5,
+      830.3,
+      546.7,
+      846.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-B-01.png",
+     19,
+     [
+      185.5,
+      876.1,
+      499.3,
+      892.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-C-01.png",
+     19,
+     [
+      185.5,
+      921.9,
+      467.0,
+      938.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-D-01.png",
+     19,
+     [
+      185.5,
+      967.7,
+      449.0,
+      984.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q12-alt-E-01.png",
+     19,
+     [
+      185.5,
+      1013.5,
+      436.2,
+      1030.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q13": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "7107f62d553e",
+   "credito": "530989e79eb0",
+   "enunciado": "620d273d6f72",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-E-01.png"
+    ]
+   },
+   "previa": "Ao analisarem a correlação entre os hábitos e o ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-A-01.png",
+     20,
+     [
+      185.5,
+      467.9,
+      681.0,
+      484.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-B-01.png",
+     20,
+     [
+      185.5,
+      513.7,
+      662.3,
+      530.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-C-01.png",
+     20,
+     [
+      185.5,
+      559.4,
+      625.4,
+      575.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-D-01.png",
+     20,
+     [
+      185.5,
+      605.2,
+      612.0,
+      621.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q13-alt-E-01.png",
+     20,
+     [
+      185.5,
+      651.0,
+      606.0,
+      667.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q14": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "abf929ff19e4",
+   "credito": "7f5db2eae008",
+   "enunciado": "4de1fd872a07",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-E-01.png"
+    ]
+   },
+   "previa": "O Texto II exemplifica o que se afirma no Texto ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-A-01.png",
+     21,
+     [
+      185.5,
+      414.6,
+      683.3,
+      451.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-B-01.png",
+     21,
+     [
+      185.5,
+      480.6,
+      683.3,
+      517.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-C-01.png",
+     21,
+     [
+      185.5,
+      546.7,
+      683.2,
+      583.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-D-01.png",
+     21,
+     [
+      185.5,
+      612.7,
+      683.3,
+      649.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q14-alt-E-01.png",
+     21,
+     [
+      185.5,
+      678.8,
+      683.3,
+      715.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q15": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "47c745e3398d",
+   "enunciado": "574802b3b6e1",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-E-01.png"
+    ]
+   },
+   "previa": "Considerando-se a função social dos posts, essa ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-apoio-01.jpg",
+     22,
+     [
+      158.3,
+      66.5,
+      683.7,
+      591.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-A-01.png",
+     22,
+     [
+      185.5,
+      714.0,
+      587.2,
+      730.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-B-01.png",
+     22,
+     [
+      185.5,
+      759.8,
+      570.6,
+      776.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-C-01.png",
+     22,
+     [
+      185.5,
+      805.6,
+      547.4,
+      822.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-D-01.png",
+     22,
+     [
+      185.5,
+      851.4,
+      490.3,
+      867.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q15-alt-E-01.png",
+     22,
+     [
+      185.5,
+      897.1,
+      458.0,
+      913.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q16": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "f6efd69ae5dd",
+   "credito": "93bd6b114f5e",
+   "enunciado": "d5558314e512",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto é exemplar de um gênero discursivo que c",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-A-01.png",
+     23,
+     [
+      185.5,
+      545.2,
+      650.2,
+      561.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-B-01.png",
+     23,
+     [
+      185.5,
+      591.0,
+      623.2,
+      607.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-C-01.png",
+     23,
+     [
+      185.5,
+      636.7,
+      600.7,
+      653.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-D-01.png",
+     23,
+     [
+      185.5,
+      682.5,
+      599.9,
+      699.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q16-alt-E-01.png",
+     23,
+     [
+      185.5,
+      728.3,
+      528.6,
+      744.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q17": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "742932be4316",
+   "credito": "88d1d110e1fd",
+   "enunciado": "3171448c8254",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-E-01.png"
+    ]
+   },
+   "previa": "Esse texto, que simula um verbete para a palavra",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-A-01.png",
+     24,
+     [
+      185.5,
+      391.3,
+      676.4,
+      407.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-B-01.png",
+     24,
+     [
+      185.5,
+      437.1,
+      684.0,
+      453.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-C-01.png",
+     24,
+     [
+      185.5,
+      482.9,
+      683.2,
+      519.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-D-01.png",
+     24,
+     [
+      185.5,
+      548.9,
+      683.9,
+      585.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q17-alt-E-01.png",
+     24,
+     [
+      185.5,
+      615.0,
+      683.2,
+      651.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q18": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "abe62933d068",
+   "credito": "b5ccf7182275",
+   "enunciado": "fb94a3d96c46",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-E-01.png"
+    ]
+   },
+   "previa": "O recurso que caracteriza a organização estrutur",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-A-01.png",
+     25,
+     [
+      185.5,
+      431.9,
+      473.0,
+      448.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-B-01.png",
+     25,
+     [
+      185.5,
+      477.6,
+      483.6,
+      494.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-C-01.png",
+     25,
+     [
+      185.5,
+      523.4,
+      516.6,
+      539.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-D-01.png",
+     25,
+     [
+      185.5,
+      569.2,
+      562.4,
+      585.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q18-alt-E-01.png",
+     25,
+     [
+      185.5,
+      615.0,
+      557.9,
+      631.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q19": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "cbcba7593498",
+   "credito": "438831ffb1bf",
+   "enunciado": "ece880ff8e4a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse texto, a violência no futebol está caracte",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-A-01.png",
+     26,
+     [
+      185.5,
+      472.4,
+      476.0,
+      488.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-B-01.png",
+     26,
+     [
+      185.5,
+      518.2,
+      479.8,
+      534.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-C-01.png",
+     26,
+     [
+      185.5,
+      563.9,
+      515.1,
+      580.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-D-01.png",
+     26,
+     [
+      185.5,
+      609.7,
+      551.9,
+      626.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q19-alt-E-01.png",
+     26,
+     [
+      185.5,
+      655.5,
+      615.7,
+      672.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q20": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "fc0d7b748caf",
+   "credito": "ebcb7d426c15",
+   "enunciado": "83f32f5223e9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-E-01.png"
+    ]
+   },
+   "previa": "Com base na pesquisa e em uma visão ampliada de ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-A-01.png",
+     27,
+     [
+      185.5,
+      573.7,
+      683.3,
+      610.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-B-01.png",
+     27,
+     [
+      185.5,
+      639.7,
+      683.3,
+      676.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-C-01.png",
+     27,
+     [
+      185.5,
+      705.8,
+      683.3,
+      742.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-D-01.png",
+     27,
+     [
+      185.5,
+      771.8,
+      683.3,
+      808.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q20-alt-E-01.png",
+     27,
+     [
+      185.5,
+      837.9,
+      684.0,
+      874.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q21": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "d795976684c2",
+   "credito": "82613c74e536",
+   "enunciado": "c652f215d56b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-E-01.png"
+    ]
+   },
+   "previa": "Inscrito na estética romântica da literatura bra",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-A-01.png",
+     28,
+     [
+      185.5,
+      528.7,
+      586.4,
+      545.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-B-01.png",
+     28,
+     [
+      185.5,
+      574.4,
+      610.5,
+      591.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-C-01.png",
+     28,
+     [
+      185.5,
+      620.2,
+      636.7,
+      636.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-D-01.png",
+     28,
+     [
+      185.5,
+      666.0,
+      627.7,
+      682.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q21-alt-E-01.png",
+     28,
+     [
+      185.5,
+      711.8,
+      658.5,
+      728.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q22": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "36853435e044",
+   "credito": "5243dc62abe7",
+   "enunciado": "231cb9f942b4",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-E-01.png"
+    ]
+   },
+   "previa": "Considerando-se o tema tecnologias e acessibilid",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-A-01.png",
+     30,
+     [
+      185.5,
+      96.4,
+      428.0,
+      112.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-B-01.png",
+     30,
+     [
+      185.5,
+      142.2,
+      448.2,
+      158.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-C-01.png",
+     30,
+     [
+      185.5,
+      188.0,
+      474.5,
+      204.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-D-01.png",
+     30,
+     [
+      185.5,
+      233.7,
+      504.6,
+      250.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q22-alt-E-01.png",
+     30,
+     [
+      185.5,
+      279.5,
+      504.6,
+      296.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q23": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "ebc24cb0df26",
+   "credito": "65d76a19e61e",
+   "enunciado": "5d119de5374e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-E-01.png"
+    ]
+   },
+   "previa": "Ao descrever os olhos de Maria Santa, o narrador",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-A-01.png",
+     31,
+     [
+      185.5,
+      350.8,
+      463.3,
+      367.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-B-01.png",
+     31,
+     [
+      185.5,
+      396.6,
+      470.8,
+      413.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-C-01.png",
+     31,
+     [
+      185.5,
+      442.4,
+      483.5,
+      458.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-D-01.png",
+     31,
+     [
+      185.5,
+      488.1,
+      500.8,
+      504.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q23-alt-E-01.png",
+     31,
+     [
+      185.5,
+      533.9,
+      512.1,
+      550.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q24": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "695044e55fe0",
+   "credito": "41d1731ca4f6",
+   "enunciado": "bec7997ea834",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse artigo de opinião, ao fazer uso de uma fal",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-A-01.png",
+     32,
+     [
+      185.5,
+      670.5,
+      379.2,
+      687.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-B-01.png",
+     32,
+     [
+      185.5,
+      716.3,
+      412.2,
+      732.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-C-01.png",
+     32,
+     [
+      185.5,
+      762.1,
+      425.7,
+      778.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-D-01.png",
+     32,
+     [
+      185.5,
+      807.8,
+      480.5,
+      824.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q24-alt-E-01.png",
+     32,
+     [
+      185.5,
+      853.6,
+      509.9,
+      870.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q25": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "3bae7681ed03",
+   "credito": "39b2d8cfbb40",
+   "enunciado": "73fdbc019f57",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-E-01.png"
+    ]
+   },
+   "previa": "O discurso da jornalista traz questionamentos so",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-A-01.png",
+     33,
+     [
+      185.5,
+      431.9,
+      481.3,
+      448.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-B-01.png",
+     33,
+     [
+      185.5,
+      477.6,
+      492.5,
+      494.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-C-01.png",
+     33,
+     [
+      185.5,
+      523.4,
+      567.7,
+      539.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-D-01.png",
+     33,
+     [
+      185.5,
+      569.2,
+      569.9,
+      585.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q25-alt-E-01.png",
+     33,
+     [
+      185.5,
+      615.0,
+      515.8,
+      631.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q26": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "46b631719384",
+   "credito": "6a4049d0267b",
+   "enunciado": "87082f819528",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-E-01.png"
+    ]
+   },
+   "previa": "Nesse texto, predomina a função poética da lingu",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-A-01.png",
+     34,
+     [
+      185.5,
+      707.3,
+      296.6,
+      723.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-B-01.png",
+     34,
+     [
+      185.5,
+      753.0,
+      361.9,
+      769.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-C-01.png",
+     34,
+     [
+      185.5,
+      798.8,
+      397.1,
+      815.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-D-01.png",
+     34,
+     [
+      185.5,
+      844.6,
+      410.7,
+      861.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q26-alt-E-01.png",
+     34,
+     [
+      185.5,
+      890.4,
+      315.3,
+      906.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q27": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "f26006a950f6",
+   "enunciado": "5f4da34c5265",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-E-01.png"
+    ]
+   },
+   "previa": "A articulação entre os elementos verbais e os nã",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-apoio-01.jpg",
+     35,
+     [
+      158.3,
+      66.5,
+      683.7,
+      323.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-A-01.png",
+     35,
+     [
+      185.5,
+      446.1,
+      505.3,
+      462.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-B-01.png",
+     35,
+     [
+      185.5,
+      491.9,
+      506.8,
+      508.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-C-01.png",
+     35,
+     [
+      185.5,
+      537.7,
+      527.9,
+      554.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-D-01.png",
+     35,
+     [
+      185.5,
+      583.4,
+      519.6,
+      600.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q27-alt-E-01.png",
+     35,
+     [
+      185.5,
+      629.2,
+      589.4,
+      645.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q28": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "8981de961c81",
+   "credito": "0840df334232",
+   "enunciado": "1509ef901a24",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-E-01.png"
+    ]
+   },
+   "previa": "O movimento de recuperação da língua patxôhã ass",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-A-01.png",
+     36,
+     [
+      185.5,
+      545.2,
+      648.0,
+      561.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-B-01.png",
+     36,
+     [
+      185.5,
+      591.0,
+      610.4,
+      607.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-C-01.png",
+     36,
+     [
+      185.5,
+      636.7,
+      598.4,
+      653.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-D-01.png",
+     36,
+     [
+      185.5,
+      682.5,
+      565.4,
+      699.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q28-alt-E-01.png",
+     36,
+     [
+      185.5,
+      728.3,
+      536.1,
+      744.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q29": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "fbb415759579",
+   "credito": "fb7f6cebba36",
+   "enunciado": "4508b76f18f8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-E-01.png"
+    ]
+   },
+   "previa": "No relato da visita de duas mulheres ricas a uma",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-A-01.png",
+     37,
+     [
+      185.5,
+      508.4,
+      478.3,
+      524.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-B-01.png",
+     37,
+     [
+      185.5,
+      554.2,
+      506.1,
+      570.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-C-01.png",
+     37,
+     [
+      185.5,
+      600.0,
+      510.6,
+      616.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-D-01.png",
+     37,
+     [
+      185.5,
+      645.7,
+      527.1,
+      662.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q29-alt-E-01.png",
+     37,
+     [
+      185.5,
+      691.5,
+      524.1,
+      708.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q30": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "2d483c09dec3",
+   "credito": "fa3511a3e12f",
+   "enunciado": "25c45e57e6a3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-E-01.png"
+    ]
+   },
+   "previa": "No trecho do romance naturalista, a forma como o",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-A-01.png",
+     38,
+     [
+      185.5,
+      455.9,
+      541.4,
+      472.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-B-01.png",
+     38,
+     [
+      185.5,
+      501.6,
+      584.2,
+      518.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-C-01.png",
+     38,
+     [
+      185.5,
+      547.4,
+      599.2,
+      563.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-D-01.png",
+     38,
+     [
+      185.5,
+      593.2,
+      631.5,
+      609.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q30-alt-E-01.png",
+     38,
+     [
+      185.5,
+      639.0,
+      652.5,
+      655.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q31": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "52aa7f960b08",
+   "credito": "3dff9bd79671",
+   "enunciado": "ae74a229b6f8",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-E-01.png"
+    ]
+   },
+   "previa": "Os recursos composicionais que inserem a obra no",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-A-01.png",
+     39,
+     [
+      185.5,
+      544.4,
+      491.8,
+      560.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-B-01.png",
+     39,
+     [
+      185.5,
+      590.2,
+      509.1,
+      606.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-C-01.png",
+     39,
+     [
+      185.5,
+      636.0,
+      518.9,
+      652.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-D-01.png",
+     39,
+     [
+      185.5,
+      681.8,
+      527.9,
+      698.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q31-alt-E-01.png",
+     39,
+     [
+      185.5,
+      727.5,
+      545.8,
+      744.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q32": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "1c5fb62520b3",
+   "enunciado": "6d73676bfc35",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-01.png",
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-02.png",
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-03.png",
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-04.png",
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-05.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto sobre os chamados nativos digitais traz ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-01.png",
+     40,
+     [
+      416.9,
+      67.1,
+      572.5,
+      92.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-02.png",
+     40,
+     [
+      269.1,
+      71.0,
+      369.5,
+      88.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-03.png",
+     40,
+     [
+      320.4,
+      115.0,
+      397.0,
+      137.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-04.png",
+     40,
+     [
+      344.3,
+      264.5,
+      523.7,
+      323.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-apoio-05.png",
+     40,
+     [
+      545.7,
+      264.7,
+      682.7,
+      323.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-A-01.png",
+     40,
+     [
+      185.5,
+      426.6,
+      511.4,
+      443.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-B-01.png",
+     40,
+     [
+      185.5,
+      472.4,
+      497.1,
+      488.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-C-01.png",
+     40,
+     [
+      185.5,
+      518.2,
+      476.0,
+      534.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-D-01.png",
+     40,
+     [
+      185.5,
+      563.9,
+      541.4,
+      580.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q32-alt-E-01.png",
+     40,
+     [
+      185.5,
+      609.7,
+      548.9,
+      626.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q33": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "17500533b894",
+   "credito": "efe364318574",
+   "enunciado": "110cebae16bc",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-E-01.png"
+    ]
+   },
+   "previa": "O recurso linguístico que permite a Machado de A",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-A-01.png",
+     41,
+     [
+      185.5,
+      439.4,
+      376.2,
+      455.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-B-01.png",
+     41,
+     [
+      185.5,
+      485.1,
+      414.5,
+      501.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-C-01.png",
+     41,
+     [
+      185.5,
+      530.9,
+      419.0,
+      547.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-D-01.png",
+     41,
+     [
+      185.5,
+      576.7,
+      485.1,
+      593.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q33-alt-E-01.png",
+     41,
+     [
+      185.5,
+      622.5,
+      502.3,
+      639.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q34": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "b0ef9115dec3",
+   "credito": "1634bb6c63b7",
+   "enunciado": "56a6c43d7da7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-E-01.png"
+    ]
+   },
+   "previa": "A história da prática do mountainboard represent",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-A-01.png",
+     42,
+     [
+      185.5,
+      452.1,
+      421.2,
+      468.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-B-01.png",
+     42,
+     [
+      185.5,
+      497.9,
+      437.8,
+      514.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-C-01.png",
+     42,
+     [
+      185.5,
+      543.7,
+      437.0,
+      560.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-D-01.png",
+     42,
+     [
+      185.5,
+      589.5,
+      468.6,
+      606.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q34-alt-E-01.png",
+     42,
+     [
+      185.5,
+      635.2,
+      530.1,
+      651.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q35": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "f42bd07d448c",
+   "credito": "55ae1a115a15",
+   "enunciado": "3032aee4144a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-E-01.png"
+    ]
+   },
+   "previa": "No texto, ao refletir sobre a atividade de croni",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-A-01.png",
+     43,
+     [
+      185.5,
+      569.2,
+      444.5,
+      585.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-B-01.png",
+     43,
+     [
+      185.5,
+      615.0,
+      428.0,
+      631.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-C-01.png",
+     43,
+     [
+      185.5,
+      660.7,
+      410.7,
+      677.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-D-01.png",
+     43,
+     [
+      185.5,
+      706.5,
+      420.5,
+      723.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q35-alt-E-01.png",
+     43,
+     [
+      185.5,
+      752.3,
+      325.9,
+      768.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q36": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "863fceced036",
+   "credito": "0b365e6bf85c",
+   "enunciado": "5ed0b3955726",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-E-01.png"
+    ]
+   },
+   "previa": "Essa notícia, além de cumprir sua função informa",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-A-01.png",
+     44,
+     [
+      185.5,
+      415.3,
+      512.1,
+      431.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-B-01.png",
+     44,
+     [
+      185.5,
+      461.1,
+      545.1,
+      477.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-C-01.png",
+     44,
+     [
+      185.5,
+      506.9,
+      587.9,
+      523.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-D-01.png",
+     44,
+     [
+      185.5,
+      552.7,
+      608.2,
+      569.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q36-alt-E-01.png",
+     44,
+     [
+      185.5,
+      598.5,
+      627.0,
+      615.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q37": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "281d5b5443b0",
+   "credito": "7fb7bfe1bedf",
+   "enunciado": "59f1ac4bdb63",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-E-01.png"
+    ]
+   },
+   "previa": "Associada ao ideário de uma “vida perfeita”, a p",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-A-01.png",
+     45,
+     [
+      185.5,
+      516.7,
+      538.4,
+      533.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-B-01.png",
+     45,
+     [
+      185.5,
+      562.4,
+      527.1,
+      578.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-C-01.png",
+     45,
+     [
+      185.5,
+      608.2,
+      519.6,
+      624.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-D-01.png",
+     45,
+     [
+      185.5,
+      654.0,
+      482.1,
+      670.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q37-alt-E-01.png",
+     45,
+     [
+      185.5,
+      699.8,
+      469.3,
+      716.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q38": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "290fc3605f34",
+   "credito": "b285e15f03c9",
+   "enunciado": "8007823ffc95",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-E-01.png"
+    ]
+   },
+   "previa": "Produzida no início do século XVII, a obra manei",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-apoio-01.jpg",
+     46,
+     [
+      158.3,
+      98.8,
+      683.7,
+      515.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-A-01.png",
+     46,
+     [
+      185.5,
+      813.8,
+      401.0,
+      830.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-B-01.png",
+     46,
+     [
+      185.5,
+      859.6,
+      438.5,
+      876.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-C-01.png",
+     46,
+     [
+      185.5,
+      905.4,
+      469.3,
+      921.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-D-01.png",
+     46,
+     [
+      185.5,
+      951.2,
+      506.1,
+      967.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q38-alt-E-01.png",
+     46,
+     [
+      185.5,
+      996.9,
+      543.6,
+      1013.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q39": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "04e1533c0372",
+   "credito": "4ab549398292",
+   "enunciado": "6e7ccc2b0965",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-E-01.png"
+    ]
+   },
+   "previa": "De acordo com os textos I e II, compreende-se qu",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-apoio-01.jpg",
+     47,
+     [
+      158.3,
+      98.8,
+      683.7,
+      702.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-A-01.png",
+     48,
+     [
+      185.5,
+      76.1,
+      443.8,
+      92.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-B-01.png",
+     48,
+     [
+      185.5,
+      121.9,
+      446.0,
+      138.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-C-01.png",
+     48,
+     [
+      185.5,
+      167.7,
+      474.5,
+      184.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-D-01.png",
+     48,
+     [
+      185.5,
+      213.5,
+      492.6,
+      230.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q39-alt-E-01.png",
+     48,
+     [
+      185.5,
+      259.3,
+      506.8,
+      275.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q40": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "946972c864c5",
+   "credito": "575410635b4b",
+   "enunciado": "00fa5c8a47e3",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-E-01.png"
+    ]
+   },
+   "previa": "A passagem registra um momento em que a expressi",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-A-01.png",
+     49,
+     [
+      185.5,
+      451.4,
+      453.5,
+      467.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-B-01.png",
+     49,
+     [
+      185.5,
+      497.1,
+      503.1,
+      513.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-C-01.png",
+     49,
+     [
+      185.5,
+      542.9,
+      522.6,
+      559.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-D-01.png",
+     49,
+     [
+      185.5,
+      588.7,
+      528.6,
+      605.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q40-alt-E-01.png",
+     49,
+     [
+      185.5,
+      634.5,
+      520.3,
+      651.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q41": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "76742bdedd02",
+   "credito": "3db87d56f4b0",
+   "enunciado": "43e665d7c760",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-E-01.png"
+    ]
+   },
+   "previa": "No texto, o personagem vincula ao carnaval atitu",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-A-01.png",
+     50,
+     [
+      185.5,
+      476.1,
+      383.0,
+      492.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-B-01.png",
+     50,
+     [
+      185.5,
+      521.9,
+      437.8,
+      538.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-C-01.png",
+     50,
+     [
+      185.5,
+      567.7,
+      467.1,
+      584.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-D-01.png",
+     50,
+     [
+      185.5,
+      613.5,
+      470.0,
+      630.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q41-alt-E-01.png",
+     50,
+     [
+      185.5,
+      659.2,
+      506.8,
+      675.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q42": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "ab94ea00d3fe",
+   "credito": "fe29e52676a5",
+   "enunciado": "6bda0368944e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-E-01.png"
+    ]
+   },
+   "previa": "A partir da intimação recebida pelo filho de 9 a",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-A-01.png",
+     51,
+     [
+      185.5,
+      442.4,
+      420.5,
+      458.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-B-01.png",
+     51,
+     [
+      185.5,
+      488.1,
+      442.3,
+      504.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-C-01.png",
+     51,
+     [
+      185.5,
+      533.9,
+      447.5,
+      550.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-D-01.png",
+     51,
+     [
+      185.5,
+      579.7,
+      467.8,
+      596.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q42-alt-E-01.png",
+     51,
+     [
+      185.5,
+      625.5,
+      492.5,
+      642.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q43": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "0c78c51bb54a",
+   "credito": "1f589e10366c",
+   "enunciado": "7ba09a21f4c3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-E-01.png"
+    ]
+   },
+   "previa": "Pela ótica do narrador, a trajetória da empregad",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-A-01.png",
+     52,
+     [
+      185.5,
+      476.1,
+      442.2,
+      492.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-B-01.png",
+     52,
+     [
+      185.5,
+      521.9,
+      441.5,
+      538.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-C-01.png",
+     52,
+     [
+      185.5,
+      567.7,
+      455.8,
+      584.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-D-01.png",
+     52,
+     [
+      185.5,
+      613.5,
+      454.3,
+      630.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q43-alt-E-01.png",
+     52,
+     [
+      185.5,
+      659.2,
+      462.6,
+      675.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q44": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "0c0af9765b30",
+   "credito": "3b7f057aa5c1",
+   "enunciado": "3572ee4f4cd2",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-E-01.png"
+    ]
+   },
+   "previa": "A instalação In absentia propõe um diálogo com o",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-apoio-01.jpg",
+     53,
+     [
+      158.3,
+      98.8,
+      683.7,
+      645.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-A-01.png",
+     54,
+     [
+      185.5,
+      96.4,
+      494.8,
+      112.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-B-01.png",
+     54,
+     [
+      185.5,
+      142.2,
+      539.1,
+      158.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-C-01.png",
+     54,
+     [
+      185.5,
+      188.0,
+      553.3,
+      204.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-D-01.png",
+     54,
+     [
+      185.5,
+      233.7,
+      655.5,
+      250.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q44-alt-E-01.png",
+     54,
+     [
+      185.5,
+      279.5,
+      657.0,
+      296.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q45": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "41847754f078",
+   "credito": "8264bf44efb6",
+   "enunciado": "207c0937841e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-E-01.png"
+    ]
+   },
+   "previa": "Chico Science foi fundamental para a renovação d",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-A-01.png",
+     55,
+     [
+      185.5,
+      452.1,
+      684.0,
+      488.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-B-01.png",
+     55,
+     [
+      185.5,
+      518.2,
+      683.3,
+      554.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-C-01.png",
+     55,
+     [
+      185.5,
+      584.2,
+      683.2,
+      621.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-D-01.png",
+     55,
+     [
+      185.5,
+      650.2,
+      683.2,
+      687.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q45-alt-E-01.png",
+     55,
+     [
+      185.5,
+      716.3,
+      683.3,
+      753.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q46": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "6d3ecdbed1d4",
+   "credito": "c95d69f46b97",
+   "enunciado": "4cddf63fcb06",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-E-01.png"
+    ]
+   },
+   "previa": "No experimento descrito, a relação com a paisage",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-A-01.png",
+     59,
+     [
+      185.5,
+      381.6,
+      485.8,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-B-01.png",
+     59,
+     [
+      185.5,
+      427.4,
+      489.6,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-C-01.png",
+     59,
+     [
+      185.5,
+      473.1,
+      494.8,
+      489.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-D-01.png",
+     59,
+     [
+      185.5,
+      518.9,
+      514.3,
+      535.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q46-alt-E-01.png",
+     59,
+     [
+      185.5,
+      564.7,
+      518.8,
+      581.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q47": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "7b9ab46979e9",
+   "credito": "87633a3ad043",
+   "enunciado": "5480e3df0632",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-E-01.png"
+    ]
+   },
+   "previa": "No trecho, a filósofa Hannah Arendt mostra a imp",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-A-01.png",
+     60,
+     [
+      185.5,
+      330.6,
+      335.6,
+      347.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-B-01.png",
+     60,
+     [
+      185.5,
+      376.3,
+      334.1,
+      392.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-C-01.png",
+     60,
+     [
+      185.5,
+      422.1,
+      365.7,
+      438.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-D-01.png",
+     60,
+     [
+      185.5,
+      467.9,
+      307.8,
+      484.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q47-alt-E-01.png",
+     60,
+     [
+      185.5,
+      513.7,
+      357.4,
+      530.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q48": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "86ca33c3fff6",
+   "credito": "fe29e52676a5",
+   "enunciado": "636502e5c0f7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto, que guarda a grafia original da autora,",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-A-01.png",
+     61,
+     [
+      185.5,
+      290.0,
+      303.3,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-B-01.png",
+     61,
+     [
+      185.5,
+      335.8,
+      312.4,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-C-01.png",
+     61,
+     [
+      185.5,
+      381.6,
+      331.9,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-D-01.png",
+     61,
+     [
+      185.5,
+      427.4,
+      329.6,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q48-alt-E-01.png",
+     61,
+     [
+      185.5,
+      473.1,
+      352.2,
+      489.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q49": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fd00c79e0afc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-E-01.png"
+    ]
+   },
+   "previa": "PAZ A D Disponível l em www.ct.ufpbbr. Acesso em",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-A-01.png",
+     63,
+     [
+      185.5,
+      76.2,
+      284.5,
+      92.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-B-01.png",
+     63,
+     [
+      185.5,
+      121.9,
+      286.8,
+      138.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-C-01.png",
+     63,
+     [
+      185.5,
+      167.7,
+      289.1,
+      184.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-D-01.png",
+     63,
+     [
+      185.5,
+      213.5,
+      306.4,
+      230.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q49-alt-E-01.png",
+     63,
+     [
+      185.5,
+      259.3,
+      313.8,
+      275.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q50": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "55ccf4058f96",
+   "credito": "26f9dd61d1a4",
+   "enunciado": "2d56e743b97d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-E-01.png"
+    ]
+   },
+   "previa": "No texto, há uma crítica ao modo de ocupação do ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-A-01.png",
+     64,
+     [
+      185.5,
+      310.3,
+      560.9,
+      326.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-B-01.png",
+     64,
+     [
+      185.5,
+      356.1,
+      566.2,
+      372.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-C-01.png",
+     64,
+     [
+      185.5,
+      401.9,
+      592.4,
+      418.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-D-01.png",
+     64,
+     [
+      185.5,
+      447.6,
+      605.2,
+      464.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q50-alt-E-01.png",
+     64,
+     [
+      185.5,
+      493.4,
+      629.2,
+      509.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q51": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "3799620c91da",
+   "credito": "8ff1296dbc9d",
+   "enunciado": "5e3bb2e209bb",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-E-01.png"
+    ]
+   },
+   "previa": "Qual mudança estrutural é resultado da forma de ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-A-01.png",
+     65,
+     [
+      185.5,
+      366.6,
+      313.1,
+      383.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-B-01.png",
+     65,
+     [
+      185.5,
+      412.4,
+      331.1,
+      428.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-C-01.png",
+     65,
+     [
+      185.5,
+      458.1,
+      332.6,
+      474.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-D-01.png",
+     65,
+     [
+      185.5,
+      503.9,
+      370.2,
+      520.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q51-alt-E-01.png",
+     65,
+     [
+      185.5,
+      549.7,
+      385.2,
+      566.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q52": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "36d0a50d364b",
+   "credito": "b4a22424da0e",
+   "enunciado": "c505798d1cff",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-E-01.png"
+    ]
+   },
+   "previa": "A letra da canção valoriza uma dimensão do espaç",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-A-01.png",
+     66,
+     [
+      185.5,
+      421.4,
+      399.5,
+      437.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-B-01.png",
+     66,
+     [
+      185.5,
+      467.1,
+      392.7,
+      483.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-C-01.png",
+     66,
+     [
+      185.5,
+      512.9,
+      388.9,
+      529.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-D-01.png",
+     66,
+     [
+      185.5,
+      558.7,
+      377.7,
+      575.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q52-alt-E-01.png",
+     66,
+     [
+      185.5,
+      604.5,
+      343.1,
+      621.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q53": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "6902e3ba491a",
+   "credito": "f0a09e28ba03",
+   "enunciado": "9da46aa82bbf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-E-01.png"
+    ]
+   },
+   "previa": "O registro das atividades descritas associa a in",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-A-01.png",
+     67,
+     [
+      185.5,
+      427.4,
+      421.2,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-B-01.png",
+     67,
+     [
+      185.5,
+      473.1,
+      448.3,
+      489.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-C-01.png",
+     67,
+     [
+      185.5,
+      518.9,
+      454.3,
+      535.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-D-01.png",
+     67,
+     [
+      185.5,
+      564.7,
+      460.3,
+      581.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q53-alt-E-01.png",
+     67,
+     [
+      185.5,
+      610.5,
+      465.5,
+      627.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q54": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "a1a730a8c5f4",
+   "credito": "7a157e5e9bc0",
+   "enunciado": "2f1cf42efd69",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-E-01.png"
+    ]
+   },
+   "previa": "A atuação dos trabalhadores mencionados no texto",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-A-01.png",
+     68,
+     [
+      185.5,
+      305.8,
+      392.0,
+      322.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-B-01.png",
+     68,
+     [
+      185.5,
+      351.6,
+      398.7,
+      368.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-C-01.png",
+     68,
+     [
+      185.5,
+      397.3,
+      411.5,
+      413.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-D-01.png",
+     68,
+     [
+      185.5,
+      443.1,
+      414.5,
+      459.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q54-alt-E-01.png",
+     68,
+     [
+      185.5,
+      488.9,
+      431.7,
+      505.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q55": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "a2e65507b895",
+   "credito": "fea7095d56b8",
+   "enunciado": "4a293652ffec",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-E-01.png"
+    ]
+   },
+   "previa": "As atividades agrícolas, desenvolvidas na região",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-A-01.png",
+     69,
+     [
+      185.5,
+      391.3,
+      599.9,
+      407.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-B-01.png",
+     69,
+     [
+      185.5,
+      437.1,
+      605.2,
+      453.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-C-01.png",
+     69,
+     [
+      185.5,
+      482.9,
+      605.2,
+      499.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-D-01.png",
+     69,
+     [
+      185.5,
+      528.7,
+      612.7,
+      545.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q55-alt-E-01.png",
+     69,
+     [
+      185.5,
+      574.5,
+      614.9,
+      591.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q56": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "d1cbf58c6439",
+   "credito": "42cffe381dcd",
+   "enunciado": "fcec7e2dabfc",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-E-01.png"
+    ]
+   },
+   "previa": "A crítica contida no texto e na figura evidencia",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-apoio-01.jpg",
+     70,
+     [
+      158.3,
+      98.8,
+      683.7,
+      545.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-A-01.png",
+     70,
+     [
+      185.5,
+      881.4,
+      283.8,
+      897.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-B-01.png",
+     70,
+     [
+      185.5,
+      927.2,
+      289.8,
+      943.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-C-01.png",
+     70,
+     [
+      185.5,
+      972.9,
+      318.4,
+      989.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-D-01.png",
+     70,
+     [
+      185.5,
+      1018.7,
+      320.6,
+      1035.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q56-alt-E-01.png",
+     70,
+     [
+      185.5,
+      1064.5,
+      324.9,
+      1081.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q57": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "5e74e0c0552b",
+   "credito": "3199f389b49a",
+   "enunciado": "04670c920c96",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-E-01.png"
+    ]
+   },
+   "previa": "Os modelos autoritários descritos no texto apont",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-A-01.png",
+     71,
+     [
+      185.5,
+      330.6,
+      398.7,
+      347.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-B-01.png",
+     71,
+     [
+      185.5,
+      376.3,
+      401.7,
+      392.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-C-01.png",
+     71,
+     [
+      185.5,
+      422.1,
+      410.0,
+      438.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-D-01.png",
+     71,
+     [
+      185.5,
+      467.9,
+      413.8,
+      484.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q57-alt-E-01.png",
+     71,
+     [
+      185.5,
+      513.7,
+      410.7,
+      530.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q58": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "f092dcf658da",
+   "credito": "f936e1da14c4",
+   "enunciado": "c9b7bf595955",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-E-01.png"
+    ]
+   },
+   "previa": "As práticas religiosas mencionadas nos textos es",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-A-01.png",
+     72,
+     [
+      185.5,
+      511.4,
+      662.3,
+      527.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-B-01.png",
+     72,
+     [
+      185.5,
+      557.2,
+      653.2,
+      573.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-C-01.png",
+     72,
+     [
+      185.5,
+      603.0,
+      630.0,
+      619.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-D-01.png",
+     72,
+     [
+      185.5,
+      648.7,
+      627.7,
+      665.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q58-alt-E-01.png",
+     72,
+     [
+      185.5,
+      694.5,
+      585.6,
+      711.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q59": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "1a8356008150",
+   "credito": "918da9d8c776",
+   "enunciado": "a792885810b1",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-E-01.png"
+    ]
+   },
+   "previa": "A ação governamental descrita constitui-se uma i",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-A-01.png",
+     73,
+     [
+      185.5,
+      366.6,
+      317.6,
+      383.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-B-01.png",
+     73,
+     [
+      185.5,
+      412.4,
+      338.6,
+      428.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-C-01.png",
+     73,
+     [
+      185.5,
+      458.1,
+      350.6,
+      474.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-D-01.png",
+     73,
+     [
+      185.5,
+      503.9,
+      361.2,
+      520.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q59-alt-E-01.png",
+     73,
+     [
+      185.5,
+      549.7,
+      382.9,
+      566.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q60": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "355238b499f8",
+   "credito": "3ff732c37152",
+   "enunciado": "155ee6539db1",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-E-01.png"
+    ]
+   },
+   "previa": "Contrariando a visão prevalente sobre o impacto ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-A-01.png",
+     74,
+     [
+      185.5,
+      350.8,
+      503.8,
+      367.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-B-01.png",
+     74,
+     [
+      185.5,
+      396.6,
+      510.6,
+      413.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-C-01.png",
+     74,
+     [
+      185.5,
+      442.4,
+      515.1,
+      458.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-D-01.png",
+     74,
+     [
+      185.5,
+      488.2,
+      571.4,
+      504.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q60-alt-E-01.png",
+     74,
+     [
+      185.5,
+      533.9,
+      584.9,
+      550.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q61": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "ffd23eaaa7fd",
+   "credito": "3a2310289e7d",
+   "enunciado": "05634343bbeb",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-E-01.png"
+    ]
+   },
+   "previa": "A consequência da mudança tecnológica apresentad",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-A-01.png",
+     75,
+     [
+      185.5,
+      290.0,
+      378.5,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-B-01.png",
+     75,
+     [
+      185.5,
+      335.8,
+      387.4,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-C-01.png",
+     75,
+     [
+      185.5,
+      381.6,
+      403.2,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-D-01.png",
+     75,
+     [
+      185.5,
+      427.4,
+      414.5,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q61-alt-E-01.png",
+     75,
+     [
+      185.5,
+      473.1,
+      410.0,
+      489.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q62": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "9b6e2be84194",
+   "credito": "162761edd961",
+   "enunciado": "fca1217438d7",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-E-01.png"
+    ]
+   },
+   "previa": "A necessidade de negociação diplomática para via",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-A-01.png",
+     76,
+     [
+      185.5,
+      366.6,
+      394.2,
+      383.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-B-01.png",
+     76,
+     [
+      185.5,
+      412.4,
+      402.5,
+      428.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-C-01.png",
+     76,
+     [
+      185.5,
+      458.1,
+      403.2,
+      474.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-D-01.png",
+     76,
+     [
+      185.5,
+      503.9,
+      411.5,
+      520.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q62-alt-E-01.png",
+     76,
+     [
+      185.5,
+      549.7,
+      416.0,
+      566.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q63": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "4e88562f1e54",
+   "credito": "b66d52fe1a62",
+   "enunciado": "86e8e316fcc3",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-E-01.png"
+    ]
+   },
+   "previa": "Na conjuntura histórica destacada no texto, o de",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-A-01.png",
+     77,
+     [
+      185.5,
+      346.3,
+      621.0,
+      362.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-B-01.png",
+     77,
+     [
+      185.5,
+      392.1,
+      654.0,
+      408.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-C-01.png",
+     77,
+     [
+      185.5,
+      437.9,
+      655.4,
+      454.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-D-01.png",
+     77,
+     [
+      185.5,
+      483.6,
+      683.3,
+      520.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q63-alt-E-01.png",
+     77,
+     [
+      185.5,
+      549.7,
+      683.3,
+      586.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q64": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "adc5101306e4",
+   "credito": "46cbf39fc38b",
+   "enunciado": "05cd728aa1bf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-E-01.png"
+    ]
+   },
+   "previa": "A interação dinâmica entre as forças naturais ci",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-A-01.png",
+     78,
+     [
+      185.5,
+      281.8,
+      289.1,
+      298.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-B-01.png",
+     78,
+     [
+      185.5,
+      327.6,
+      298.8,
+      344.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-C-01.png",
+     78,
+     [
+      185.5,
+      373.3,
+      307.8,
+      389.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-D-01.png",
+     78,
+     [
+      185.5,
+      419.1,
+      317.6,
+      435.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q64-alt-E-01.png",
+     78,
+     [
+      185.5,
+      464.9,
+      333.4,
+      481.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q65": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "da39a3ee5e6b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-E-01.png"
+    ]
+   },
+   "previa": "",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-apoio-01.jpg",
+     79,
+     [
+      158.3,
+      66.5,
+      683.7,
+      615.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-A-01.png",
+     79,
+     [
+      185.5,
+      717.8,
+      337.9,
+      734.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-B-01.png",
+     79,
+     [
+      185.5,
+      763.6,
+      318.4,
+      780.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-C-01.png",
+     79,
+     [
+      185.5,
+      809.3,
+      315.4,
+      825.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-D-01.png",
+     79,
+     [
+      185.5,
+      855.1,
+      292.8,
+      871.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q65-alt-E-01.png",
+     79,
+     [
+      185.5,
+      900.9,
+      288.3,
+      917.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q66": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "bb5090d01a25",
+   "credito": "05f34ae3d693",
+   "enunciado": "7c1d7a3470f0",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-E-01.png"
+    ]
+   },
+   "previa": "Os discursos expressam pontos de vista divergent",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-A-01.png",
+     80,
+     [
+      185.5,
+      528.7,
+      412.2,
+      545.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-B-01.png",
+     80,
+     [
+      185.5,
+      574.5,
+      438.5,
+      591.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-C-01.png",
+     80,
+     [
+      185.5,
+      620.2,
+      446.0,
+      636.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-D-01.png",
+     80,
+     [
+      185.5,
+      666.0,
+      479.8,
+      682.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q66-alt-E-01.png",
+     80,
+     [
+      185.5,
+      711.8,
+      484.3,
+      728.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q67": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "cdae097d64e3",
+   "credito": "c043bb6e3bba",
+   "enunciado": "21c48f1e98ff",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto apresenta uma estratégia usada pelo movi",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-A-01.png",
+     81,
+     [
+      185.5,
+      290.0,
+      337.9,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-B-01.png",
+     81,
+     [
+      185.5,
+      335.8,
+      371.7,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-C-01.png",
+     81,
+     [
+      185.5,
+      381.6,
+      373.9,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-D-01.png",
+     81,
+     [
+      185.5,
+      427.4,
+      385.2,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q67-alt-E-01.png",
+     81,
+     [
+      185.5,
+      473.1,
+      404.0,
+      489.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q68": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "cbf88a47e5b3",
+   "credito": "f990f84e05bf",
+   "enunciado": "b599537cdecd",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-E-01.png"
+    ]
+   },
+   "previa": "As preocupações do governo estadunidense express",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-apoio-01.jpg",
+     82,
+     [
+      158.3,
+      264.7,
+      683.7,
+      693.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-A-01.png",
+     82,
+     [
+      185.5,
+      815.3,
+      460.3,
+      831.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-B-01.png",
+     82,
+     [
+      185.5,
+      861.1,
+      423.5,
+      877.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-C-01.png",
+     82,
+     [
+      185.5,
+      906.9,
+      410.7,
+      923.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-D-01.png",
+     82,
+     [
+      185.5,
+      952.7,
+      401.0,
+      969.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q68-alt-E-01.png",
+     82,
+     [
+      185.5,
+      998.5,
+      391.2,
+      1015.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q69": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "822095b0fa81",
+   "credito": "d5dd2af202d9",
+   "enunciado": "495708f0aedf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-E-01.png"
+    ]
+   },
+   "previa": "Considerando a dinâmica geopolítica subjacente a",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-A-01.png",
+     83,
+     [
+      185.5,
+      290.0,
+      683.2,
+      326.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-B-01.png",
+     83,
+     [
+      185.5,
+      356.1,
+      683.2,
+      392.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-C-01.png",
+     83,
+     [
+      185.5,
+      422.1,
+      660.7,
+      438.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-D-01.png",
+     83,
+     [
+      185.5,
+      467.9,
+      624.0,
+      484.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q69-alt-E-01.png",
+     83,
+     [
+      185.5,
+      513.7,
+      618.0,
+      530.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q70": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "d09012ee7409",
+   "credito": "e2ad72748c40",
+   "enunciado": "e411e5aba7d6",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-E-01.png"
+    ]
+   },
+   "previa": "Considerando o conceito apresentado no Texto I e",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-apoio-01.jpg",
+     84,
+     [
+      158.3,
+      183.6,
+      683.7,
+      598.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-A-01.png",
+     84,
+     [
+      185.5,
+      720.8,
+      279.3,
+      737.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-B-01.png",
+     84,
+     [
+      185.5,
+      766.6,
+      295.1,
+      783.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-C-01.png",
+     84,
+     [
+      185.5,
+      812.3,
+      315.4,
+      828.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-D-01.png",
+     84,
+     [
+      185.5,
+      858.1,
+      334.1,
+      874.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q70-alt-E-01.png",
+     84,
+     [
+      185.5,
+      903.9,
+      357.4,
+      920.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q71": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "37a51199e73e",
+   "credito": "737bf2c2b828",
+   "enunciado": "62aae0a1e882",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-E-01.png"
+    ]
+   },
+   "previa": "Nas sociedades contemporâneas, consiste em viola",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-A-01.png",
+     85,
+     [
+      185.5,
+      290.0,
+      493.3,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-B-01.png",
+     85,
+     [
+      185.5,
+      335.8,
+      501.6,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-C-01.png",
+     85,
+     [
+      185.5,
+      381.6,
+      500.8,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-D-01.png",
+     85,
+     [
+      185.5,
+      427.4,
+      505.3,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q71-alt-E-01.png",
+     85,
+     [
+      185.5,
+      473.1,
+      541.4,
+      489.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q72": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "35f4837ed37b",
+   "credito": "e3680656a329",
+   "enunciado": "7d1951548f57",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-E-01.png"
+    ]
+   },
+   "previa": "A pesquisa desenvolvida retrata a seguinte dinâm",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-A-01.png",
+     86,
+     [
+      185.5,
+      362.8,
+      289.1,
+      379.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-B-01.png",
+     86,
+     [
+      185.5,
+      408.6,
+      291.3,
+      425.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-C-01.png",
+     86,
+     [
+      185.5,
+      454.4,
+      296.6,
+      470.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-D-01.png",
+     86,
+     [
+      185.5,
+      500.2,
+      312.4,
+      516.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q72-alt-E-01.png",
+     86,
+     [
+      185.5,
+      545.9,
+      325.9,
+      562.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q73": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "5f4a03cc5275",
+   "credito": "04dd135f4da2",
+   "enunciado": "ddd5ab8bf526",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-E-01.png"
+    ]
+   },
+   "previa": "Com base no texto, a fixação dessa data comemora",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-A-01.png",
+     87,
+     [
+      185.5,
+      290.0,
+      386.7,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-B-01.png",
+     87,
+     [
+      185.5,
+      335.8,
+      378.4,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-C-01.png",
+     87,
+     [
+      185.5,
+      381.6,
+      374.7,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-D-01.png",
+     87,
+     [
+      185.5,
+      427.4,
+      362.6,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q73-alt-E-01.png",
+     87,
+     [
+      185.5,
+      473.1,
+      357.4,
+      489.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q74": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0d1acb7216ea",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-E-01.png"
+    ]
+   },
+   "previa": "aproveitamento da energia solar é a reduzida",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-apoio-01.jpg",
+     88,
+     [
+      158.3,
+      66.5,
+      683.7,
+      672.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-A-01.png",
+     88,
+     [
+      185.5,
+      795.1,
+      317.6,
+      811.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-B-01.png",
+     88,
+     [
+      185.5,
+      840.9,
+      317.6,
+      857.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-C-01.png",
+     88,
+     [
+      185.5,
+      886.6,
+      344.6,
+      903.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-D-01.png",
+     88,
+     [
+      185.5,
+      932.4,
+      356.6,
+      948.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q74-alt-E-01.png",
+     88,
+     [
+      185.5,
+      978.2,
+      368.7,
+      994.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q75": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "692f6e97c8d2",
+   "credito": "a5d54a5edccd",
+   "enunciado": "a54879512593",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-E-01.png"
+    ]
+   },
+   "previa": "Pelo descrito no texto, o povo Kambeba tem o rio",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-A-01.png",
+     89,
+     [
+      185.5,
+      366.6,
+      379.9,
+      383.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-B-01.png",
+     89,
+     [
+      185.5,
+      412.4,
+      376.9,
+      428.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-C-01.png",
+     89,
+     [
+      185.5,
+      458.1,
+      374.7,
+      474.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-D-01.png",
+     89,
+     [
+      185.5,
+      503.9,
+      359.7,
+      520.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q75-alt-E-01.png",
+     89,
+     [
+      185.5,
+      549.7,
+      355.9,
+      566.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q76": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "5bfe3db49685",
+   "credito": "b53e40e46869",
+   "enunciado": "d16593f2f31a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-E-01.png"
+    ]
+   },
+   "previa": "Na construção do empreendimento descrito, destac",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-A-01.png",
+     90,
+     [
+      185.5,
+      350.8,
+      452.0,
+      367.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-B-01.png",
+     90,
+     [
+      185.5,
+      396.6,
+      450.5,
+      413.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-C-01.png",
+     90,
+     [
+      185.5,
+      442.4,
+      470.0,
+      458.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-D-01.png",
+     90,
+     [
+      185.5,
+      488.1,
+      464.8,
+      504.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q76-alt-E-01.png",
+     90,
+     [
+      185.5,
+      533.9,
+      484.3,
+      550.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q77": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "e7b033971b85",
+   "credito": "788ccabd428f",
+   "enunciado": "e06f1d81a1df",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-E-01.png"
+    ]
+   },
+   "previa": "De acordo com o texto, a importância da medicina",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-A-01.png",
+     91,
+     [
+      185.5,
+      362.1,
+      323.6,
+      378.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-B-01.png",
+     91,
+     [
+      185.5,
+      407.8,
+      342.4,
+      424.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-C-01.png",
+     91,
+     [
+      185.5,
+      453.6,
+      349.1,
+      470.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-D-01.png",
+     91,
+     [
+      185.5,
+      499.4,
+      352.1,
+      515.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q77-alt-E-01.png",
+     91,
+     [
+      185.5,
+      545.2,
+      379.2,
+      561.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q78": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d1202764d01f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-E-01.png"
+    ]
+   },
+   "previa": "Considerando-se que a distância entre o avistado",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-apoio-01.jpg",
+     92,
+     [
+      158.3,
+      98.8,
+      683.7,
+      424.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-A-01.png",
+     92,
+     [
+      185.5,
+      566.9,
+      250.8,
+      583.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-B-01.png",
+     92,
+     [
+      185.5,
+      612.7,
+      258.3,
+      629.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-C-01.png",
+     92,
+     [
+      185.5,
+      658.5,
+      269.6,
+      675.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-D-01.png",
+     92,
+     [
+      185.5,
+      704.3,
+      277.1,
+      720.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q78-alt-E-01.png",
+     92,
+     [
+      185.5,
+      750.1,
+      284.6,
+      766.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q79": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "11216e4380ad",
+   "credito": "59d9bd8b2106",
+   "enunciado": "9ae70e780b5a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-E-01.png"
+    ]
+   },
+   "previa": "Ao descrever-se como patrimônio museológico, o o",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-A-01.png",
+     93,
+     [
+      185.5,
+      427.4,
+      457.3,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-B-01.png",
+     93,
+     [
+      185.5,
+      473.1,
+      477.5,
+      489.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-C-01.png",
+     93,
+     [
+      185.5,
+      518.9,
+      515.1,
+      535.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-D-01.png",
+     93,
+     [
+      185.5,
+      564.7,
+      519.6,
+      581.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q79-alt-E-01.png",
+     93,
+     [
+      185.5,
+      610.5,
+      526.3,
+      627.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q80": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "b313757a3270",
+   "credito": "87b053e8888c",
+   "enunciado": "633dd8ae2593",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-E-01.png"
+    ]
+   },
+   "previa": "Os vínculos entre os fenômenos indicados no trec",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-A-01.png",
+     94,
+     [
+      185.5,
+      350.8,
+      495.5,
+      367.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-B-01.png",
+     94,
+     [
+      185.5,
+      396.6,
+      500.1,
+      413.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-C-01.png",
+     94,
+     [
+      185.5,
+      442.4,
+      509.0,
+      458.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-D-01.png",
+     94,
+     [
+      185.5,
+      488.2,
+      512.9,
+      504.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q80-alt-E-01.png",
+     94,
+     [
+      185.5,
+      533.9,
+      532.3,
+      550.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q81": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "2afb396eec8f",
+   "credito": "80fd1e8f5721",
+   "enunciado": "de885040026c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-E-01.png"
+    ]
+   },
+   "previa": "Com base nos trechos do decreto, as finalidades ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-A-01.png",
+     95,
+     [
+      185.5,
+      439.4,
+      385.2,
+      455.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-B-01.png",
+     95,
+     [
+      185.5,
+      485.2,
+      395.7,
+      501.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-C-01.png",
+     95,
+     [
+      185.5,
+      530.9,
+      404.0,
+      547.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-D-01.png",
+     95,
+     [
+      185.5,
+      576.7,
+      431.8,
+      593.2
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q81-alt-E-01.png",
+     95,
+     [
+      185.5,
+      622.5,
+      430.2,
+      639.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q82": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "da39a3ee5e6b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-E-01.png"
+    ]
+   },
+   "previa": "",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-apoio-01.jpg",
+     96,
+     [
+      195.9,
+      66.5,
+      646.1,
+      478.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-A-01.png",
+     96,
+     [
+      185.5,
+      580.5,
+      353.6,
+      597.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-B-01.png",
+     96,
+     [
+      185.5,
+      626.2,
+      370.9,
+      642.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-C-01.png",
+     96,
+     [
+      185.5,
+      672.0,
+      394.9,
+      688.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-D-01.png",
+     96,
+     [
+      185.5,
+      717.8,
+      397.2,
+      734.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q82-alt-E-01.png",
+     96,
+     [
+      185.5,
+      763.6,
+      405.4,
+      780.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q83": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "823259ac7a40",
+   "credito": "7dfe6827cdf5",
+   "enunciado": "602ffdce9e53",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-E-01.png"
+    ]
+   },
+   "previa": "Em situações como a apresentada no texto, as pes",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-A-01.png",
+     97,
+     [
+      185.5,
+      269.8,
+      240.3,
+      286.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-B-01.png",
+     97,
+     [
+      185.5,
+      315.6,
+      246.3,
+      332.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-C-01.png",
+     97,
+     [
+      185.5,
+      361.3,
+      246.3,
+      377.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-D-01.png",
+     97,
+     [
+      185.5,
+      407.1,
+      253.8,
+      423.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q83-alt-E-01.png",
+     97,
+     [
+      185.5,
+      452.9,
+      265.8,
+      469.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q84": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "374bb0685084",
+   "credito": "d57c58064b2e",
+   "enunciado": "ca41a40fcec0",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-E-01.png"
+    ]
+   },
+   "previa": "De que modo os textos sustentam a existência de ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-A-01.png",
+     98,
+     [
+      185.5,
+      374.1,
+      484.3,
+      390.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-B-01.png",
+     98,
+     [
+      185.5,
+      419.9,
+      506.8,
+      436.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-C-01.png",
+     98,
+     [
+      185.5,
+      465.6,
+      536.1,
+      482.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-D-01.png",
+     98,
+     [
+      185.5,
+      511.4,
+      557.9,
+      527.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q84-alt-E-01.png",
+     98,
+     [
+      185.5,
+      557.2,
+      589.4,
+      573.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q85": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "a7adade49f48",
+   "credito": "5efbde969319",
+   "enunciado": "7827ab5e3bd7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-E-01.png"
+    ]
+   },
+   "previa": "O rito mencionado nos textos demonstra a capacid",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-A-01.png",
+     99,
+     [
+      185.5,
+      511.4,
+      383.7,
+      527.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-B-01.png",
+     99,
+     [
+      185.5,
+      557.2,
+      372.4,
+      573.7
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-C-01.png",
+     99,
+     [
+      185.5,
+      603.0,
+      361.9,
+      619.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-D-01.png",
+     99,
+     [
+      185.5,
+      648.7,
+      362.7,
+      665.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q85-alt-E-01.png",
+     99,
+     [
+      185.5,
+      694.5,
+      343.1,
+      711.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q86": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "cb5f4cb67942",
+   "credito": "99b82c64f013",
+   "enunciado": "4e6485fae373",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-E-01.png"
+    ]
+   },
+   "previa": "O texto propõe uma reflexão sobre o entendimento",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-A-01.png",
+     100,
+     [
+      185.5,
+      290.0,
+      373.2,
+      306.5
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-B-01.png",
+     100,
+     [
+      185.5,
+      335.8,
+      374.7,
+      352.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-C-01.png",
+     100,
+     [
+      185.5,
+      381.6,
+      385.2,
+      398.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-D-01.png",
+     100,
+     [
+      185.5,
+      427.4,
+      389.7,
+      443.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q86-alt-E-01.png",
+     100,
+     [
+      185.5,
+      473.1,
+      409.2,
+      489.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q87": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "c46499e3badf",
+   "credito": "e6c5469bab95",
+   "enunciado": "da2b57a17d1b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-E-01.png"
+    ]
+   },
+   "previa": "O processo de concentração espacial apresentado ",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-A-01.png",
+     101,
+     [
+      185.5,
+      326.1,
+      353.7,
+      342.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-B-01.png",
+     101,
+     [
+      185.5,
+      371.8,
+      377.0,
+      388.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-C-01.png",
+     101,
+     [
+      185.5,
+      417.6,
+      380.7,
+      434.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-D-01.png",
+     101,
+     [
+      185.5,
+      463.4,
+      406.2,
+      479.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q87-alt-E-01.png",
+     101,
+     [
+      185.5,
+      509.2,
+      410.7,
+      525.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q88": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e8f1fafd6097",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-E-01.png"
+    ]
+   },
+   "previa": "Entretanto, nosso amigo Basso tem o ânimo alegre",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-A-01.png",
+     102,
+     [
+      185.5,
+      249.5,
+      395.7,
+      266.0
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-B-01.png",
+     102,
+     [
+      185.5,
+      295.3,
+      384.4,
+      311.8
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-C-01.png",
+     102,
+     [
+      185.5,
+      341.1,
+      381.4,
+      357.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-D-01.png",
+     102,
+     [
+      185.5,
+      386.8,
+      334.1,
+      403.3
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q88-alt-E-01.png",
+     102,
+     [
+      185.5,
+      432.6,
+      334.1,
+      449.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q89": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "ad8a89377a04",
+   "credito": "f6d3f8ac134c",
+   "enunciado": "c631a39c3048",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-E-01.png"
+    ]
+   },
+   "previa": "As sociedades mencionadas deixaram como legado u",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-A-01.png",
+     103,
+     [
+      185.5,
+      371.1,
+      441.5,
+      387.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-B-01.png",
+     103,
+     [
+      185.5,
+      416.9,
+      479.0,
+      433.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-C-01.png",
+     103,
+     [
+      185.5,
+      462.6,
+      503.0,
+      479.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-D-01.png",
+     103,
+     [
+      185.5,
+      508.4,
+      504.5,
+      524.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q89-alt-E-01.png",
+     103,
+     [
+      185.5,
+      554.2,
+      541.3,
+      570.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-digital-d1-q90": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "286d0dd2b5ed",
+   "credito": "34daed4c4eb1",
+   "enunciado": "ecd180fe93d2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-E-01.png"
+    ]
+   },
+   "previa": "Uma característica de práticas tradicionais como",
+   "recortes": [
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-A-01.png",
+     104,
+     [
+      185.5,
+      371.1,
+      382.2,
+      387.6
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-B-01.png",
+     104,
+     [
+      185.5,
+      416.9,
+      392.0,
+      433.4
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-C-01.png",
+     104,
+     [
+      185.5,
+      462.6,
+      389.0,
+      479.1
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-D-01.png",
+     104,
+     [
+      185.5,
+      508.4,
+      425.0,
+      524.9
+     ]
+    ],
+    [
+     "/questoes/2022/digital/dia1/enem-2022-digital-d1-q90-alt-E-01.png",
+     104,
+     [
+      185.5,
+      554.2,
+      428.0,
+      570.7
+     ]
+    ]
+   ]
+  }
+ }
+}

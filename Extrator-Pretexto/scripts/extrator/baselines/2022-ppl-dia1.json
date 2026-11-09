@@ -1,0 +1,1955 @@
+{
+ "extraidas": 95,
+ "ignoradas": [],
+ "motor": "v2022",
+ "perfil": "motor v2022",
+ "questoes": {
+  "enem-2022-ppl-d1-q01-esp": {
+   "alternativas": [
+    "14db5712ebd9",
+    "48597a2f667d",
+    "74703dd7ecde",
+    "41fc70c1109b",
+    "21737f7cafa6"
+   ],
+   "apoio": "6247b3cf0eec",
+   "credito": "7d73e10a68f0",
+   "enunciado": "6b60373c8f33",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Carlos Fuentes faz uma reflexão sobre o papel da",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q01-ing": {
+   "alternativas": [
+    "e5058561890a",
+    "187922b66240",
+    "990bbb15c21f",
+    "a78c1db7e0a3",
+    "8422bf6d53c5"
+   ],
+   "apoio": "d0ff58974a9b",
+   "credito": "5ce2b4582d55",
+   "enunciado": "ebb4067f859d",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-01.png",
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-02.png",
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-03.png",
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-04.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Esse infográfico composto de textos verbais e nã",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-01.png",
+     2,
+     [
+      33.0,
+      173.6,
+      149.0,
+      219.1
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-02.png",
+     2,
+     [
+      122.7,
+      210.1,
+      179.9,
+      270.0
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-03.png",
+     2,
+     [
+      33.0,
+      276.1,
+      78.2,
+      321.2
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-04.png",
+     2,
+     [
+      117.7,
+      327.3,
+      163.0,
+      372.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q02-esp": {
+   "alternativas": [
+    "585d5940c66d",
+    "6744813e640e",
+    "d4bc4f053a0e",
+    "e776b856783b",
+    "314f4417f1ab"
+   ],
+   "apoio": "18f8c6e4a573",
+   "credito": "578b7160bf83",
+   "enunciado": "53ee198da448",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A expressão “Como en casa”, que intitula o texto",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q02-ing": {
+   "alternativas": [
+    "3cb229a9fb12",
+    "688a28746abe",
+    "f9bd2d742f20",
+    "575d2421ad7d",
+    "2baa81a586ea"
+   ],
+   "apoio": "f52195b91eba",
+   "credito": "1b8b70b82be2",
+   "enunciado": "b1a997f62e30",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa passagem de um clássico de Ernest Hemingwa",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q03-esp": {
+   "alternativas": [
+    "bf82405d5638",
+    "28af1e7feb4e",
+    "ddffa6b4b0e9",
+    "698431fb9d64",
+    "84d3725daa42"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "2ad94d2e2bdd",
+   "enunciado": "25fa9f2cd76b",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q03-esp-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Essa campanha publicitária evidencia um problema",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q03-esp-apoio-01.jpg",
+     4,
+     [
+      32.3,
+      87.8,
+      273.4,
+      177.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q03-ing": {
+   "alternativas": [
+    "17b8e7b371e1",
+    "5e479bc77550",
+    "d3974ba84945",
+    "23379b2d0ed3",
+    "e55dcef228c2"
+   ],
+   "apoio": "3bf0b68f18cd",
+   "credito": "a41da608106c",
+   "enunciado": "ec7adf95bb37",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse trecho do romance Parable of the Sower, os",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q04-esp": {
+   "alternativas": [
+    "863680bd8576",
+    "6b3f20cc5ab4",
+    "9b926bcf0e38",
+    "98bd359e6607",
+    "98d27864024f"
+   ],
+   "apoio": "1123efff0def",
+   "credito": "fc3e1b41cb44",
+   "enunciado": "82921c05b83c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto a reivindicação de membros do po",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q04-ing": {
+   "alternativas": [
+    "c55ffb11b412",
+    "48ddfdcc48db",
+    "37e93d769a8e",
+    "d705381f17ca",
+    "513c8471d222"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "934408a06d09",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q04-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os recursos verbais e não verbais do cartum faze",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q04-ing-apoio-01.jpg",
+     2,
+     [
+      289.4,
+      428.4,
+      536.3,
+      613.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q05-esp": {
+   "alternativas": [
+    "99fb7edcd450",
+    "ee7ddcc24238",
+    "99efb77ab658",
+    "ebf856069af2",
+    "f8681a724100"
+   ],
+   "apoio": "3400a5fd6fa1",
+   "credito": "110f164e578a",
+   "enunciado": "cc06e1144933",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto aproxima elementos culturais distintos n",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q05-ing": {
+   "alternativas": [
+    "541cbe53c922",
+    "71781f4a1db3",
+    "c86a3990e695",
+    "5def527c94ca",
+    "433edd7652e5"
+   ],
+   "apoio": "6fa1bd8b1ec9",
+   "credito": "ff1e1c4d96d6",
+   "enunciado": "145c6b2d3076",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O autor dessa carta se reporta ao editor de um j",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q06": {
+   "alternativas": [
+    "496d20e7607c",
+    "ef2b149469fd",
+    "187fe31aad30",
+    "a69c7f64bb01",
+    "dacb2fbac357"
+   ],
+   "apoio": "83f0f16033cc",
+   "credito": "4ff5f51c0802",
+   "enunciado": "979f99d1b748",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O povo Wajãp que vive na Serra do Tumucumaque en",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q07": {
+   "alternativas": [
+    "e21697b45f1b",
+    "7e6370d0d9e3",
+    "df5f38db8c17",
+    "db272caa1791",
+    "e9ec2d1fc320"
+   ],
+   "apoio": "bca4723f822a",
+   "credito": "17e7c0577dce",
+   "enunciado": "4df5d7ace835",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na comparação entre os dois textos constata-se q",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q08": {
+   "alternativas": [
+    "b266e33ccf63",
+    "eeccdbd3a445",
+    "3f27224fc0d4",
+    "36e0304d2d08",
+    "7dba685210ff"
+   ],
+   "apoio": "1bb6c4143d25",
+   "credito": "8b80b397aec6",
+   "enunciado": "1f5c7f397843",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A situação descrita no fragmento aproxima-o dos ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q09": {
+   "alternativas": [
+    "aeeed64e6fb3",
+    "78f67f48460e",
+    "145231144265",
+    "e963dcc4307e",
+    "39b1f93ca8a0"
+   ],
+   "apoio": "8bb1262529ab",
+   "credito": "506122244950",
+   "enunciado": "e74c909c5e6a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Dentre os jogos e as brincadeiras expressos na c",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q10": {
+   "alternativas": [
+    "a1671104b577",
+    "8b1ef463da83",
+    "d3829756ed07",
+    "d86cde8d6f80",
+    "f5b6e867241f"
+   ],
+   "apoio": "a0742f8e831a",
+   "credito": "581dd3cd10dc",
+   "enunciado": "ea53d5f26cd0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A modalidade esportiva apresentada no texto cara",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q11": {
+   "alternativas": [
+    "0e786a499baa",
+    "d99d827595dc",
+    "ccf96e3715af",
+    "be9241dab14f",
+    "e7afd1fddebf"
+   ],
+   "apoio": "df36890d2665",
+   "credito": "fbcaba9e22c8",
+   "enunciado": "172f7afdd112",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ludwig van Beethoven (1770-1827) é mundialmente ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q12": {
+   "alternativas": [
+    "a64c64feb4dd",
+    "4bf1acef2bce",
+    "fdb85a1b1399",
+    "e4706aeca35a",
+    "a3b5d8fa3d3c"
+   ],
+   "apoio": "b945a781947c",
+   "credito": "d28105b84f57",
+   "enunciado": "ca2f1f0beea0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto a relação entre os personagens adquire ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q13": {
+   "alternativas": [
+    "28e4e2610467",
+    "f4e0847d61bc",
+    "087b6fa7bdab",
+    "cc6232f54402",
+    "8bcea280b78e"
+   ],
+   "apoio": "22f3ca8520c5",
+   "credito": "54c9504b444e",
+   "enunciado": "e63ab6ecf65d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto o apelido dado ao personagem incorpora ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q14": {
+   "alternativas": [
+    "7b0e5093dbee",
+    "4ecada319388",
+    "b8e68fd3e513",
+    "afd8bce10bfe",
+    "947d1f7825cc"
+   ],
+   "apoio": "fb8b04616aef",
+   "credito": "20c643a0915e",
+   "enunciado": "45343133b837",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto a atividade física é associada à preven",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q15": {
+   "alternativas": [
+    "6d31048c1060",
+    "381bf7c37a0d",
+    "7e5d7bb9e3c3",
+    "ccb32d2ae513",
+    "041e2621bae5"
+   ],
+   "apoio": "6814690d315e",
+   "credito": "37270beb543f",
+   "enunciado": "f33657997e34",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O fragmento remete a uma composição poética insp",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q16": {
+   "alternativas": [
+    "03ab76a27291",
+    "c9111c877361",
+    "3bb4bb75cf8b",
+    "c1ecd746ecf8",
+    "a75d189ac0eb"
+   ],
+   "apoio": "ec8d0ee77e8d",
+   "credito": "22d84cde5630",
+   "enunciado": "fb518fb79729",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto relata o momento em que no leito de mort",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q17": {
+   "alternativas": [
+    "540a9d6fcfc8",
+    "62978c8cf93a",
+    "7c3f0edcf97e",
+    "c192999c54cc",
+    "f11419516f43"
+   ],
+   "apoio": "8c8a066d7798",
+   "credito": "535fdb1b28b2",
+   "enunciado": "54d95c2e0cc5",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os procedimentos de construção conferem original",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q18": {
+   "alternativas": [
+    "ba7cff7118b2",
+    "747b40d4c872",
+    "3467f105f76d",
+    "89cd3ce5acc9",
+    "c8620c5549a0"
+   ],
+   "apoio": "94ec1b66e1ec",
+   "credito": "bea53c5e365b",
+   "enunciado": "a097c1a6c5c5",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para convencer o leitor de que a reciclagem de h",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q19": {
+   "alternativas": [
+    "3871c0891287",
+    "ec794737fc25",
+    "6f3324e7189d",
+    "047e9d551576",
+    "c403706551fa"
+   ],
+   "apoio": "d11ffcb81b9b",
+   "credito": "062788127b55",
+   "enunciado": "e37e1e6b2402",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação aos boatos que circulam ininterruptam",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q20": {
+   "alternativas": [
+    "56055db20a8a",
+    "06ade56a124f",
+    "ad17d3598627",
+    "2dd7b236ef4c",
+    "e55219383882"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "c5851fd07c19",
+   "enunciado": "0b0228d759cd",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q20-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "No cartum o confronto entre primatas produz um e",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q20-apoio-01.jpg",
+     10,
+     [
+      32.1,
+      86.4,
+      276.9,
+      223.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q21": {
+   "alternativas": [
+    "47f9a8a15801",
+    "d8e739d6f2b9",
+    "bda87f1b0c1d",
+    "f2fe1785a88f",
+    "8eba3e9f4136"
+   ],
+   "apoio": "f2bb936fe429",
+   "credito": "ef7e04dc3eb0",
+   "enunciado": "d8c7353f6131",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A sinopse para convencer o leitor a assistir ao ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q22": {
+   "alternativas": [
+    "c35680603fd3",
+    "a5ca04626b12",
+    "08e582ad4903",
+    "de3f1eb855d7",
+    "0da0bd11b544"
+   ],
+   "apoio": "c640d0185c6c",
+   "credito": "9077f636e150",
+   "enunciado": "adb6a04d3cfc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esses dois textos têm temáticas diferentes na me",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q23": {
+   "alternativas": [
+    "7bc10a2ef43b",
+    "2a5a57d3d749",
+    "1e6fec8a6cd2",
+    "9ecaa45c4b59",
+    "b42fa7a3d0be"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "fd2ebdd187fe",
+   "enunciado": "2a8d49963ff7",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q23-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O ano de 2005 foi importante para a arte indiana",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q23-apoio-01.jpg",
+     11,
+     [
+      61.6,
+      89.2,
+      247.4,
+      308.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q24": {
+   "alternativas": [
+    "c7b4cfc27c73",
+    "979a47886d3a",
+    "fd805b3762ea",
+    "2f01039347d3",
+    "5a452d975cbc"
+   ],
+   "apoio": "82440c610eae",
+   "credito": "fe848707f80a",
+   "enunciado": "2db9d9928d57",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Diante dessa nova concepção artística a cor é",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q25": {
+   "alternativas": [
+    "e1b0fc784fb2",
+    "160aaf73f659",
+    "e32ef312a762",
+    "285a271506e5",
+    "8fff810ffaea"
+   ],
+   "apoio": "68988e4ff7e2",
+   "credito": "894fcfbdb78a",
+   "enunciado": "e76ac6a4c9ad",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa ideia nacionalista surgiu dos sonhos de Már",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q26": {
+   "alternativas": [
+    "0163dc22be81",
+    "731f5ec4701d",
+    "b083350d22ef",
+    "dbb113833d4d",
+    "5a9521541076"
+   ],
+   "apoio": "a71ecc12ccfe",
+   "credito": "8dc4e96ad0c2",
+   "enunciado": "ed01a62b565a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse texto de divulgação científica utiliza como",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q27": {
+   "alternativas": [
+    "f8c9ca55860b",
+    "b9ee65309a23",
+    "4a0163298f28",
+    "c51f54ed1f6d",
+    "b71335b44be1"
+   ],
+   "apoio": "948bb864b6c3",
+   "credito": "0433993be199",
+   "enunciado": "e28b399344b7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse verbete de dicionário a apropriação adequa",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q28": {
+   "alternativas": [
+    "9b24413aff6f",
+    "7c5dad0ccb5b",
+    "395095a40969",
+    "76af56e6ebd8",
+    "0e925c943222"
+   ],
+   "apoio": "7c1684f369bc",
+   "credito": "2a85c8231357",
+   "enunciado": "03c16c582f38",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q28-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nessa conversa por aplicativo em que se evidenci",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q28-apoio-01.jpg",
+     12,
+     [
+      350.2,
+      241.1,
+      474.4,
+      552.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q29": {
+   "alternativas": [
+    "010b5ddacb0d",
+    "b57d505b42f9",
+    "e140c1a05d49",
+    "cb122bf0f2d5",
+    "a83294b18ae3"
+   ],
+   "apoio": "2164c77c0f51",
+   "credito": "68e28f7aaf56",
+   "enunciado": "91429b3c2322",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-01.png",
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Esse cartaz tem como função socia conquistar cli",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-01.png",
+     13,
+     [
+      70.5,
+      102.0,
+      227.2,
+      134.0
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-02.png",
+     13,
+     [
+      58.7,
+      236.3,
+      231.1,
+      376.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q30": {
+   "alternativas": [
+    "9fb696d91e58",
+    "d98f63b45b32",
+    "c155acad5ec0",
+    "f5276eef1597",
+    "281ce1420238"
+   ],
+   "apoio": "2ff37ef258d2",
+   "credito": "71a1a823a163",
+   "enunciado": "bbb00dd8fbcd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao problematizar os modos de ler notícias e a ne",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q31": {
+   "alternativas": [
+    "9f6c5e11b470",
+    "1608bc6ed4c5",
+    "0c34efc6ab21",
+    "bf3219d91f95",
+    "2d176237c1cf"
+   ],
+   "apoio": "0e3d901bbeb6",
+   "credito": "833335a4279f",
+   "enunciado": "3f96346ffed7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sob diferentes perspectivas os textos e I aborda",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q32": {
+   "alternativas": [
+    "c203a94638d6",
+    "fb4cbff9f9c6",
+    "7294cc751df8",
+    "d2b1b396bf9c",
+    "56f2f3e33610"
+   ],
+   "apoio": "db3e0d9b11df",
+   "credito": "ac4dd9700edf",
+   "enunciado": "18a11aaaaf90",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto cita a opinião de uma psicóloga como est",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q33": {
+   "alternativas": [
+    "4250537fbe7e",
+    "a7b83082dfe9",
+    "c5671bccb579",
+    "d84eacd7e59a",
+    "ebf53d5c67f6"
+   ],
+   "apoio": "9b6a2651f0c4",
+   "credito": "2f79d98c1029",
+   "enunciado": "8a06ddfb7ba0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Da leitura do texto depreende-se que o patrimôni",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q34": {
+   "alternativas": [
+    "4c31d369da53",
+    "faa359ad5f17",
+    "75fcdf688f38",
+    "8bb8a58cce71",
+    "a684c8cd862b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b83058462dd3",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q34-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Ao abordar a temática da violência contra a mulh",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q34-apoio-01.jpg",
+     15,
+     [
+      289.8,
+      80.0,
+      535.1,
+      437.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q35": {
+   "alternativas": [
+    "321028e13dc2",
+    "3aefcd1602cc",
+    "2b423fc52ed6",
+    "85a95fd07a6b",
+    "0380a782cda8"
+   ],
+   "apoio": "700cfac6b2f8",
+   "credito": "6068a35111da",
+   "enunciado": "8a35af158e3f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base nessa reflexão acerca do livro Sociedad",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q36": {
+   "alternativas": [
+    "828513078d95",
+    "72d58dc78a3a",
+    "9aaf0a91ca06",
+    "bbc655a703f4",
+    "f9732e4ae5d0"
+   ],
+   "apoio": "181be86304db",
+   "credito": "ad12dd15df22",
+   "enunciado": "049597232598",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O discurso de Ulysses Guimarães apresenta caract",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q37": {
+   "alternativas": [
+    "ff86087752ae",
+    "e203840c32c1",
+    "091c9eef04f4",
+    "d14b583aece7",
+    "a29ec39ee7dc"
+   ],
+   "apoio": "f0dd1cf5ed54",
+   "credito": "ef903d3ef210",
+   "enunciado": "4b748d4a40db",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto a autora propõe o uso metafórico da err",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q38": {
+   "alternativas": [
+    "a4a8994ac58d",
+    "c174da4918d4",
+    "dc1d6b114b15",
+    "03fa7dfd9251",
+    "ac64646b2fef"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b39f8f40fed6",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q38-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Pelo modo como seleciona e organiza as informaçõ",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q38-apoio-01.png",
+     17,
+     [
+      33.6,
+      460.1,
+      277.8,
+      730.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q39": {
+   "alternativas": [
+    "00a4fa860abd",
+    "e985ab67be67",
+    "ed46ae783912",
+    "f49d4fe1663f",
+    "a33b28aa0166"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6059dd7f7281",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q39-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As informações contidas no texto dessa campanha ",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q39-apoio-01.jpg",
+     17,
+     [
+      290.0,
+      249.5,
+      534.9,
+      474.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q40": {
+   "alternativas": [
+    "14fd776074b8",
+    "fd521e181681",
+    "b30e6468b09e",
+    "262686a25f20",
+    "769cb79af816"
+   ],
+   "apoio": "d1e42b9c2b4d",
+   "credito": "29d720e7765b",
+   "enunciado": "96f0758b371f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto no contexto da pandemia a relaçã",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q41": {
+   "alternativas": [
+    "088f42ed66ad",
+    "e769122bfdbb",
+    "8a7cd13cdd9b",
+    "3a6ad714d285",
+    "1626ef34931f"
+   ],
+   "apoio": "033595a0d73f",
+   "credito": "285c7393ac00",
+   "enunciado": "b84088cd45c7",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma das principais mudanças nas regras do voleib",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q42": {
+   "alternativas": [
+    "4dcdc8ea5820",
+    "d5dab2afceaa",
+    "72c86ca9900b",
+    "baac2e870684",
+    "50125ad80c3a"
+   ],
+   "apoio": "41269a23e7ee",
+   "credito": "a51750d61bdb",
+   "enunciado": "8f0c7e170e1a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As perguntas ao fina do texto estão relacionadas",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q43": {
+   "alternativas": [
+    "717d5dc8c657",
+    "5a4c21821e7e",
+    "6a8ce5a7aba8",
+    "679ca3991aaa",
+    "7d56cb109af2"
+   ],
+   "apoio": "c4655b50c588",
+   "credito": "780419952647",
+   "enunciado": "6a34bb855a1e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo esse texto as impressoras tridimensionai",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q44": {
+   "alternativas": [
+    "1f20e03be3c7",
+    "490531b63bbb",
+    "e6d868c67301",
+    "576ac2676f90",
+    "0a7d2b7a481d"
+   ],
+   "apoio": "506511591318",
+   "credito": "4e8a928a14df",
+   "enunciado": "c44d614a9d0c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As sociedades têm evoluído concomitantemente ao ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q45": {
+   "alternativas": [
+    "9c308938f13a",
+    "a68497ad0f7d",
+    "ec5105442637",
+    "fa0b58662672",
+    "72815529cde9"
+   ],
+   "apoio": "cf5c029eac1a",
+   "credito": "d266c18b10a7",
+   "enunciado": "9a90ee1290a8",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma causa determinante que contribu para a anore",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q46": {
+   "alternativas": [
+    "4a51be0b37cc",
+    "f1d0b3208e48",
+    "9fdadc6acc5c",
+    "e61d3ad0473c",
+    "cbe027912ed4"
+   ],
+   "apoio": "ca9dba678a7f",
+   "credito": "cd66725f1a6b",
+   "enunciado": "c858f3c89cce",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O contrapoder indicado no texto se expressa na",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q47": {
+   "alternativas": [
+    "fec7c5ad5c38",
+    "c8753cf98d91",
+    "29d07b193670",
+    "52b0575eaf16",
+    "514b762d6a98"
+   ],
+   "apoio": "30af1d39ddc3",
+   "credito": "068b19ae01d5",
+   "enunciado": "89cc99edc0c0",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na perspectiva apresentada no texto as melhorias",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q48": {
+   "alternativas": [
+    "e8228165f9a7",
+    "ccf4381aed87",
+    "81c2770fd5e3",
+    "47baf2cb67ab",
+    "b1f034e098b9"
+   ],
+   "apoio": "2d1b55415ce0",
+   "credito": "bd9f59d9eb01",
+   "enunciado": "b5ed48bd738c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sobre a flexibilidade o ponto de vista apresenta",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q49": {
+   "alternativas": [
+    "68a70964835c",
+    "8ca534d9ff29",
+    "4bd02b3bf723",
+    "b8df17e2d6e9",
+    "7ae3dbd1f5bd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "3962c4215c29",
+   "enunciado": "1a9c1d830142",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q49-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A charge publicada em 1907 concorda com a ação d",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q49-apoio-01.jpg",
+     21,
+     [
+      288.6,
+      402.7,
+      536.1,
+      588.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q50": {
+   "alternativas": [
+    "401d089677ce",
+    "2962ee4551c9",
+    "ec0c919492e4",
+    "925f09b9fd0d",
+    "f97326283de9"
+   ],
+   "apoio": "1e16ddaaaf0a",
+   "credito": "c39eca8e7892",
+   "enunciado": "8ec3925744df",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na conjuntura histórica abordada no texto surgiu",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q51": {
+   "alternativas": [
+    "ce7b5bd09a86",
+    "03f50a345028",
+    "e21d8d0a5abd",
+    "2825f3c4335a",
+    "2ad1c71a96e5"
+   ],
+   "apoio": "1ce5c0df0050",
+   "credito": "fd2a1056dfe8",
+   "enunciado": "f8575681a1c2",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q51-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para os mecanismos de uso do espaço geográfico o",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q51-apoio-01.png",
+     22,
+     [
+      30.7,
+      482.4,
+      278.8,
+      495.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q52": {
+   "alternativas": [
+    "d6436304ac42",
+    "b31e38fc2d4e",
+    "2183909683fb",
+    "5b78d3c42639",
+    "af5fb8100931"
+   ],
+   "apoio": "cdc6e4e4f3e3",
+   "credito": "1873561ff4b2",
+   "enunciado": "52dfa6ef69be",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse acontecimento motivou uma série de moviment",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q53": {
+   "alternativas": [
+    "49356a682357",
+    "5e4128bbd98a",
+    "a266af4193b4",
+    "f6de4eaa6a09",
+    "dff01b192c7a"
+   ],
+   "apoio": "55c1d63dd54c",
+   "credito": "fcd94fad66d2",
+   "enunciado": "36dffd613077",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos mesmo apresentando distintos pontos de",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q54": {
+   "alternativas": [
+    "c095541b2ce1",
+    "656acdf27c19",
+    "be4422f36dff",
+    "3fa535c36d8b",
+    "b69314131350"
+   ],
+   "apoio": "8c1913d8a27d",
+   "credito": "9d9d71c257ec",
+   "enunciado": "43d8f4ecc022",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A unificação da pauta dos movimentos sociais int",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q55": {
+   "alternativas": [
+    "de8281100791",
+    "f271a2ce9cdc",
+    "dd06405d4b6a",
+    "29ae4f47f517",
+    "10ee21bc38b5"
+   ],
+   "apoio": "6beb5e747257",
+   "credito": "079340e758a1",
+   "enunciado": "662c8e5a4bb7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A dinâmica demográfica descrita resulta no proce",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q56": {
+   "alternativas": [
+    "64124ed0e841",
+    "dfd5d5ca8192",
+    "f32b328d53c4",
+    "102b51708a16",
+    "d5b3d480944f"
+   ],
+   "apoio": "c4f84d642c1c",
+   "credito": "603c11356234",
+   "enunciado": "12d169589292",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto evoca duas explicações acerca da legitim",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q57": {
+   "alternativas": [
+    "7ea2ea10821b",
+    "a9742840ad94",
+    "91b50c936c78",
+    "e211596f4ac9",
+    "db0309137e18"
+   ],
+   "apoio": "28be7f32d247",
+   "credito": "a30aa7f54bc8",
+   "enunciado": "08c6417565bb",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O antropólogo Darcy Ribeiro em sua análise sobre",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q58": {
+   "alternativas": [
+    "c865e46652ff",
+    "49fa91f42995",
+    "7c9f7ceb69b8",
+    "5d08a302834b",
+    "b3971adc24b8"
+   ],
+   "apoio": "755d20392f5c",
+   "credito": "37df1efb3a10",
+   "enunciado": "e8652d2c2385",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para minimizar essa problemática apresentada no ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q59": {
+   "alternativas": [
+    "1ef5f8f9dfbf",
+    "0070593b777a",
+    "189a1f047d7a",
+    "5acc65319321",
+    "e2688f76482f"
+   ],
+   "apoio": "6c0a41307543",
+   "credito": "3498135ffb60",
+   "enunciado": "c1af5293716f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A que valor da contemporaneidade o entendimento ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q60": {
+   "alternativas": [
+    "5a9d16b826cd",
+    "2d99513ff242",
+    "752fc63fda10",
+    "d53b81528065",
+    "956a7ec72fa1"
+   ],
+   "apoio": "ec05d9ba196d",
+   "credito": "a37bc49148a5",
+   "enunciado": "68322cd16ac7",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto durante a ocupação da Amaz",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q61": {
+   "alternativas": [
+    "8a6180727e61",
+    "3780209bc9b9",
+    "8a2b6c33beef",
+    "f47225f663c4",
+    "25572fc41cdc"
+   ],
+   "apoio": "79ee09a4020f",
+   "credito": "daa18b408d36",
+   "enunciado": "6418800d240c",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q61-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Reunindo natureza e cultura a festividade descri",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q61-apoio-01.jpg",
+     24,
+     [
+      289.1,
+      217.2,
+      535.8,
+      318.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q62": {
+   "alternativas": [
+    "33b8df187cff",
+    "c67186c2c42c",
+    "6385f6f43ed7",
+    "80be202e2390",
+    "aeb60f231352"
+   ],
+   "apoio": "6f448e463e0c",
+   "credito": "210c654dcdfb",
+   "enunciado": "448a34478c64",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto aponta para a emergência a partir de mea",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q63": {
+   "alternativas": [
+    "3e66c2c80a46",
+    "700047e186d1",
+    "b2dfc86909d0",
+    "99378c2ae01f",
+    "4f27f4fc6a0d"
+   ],
+   "apoio": "0ab6e3cc994b",
+   "credito": "89b0a9664f97",
+   "enunciado": "6f868791dcaf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o autor a conquista e a conservação do p",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q64": {
+   "alternativas": [
+    "9a1aeeaa0556",
+    "d66432b36a6b",
+    "f5ce49c215ea",
+    "aea92cf9c537",
+    "4527d7f5e353"
+   ],
+   "apoio": "3cd067a59f2f",
+   "credito": "bf7113c6f370",
+   "enunciado": "889b4409e22b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para as mulheres apresentadas no texto a reflexã",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q65": {
+   "alternativas": [
+    "3a1336ca141c",
+    "fb88b6029636",
+    "b2792ccf96db",
+    "6973485011ae",
+    "546ccfc25fd7"
+   ],
+   "apoio": "f581e64f9a54",
+   "credito": "6f86bd0ef448",
+   "enunciado": "4f829e78cf73",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto indica que a velocidade de ocupação do a",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q66": {
+   "alternativas": [
+    "40c1c62bc2a6",
+    "b4501a4c299f",
+    "aee2cffcb4b3",
+    "1cbfd2ea8fa1",
+    "1b9404d30c8a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e1e09e9b68d4",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q66-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A capa do jornal A Vóz da Raça da década de 1930",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q66-apoio-01.jpg",
+     25,
+     [
+      290.5,
+      188.3,
+      534.1,
+      294.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q67": {
+   "alternativas": [
+    "52dfe1f08c06",
+    "06a3f1ecbba6",
+    "deb7430dd5e8",
+    "ec14be10fed7",
+    "63c1c11c49bc"
+   ],
+   "apoio": "59fb59d38f33",
+   "credito": "4c75b1771f1b",
+   "enunciado": "91a6f12dcbb3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A iniciativa de uso agrícola do solo descrita no",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q68": {
+   "alternativas": [
+    "c0b4e7217efb",
+    "0a9367f908dc",
+    "9bd0482bd02a",
+    "a05b09d29838",
+    "ead1b86e7a20"
+   ],
+   "apoio": "93d14bdabcec",
+   "credito": "e66b8ce06b62",
+   "enunciado": "4277e955aecc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto ressalta um aspecto fundamental da produ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q69": {
+   "alternativas": [
+    "ff5c7971a7c8",
+    "35beddb238d0",
+    "fb7533c7d4c7",
+    "4aa2c36fc9d8",
+    "5cf22017144b"
+   ],
+   "apoio": "609e5c49a7fc",
+   "credito": "c020ef7fde1b",
+   "enunciado": "9d04a547262c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A construção do sujeito histórico mencionado pel",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q70": {
+   "alternativas": [
+    "0f10e15719df",
+    "2f2b4f8699b6",
+    "e4bb2558e6ae",
+    "42a4f01aefd9",
+    "0b14b83b19a1"
+   ],
+   "apoio": "cfc5942c5c9c",
+   "credito": "4063cfab54e7",
+   "enunciado": "4502f82ccae2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um problema geopolítico contemporâneo que está e",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q71": {
+   "alternativas": [
+    "5e9da484f5d8",
+    "ffd3930b644a",
+    "35ff36551cfa",
+    "3ba999583d1c",
+    "087a0b4e7efa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "55b7c7c98f72",
+   "enunciado": "c7475c63d848",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q71-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Na imagem está registrada a estratégia de atuaçã",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q71-apoio-01.jpg",
+     26,
+     [
+      290.1,
+      174.6,
+      534.8,
+      312.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q72": {
+   "alternativas": [
+    "a7361c289032",
+    "fe21ad17f396",
+    "acb6b539357b",
+    "c43758c47b05",
+    "d5307bc4b9bb"
+   ],
+   "apoio": "85d437fafc46",
+   "credito": "aa0cc53d4f2d",
+   "enunciado": "2881e6525a48",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto na produção e circulação d",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q73": {
+   "alternativas": [
+    "746b4dd9fcb0",
+    "fba4e21d6624",
+    "55851c2284d2",
+    "58bee0d58cdc",
+    "fee0935de5a8"
+   ],
+   "apoio": "72357d7581fb",
+   "credito": "56a48512bb18",
+   "enunciado": "bd83cc802979",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Inspirada no livro Admirável mundo novo de Aldou",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q74": {
+   "alternativas": [
+    "70e856f1fcba",
+    "fa70c1b74351",
+    "40d329558f38",
+    "97e8d1dd72a4",
+    "ec116e46a500"
+   ],
+   "apoio": "f2c42f145696",
+   "credito": "ee81ac475899",
+   "enunciado": "3ec54e95c1a4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O argumento levantado no texto é uma crítica ao ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q75": {
+   "alternativas": [
+    "0f78639d18a3",
+    "e801d608fb1b",
+    "212399208b30",
+    "c8af701711eb",
+    "25008e53a841"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "66e23813ce58",
+   "enunciado": "4b41ee7cd28a",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q75-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A intencionalidade geopolítica agregada ao símbo",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q75-apoio-01.jpg",
+     27,
+     [
+      324.1,
+      202.7,
+      500.8,
+      359.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q76": {
+   "alternativas": [
+    "58fa2480df16",
+    "9a6ea3ed99e3",
+    "f7220ac732c2",
+    "1c9cf74a5697",
+    "de102151fbee"
+   ],
+   "apoio": "ed3fa6d1320e",
+   "credito": "1d58576e7bca",
+   "enunciado": "6d0493689147",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No processo de construção do Estado naciona esse",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q77": {
+   "alternativas": [
+    "cb49207fbfef",
+    "4ea837d567de",
+    "d97d4de3c7de",
+    "d369022efb5b",
+    "9d3738252105"
+   ],
+   "apoio": "d710abd45979",
+   "credito": "0ec0725fa28e",
+   "enunciado": "f185b6d3b052",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A decisão da Suprema Corte com impacto sobre o s",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q78": {
+   "alternativas": [
+    "c40901db2cee",
+    "d4ea756b61bf",
+    "0cde9ecba39f",
+    "31338d0e8049",
+    "a04c1c477569"
+   ],
+   "apoio": "9d1cca26a67d",
+   "credito": "45baeb5df4e6",
+   "enunciado": "254d5fe64337",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A desconfiança dos sujeitos sociais apresentada ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q79": {
+   "alternativas": [
+    "ba68122f4765",
+    "e15aaf57f0e2",
+    "394c38018b14",
+    "07d78f269fa5",
+    "973aad7cf60b"
+   ],
+   "apoio": "cd919e090032",
+   "credito": "3f8223828e0e",
+   "enunciado": "5d8a3a72e94e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essas inovações produtivas tiveram como consequê",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q80": {
+   "alternativas": [
+    "d5fffc7464b9",
+    "672e021bfadc",
+    "504ea03bdb83",
+    "b7745281841f",
+    "ce29ca567ec9"
+   ],
+   "apoio": "c4f0fb8e8f16",
+   "credito": "1df4ced133cc",
+   "enunciado": "bbdc38fe217c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Típico de sociedades urbanas industriais o confl",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q81": {
+   "alternativas": [
+    "04a5a92aa80d",
+    "62af6be77960",
+    "3b7061290dfd",
+    "db19700d01da",
+    "fbee63275e06"
+   ],
+   "apoio": "7115512c5b7c",
+   "credito": "b9ea2b79808f",
+   "enunciado": "1beb87c1068e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A aliança entre as elites regionais e o Estado m",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q82": {
+   "alternativas": [
+    "962007655a24",
+    "2757ccacac9a",
+    "55d0d0863df8",
+    "f5422a0bf3a8",
+    "6235126c0e67"
+   ],
+   "apoio": "3e1465a0f8af",
+   "credito": "db2bec82c38b",
+   "enunciado": "d2b47df9a01d",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q82-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A ocorrência do recurso natural na área destacad",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q82-apoio-01.png",
+     29,
+     [
+      32.2,
+      120.0,
+      276.4,
+      304.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-ppl-d1-q83": {
+   "alternativas": [
+    "09e5af18a9ca",
+    "7e31a76ad3a1",
+    "24fad6fd55ba",
+    "e0e3e4c02cec",
+    "834a50875ac9"
+   ],
+   "apoio": "8890bcf9b57c",
+   "credito": "881e24a3442f",
+   "enunciado": "7e5538cbb58a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para o Brasil uma consequência gerada pelo cenár",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q84": {
+   "alternativas": [
+    "146c3988433e",
+    "d21767c8f4bb",
+    "cfb4d5311e3d",
+    "6b4c25d6aa1a",
+    "3398a80ae2d3"
+   ],
+   "apoio": "f5958f6de949",
+   "credito": "8995ae120336",
+   "enunciado": "62da0eee4c95",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com a corrente de pensamento do século",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q85": {
+   "alternativas": [
+    "1555e05bbbaa",
+    "2ec396145263",
+    "30b4eef9ec9e",
+    "918e3386832e",
+    "ec1a49a11411"
+   ],
+   "apoio": "9687ba9efbb8",
+   "credito": "23b0c7f70bc5",
+   "enunciado": "a8a497462bda",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os relatos de viagens ao Brasil publicados na Eu",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q86": {
+   "alternativas": [
+    "5309c8090042",
+    "9ca3a44546f8",
+    "9780286a746c",
+    "ea245b743f26",
+    "a5adfd133c0b"
+   ],
+   "apoio": "853079ad057a",
+   "credito": "690c7d4d453e",
+   "enunciado": "0a3aaa1c607a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Brasil a tradição mencionada no texto fo resp",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q87": {
+   "alternativas": [
+    "3fc9fac8adc5",
+    "f222aad48da6",
+    "babe7130add1",
+    "39bd3c092f60",
+    "9d520be218e2"
+   ],
+   "apoio": "0e1422a06470",
+   "credito": "5919743f2a0d",
+   "enunciado": "bf4e282d86d2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Conforme descritas no texto algumas práticas cul",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q88": {
+   "alternativas": [
+    "d871cfb663a4",
+    "4021f26cd076",
+    "9e84f4a853ad",
+    "c03cbb7dfdac",
+    "61f21343aa92"
+   ],
+   "apoio": "cc0aa9e4030d",
+   "credito": "d5fa51c0380a",
+   "enunciado": "9575d7c835f3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos articulam argumentos em torno de dois ",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q89": {
+   "alternativas": [
+    "02cbc0d6ac3e",
+    "fd191890b354",
+    "189f4eb9a505",
+    "29b7c031eadf",
+    "1cb5b25d4cdf"
+   ],
+   "apoio": "b45ebe7b9c22",
+   "credito": "6c531790913f",
+   "enunciado": "eb44c3e226a2",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os dados apresentados indicam que o cotidiano do",
+   "recortes": []
+  },
+  "enem-2022-ppl-d1-q90": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "0a92c52d4d83",
+   "credito": "8d62bb045945",
+   "enunciado": "4013d1d8504f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-E-01.png"
+    ]
+   },
+   "previa": "Que forma de representação do território brasile",
+   "recortes": [
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-A-01.png",
+     31,
+     [
+      54.7,
+      231.5,
+      273.7,
+      451.4
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-B-01.png",
+     31,
+     [
+      52.4,
+      477.8,
+      277.8,
+      676.5
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-C-01.png",
+     31,
+     [
+      311.1,
+      72.6,
+      535.0,
+      278.7
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-D-01.png",
+     31,
+     [
+      311.1,
+      295.0,
+      534.8,
+      493.2
+     ]
+    ],
+    [
+     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q90-alt-E-01.png",
+     31,
+     [
+      310.7,
+      505.8,
+      535.7,
+      713.0
+     ]
+    ]
+   ]
+  }
+ }
+}
