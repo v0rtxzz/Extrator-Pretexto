@@ -1103,6 +1103,15 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
                                             and any(o['x0'] <= (c['x0'] + c['x1']) / 2 <= o['x1']
                                                     and o['top'] <= (c['top'] + c['bottom']) / 2 <= o['bottom']
                                                     for c in letras))]
+    if P.barra_de_segmento:                    # barra sobre letras no meio da frase (segmento CP, vetor v): não é fração
+        def _sobre_linha(b):
+            baixo = [c for c in chars if c['text'].strip() and b['x0'] - 1 <= (c['x0'] + c['x1']) / 2 <= b['x1'] + 1
+                     and -1 <= c['top'] - b['bottom'] <= 4]
+            if not baixo:
+                return False
+            mesma = [c for c in chars if c['text'].strip() and abs(c['top'] - baixo[0]['top']) < 1.5]
+            return (min(c['x0'] for c in mesma) < b['x0'] - 15 and max(c['x1'] for c in mesma) > b['x1'] + 15)
+        barras = [b for b in barras if not _sobre_linha(b)]
     if P.quadro_rotulo:                        # rótulo "Questão | N" desenhado como tabelinha (2009...): a borda
         barras = _sem_bordas_do_rotulo(chars, barras)   # de baixo não é traço de fração
     if P.usa_v2025:                                   # motor v2025: comportamento congelado de 2025
@@ -1117,6 +1126,22 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     chars = agrupar_indices(chars, P.fontes_letra)   # compartilhado por todos os motores (v2025, v2024 e derivados)
     tam_corpo = Counter(round(c['size'], 1) for c in chars if c['size'] >= 8 and c['text'].strip()).most_common(1)
     tam_corpo = tam_corpo[0][0] if tam_corpo else 10
+    if P.indices_na_linha:                       # subscrito/sobrescrito já marcado entra na linha da letra vizinha
+        tam_med = statistics.median([c['size'] for c in chars if c['text'].strip()] or [10])
+        corpo_cs = [c for c in chars if not c.get('_indice') and c['text'].strip() and c['size'] >= tam_med * 0.85]
+        novos = []
+        for c in chars:
+            pequeno = c['text'] in '0123456789+-−' and c['text'].strip() and c['size'] < tam_med * 0.85
+            if (c.get('_indice') or pequeno) and corpo_cs:
+                viz = min(corpo_cs, key=lambda o: min(abs(o['x1'] - c['x0']), abs(c['x1'] - o['x0']))
+                          + abs(o['top'] - c['top']) * 0.5)
+                dy = (c['top'] + c['bottom']) / 2 - (viz['top'] + viz['bottom']) / 2
+                perto = min(abs(viz['x1'] - c['x0']), abs(c['x1'] - viz['x0'])) < 3
+                if (c.get('_indice') and abs(dy) < 9 and perto) or (pequeno and 1.5 < abs(dy) < 8 and perto):
+                    tipo = c.get('_indice') or ('sub' if dy > 0 else 'sup')
+                    c = dict(c, top=viz['top'], bottom=viz['bottom'], doctop=viz.get('doctop', viz['top']), _indice=tipo)
+            novos.append(c)
+        chars = novos
     brutas = chars_to_textmap(chars, y_tolerance=P.tolerancia_linha).extract_text_lines(strip=True, return_chars=True)
     if P.alternativas_lado_a_lado:
         brutas = _dividir_alternativas_lado_a_lado(brutas, P)
@@ -1781,6 +1806,18 @@ def _completar_alternativas_desenhadas(pdf, q, forcar=False):
     linhas = [a['linhas'][0] if a['linhas'] else None for a in alts]
     if any(ln is None or ln.get('tipo') != 'linha' for ln in linhas) or len({ln['pg'] for ln in linhas}) != 1:
         return
+    if len({round(ln['top']) for ln in linhas}) < 5:   # letras na mesma altura: alguma é letra de fórmula (C₆,₄)
+        x_letra = min(ln['x0'] for ln in linhas)
+        cand = {}
+        for a in alts:
+            for ln in a['linhas']:
+                if ln.get('tipo') == 'linha' and abs(ln['x0'] - x_letra) < 3 and re.match(r'[A-E](?:\s|$)', ln['texto']):
+                    cand.setdefault(round(ln['top']), ln)
+        if len(cand) != 5:
+            return
+        linhas = [cand[t] for t in sorted(cand)]      # pilha vertical: de cima para baixo, A a E
+        for a, ln in zip(alts, linhas):
+            a['linhas'] = [dict(ln, alt=a['letra'], texto=a['letra'])]
     pg = pdf.pages[linhas[0]['pg'] - 1]
     meio_pag = pg.width / 2
     pilhas = []                                          # letras agrupadas pela posição x
