@@ -128,6 +128,9 @@ def main():
         for pdf, gab, cat, dia, idioma in provas:
             nome = f'{ano}-{cat}-dia{dia}' + (f'-{idioma}' if idioma else '')
             arq = PASTA_FOTOS / f'{nome}.json'
+            if a.todos and not a.atualizar and not arq.exists():
+                print(f'{nome}: sem foto (prova ainda não validada; não conferida).')
+                continue
             nova = extrair_foto(pdf, gab, ano, dia, cat, idioma, {k: None for k in ('pdf', 'gabarito', 'ano', 'dia', 'categoria', 'tudo', 'pasta_provas')})
             if a.atualizar:
                 PASTA_FOTOS.mkdir(exist_ok=True)

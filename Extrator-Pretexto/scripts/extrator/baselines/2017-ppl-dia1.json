@@ -1,0 +1,1909 @@
+{
+ "extraidas": 95,
+ "ignoradas": [],
+ "motor": "v2017",
+ "perfil": "motor v2017",
+ "questoes": {
+  "enem-2017-ppl-d1-q01-esp": {
+   "alternativas": [
+    "c5f00671641f",
+    "ae887ed34449",
+    "66438e8cef72",
+    "90a93d171396",
+    "e0f39843cf8a"
+   ],
+   "apoio": "95b1112523ee",
+   "credito": "5a35964fb7a3",
+   "enunciado": "f80fe266771e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O Día de los Muertos é uma tradicional manifesta",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q01-ing": {
+   "alternativas": [
+    "a7e590e66cab",
+    "5861a4a422c9",
+    "df1805922394",
+    "1f81d9bcdaed",
+    "f56a61d25224"
+   ],
+   "apoio": "3112bbb60002",
+   "credito": "fcedceedf73c",
+   "enunciado": "176c86675124",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A fábula The Four Oxen and the Lion ilustra um p",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q02-esp": {
+   "alternativas": [
+    "6af3b2d8f51b",
+    "5ebd80194237",
+    "5cacb8a870ea",
+    "cc6d0d1a7a92",
+    "398dd50219d6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "0b7ba98283eb",
+   "enunciado": "e303a182cd1b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q02-esp-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "É comum fazer trocadilhos com ditos populares pa",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q02-esp-apoio-01.jpg",
+     4,
+     [
+      60.9,
+      122.9,
+      307.7,
+      271.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q02-ing": {
+   "alternativas": [
+    "5fb084748747",
+    "dc0d571cf0fa",
+    "1aad778bc827",
+    "b4c77dfc40c9",
+    "7e9160c3359a"
+   ],
+   "apoio": "cf91644c2369",
+   "credito": "bb9f0151e2f7",
+   "enunciado": "4f1ffda8bd0b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto aborda o tema dos incêndios residenciais",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q03-esp": {
+   "alternativas": [
+    "110fa19a6cf8",
+    "33cd4eae18bb",
+    "42087c845bdc",
+    "0e0d195b92c6",
+    "d6c7103d895b"
+   ],
+   "apoio": "ce7e22e11f8b",
+   "credito": "3b0639a2f368",
+   "enunciado": "11c272c4077e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A partir das informações sobre as condições de s",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q03-ing": {
+   "alternativas": [
+    "19d2d628889f",
+    "f195b7cb9b2e",
+    "80a17d6c73a5",
+    "f1aa36ae9800",
+    "b2e1c2b01f93"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "db411e256570",
+   "enunciado": "ce7e7e163da9",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q03-ing-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A proposta da capa da revista, associando aspect",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q03-ing-apoio-01.jpg",
+     2,
+     [
+      320.1,
+      227.5,
+      567.0,
+      517.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q04-esp": {
+   "alternativas": [
+    "e1fc738fc2f2",
+    "176bae1f7b02",
+    "2bfc35283b76",
+    "85bfe2cdba70",
+    "320ac29a9e23"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "7438c40dc23c",
+   "enunciado": "a8269c85fc9b",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q04-esp-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O texto publicitário objetiva a adesão do públic",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q04-esp-apoio-01.jpg",
+     4,
+     [
+      320.5,
+      282.5,
+      567.5,
+      605.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q04-ing": {
+   "alternativas": [
+    "130683e7f3aa",
+    "cc234ea22ce3",
+    "ecd224ae937f",
+    "7f72343d84c6",
+    "07c3b79fad81"
+   ],
+   "apoio": "df78e060a8e9",
+   "credito": "20c9daec88d0",
+   "enunciado": "5b43d77e8882",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Vik Muniz é um artista plástico brasileiro radic",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q05-esp": {
+   "alternativas": [
+    "e907d8f68951",
+    "fcac368f5b6a",
+    "a89b9f819ffe",
+    "37a144d745e3",
+    "00486cf00083"
+   ],
+   "apoio": "d425323a5c0c",
+   "credito": "7820a76ec385",
+   "enunciado": "1ebec1bb9b8c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A pintura rupestre é uma arte pré-histórica por ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q05-ing": {
+   "alternativas": [
+    "c19575ba2444",
+    "567fd43bcdef",
+    "8d2941b43a09",
+    "fdc4cff98cde",
+    "8512388b3a95"
+   ],
+   "apoio": "d2a19e17822d",
+   "credito": "3121cc019f74",
+   "enunciado": "fc26493ee1e1",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "*SA0175AZ3* O trecho da letra de If You’re Out T",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q06": {
+   "alternativas": [
+    "a04c04f477c4",
+    "d6812653eec5",
+    "e4c06290346d",
+    "8d6c0267cd90",
+    "ae764f37e662"
+   ],
+   "apoio": "219f4f55aef8",
+   "credito": "4606410182ea",
+   "enunciado": "b1599cdce0e6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto trata do avanço técnico e das facilidade",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q07": {
+   "alternativas": [
+    "8dd8bf96692b",
+    "584e10671a2a",
+    "a98f4b3b7e4c",
+    "88c0826ab462",
+    "551b4609ed0e"
+   ],
+   "apoio": "a99b0fa6e9cf",
+   "credito": "a32f53722b3b",
+   "enunciado": "b9bf3715fbe6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, Carlota Cafiero expõe a concepção elab",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q08": {
+   "alternativas": [
+    "3d0417d34af5",
+    "251fb0da087c",
+    "928625068a15",
+    "cc689e4153f4",
+    "909ec8e5ec8e"
+   ],
+   "apoio": "276dafbb1a93",
+   "credito": "22ef9c9af6cf",
+   "enunciado": "2279ae6ee5b2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No poema, ocorre uma aproximação entre a realida",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q09": {
+   "alternativas": [
+    "3300770813b1",
+    "fc3396e7de38",
+    "750df8808701",
+    "cc036948ca64",
+    "d2fcf1fabc1d"
+   ],
+   "apoio": "05dd6775ac9f",
+   "credito": "97c15dc91b97",
+   "enunciado": "ddc3aa23b4f6",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta duas práticas distintas de fil",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q10": {
+   "alternativas": [
+    "65f6a160e17b",
+    "517bbe3d1df6",
+    "f635dc1d2a8d",
+    "0f3b81e11c6a",
+    "031641d1aa20"
+   ],
+   "apoio": "5fa88174d066",
+   "credito": "8f3677308cd1",
+   "enunciado": "e5e5bdc1f172",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse trecho, Vinicius de Moraes exercita a crôn",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q11": {
+   "alternativas": [
+    "6ebfd31745a0",
+    "ee660af48931",
+    "425c3071b6eb",
+    "ba0e5f7d7606",
+    "bdbb3412c78d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "2df633c00d60",
+   "enunciado": "2ab22ea0668a",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q11-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "No processo de criação da capa de uma revista, é",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q11-apoio-01.jpg",
+     7,
+     [
+      150.5,
+      120.3,
+      478.0,
+      379.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q12": {
+   "alternativas": [
+    "b955999755bd",
+    "a52e84f2344e",
+    "3badaeab8572",
+    "d683727ab87c",
+    "bdb82d48ec83"
+   ],
+   "apoio": "259b729b88de",
+   "credito": "b165cafb3ecc",
+   "enunciado": "5b89ff522a94",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O narrador relata suas experiências na primeira ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q13": {
+   "alternativas": [
+    "6b2b02a80fd2",
+    "589d69ee5d01",
+    "62419ddc0bf0",
+    "58e2bf3ee6ac",
+    "03234d64833e"
+   ],
+   "apoio": "360dc7a4cacb",
+   "credito": "a5a4076e042a",
+   "enunciado": "bf3cb6743ac9",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trecho, de São Bernardo, apresenta um relato d",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q14": {
+   "alternativas": [
+    "b342d299df8d",
+    "e0d906150bef",
+    "a3624c7eb9bf",
+    "0fa6d40cb810",
+    "84c03535fac4"
+   ],
+   "apoio": "a44b628ea8e8",
+   "credito": "b57959aa918c",
+   "enunciado": "1db89951156e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "São exemplos de “esportes individuais em interaç",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q15": {
+   "alternativas": [
+    "3935e63fd86d",
+    "e33ff8357185",
+    "374abebf1666",
+    "0247180c753f",
+    "d68460b3e253"
+   ],
+   "apoio": "c6ca5dc0162f",
+   "credito": "7a949fec0e79",
+   "enunciado": "690e1c79b0d9",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Influenciada pelo ideário cientificista do Natur",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q16": {
+   "alternativas": [
+    "313f5b22cb69",
+    "491ad3945f84",
+    "ca87a40488ef",
+    "d7012de3a8a5",
+    "37c8cdfd61a9"
+   ],
+   "apoio": "40c846faa776",
+   "credito": "32a8f872ce0a",
+   "enunciado": "e2cdafdc3a39",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Muito se fala sobre o impacto causado pelas tecn",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q17": {
+   "alternativas": [
+    "e541087bf536",
+    "987995bb331e",
+    "6aeb7820fff7",
+    "8b715d12b752",
+    "4da43696baca"
+   ],
+   "apoio": "af59dc13c695",
+   "credito": "d8329620b7c1",
+   "enunciado": "645926cbbe94",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q17-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Inovando os padrões estéticos de sua época, a ob",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q17-apoio-01.jpg",
+     9,
+     [
+      320.6,
+      121.3,
+      567.6,
+      450.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q18": {
+   "alternativas": [
+    "2cc9533e8edd",
+    "27bd22477a81",
+    "80d800e636d5",
+    "232cca127e73",
+    "ca90749ef527"
+   ],
+   "apoio": "fdf2f3bcbe0c",
+   "credito": "57493ddd5ec5",
+   "enunciado": "a68909537352",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O esforço de preservação do nheengatu, uma língu",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q19": {
+   "alternativas": [
+    "e76df2c2dfae",
+    "97627af868e1",
+    "391f933a7f82",
+    "5563be58992b",
+    "f0183df90c1b"
+   ],
+   "apoio": "342b1c6c588c",
+   "credito": "7b3f1d0cc896",
+   "enunciado": "ce5dcb30e0fb",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao discorrer sobre a festa de São João e a quadr",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q20": {
+   "alternativas": [
+    "74c6cdab480e",
+    "69668cb1710a",
+    "3e6c1c48a446",
+    "502bc7b20f41",
+    "7a8478951f3f"
+   ],
+   "apoio": "1344bc73ad2d",
+   "credito": "43f4fa264743",
+   "enunciado": "17a6a68373e8",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um texto argumentativo, podem-se encontrar di",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q21": {
+   "alternativas": [
+    "a519e888ef06",
+    "89c1f13df108",
+    "862cc8260635",
+    "01c740ba45a3",
+    "d735b255b084"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "22105d2c1849",
+   "enunciado": "0ba86b187699",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q21-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Na tirinha, o leitor é conduzido a refletir sobr",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q21-apoio-01.jpg",
+     11,
+     [
+      60.8,
+      121.7,
+      307.8,
+      329.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q22": {
+   "alternativas": [
+    "e3fdc804a2b7",
+    "b1c1acbbee63",
+    "c65b49d3c060",
+    "19c7a6ae9799",
+    "5f501b41c613"
+   ],
+   "apoio": "3c5ae5025db8",
+   "credito": "7e5196e01f62",
+   "enunciado": "d4d48585b562",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Concorrem para a estruturação e para a progressã",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q23": {
+   "alternativas": [
+    "12643e003775",
+    "8c7f1593fc70",
+    "139b69b3479b",
+    "6f93374f9c3e",
+    "e469e0780ff1"
+   ],
+   "apoio": "a341ab2837d8",
+   "credito": "505a37ee05c6",
+   "enunciado": "b6230ddd2cfb",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No relato de sua experiência no sanatório onde f",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q24": {
+   "alternativas": [
+    "1ad5668fdd11",
+    "4cecb30b6c6a",
+    "2bee60a6fe6c",
+    "5c81d2236b7e",
+    "8f85ef059b90"
+   ],
+   "apoio": "3c6d54ed18c9",
+   "credito": "43cd265e26ec",
+   "enunciado": "74454e722b88",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O desenvolvimento da sociedade está relacionado ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q25": {
+   "alternativas": [
+    "9f22f1eea94d",
+    "71610156e5f7",
+    "896b29fa696c",
+    "256d207e13da",
+    "e3804bb96f3f"
+   ],
+   "apoio": "83458c7b49e2",
+   "credito": "84fc25cecf56",
+   "enunciado": "3441d78b917d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na organização do texto, a sequência que atende ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q26": {
+   "alternativas": [
+    "1a592338b6d2",
+    "ee4b554a22a0",
+    "ebe1b45ccf80",
+    "1b1347a9646d",
+    "7843b6fe8d45"
+   ],
+   "apoio": "08c6bdb56125",
+   "credito": "bc056bfd8a64",
+   "enunciado": "453dc55dff4f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As anedotas são narrativas, reais ou inventadas,",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q27": {
+   "alternativas": [
+    "167d76cfd5ae",
+    "d0f4184739ea",
+    "268e4e945e8c",
+    "6dd87befb54f",
+    "d71db3a10826"
+   ],
+   "apoio": "b0cdbce2cb04",
+   "credito": "2f4c802bd1a7",
+   "enunciado": "44012e0eab9d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q27-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Essa escultura foi produzida durante o período d",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q27-apoio-01.jpg",
+     12,
+     [
+      352.6,
+      248.3,
+      535.3,
+      533.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q28": {
+   "alternativas": [
+    "c7758a07ce99",
+    "1a6b575d63b2",
+    "9a0df8034151",
+    "1bd81d69a250",
+    "6a325408158a"
+   ],
+   "apoio": "755594857376",
+   "credito": "888bf5755201",
+   "enunciado": "9a1b086be3ad",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O gênero editorial de revista contém estratégias",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q29": {
+   "alternativas": [
+    "a18f4b5d99db",
+    "8f79d04511ee",
+    "b0e102ef4186",
+    "7bf037665b75",
+    "932a65766daa"
+   ],
+   "apoio": "38d4f43c2ca9",
+   "credito": "a5eee41116ca",
+   "enunciado": "a65f79db2aa4",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, descreve-se o chat como um tipo de con",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q30": {
+   "alternativas": [
+    "3ff39a7ffe14",
+    "8f504918c2ed",
+    "c4a7474f63e4",
+    "6d3d588e2f74",
+    "a039be189b89"
+   ],
+   "apoio": "cabf30cb0e1e",
+   "credito": "3f689c861df2",
+   "enunciado": "700b73f5fb85",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Apesar de abordarem o mesmo tema, os textos I e ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q31": {
+   "alternativas": [
+    "af64b8e08df0",
+    "cb3c1db90313",
+    "9bdc44064683",
+    "74af15acd9b0",
+    "b6c49c6fc483"
+   ],
+   "apoio": "1907b9d7b107",
+   "credito": "01b5b58148ae",
+   "enunciado": "da43b1f7fbaa",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao recuperar a memória da infância, o narrador d",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q32": {
+   "alternativas": [
+    "eb70519030e9",
+    "1b68af1e214b",
+    "c88dfebd90e4",
+    "29e2b810a497",
+    "0b921ae8cfc1"
+   ],
+   "apoio": "666be959d196",
+   "credito": "5adae9ad8101",
+   "enunciado": "225a4168a553",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q32-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Relacionando o texto e a imagem da obra, entende",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q32-apoio-01.jpg",
+     14,
+     [
+      361.5,
+      129.9,
+      526.4,
+      374.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q33": {
+   "alternativas": [
+    "ddc44e16cb1d",
+    "53fdec79207e",
+    "a0607cf2d8d5",
+    "a52e13b19d9f",
+    "b14a7e1296ad"
+   ],
+   "apoio": "26708d237eb3",
+   "credito": "ff1722f54198",
+   "enunciado": "abe542cb37e3",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, observa-se o uso característico do por",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q34": {
+   "alternativas": [
+    "1849ba79c5d2",
+    "795140778deb",
+    "a39e830f3ebb",
+    "22871efceefa",
+    "5a2f7961388a"
+   ],
+   "apoio": "0bd3050036b2",
+   "credito": "632f890b79fc",
+   "enunciado": "7dba9a69f05e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "*SA0175AZ15*\n\nO pronome oblíquo “o”, nos versos ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q35": {
+   "alternativas": [
+    "c96a1b802348",
+    "3f16a4d11dfd",
+    "e6d9e4151f7d",
+    "35f57c53eba6",
+    "45a00efa0374"
+   ],
+   "apoio": "3a572def2f1a",
+   "credito": "a15f582f74d3",
+   "enunciado": "f1886585185e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o pesquisador entrevistado, a internet r",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q36": {
+   "alternativas": [
+    "37be8040cd5b",
+    "d1193b9787f1",
+    "5cebb4fd0328",
+    "9a320db0c811",
+    "0ad0982f1c4c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "74233f19236f",
+   "enunciado": "d2f6140d61ff",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q36-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Campanhas de conscientização para o diagnóstico ",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q36-apoio-01.jpg",
+     16,
+     [
+      60.8,
+      121.3,
+      307.8,
+      466.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q37": {
+   "alternativas": [
+    "09b8f67cf9e9",
+    "9f3e90735681",
+    "f32af3a2016b",
+    "5bbd0973e7de",
+    "4ab1994ab124"
+   ],
+   "apoio": "969dd49e66cc",
+   "credito": "37ac99aa172f",
+   "enunciado": "d07e34dfee2f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto tematiza algumas transformações das funç",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q38": {
+   "alternativas": [
+    "54f82fa4f5d4",
+    "8b90423c6893",
+    "77d726352376",
+    "3ee2e63c2eb7",
+    "2f2ab610a594"
+   ],
+   "apoio": "1ae2360b3d58",
+   "credito": "f189cd479df5",
+   "enunciado": "fad944df8496",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao circularem socialmente, os textos realizam-se",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q39": {
+   "alternativas": [
+    "2a69698a825b",
+    "f42f08875c72",
+    "99bca342a099",
+    "5517288ddcf4",
+    "275e1076c755"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "a8a9e056c71d",
+   "enunciado": "03db03cb569b",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q39-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Importantes recursos de reflexão e crítica própr",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q39-apoio-01.jpg",
+     17,
+     [
+      60.8,
+      114.7,
+      307.8,
+      193.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q40": {
+   "alternativas": [
+    "f02e994fe700",
+    "ed9e808afd34",
+    "ac9c2fdefca4",
+    "b5c6de136fe5",
+    "2fccb92c734c"
+   ],
+   "apoio": "bf7053106bd6",
+   "credito": "93c8e0c95b9d",
+   "enunciado": "bbfbdf3a01ff",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, em décadas passadas, a di",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q41": {
+   "alternativas": [
+    "27bdee8968d7",
+    "e3498c374a12",
+    "d304b1de04cd",
+    "fb52d5b845d8",
+    "811cda20915d"
+   ],
+   "apoio": "b2a9ae91700b",
+   "credito": "70e77c0ce6f5",
+   "enunciado": "9e4106272bd2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse fragmento de carta pessoal, quanto à seque",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q42": {
+   "alternativas": [
+    "ba0f301258d6",
+    "842591487aba",
+    "c846e7da1e18",
+    "61554287975e",
+    "ba6ccea84648"
+   ],
+   "apoio": "34bc9faf6d20",
+   "credito": "d1c47dae95b1",
+   "enunciado": "2b5472154522",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta resultados de uma pesquisa cie",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q43": {
+   "alternativas": [
+    "2b90d7622e39",
+    "ac5ff33891b4",
+    "ca41b618f994",
+    "42b868f77169",
+    "b6454100ced9"
+   ],
+   "apoio": "8eee1a39f08d",
+   "credito": "9ebe875e774b",
+   "enunciado": "77f5aa8f0e2b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Utilizando o recurso da metalinguagem, o narrado",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q44": {
+   "alternativas": [
+    "d019d20e9fd2",
+    "f944ad648c98",
+    "9aaaf86072f3",
+    "e259223fae37",
+    "4a22deba5acb"
+   ],
+   "apoio": "3c3deb024a1e",
+   "credito": "c50ef8ae8d45",
+   "enunciado": "8545553e1c66",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A lida do sertanejo com suas adversidades consti",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q45": {
+   "alternativas": [
+    "7e6ae2b96d1b",
+    "b71e82ad4d21",
+    "c127c874b93e",
+    "c9a3564dd92b",
+    "93e28856bd84"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "af8c9369afa2",
+   "enunciado": "65650b9921e5",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q45-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em 1956, o artista Flávio de Resende Carvalho de",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q45-apoio-01.jpg",
+     18,
+     [
+      320.5,
+      253.5,
+      567.5,
+      568.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q46": {
+   "alternativas": [
+    "c6472d15603c",
+    "ea028bfaa37e",
+    "93e6e998bc28",
+    "c9194589c172",
+    "9ede4333c162"
+   ],
+   "apoio": "d80e03b44491",
+   "credito": "3084e34ac300",
+   "enunciado": "c4016da72154",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conjunto de direitos ao qual o texto se refere",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q47": {
+   "alternativas": [
+    "cd302f7d0327",
+    "65cad15eca28",
+    "504505f3e50a",
+    "3366eb75e69d",
+    "de390118b18a"
+   ],
+   "apoio": "510a08985386",
+   "credito": "c39129ee502a",
+   "enunciado": "71d944eff2ff",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando o contexto mencionado, a criação de",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q48": {
+   "alternativas": [
+    "0d94bc9de504",
+    "5d2e7ae9b4d1",
+    "3a2f369c75b0",
+    "ae6a8922af37",
+    "fe578ff1598f"
+   ],
+   "apoio": "8f53a32dae92",
+   "credito": "825bf0a959c2",
+   "enunciado": "e2a428723f8f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O súbito declínio da atividade econômica mencion",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q49": {
+   "alternativas": [
+    "0373f402d683",
+    "17c1a53adb1f",
+    "3e19e4b4a2c0",
+    "a8f837c5e0ec",
+    "f4649a12bd1f"
+   ],
+   "apoio": "5fb5ca607c9d",
+   "credito": "194108a3f0b9",
+   "enunciado": "0f6fc96418fd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ideia de nação como lugar de pertencimento, ao",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q50": {
+   "alternativas": [
+    "7c3f18ba1f1e",
+    "c18d88bce170",
+    "8f139b5d3b8e",
+    "98cfab2aae69",
+    "25287c8b0e5e"
+   ],
+   "apoio": "73d1564c0a0d",
+   "credito": "64b183aadceb",
+   "enunciado": "4eade7d681fc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma medida de segurança alimentar que contesta o",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q51": {
+   "alternativas": [
+    "9aacaaf1cc0e",
+    "c31414a78880",
+    "2ed272ab4b35",
+    "2a477b8b96e4",
+    "9b8c18af1a5d"
+   ],
+   "apoio": "52d10d2766b5",
+   "credito": "4aae545b9952",
+   "enunciado": "46a04f6718f7",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q51-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A evolução na estrutura etária apresentada influ",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q51-apoio-01.png",
+     21,
+     [
+      123.8,
+      361.7,
+      510.1,
+      543.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q52": {
+   "alternativas": [
+    "99e0d0205975",
+    "3dcbbe7df486",
+    "9eec7104c13d",
+    "d0f438e7e275",
+    "9f4f1a6d944d"
+   ],
+   "apoio": "75d5c50b53c0",
+   "credito": "179f9786c237",
+   "enunciado": "215fe25e7b0d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O fator apresentado no texto para o agravamento ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q53": {
+   "alternativas": [
+    "68bd10c7efbd",
+    "2e4a43e68f22",
+    "3e608b79f088",
+    "3780b0de7117",
+    "6f97db131079"
+   ],
+   "apoio": "9fbcdf63828a",
+   "credito": "8e38393fae2e",
+   "enunciado": "049415862260",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A modelagem do relevo apresentado relaciona-se a",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q54": {
+   "alternativas": [
+    "34bced8c57f5",
+    "3afb95d8b469",
+    "234f4ced6be4",
+    "7444208bfd6a",
+    "b7ffb1e111a8"
+   ],
+   "apoio": "a1da094055fe",
+   "credito": "f831e607fa38",
+   "enunciado": "ab793a87d006",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essas condições de trabalho, próprias de uma soc",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q55": {
+   "alternativas": [
+    "ba0fd9de494c",
+    "21e41cbf11c3",
+    "c0df036eeb0a",
+    "4a885175cf1f",
+    "437a9011c761"
+   ],
+   "apoio": "fb99c132c08e",
+   "credito": "a3969d3faeaf",
+   "enunciado": "e641553f88ac",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O casamento, conforme é tratado no texto, possui",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q56": {
+   "alternativas": [
+    "c4b2b433b5e4",
+    "f905c5c83f87",
+    "8e478a91eb56",
+    "e353096a76b9",
+    "d61e6333449b"
+   ],
+   "apoio": "ce2473ca2681",
+   "credito": "5beff190adc4",
+   "enunciado": "de60bbe77653",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O argumento apresentado no texto permite o quest",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q57": {
+   "alternativas": [
+    "cb5400e3e14d",
+    "d45661e5a47d",
+    "c3b0f2ccebdc",
+    "f857762622fa",
+    "281a29476d09"
+   ],
+   "apoio": "7ddb6233a3be",
+   "credito": "5cdaca1a11d2",
+   "enunciado": "a57d39758921",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As atividades econômicas citadas no texto repres",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q58": {
+   "alternativas": [
+    "9944fb5caf19",
+    "e0e335b95b26",
+    "fceef3a0cc29",
+    "e764a900c845",
+    "15bf634dfb0f"
+   ],
+   "apoio": "968c80707984",
+   "credito": "eb91058639fb",
+   "enunciado": "d5a0cbe86f03",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos apresentam uma mudança relevante na co",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q59": {
+   "alternativas": [
+    "69198ac0f29f",
+    "590fad5bfb4d",
+    "b0b42f168ef3",
+    "f92ee34a01dc",
+    "3a1bb94a31cb"
+   ],
+   "apoio": "13ec2b40c309",
+   "credito": "58e9f9f0fde5",
+   "enunciado": "10352900846e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As articulações espaciais tratadas no texto resu",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q60": {
+   "alternativas": [
+    "334112c0fa81",
+    "853f9a77748b",
+    "d5d72afcf3b7",
+    "c3f557a70fce",
+    "7e995a219230"
+   ],
+   "apoio": "097e0ea5c281",
+   "credito": "d1cc763da426",
+   "enunciado": "0c3c9d9d6e08",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No processo de transição para a modernidade, o u",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q61": {
+   "alternativas": [
+    "565820a2a55b",
+    "88618e6b4604",
+    "cc34b2dcf416",
+    "2041239362e7",
+    "c9b645da89c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "1c7a27661a72",
+   "enunciado": "c76f2c6a65a4",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q61-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As características morfológicas do terreno estão",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q61-apoio-01.jpg",
+     23,
+     [
+      320.5,
+      338.5,
+      567.5,
+      455.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q62": {
+   "alternativas": [
+    "d0d95178d873",
+    "ebbc34bb58c1",
+    "7eb78b795e11",
+    "dfb23277fc75",
+    "de9d091e2fbf"
+   ],
+   "apoio": "9beb3738168f",
+   "credito": "9b5edce53dde",
+   "enunciado": "059c34127b6c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As ações referidas são legitimadas por uma conce",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q63": {
+   "alternativas": [
+    "711e7b2d07d5",
+    "84973fd49b69",
+    "7312a955586d",
+    "9f8eb5e90655",
+    "c4cf958b830b"
+   ],
+   "apoio": "4428815a50c6",
+   "credito": "60d30eec8024",
+   "enunciado": "5f368ec8b090",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O movimento social abordado justifica-se pela de",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q64": {
+   "alternativas": [
+    "2b2a29405b51",
+    "bc400980f4b7",
+    "2274b39e743e",
+    "45aadbacff47",
+    "a4b04852c736"
+   ],
+   "apoio": "2c46cd4d551b",
+   "credito": "af5c4febddb9",
+   "enunciado": "2a1b92485036",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto apresenta um entendimento do filósofo Wa",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q65": {
+   "alternativas": [
+    "0285ff2afb9a",
+    "bf72a64256c6",
+    "68c569025de9",
+    "cdda9c5c962e",
+    "3264d8b5d988"
+   ],
+   "apoio": "2475ff8be5a6",
+   "credito": "3470137ce835",
+   "enunciado": "27d59ba2ea64",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual a consequência socioambiental, no Brasil, d",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q66": {
+   "alternativas": [
+    "5d97bd3d29f3",
+    "3903cbdf86f6",
+    "00132a5575a1",
+    "eec60ac5e644",
+    "8b887ac6a3b7"
+   ],
+   "apoio": "ecfb17901008",
+   "credito": "7116b9304027",
+   "enunciado": "3f93da0c3edd",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No que tange à participação popular no governo, ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q67": {
+   "alternativas": [
+    "77d61a44d82d",
+    "0af6829287d6",
+    "d8b7542e6747",
+    "772a651f98e3",
+    "94ad66b06a79"
+   ],
+   "apoio": "f95baa4a9224",
+   "credito": "8ef1a123ecbc",
+   "enunciado": "0448abfd6eea",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os princípios, base da epistemologia aristotélic",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q68": {
+   "alternativas": [
+    "3af1702199f4",
+    "96dc87534059",
+    "5d70c31e7ea3",
+    "617f07282ff6",
+    "0e8c9f918a2c"
+   ],
+   "apoio": "d56fab6fd5f8",
+   "credito": "233b44906bc5",
+   "enunciado": "442d72a1fb66",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O objetivo do posicionamento do cacique xavante ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q69": {
+   "alternativas": [
+    "4094f2f8920f",
+    "4883c7c1befe",
+    "4e62ed3b7cca",
+    "0ce41f9285f5",
+    "dce157825811"
+   ],
+   "apoio": "da4a744119cd",
+   "credito": "63530b2dc710",
+   "enunciado": "b15602436cf8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica do estoicismo presente nessa ci",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q70": {
+   "alternativas": [
+    "23b71361b91b",
+    "d899065c7993",
+    "a05a81753e1e",
+    "f470c1ee3cf7",
+    "debce0ecb93d"
+   ],
+   "apoio": "b36bd4dd4a12",
+   "credito": "98681a1c6f3a",
+   "enunciado": "3817b64b7853",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A Grande Depressão econômica que se abateu nos E",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q71": {
+   "alternativas": [
+    "2811d34e2e9b",
+    "d2e70fbb06ff",
+    "9bd1946d2a70",
+    "9040abef7b29",
+    "20ceb8113564"
+   ],
+   "apoio": "e73701a05681",
+   "credito": "58882ae9aaba",
+   "enunciado": "eb73ebbe4897",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para o autor, a consolidação da cidadania nas co",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q72": {
+   "alternativas": [
+    "eb6fb9818cb0",
+    "651397469d7e",
+    "3e69753442ca",
+    "2e215cde8618",
+    "dbe02d793219"
+   ],
+   "apoio": "2fa82b19581b",
+   "credito": "0cea0a5892aa",
+   "enunciado": "8933ee146254",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O movimento social citado teve como seu principa",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q73": {
+   "alternativas": [
+    "27b398a24760",
+    "fbf10d2411a7",
+    "95bae1dda3b5",
+    "048d4c48f4f4",
+    "370cf00b813c"
+   ],
+   "apoio": "36b93301ce70",
+   "credito": "e4579b1a53f6",
+   "enunciado": "a3c7bdf47158",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto refere-se à modelagem do relevo pelos pr",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q74": {
+   "alternativas": [
+    "698ae0b68c5e",
+    "e24c3c406e64",
+    "8eff2391b058",
+    "daacef755a52",
+    "39a19c21e89a"
+   ],
+   "apoio": "2a54fbeb474f",
+   "credito": "38facb64787b",
+   "enunciado": "de0a72459f0b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nas últimas décadas foram adotadas várias medida",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q75": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "548c9898727a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-E-01.jpg"
+    ]
+   },
+   "previa": "um ponto no plano.",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-A-01.jpg",
+     27,
+     [
+      80.7,
+      291.8,
+      291.5,
+      370.5
+     ]
+    ],
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-B-01.jpg",
+     27,
+     [
+      80.7,
+      387.7,
+      291.5,
+      466.0
+     ]
+    ],
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-C-01.jpg",
+     27,
+     [
+      80.7,
+      481.1,
+      291.5,
+      559.6
+     ]
+    ],
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-D-01.jpg",
+     27,
+     [
+      80.7,
+      571.6,
+      291.5,
+      656.3
+     ]
+    ],
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q75-alt-E-01.jpg",
+     27,
+     [
+      80.7,
+      664.0,
+      291.5,
+      750.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q76": {
+   "alternativas": [
+    "6cf3e6eb6927",
+    "3cb8f109d1bd",
+    "03fb7c4e7f5d",
+    "729db9437494",
+    "315cd9419967"
+   ],
+   "apoio": "0863d3c887c1",
+   "credito": "0203b4b94284",
+   "enunciado": "29da0de348e8",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A proibição imposta aos produtores de cana tem c",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q77": {
+   "alternativas": [
+    "849bbfb8b4c4",
+    "fd7e6d96c89a",
+    "a419cb893a0d",
+    "9bfdd119b11b",
+    "49353e6271e9"
+   ],
+   "apoio": "9d56f6b779b7",
+   "credito": "ee19593329e5",
+   "enunciado": "c6b0d9ba7f51",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q77-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A estratégia utilizada por esse movimento tinha ",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q77-apoio-01.png",
+     28,
+     [
+      59.9,
+      544.7,
+      146.2,
+      558.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q78": {
+   "alternativas": [
+    "90f3273b8414",
+    "71f08dc7c4cc",
+    "0708bd3d83d3",
+    "44e143feadec",
+    "0f08f9eeda71"
+   ],
+   "apoio": "5b23ab043d16",
+   "credito": "94c0628d7444",
+   "enunciado": "745a42db1a57",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A demarcação de terras indígenas, conforme o tex",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q79": {
+   "alternativas": [
+    "ec7f63cb3afc",
+    "988352292dae",
+    "7fc52ebfcdee",
+    "7f8db47d91d3",
+    "8595c2f90d7a"
+   ],
+   "apoio": "3a28734886b5",
+   "credito": "8cb8144a3581",
+   "enunciado": "79180d9f9775",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto histórico retratado pelo texto, a re",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q80": {
+   "alternativas": [
+    "9488db9aec04",
+    "57cd8c7b4f44",
+    "d1aab5472665",
+    "a160cdf538bf",
+    "de227fce2974"
+   ],
+   "apoio": "7a36bd5a9fe5",
+   "credito": "62b49bf1232b",
+   "enunciado": "20db8444efd8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A administração pública no Brasil possui raízes ",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q81": {
+   "alternativas": [
+    "57532a8b6248",
+    "bbc8d6090da5",
+    "d2cad534b02e",
+    "b12de25f5008",
+    "5237dde5e24c"
+   ],
+   "apoio": "3a6377dbea86",
+   "credito": "899c5b8d064b",
+   "enunciado": "a224cbee29d3",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ressaltando os seus aspectos simbólicos, a abord",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q82": {
+   "alternativas": [
+    "b9c7c2e7125c",
+    "2d77fccdd572",
+    "6c7301116e3f",
+    "4067d12c2375",
+    "b5288e813b91"
+   ],
+   "apoio": "526a8d72c4fc",
+   "credito": "4f8c9840a988",
+   "enunciado": "c822cb25e329",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto, Aristóteles inovou a forma de p",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q83": {
+   "alternativas": [
+    "f59b8f9574b5",
+    "ed4340b2aa80",
+    "41ea0678701f",
+    "c19a7a76b057",
+    "ee8de32300f6"
+   ],
+   "apoio": "b7aa8730fc58",
+   "credito": "7f69eec9a122",
+   "enunciado": "85210ecac8b0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No início do século XX, na transição do trabalho",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q84": {
+   "alternativas": [
+    "f07e423d3e52",
+    "dbbd44619e3a",
+    "6416e2c526ae",
+    "6d17336dd9b2",
+    "35d02504b56d"
+   ],
+   "apoio": "61b6757c8784",
+   "credito": "5f7a90b83c99",
+   "enunciado": "7477087cc821",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A atividade agrícola mencionada no texto provoco",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q85": {
+   "alternativas": [
+    "01c4fb0a044e",
+    "a830a4ba3736",
+    "36650ed35d53",
+    "3cf0933a08de",
+    "c34004bc7466"
+   ],
+   "apoio": "239bdb27cf31",
+   "credito": "e5ff9584075e",
+   "enunciado": "dc47f80d4b0c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q85-apoio-01.png",
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q85-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O padrão da pirâmide etária ilustrada apresenta ",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q85-apoio-01.png",
+     30,
+     [
+      113.8,
+      374.1,
+      168.9,
+      595.2
+     ]
+    ],
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q85-apoio-02.png",
+     30,
+     [
+      199.1,
+      374.1,
+      254.6,
+      595.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q86": {
+   "alternativas": [
+    "785bd72fc64a",
+    "caf503dd7a42",
+    "324e3fd3651e",
+    "09d01de98fdb",
+    "08294fb87f71"
+   ],
+   "apoio": "169a56626968",
+   "credito": "9e31074c2c02",
+   "enunciado": "3bd0ecaf2c6a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na lógica analisada, as duas festividades retoma",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q87": {
+   "alternativas": [
+    "a2d972935bf7",
+    "8f20207f3911",
+    "07566daaf855",
+    "270dc43a4d65",
+    "acff9538f76c"
+   ],
+   "apoio": "3e764c9d46f8",
+   "credito": "6b20e565ec38",
+   "enunciado": "81084a92bf8b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto considera que para erradicar a fome é ne",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q88": {
+   "alternativas": [
+    "cfe280bdf0c9",
+    "0303489b6c16",
+    "0085c5c807b7",
+    "3ad508713b1d",
+    "3136e63d93cb"
+   ],
+   "apoio": "1f86803c38d9",
+   "credito": "e5c1fa1a8df7",
+   "enunciado": "4dee0934633e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse contexto, a influência da urbanização, por",
+   "recortes": []
+  },
+  "enem-2017-ppl-d1-q89": {
+   "alternativas": [
+    "655397403bfa",
+    "b063fe24aa11",
+    "76469344f77e",
+    "52fb5fb1924f",
+    "293c9f1b0bdc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ee57a9e956e8",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q89-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "CO\n\nDisponível em: www1.folha.uol.com.br. Acesso",
+   "recortes": [
+    [
+     "/questoes/2017/ppl/dia1/enem-2017-ppl-d1-q89-apoio-01.png",
+     31,
+     [
+      112.3,
+      309.3,
+      509.1,
+      457.4
+     ]
+    ]
+   ]
+  },
+  "enem-2017-ppl-d1-q90": {
+   "alternativas": [
+    "02f74d2dd3ed",
+    "b77d13ba5f22",
+    "8d0eae32f0fd",
+    "9b0d14c33597",
+    "952a17951b4f"
+   ],
+   "apoio": "5c139fa30b82",
+   "credito": "78627678c48d",
+   "enunciado": "68b88edaa77e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse papel exercido pelos meios de comunicação f",
+   "recortes": []
+  }
+ }
+}

@@ -1,0 +1,1736 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2013",
+ "perfil": "motor v2013",
+ "questoes": {
+  "enem-2013-ppl-d1-q01": {
+   "alternativas": [
+    "7234ffd9631d",
+    "8f79f56f688c",
+    "ccff3c9e7276",
+    "9d15c8368150",
+    "ca3e1c452534"
+   ],
+   "apoio": "3b1bcf499eb5",
+   "credito": "9089c36fc1a7",
+   "enunciado": "367ad4e0ca2e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma explicação para a expansão dos chamados novo",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q02": {
+   "alternativas": [
+    "0f0e37c18cab",
+    "7acdd98ddf69",
+    "aad5aa9ca774",
+    "9e6d78baaf44",
+    "489b220b7fc6"
+   ],
+   "apoio": "65c61321d8ed",
+   "credito": "ea39ac9da68d",
+   "enunciado": "19e007df0bb4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto reproduz argumentos utilizados pelas pot",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q03": {
+   "alternativas": [
+    "5dc08c8d3b47",
+    "8076f74315e7",
+    "9f7f252d6d8c",
+    "e9e6103efd1b",
+    "5cf8f0d07682"
+   ],
+   "apoio": "edf7e8c048c2",
+   "credito": "7074e342b293",
+   "enunciado": "4f5403e1c142",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conflito entre as superpotências teve sua expr",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q04": {
+   "alternativas": [
+    "be4bbbf651a6",
+    "f7603da9b6c3",
+    "07e4ba502689",
+    "402b46173f21",
+    "5c310eb1900f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "9071e68ee170",
+   "enunciado": "57c54e917b02",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q04-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os eventos ocorridos no dia 11 de setembro de 20",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q04-apoio-01.jpg",
+     2,
+     [
+      323.2,
+      316.5,
+      564.7,
+      486.1
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q05": {
+   "alternativas": [
+    "816aaf3b7f6c",
+    "362f7aa2beb0",
+    "21d8548c6b6e",
+    "442e2b93b016",
+    "0db1de4fbb45"
+   ],
+   "apoio": "576e2b7c8448",
+   "credito": "9bc2524599ae",
+   "enunciado": "6aada82092bb",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A proposta de organização da sociedade apresenta",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q06": {
+   "alternativas": [
+    "1b7bc1be2261",
+    "72a16daeddc5",
+    "26d3ae7ca523",
+    "0efae507dbc8",
+    "edf4cec5d7ff"
+   ],
+   "apoio": "a08f05476e21",
+   "credito": "12918d27750e",
+   "enunciado": "770be0c36746",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa concepção de justiça, o cumprimento das no",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q07": {
+   "alternativas": [
+    "d01e6241755b",
+    "bdcdf4a1c44f",
+    "a10e9110a18b",
+    "65483aa74d32",
+    "b314f6b98eb9"
+   ],
+   "apoio": "730c228a6de1",
+   "credito": "c34f55c6153a",
+   "enunciado": "934a5d8df47f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As estratégias empregadas pelos textos para abor",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q08": {
+   "alternativas": [
+    "c6302f093994",
+    "6976dfe93666",
+    "bf8e81a065e2",
+    "1444fedfc939",
+    "ae1ae7aa216c"
+   ],
+   "apoio": "ca8b36218f89",
+   "credito": "599078f747a0",
+   "enunciado": "731a191476a1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A diferença entre os costumes assinalados no tex",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q09": {
+   "alternativas": [
+    "7d203504e6d9",
+    "26cc6288ffd9",
+    "b18b7011f8b8",
+    "3f488c7bbd26",
+    "663b7738dbe7"
+   ],
+   "apoio": "32c8fd5c897b",
+   "credito": "c2394066ed02",
+   "enunciado": "f90c1def09d0",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q09-apoio-01.png",
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q09-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A mudança na distribuição das classes de 2005 a ",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q09-apoio-01.png",
+     4,
+     [
+      88.1,
+      422.4,
+      280.3,
+      582.0
+     ]
+    ],
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q09-apoio-02.png",
+     4,
+     [
+      88.1,
+      592.2,
+      280.3,
+      751.7
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q10": {
+   "alternativas": [
+    "0b789cfcbe70",
+    "445455574db8",
+    "b16a543ffea8",
+    "8a02fc5f4efd",
+    "4c08dc26c42e"
+   ],
+   "apoio": "3f066d4a0724",
+   "credito": "a01f16977201",
+   "enunciado": "8fc81141c709",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto defende que duas mudanças provocadas pel",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q11": {
+   "alternativas": [
+    "05de19979a64",
+    "366ac7a9264c",
+    "e5f0287499be",
+    "d041e8886d42",
+    "69db8876f340"
+   ],
+   "apoio": "1ffccbdbcf6b",
+   "credito": "2ba84a2a4641",
+   "enunciado": "ec6d8457e86b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os objetivos dessa organização, nos diferentes p",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q12": {
+   "alternativas": [
+    "f43891c9fe20",
+    "0385e4890ec2",
+    "7fc7a928a52b",
+    "80747322e84a",
+    "da6c00feabd6"
+   ],
+   "apoio": "348015c31f0e",
+   "credito": "c8f1ba558038",
+   "enunciado": "23b58a5268cb",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O movimento sindical, em fins dos anos 1970, com",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q13": {
+   "alternativas": [
+    "bc5f967fa8ad",
+    "20e1888f0ec4",
+    "1506bca472a0",
+    "d10e01dab2bd",
+    "70cc774f3cc7"
+   ],
+   "apoio": "472466fcd395",
+   "credito": "8618e6119a64",
+   "enunciado": "36c9fb5aaa33",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, a análise da relação entre democracia,",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q14": {
+   "alternativas": [
+    "367684e1e1d8",
+    "d38b8cac3753",
+    "7f2130752595",
+    "5f952c8d8b9c",
+    "48875108cd83"
+   ],
+   "apoio": "85898fd09283",
+   "credito": "f9e4ece89dc0",
+   "enunciado": "b12f92b7060a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O filósofo escocês David Hume refere-se a fatos,",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q15": {
+   "alternativas": [
+    "ee9401636ead",
+    "0e320578f0f9",
+    "f30d2f38bf2f",
+    "2f7d82d44065",
+    "9c5db5c5a3e2"
+   ],
+   "apoio": "97c33ad3fb3d",
+   "credito": "32846b60511a",
+   "enunciado": "7dc37d6bcdbb",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos expressam a visão de dois pensadores —",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q16": {
+   "alternativas": [
+    "a08e2707c932",
+    "303a72642399",
+    "684d011834c1",
+    "ce0ba3439f8e",
+    "7ece9e706749"
+   ],
+   "apoio": "eee0740c04bf",
+   "credito": "db38bcd2cdea",
+   "enunciado": "12f2280e2630",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As regiões da América portuguesa tiveram distint",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q17": {
+   "alternativas": [
+    "69a468345834",
+    "49be8781fd42",
+    "7a1a0c2a1c50",
+    "10f0c2bb71c6",
+    "becedd25f24d"
+   ],
+   "apoio": "52151134c872",
+   "credito": "77209a048345",
+   "enunciado": "9d90756f7fcb",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em 1850, a Lei Eusébio de Queirós determinou a e",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q18": {
+   "alternativas": [
+    "2c880a3e3bd8",
+    "74374ab08e5e",
+    "6d618844fd32",
+    "1005d228602e",
+    "98ee57ee7d58"
+   ],
+   "apoio": "294ec1f1b3b7",
+   "credito": "2bde9450d56e",
+   "enunciado": "759ef67629a2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Refletindo sobre a correlação entre meios de com",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q19": {
+   "alternativas": [
+    "2dedadd4d6f6",
+    "7d357a484c81",
+    "f3ac91d0bc9e",
+    "f21cfdc0d3fa",
+    "21ab554e53fb"
+   ],
+   "apoio": "8a433d8deb37",
+   "credito": "29f8eb9ac44c",
+   "enunciado": "f32fc3e4dc88",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Dentre suas diversas reflexões, Leibniz voltou s",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q20": {
+   "alternativas": [
+    "9048186844c1",
+    "40aa20e3d23e",
+    "7f2d732d119c",
+    "486b8ff13d21",
+    "1d305ff2ebd0"
+   ],
+   "apoio": "a3839daa019a",
+   "credito": "28c8ef38cc81",
+   "enunciado": "25d7a62e84cc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O documento destaca um aspecto cultural relevant",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q21": {
+   "alternativas": [
+    "02e5cfe6a39d",
+    "5646ee974aea",
+    "1ce23aadfe7e",
+    "86ca108657a8",
+    "075581df73b5"
+   ],
+   "apoio": "d10ae4dd6593",
+   "credito": "e30919beb818",
+   "enunciado": "5b52e520d351",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos expressam duas visões sobre a forma co",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q22": {
+   "alternativas": [
+    "d155f56bc053",
+    "33b7a7d05d57",
+    "7d3a10529f46",
+    "ef3f19beb04e",
+    "769cb89b2a75"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "7d5f1f0608d9",
+   "enunciado": "f5e5b32f40ee",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q22-apoio-01.jpg",
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q22-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nos mapas, está representada a região dos Bálcãs",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q22-apoio-01.jpg",
+     10,
+     [
+      111.8,
+      104.1,
+      256.4,
+      316.3
+     ]
+    ],
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q22-apoio-02.jpg",
+     10,
+     [
+      60.4,
+      333.0,
+      308.1,
+      629.5
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q23": {
+   "alternativas": [
+    "c61e1f542942",
+    "0bb058ca75ff",
+    "66a7ebc0302b",
+    "5b4524d4ec77",
+    "a7315330437f"
+   ],
+   "apoio": "86a255ef6428",
+   "credito": "9f0f2d91f36c",
+   "enunciado": "2ebbfa6ce860",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A dinâmica populacional descrita indica a ocorrê",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q24": {
+   "alternativas": [
+    "7aca3defa33a",
+    "d36f8d5aba59",
+    "5e31d9fa960d",
+    "ac71ee13dad3",
+    "d01da0eaa538"
+   ],
+   "apoio": "ef339f4db90e",
+   "credito": "50cfe22ef966",
+   "enunciado": "5cfc2306e11c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto tem como objeto a construção da identida",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q25": {
+   "alternativas": [
+    "6dd305f5961d",
+    "8472b950167b",
+    "d859dfd0f2c7",
+    "f74fbea9c7c5",
+    "5451e0430be2"
+   ],
+   "apoio": "8e86ab00cd65",
+   "credito": "539ec5c7ecef",
+   "enunciado": "37d72279531c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O poema, escrito em 2001, contribui para a const",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q26": {
+   "alternativas": [
+    "d2fb0759a370",
+    "f267f70e57ad",
+    "4cb5f9445eb3",
+    "6aaff4ee6942",
+    "82e11b3940ab"
+   ],
+   "apoio": "00cd014fbbd6",
+   "credito": "046647041a7b",
+   "enunciado": "113a008da665",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A Comuna de Paris despertou a reação dos setores",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q27": {
+   "alternativas": [
+    "5ee7ee475811",
+    "8f33edabe77b",
+    "0e991479977f",
+    "962bc8faba0a",
+    "3551831b16a6"
+   ],
+   "apoio": "123eec1ba82b",
+   "credito": "8cfef18cffeb",
+   "enunciado": "8298605e9e76",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse início de século XXI, um exemplo dos desen",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q28": {
+   "alternativas": [
+    "e081b1d436a2",
+    "2f2edaf7dddc",
+    "d448abb35246",
+    "cb767c39ad75",
+    "ec446468ad30"
+   ],
+   "apoio": "6eaf61ca4f14",
+   "credito": "23147db62bc6",
+   "enunciado": "b35560ae45ec",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Atualmente, no Brasil, a utilização de pequenas ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q29": {
+   "alternativas": [
+    "3ffc50c85053",
+    "2d85a96fdbc4",
+    "d58c28f6a7bf",
+    "023ef4ba1497",
+    "dc9ac9867202"
+   ],
+   "apoio": "af9d9bf7165b",
+   "credito": "6bd08765128f",
+   "enunciado": "526bfc1f6d6f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com relação ao lucro obtido pelas empresas produ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q30": {
+   "alternativas": [
+    "db7e50c2aee2",
+    "0f3e40caecfc",
+    "a1e3086809b1",
+    "240077004689",
+    "5cd869adaa25"
+   ],
+   "apoio": "7134e13409db",
+   "credito": "839daec8514b",
+   "enunciado": "ad7a87519d71",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Tendo em vista as transformações socioeconômicas",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q31": {
+   "alternativas": [
+    "a60da1861b2c",
+    "8d621cd35ca1",
+    "72bdb2b36c44",
+    "ba4327323e33",
+    "0f33708d03cb"
+   ],
+   "apoio": "37abd4ad796a",
+   "credito": "8938a44854b6",
+   "enunciado": "a5bd80737bdd",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os dois aspectos ressaltados pelos textos sobre ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q32": {
+   "alternativas": [
+    "32147a9155ce",
+    "bfda800e9f91",
+    "b803c2b3ef91",
+    "71fea6ec3285",
+    "5984a5f813aa"
+   ],
+   "apoio": "bbf372446c8a",
+   "credito": "eb720d6b366b",
+   "enunciado": "e28a10eb4dac",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O avanço tecnológico e os impactos socioambienta",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q33": {
+   "alternativas": [
+    "33f37e1a741d",
+    "89ee51feda10",
+    "7fdfcb0e130d",
+    "48bbdfb1b41f",
+    "7e478a0e162c"
+   ],
+   "apoio": "11def5b0fa2a",
+   "credito": "c5e91403a972",
+   "enunciado": "bd535f4d1c37",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em solos ácidos como os brasileiros, o método ma",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q34": {
+   "alternativas": [
+    "8a71b51895cb",
+    "e38cb26ec8b8",
+    "af20e29b513f",
+    "726237534567",
+    "1f924fe39492"
+   ],
+   "apoio": "5d578d50936a",
+   "credito": "dc28c25458c4",
+   "enunciado": "3b397d2c929d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma política pública relacionada com a contradiç",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q35": {
+   "alternativas": [
+    "069652756709",
+    "80f143efcb84",
+    "0a97acd8edac",
+    "2cfe94d24f58",
+    "dd254653de34"
+   ],
+   "apoio": "c5db04f843c7",
+   "credito": "718d48024732",
+   "enunciado": "bccf68560c90",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto refere-se à reforma urbanística ocorrida",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q36": {
+   "alternativas": [
+    "4a208a134e8c",
+    "bdb15b2d397c",
+    "59bcdd8d88ca",
+    "e14bdfe1fcdb",
+    "d441b3fb80ed"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1b03078befb2",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q36-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Brasileiros de 5 anos ou mais de idade que vivia",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q36-apoio-01.png",
+     14,
+     [
+      91.0,
+      153.2,
+      270.1,
+      282.0
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q37": {
+   "alternativas": [
+    "93e27ebd0425",
+    "a230630153c7",
+    "3d5ecc378aae",
+    "16a7a9808742",
+    "7b1835dbdb06"
+   ],
+   "apoio": "d6951918c20b",
+   "credito": "c6f29efa0400",
+   "enunciado": "34325175f207",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em seu discurso de posse, como forma de legitima",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q38": {
+   "alternativas": [
+    "4b1779095c04",
+    "9740186c9d60",
+    "2402ccf1c517",
+    "b3565c7850c1",
+    "4a84216061c7"
+   ],
+   "apoio": "11713cedbdca",
+   "credito": "861402ddc75f",
+   "enunciado": "e77bcc22ec3b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No espaço urbano brasileiro, vêm se agravando os",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q39": {
+   "alternativas": [
+    "af370dd4a36d",
+    "a9ce92617fec",
+    "949bb8d7b1dd",
+    "116ab590cf9b",
+    "44143788327d"
+   ],
+   "apoio": "88a7005dec00",
+   "credito": "90adbd5a1b24",
+   "enunciado": "d89d8edb7be1",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com as transformações ocorridas nas áreas rurais",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q40": {
+   "alternativas": [
+    "49ca2453ccfa",
+    "5110ed160ce8",
+    "5bb0823e8d45",
+    "0b2883e7759a",
+    "2826537c22b9"
+   ],
+   "apoio": "fca9a9d84ff3",
+   "credito": "042148245e6a",
+   "enunciado": "426bbc1bbc5c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As medidas adotadas pelo governo de Cingapura ob",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q41": {
+   "alternativas": [
+    "2d8dfe90976a",
+    "b0336dd92273",
+    "0300f9b672a4",
+    "be4819373f9a",
+    "8fefa64ec793"
+   ],
+   "apoio": "e0a72e8b95db",
+   "credito": "5b77a2f65866",
+   "enunciado": "717b88385b2b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto, o cadastramento do Baile Charme",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q42": {
+   "alternativas": [
+    "7d86fa0583df",
+    "749b3553e97d",
+    "07f8e2b25d40",
+    "d06741b07057",
+    "aec61e4dcb53"
+   ],
+   "apoio": "8600c0114eb3",
+   "credito": "8cdc4be957f7",
+   "enunciado": "6f2545d712f4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As transformações ocorridas na cidade do Rio de ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q43": {
+   "alternativas": [
+    "437febd0315b",
+    "6762d62f6f5e",
+    "67182277eb0c",
+    "661286a07805",
+    "62c3d7496327"
+   ],
+   "apoio": "38ecc962b720",
+   "credito": "c4b68659f8da",
+   "enunciado": "01d7122c104e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo Aristóteles, pode-se reconhecer uma ação",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q44": {
+   "alternativas": [
+    "87a1b86094a7",
+    "9a626def2581",
+    "fcfdb158f7a5",
+    "75a3a9192599",
+    "9b44a9b9723a"
+   ],
+   "apoio": "c281668ef72e",
+   "credito": "c46cfc14fd22",
+   "enunciado": "a99996da6ccf",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A partir do texto, é possível perceber a crítica",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q45": {
+   "alternativas": [
+    "4c2a24802a3a",
+    "a223f32ec855",
+    "8c86d167e2a3",
+    "8bf0255c22c9",
+    "c964aa20a966"
+   ],
+   "apoio": "4a37c18f8ad9",
+   "credito": "16bda7d588c0",
+   "enunciado": "411e76adf9cc",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto indica que houve uma transformação dos e",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q46": {
+   "alternativas": [
+    "b6f6d6f39ff0",
+    "2badb54c47a0",
+    "71de7bb57907",
+    "77a77287ba02",
+    "0208bfdfbfb0"
+   ],
+   "apoio": "e37409ce44aa",
+   "credito": "acd3f3f83ea3",
+   "enunciado": "e1d1527abf73",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q46-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com o padrão apresentado no gráfico, a",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q46-apoio-01.png",
+     17,
+     [
+      92.7,
+      212.5,
+      289.2,
+      413.7
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q47": {
+   "alternativas": [
+    "bdbc290b97ea",
+    "a6a7b188958b",
+    "f36faf43da0f",
+    "c99f2c1c2929",
+    "012f1347a17e"
+   ],
+   "apoio": "910dc130a8cb",
+   "credito": "a61d0a5856c9",
+   "enunciado": "556ec0f13860",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Dentre as etapas descritas, a atividade biológic",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q48": {
+   "alternativas": [
+    "f3d79c5e16d8",
+    "5f930ac0d28e",
+    "805a5ef4a19a",
+    "fa58ba5717d0",
+    "a6f6239ade40"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d12d24da66d6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trem de passageiros da Estrada de Ferro Vitóri",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q49": {
+   "alternativas": [
+    "dab87d047655",
+    "611b1e9de4dd",
+    "e7f1a453597b",
+    "9935a26e0da3",
+    "0aa257b4ad87"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "38d837be5afa",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q49-apoio-01.png",
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q49-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Balão de festa com\nbicarbonato de sódio\npreso a ",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q49-apoio-01.png",
+     18,
+     [
+      291.6,
+      104.3,
+      362.8,
+      300.6
+     ]
+    ],
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q49-apoio-02.png",
+     18,
+     [
+      200.1,
+      180.8,
+      263.6,
+      300.6
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q50": {
+   "alternativas": [
+    "7ee64586a023",
+    "7d97c6dac352",
+    "ea4fa7e99aae",
+    "80fcd6465c7a",
+    "e4f490981e2e"
+   ],
+   "apoio": "13ac2b481c0b",
+   "credito": "35f6effd5919",
+   "enunciado": "aa46fcec7101",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os animais descritos foram classificados como es",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q51": {
+   "alternativas": [
+    "cb50d1d8d89a",
+    "6aa4cbbb35d6",
+    "33da1093f1bd",
+    "189ca4bda5e5",
+    "ee57d04d41ca"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "65c61f18df8f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um grupo de amigos foi passar o fim de semana em",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q52": {
+   "alternativas": [
+    "dc4783db1b20",
+    "55278cc073bb",
+    "98e69c914338",
+    "c6ec8a4765cf",
+    "35fce960d6e3"
+   ],
+   "apoio": "121e8644c09f",
+   "credito": "a902e9194c0d",
+   "enunciado": "cd146cb2edd8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O piloto consegue apanhar o projétil, pois",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q53": {
+   "alternativas": [
+    "d4ddd5c43981",
+    "052b87510a54",
+    "2047ccd69d9e",
+    "3826b951d576",
+    "5687178e11d9"
+   ],
+   "apoio": "707e447d8cb8",
+   "credito": "a587469d29a3",
+   "enunciado": "a80e4a2852ed",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando as adaptações nos órgãos vegetativo",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q54": {
+   "alternativas": [
+    "e9e6647c18c1",
+    "4e987ed49234",
+    "649f40906b6d",
+    "a80f8bd8f4f8",
+    "da4b23121dd3"
+   ],
+   "apoio": "a419ea2734af",
+   "credito": "efc4f4b2f498",
+   "enunciado": "c248c24d40e2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando a obtenção de chumbo metálico a par",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q55": {
+   "alternativas": [
+    "4678d64eb51f",
+    "7e281bce845b",
+    "b058bcc395d1",
+    "2daa8e163b76",
+    "2c61a80748e0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "abfa79d5aef5",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A palha de aço, um material de baixo custo e vid",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q56": {
+   "alternativas": [
+    "717047ec18ba",
+    "fe1ca45513fb",
+    "1a76f32a7c0a",
+    "bd8120abc5eb",
+    "7d360a3d77e9"
+   ],
+   "apoio": "7a5fd85e2144",
+   "credito": "d59a90bf7f2d",
+   "enunciado": "4f20e595bf4a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto de Carlos Drummond de Andrade aborda dua",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q57": {
+   "alternativas": [
+    "955bb4495d71",
+    "50be46dbfb0e",
+    "be2b5d7296db",
+    "1d2841ef03a3",
+    "49759a2eed7a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d64f50d935a9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A banda larga brasileira é lenta. No Japão já ex",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q58": {
+   "alternativas": [
+    "68fb4749c3a5",
+    "f16de9231af4",
+    "5ab62f9da5e7",
+    "f3aadcbef606",
+    "11bde758b7a4"
+   ],
+   "apoio": "c7c93eac405b",
+   "credito": "6e7ca4d47b3d",
+   "enunciado": "84d011ea977a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O contato dos materiais metálicos citados produz",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q59": {
+   "alternativas": [
+    "b70706fdb002",
+    "ae1e7198bc30",
+    "17503a6b2326",
+    "c097638f92de",
+    "80e28a51cbc2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d9a38c8bdbaa",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A mosca Drosophila, conhecida como mosca-das-fru",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q60": {
+   "alternativas": [
+    "6d67b9c595cc",
+    "881e60576aee",
+    "2236ecb7d765",
+    "fb193f0cb0be",
+    "b0390f8fbd4a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "349fee6fb1d7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para a produção de etanol combustível, as usinas",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q61": {
+   "alternativas": [
+    "902c64185c4b",
+    "ed7963c161b1",
+    "5a09d0c2340b",
+    "8881b677ed75",
+    "520e2322cb2d"
+   ],
+   "apoio": "335732416533",
+   "credito": "ea5dc7334348",
+   "enunciado": "645922be92d5",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A leitura no densímetro que corresponderia à fra",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q62": {
+   "alternativas": [
+    "691be28da9bb",
+    "5feedb069a4d",
+    "e90141091345",
+    "c16201141a8f",
+    "64e28ba59670"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cce892cedbb9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Há processos industriais que envolvem reações qu",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q63": {
+   "alternativas": [
+    "1c007c838cea",
+    "1f75c130458f",
+    "a432d2634e0c",
+    "b63ff2aa1133",
+    "84ced5720abf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "167794b70ce9",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-01.png",
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-02.png",
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O sistema somatossensorial nos informa o que oco",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-01.png",
+     23,
+     [
+      59.9,
+      226.2,
+      130.8,
+      259.6
+     ]
+    ],
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-02.png",
+     23,
+     [
+      59.9,
+      247.6,
+      259.6,
+      288.8
+     ]
+    ],
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q63-apoio-03.png",
+     23,
+     [
+      59.9,
+      334.5,
+      309.4,
+      359.8
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q64": {
+   "alternativas": [
+    "43bbb14aee66",
+    "0ea894651e25",
+    "47bf25463c59",
+    "252d22938586",
+    "c41b07a5a8d2"
+   ],
+   "apoio": "1aea07cb5f03",
+   "credito": "f9655d0b839e",
+   "enunciado": "99c276020aad",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O que a pessoa irá observar à medida que expira ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q65": {
+   "alternativas": [
+    "54b25e6482b2",
+    "348150176aab",
+    "e3e7e65cc533",
+    "87384e15a52b",
+    "830ffb9783bb"
+   ],
+   "apoio": "e6628a0eb319",
+   "credito": "504f77becb1e",
+   "enunciado": "6209a11ed540",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um risco associado ao uso dessa biotecnologia é ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q66": {
+   "alternativas": [
+    "6e9c420e79aa",
+    "f38d9009a02e",
+    "6b2e53d7027c",
+    "5adcc191f88b",
+    "2e047a4a54f6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "68d5b0c924d2",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q66-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Retirar a roda de um carro é uma tarefa facilita",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q66-apoio-01.jpg",
+     24,
+     [
+      109.9,
+      131.8,
+      518.2,
+      243.3
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q67": {
+   "alternativas": [
+    "1048054acf1c",
+    "0ec5a84cd885",
+    "cbfa37f9a7fd",
+    "5ae7d1f53d91",
+    "32498a3a330e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f3dff8f5293d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A qualidade de óleos de cozinha, compostos princ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q68": {
+   "alternativas": [
+    "4546c8b2a60d",
+    "39819324058a",
+    "e246dacb88da",
+    "df5306daff6e",
+    "9743adf257ab"
+   ],
+   "apoio": "de0b2724e5db",
+   "credito": "744ce5b8eaee",
+   "enunciado": "27235b6490d6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessa aplicação, o uso do PET é vantajoso, pois",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q69": {
+   "alternativas": [
+    "da8a6a6c7c7f",
+    "1df5257e95c2",
+    "5f9d2c903672",
+    "3b8d4ce7f5e4",
+    "35be9e8167e7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "99961e5cc97b",
+   "enunciado": "63403e9bbf15",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q69-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Quais são os processos de propagação de calor re",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q69-apoio-01.jpg",
+     25,
+     [
+      67.7,
+      292.5,
+      560.4,
+      391.1
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q70": {
+   "alternativas": [
+    "f72224579659",
+    "d0bf49425179",
+    "57ef550e2e75",
+    "1ea34fa80fb8",
+    "db65429726da"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "69b812d67c64",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O mármore é um material empregado para revestime",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q71": {
+   "alternativas": [
+    "24e17fbec4af",
+    "b4671d4f7824",
+    "2091e14fb517",
+    "0aa7a3c8e526",
+    "28d188f13b06"
+   ],
+   "apoio": "cf2643c969bb",
+   "credito": "f7e938bdc356",
+   "enunciado": "dc9d1739ec46",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse processo, as algas atuam como agentes que ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q72": {
+   "alternativas": [
+    "356da4c5a8ae",
+    "f7a1669cf138",
+    "b284410738dc",
+    "1c8443536d09",
+    "9b820a4958a5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ea16c225b731",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um violão afinado, quando se toca a corda Lá ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q73": {
+   "alternativas": [
+    "444359075773",
+    "04d03af23cf2",
+    "deb0bef5a2b5",
+    "78c3b540e701",
+    "9557a974dc36"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "df69e840c1f4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um enfeite para berço é constituído de um aro me",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q74": {
+   "alternativas": [
+    "1d9f919cc917",
+    "7ab4e650c8df",
+    "a031dd40cd10",
+    "f39ce0e36c39",
+    "a4051a77d49e"
+   ],
+   "apoio": "ad0db5da3ebd",
+   "credito": "29e9402ea0aa",
+   "enunciado": "d01ff4fab3ef",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O uso da hematita viabiliza economicamente a pro",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q75": {
+   "alternativas": [
+    "48fdca52b86e",
+    "e31fdcb0fa0d",
+    "797bc897d480",
+    "d3ef15a61d85",
+    "105ba9941cab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d4c755316de1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Devido à sua resistência mecânica, baixa conduti",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q76": {
+   "alternativas": [
+    "7566cf4a1489",
+    "91b903d3c37d",
+    "5edb9a28eadf",
+    "825355150aa6",
+    "44388d9a9166"
+   ],
+   "apoio": "8f43cd9b4069",
+   "credito": "3b9fe9510a41",
+   "enunciado": "fd0f0655f90c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A transformação de energia que ocorre na pilha d",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q77": {
+   "alternativas": [
+    "ed050fec1569",
+    "3cbdd279ccd1",
+    "42659d405a41",
+    "bc41d4e5cb57",
+    "34da2d564196"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8bac6061de75",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q77-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O estudo do comportamento dos neurônios ao longo",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q77-apoio-01.jpg",
+     28,
+     [
+      196.0,
+      142.1,
+      432.5,
+      502.6
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q78": {
+   "alternativas": [
+    "704b7cc40514",
+    "0606c072bfdd",
+    "773bd4db87f6",
+    "3e82fd52eec8",
+    "161694f45d2a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a37660c854b0",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Visando reduzir a poluição sonora de uma cidade,",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q79": {
+   "alternativas": [
+    "6a6c6464745f",
+    "d08f1688e94f",
+    "2b612fcd6ea4",
+    "eecbbdee6f51",
+    "8261c8d90a91"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "00405aa621fc",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Industrialmente é possível separar os componente",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q80": {
+   "alternativas": [
+    "9d6634f1c937",
+    "bf6d942f2f93",
+    "173c066872ec",
+    "bdd1f4042047",
+    "e968cfd4bd5b"
+   ],
+   "apoio": "edcb291b7c27",
+   "credito": "d2245792e498",
+   "enunciado": "b5a88c3c0ff3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para viverem em ambiente tão peculiar, as planta",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q81": {
+   "alternativas": [
+    "65a8e98f718a",
+    "587e5866c82a",
+    "0ff18567614e",
+    "7512494d41e8",
+    "21c32fe679c9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f4e3f439cf79",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma experiência didática, cinco esferas de me",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q82": {
+   "alternativas": [
+    "2e394ff76f07",
+    "3e88794ee59c",
+    "a995f94f5051",
+    "33f676bf43ac",
+    "11efe0c14ca8"
+   ],
+   "apoio": "8277ad762364",
+   "credito": "a0ececda40e9",
+   "enunciado": "aa985b091a66",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um dos efeitos nocivos promovidos pela poluição ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q83": {
+   "alternativas": [
+    "0664026a2795",
+    "e181ce586984",
+    "1748331b8cc4",
+    "8f40b4d02fd1",
+    "9a5ae6a23970"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "98123430376a",
+   "enunciado": "31922d8109e7",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q83-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A posição ocupada pela vaca, na interação aprese",
+   "recortes": [
+    [
+     "/questoes/2013/ppl/dia1/enem-2013-ppl-d1-q83-apoio-01.jpg",
+     30,
+     [
+      96.9,
+      104.2,
+      531.2,
+      227.3
+     ]
+    ]
+   ]
+  },
+  "enem-2013-ppl-d1-q84": {
+   "alternativas": [
+    "470d64bf9d12",
+    "d17824ad8d9d",
+    "a1f3b7f85bb5",
+    "652c4c86b77e",
+    "b337386661d2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1f805201e2a0",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "É comum nos referirmos a dias quentes como dias ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q85": {
+   "alternativas": [
+    "0c821c1ca7d5",
+    "08090266a572",
+    "2a623415643a",
+    "40684c961c7b",
+    "55e6abe4e648"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "191f6a3871b7",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Antes das lombadas eletrônicas, eram pintadas fa",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q86": {
+   "alternativas": [
+    "902ec8d8f7ba",
+    "5d0f85277ac9",
+    "6f323c99b63e",
+    "84482d42f14c",
+    "fae86641e647"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9efc16a348d1",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Mitocôndrias são organelas citoplasmáticas em qu",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q87": {
+   "alternativas": [
+    "e2d289d744b0",
+    "d888b9626dce",
+    "d1abd9f5bfa8",
+    "f9d022cb5368",
+    "51fa0788ae84"
+   ],
+   "apoio": "b86acbb1f4a4",
+   "credito": "3263ef475c8d",
+   "enunciado": "4edd6449ac0e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A propriedade das ondas que permite, nesse caso,",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q88": {
+   "alternativas": [
+    "eb97046967db",
+    "ae1d38064c18",
+    "9391fb1adc9b",
+    "0c14a4d304bf",
+    "7f5859da1c6e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "014a023234bd",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em 1861 foi anunciada a existência de um fóssil ",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q89": {
+   "alternativas": [
+    "1ddd08dbde26",
+    "76f2c03d11c8",
+    "54454f09b961",
+    "b3078f514f08",
+    "0aa8885eea73"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e6f37e0ef030",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Quando a luz branca incide em uma superfície met",
+   "recortes": []
+  },
+  "enem-2013-ppl-d1-q90": {
+   "alternativas": [
+    "60e67d090340",
+    "43ca06266b5f",
+    "75964f2164cf",
+    "19ed0be030e4",
+    "21cafa74e3f6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "76290993864f",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Algumas estimativas apontam que, nos últimos cem",
+   "recortes": []
+  }
+ }
+}

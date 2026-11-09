@@ -68,6 +68,8 @@ class Perfil:
     ignorar_cropbox: bool = False    # CropBox do PDF corta conteúdo (2009): usa a página inteira como área visível
     alternativas_lado_a_lado: bool = False  # "A ...   D ..." na mesma linha (marcador de fonte): separa as alternativas
     proteger_rotulos: bool = False   # o rótulo "Questão NN" nunca é engolido por uma figura encostada nele
+    ignorar_fundo_pagina: bool = False  # objeto gráfico que cobre >40% da página é fundo, não figura (digital)
+    botoes_alternativa: bool = False  # alternativa desenhada dentro de um botão retangular (digital 2021-2022)
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
     cor_gabarito: str = ''           # gabarito com várias cores lado a lado (2009): cor da coluna a usar
@@ -147,9 +149,14 @@ MOTORES = {
 # Ajustes por dia/categoria dentro de um motor: {'v2024': [Regra(...), ...]}
 REGRAS = {
     f'v{ano}': [Regra('digital: uma questão por página, rótulo com a área', categorias=('digital',),
-                      ajustes=dict(rotulo_com_area=True, letra_em_circulo=True, topo_rel=topo))]
+                      ajustes=dict(rotulo_com_area=True, letra_em_circulo=True, topo_rel=topo,
+                                   ignorar_fundo_pagina=True))]
     for ano, topo in ((2020, 0.04), (2021, 0.028), (2022, 0.015))
 }
+for _ano in (2021, 2022):          # letras das alternativas em Segoe UI Bold dentro de um círculo
+    REGRAS[f'v{_ano}'].append(Regra('digital: letras em SegoeUI-Bold', categorias=('digital',),
+                                    ajustes=dict(fontes_letra=('Bundesbahn', 'Circled', 'SegoeUI-Bold'),
+                                                 botoes_alternativa=True)))
 
 
 def obter_perfil(ano, dia, categoria, sobrescritas=None):

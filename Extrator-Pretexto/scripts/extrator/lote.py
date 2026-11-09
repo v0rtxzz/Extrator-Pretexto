@@ -6,7 +6,7 @@ Pretexto · extração em lote de várias edições do ENEM (cada ano com o seu 
 Fluxo recomendado
   1. Validação prévia (nada é gravado):
        python scripts/extrator/lote.py --de 2009 --ate 2025 --dry-run
-  2. Leia relatorios/CONSOLIDADO.md. Provas com status OK podem ser gravadas.
+  2. Leia relatorios/CONSOLIDADO.md. Provas com status OK podem ser gravadas (resumo em relatorios/GRAVACAO.md).
   3. Gravação definitiva (imagens + SQL), por padrão só das provas aprovadas na etapa 1:
        python scripts/extrator/lote.py --de 2009 --ate 2025 --gravar [--explicar]
 
@@ -86,7 +86,8 @@ def sem_gabarito(pasta, ano):
 
 def escrever_consolidado(resultados, faltando_gab, rotulo):
     PASTA_REL.mkdir(exist_ok=True)
-    (PASTA_REL / 'CONSOLIDADO.json').write_text(
+    nome = 'CONSOLIDADO' if rotulo == 'dry-run' else 'GRAVACAO'     # a gravação não apaga o relatório da validação
+    (PASTA_REL / f'{nome}.json').write_text(
         json.dumps({'etapa': rotulo, 'provas': resultados, 'sem_gabarito': faltando_gab}, ensure_ascii=False, indent=1),
         encoding='utf-8')
     linhas = [f'# Relatório consolidado da extração ({rotulo})', '',
@@ -133,7 +134,7 @@ def escrever_consolidado(resultados, faltando_gab, rotulo):
         for qid, av in sorted(r['avisos'].items()):
             linhas.append(f'- `{qid}`: {"; ".join(av)}')
         linhas.append('')
-    (PASTA_REL / 'CONSOLIDADO.md').write_text('\n'.join(linhas), encoding='utf-8')
+    (PASTA_REL / f'{nome}.md').write_text('\n'.join(linhas), encoding='utf-8')
 
 
 def main():
@@ -175,7 +176,7 @@ def main():
             extra = '' if rel.get('erro') else f' {rel["extraidas"]}/{rel["esperadas"]}'
             print(f'  {nome}: {rel["status"]}{extra}', flush=True)
     escrever_consolidado(resultados, faltando_gab, 'gravação' if a.gravar else 'dry-run')
-    print(f'Relatório: {PASTA_REL / "CONSOLIDADO.md"}')
+    print(f'Relatório: {PASTA_REL / ("GRAVACAO.md" if a.gravar else "CONSOLIDADO.md")}')
 
 
 if __name__ == '__main__':

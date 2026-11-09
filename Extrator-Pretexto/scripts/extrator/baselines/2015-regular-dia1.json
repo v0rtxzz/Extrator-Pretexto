@@ -1,0 +1,1987 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2015",
+ "perfil": "motor v2015",
+ "questoes": {
+  "enem-2015-regular-d1-q01": {
+   "alternativas": [
+    "533e458d7083",
+    "04ed83075bf3",
+    "b56d3e113a87",
+    "ca4cfacbe3fa",
+    "5a724f4e011b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "c792c5faf67d",
+   "enunciado": "6fb636751315",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No mapa estão representados os biomas brasileiro",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q02": {
+   "alternativas": [
+    "6969745bd7b1",
+    "d48ccbd1f406",
+    "a91260487eb2",
+    "232adbd5f706",
+    "17dc07e9ec23"
+   ],
+   "apoio": "981d3b886711",
+   "credito": "01da813656ee",
+   "enunciado": "cac0a2f504ca",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação ao mundo do trabalho, a transformação",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q03": {
+   "alternativas": [
+    "617ff6b5915a",
+    "8f26cdd62e60",
+    "c6aae4186a33",
+    "676fd94f6138",
+    "092bb15cb9fe"
+   ],
+   "apoio": "f3e6eb101ac2",
+   "credito": "f10e3a287c23",
+   "enunciado": "180e0ea60aa0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Paulo Freire defende que a superação das dificul",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q04": {
+   "alternativas": [
+    "5cb552426f3d",
+    "d9e26ad3a1a3",
+    "5a64f44bd440",
+    "37f4e2933a51",
+    "ca8a37b94ca8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "b38d24272fd7",
+   "enunciado": "470031c10be4",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q04-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Na charge há uma crítica ao processo produtivo a",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q04-apoio-01.jpg",
+     2,
+     [
+      322.2,
+      350.3,
+      565.7,
+      530.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q05": {
+   "alternativas": [
+    "d96a0ff8682a",
+    "19d52c7056a5",
+    "cbe93cf1cf1a",
+    "efa252638d04",
+    "c9249e546301"
+   ],
+   "apoio": "f46641f9e4bb",
+   "credito": "877590b8f4f5",
+   "enunciado": "3e2fc8b30d05",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ideologia apresentada por Aldalberon de Laon f",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q06": {
+   "alternativas": [
+    "c2457b85c3b8",
+    "615c49cf84f0",
+    "ac36789d8d86",
+    "16771f3f5170",
+    "bf82a069aab5"
+   ],
+   "apoio": "8a1ca212157e",
+   "credito": "07e7ad1f214b",
+   "enunciado": "6b1df9b6e658",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A observação do cronista português Pero de Magal",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q07": {
+   "alternativas": [
+    "51a120bd7d7b",
+    "af51bcedc5b9",
+    "cb6f10e4486c",
+    "d3639eac7397",
+    "a6c9c35ee7f0"
+   ],
+   "apoio": "0b006e7648ce",
+   "credito": "0747371c5d01",
+   "enunciado": "7fa12295cb8b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, as reformas econômicas ocorridas na Ch",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q08": {
+   "alternativas": [
+    "b61529050e42",
+    "a4d6d7bfdea2",
+    "9e5c30062f7b",
+    "5efe4d8c8ddd",
+    "4cb45617bdf1"
+   ],
+   "apoio": "05f48a9107bc",
+   "credito": "44512c6876a2",
+   "enunciado": "02fe2cd2098f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Inicialmente restrita, a crise descrita no texto",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q09": {
+   "alternativas": [
+    "89a20bb8c97f",
+    "b5f48270c530",
+    "69e8d498e074",
+    "092e49c0f747",
+    "a7e725da2fb2"
+   ],
+   "apoio": "ad7060370108",
+   "credito": "b2c2865ef89c",
+   "enunciado": "71ede36eb8da",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse poema, o líder angolano Agostinho Neto, na",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q10": {
+   "alternativas": [
+    "e6ab3bb02d2b",
+    "c3ccffa74509",
+    "4978826b7a1a",
+    "681c18e3aaa9",
+    "11a01c2d7089"
+   ],
+   "apoio": "56fc07c32ac3",
+   "credito": "1a6fc5ad4a0a",
+   "enunciado": "b796dde2c345",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A prática governamental descrita no texto, com a",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q11": {
+   "alternativas": [
+    "c7e55ad09f16",
+    "1b84f18b2985",
+    "f99671ab7b83",
+    "f0998e34aa89",
+    "e31e9ed738b8"
+   ],
+   "apoio": "b977e4b23c0f",
+   "credito": "0a518b50350a",
+   "enunciado": "bcc47244dc74",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q11-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os calendários são fontes históricas importantes",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q11-apoio-01.jpg",
+     5,
+     [
+      117.8,
+      124.7,
+      510.3,
+      468.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q12": {
+   "alternativas": [
+    "d6c777d83b54",
+    "6d670819b3ca",
+    "48eada89bded",
+    "f1683131084f",
+    "782612a62f98"
+   ],
+   "apoio": "5ff06f7c22f4",
+   "credito": "c79c1654930c",
+   "enunciado": "fc2a69e7256b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma causa para o processo socioespacial menciona",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q13": {
+   "alternativas": [
+    "570c973fc68e",
+    "75bc48afe896",
+    "9306c42e1ff9",
+    "7f5e15127a4b",
+    "0321abfbea37"
+   ],
+   "apoio": "5c4f12d7da61",
+   "credito": "5343a54f398d",
+   "enunciado": "b419b5d4761d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O sofista Trasímaco, personagem imortalizado no ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q14": {
+   "alternativas": [
+    "4595a8e90bd5",
+    "ba18dd1b1149",
+    "d042410c53b8",
+    "6e008c1b5d6f",
+    "a962a9ec842b"
+   ],
+   "apoio": "8ad7e68d8493",
+   "credito": "651349f7f926",
+   "enunciado": "17e221279136",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um traço formador da vida pública brasileira exp",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q15": {
+   "alternativas": [
+    "bc37c20bbc16",
+    "d11147f0c8f7",
+    "4ab69d83d81b",
+    "ed9ff36e2778",
+    "ce60ddc54c1a"
+   ],
+   "apoio": "e3ae76a995a9",
+   "credito": "705616291cce",
+   "enunciado": "ecc522b1dcf6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A existência de um projeto como o apresentado no",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q16": {
+   "alternativas": [
+    "c3576dbb330b",
+    "ee285ed062de",
+    "b5e863602a4f",
+    "f9dbb852d6e3",
+    "1f6de0657ba4"
+   ],
+   "apoio": "aa0410ddb91f",
+   "credito": "dfa7804e40f8",
+   "enunciado": "84bc9024c32d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Hume estabelece um vínculo entre pensamento e im",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q17": {
+   "alternativas": [
+    "ad964a4540d2",
+    "abdad9c4543a",
+    "364e8677ab15",
+    "8989cb869a7f",
+    "7a22903828a7"
+   ],
+   "apoio": "74d254860fc6",
+   "credito": "b34dee7665ce",
+   "enunciado": "278ec77ced4d",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No trecho citado, Tomás de Aquino justifica a mo",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q18": {
+   "alternativas": [
+    "1674a1b5dcfd",
+    "26ab3c40e75c",
+    "76fa0038fd2a",
+    "95ce3e6d4ef2",
+    "168e154cb344"
+   ],
+   "apoio": "0312e8b7e3b2",
+   "credito": "7e0012145666",
+   "enunciado": "63c9742e880d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação ao regime democrático no país, a inst",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q19": {
+   "alternativas": [
+    "e28ddfaf513a",
+    "3cc744475980",
+    "8858b55305e8",
+    "adfefe827d3e",
+    "7d37c537c07e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "37cb0aa6d716",
+   "enunciado": "d9e18754ded0",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q19-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "No período de 1964 a 1985, a estratégia do Regim",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q19-apoio-01.jpg",
+     7,
+     [
+      320.1,
+      102.8,
+      564.1,
+      397.2
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q20": {
+   "alternativas": [
+    "a3ba8f771a89",
+    "b9fe0042ac5b",
+    "619ab447aa92",
+    "8aa6fb3143f0",
+    "141294d2fbb6"
+   ],
+   "apoio": "619cd463ffb2",
+   "credito": "1ff6d41b06fb",
+   "enunciado": "18c15e852084",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O discurso proferido em uma celebração em que as",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q21": {
+   "alternativas": [
+    "d5f57a00d646",
+    "a9d3fd0f1dfb",
+    "0b0f06de75ef",
+    "646b86bbfe85",
+    "d690979d7c18"
+   ],
+   "apoio": "7ce502fbe54a",
+   "credito": "f848ccf95452",
+   "enunciado": "c180ea515ba1",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As ações tomadas pelos países contra a espionage",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q22": {
+   "alternativas": [
+    "6e8354e624c6",
+    "f1897c06c435",
+    "aa4c5b7c2ce1",
+    "b4f7e1b087c8",
+    "98eadf7e267a"
+   ],
+   "apoio": "5acd35cc61f5",
+   "credito": "a476f9e483ec",
+   "enunciado": "ec079090e69e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os relatos do último ato da Guerra de Canudos fa",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q23": {
+   "alternativas": [
+    "c34f4e4ae760",
+    "3468581e66c6",
+    "628da593392c",
+    "bdebfed98d27",
+    "1a95fa592a45"
+   ],
+   "apoio": "1273d2e5117d",
+   "credito": "467248c2736e",
+   "enunciado": "0d059b3be599",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sobre o fim da escravidão no Brasil, o elemento ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q24": {
+   "alternativas": [
+    "604d75bf9ba1",
+    "e119f4a9145d",
+    "2235c493cb8d",
+    "3eb4143dfb5c",
+    "8f8fdcf5055d"
+   ],
+   "apoio": "6a28f5c2afe0",
+   "credito": "b98f4d14d0a7",
+   "enunciado": "71ef320ae331",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para o autor, a “forma de hegemonia” e uma de su",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q25": {
+   "alternativas": [
+    "a62189453a8a",
+    "b1ba15abe3e8",
+    "12b6f6c35c06",
+    "c0892a782a93",
+    "198a67e0db3b"
+   ],
+   "apoio": "6badfb3a7f89",
+   "credito": "58327ec215e3",
+   "enunciado": "4220badb6fbc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No processo da redemocratização brasileira, os n",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q26": {
+   "alternativas": [
+    "e2c75d3f622b",
+    "3292fe238df4",
+    "ebe926e265c4",
+    "85c6a4a2f405",
+    "bf369a6224b0"
+   ],
+   "apoio": "0545361f342e",
+   "credito": "48e13b9273f5",
+   "enunciado": "10c04628447b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para Hobbes, antes da constituição da sociedade ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q27": {
+   "alternativas": [
+    "4cf5abbd9a10",
+    "9caaba6c79ce",
+    "4b767fe90060",
+    "73789bdede86",
+    "f2932e20e8c5"
+   ],
+   "apoio": "8213ec9ce40c",
+   "credito": "be788d644673",
+   "enunciado": "016fb18ab771",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-01.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-02.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-03.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com as figuras, a intensidade de intem",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-01.png",
+     10,
+     [
+      182.4,
+      136.5,
+      442.9,
+      271.4
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-02.png",
+     10,
+     [
+      159.8,
+      211.9,
+      172.2,
+      237.0
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q27-apoio-03.jpg",
+     10,
+     [
+      155.3,
+      336.9,
+      472.8,
+      659.4
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q28": {
+   "alternativas": [
+    "e1df5f9b66fd",
+    "c06c8a50825d",
+    "5f6f5e4df206",
+    "997e69cc89c9",
+    "7c62b740fb8d"
+   ],
+   "apoio": "6f2aa0e75ba5",
+   "credito": "e6d65df0c800",
+   "enunciado": "25cc9869b31f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na configuração política da democracia grega, em",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q29": {
+   "alternativas": [
+    "fae3a03310e2",
+    "61c6cfee0438",
+    "9e0b897c96f1",
+    "d5bb94d75d37",
+    "9cfe57a806f9"
+   ],
+   "apoio": "e34e265936c0",
+   "credito": "1f7aa452815b",
+   "enunciado": "b50a93aa5404",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma consequência para o setor produtivo e outra ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q30": {
+   "alternativas": [
+    "c7e9b286b298",
+    "a0f75f2ee7f3",
+    "36d68298717e",
+    "204197bd4e03",
+    "8c226b3caf7b"
+   ],
+   "apoio": "932204bec111",
+   "credito": "1ac0dee1ab95",
+   "enunciado": "0ca4c9ee6703",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação ao processo descrito, sua ocorrência ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q31": {
+   "alternativas": [
+    "1b0e49146cb7",
+    "f7c0b8f14b0d",
+    "a48f115a9e90",
+    "3a835c264871",
+    "ab193045d42f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "1457c31f82f3",
+   "enunciado": "e3c1e055f012",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q31-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A imagem representa o resultado da erosão que oc",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q31-apoio-01.jpg",
+     11,
+     [
+      321.7,
+      343.5,
+      566.1,
+      556.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q32": {
+   "alternativas": [
+    "4cd8408f4e2c",
+    "3f22b7e3c0fd",
+    "809c5b524c7e",
+    "8cbe9483bb71",
+    "0274f5cefaa8"
+   ],
+   "apoio": "ff0ecd23c758",
+   "credito": "b8ccc2aded29",
+   "enunciado": "3f9ce334f4a0",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As veredas têm um papel fundamental no equilíbri",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q33": {
+   "alternativas": [
+    "e7cf66227b3a",
+    "3757a69f9a61",
+    "cfd913711974",
+    "b0c5de1109d0",
+    "f2c6d5fdd407"
+   ],
+   "apoio": "8ef599bd967a",
+   "credito": "9a8455c2e4ca",
+   "enunciado": "632f3c30a335",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A implementação das tecnologias mencionadas no t",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q34": {
+   "alternativas": [
+    "5e66ef999525",
+    "5ab4d5476300",
+    "55e770a113c6",
+    "5e3c9ab19006",
+    "16b40bc1fc6e"
+   ],
+   "apoio": "3f0c8c656c63",
+   "credito": "fd82e0f45167",
+   "enunciado": "a1063b3ab47e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O que, de acordo com Nietzsche, caracteriza o su",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q35": {
+   "alternativas": [
+    "ab617ffabef5",
+    "c323228aa4ee",
+    "33deeb64e2a6",
+    "4f71accf06c6",
+    "fe2745088208"
+   ],
+   "apoio": "8333556c38de",
+   "credito": "cf1724c2af4b",
+   "enunciado": "81ee6044e6d8",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A situação imaginária proposta pelo autor explic",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q36": {
+   "alternativas": [
+    "345447c78004",
+    "8759003e1480",
+    "7e8bf0897e2c",
+    "8f4e71af6dc6",
+    "32a1f9d584aa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "88294f2d80a9",
+   "enunciado": "62b5a3951375",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q36-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Essas imagens de D. Pedro II foram feitas no iní",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q36-apoio-01.jpg",
+     13,
+     [
+      59.3,
+      104.0,
+      568.6,
+      421.4
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q37": {
+   "alternativas": [
+    "586fe5ceb345",
+    "5dc8843cedf1",
+    "3c23de738308",
+    "338d50499002",
+    "81a2412a9032"
+   ],
+   "apoio": "a355c4a6890b",
+   "credito": "6ed1e87407cb",
+   "enunciado": "1014a98161cc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O surgimento da categoria mencionada no período ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q38": {
+   "alternativas": [
+    "837297bcfe6d",
+    "c5b72de8cea9",
+    "58e1e1b475d3",
+    "f03e43ab1061",
+    "4c90b5d72449"
+   ],
+   "apoio": "eaf24f6c085a",
+   "credito": "95268098933b",
+   "enunciado": "2dc0af0e2615",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A viabilidade do processo de produção ilustrado ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q39": {
+   "alternativas": [
+    "e91f1d24fac4",
+    "6f5e252c65d7",
+    "1a449b383d0d",
+    "9d066f654fb0",
+    "04d03a13dec8"
+   ],
+   "apoio": "3f968ba186b3",
+   "credito": "efe737b383af",
+   "enunciado": "8f021150f471",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A crítica contida no texto sobre a sociedade con",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q40": {
+   "alternativas": [
+    "6702948434e6",
+    "a483909cb618",
+    "dd0ff0d24d15",
+    "537203f88b4f",
+    "07d78a7f93d7"
+   ],
+   "apoio": "f43f0ddf8168",
+   "credito": "cf12f35b96e1",
+   "enunciado": "178402b3a2c7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Tal como apresentada no texto, a proposição de M",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q41": {
+   "alternativas": [
+    "e5854e51f441",
+    "a74c4867453f",
+    "2e303bf1d71c",
+    "843b53531f48",
+    "74636896dfb1"
+   ],
+   "apoio": "4f24fb83baae",
+   "credito": "7d3fcb57e1ba",
+   "enunciado": "b5761600245b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto expõe uma tendência representativa do pe",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q42": {
+   "alternativas": [
+    "062dc505d47c",
+    "3982529e3861",
+    "1f6f1e26b4ea",
+    "c5b4b85af201",
+    "cbc6429af177"
+   ],
+   "apoio": "850f458ca565",
+   "credito": "830e2381a230",
+   "enunciado": "6cbd853a2072",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na década de 1960, a proposição de Simone de Bea",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q43": {
+   "alternativas": [
+    "6012545d81c9",
+    "a267f752c0e1",
+    "70cf8e07ff6c",
+    "58d03292ae64",
+    "26cfde37dcb6"
+   ],
+   "apoio": "6fb772259595",
+   "credito": "cd883f6a61e0",
+   "enunciado": "d379638b46a7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ilustrando uma proposição básica da sociologia d",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q44": {
+   "alternativas": [
+    "c690daf301ed",
+    "50ed797063ce",
+    "f2ba195850c1",
+    "acc4cdfd032e",
+    "8c80516ef33e"
+   ],
+   "apoio": "de37aa9fd442",
+   "credito": "d205a08a81d0",
+   "enunciado": "d900cbcd2de7",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O tipo de atentado descrito no texto tem como co",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q45": {
+   "alternativas": [
+    "cb74eb1e2114",
+    "5bb09c905822",
+    "b37668ce710b",
+    "d3016b90ac96",
+    "07893ca4ca6c"
+   ],
+   "apoio": "6054c9fe64d2",
+   "credito": "4993712e0839",
+   "enunciado": "35932b79f966",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando as atuais concepções políticas sobr",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q46": {
+   "alternativas": [
+    "4062048a4268",
+    "d8c1d61feff7",
+    "566558f3887d",
+    "fbbf9f34b31a",
+    "a1de8b5b5bd2"
+   ],
+   "apoio": "f80aec3fb253",
+   "credito": "d85c909ef477",
+   "enunciado": "ed03a5f34fbf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A alteração da concentração de hemoglobina oxige",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q47": {
+   "alternativas": [
+    "b4671d4f7824",
+    "c160836278f6",
+    "14f8d85d6346",
+    "6ada62b22a5d",
+    "79cfc5b796e5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "89365134bf27",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A indústria têxtil utiliza grande quantidade de ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q48": {
+   "alternativas": [
+    "9462a6051c8a",
+    "7710f1316f5c",
+    "9ee80f0409bd",
+    "23edb9641a42",
+    "ac190accc3e9"
+   ],
+   "apoio": "dc4614271f73",
+   "credito": "4b048b2d660e",
+   "enunciado": "e3245d27e874",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-E-01.png"
+    ]
+   },
+   "previa": "70₆₀",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-A-01.png",
+     17,
+     [
+      111.7,
+      226.1,
+      304.8,
+      300.5
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-B-01.png",
+     17,
+     [
+      111.7,
+      334.6,
+      304.8,
+      409.1
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-C-01.png",
+     17,
+     [
+      111.7,
+      443.2,
+      304.8,
+      517.7
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-D-01.png",
+     17,
+     [
+      111.7,
+      550.4,
+      304.8,
+      624.9
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q48-alt-E-01.png",
+     17,
+     [
+      111.7,
+      657.6,
+      304.8,
+      732.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q49": {
+   "alternativas": [
+    "8181637b4f15",
+    "011f654ee44a",
+    "0c8cff419a23",
+    "9de56c277f92",
+    "e60b55b9bf96"
+   ],
+   "apoio": "734bf620dd29",
+   "credito": "30cd1929d9a4",
+   "enunciado": "b0c008a61f68",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q49-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere uma região plana onde a insolação (ene",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q49-apoio-01.jpg",
+     17,
+     [
+      322.1,
+      213.8,
+      565.7,
+      380.2
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q50": {
+   "alternativas": [
+    "7cb2d2e9d1d6",
+    "e048708fc8ad",
+    "3f758b91b523",
+    "0a53172284e8",
+    "1abb3ea06e15"
+   ],
+   "apoio": "1dd027712dc3",
+   "credito": "7b2b77ad9d98",
+   "enunciado": "84320eb8dbbe",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q50-alt-A-01.png"
+    ]
+   },
+   "previa": "0,2",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q50-alt-A-01.png",
+     18,
+     [
+      89.7,
+      288.0,
+      266.5,
+      421.8
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q51": {
+   "alternativas": [
+    "f9942bda6362",
+    "de7a2c760842",
+    "5818643c96b2",
+    "733d2f541238",
+    "80791e89ec4a"
+   ],
+   "apoio": "8d48d1108b02",
+   "credito": "f7147f4dc640",
+   "enunciado": "9e368db78688",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa técnica considera dois processos de separaç",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q52": {
+   "alternativas": [
+    "9e0ef26f51c0",
+    "ef10e24db28e",
+    "5a9d082dd50d",
+    "3830c009f46e",
+    "64b531de9430"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "066a6498dc4c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A soda cáustica pode ser usada no desentupimento",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q53": {
+   "alternativas": [
+    "cb48fc5ac9ea",
+    "9ae5f78fc585",
+    "7ba7f24e796c",
+    "1fa9b77f7c8b",
+    "2f8355bab335"
+   ],
+   "apoio": "81cf363acfa8",
+   "credito": "ee0cc06bab50",
+   "enunciado": "87003f0aa75c",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q53-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Expressa em termos do comprimento de onda (λ), a",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q53-apoio-01.png",
+     19,
+     [
+      80.1,
+      320.4,
+      281.7,
+      433.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q54": {
+   "alternativas": [
+    "d5bc9189a2e3",
+    "526fa3aa48d3",
+    "f0b0077dffda",
+    "f24a59c6865f",
+    "e7c37ac52f43"
+   ],
+   "apoio": "2e9b5bd961f0",
+   "credito": "8d08cb0aca70",
+   "enunciado": "2ae542e6d845",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O princípio contestado com essa descoberta, rela",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q55": {
+   "alternativas": [
+    "887309d048be",
+    "761f22b2c159",
+    "fb644351560d",
+    "b7eb6c689c03",
+    "76546f9a641e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c179e09e9971",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A hidroponia pode ser definida como uma técnica ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q56": {
+   "alternativas": [
+    "18c44f748879",
+    "ae40dd49f7db",
+    "e4509411f3b1",
+    "94139c25c3d0",
+    "469986845942"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ddd598f30e38",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Algumas raças de cães domésticos não conseguem c",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q57": {
+   "alternativas": [
+    "c867101bd8a8",
+    "c60c3a715bcf",
+    "4106e31e3dee",
+    "ce087ce99713",
+    "1c69f809bc0c"
+   ],
+   "apoio": "5d05b8ac6a6b",
+   "credito": "26e57faa9e3d",
+   "enunciado": "5c103f7bef28",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No processo descrito, o excedente de energia elé",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q58": {
+   "alternativas": [
+    "21f153b1a62b",
+    "5d25e61271f0",
+    "8938b3a0bf04",
+    "12f1681f24e9",
+    "9884c12a500d"
+   ],
+   "apoio": "33755075a051",
+   "credito": "c30844c81b3f",
+   "enunciado": "05928636a8e2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Comprar uma lata de conserva amassada no superme",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q59": {
+   "alternativas": [
+    "158508f8f707",
+    "b51ecd6a0d5d",
+    "8164390818e1",
+    "729e5a75c316",
+    "67858a824aec"
+   ],
+   "apoio": "5a45b9b5e60a",
+   "credito": "a7c48057edbe",
+   "enunciado": "421a9a3caf80",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q59-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "As funções orgânicas que caracterizam os feromôn",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q59-apoio-01.png",
+     21,
+     [
+      135.4,
+      242.4,
+      196.2,
+      347.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q60": {
+   "alternativas": [
+    "e02f36387767",
+    "b0dc8ebe08c5",
+    "b8ffb86618b2",
+    "9cc5050481d5",
+    "640cf248b624"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "da2e94aa4072",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q60-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O permanganato de potássio (KMnO₄) é um agente o",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q60-apoio-01.png",
+     21,
+     [
+      383.3,
+      174.1,
+      504.5,
+      232.0
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q61": {
+   "alternativas": [
+    "4566704afb57",
+    "225b6b7b7608",
+    "db4b5495848e",
+    "b2db2a7a450c",
+    "5147113fc784"
+   ],
+   "apoio": "0b9f21e1af75",
+   "credito": "627b0e57088a",
+   "enunciado": "0b4651af4ee9",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Animais garantem suas necessidades metabólicas d",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q62": {
+   "alternativas": [
+    "53e47eaff26b",
+    "1a6a5d53b2d9",
+    "3ea31a2ff211",
+    "b669d22396f8",
+    "bf1ff66a7def"
+   ],
+   "apoio": "470f222fe9be",
+   "credito": "825f8a5abc9c",
+   "enunciado": "d8457123ca5a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A explicação para o desaparecimento da cor rosa ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q63": {
+   "alternativas": [
+    "797b4120ac7a",
+    "3b36483a29d8",
+    "0d28037ea97d",
+    "47f2a7df9d7d",
+    "49abb438d3b0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7f441335735e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa abre sua geladeira, verifica o que há",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q64": {
+   "alternativas": [
+    "984ba5365044",
+    "96320dac8d58",
+    "741adab05ebf",
+    "086b5b22e4e4",
+    "547f42dd448d"
+   ],
+   "apoio": "60f68d6ea225",
+   "credito": "d2a006520441",
+   "enunciado": "3f320d831870",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Supondo que a massa desse corredor seja igual a ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q65": {
+   "alternativas": [
+    "6dcd4ce23d88",
+    "ae4f281df5a5",
+    "32096c2e0eff",
+    "50c9e8d5fc98",
+    "e0184adedf91"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "471f72262203",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q65-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma garrafa térmica tem como função evitar a tro",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q65-apoio-01.png",
+     23,
+     [
+      87.1,
+      260.2,
+      281.3,
+      350.8
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q66": {
+   "alternativas": [
+    "59868cf29718",
+    "a9dc0b9ed92e",
+    "b820a171ba7c",
+    "d9e7cff3a76c",
+    "524aded86903"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2c449ee7a760",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A cariotipagem é um método que analisa células d",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q67": {
+   "alternativas": [
+    "c22a4669c942",
+    "a8d6232ea424",
+    "a762ea72a4ef",
+    "0a54dc728ad2",
+    "4c58c6335210"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3bf40306a21b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante uma expedição, um grupo de estudantes pe",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q68": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3b4aec02383f",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-E-01.png"
+    ]
+   },
+   "previa": "Um estudante, precisando instalar um computador,",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-A-01.png",
+     24,
+     [
+      93.9,
+      298.1,
+      241.2,
+      374.5
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-B-01.png",
+     24,
+     [
+      93.9,
+      392.5,
+      249.5,
+      468.4
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-C-01.png",
+     24,
+     [
+      93.9,
+      486.5,
+      249.8,
+      562.3
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-D-01.png",
+     24,
+     [
+      122.4,
+      578.8,
+      256.5,
+      663.6
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q68-alt-E-01.png",
+     24,
+     [
+      93.9,
+      680.0,
+      256.6,
+      755.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q69": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "25ba9526dc79",
+   "credito": "eeab083a4361",
+   "enunciado": "3520e9e26b13",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q69-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Concentração de oxigênio (unidades arbitrárias)\n",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q69-apoio-01.png",
+     24,
+     [
+      357.8,
+      180.1,
+      555.7,
+      319.7
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q70": {
+   "alternativas": [
+    "d7261ee437ba",
+    "985d7629b6f8",
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "0c8ed7a5ae69"
+   ],
+   "apoio": "a4b806c18d09",
+   "credito": "6b0d31c0d563",
+   "enunciado": "130b881039b6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "com borrachas “dura” e “mole”, respectivamente, ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q71": {
+   "alternativas": [
+    "f530d99416a1",
+    "afef2ef8a512",
+    "f52cd07dc73e",
+    "2f5971e045c3",
+    "e6eb52ab390f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "38c074de8294",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Vários ácidos são utilizados em indústrias que d",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q72": {
+   "alternativas": [
+    "42f3c65430aa",
+    "12e424e26cdd",
+    "42180af745cc",
+    "2ba81749da90",
+    "35f59f88c08e"
+   ],
+   "apoio": "e26e1c0f3065",
+   "credito": "4c4ef0c22e14",
+   "enunciado": "e2e7aa344d0b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse fato pode ser atribuído à",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q73": {
+   "alternativas": [
+    "9ee1cacc3ee3",
+    "be60ce65f09b",
+    "159286c2471f",
+    "db1ffb281dd1",
+    "b19e2c36c3d0"
+   ],
+   "apoio": "18741dd5850f",
+   "credito": "228e2ad7be93",
+   "enunciado": "15cef5291b52",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse fragmento de poema, o autor refere-se à bo",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q74": {
+   "alternativas": [
+    "41990e068a28",
+    "9325d3f14810",
+    "a7f875eaef62",
+    "92389e3d3837",
+    "142585b406df"
+   ],
+   "apoio": "f5148e66985b",
+   "credito": "b08062b6ef69",
+   "enunciado": "924575b38fd7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As bactérias modificadas por Herbert Boyer passa",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q75": {
+   "alternativas": [
+    "d1abd9f5bfa8",
+    "d888b9626dce",
+    "51fa0788ae84",
+    "e2d289d744b0",
+    "fcd65513e181"
+   ],
+   "apoio": "6dbc95044c7e",
+   "credito": "ce3fd4357c03",
+   "enunciado": "2ffe2b54a5f6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O fenômeno ótico que, segundo os pesquisadores, ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q76": {
+   "alternativas": [
+    "f6e1126cedeb",
+    "b6692ea5df92",
+    "af3e133428b9",
+    "e1822db470e6",
+    "80e28a51cbc2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "019aace28038",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para proteger estruturas de aço da corrosão, a i",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q77": {
+   "alternativas": [
+    "1f2e3cfba56c",
+    "fcc891452088",
+    "cfb823e4cd4d",
+    "f1e9829e4535",
+    "144e17b93737"
+   ],
+   "apoio": "b8e55041259c",
+   "credito": "6caac9d729ee",
+   "enunciado": "7f0dea535598",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base nesse processo, o hidrocarboneto produz",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q78": {
+   "alternativas": [
+    "e3177ce6454b",
+    "eed1b7e654f9",
+    "77b8d2a5035e",
+    "c046fedd7baf",
+    "65089d49b54c"
+   ],
+   "apoio": "767fc252e122",
+   "credito": "d3c4a0d0188d",
+   "enunciado": "2a9b84783fa3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao se deparar com um indivíduo que sofreu queima",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q79": {
+   "alternativas": [
+    "9ecfb9a2b26e",
+    "5e3056366279",
+    "ac0a81b88f3d",
+    "6ecc0ae5059e",
+    "d67d5d4525c2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "810a5a51d1fd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As altas temperaturas de combustão e o atrito en",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q80": {
+   "alternativas": [
+    "881e5d4c8eaf",
+    "3d12697f5a3f",
+    "fbcc5ae28183",
+    "9af02bfa6dd3",
+    "ee8068bfd6a8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "681463ce72ef",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Pesticidas são substâncias utilizadas para promo",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q81": {
+   "alternativas": [
+    "33d51de03bfe",
+    "defee4c88ff7",
+    "3c7ca6601b51",
+    "ab742edfdb8d",
+    "6d8fab3cde91"
+   ],
+   "apoio": "4a517c400313",
+   "credito": "8a9798220b47",
+   "enunciado": "e255d6043038",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q81-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A equação química que representa a reação de for",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q81-apoio-01.png",
+     28,
+     [
+      92.7,
+      279.7,
+      275.8,
+      370.3
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q82": {
+   "alternativas": [
+    "c2b3b8fb8f46",
+    "bf53fde04f21",
+    "311b1f948cee",
+    "0c3077c556e7",
+    "96d1d663a870"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3086655c12b3",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q82-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um experimento, um professor levou para a sal",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q82-apoio-01.jpg",
+     28,
+     [
+      318.8,
+      226.3,
+      569.3,
+      333.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q83": {
+   "alternativas": [
+    "67c954e527e3",
+    "16bddd72aefe",
+    "f77bbc425830",
+    "5bce75c78309",
+    "c621fca3a732"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "13206041b4e7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os anfíbios representam o primeiro grupo de vert",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q84": {
+   "alternativas": [
+    "9c5c06460aa4",
+    "a8bb630fa5d7",
+    "dd20e5a83a3d",
+    "892ce7d5fe35",
+    "67187c9b84d4"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e50a297d2b9e",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q84-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O aproveitamento de resíduos florestais vem se t",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q84-apoio-01.png",
+     29,
+     [
+      129.4,
+      250.2,
+      289.0,
+      362.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q85": {
+   "alternativas": [
+    "d778d5f76919",
+    "edc1a2ba6806",
+    "030bfb9e7173",
+    "1f37d499f2c1",
+    "445001fa288d"
+   ],
+   "apoio": "41cbb95205d7",
+   "credito": "b6249faab7f2",
+   "enunciado": "9b221952ac97",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q85-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Se fizermos uma analogia entre a ilustração e o ",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q85-apoio-01.jpg",
+     29,
+     [
+      323.3,
+      215.8,
+      564.5,
+      376.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q86": {
+   "alternativas": [
+    "cf5583efd982",
+    "34ecf0e072ce",
+    "835408aeca3b",
+    "a0fd63cdd1eb",
+    "ff2bdae2ac6e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "daed62eb1919",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao ouvir uma flauta e um piano emitindo a mesma ",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q87": {
+   "alternativas": [
+    "0ad9e492ecf3",
+    "c095fa42dce7",
+    "9bd53d93f2d2",
+    "47b4c96935a9",
+    "af2112f4995f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e6b46b5258be",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O formato das células de organismos pluricelular",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q88": {
+   "alternativas": [
+    "bb19a0c399db",
+    "5946479d4e7b",
+    "e02a05a6b9db",
+    "2472b6d2f445",
+    "5b76830462c3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "eae18d9c1320",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q88-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para obter a posição de um telefone celular, a p",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q88-apoio-01.png",
+     30,
+     [
+      404.2,
+      262.4,
+      450.0,
+      308.2
+     ]
+    ]
+   ]
+  },
+  "enem-2015-regular-d1-q89": {
+   "alternativas": [
+    "fc1622f13cdd",
+    "4ea12d72f3e6",
+    "7167df507f2d",
+    "2130ad2a4103",
+    "3a85558cffb3"
+   ],
+   "apoio": "016cff8a041a",
+   "credito": "cc435a902904",
+   "enunciado": "d172091744e5",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O uso desse látex em água infestada por hospedei",
+   "recortes": []
+  },
+  "enem-2015-regular-d1-q90": {
+   "alternativas": [
+    "c33285292fdd",
+    "9f8952fdd7b0",
+    "7de2dd4d2923",
+    "6e979263ee92",
+    "bcb7576ad945"
+   ],
+   "apoio": "6229483688ed",
+   "credito": "9b4043028d9f",
+   "enunciado": "04ce5302fbb8",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-01.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-02.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-03.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-04.png",
+    "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-05.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Que fator contribui positivamente para que a seg",
+   "recortes": [
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-01.png",
+     31,
+     [
+      289.8,
+      353.4,
+      410.1,
+      432.6
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-02.png",
+     31,
+     [
+      181.8,
+      362.7,
+      216.9,
+      385.0
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-03.png",
+     31,
+     [
+      295.2,
+      449.5,
+      403.4,
+      489.8
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-04.png",
+     31,
+     [
+      291.8,
+      538.3,
+      400.0,
+      578.6
+     ]
+    ],
+    [
+     "/questoes/2015/regular/dia1/enem-2015-regular-d1-q90-apoio-05.png",
+     31,
+     [
+      183.7,
+      550.0,
+      454.4,
+      577.1
+     ]
+    ]
+   ]
+  }
+ }
+}

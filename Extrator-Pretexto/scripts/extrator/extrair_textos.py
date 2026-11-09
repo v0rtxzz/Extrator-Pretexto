@@ -326,6 +326,8 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
                 continue
             if w > pagina.width * 0.97:                                    # moldura da página
                 continue
+            if P.ignorar_fundo_pagina and w * h > pagina.width * pagina.height * 0.4:
+                continue                                       # fundo/moldura gráfica da tela (digital)
             objs.append({'caixa': c, 'img': tipo == 'img', 'n': 1, 'membros': [(c, tipo == 'img')]})
     if filetes:
         objs = _filetes_de_grafico(objs, filetes)
@@ -358,6 +360,9 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
     figuras, caixas = [], []
     for g in grupos:
         w, h = g['caixa'][2] - g['caixa'][0], g['caixa'][3] - g['caixa'][1]
+        if P.botoes_alternativa and not g['img'] and h <= 60 and w >= 200 and any(
+                c['text'] in 'ABCDE' and centro_dentro(c, [g['caixa']]) for c in pagina.chars):
+            continue                                   # "botão" da alternativa (digital): o texto é lido normalmente
         if g['img'] and w >= P.img_min_w and h >= P.img_min_h:
             figuras.append(g)
         elif not g['img'] and g['n'] >= 3 and w >= P.vet_min_w and h >= P.vet_min_h:

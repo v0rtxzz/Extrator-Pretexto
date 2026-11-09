@@ -8,6 +8,33 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 `v2024`. Todo motor novo recebe obrigatoriamente o nome do ano a que se refere (ex.: `v2026`).
 
 <!-- ESTADO-POR-ANO -->
+<a id="estado-por-ano"></a>
+### Estado por ano (validação em lote, dry-run)
+
+| Ano | Motor | Provas OK | Questões extraídas | Pendências |
+|---|---|---|---|---|
+| 2025 | `v2025` | 6/6 | 555/555 | — |
+| 2024 | `v2024` | 4/4 | 370/370 | — |
+| 2023 | `v2023` | 2/4 | 368/370 | ppl-dia2: FALHA; regular-dia2: REVISAR |
+| 2022 | `v2022` | 0/7 | 347/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia1: FALHA; ppl-dia2: REVISAR; regular-dia1: FALHA; regular-dia2: FALHA |
+| 2021 | `v2021` | 2/7 | 359/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: FALHA; regular-dia2: FALHA |
+| 2020 | `v2020` | 0/7 | 605/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia1: REVISAR; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: REVISAR |
+| 2019 | `v2019` | 1/4 | 364/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia2: FALHA |
+| 2018 | `v2018` | 0/4 | 362/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia1: FALHA; regular-dia2: FALHA |
+| 2017 | `v2017` | 2/4 | 364/370 | ppl-dia2: FALHA; regular-dia2: FALHA |
+| 2016 | `v2016` | 0/6 | 550/555 | ppl-dia1: FALHA; ppl-dia2: REVISAR; regular-dia1: FALHA; regular-dia2: FALHA; segunda-dia1: REVISAR; segunda-dia2: FALHA |
+| 2015 | `v2015` | 3/4 | 370/370 | ppl-dia1: REVISAR |
+| 2014 | `v2014` | 0/6 | 546/555 | ppl-dia1: REVISAR; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: FALHA; terceira-dia1: FALHA; terceira-dia2: FALHA |
+| 2013 | `v2013` | 2/4 | 368/370 | regular-dia1: FALHA; regular-dia2: FALHA |
+| 2012 | `v2012` | 0/4 | 366/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: FALHA |
+| 2011 | `v2011` | 0/2 | 181/185 | regular-dia1: REVISAR; regular-dia2: FALHA |
+| 2010 | `v2010` | 0/2 | 0/0 | regular-dia1: ERRO; regular-dia2: ERRO |
+| 2009 | `v2009` | 0/2 | 177/180 | regular-dia1: FALHA; regular-dia2: FALHA |
+
+Sem gabarito oficial no repositório (não processadas): `2010/ppl/dia1-prova.pdf`, `2010/ppl/dia2-prova.pdf`, `2011/ppl/dia1-prova.pdf`, `2011/ppl/dia2-prova.pdf`.
+
+Detalhes por prova em `relatorios/CONSOLIDADO.md`. Só as provas **OK** têm foto em `baselines/` e foram gravadas.
+<!-- /ESTADO-POR-ANO -->
 
 ## 1) Preparar o ambiente
 
@@ -307,5 +334,8 @@ versões do `pypdfium2`).
 | Crédito/legenda misturado ao enunciado | Ajuste `--tam-credito` (ex.: `0.92`). |
 | `Nenhuma resposta foi reconhecida no PDF de gabarito` | Confira se o gabarito é o da mesma prova e tem texto selecionável. |
 | Número de alternativas diferente de 5 | A letra da alternativa pode estar em uma fonte nova; inclua-a em `fontes_letra` num perfil. |
+| `Não há motor de extração para ANO` | Crie o motor `vANO` em `MOTORES` (perfis.py). Cada ano precisa do seu motor. |
+| `O PDF de gabarito tem respostas conflitantes` | O arquivo não é o gabarito oficial (ex.: `provas/2010/regular/dia*-gabarito.pdf` são cópias da prova). Substitua pelo gabarito do INEP. |
+| `EXPLICAÇÕES (IA): não foi possível iniciar o cliente` | Instale `anthropic` e defina `ANTHROPIC_API_KEY`; as questões ficam com `explicacao = null` até lá. |
 | `ModuleNotFoundError: perfis` | Falta o arquivo `scripts/extrator/perfis.py`: copie-o junto com `extrair_textos.py`. |
 | `verificar_baseline` acusa diferença sem você ter mudado nada | Versões diferentes de `pdfplumber`/`pypdfium2` podem mudar um recorte; veja qual campo mudou. |
