@@ -55,7 +55,7 @@
    "motor": "v2009",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 9,
+   "com_aviso": 8,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
@@ -74,7 +74,7 @@
     "Vassarely.",
     "http//www.masterworksfineartcom"
    ],
-   "letras_perdidas": 3,
+   "letras_perdidas": 0,
    "algarismos_sem_cobertura": 12,
    "avisos": {
     "enem-2009-regular-d2-q129": [
@@ -90,16 +90,13 @@
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q164": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q171": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q172": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2009-regular-d2-q174": [
-     "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2009-regular-d2-q175": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
@@ -144,7 +141,7 @@
    "motor": "v2011",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 6,
+   "com_aviso": 5,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -162,9 +159,6 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2011-regular-d2-q145": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2011-regular-d2-q155": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2011-regular-d2-q163": [
@@ -298,7 +292,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2012-regular-d2-q161": [
-     "3 fração(ões) linearizada(s) como a/b: conferir"
+     "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2012-regular-d2-q168": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -425,7 +419,7 @@
    "motor": "v2013",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 11,
+   "com_aviso": 10,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -452,8 +446,8 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2013-regular-d2-q153": [
-     "4 fração(ões) linearizada(s) como a/b: conferir",
-     "4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "3 fração(ões) linearizada(s) como a/b: conferir",
+     "3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2013-regular-d2-q154": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -466,9 +460,6 @@
     ],
     "enem-2013-regular-d2-q178": [
      "alternativa com números soltos: conferir (raiz/estrutura matemática?)",
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2013-regular-d2-q179": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
@@ -526,7 +517,7 @@
    "motor": "v2014",
    "esperadas": 95,
    "extraidas": 95,
-   "com_aviso": 9,
+   "com_aviso": 8,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -537,9 +528,6 @@
    "avisos": {
     "enem-2014-ppl-d2-q104": [
      "CRÍTICO: alt E termina em \"do\" (possível corte)"
-    ],
-    "enem-2014-ppl-d2-q148": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2014-ppl-d2-q149": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -739,7 +727,7 @@
    "motor": "v2015",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 8,
+   "com_aviso": 7,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
@@ -753,9 +741,6 @@
     ],
     "enem-2015-ppl-d1-q49": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
-    ],
-    "enem-2015-ppl-d1-q61": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2015-ppl-d1-q63": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -968,7 +953,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2016-ppl-d2-q166": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
+     "2 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2016-ppl-d2-q168": [
      "2 fração(ões) linearizada(s) como a/b: conferir"
@@ -1067,7 +1052,7 @@
      "enunciado muito curto"
     ],
     "enem-2016-regular-d2-q180": [
-     "4 fração(ões) linearizada(s) como a/b: conferir",
+     "3 fração(ões) linearizada(s) como a/b: conferir",
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ]
    },
@@ -1084,7 +1069,7 @@
    "motor": "v2016",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 2,
+   "com_aviso": 1,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
@@ -1100,9 +1085,6 @@
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 87,
    "avisos": {
-    "enem-2016-segunda-d1-q65": [
-     "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2016-segunda-d1-q86": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ]
@@ -1130,7 +1112,8 @@
    "algarismos_sem_cobertura": 0,
    "avisos": {
     "enem-2016-segunda-d2-q141": [
-     "18 fração(ões) linearizada(s) como a/b: conferir"
+     "enunciado muito curto",
+     "12 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2016-segunda-d2-q143": [
      "1 fração(ões) linearizada(s) como a/b: conferir"
@@ -1292,7 +1275,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2017-regular-d2-q136": [
-     "10 fração(ões) linearizada(s) como a/b: conferir",
+     "12 fração(ões) linearizada(s) como a/b: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2017-regular-d2-q137": [
@@ -1382,7 +1365,7 @@
      "4 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2018-ppl-d2-q139": [
-     "9 fração(ões) linearizada(s) como a/b: conferir"
+     "6 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2018-ppl-d2-q149": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -1393,7 +1376,6 @@
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2018-ppl-d2-q161": [
-     "10 fração(ões) linearizada(s) como a/b: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2018-ppl-d2-q163": [
@@ -1444,21 +1426,17 @@
    "motor": "v2018",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 17,
+   "com_aviso": 16,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
-   "palavras_sem_cobertura": 2,
+   "palavras_sem_cobertura": 1,
    "exemplos_sem_cobertura": [
-    "potenciais-padrão",
     "Bookman,"
    ],
-   "letras_perdidas": 4,
+   "letras_perdidas": 1,
    "algarismos_sem_cobertura": 0,
    "avisos": {
-    "enem-2018-regular-d2-q93": [
-     "3 fração(ões) linearizada(s) como a/b: conferir"
-    ],
     "enem-2018-regular-d2-q95": [
      "enunciado muito curto"
     ],
@@ -1550,7 +1528,7 @@
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
-   "letras_perdidas": 4,
+   "letras_perdidas": 5,
    "algarismos_sem_cobertura": 0,
    "avisos": {
     "enem-2019-ppl-d2-q100": [
@@ -1564,7 +1542,7 @@
      "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2019-ppl-d2-q128": [
-     "5 fração(ões) linearizada(s) como a/b: conferir"
+     "1 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2019-ppl-d2-q129": [
      "4 fração(ões) linearizada(s) como a/b: conferir"
@@ -1586,7 +1564,6 @@
      "5 fração(ões) linearizada(s) como a/b: conferir"
     ],
     "enem-2019-ppl-d2-q158": [
-     "2 fração(ões) linearizada(s) como a/b: conferir",
      "8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2019-ppl-d2-q160": [
@@ -1640,18 +1617,15 @@
    "motor": "v2019",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 7,
+   "com_aviso": 6,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
-   "letras_perdidas": 19,
+   "letras_perdidas": 18,
    "algarismos_sem_cobertura": 2,
    "avisos": {
-    "enem-2019-regular-d2-q91": [
-     "1 fração(ões) linearizada(s) como a/b: conferir"
-    ],
     "enem-2019-regular-d2-q102": [
      "enunciado muito curto",
      "1 fração(ões) linearizada(s) como a/b: conferir"

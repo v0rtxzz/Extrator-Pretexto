@@ -15,26 +15,24 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 |---|---|---|---|---|
 | 2025 | `v2025` | 6/6 | 555/555 | — |
 | 2024 | `v2024` | 4/4 | 370/370 | — |
-| 2023 | `v2023` | 2/4 | 368/370 | ppl-dia2: FALHA; regular-dia2: REVISAR |
-| 2022 | `v2022` | 0/7 | 347/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia1: FALHA; ppl-dia2: REVISAR; regular-dia1: FALHA; regular-dia2: FALHA |
-| 2021 | `v2021` | 2/7 | 359/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: FALHA; regular-dia2: FALHA |
-| 2020 | `v2020` | 0/7 | 605/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia1: REVISAR; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: REVISAR |
-| 2019 | `v2019` | 1/4 | 364/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia2: FALHA |
-| 2018 | `v2018` | 0/4 | 362/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia1: FALHA; regular-dia2: FALHA |
-| 2017 | `v2017` | 2/4 | 364/370 | ppl-dia2: FALHA; regular-dia2: FALHA |
-| 2016 | `v2016` | 0/6 | 550/555 | ppl-dia1: FALHA; ppl-dia2: REVISAR; regular-dia1: FALHA; regular-dia2: FALHA; segunda-dia1: REVISAR; segunda-dia2: FALHA |
-| 2015 | `v2015` | 3/4 | 370/370 | ppl-dia1: REVISAR |
-| 2014 | `v2014` | 0/6 | 546/555 | ppl-dia1: REVISAR; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: FALHA; terceira-dia1: FALHA; terceira-dia2: FALHA |
-| 2013 | `v2013` | 2/4 | 368/370 | regular-dia1: FALHA; regular-dia2: FALHA |
-| 2012 | `v2012` | 0/4 | 366/370 | ppl-dia1: FALHA; ppl-dia2: FALHA; regular-dia1: REVISAR; regular-dia2: FALHA |
-| 2011 | `v2011` | 0/2 | 181/185 | regular-dia1: REVISAR; regular-dia2: FALHA |
-| 2010 | `v2010` | 0/2 | 0/0 | regular-dia1: ERRO; regular-dia2: ERRO |
-| 2009 | `v2009` | 0/2 | 177/180 | regular-dia1: FALHA; regular-dia2: FALHA |
+| 2023 | `v2023` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
+| 2022 | `v2022` | 3/7 | 635/640 | digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: REVISAR; regular-dia2: REVISAR |
+| 2020 | `v2020` | 2/7 | 626/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: REVISAR; regular-dia2: REVISAR |
+| 2019 | `v2019` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
+| 2018 | `v2018` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
+| 2017 | `v2017` | 1/4 | 370/370 | ppl-dia2: REVISAR; regular-dia1: REVISAR; regular-dia2: REVISAR |
+| 2016 | `v2016` | 1/6 | 555/555 | ppl-dia1: REVISAR; ppl-dia2: REVISAR; regular-dia1: REVISAR; segunda-dia1: REVISAR; segunda-dia2: REVISAR |
+| 2015 | `v2015` | 1/4 | 370/370 | ppl-dia1: REVISAR; regular-dia1: REVISAR; regular-dia2: REVISAR |
+| 2014 | `v2014` | 3/6 | 555/555 | ppl-dia1: REVISAR; ppl-dia2: REVISAR; regular-dia1: REVISAR |
+| 2013 | `v2013` | 3/4 | 370/370 | regular-dia1: REVISAR |
+| 2012 | `v2012` | 3/4 | 370/370 | ppl-dia1: REVISAR |
+| 2011 | `v2011` | 1/2 | 185/185 | regular-dia1: REVISAR |
+| 2009 | `v2009` | 0/2 | 179/180 | regular-dia1: FALHA; regular-dia2: REVISAR |
 
-Sem gabarito oficial no repositório (não processadas): `2010/ppl/dia1-prova.pdf`, `2010/ppl/dia2-prova.pdf`, `2011/ppl/dia1-prova.pdf`, `2011/ppl/dia2-prova.pdf`.
+Sem gabarito oficial no repositório (não processadas): `2011/ppl/dia1-prova.pdf`, `2011/ppl/dia2-prova.pdf`.
 
-Detalhes por prova em `relatorios/CONSOLIDADO.md`. Só as provas **OK** têm foto em `baselines/` e foram gravadas.
-<!-- /ESTADO-POR-ANO -->
+Detalhes por prova em `relatorios/CONSOLIDADO.md`. Provas **OK** têm foto em `baselines/`. Todas as provas foram gravadas; questões ignoradas ficam fora do SQL. 2010 e 2021 (exceto regular e PPL dia 1) ainda não foram processadas.
+<!-- /ESTADO-POR-ANO --><!-- /ESTADO-POR-ANO -->
 
 ## 1) Preparar o ambiente
 

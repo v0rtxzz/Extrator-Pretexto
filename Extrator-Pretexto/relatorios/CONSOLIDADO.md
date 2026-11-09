@@ -3,9 +3,9 @@
 | Prova | Motor | Status | Extraídas | Ignoradas | Ausentes | Anuladas | Com aviso | Palavras sem cobertura | Algarismos sem cobertura | Letras perdidas | Explicações |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2009-regular-dia1 | v2009 | FALHA | 89/90 | 1 | 1 | 0 | 1 | 23 | 14 | 0 | 0 |
-| 2009-regular-dia2 | v2009 | REVISAR | 90/90 | 0 | 0 | 1 | 9 | 74 | 12 | 3 | 0 |
+| 2009-regular-dia2 | v2009 | REVISAR | 90/90 | 0 | 0 | 1 | 8 | 74 | 12 | 0 | 0 |
 | 2011-regular-dia1 | v2011 | REVISAR | 90/90 | 0 | 0 | 0 | 1 | 0 | 3 | 0 | 0 |
-| 2011-regular-dia2 | v2011 | OK | 95/95 | 0 | 0 | 0 | 6 | 0 | 0 | 0 | 0 |
+| 2011-regular-dia2 | v2011 | OK | 95/95 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
 | 2012-ppl-dia1 | v2012 | REVISAR | 90/90 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 |
 | 2012-ppl-dia2 | v2012 | OK | 95/95 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
 | 2012-regular-dia1 | v2012 | OK | 90/90 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
@@ -13,14 +13,14 @@
 | 2013-ppl-dia1 | v2013 | OK | 90/90 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2013-ppl-dia2 | v2013 | OK | 95/95 | 0 | 0 | 0 | 7 | 0 | 0 | 0 | 0 |
 | 2013-regular-dia1 | v2013 | REVISAR | 90/90 | 0 | 0 | 0 | 3 | 5 | 5 | 0 | 0 |
-| 2013-regular-dia2 | v2013 | OK | 95/95 | 0 | 0 | 0 | 11 | 0 | 0 | 0 | 0 |
+| 2013-regular-dia2 | v2013 | OK | 95/95 | 0 | 0 | 0 | 10 | 0 | 0 | 0 | 0 |
 | 2014-ppl-dia1 | v2014 | REVISAR | 90/90 | 0 | 0 | 0 | 6 | 0 | 0 | 1 | 0 |
-| 2014-ppl-dia2 | v2014 | REVISAR | 95/95 | 0 | 0 | 0 | 9 | 0 | 0 | 0 | 0 |
+| 2014-ppl-dia2 | v2014 | REVISAR | 95/95 | 0 | 0 | 0 | 8 | 0 | 0 | 0 | 0 |
 | 2014-regular-dia1 | v2014 | REVISAR | 90/90 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 |
 | 2014-regular-dia2 | v2014 | OK | 95/95 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
 | 2014-terceira-dia1 | v2014 | OK | 90/90 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2014-terceira-dia2 | v2014 | OK | 95/95 | 0 | 0 | 0 | 16 | 0 | 0 | 0 | 0 |
-| 2015-ppl-dia1 | v2015 | REVISAR | 90/90 | 0 | 0 | 0 | 8 | 0 | 0 | 2 | 0 |
+| 2015-ppl-dia1 | v2015 | REVISAR | 90/90 | 0 | 0 | 0 | 7 | 0 | 0 | 2 | 0 |
 | 2015-ppl-dia2 | v2015 | OK | 95/95 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
 | 2015-regular-dia1 | v2015 | REVISAR | 90/90 | 0 | 0 | 0 | 4 | 0 | 5 | 0 | 0 |
 | 2015-regular-dia2 | v2015 | REVISAR | 95/95 | 0 | 0 | 0 | 9 | 0 | 0 | 0 | 0 |
@@ -28,7 +28,7 @@
 | 2016-ppl-dia2 | v2016 | REVISAR | 95/95 | 0 | 0 | 0 | 10 | 1 | 0 | 0 | 0 |
 | 2016-regular-dia1 | v2016 | REVISAR | 90/90 | 0 | 0 | 0 | 4 | 0 | 0 | 1 | 0 |
 | 2016-regular-dia2 | v2016 | OK | 95/95 | 0 | 0 | 0 | 11 | 0 | 0 | 0 | 0 |
-| 2016-segunda-dia1 | v2016 | REVISAR | 90/90 | 0 | 0 | 1 | 2 | 6 | 87 | 0 | 0 |
+| 2016-segunda-dia1 | v2016 | REVISAR | 90/90 | 0 | 0 | 1 | 1 | 6 | 87 | 0 | 0 |
 | 2016-segunda-dia2 | v2016 | REVISAR | 95/95 | 0 | 0 | 0 | 7 | 0 | 0 | 3 | 0 |
 | 2017-ppl-dia1 | v2017 | OK | 95/95 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2017-ppl-dia2 | v2017 | REVISAR | 90/90 | 0 | 0 | 0 | 7 | 0 | 6 | 0 | 0 |
@@ -37,11 +37,11 @@
 | 2018-ppl-dia1 | v2018 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2018-ppl-dia2 | v2018 | REVISAR | 90/90 | 0 | 0 | 0 | 12 | 0 | 0 | 4 | 0 |
 | 2018-regular-dia1 | v2018 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2018-regular-dia2 | v2018 | REVISAR | 90/90 | 0 | 0 | 1 | 17 | 2 | 0 | 4 | 0 |
+| 2018-regular-dia2 | v2018 | REVISAR | 90/90 | 0 | 0 | 1 | 16 | 1 | 0 | 1 | 0 |
 | 2019-ppl-dia1 | v2019 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2019-ppl-dia2 | v2019 | REVISAR | 90/90 | 0 | 0 | 0 | 16 | 0 | 0 | 4 | 0 |
+| 2019-ppl-dia2 | v2019 | REVISAR | 90/90 | 0 | 0 | 0 | 16 | 0 | 0 | 5 | 0 |
 | 2019-regular-dia1 | v2019 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2019-regular-dia2 | v2019 | REVISAR | 90/90 | 0 | 0 | 0 | 7 | 0 | 2 | 19 | 0 |
+| 2019-regular-dia2 | v2019 | REVISAR | 90/90 | 0 | 0 | 0 | 6 | 0 | 2 | 18 | 0 |
 | 2020-digital-dia1-espanhol | v2020 | FALHA | 89/90 | 1 | 1 | 0 | 0 | 42 | 0 | 0 | 0 |
 | 2020-digital-dia1-ingles | v2020 | FALHA | 88/90 | 2 | 2 | 0 | 0 | 134 | 0 | 0 | 0 |
 | 2020-digital-dia2 | v2020 | FALHA | 79/90 | 11 | 11 | 1 | 2 | 194 | 189 | 0 | 0 |
@@ -92,15 +92,13 @@
 
 - Palavras sem cobertura (74): Rubem, Valentim, emhttp//www.ocaixotecombr, Athos, Bulcão., http//www.irbrmre.gov.br, Rubens, Gerchman., http//www.itaucultural.orgbr, Victor, Vassarely., http//www.masterworksfineartcom
 - Algarismos sem cobertura: 12
-- Trechos com letras perdidas: 3
 - `enem-2009-regular-d2-q129`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2009-regular-d2-q139`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2009-regular-d2-q140`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2009-regular-d2-q144`: 2 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2009-regular-d2-q164`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2009-regular-d2-q164`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2009-regular-d2-q171`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2009-regular-d2-q172`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2009-regular-d2-q174`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2009-regular-d2-q175`: 2 fração(ões) linearizada(s) como a/b: conferir
 
 ### 2011-regular-dia1 — REVISAR
@@ -113,7 +111,6 @@
 - `enem-2011-regular-d2-q137`: 1 fração(ões) linearizada(s) como a/b: conferir; 6 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir; 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2011-regular-d2-q144`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2011-regular-d2-q145`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2011-regular-d2-q155`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2011-regular-d2-q163`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2011-regular-d2-q178`: 1 fração(ões) linearizada(s) como a/b: conferir
 
@@ -139,7 +136,7 @@
 
 - `enem-2012-regular-d2-q143`: 3 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2012-regular-d2-q152`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2012-regular-d2-q161`: 3 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2012-regular-d2-q161`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2012-regular-d2-q168`: 1 fração(ões) linearizada(s) como a/b: conferir
 
 ### 2013-ppl-dia1 — OK
@@ -171,12 +168,11 @@
 - `enem-2013-regular-d2-q146`: alternativa com números soltos: conferir (raiz/estrutura matemática?)
 - `enem-2013-regular-d2-q150`: alternativa com números soltos: conferir (raiz/estrutura matemática?); 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2013-regular-d2-q152`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2013-regular-d2-q153`: 4 fração(ões) linearizada(s) como a/b: conferir; 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2013-regular-d2-q153`: 3 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2013-regular-d2-q154`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2013-regular-d2-q171`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2013-regular-d2-q172`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2013-regular-d2-q178`: alternativa com números soltos: conferir (raiz/estrutura matemática?); 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2013-regular-d2-q179`: 1 fração(ões) linearizada(s) como a/b: conferir
 
 ### 2014-ppl-dia1 — REVISAR
 
@@ -191,7 +187,6 @@
 ### 2014-ppl-dia2 — REVISAR
 
 - `enem-2014-ppl-d2-q104`: CRÍTICO: alt E termina em "do" (possível corte)
-- `enem-2014-ppl-d2-q148`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2014-ppl-d2-q149`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2014-ppl-d2-q154`: 5 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2014-ppl-d2-q156`: 3 fração(ões) linearizada(s) como a/b: conferir
@@ -240,7 +235,6 @@
 - Trechos com letras perdidas: 2
 - `enem-2015-ppl-d1-q46`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2015-ppl-d1-q49`: 2 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2015-ppl-d1-q61`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2015-ppl-d1-q63`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2015-ppl-d1-q70`: CRÍTICO: alt D termina em "e" (possível corte)
 - `enem-2015-ppl-d1-q73`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
@@ -289,7 +283,7 @@
 - `enem-2016-ppl-d2-q151`: enunciado muito longo (1678 car.)
 - `enem-2016-ppl-d2-q154`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-ppl-d2-q164`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2016-ppl-d2-q166`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2016-ppl-d2-q166`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-ppl-d2-q168`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-ppl-d2-q170`: 4 fração(ões) linearizada(s) como a/b: conferir; 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 
@@ -313,19 +307,18 @@
 - `enem-2016-regular-d2-q168`: 3 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-regular-d2-q169`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-regular-d2-q178`: enunciado muito curto
-- `enem-2016-regular-d2-q180`: 4 fração(ões) linearizada(s) como a/b: conferir; 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2016-regular-d2-q180`: 3 fração(ões) linearizada(s) como a/b: conferir; 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 
 ### 2016-segunda-dia1 — REVISAR
 
 - Palavras sem cobertura (6): bilhão, (ppb), trilhão, (ppt), responsáveis, wwwesrlnoaagov
 - Algarismos sem cobertura: 87
-- `enem-2016-segunda-d1-q65`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2016-segunda-d1-q86`: 1 fração(ões) linearizada(s) como a/b: conferir
 
 ### 2016-segunda-dia2 — REVISAR
 
 - Trechos com letras perdidas: 3
-- `enem-2016-segunda-d2-q141`: 18 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2016-segunda-d2-q141`: enunciado muito curto; 12 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-segunda-d2-q143`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-segunda-d2-q145`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2016-segunda-d2-q148`: 1 fração(ões) linearizada(s) como a/b: conferir
@@ -361,7 +354,7 @@
 - `enem-2017-regular-d2-q121`: 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2017-regular-d2-q127`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2017-regular-d2-q134`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2017-regular-d2-q136`: 10 fração(ões) linearizada(s) como a/b: conferir; 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2017-regular-d2-q136`: 12 fração(ões) linearizada(s) como a/b: conferir; 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2017-regular-d2-q137`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2017-regular-d2-q141`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2017-regular-d2-q154`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
@@ -379,10 +372,10 @@
 - `enem-2018-ppl-d2-q110`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2018-ppl-d2-q124`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-ppl-d2-q137`: 4 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2018-ppl-d2-q139`: 9 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2018-ppl-d2-q139`: 6 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-ppl-d2-q149`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-ppl-d2-q155`: 1 fração(ões) linearizada(s) como a/b: conferir; 1 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir; 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2018-ppl-d2-q161`: 10 fração(ões) linearizada(s) como a/b: conferir; 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2018-ppl-d2-q161`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2018-ppl-d2-q163`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-ppl-d2-q168`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-ppl-d2-q172`: 1 fração(ões) linearizada(s) como a/b: conferir
@@ -391,8 +384,8 @@
 
 ### 2018-regular-dia2 — REVISAR
 
-- Palavras sem cobertura (2): potenciais-padrão, Bookman,
-- Trechos com letras perdidas: 4
+- Palavras sem cobertura (1): Bookman,
+- Trechos com letras perdidas: 1
 - `enem-2018-regular-d2-q103`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-regular-d2-q108`: enunciado muito curto
 - `enem-2018-regular-d2-q109`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
@@ -408,23 +401,22 @@
 - `enem-2018-regular-d2-q154`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-regular-d2-q156`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-regular-d2-q180`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2018-regular-d2-q93`: 3 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2018-regular-d2-q95`: enunciado muito curto
 
 ### 2019-ppl-dia2 — REVISAR
 
-- Trechos com letras perdidas: 4
+- Trechos com letras perdidas: 5
 - `enem-2019-ppl-d2-q100`: 1 fração(ões) linearizada(s) como a/b: conferir; 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-ppl-d2-q104`: 4 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q106`: 1 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2019-ppl-d2-q128`: 5 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2019-ppl-d2-q128`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q129`: 4 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q131`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q141`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q150`: 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q151`: 3 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-ppl-d2-q154`: 5 fração(ões) linearizada(s) como a/b: conferir
-- `enem-2019-ppl-d2-q158`: 2 fração(ões) linearizada(s) como a/b: conferir; 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2019-ppl-d2-q158`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-ppl-d2-q160`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-ppl-d2-q161`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-ppl-d2-q174`: 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
@@ -434,14 +426,13 @@
 ### 2019-regular-dia2 — REVISAR
 
 - Algarismos sem cobertura: 2
-- Trechos com letras perdidas: 19
+- Trechos com letras perdidas: 18
 - `enem-2019-regular-d2-q102`: enunciado muito curto; 1 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-regular-d2-q113`: 5 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-regular-d2-q147`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 - `enem-2019-regular-d2-q159`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-regular-d2-q165`: 5 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2019-regular-d2-q167`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2019-regular-d2-q91`: 1 fração(ões) linearizada(s) como a/b: conferir
 
 ### 2020-digital-dia1-espanhol — FALHA
 
