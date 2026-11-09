@@ -1190,13 +1190,18 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
                                                     and o['top'] <= (c['top'] + c['bottom']) / 2 <= o['bottom']
                                                     for c in letras))]
     if P.barra_de_segmento:                    # barra sobre letras no meio da frase (segmento CP, vetor v): não é fração
-        def _sobre_linha(b):
-            baixo = [c for c in chars if c['text'].strip() and b['x0'] - 1 <= (c['x0'] + c['x1']) / 2 <= b['x1'] + 1
-                     and -1 <= c['top'] - b['bottom'] <= 4]
-            if not baixo:
+        def _no_meio_da_frase(grupo, b):
+            if not grupo:
                 return False
-            mesma = [c for c in chars if c['text'].strip() and abs(c['top'] - baixo[0]['top']) < 1.5]
-            return (min(c['x0'] for c in mesma) < b['x0'] - 15 and max(c['x1'] for c in mesma) > b['x1'] + 15)
+            mesma = [c for c in chars if c['text'].strip() and abs(c['top'] - grupo[0]['top']) < 1.5]
+            ini, fim = min(c['x0'] for c in mesma), max(c['x1'] for c in mesma)
+            return ini < b['x0'] - 2 and fim > b['x1'] + 2 and (fim - ini) > (b['x1'] - b['x0']) * 3
+
+        def _sobre_linha(b):
+            no_traco = [c for c in chars if c['text'].strip() and b['x0'] - 1 <= (c['x0'] + c['x1']) / 2 <= b['x1'] + 1]
+            baixo = [c for c in no_traco if -1 <= c['top'] - b['bottom'] <= 4]
+            cima = [c for c in no_traco if -1 <= b['top'] - c['bottom'] <= 4]
+            return _no_meio_da_frase(baixo, b) or _no_meio_da_frase(cima, b)   # barra de segmento ou linha de texto
         barras = [b for b in barras if not _sobre_linha(b)]
     if P.quadro_rotulo:                        # rótulo "Questão | N" desenhado como tabelinha (2009...): a borda
         barras = _sem_bordas_do_rotulo(chars, barras)   # de baixo não é traço de fração
