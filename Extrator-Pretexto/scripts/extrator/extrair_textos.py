@@ -25,6 +25,9 @@ Uso
 """
 import argparse
 import copy
+import io
+import shutil
+import subprocess
 import json
 import re
 import statistics
@@ -54,7 +57,7 @@ CATEGORIAS = ['regular', 'ppl', 'digital', 'segunda', 'terceira']
 RE_ROTULO = re.compile(r'^\s*QUEST[ÃA]O\s+(\d{1,3})\b\s*(.*)$', re.I | re.S)
 RE_QUESTAO = re.compile(r'QUEST[ÃA]O\s+(\d{1,3})\b', re.I)
 RE_TEXTO_PARA = re.compile(r'^Texto\s+para\s+as\s+Quest[õo]es\s+(?:de\s+)?(\d{1,3})\s+(?:a|e)\s+(\d{1,3})', re.I)
-RE_SECAO_IDIOMA = re.compile(r'Quest[õo]es\s+de\s+\d+\s+a\s+\d+\s*\(\s*op[cç][ãa]o\s+(ingl[eê]s|espanhol)\s*\)', re.I)
+RE_SECAO_IDIOMA = re.compile(r'Quest[õo]es\s+de\s+\d+\s+a\s+\d+\s*\(\s*op[cç][ãa]o\s*:?\s*(ingl[eê]s|espanhol)\s*\)', re.I)
 RE_AREA = re.compile(
     r'(?:PROVA\s+DE\s+)?(?:'
     r'LINGUAGENS,\s*C[OÓ]DIGOS\s+E\s+SUAS\s+TECNOLOGIAS(?:\s+E\s+REDA[ÇC]Ã?O)?|'
@@ -368,7 +371,11 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
         elif not g['img'] and g['n'] >= 3 and w >= P.vet_min_w and h >= P.vet_min_h:
             figuras.append(g)
         elif not g['img'] and g['n'] <= 2 and w >= 150 and h >= 40:
-            caixas.append(g['caixa'])
+            if P.caixa_sem_texto_e_figura and not any(c['text'].strip() and centro_dentro(c, [g['caixa']])
+                                                      for c in pagina.chars):
+                figuras.append(g)                      # moldura sem texto dentro: é desenho (ex.: alternativa)
+            else:
+                caixas.append(g['caixa'])
     return figuras, caixas
 
 
@@ -969,11 +976,11 @@ def _indices_soltos(chars_linha, tam_corpo):
 
 
 def _zonas_rotulo(chars):
-    """Caixas em volta dos rótulos "Questão N" em negrito (quadrinho desenhado com retângulos)."""
+    """Caixas em volta dos rótulos "Questão N" e "Rascunho" em negrito (quadrinho desenhado com retângulos)."""
     zonas = []
     chars = [c for c in chars if len(c['text']) == 1]      # "(cid:N)" e ligaduras não entram na busca
     texto = ''.join(c['text'] for c in chars)
-    for m in re.finditer(r'Quest[ãa]o(?!es)', texto, re.I):
+    for m in re.finditer(r'Quest[ãa]o(?!es)|Rascunho', texto, re.I):
         cs = chars[m.start():m.end()]
         if any(k in cs[0]['fontname'] for k in ('Bold', 'Black', 'Heavy')):
             zonas.append((min(c['x0'] for c in cs) - 6, min(c['top'] for c in cs) - 6,
@@ -988,6 +995,32 @@ def _sem_bordas_do_rotulo(chars, barras):
         return barras
     return [b for b in barras if not any(z[0] <= b['x0'] and b['x1'] <= z[2] and z[1] <= b['top'] <= z[3]
                                          for z in zonas)]
+
+
+def _precisa_ocr(cs):
+    """Linha em que ao menos 30% dos caracteres são glifos sem Unicode ("(cid:N)") e nenhum é estrutura matemática."""
+    ruins = sum(1 for c in cs if RE_GLIFO_RUIM.search(c['text']))
+    return ruins >= 3 and ruins >= len(cs) * 0.3 and not any(c.get('_complexo') or c.get('fracao') for c in cs)
+
+
+_TESSERACT = shutil.which('tesseract')
+
+
+def ocr_linha(pagina, caixa_linha, dpi=300):
+    """Texto de uma linha por OCR (Tesseract, português). Devolve '' se o OCR não estiver instalado ou falhar."""
+    if not _TESSERACT:
+        return ''
+    x0, t, x1, b = caixa_linha
+    bb = (max(x0 - 2, 0), max(t - 2, 0), min(x1 + 2, pagina.width), min(b + 2, pagina.height))
+    try:
+        img = pagina.crop(bb, strict=False).to_image(resolution=dpi).original.convert('L')
+        buf = io.BytesIO()
+        img.save(buf, 'PNG')
+        r = subprocess.run([_TESSERACT, 'stdin', 'stdout', '-l', 'por', '--psm', '7'], input=buf.getvalue(),
+                           capture_output=True, timeout=60)
+        return limpar(r.stdout.decode('utf-8', 'ignore').replace('\n', ' ')) if r.returncode == 0 else ''
+    except Exception:  # OCR é só reserva: sem ele a linha vira imagem, como antes
+        return ''
 
 
 def _dividir_alternativas_lado_a_lado(brutas, P):
@@ -1053,6 +1086,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             txt = re.sub(r'\) ([,.;:])', r')\1', txt)           # ")" fim de fração/raiz + pontuação colada
         if RE_SO_MARCA.match(txt):
             continue
+        if P.quadro_rotulo and re.fullmatch(r'Rascunho', txt, re.I):
+            continue                                 # rótulo do espaço de rascunho (2009)
         if not txt or (txt.isdigit() and len(txt) <= 3 and RE_MARCA_SUB.search(ln['text'])):
             continue
         cs = [c for c in ln['chars'] if c['text'].strip()]
@@ -1082,7 +1117,13 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         ext = [c.get('_ext') or (c['x0'], c['top'], c['x1'], c['bottom']) for c in partes]
         item['_cb'] = (min(e[0] for e in ext), min(e[1] for e in ext), max(e[2] for e in ext), max(e[3] for e in ext))
         item['_cx0'] = cs[1]['x0'] if letra and len(cs) > 1 else item['x0']
-        if any(RE_GLIFO_RUIM.search(c['text']) or c.get('_complexo') for c in cs) or item['indices_soltos']:
+        if P.ocr_cid and _precisa_ocr(cs):           # glifos sem Unicode: lê a linha por OCR (Tesseract)
+            lido = ocr_linha(pagina, item['_cb'])
+            if lido:
+                item['texto'] = (letra + ' ' + lido) if letra else lido
+                item['ocr'] = True
+        if not item.get('ocr') and (any(RE_GLIFO_RUIM.search(c['text']) or c.get('_complexo') for c in cs)
+                                    or item['indices_soltos']):
             item['ilegivel'] = True
         m = RE_ROTULO.match(txt)
         if m:
@@ -1364,6 +1405,12 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         if calha is None:
             calha = detectar_colunas(pagina.filter(lambda o: not (o.get('object_type') == 'char' and excl(o))),
                                      topo, rodape)
+        if calha is None and P.calha_padrao:            # detecção falhou (figura grande numa coluna)
+            meio = pagina.width * P.calha_padrao
+            cruzam = [w for w in pagina.crop((0, topo, pagina.width, rodape), strict=False).extract_words()
+                      if w['x0'] < meio - 2 < meio + 2 < w['x1'] and not so_fig(w)]
+            if len(cruzam) <= 2:
+                calha = meio
         regs = regioes_com_colunas(pagina, (0, topo, pagina.width, rodape), calha, excl, pn, '', P)
 
         # cabeçalho: só interessam rótulos de questão e títulos de seção que caiam na faixa do topo
@@ -1432,6 +1479,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         if not redacao:
             perdas.extend(auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formula, fluxo[ini_pg:]))
         palavras_pag = corpo.extract_words()
+        if P.ignorar_texto_girado:                      # rótulos girados de gráfico/mapa ficam dentro da figura
+            palavras_pag = [w for w in palavras_pag if w.get('upright', True)]
         linhas_rotulo = {round(w['top'] / 3) for w in palavras_pag if norm(w['text']) in ('questao', 'questoes')}
         linhas_titulo = {round(w['top'] / 3) for w in palavras_pag if norm(w['text']) == 'questoes'}
         for w in palavras_pag:
@@ -1477,6 +1526,8 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
     compartilhados = []
     idioma = idioma_forcado
     materia = None
+    tams = [i['tam'] for i in fluxo if i['tipo'] == 'linha' and i.get('tam')]
+    tam_corpo = statistics.median(tams) if tams else 10
 
     def fechar():
         nonlocal atual
@@ -1538,6 +1589,9 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 letras_usadas = {a['letra'] for a in atual['alts']}
                 esp = next((letra for letra in 'ABCDE' if letra not in letras_usadas), None)
                 par = RE_ALT_PARES.fullmatch(t.strip())
+                if par and P.indice_nao_e_alternativa and it.get('tam', tam_corpo) < tam_corpo * 0.85 \
+                        and not it.get('alt_marcador'):
+                    par = None                               # "A B" de índices (k_A ... k_B), não grade A D / B E
                 if (par and esp == par.group(1).upper() and par.group(2).upper() not in letras_usadas
                         and (P.usa_v2025 or par.group(1).upper() != par.group(2).upper())):   # v2024+: "A A" não é par
                     marcas = it.get('marcas_x') or []
@@ -1547,7 +1601,9 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                         atual['alts'].append({'letra': letra, 'linhas': [linha_alt]})
                     continue
                 marcador = it.get('alt')
-                if marcador is None:
+                if marcador is None and P.indice_nao_e_alternativa and it.get('tam', tam_corpo) < tam_corpo * 0.85:
+                    pass                                     # "A" / "A B" em tamanho de índice (k_A, p_B): não é letra
+                elif marcador is None:
                     match_alt = RE_ALT_REGEX.match(t)
                     marcador = (match_alt.group(1) if match_alt and
                                 (not alt_por_fonte or t.strip() == esp or t[1:2] in ').:-' or
@@ -1565,7 +1621,7 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
                 if atual['alts']:
                     ult = atual['alts'][-1]['linhas'][-1]
                     mesma_col = (ult['pg'], ult['col']) == (it['pg'], it['col'])
-                    if len(atual['alts']) == 5 and (not mesma_col or it['top'] - ult['top'] > 16):
+                    if len(atual['alts']) == 5 and (not mesma_col or it['top'] - ult['top'] > P.salto_fim_questao):
                         fechar()          # acabou a questão; o que vier depois não é dela
                         continue
                     atual['alts'][-1]['linhas'].append(it)
@@ -1816,6 +1872,7 @@ def carregar_gabaritos(caminho, idioma_forcado=None, P=None):
     bilingue_doc = 'espanhol' in doc and 'ingl' in doc
     gab, idioma_atual = {}, idioma_forcado
     for linha in linhas:
+        linha = re.sub(r'\*(?=[A-E]\b)', '', linha)      # "49 *A": asterisco de observação no gabarito
         n = norm(linha)
         if 'ingles' in n or 'ingl' in n or 'english' in n:
             idioma_atual = 'ingles'
@@ -1979,7 +2036,7 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
         paginas = [p for p in paginas if 1 <= p <= total]
         if P.pular_capa and not args.paginas:        # capa com instruções: não tem questão
             capa = pdf.pages[0].extract_text() or ''
-            if re.search(r'LEIA\s*ATENTAMENTE|INSTRU[ÇC][ÕO]ES', capa, re.I) and not RE_QUESTAO.search(capa):
+            if not RE_QUESTAO.search(capa):
                 paginas = [p for p in paginas if p != 1]
         fluxo, corpo_palavras, perdas = ler_fluxo(pdf, str(caminho_pdf), paginas, P, log)
         alt_por_fonte = any(i.get('alt') for i in fluxo if i['tipo'] == 'linha')

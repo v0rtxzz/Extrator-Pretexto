@@ -40,6 +40,9 @@ Detalhes por prova em `relatorios/CONSOLIDADO.md`. Só as provas **OK** têm fot
 
 - Instale Python 3.9 ou mais novo.
 - Na pasta do projeto: `pip install -r scripts/extrator/requirements.txt`
+- Opcional (provas cujo PDF usa fontes sem Unicode, como 2021): OCR Tesseract com português
+  (`sudo apt install tesseract-ocr tesseract-ocr-por`; no Windows/macOS, o instalador do Tesseract). Sem ele, essas
+  linhas continuam sendo salvas como imagem, com aviso. O OCR só é usado nos motores com `ocr_cid=True`.
 
 ## 2) Organizar os PDFs
 

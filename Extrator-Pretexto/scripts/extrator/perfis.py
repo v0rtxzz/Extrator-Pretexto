@@ -70,6 +70,12 @@ class Perfil:
     proteger_rotulos: bool = False   # o rótulo "Questão NN" nunca é engolido por uma figura encostada nele
     ignorar_fundo_pagina: bool = False  # objeto gráfico que cobre >40% da página é fundo, não figura (digital)
     botoes_alternativa: bool = False  # alternativa desenhada dentro de um botão retangular (digital 2021-2022)
+    ignorar_texto_girado: bool = False  # palavras giradas (eixo de gráfico) não entram na auditoria de cobertura
+    salto_fim_questao: float = 16.0  # depois da alternativa E, um salto vertical maior que isso encerra a questão
+    indice_nao_e_alternativa: bool = False  # linha só com letra em tamanho de índice (k_A) não abre alternativa
+    caixa_sem_texto_e_figura: bool = False  # retângulo grande sem texto dentro é figura, não fundo de quadro
+    calha_padrao: float = 0.0        # posição relativa da calha usada quando a detecção de colunas falha (0 = não usa)
+    ocr_cid: bool = False            # linhas com glifos sem Unicode e sem tabela conhecida: OCR (Tesseract, por)
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
     cor_gabarito: str = ''           # gabarito com várias cores lado a lado (2009): cor da coluna a usar
@@ -111,7 +117,7 @@ class Regra:
 
 
 # Ponto de partida dos motores 2009-2023 (cada motor recebe uma CÓPIA; mudar aqui não altera 2024 nem 2025).
-_CICLO_ANTIGO = dict(pular_capa=True, proteger_rotulos=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
+_CICLO_ANTIGO = dict(caixa_sem_texto_e_figura=True, salto_fim_questao=24.0, indice_nao_e_alternativa=True, pular_capa=True, proteger_rotulos=True, ignorar_texto_girado=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
 _ATE_2016 = dict(_CICLO_ANTIGO, areas=AREAS_ATE_2016, questoes_idioma=(91, 95))
 
 # ───────────────────────── Motores (um por ano; o nome é sempre o ano) ─────────────────────────
@@ -125,13 +131,13 @@ MOTORES = {
                    'alternativas (A D / B E / C).'),
     'v2023': Motor('Regular e PPL. Diagramação do ciclo 2017-2024.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.075)),
     'v2022': Motor('Regular, PPL e digital (dia 1 em cadernos separados por idioma).', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.078)),
-    'v2021': Motor('Regular, PPL e digital. Rótulos de capa com glifos (cid) na 1ª página.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.087)),
+    'v2021': Motor('Regular, PPL e digital. Rótulos de capa com glifos (cid) na 1ª página.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.087, ocr_cid=True)),
     'v2020': Motor('Regular, PPL e digital. Capas sem texto selecionável.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.09)),
     'v2019': Motor('Regular e PPL.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.092)),
     'v2018': Motor('Regular e PPL.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.09)),
     'v2017': Motor('Regular e PPL. Primeiro ano com dia 1 = Linguagens + Humanas.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.092)),
     'v2016': Motor('Regular, segunda e PPL (3ª aplicação). Dia 1 = Humanas + Natureza; idiomas 91-95.',
-                   ajustes=dict(_ATE_2016, topo_rel=0.085)),
+                   ajustes=dict(_ATE_2016, topo_rel=0.085, rodape_rel=0.936)),
     'v2015': Motor('Regular e PPL. Dia 1 = Humanas + Natureza; idiomas 91-95.', ajustes=dict(_ATE_2016, topo_rel=0.065)),
     'v2014': Motor('Regular, PPL e terceira. Dia 1 = Humanas + Natureza; idiomas 91-95.', ajustes=dict(_ATE_2016, topo_rel=0.052)),
     'v2013': Motor('Regular e PPL. Dia 1 = Humanas + Natureza; idiomas 91-95.', ajustes=dict(_ATE_2016, topo_rel=0.06)),
@@ -143,7 +149,7 @@ MOTORES = {
     'v2009': Motor('Regular. Dia 1 = Natureza (1-45) + Humanas (46-90); sem língua estrangeira (começou em 2010). Gabarito com as 4 cores lado a lado.',
                    ajustes=dict(_ATE_2016, areas=('natureza', 'humanas', 'linguagens', 'matematica'), questoes_idioma=(0, 0),
                                 cor_gabarito='azul', quadro_rotulo=True, ignorar_cropbox=True,
-                                topo_rel=0.04, rodape_rel=0.882)),
+                                topo_rel=0.04, rodape_rel=0.882, calha_padrao=0.5)),
 }
 
 # Ajustes por dia/categoria dentro de um motor: {'v2024': [Regra(...), ...]}
@@ -153,6 +159,9 @@ REGRAS = {
                                    ignorar_fundo_pagina=True))]
     for ano, topo in ((2020, 0.04), (2021, 0.028), (2022, 0.015))
 }
+REGRAS['v2014'] = [Regra('PPL e terceira: rodapé mais alto', categorias=('ppl', 'terceira'),
+                         ajustes=dict(rodape_rel=0.936))]
+REGRAS['v2015'] = [Regra('PPL: rodapé mais alto', categorias=('ppl',), ajustes=dict(rodape_rel=0.936))]
 for _ano in (2021, 2022):          # letras das alternativas em Segoe UI Bold dentro de um círculo
     REGRAS[f'v{_ano}'].append(Regra('digital: letras em SegoeUI-Bold', categorias=('digital',),
                                     ajustes=dict(fontes_letra=('Bundesbahn', 'Circled', 'SegoeUI-Bold'),
