@@ -149,9 +149,14 @@ def main():
     ap.add_argument('--incluir-revisar', action='store_true',
                     help='com --gravar, grava também provas com status REVISAR/FALHA na validação anterior')
     ap.add_argument('--explicar', action='store_true', help='gera as explicações por IA (exige ANTHROPIC_API_KEY)')
+    ap.add_argument('--pular-existentes', action='store_true',
+                    help='não processa provas que já têm supabase/ATUALIZAR-*.sql (só as que faltam)')
+    ap.add_argument('--pular-anos', help='anos a não processar, ex.: 2010,2021')
     ap.add_argument('--processos', type=int, default=4)
     a = ap.parse_args()
     anos = [int(x) for x in a.anos.split(',')] if a.anos else list(range(a.de, a.ate + 1))
+    if a.pular_anos:
+        anos = [x for x in anos if x not in {int(y) for y in a.pular_anos.split(',')}]
     pasta = E.RAIZ / 'provas'
     aprovadas = None
     if a.gravar and not a.incluir_revisar:
@@ -166,6 +171,8 @@ def main():
             provas = E.descobrir_provas(pasta, ano, a.categoria)
         for pdf, gab, cat, dia, idioma in provas:
             if aprovadas is not None and _nome(ano, cat, dia, idioma) not in aprovadas:
+                continue
+            if a.pular_existentes and (E.RAIZ / 'supabase' / f'ATUALIZAR-{_nome(ano, cat, dia, idioma)}.sql').exists():
                 continue
             tarefas.append((pdf, gab, ano, cat, dia, idioma, {'gravar': a.gravar, 'explicar': a.explicar}))
     print(f'{len(tarefas)} prova(s) a processar ({"gravação" if a.gravar else "dry-run"}).', flush=True)
