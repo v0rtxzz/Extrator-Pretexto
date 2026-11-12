@@ -81,7 +81,8 @@ def sem_gabarito(pasta, ano):
     for cat_dir in sorted((pasta / str(ano)).glob('*')):
         for pdf in sorted(cat_dir.glob('dia[12]-prova*.pdf')):
             gab = cat_dir / pdf.name.replace('-prova', '-gabarito')
-            if not gab.exists():
+            manual = E.PASTA_MANUAIS / f'{ano}-{cat_dir.name}-{gab.stem}.json'   # gabarito transcrito à mão
+            if not gab.exists() and not manual.exists():
                 faltam.append(str(pdf.relative_to(pasta)))
     return faltam
 

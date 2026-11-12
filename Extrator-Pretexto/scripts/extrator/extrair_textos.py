@@ -2562,8 +2562,28 @@ def _gabarito_marcado(caminho, P):
     return gab
 
 
+def _gabarito_manual(caminho):
+    """Gabarito transcrito à mão (manuais/ANO-CATEGORIA-diaN-gabarito.json), para prova sem PDF de gabarito
+    (PPL 2010: a resposta está circulada no caderno e foi conferida visualmente). Formato:
+    {"1": "A", ..., "91-ingles": "B", "91-espanhol": "C", "_obs": "..."}; valor null = anulada."""
+    dados = json.loads(Path(caminho).read_text(encoding='utf-8'))
+    gab = {}
+    for chave, resp in dados.items():
+        if chave.startswith('_'):
+            continue
+        num, _, idioma = chave.partition('-')
+        if resp is not None and not re.fullmatch(r'[A-E]', resp):
+            sys.exit(f'{Path(caminho).name}: resposta inválida "{resp}" na questão {chave}.')
+        gab[(int(num), idioma or None)] = resp
+    if not gab:
+        sys.exit(f'{Path(caminho).name}: nenhuma resposta.')
+    return gab
+
+
 def carregar_gabaritos(caminho, idioma_forcado=None, P=None):
     """Lê pares questão/resposta do PDF oficial de gabarito. Chave: (número, idioma|None)."""
+    if P is not None and P.gabarito_manual and str(caminho).endswith('.json'):
+        return _gabarito_manual(caminho)
     if P is not None and P.gabarito_no_caderno:
         return _gabarito_marcado(caminho, P)
     if P is not None and P.cor_gabarito:
@@ -3032,7 +3052,12 @@ def descobrir_provas(pasta, ano, categoria=None, dia=None):
                 continue
             idioma = m.group(2)
             gab = cat_dir / (f'dia{m.group(1)}-gabarito' + (f'-{idioma}' if idioma else '') + '.pdf')
-            if not gab.exists() and obter_perfil(ano, int(m.group(1)), cat_dir.name).gabarito_no_caderno:
+            perfil = obter_perfil(ano, int(m.group(1)), cat_dir.name)
+            manual = PASTA_MANUAIS / (f'{ano}-{cat_dir.name}-dia{m.group(1)}' + (f'-{idioma}' if idioma else '')
+                                      + '-gabarito.json')
+            if not gab.exists() and perfil.gabarito_manual and manual.exists():
+                gab = manual                               # gabarito transcrito à mão (PPL 2010)
+            elif not gab.exists() and perfil.gabarito_no_caderno:
                 gab = pdf                                  # o próprio caderno traz a resposta marcada (2010)
             if not gab.exists():
                 print(f'aviso: sem gabarito para {pdf} (esperado {gab.name}); ignorado.')

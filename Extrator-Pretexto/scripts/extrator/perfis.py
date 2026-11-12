@@ -99,6 +99,7 @@ class Perfil:
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
     gabarito_no_caderno: bool = False  # o "gabarito" é o caderno com a letra certa circulada (2010)
+    gabarito_manual: bool = False    # sem PDF de gabarito: lê manuais/ANO-CATEGORIA-diaN-gabarito.json, se existir (PPL 2010)
     cor_gabarito: str = ''           # gabarito com várias cores lado a lado (2009): cor da coluna a usar
     notas: str = ''
 
@@ -167,7 +168,7 @@ MOTORES = {
                    ajustes=dict(_ATE_2016, topo_rel=0.09)),
     'v2010': Motor('Regular e PPL. Dia 1 = Humanas + Natureza; idiomas 91-95. O gabarito vem no caderno: a letra '
                    'certa tem um círculo em volta (regular: arquivo diaN-gabarito.pdf; PPL: o próprio caderno).',
-                   ajustes=dict(_ATE_2016, topo_rel=0.09, rodape_rel=0.935, gabarito_no_caderno=True,
+                   ajustes=dict(_ATE_2016, topo_rel=0.09, rodape_rel=0.935, gabarito_no_caderno=True, gabarito_manual=True,
                                 letra_em_circulo=True, ignorar_fundo_pagina=True, ocr_cid=True)),
     'v2009': Motor('Regular. Dia 1 = Natureza (1-45) + Humanas (46-90); sem língua estrangeira (começou em 2010). Gabarito com as 4 cores lado a lado.',
                    ajustes=dict(_ATE_2016, areas=('natureza', 'humanas', 'linguagens', 'matematica'), questoes_idioma=(0, 0),
