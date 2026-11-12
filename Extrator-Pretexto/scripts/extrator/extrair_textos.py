@@ -153,6 +153,71 @@ def decodificar_cid(chars, familias):
     return n
 
 
+_RE_NOME_INDICE = re.compile(r'^g(\d+)$')
+_LIGADURAS = {'ﬁ': 'fi', 'ﬂ': 'fl'}
+# SymbolMT (TrueType): glifo NN = código Symbol NN+29 (32-126) ou NN+63 (161-254). Só os glifos conferidos nas provas
+# de 2021; as peças de parêntese grande (matriz) ficam sem decodificar e a fórmula continua indo como imagem.
+_SIMBOLO_POR_INDICE = {3: ' ', 14: '+', 16: '−', 31: '<', 32: '=', 33: '>', 38: 'X', 39: 'Δ', 62: '[', 64: ']',
+                       83: 'π', 84: 'θ', 90: 'ω', 100: '≤', 111: '→', 113: '°', 114: '±', 117: '×', 152: '⋅'}
+
+
+def corrigir_fontes_por_nome_de_glifo(pdf, familias):
+    """Perfis com `cid_por_nome_de_glifo` (2021): fontes Type1/TrueType simples cujo /Encoding /Differences dá nomes
+    de glifo "gNN" (NN = índice do glifo na Arial) e cuja ToUnicode não cobre esses códigos. O pdfminer devolve
+    "(cid:N)" ou um caractere errado da codificação-base ("%" no lugar de "p"); aqui a tabela da fonte é corrigida
+    pela ordem padrão de glifos antes da leitura, e o texto sai exato, sem OCR. Só nas fontes das `familias` e na
+    SymbolMT (tabela própria, `_SIMBOLO_POR_INDICE`).
+    Os códigos que a ToUnicode cobre continuam vindo dela. Devolve quantos códigos foram corrigidos."""
+    from pdfminer.pdftypes import resolve1, PDFObjRef
+    from pdfminer.psparser import PSLiteral
+    n, vistos = 0, set()
+    for pagina in pdf.pages:
+        try:
+            fontes = resolve1(pagina.page_obj.resources.get('Font')) or {}
+        except Exception:
+            continue
+        for ref in fontes.values():
+            objid = ref.objid if isinstance(ref, PDFObjRef) else None
+            if objid is None or objid in vistos:
+                continue
+            vistos.add(objid)
+            spec = resolve1(ref)
+            nome = spec.get('BaseFont')
+            nome = nome.name if isinstance(nome, PSLiteral) else str(nome)
+            simbolo = 'SymbolMT' in nome
+            if not simbolo and not any(fam in nome for fam in familias):
+                continue
+            enc = resolve1(spec.get('Encoding'))
+            difs = resolve1(enc.get('Differences')) if isinstance(enc, dict) else None
+            if not difs:
+                continue
+            nomes, cod = {}, None
+            for x in difs:
+                if isinstance(x, int):
+                    cod = x
+                elif cod is not None:
+                    nomes[cod] = getattr(x, 'name', str(x))
+                    cod += 1
+            fonte = pdf.rsrcmgr.get_font(objid, spec)       # fica no cache: a leitura das páginas usa esta
+            if not hasattr(fonte, 'cid2unicode'):
+                continue
+            for cod, g in nomes.items():
+                m = _RE_NOME_INDICE.match(g)
+                if not m:
+                    continue
+                k = int(m.group(1))
+                if simbolo:
+                    if k in _SIMBOLO_POR_INDICE:
+                        fonte.cid2unicode[cod] = _SIMBOLO_POR_INDICE[k]
+                        n += 1
+                    continue
+                k = k + 1 if k >= 172 else k       # a Arial do Windows não tem o glifo 172 da ordem Mac
+                if 3 <= k <= 257 and _GLIFOS_MAC[k - 3] != '\uf8ff':
+                    fonte.cid2unicode[cod] = _LIGADURAS.get(_GLIFOS_MAC[k - 3], _GLIFOS_MAC[k - 3])
+                    n += 1
+    return n
+
+
 def _calha_pelo_texto(pagina, topo, rodape):
     """Centro da faixa vertical sem nenhum caractere entre 35% e 65% da largura (a calha entre as colunas)."""
     ocup = [0] * int(pagina.width + 1)
@@ -227,7 +292,7 @@ def preparar_pagina(pagina, P):
     if P.decodificar_cid:
         decodificar_cid(pagina.chars, P.decodificar_cid)
     pagina = pagina.dedupe_chars()
-    invisiveis = _chars_invisiveis(pagina) if P.remover_texto_invisivel else set()
+    invisiveis = _chars_invisiveis(pagina, P.dpi_texto_invisivel) if P.remover_texto_invisivel else set()
 
     def manter(o):
         if o.get('object_type') != 'char':
@@ -722,10 +787,23 @@ def _composto(t):
     return bool(re.search(r'\d', base) and re.search(r'[^\W\d_]', base))
 
 
-def fundir_fracoes(chars, barras):
+def _so_a_linha_mais_proxima(cs, chave):
+    """Dos caracteres candidatos a numerador/denominador, fica só a linha mais perto da barra: os que estão na altura
+    do mais próximo (`chave` escolhe o mais próximo): centro a menos de meia altura dele. Índices (x², x₁)
+    continuam; a linha de texto vizinha, com o centro uma linha inteira acima/abaixo, fica de fora."""
+    if not cs:
+        return cs
+    ref = chave(cs)
+    meio, alt = (ref['top'] + ref['bottom']) / 2, ref['bottom'] - ref['top']
+    return [c for c in cs if abs((c['top'] + c['bottom']) / 2 - meio) <= alt * 0.5]
+
+
+def fundir_fracoes(chars, barras, uma_linha=False):
     """Fração empilhada vira 'num/den': numerador e denominador estão em linhas separadas, o que embaralharia
     o texto. Fração aninhada, ou com tamanho de expoente, é marcada `_complexo` (a linha vira imagem).
-    Frações coladas a operadores (×, +, −...) ganham parênteses. Devolve (chars, quantidade)."""
+    Frações coladas a operadores (×, +, −...) ganham parênteses. Devolve (chars, quantidade).
+    Com `uma_linha` (perfil `fracao_numa_linha`), numerador e denominador são só a linha de texto mais próxima da
+    barra: fração pequena no meio do parágrafo não puxa letras das linhas vizinhas."""
     usados, sinteticos, info = set(), [], []
     tamanhos = [c['size'] for c in chars if c['size'] >= 8 and c['text'].strip()]
     corpo = Counter(round(t, 1) for t in tamanhos).most_common(1)[0][0] if tamanhos else 10
@@ -734,6 +812,9 @@ def fundir_fracoes(chars, barras):
         livres = [c for c in chars if id(c) not in usados and c['text'].strip() and bx0 - 4 <= c['x0'] and c['x1'] <= bx1 + 4]
         num = [c for c in livres if by - 14 <= c['bottom'] <= by + 1.2 and by - c['bottom'] <= 9]
         den = [c for c in livres if by - 1.2 <= c['top'] <= by + 14 and c['top'] - by <= 9]
+        if uma_linha:
+            num = _so_a_linha_mais_proxima(num, lambda cs: max(cs, key=lambda c: c['bottom']))
+            den = _so_a_linha_mais_proxima(den, lambda cs: min(cs, key=lambda c: c['top']))
         if not num or not den:
             continue
         if max(c['size'] for c in num + den) > 14:
@@ -1240,7 +1321,7 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         chars, nfr = fundir_fracoes_v2025(chars, barras)
     else:
         chars, nrad = marcar_radicais(chars, curvas, barras, 'sem_fracao')
-        chars, nfr = fundir_fracoes(chars, barras)
+        chars, nfr = fundir_fracoes(chars, barras, P.fracao_numa_linha)
         chars, nrad2 = marcar_radicais(chars, curvas, barras, 'com_fracao')
     if not chars:
         return []
@@ -1262,6 +1343,17 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
                 if (c.get('_indice') and abs(dy) < 9 and perto) or (pequeno and 1.5 < abs(dy) < 8 and perto):
                     tipo = c.get('_indice') or ('sub' if dy > 0 else 'sup')
                     c = dict(c, top=viz['top'], bottom=viz['bottom'], doctop=viz.get('doctop', viz['top']), _indice=tipo)
+            novos.append(c)
+        chars = novos
+    if P.simbolo_pela_base:                      # π maior que o corpo (SymbolMT 13 pt): o topo sobe acima da linha;
+        corpo_cs = [c for c in chars if c['text'].strip() and abs(c['size'] - tam_corpo) < 0.6]
+        novos = []
+        for c in chars:                          # alinha pela base com a linha vizinha (mesma altura de base)
+            if 'Symbol' in c['fontname'] and c['size'] > tam_corpo * 1.15 and corpo_cs:
+                viz = min(corpo_cs, key=lambda o: abs(o['bottom'] - c['bottom']) + 0.05 * min(abs(o['x1'] - c['x0']),
+                                                                                          abs(c['x1'] - o['x0'])))
+                if abs(viz['bottom'] - c['bottom']) < 3.5:
+                    c = dict(c, top=viz['top'], bottom=viz['bottom'], doctop=viz.get('doctop', viz['top']))
             novos.append(c)
         chars = novos
     brutas = chars_to_textmap(chars, y_tolerance=P.tolerancia_linha).extract_text_lines(strip=True, return_chars=True)
@@ -1529,10 +1621,12 @@ def _letras(texto):
                    if c.isalpha() and not unicodedata.combining(c))
 
 
-def auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formula, itens_pagina):
+def auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formula, itens_pagina, sem_glifos=False):
     """Para cada linha lida, compara as letras do PDF que estão DENTRO da caixa da linha com as letras do texto
     dela. Pega perda de uma letra no meio da linha (ex.: o R de "proteção R_P"), que um saldo global não vê.
     Ignora caracteres em tamanho de índice (têm checagem própria) e o que é figura/fórmula-imagem.
+    Com `sem_glifos` (perfil `auditoria_sem_glifos`), as linhas lidas por OCR (fonte sem Unicode) ficam de fora: os
+    caracteres do PDF nelas são "(cid:N)" ou letras com código trocado, não dá para comparar letra a letra.
     Devolve [(página, y, letras que faltam, prévia do texto lido)]."""
     corridos = _CHARS_CORRIDOS_REF(pagina, caixas_fig, 99, 0.5, 4)   # auditoria: expectativa mais ampla que a extração
     cs = [c for c in pagina.chars if c['text'].strip() and c['size'] >= 7.9
@@ -1541,7 +1635,7 @@ def auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formu
           and not centro_dentro(c, caixas_formula)]
     perdas = []
     for it in itens_pagina:
-        if it['tipo'] != 'linha' or it.get('ilegivel'):
+        if it['tipo'] != 'linha' or it.get('ilegivel') or (sem_glifos and it.get('ocr')):
             continue
         dentro = [c for c in cs if it['x0'] - 0.5 <= (c['x0'] + c['x1']) / 2 <= it['x1'] + 0.5
                   and it['top'] - 0.5 <= (c['top'] + c['bottom']) / 2 <= it['bottom'] + 0.5]
@@ -1681,7 +1775,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         if 'PROPOSTADEREDA' in norm(corpo.extract_text() or '').upper():
             redacao = True                                  # a proposta de redação não vira questão
         if not redacao:
-            perdas.extend(auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formula, fluxo[ini_pg:]))
+            perdas.extend(auditar_perdas_de_leitura(pagina, pn, topo, rodape, caixas_fig, caixas_formula, fluxo[ini_pg:],
+                                                    sem_glifos=P.auditoria_sem_glifos))
         palavras_pag = corpo.extract_words()
         if P.ignorar_texto_girado:                      # rótulos girados de gráfico/mapa ficam dentro da figura
             palavras_pag = [w for w in palavras_pag if w.get('upright', True)]
@@ -2838,6 +2933,9 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
     log(f'{len(gabaritos)} respostas carregadas do gabarito.')
 
     with pdfplumber.open(caminho_pdf) as pdf:
+        if P.cid_por_nome_de_glifo:      # 2021: fontes com glifos "gNN" sem Unicode, decodificadas antes da leitura
+            log(f'{corrigir_fontes_por_nome_de_glifo(pdf, P.decodificar_cid)} código(s) de fonte decodificado(s) '
+                f'pelo nome do glifo.')
         total = len(pdf.pages)
         if args.paginas:
             a, _, b = args.paginas.partition('-')

@@ -1,0 +1,308 @@
+{
+ "_comentario": "ENEM 2021 regular dia 2: questões com alternativas desenhadas que o extrator não leu (extração assistida).",
+ "135": {
+  "materia": "natureza",
+  "texto_apoio": "O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.",
+  "credito_texto": "ROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. Química Nova na Escola, n. 12, 2000 (adaptado).",
+  "enunciado": "Um exemplo desse polímero é representado pela estrutura",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 16,
+     "caixa": [
+      305.2,
+      527.7,
+      394.2,
+      621.8
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 16,
+     "caixa": [
+      305.2,
+      635.4,
+      374.6,
+      680.7
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 16,
+     "caixa": [
+      305.2,
+      700.6,
+      393.9,
+      736.8
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 16,
+     "caixa": [
+      428.5,
+      527.7,
+      498.1,
+      563.3
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 16,
+     "caixa": [
+      428.5,
+      579.7,
+      519.3,
+      647.0
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são fórmulas estruturais de polímeros (desenho vetorial em duas colunas); o extrator não as separou. Texto transcrito do PDF; alternativas recortadas por caixa."
+ },
+ "161": {
+  "materia": "matematica",
+  "enunciado": "O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00, um show conseguia atrair 200 pessoas e que, a cada R$ 1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.\n\nO gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 26,
+     "caixa": [
+      50.2,
+      179.0,
+      274.5,
+      327.4
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 26,
+     "caixa": [
+      50.2,
+      366.1,
+      279.4,
+      517.4
+     ],
+     "pad": 0
+    }
+   ],
+   "C": [
+    {
+     "pg": 26,
+     "caixa": [
+      50.2,
+      553.2,
+      285.1,
+      702.4
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 26,
+     "caixa": [
+      291.2,
+      179.0,
+      535.7,
+      332.8
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 26,
+     "caixa": [
+      291.2,
+      366.1,
+      525.1,
+      513.5
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são 5 gráficos (página inteira); o extrator só achou 4. Recortes por caixa; o gráfico B termina antes do marcador da alternativa E, que fica na mesma altura (corta o fim do rótulo 'Desconto' e o '23')."
+ },
+ "102": {
+  "materia": "natureza",
+  "texto_apoio": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das tradicionais pilhas. A ilustração apresenta uma montagem que faz funcionar um cronômetro digital.",
+  "enunciado": "Utilizando a representação de projetos elétricos, o circuito equivalente a esse sistema é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 5,
+    "caixa": [
+     75.7,
+     123.9,
+     505.7,
+     312.8
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 5,
+     "caixa": [
+      50.6,
+      359.7,
+      129.1,
+      444.6
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 5,
+     "caixa": [
+      50.5,
+      487.0,
+      123.0,
+      574.6
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 5,
+     "caixa": [
+      50.5,
+      615.1,
+      123.3,
+      702.8
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 5,
+     "caixa": [
+      287.0,
+      357.1,
+      375.9,
+      444.8
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 5,
+     "caixa": [
+      287.3,
+      487.0,
+      375.8,
+      574.6
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são 5 circuitos desenhados (página inteira, sem texto nas alternativas); o extrator deixou as alternativas vazias. Texto transcrito; ilustração e circuitos recortados por caixa."
+ },
+ "162": {
+  "materia": "matematica",
+  "texto_apoio": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (I).",
+  "enunciado": "O gráfico que melhor representa essa relação é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 27,
+    "caixa": [
+     158.2,
+     103.2,
+     408.8,
+     167.6
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 27,
+     "caixa": [
+      55.4,
+      196.5,
+      211.2,
+      355.7
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 27,
+     "caixa": [
+      55.4,
+      431.4,
+      211.2,
+      528.4
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 27,
+     "caixa": [
+      55.4,
+      601.7,
+      211.2,
+      698.7
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 27,
+     "caixa": [
+      309.5,
+      196.5,
+      465.4,
+      355.7
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 27,
+     "caixa": [
+      309.5,
+      431.4,
+      465.4,
+      528.4
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são 5 gráficos (página inteira); o extrator deixou as alternativas vazias. Texto transcrito; quadro e gráficos recortados por caixa."
+ }
+}
