@@ -2525,40 +2525,79 @@ def _gabarito_por_cor(caminho, cor, P):
     return gab
 
 
+# Letra desenhada como disco preto com "furos" brancos (gabarito regular de 2010): nº de pontos de cada furo.
+_LETRA_POR_FUROS = {(3, 9): 'A', (9, 10, 16): 'B', (19,): 'C', (11, 12): 'D', (12,): 'E'}
+
+
+def _letra_no_circulo(pg, c, P):
+    """Letra A-E dentro do círculo `c`: caractere de fonte de marcador ou disco vetorial com furos."""
+    cx0, ct, cx1, cb = c
+    dentro = lambda o: cx0 <= (o['x0'] + o['x1']) / 2 <= cx1 and ct <= (o['top'] + o['bottom']) / 2 <= cb
+    for ch in pg.chars:
+        if ch['text'] in 'ABCDE' and ch['text'].strip() and any(f in ch['fontname'] for f in P.fontes_letra) and dentro(ch):
+            return ch['text']
+    for d in pg.curves:
+        if (6 <= d['x1'] - d['x0'] <= 8 and 6 <= d['bottom'] - d['top'] <= 8 and d.get('fill')
+                and len(d.get('pts', [])) == 5 and dentro(d)):
+            furos = tuple(sorted(len(o['pts']) for o in pg.curves if o is not d and o.get('fill')
+                                 and o.get('non_stroking_color') == (1.0, 1.0, 1.0)
+                                 and d['x0'] <= o['x0'] and o['x1'] <= d['x1'] + 0.3
+                                 and d['top'] <= o['top'] and o['bottom'] <= d['bottom'] + 0.3))
+            if furos in _LETRA_POR_FUROS:
+                return _LETRA_POR_FUROS[furos]
+    return None
+
+
 def _gabarito_marcado(caminho, P):
-    """Caderno com a resposta marcada (2010): a letra certa tem um círculo só contornado em volta.
-    Extrai as questões do próprio caderno (mesmo motor) e devolve, para cada uma, a alternativa cuja letra está
-    dentro de um círculo. Questão sem círculo, ou com mais de um, fica de fora (e é listada como ignorada)."""
+    """Caderno com a resposta marcada (2010): a letra certa tem um círculo verde (ou verde-azulado) só contornado em volta.
+    Lê os círculos na ordem de leitura (página, coluna, altura), identifica a letra dentro de cada um (fonte de
+    marcador no PPL; disco vetorial com furos no gabarito regular) e numera a sequência pela ordem das questões do
+    dia (91-95 inglês, 91-95 espanhol, 96-180 no dia 2). Os rótulos "Questão N" legíveis conferem a numeração."""
+    def verde(cor):
+        return isinstance(cor, (tuple, list)) and len(cor) == 3 and cor[1] > cor[0] + 0.2     # verde ou verde-azulado
+
+    marcas, rotulos = [], []                  # (pg, faixa, coluna, topo, letra) / (pg, faixa, coluna, topo, número)
     with pdfplumber.open(caminho) as pdf:
-        circulos = {}
         for pn, pg in enumerate(pdf.pages, start=1):
+            meio = pg.width / 2
+            ws = pg.extract_words()
+            # linhas que atravessam a calha central: trecho de largura total; a ordem de leitura é por faixa
+            cruzam = sorted(w['top'] for w in ws if w['x0'] < meio - 3 and w['x1'] > meio + 3)
+
+            def chave(x, topo):
+                faixa = sum(1 for t in cruzam if t < topo - 2)
+                return (pn, faixa, x > meio - 20, topo)
+            for k, w in enumerate(ws[:-1]):
+                if (re.match(r'Quest', w['text']) and re.fullmatch(r'\d{1,3}', ws[k + 1]['text'])
+                        and 1 <= int(ws[k + 1]['text']) <= 180):
+                    rotulos.append(chave(w['x0'], w['top']) + (int(ws[k + 1]['text']),))
             for o in pg.curves:
                 w, h = o['x1'] - o['x0'], o['bottom'] - o['top']
-                if 10 <= w <= 24 and 10 <= h <= 24 and abs(w - h) < 6 and o.get('stroke') and not o.get('fill'):
-                    circulos.setdefault(pn, []).append((o['x0'] - 2, o['top'] - 3, o['x1'] + 2, o['bottom'] + 3))
-        P2 = replace(P, gabarito_no_caderno=False)
-        mudo = io.StringIO()
-        import contextlib
-        with contextlib.redirect_stdout(mudo):
-            fluxo, _, _ = ler_fluxo(pdf, str(caminho), list(range(1, len(pdf.pages) + 1)), P2, lambda m: None)
-            alt_fonte = any(i.get('alt') for i in fluxo if i['tipo'] == 'linha')
-            questoes = segmentar(fluxo, alt_fonte, P2, None, lambda m: None)
+                if 10 <= w <= 40 and 8 <= h <= 24 and o.get('stroke') and not o.get('fill') and verde(o.get('stroking_color')):
+                    letra = _letra_no_circulo(pg, (o['x0'], o['top'], o['x1'], o['bottom']), P)
+                    if letra:                         # círculo verde sem letra dentro é desenho da questão
+                        marcas.append(chave(o['x0'] + 10, o['top']) + (letra,))
+    marcas.sort()
+    numeros = sorted({r[4] for r in rotulos})
+    if not numeros:
+        sys.exit('Gabarito marcado: nenhum rótulo "Questão N" legível no caderno.')
+    dia = 1 if numeros[0] <= 90 else 2
+    ordem = []
+    for idioma in ('ingles', 'espanhol') if P.tem_idioma(dia) else ():
+        ordem += [(n, idioma) for n in P.faixa_dia(dia) if P.e_idioma(n)]
+    ordem += [(n, None) for n in P.faixa_dia(dia) if not P.e_idioma(n)]
+    if len(marcas) != len(ordem):
+        sys.exit(f'Gabarito marcado: {len(marcas)} respostas circuladas, esperadas {len(ordem)}.')
     gab = {}
-    for chave, q in questoes.items():
-        marcadas = set()
-        for a in q['alts']:
-            if not a['linhas']:
-                continue
-            ln = a['linhas'][0]
-            if ln.get('tipo') != 'linha':
-                continue
-            ponto = (ln['x0'] - 4, ln['top'], ln['x0'] + 8, ln['bottom'])     # a letra fica no começo da linha
-            if any(intersecta(ponto, c) for c in circulos.get(ln['pg'], [])):
-                marcadas.add(a['letra'])
-        if len(marcadas) == 1:
-            gab[chave] = marcadas.pop()
-    if not gab:
-        sys.exit('Nenhuma resposta marcada foi reconhecida no caderno.')
+    for marca, questao in zip(marcas, ordem):
+        pos, letra = marca[:4], marca[4]
+        antes = [r for r in rotulos if r[:4] < pos]
+        if antes and not P.e_idioma(questao[0]) and max(antes)[4] != questao[0]:
+            ultimo = max(antes)                     # rótulo legível mais próximo acima precisa bater
+            if not any(ultimo[:4] < m[:4] < pos for m in marcas):
+                sys.exit(f'Gabarito marcado: a marca da pág. {pos[0]} cai na Questão {ultimo[4]}, '
+                         f'mas a ordem dá {questao[0]}.')
+        gab[questao] = letra
     return gab
 
 
