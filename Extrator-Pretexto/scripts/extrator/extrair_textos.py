@@ -1866,7 +1866,10 @@ def segmentar(fluxo, alt_por_fonte, P, idioma_forcado, log):
         q['itens'] = list(pre) + q['itens']
         q['compartilhado'] = bool(pre)
         q['alts'].sort(key=lambda a: a['letra'])
-        (_figuras_para_alternativas_v2025 if P.usa_v2025 else _figuras_para_alternativas)(q)
+        if P.usa_v2025:
+            _figuras_para_alternativas_v2025(q)
+        else:
+            _figuras_para_alternativas(q, P.texto_separa_figura)
         if P.alternativas_por_figuras and not q['alts']:
             _alternativas_por_figuras(q)
     return questoes
@@ -1880,27 +1883,43 @@ def _formula_solta_como_imagem(pdf, q):
         _completar_alternativas_desenhadas(pdf, q, forcar=True)
 
 
-def _tirar_rotulos_das_figuras(q):
+def _tirar_rotulos_das_figuras(q, crescer=False):
     """Quando TODAS as alternativas têm figura, linhas curtas (até 3 palavras) a menos de 40 pt de alguma dessas
-    figuras são rótulos do desenho ("Início", "escada", "Sala"), não texto da alternativa. A letra é preservada."""
+    figuras são rótulos do desenho ("Início", "escada", "Sala"), não texto da alternativa. A letra é preservada.
+    crescer: a figura passa a incluir o rótulo (ex.: "HS" e "COO⁻" de uma fórmula estrutural)."""
     alts = q['alts']
     if len(alts) != 5 or not all(a.get('figuras') for a in alts):
         return
-    caixas = [(f['pg'], f['caixa'][0] - 40, f['caixa'][1] - 12, f['caixa'][2] + 40, f['caixa'][3] + 12)
-              for a in alts for f in a['figuras']]
+    figs = [f for a in alts for f in a['figuras']]
 
     def rotulo(ln, x, texto):
         cy = (ln['top'] + ln['bottom']) / 2
-        return len(texto.split()) <= 3 and any(pg == ln['pg'] and c0 <= x <= c2 and c1 <= cy <= c3
-                                               for pg, c0, c1, c2, c3 in caixas)
+        if len(texto.split()) > 3:
+            return None
+        perto = [f for f in figs if f['pg'] == ln['pg'] and f['caixa'][0] - 40 <= x <= f['caixa'][2] + 40
+                 and f['caixa'][1] - 12 <= cy <= f['caixa'][3] + 12]
+        return min(perto, key=lambda f: abs((f['caixa'][1] + f['caixa'][3]) / 2 - cy)) if perto else None
+
+    def incluir(f, cb):
+        if crescer and f['caixa'][1] - 2 <= (cb[1] + cb[3]) / 2 <= f['caixa'][3] + 2:   # na altura do desenho
+            f['caixa'] = uniao(f['caixa'], cb)
+            f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
     for a in alts:
         novas = []
         for k, ln in enumerate(a['linhas']):
             if k == 0 and ln.get('alt') == a['letra']:
                 resto = re.sub(r'^[A-E]\s*', '', ln['texto'])
-                novas.append(dict(ln, texto=a['letra']) if resto and rotulo(ln, ln.get('_cx0', ln['x0']) + 1, resto) else ln)
-            elif not rotulo(ln, ln['x0'] + 1, ln['texto']):
-                novas.append(ln)
+                x = ln.get('_cx0', ln['x0'] + 10)
+                f = rotulo(ln, x + 1, resto) if resto else None
+                if f:
+                    incluir(f, (x + 2, ln['top'], ln['x1'], ln['bottom']))
+                novas.append(dict(ln, texto=a['letra']) if f else ln)
+            else:
+                f = rotulo(ln, ln['x0'] + 1, ln['texto'])
+                if f:
+                    incluir(f, (ln['x0'], ln['top'], ln['x1'], ln['bottom']))
+                else:
+                    novas.append(ln)
         a['linhas'] = novas
 
 
@@ -2089,17 +2108,22 @@ def _absorver_rotulos(itens):
         if it['tipo'] != 'linha' or it.get('alt') or it.get('rotulo'):
             saida.append(it)
             continue
+        cb = (it['x0'], it['top'], it['x1'], it['bottom'])
+        n = len(it['texto'].split())
+        # escala/eixo de gráfico: encosta na figura e tem no máximo uma palavra "longa" (meses, "0 Tempo (s) 15")
+        eixo = (n <= 14 and len(re.findall(r'[a-zà-ÿ]{4,}', it['texto'])) <= 1
+                and any(f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=3) for f in figs))
         if RE_VAZAMENTO.search(it['texto']) or re.search(r'P[áa]gina\s+\d+|\d+º\s*dia', it['texto']) \
-                or re.search(r'[.;:?!]$', it['texto'].strip()):
+                or (re.search(r'[.;:?!]$', it['texto'].strip()) and not eixo):
             saida.append(it)                             # rodapé/cabeçalho e fim de frase nunca são rótulo
             continue
         n = len(it['texto'].split())
         fraco = _texto_fraco(it['texto'])
         pequeno = it.get('tam', corpo) < corpo * 0.9
-        if not (fraco or (pequeno and n <= 8) or n <= 3):
+        cb = (it['x0'], it['top'], it['x1'], it['bottom'])
+        if not (fraco or (pequeno and n <= 8) or n <= 3 or eixo):
             saida.append(it)
             continue
-        cb = (it['x0'], it['top'], it['x1'], it['bottom'])
         perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=14 if (fraco or pequeno) else 8)]
         if not perto:
             saida.append(it)
@@ -2148,7 +2172,15 @@ def _absorver_rotulos(itens):
                 colados = (bool(a_.get('raster')) != bool(b_.get('raster')) and intersecta(ca, cb_, folga=6)
                            and sobre_v >= 0.6 * min(ca[3] - ca[1], cb_[3] - cb_[1]))
                 sobrepostos = sobre_v > 0 and sobre_h > 0 and sobre_v * sobre_h >= 0.4 * min(area(ca), area(cb_))
-                if colados or sobrepostos:
+                # pedaços de um mesmo esquema (reação, ciclo): figuras a até 16 pt umas das outras, sem nenhuma linha
+                # de texto no retângulo que as une
+                encadeados = False
+                if not (colados or sobrepostos) and intersecta(ca, cb_, folga=16):
+                    u = uniao(ca, cb_)
+                    encadeados = not any(i['tipo'] == 'linha' and i['pg'] == a_['pg']
+                                         and u[0] <= (i['x0'] + i['x1']) / 2 <= u[2]
+                                         and u[1] <= (i['top'] + i['bottom']) / 2 <= u[3] for i in saida)
+                if colados or sobrepostos or encadeados:
                     a_['caixa'] = uniao(ca, cb_)
                     a_['x0'], a_['top'], a_['x1'], a_['bottom'] = a_['caixa']
                     a_['raster'] = True
@@ -2258,7 +2290,7 @@ def _alternativas_por_figuras(q):
     q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
 
 
-def _figuras_para_alternativas(q):
+def _figuras_para_alternativas(q, texto_separa=False):
     """Figuras ao lado das letras A–E pertencem às alternativas; as demais são imagens de apoio.
     As letras são agrupadas em fileiras (linhas a ≤8 pt) e, dentro da fileira, a figura vai para a letra
     mais próxima à sua esquerda (grades A D / B E / C)."""
@@ -2284,6 +2316,10 @@ def _figuras_para_alternativas(q):
         linhas_pg = [(f['y'], f['alts']) for f in fileiras if f['pg'] == figura['pg']
                      and (col_fig == 'S' or f['col'][-1:] in (col_fig, 'S'))]    # só letras da mesma coluna
         proximas = [(y, alts) for y, alts in linhas_pg if topo - 16 <= y <= fundo + 16]
+        if texto_separa and proximas and all(y > fundo - 2 for y, _ in proximas) and any(
+                i['tipo'] == 'linha' and not i.get('alt') and i['pg'] == figura['pg'] and i['col'] == figura['col']
+                and fundo - 2 <= i['top'] < min(y for y, _ in proximas) - 2 for i in q['itens']):
+            proximas = []                           # o enunciado vem entre a figura e as letras: figura de apoio
         if not proximas:
             cand = min(linhas_pg, key=lambda par: abs(par[0] - centro_y), default=None)
             acima_da_primeira = linhas_pg and fundo < min(y for y, _ in linhas_pg) - 2   # é do enunciado
@@ -2711,7 +2747,7 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
                     _dividir_figura_em_alternativas(pdf, q)
                 else:
                     _completar_alternativas_desenhadas(pdf, q)
-                _tirar_rotulos_das_figuras(q)
+                _tirar_rotulos_das_figuras(q, crescer=P.rotulos_na_figura)
                 _formula_solta_como_imagem(pdf, q)
         log(f'Questões reconhecidas no PDF: {len(questoes)}.')
 

@@ -72,6 +72,7 @@ class Perfil:
     botoes_alternativa: bool = False  # alternativa desenhada dentro de um botão retangular (digital 2021-2022)
     ignorar_texto_girado: bool = False  # palavras giradas (eixo de gráfico) não entram na auditoria de cobertura
     salto_fim_questao: float = 16.0  # depois da alternativa E, um salto vertical maior que isso encerra a questão
+    texto_separa_figura: bool = False  # linha do enunciado entre a figura e as letras: a figura é de apoio
     indice_nao_e_alternativa: bool = False  # linha só com letra em tamanho de índice (k_A) não abre alternativa
     caixa_sem_texto_e_figura: bool = False  # retângulo grande sem texto dentro é figura, não fundo de quadro
     calha_padrao: float = 0.0        # posição relativa da calha usada quando a detecção de colunas falha (0 = não usa)
@@ -137,7 +138,7 @@ class Regra:
 
 
 # Ponto de partida dos motores 2009-2023 (cada motor recebe uma CÓPIA; mudar aqui não altera 2024 nem 2025).
-_CICLO_ANTIGO = dict(aparar_texto_vizinho=True, faixa_do_rotulo=True, curva_recortada=True, remover_texto_invisivel=True, desenho_baixo=True, barra_de_segmento=True, indices_na_linha=True, barras_em_curva=True, calha_padrao=0.5, ignorar_pontinhos=True, ignorar_ano_solto=True, rotulos_na_figura=True, so_letra_marcada=True, alternativas_desenhadas=True, alternativas_por_figuras=True, lixo_como_imagem=True, caixa_sem_texto_e_figura=True, salto_fim_questao=24.0, indice_nao_e_alternativa=True, pular_capa=True, proteger_rotulos=True, ignorar_texto_girado=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
+_CICLO_ANTIGO = dict(aparar_texto_vizinho=True, faixa_do_rotulo=True, curva_recortada=True, remover_texto_invisivel=True, desenho_baixo=True, barra_de_segmento=True, indices_na_linha=True, barras_em_curva=True, calha_padrao=0.5, ignorar_pontinhos=True, ignorar_ano_solto=True, rotulos_na_figura=True, so_letra_marcada=True, alternativas_desenhadas=True, alternativas_por_figuras=True, lixo_como_imagem=True, caixa_sem_texto_e_figura=True, salto_fim_questao=24.0, indice_nao_e_alternativa=True, texto_separa_figura=True, pular_capa=True, proteger_rotulos=True, ignorar_texto_girado=True, filetes_de_grafico=True, alternativas_lado_a_lado=True, decodificar_cid=('ArialMT', 'Arial-BoldMT', 'Arial-ItalicMT', 'Arial-BoldItalicMT'))
 _ATE_2016 = dict(_CICLO_ANTIGO, areas=AREAS_ATE_2016, questoes_idioma=(91, 95))
 
 # ───────────────────────── Motores (um por ano; o nome é sempre o ano) ─────────────────────────
