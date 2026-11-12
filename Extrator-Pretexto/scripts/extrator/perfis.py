@@ -98,6 +98,11 @@ class Perfil:
     curva_unica_figura: bool = False  # um único caminho vetorial com muitos pontos (placa, símbolo) já é figura
     pular_capa: bool = False         # ignora a 1ª página quando é a capa de instruções (sem questões)
     quadro_rotulo: bool = False      # rótulo "Questão | N" em tabelinha: a borda de baixo não é traço de fração
+    letra_menor_que_corpo: bool = False  # letra A-E da alternativa menor que o corpo (digital 2021): não é índice solto
+    letra_centralizada: bool = False  # letra A-E centralizada num bloco de várias linhas: vai para a 1ª linha (digital 2021)
+    dpi_invisivel: int = 50          # resolução do teste de texto invisível (glifos finos ’ l j somem a 50 dpi)
+    coluna_unica: bool = False       # página sempre em uma coluna: não procura calha (tela da prova digital 2021)
+    alternativas_continuam: bool = False  # página que começa em C/D/E continua as alternativas da anterior (digital 2021)
     gabarito_no_caderno: bool = False  # o "gabarito" é o caderno com a letra certa circulada (2010)
     letras_vetoriais: bool = False   # letra A-E desenhada como disco com furos (sem caractere): vira letra de marcador (2010)
     decoracao_na_borda: bool = False  # desenho que começa no cabeçalho ou sai da página é enfeite recortado (2010)
@@ -197,6 +202,10 @@ REGRAS['v2017'] = [Regra('PPL dia 1: rodapé mais alto', dias=(1,), categorias=(
 REGRAS['v2018'] = [Regra('PPL: rodapé mais alto', categorias=('ppl',), ajustes=dict(rodape_rel=0.93))]
 REGRAS['v2015'] = [Regra('PPL: rodapé mais alto e cabeçalho maior', categorias=('ppl',),
                          ajustes=dict(rodape_rel=0.936, topo_rel=0.088))]
+REGRAS['v2021'].append(Regra('digital: letra menor e centralizada no bloco; glifos finos; uma coluna; sem rodapé', categorias=('digital',),
+                             ajustes=dict(letra_menor_que_corpo=True, letra_centralizada=True,
+                                          dpi_invisivel=100, coluna_unica=True, rodape_rel=0.99,
+                                          alternativas_continuam=True)))
 REGRAS['v2022'].append(Regra('digital: botões sem letra', categorias=('digital',), ajustes=dict(botoes_sem_letra=True)))
 for _ano in (2021, 2022):          # letras das alternativas em Segoe UI Bold dentro de um círculo
     REGRAS[f'v{_ano}'].append(Regra('digital: letras em SegoeUI-Bold', categorias=('digital',),
