@@ -1,0 +1,26 @@
+{
+ "94": {
+  "texto_apoio": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:",
+  "enunciado": "Qual substância o empresário deverá utilizar?",
+  "alternativas": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "imagens": [
+   {
+    "pg": 3,
+    "caixa": [
+     64.5,
+     574.0,
+     504.0,
+     660.0
+    ]
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "rótulos das fórmulas estruturais duplicados e ocultos no PDF; figura recortada inteira"
+ }
+}

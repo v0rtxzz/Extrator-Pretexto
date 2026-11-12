@@ -214,10 +214,35 @@ def _chars_invisiveis(pagina, dpi=50):
         t, b = max(int((c['top'] - bt) * ey), 0), min(int((c['bottom'] - bt) * ey) + 1, h)
         if x1 <= x0 or b <= t:
             continue
-        if c['size'] < 7 or c['text'] in ',.;:–-−·\'':          # glifo fino: a 50 dpi pode cair no pixel vizinho
+        if c['size'] < 7 or c['text'] in ',.;:–-−·\'' or (c['x1'] - c['x0']) * ex < 3:   # glifo fino (l, i, vírgula):
+                                                                                       # a 50 dpi cai no pixel vizinho
             x0, x1, t, b = max(x0 - 1, 0), min(x1 + 1, w), max(t - 1, 0), min(b + 1, h)
         if min(px[x, y] for x in range(x0, x1) for y in range(t, b)) > 235:
             fora.add(_chave_char(c))
+    # glifo fino entre vizinhos visíveis (ponto, vírgula, "l" a 50 dpi ficam cinza-claro) é visível: só sequências de
+    # até 2 caracteres "sem tinta" encostadas em texto visível. Texto oculto de verdade vem em trechos maiores.
+    cs = [c for c in pagina.chars if c['text'].strip()]
+
+    def vizinhos(a, b):                          # a vem logo antes de b na mesma linha, sem sobreposição
+        return (abs(a['top'] - b['top']) < 2 and abs(a['size'] - b['size']) < 0.5
+                and -0.8 <= b['x0'] - a['x1'] < 6)
+    k = 0
+    while k < len(cs):
+        if _chave_char(cs[k]) not in fora:
+            k += 1
+            continue
+        fim = k
+        while fim + 1 < len(cs) and _chave_char(cs[fim + 1]) in fora and vizinhos(cs[fim], cs[fim + 1]):
+            fim += 1
+        antes = k > 0 and vizinhos(cs[k - 1], cs[k]) and _chave_char(cs[k - 1]) not in fora
+        depois = fim + 1 < len(cs) and vizinhos(cs[fim], cs[fim + 1]) and _chave_char(cs[fim + 1]) not in fora
+        finos = all((c['text'] in ',.;:–-−·\'' or (c['x1'] - c['x0']) * ex < 3)
+                    and 0 <= c['x0'] and c['x1'] <= pagina.width and 0 <= c['top'] and c['bottom'] <= pagina.height
+                    for c in cs[k:fim + 1])
+        if fim - k < 2 and finos and (antes or depois):
+            for c in cs[k:fim + 1]:
+                fora.discard(_chave_char(c))
+        k = fim + 1
     return fora
 
 

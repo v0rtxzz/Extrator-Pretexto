@@ -1,0 +1,25 @@
+{
+ "106": {
+  "enunciado": "Astrônomos medem a velocidade de afastamento de galáxias distantes pela detecção da luz emitida por esses sistemas. A Lei de Hubble afirma que a velocidade de afastamento de uma galáxia (em km/s) é proporcional à sua distância até a Terra, medida em megaparsec (Mpc). Nessa lei, a constante de proporcionalidade é a constante de Hubble (H₀) e seu valor mais aceito é de 72 (km/s)/Mpc. O parsec (pc) é uma unidade de distância utilizada em astronomia que vale aproximadamente 3 × 10¹⁶ m. Observações astronômicas determinaram que a velocidade de afastamento de uma determinada galáxia é de 1 440 km/s.\n\nUtilizando a Lei de Hubble, pode-se concluir que a distância até essa galáxia, medida em km, é igual a:",
+  "alternativas": [
+   "20 × 10⁰",
+   "20 × 10⁶",
+   "6 × 10²⁰",
+   "6 × 10²³",
+   "6 × 10²⁶"
+  ],
+  "obs": "unidades em fração (km/s) e expoentes de dois dígitos lidos errado; fonte com H minúsculo"
+ },
+ "128": {
+  "enunciado": "Na busca por ouro, os garimpeiros se confundem facilmente entre o ouro verdadeiro e o chamado ouro de tolo, que tem em sua composição 90% de um minério chamado pirita (FeS₂). Apesar do engano, a pirita não é descartada, pois é utilizada na produção do ácido sulfúrico, que ocorre com rendimento global de 90%, conforme as equações químicas apresentadas.\n\nConsidere as massas molares: FeS₂ (120 g/mol), O₂ (32 g/mol), Fe₂O₃ (160 g/mol), SO₂ (64 g/mol), SO₃ (80 g/mol), H₂O (18 g/mol), H₂SO₄ (98 g/mol).\n\n4 FeS₂ + 11 O₂ → 2 Fe₂O₃ + 8 SO₂\n2 SO₂ + O₂ → 2 SO₃\nSO₃ + H₂O → H₂SO₄\n\nQual é o valor mais próximo da massa de ácido sulfúrico, em quilograma, que será produzida a partir de 2,0 kg de ouro de tolo?",
+  "obs": "unidades g/mol em fração empilhada e fonte que troca F/H por f/h; transcrito do PDF"
+ },
+ "131": {
+  "enunciado": "O gás hidrogênio é considerado um ótimo combustível — o único produto da combustão desse gás é o vapor de água, como mostrado na equação química\n\n2 H₂ (g) + O₂ (g) → 2 H₂O (g)\n\nUm cilindro contém 1 kg de hidrogênio e todo esse gás foi queimado. Nessa reação, são rompidas e formadas ligações químicas que envolvem as energias listadas no quadro.\n\nMassas molares (g/mol): H₂ = 2; O₂ = 32; H₂O = 18.\n\nQual é a variação da entalpia, em quilojoule, da reação de combustão do hidrogênio contido no cilindro?",
+  "obs": "fonte que troca H por h; equação fora de ordem"
+ },
+ "129": {
+  "enunciado": "O etanol é um combustível renovável obtido da cana-de-açúcar e é menos poluente do que os combustíveis fósseis, como a gasolina e o diesel. O etanol tem densidade 0,8 g/cm³, massa molar 46 g/mol e calor de combustão aproximado de −1 300 kJ/mol. Com o grande aumento da frota de veículos, tem sido incentivada a produção de carros bicombustíveis econômicos, que são capazes de render até 20 km/L em rodovias, para diminuir a emissão de poluentes atmosféricos.\n\nO valor correspondente à energia consumida para que o motorista de um carro econômico movido a álcool percorra 400 km na condição de máximo rendimento é mais próximo de",
+  "obs": "unidade g/cm³ em fração"
+ }
+}
