@@ -1,0 +1,164 @@
+{
+ "_comentario": "ENEM 2021 PPL dia 2: questões com alternativas desenhadas que o extrator não leu (extração assistida).",
+ "123": {
+  "materia": "natureza",
+  "texto_apoio": "O biodiesel é um combustível alternativo ao diesel de petróleo que tem sido produzido em grande escala no Brasil a partir da transesterificação do óleo de soja em meio alcalino. Visando reduzir a competição com a indústria alimentícia, os óleos de fritura estão entre as matérias-primas alternativas que têm sido consideradas. Porém, o seu uso no processo tradicional é dificultado por causa da acidez de Brönsted, desenvolvida durante o processo de degradação do óleo, conforme mostra o esquema genérico em que R representa um grupamento alquila qualquer.",
+  "enunciado": "A dificuldade mencionada é gerada pela presença de grupamentos:",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 10,
+    "caixa": [
+     299.3,
+     189.3,
+     525.1,
+     354.9
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 10,
+     "caixa": [
+      305.3,
+      380.9,
+      342.3,
+      416.4
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 10,
+     "caixa": [
+      305.5,
+      417.4,
+      338.4,
+      452.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 10,
+     "caixa": [
+      305.5,
+      453.5,
+      338.4,
+      488.6
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 10,
+     "caixa": [
+      437.2,
+      384.0,
+      498.7,
+      394.8
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 10,
+     "caixa": [
+      437.6,
+      418.7,
+      528.2,
+      469.7
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são grupos funcionais desenhados (ácido carboxílico, cetona, aldeído, cadeia alquílica, diacilglicerol) em duas colunas; o extrator achou só 3. Texto transcrito; esquema e alternativas recortados por caixa."
+ },
+ "136": {
+  "materia": "matematica",
+  "enunciado": "Um inseto percorreu sobre a superfície de um objeto, em formato de um prisma reto ABCDEFGH, com base retangular, uma trajetória poligonal, com vértices nos pontos: A - X - Y - G - F - E - X - G - E, na ordem em que foram apresentados.\n\nÉ necessário representar a projeção ortogonal do trajeto percorrido pelo inseto sobre o plano determinado pela base do prisma.\n\nA representação da projeção ortogonal do trajeto percorrido pelo inseto é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 14,
+    "caixa": [
+     85.4,
+     172.4,
+     222.5,
+     365.6
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 14,
+     "caixa": [
+      46.4,
+      447.7,
+      170.2,
+      529.8
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 14,
+     "caixa": [
+      46.4,
+      546.1,
+      170.2,
+      628.3
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 14,
+     "caixa": [
+      46.4,
+      644.6,
+      170.2,
+      726.7
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 14,
+     "caixa": [
+      304.3,
+      73.5,
+      428.2,
+      155.6
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 14,
+     "caixa": [
+      304.3,
+      168.5,
+      428.2,
+      250.6
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas são 5 desenhos (A-C numa coluna, D-E na outra); o extrator achou só 3. Texto transcrito; prisma e alternativas recortados por caixa."
+ }
+}

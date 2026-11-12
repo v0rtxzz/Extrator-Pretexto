@@ -77,12 +77,16 @@ class Perfil:
     caixa_sem_texto_e_figura: bool = False  # retângulo grande sem texto dentro é figura, não fundo de quadro
     calha_padrao: float = 0.0        # posição relativa da calha usada quando a detecção de colunas falha (0 = não usa)
     ocr_cid: bool = False            # linhas com glifos sem Unicode e sem tabela conhecida: OCR (Tesseract, por)
+    cid_por_nome_de_glifo: bool = False  # fontes com /Differences "gNN" (índice do glifo): tabela corrigida antes da leitura
+    auditoria_sem_glifos: bool = False  # auditoria de letras perdidas pula as linhas lidas por OCR (glifos sem Unicode)
     lixo_como_imagem: bool = False   # linha de rótulos soltos (gráfico de pizza, eixo) vira imagem em vez de texto
     alternativas_por_figuras: bool = False  # 5 figuras sem letra legível no fim da questão = alternativas A-E
     alternativas_desenhadas: bool = False  # 5 bolinhas sem texto ao lado: alternativas desenhadas (viram imagem)
     so_letra_marcada: bool = False   # se a prova usa fonte de marcador nas letras, "A" em fonte comum não é alternativa
     rotulos_na_figura: bool = False  # linha curta encostada numa figura (eixo, legenda) entra na figura
     ignorar_ano_solto: bool = False  # linha só com o ano da prova (cabeçalho/rodapé) não é texto de questão
+    fracao_numa_linha: bool = False  # numerador/denominador de fração só da linha mais perto da barra (fração no parágrafo)
+    simbolo_pela_base: bool = False  # símbolo da SymbolMT maior que o corpo (π) entra na linha pela base, não pelo topo
     tolerancia_linha: float = 4.0    # diferença vertical (pt) ainda considerada a mesma linha (subscritos C₆H₁₂O₆)
     ignorar_pontinhos: bool = False  # curvas menores que 4 pt não são sinal de raiz
     barras_em_curva: bool = False    # traço de fração desenhado como curva fina; glifo perdido no rótulo "Quest+ão"
@@ -90,6 +94,7 @@ class Perfil:
     barra_de_segmento: bool = False  # barra sobre letras no meio da frase (segmento, vetor) não é traço de fração
     desenho_baixo: bool = False      # desenho com 6+ traços e 12+ pt de altura é figura (fórmula estrutural)
     remover_texto_invisivel: bool = False  # caractere que não aparece na página renderizada é descartado
+    dpi_texto_invisivel: int = 50    # resolução do render usado nessa checagem (2021: sem antisserrilhado, pontos somem a 50)
     curva_recortada: bool = False    # curva grande que atravessa a calha tem a caixa cortada na calha (clip da coluna)
     botoes_sem_letra: bool = False   # alternativas marcadas só por botão circular vazio (digital 2022)
     pular_instrucoes: bool = False   # digital: páginas de instruções antes da 1ª questão não são lidas
@@ -164,7 +169,9 @@ MOTORES = {
                    'alternativas (A D / B E / C).'),
     'v2023': Motor('Regular e PPL. Diagramação do ciclo 2017-2024.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.075)),
     'v2022': Motor('Regular, PPL e digital (dia 1 em cadernos separados por idioma).', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.078)),
-    'v2021': Motor('Regular, PPL e digital. Rótulos de capa com glifos (cid) na 1ª página.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.087, ocr_cid=True)),
+    'v2021': Motor('Regular, PPL e digital. Rótulos de capa com glifos (cid) na 1ª página.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.087, ocr_cid=True, auditoria_sem_glifos=True,
+                                                                                    cid_por_nome_de_glifo=True, dpi_texto_invisivel=100,
+                                                                                    simbolo_pela_base=True, fracao_numa_linha=True)),
     'v2020': Motor('Regular, PPL e digital. Capas sem texto selecionável.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.09)),
     'v2019': Motor('Regular e PPL.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.092)),
     'v2018': Motor('Regular e PPL.', ajustes=dict(_CICLO_ANTIGO, topo_rel=0.09)),
