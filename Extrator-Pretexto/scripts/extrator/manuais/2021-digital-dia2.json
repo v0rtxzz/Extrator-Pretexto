@@ -1,0 +1,623 @@
+{
+ "94": {
+  "texto_apoio": "A figura foi extraída de um antigo jogo para computadores, chamado Bang! Bang!\n\nNo jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo da velocidade inicial de disparo (|v⃗₀|) e para o ângulo de disparo (θ).\n\nEm determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, θ = 53°, passou tangenciando o ponto P.\n\nNo jogo, |g⃗| é igual a 10 m/s². Considere sen 53° = 0,8, cos 53° = 0,6 e desprezível a ação de forças dissipativas.",
+  "enunciado": "Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de |v⃗₀| que permitiria ao disparo efetuado pelo canhão B atingir o canhão A?",
+  "imagens": [
+   {
+    "pg": 9,
+    "caixa": [
+     158.8,
+     113.8,
+     684.2,
+     412.5
+    ],
+    "foto": true
+   }
+  ],
+  "obs": "v₀ e g eram imagens no meio da linha; transcritos"
+ },
+ "101": {
+  "enunciado": "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C₆H₁₂O₆), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL. O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.\n\nO volume de etanol, em litro, obtido nesse processo é mais próximo de",
+  "obs": "fórmula da glicose com espaços"
+ },
+ "102": {
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 17,
+     "caixa": [
+      186.1,
+      489.3,
+      302.7,
+      614.1
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 17,
+     "caixa": [
+      186.1,
+      635.6,
+      294.4,
+      765.7
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 17,
+     "caixa": [
+      186.1,
+      787.2,
+      294.4,
+      917.3
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 17,
+     "caixa": [
+      186.1,
+      938.8,
+      294.4,
+      1044.9
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 18,
+     "caixa": [
+      186.1,
+      27.0,
+      294.4,
+      133.1
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "alternativas em imagem: recorte justo, sem a letra; E na página seguinte"
+ },
+ "105": {
+  "enunciado": "Duas esferas carregadas com cargas iguais em módulo e sinais contrários estão ligadas por uma haste rígida isolante na forma de haltere. O sistema se movimenta sob ação da gravidade numa região que tem um campo magnético horizontal uniforme (B⃗), da esquerda para a direita. A imagem apresenta o sistema visto de cima para baixo, no mesmo sentido da aceleração da gravidade (g⃗) que atua na região.\n\nVisto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as cargas penetram na região de campo magnético, está representado em",
+  "imagens": [
+   {
+    "pg": 21,
+    "caixa": [
+     233.9,
+     198.6,
+     609.1,
+     415.5
+    ],
+    "foto": true
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 21,
+     "caixa": [
+      186.1,
+      553.8,
+      392.7,
+      677.2
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 21,
+     "caixa": [
+      186.1,
+      698.7,
+      392.7,
+      779.2
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 21,
+     "caixa": [
+      186.1,
+      800.7,
+      392.7,
+      837.8
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 21,
+     "caixa": [
+      186.1,
+      859.3,
+      392.7,
+      939.1
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 21,
+     "caixa": [
+      186.1,
+      960.6,
+      392.7,
+      1084.7
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "B⃗ e g⃗ eram imagens no meio da linha; alternativas com recorte justo"
+ },
+ "115": {
+  "texto_apoio": null,
+  "credito_texto": null,
+  "imagens": [],
+  "enunciado": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material, de sua área A, da diferença de temperatura ΔT e da espessura d do material, sendo dada pela relação ΔQ/Δt = k·A·ΔT/d. Em panelas com dois materiais, a taxa de condução é dada por ΔQ/Δt = A·ΔT/(d₁/k₁ + d₂/k₂), em que d₁ e d₂ são as espessuras dos dois materiais, e k₁ e k₂ são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e o aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\n\nCompara-se uma panela de ferro, uma de alumínio e uma composta de ½ da espessura em cobre e ½ da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.\n\nA ordem crescente da mais econômica para a menos econômica é",
+  "obs": "fórmulas e frações eram imagens; transcritas"
+ },
+ "126": {
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 43,
+     "caixa": [
+      186.1,
+      498.3,
+      490.3,
+      693.7
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 43,
+     "caixa": [
+      186.1,
+      715.2,
+      490.3,
+      935.3
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 43,
+     "caixa": [
+      186.1,
+      956.8,
+      490.3,
+      1151.5
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 44,
+     "caixa": [
+      186.1,
+      36.0,
+      490.3,
+      255.4
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 44,
+     "caixa": [
+      186.1,
+      276.9,
+      490.3,
+      476.8
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "alternativas em imagem: recorte justo; D e E na página seguinte"
+ },
+ "135": {
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 53,
+     "caixa": [
+      186.1,
+      296.4,
+      377.7,
+      506.0
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 53,
+     "caixa": [
+      186.1,
+      527.6,
+      377.7,
+      630.6
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 53,
+     "caixa": [
+      186.1,
+      652.1,
+      377.7,
+      756.7
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 53,
+     "caixa": [
+      186.1,
+      778.2,
+      377.7,
+      882.8
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 53,
+     "caixa": [
+      186.1,
+      904.3,
+      377.7,
+      1065.9
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "alternativas em imagem: recorte justo"
+ },
+ "137": {
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 55,
+     "caixa": [
+      186.1,
+      875.8,
+      340.2,
+      1059.2
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 56,
+     "caixa": [
+      186.1,
+      27.0,
+      340.2,
+      181.1
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 56,
+     "caixa": [
+      186.1,
+      202.6,
+      340.2,
+      314.7
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 56,
+     "caixa": [
+      186.1,
+      336.2,
+      340.2,
+      449.0
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 56,
+     "caixa": [
+      186.1,
+      470.5,
+      340.2,
+      644.1
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "alternativas em imagem: recorte justo; B a E na página seguinte"
+ },
+ "138": {
+  "alternativas": [
+   "7!/5! · 5!/3! · 7!/6! · 9!/(3!3!) · 10!",
+   "7! · 5! · 7! · 9! · 10!",
+   "30!",
+   "7!/(5!·5!) · 7!/(5!·2!) · 9!/(5!·4!)",
+   "9!/3! · 5! · 7!/2! · 9!/4! · 10!"
+  ],
+  "imagens_alternativas": {},
+  "obs": "expressões das alternativas eram imagens; transcritas"
+ },
+ "141": {
+  "alternativas": [
+   "P = d·n + L + d·n·s",
+   "P = d·n + L + d·s",
+   "P = d + L + s",
+   "P = d·n·s + L",
+   "P = d·n + L + s"
+  ],
+  "imagens_alternativas": {},
+  "obs": "expressões das alternativas eram imagens; transcritas"
+ },
+ "142": {
+  "enunciado": "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, ½ de probabilidade de acertar um dardo no alvo.\n\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\n\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+  "imagens": [],
+  "obs": "frações eram imagens; transcritas"
+ },
+ "146": {
+  "enunciado": "Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de 10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um período de três meses.\n\nO zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração pelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra.\n\nPara avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV) que é uma medida de dispersão definida por CV = s/x̄, em que s representa o desvio padrão e x̄, a média das massas dos coelhos que foram alimentados com uma determinada ração.\n\nO zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a nova ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a ração atual.\n\nA substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior a",
+  "imagens": [],
+  "obs": "fórmula do CV era imagem; transcrita"
+ },
+ "152": {
+  "enunciado": "Para a comunicação entre dois navios é utilizado um sistema de codificação com base em valores numéricos. Para isso, são consideradas as operações triângulo Δ e estrela ∗, definidas sobre o conjunto dos números reais por x Δ y = x² + xy − y² e x ∗ y = xy + x.\n\nO navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela soma das duas maiores soluções da equação (a Δ b) ∗ (b Δ a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios.\n\nUm navio deseja enviar ao outro a mensagem \"ATENÇÃO!\". Para isso, deve utilizar o valor de entrada b = 1.\n\nDessa forma, o valor recebido pelo navio receptor será",
+  "alternativas": [
+   "√5",
+   "√3",
+   "√1",
+   "(−1 + √5)/2",
+   "(3 + √5)/2"
+  ],
+  "imagens": [],
+  "imagens_alternativas": {},
+  "obs": "operações e alternativas eram imagens; transcritas"
+ },
+ "156": {
+  "enunciado": "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm) da massa m em função do tempo t (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ± A cos (ωt) ou P(t) = ± A sen (ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com o período T pela fórmula ω = 2π/T.\n\nConsidere a ausência de quaisquer forças dissipativas.\n\nA expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+  "imagens": [
+   {
+    "pg": 75,
+    "caixa": [
+     177.6,
+     267.7,
+     702.9,
+     527.3
+    ],
+    "foto": true
+   }
+  ],
+  "obs": "fração 2π/T era imagem; transcrita"
+ },
+ "161": {
+  "materia": "matematica",
+  "texto_apoio": null,
+  "credito_texto": null,
+  "enunciado": "O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00, um show conseguia atrair 200 pessoas e que, a cada R$ 1,00 de redução no preço do ingresso, o número de pessoas aumentava em 40. Ele sabe que os donos do teatro só admitem trabalhar com valores inteiros para os ingressos, pela dificuldade de disponibilizar troco, e pretende convencê-los a diminuir o preço do ingresso. Assim, apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do ingresso.\n\nO gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 80,
+     "caixa": [
+      186.1,
+      293.4,
+      527.8,
+      519.6
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 80,
+     "caixa": [
+      186.1,
+      541.1,
+      527.8,
+      768.7
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 80,
+     "caixa": [
+      186.1,
+      790.2,
+      527.8,
+      1017.1
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 81,
+     "caixa": [
+      186.1,
+      27.0,
+      527.8,
+      253.9
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 81,
+     "caixa": [
+      186.1,
+      275.4,
+      527.8,
+      503.1
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "não extraída (alternativas-gráfico em duas páginas); incluída à mão"
+ },
+ "162": {
+  "enunciado": "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (I).\n\nO gráfico que melhor representa essa relação é",
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 82,
+     "caixa": [
+      186.1,
+      284.4,
+      415.2,
+      505.3
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 82,
+     "caixa": [
+      186.1,
+      526.8,
+      415.2,
+      683.9
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 82,
+     "caixa": [
+      186.1,
+      705.4,
+      415.2,
+      849.0
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 82,
+     "caixa": [
+      186.1,
+      870.5,
+      415.2,
+      1091.4
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 83,
+     "caixa": [
+      186.1,
+      27.0,
+      415.2,
+      169.1
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "alternativas em imagem: recorte justo; E na página seguinte"
+ },
+ "163": {
+  "alternativas": [
+   "kg⋅m⁻²⋅s⁻¹",
+   "kg⋅m⁻¹⋅s⁻²",
+   "kg⋅m⁻⁵⋅s²",
+   "kg⁻¹⋅m¹⋅s²",
+   "kg⁻¹⋅m⁵⋅s⁻²"
+  ],
+  "obs": "espaços soltos nas unidades"
+ },
+ "167": {
+  "enunciado": "Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa.\n\nConsidere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π.\n\nNas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+  "imagens": [],
+  "obs": "π era imagem; transcrito"
+ },
+ "169": {
+  "enunciado": "O instrumento de percussão conhecido como triângulo é composto por uma barra fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1.\n\nUma empresa de brindes promocionais contrata uma fundição para a produção de miniaturas de instrumentos desse tipo. A fundição produz, inicialmente, peças com o formato de um triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices, dando origem à miniatura. Assuma que não ocorram perdas de material no processo de produção, de forma que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2.\n\nConsidere 1,7 como valor aproximado para √3.\n\nNessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+  "imagens": [
+   {
+    "pg": 90,
+    "caixa": [
+     271.4,
+     154.3,
+     571.6,
+     305.2
+    ],
+    "foto": true
+   }
+  ],
+  "obs": "√3 era imagem; transcrito"
+ },
+ "170": {
+  "enunciado": "Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.\n\nSabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além disso, sabe-se que a altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\n\nUtilize 3 como aproximação para π.\n\nQual é a capacidade volumétrica, em mililitro, dessa caneca?",
+  "obs": "π fora do lugar"
+ },
+ "171": {
+  "enunciado": "O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja. A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de R$ 0,01 por centímetro quadrado e que disponibiliza modelos tendo como faces úteis para impressão:\n\num triângulo equilátero de lado 12 cm; um quadrado de lado 8 cm; um retângulo de lados 11 cm e 8 cm; um hexágono regular de lado 6 cm; um círculo de diâmetro 10 cm.\n\nO dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá, dentro desse limite de preço, o modelo que tiver maior área de impressão.\n\nUse 3 como aproximação para π e use 1,7 como aproximação para √3.\n\nNessas condições, o modelo que deverá ser escolhido tem como face útil para impressão um",
+  "imagens": [],
+  "obs": "π e √3 eram imagens; transcritos"
+ },
+ "179": {
+  "alternativas": [
+   "6!/(4!2!) · 15!/(10!5!)",
+   "6!/(4!2!) + 15!/(10!5!)",
+   "6!/2! + 15!/5!",
+   "6!/2! · 15!/5!",
+   "21!/(7!14!)"
+  ],
+  "imagens_alternativas": {},
+  "obs": "expressões das alternativas eram imagens; transcritas"
+ }
+}
