@@ -1,0 +1,285 @@
+{
+ "107": {
+  "materia": "natureza",
+  "texto_apoio": "Os materiais são classificados pela sua natureza química e estrutural, e as diferentes aplicações requerem características específicas, como a condutibilidade térmica, quando são utilizados, por exemplo, em utensílios de cozinha. Assim, os alimentos são acondicionados em recipientes que podem manter a temperatura após o preparo. Considere a tabela, que apresenta a condutibilidade térmica (K) de diferentes materiais utilizados na confecção de panelas.",
+  "enunciado": "Qual dos materiais é o recomendado para manter um alimento aquecido por um maior intervalo de tempo?",
+  "alternativas": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "imagens": [
+   {
+    "pg": 21,
+    "caixa": [
+     181.5,
+     162.0,
+     415.0,
+     275.0
+    ]
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas só com algarismo romano não reconhecidas; tabela recortada como imagem"
+ },
+ "121": {
+  "materia": "natureza",
+  "texto_apoio": "Para assegurar a boa qualidade de seu produto, uma indústria de vidro analisou um lote de óxido de silício (SiO₂), principal componente do vidro. Para isso, submeteu uma amostra desse óxido ao aquecimento até sua completa fusão e ebulição, obtendo ao final um gráfico de temperatura T (°C) versus tempo t (min). Após a obtenção do gráfico, o analista concluiu que a amostra encontrava-se pura.\n\nDados do SiO₂: T_fusão = 1 600 °C; T_ebulição = 2 230 °C.",
+  "enunciado": "Qual foi o gráfico obtido pelo analista?",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 35,
+     "caixa": [
+      125.0,
+      198.0,
+      285.0,
+      308.0
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 35,
+     "caixa": [
+      125.0,
+      325.0,
+      285.0,
+      435.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 35,
+     "caixa": [
+      125.0,
+      452.0,
+      285.0,
+      563.0
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 35,
+     "caixa": [
+      362.5,
+      198.5,
+      522.5,
+      308.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 35,
+     "caixa": [
+      362.5,
+      324.0,
+      523.0,
+      434.5
+     ]
+    }
+   ]
+  },
+  "obs": "gráficos em grade A D / B E / C; recortes manuais"
+ },
+ "165": {
+  "materia": "matematica",
+  "texto_apoio": "Um marceneiro visitou 5 madeireiras para comprar tábuas que lhe permitissem construir 5 prateleiras de formato retangular, de dimensões iguais a 30 cm de largura por 120 cm de comprimento cada, tendo como objetivo minimizar a sobra de madeira, podendo, para isso, fazer qualquer tipo de emenda. As dimensões das tábuas encontradas nas madeireiras estão descritas no quadro.",
+  "enunciado": "Em qual madeireira o marceneiro deve comprar as tábuas para atingir seu objetivo?",
+  "alternativas": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "imagens": [
+   {
+    "pg": 80,
+    "caixa": [
+     138.5,
+     147.0,
+     458.5,
+     296.5
+    ]
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas só com algarismo romano não reconhecidas; quadro recortado como imagem"
+ },
+ "173": {
+  "materia": "matematica",
+  "texto_apoio": "A figura ilustra a vista superior de um brinquedo gira-gira em um parque de diversões, no qual a linha contínua, em formato circular tendo O como seu centro, indica o assento onde as crianças se posicionam no brinquedo. O ponto P indica a posição ocupada por uma criança, em um instante de tempo T, quando o brinquedo está girando continuamente no sentido anti-horário (com O fixo), e velocidade constante por várias voltas.\n\nO brinquedo está situado nas proximidades de duas paredes verticais e perpendiculares entre si. Seja D a distância de P até a parede I.",
+  "enunciado": "O gráfico que melhor representa, em função do tempo t a partir do instante T, a distância D é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 88,
+    "caixa": [
+     211.5,
+     147.0,
+     384.5,
+     276.0
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 88,
+     "caixa": [
+      125.5,
+      345.5,
+      245.5,
+      460.0
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 88,
+     "caixa": [
+      125.5,
+      479.0,
+      245.5,
+      594.0
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 88,
+     "caixa": [
+      125.5,
+      613.0,
+      245.5,
+      728.0
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 88,
+     "caixa": [
+      384.5,
+      346.0,
+      504.5,
+      462.0
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 88,
+     "caixa": [
+      384.5,
+      480.5,
+      504.5,
+      596.5
+     ]
+    }
+   ]
+  },
+  "obs": "gráficos em grade A D / B E / C; recortes manuais"
+ },
+ "180": {
+  "materia": "matematica",
+  "texto_apoio": "No projeto de uma nova máquina, um engenheiro encomendou a um torneiro mecânico a fabricação de uma peça, obtida a partir do recorte em um cubo, como ilustrado na figura. Para isso, o torneiro forneceu, juntamente com o desenho tridimensional da peça, suas vistas frontal, lateral e superior, a partir das posições indicadas na figura. Para facilitar o trabalho do torneiro, as arestas dos cortes que ficam ocultos nas três vistas devem ser representadas por segmentos tracejados, quando for o caso.",
+  "enunciado": "As vistas frontal, lateral e superior que melhor representam o desenho entregue ao torneiro são",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 95,
+    "caixa": [
+     158.0,
+     159.5,
+     438.5,
+     328.0
+    ]
+   }
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 96,
+     "caixa": [
+      129.5,
+      80.5,
+      347.0,
+      164.0
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 96,
+     "caixa": [
+      130.0,
+      181.5,
+      339.0,
+      262.0
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 96,
+     "caixa": [
+      130.0,
+      279.5,
+      339.0,
+      359.5
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 96,
+     "caixa": [
+      130.0,
+      377.0,
+      339.0,
+      457.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 96,
+     "caixa": [
+      130.0,
+      474.5,
+      339.0,
+      555.0
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas desenhadas na tela seguinte; recortes manuais"
+ }
+}
