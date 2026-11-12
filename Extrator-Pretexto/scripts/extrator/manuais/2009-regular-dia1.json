@@ -1,0 +1,42 @@
+{
+ "84": {
+  "materia": "humanas",
+  "enunciado": "As terras brasileiras foram divididas por meio de tratados entre Portugal e Espanha. De acordo com esses tratados, identificados no mapa, conclui-se que",
+  "texto_apoio": "",
+  "credito_texto": "BETHEL, L. História da América. V. I. São Paulo: Edusp, 1997.",
+  "alternativas": [
+   "Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.",
+   "o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.",
+   "o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.",
+   "Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.",
+   "o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental."
+  ],
+  "imagens": [
+   {
+    "pg": 28,
+    "caixa": [
+     34.5,
+     486.0,
+     262.0,
+     681.5
+    ]
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "crédito do mapa na mesma linha da alternativa E (layout atípico); transcrito do PDF"
+ },
+ "21": {
+  "credito_texto": "Disponível em: www.infoescola.com (adaptado).",
+  "obs": "crédito ao pé da coluna, depois das alternativas desenhadas"
+ },
+ "85": {
+  "alternativas": [
+   "Exploração vinícola no Chile",
+   "Pequena agricultura praticada em região andina",
+   "Parque de engorda de bovinos nos EUA",
+   "Zonas irrigadas por aspersão na Arábia Saudita",
+   "Parque eólico na Califórnia"
+  ],
+  "obs": "legenda da foto E na mesma linha do texto da coluna vizinha"
+ }
+}
