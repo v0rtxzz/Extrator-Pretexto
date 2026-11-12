@@ -56,7 +56,7 @@ CATEGORIAS = ['regular', 'ppl', 'digital', 'segunda', 'terceira']
 # O rótulo aparece como "QUESTÃO 01" ou "Questão 18" (às vezes no mesmo PDF): sempre sem diferenciar caixa.
 RE_ROTULO = re.compile(r'^\s*QUEST[ÃA]O\s+(\d{1,3})\b\s*(.*)$', re.I | re.S)
 RE_QUESTAO = re.compile(r'QUEST[ÃA]O\s+(\d{1,3})\b', re.I)
-RE_TEXTO_PARA = re.compile(r'^Texto\s+para\s+as\s+Quest[õo]es\s+(?:de\s+)?(\d{1,3})\s+(?:a|e)\s+(\d{1,3})', re.I)
+RE_TEXTO_PARA = re.compile(r'^(?:Texto|Imagem|Figura|Gr[áa]fico|Tabela|Quadro|Charge|Mapa|Infogr[áa]fico)s?\s+para\s+as\s+Quest[õo]es\s+(?:de\s+)?(\d{1,3})\s+(?:a|e)\s+(\d{1,3})', re.I)
 RE_SECAO_IDIOMA = re.compile(r'Quest[õo]es\s+de\s+\d+\s+a\s+\d+\s*\(\s*op[cç][ãa]o\s*:?\s*(ingl[eê]s|espanhol)\s*\)', re.I)
 RE_AREA = re.compile(
     r'(?:PROVA\s+DE\s+)?(?:'
@@ -140,7 +140,8 @@ def decodificar_cid(chars, familias):
         if m:
             por_fonte.setdefault(c['fontname'], []).append(int(m.group(1)))
     # subconjunto com ordem própria (cid 2, 3, 4...): a ordem padrão não vale; fica para o OCR
-    proprias = {f for f, ks in por_fonte.items() if sum(1 for k in ks if k < 29) > len(ks) * 0.5}
+    # na ordem padrão as letras ficam entre 36 e 93; num subconjunto com ordem própria quase nada cai ali
+    proprias = {f for f, ks in por_fonte.items() if sum(1 for k in ks if 36 <= k <= 93) < len(ks) * 0.15}
     for c in chars:
         m = RE_CID.match(c['text'])
         if m and c['fontname'] not in proprias and any(f in c['fontname'] for f in familias):
