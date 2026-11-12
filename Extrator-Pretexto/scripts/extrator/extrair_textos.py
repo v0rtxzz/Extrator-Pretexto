@@ -227,7 +227,7 @@ def preparar_pagina(pagina, P):
     if P.decodificar_cid:
         decodificar_cid(pagina.chars, P.decodificar_cid)
     pagina = pagina.dedupe_chars()
-    invisiveis = _chars_invisiveis(pagina) if P.remover_texto_invisivel else set()
+    invisiveis = _chars_invisiveis(pagina, P.dpi_invisivel) if P.remover_texto_invisivel else set()
 
     def manter(o):
         if o.get('object_type') != 'char':
@@ -1197,6 +1197,48 @@ def _dividir_alternativas_lado_a_lado(brutas, P):
     return saida
 
 
+def _letra_na_primeira_linha(chars, fontes_letra):
+    """Alternativa de várias linhas com a letra A-E centralizada na altura do bloco (digital 2021): a letra sobe para
+    a 1ª linha do bloco, senão a 1ª linha da alternativa fica com o enunciado ou com a alternativa anterior."""
+    letras = [c for c in chars if c['text'] in 'ABCDE' and any(k in c['fontname'] for k in fontes_letra)]
+    if not letras:
+        return chars
+    saida = []
+    for c in chars:
+        if c not in letras:
+            saida.append(c)
+            continue
+        inicio = sorted({round(o['top']) for o in chars if o is not c and o['text'].strip()
+                         and c['x1'] + 4 <= o['x0'] <= c['x1'] + 45 and abs(o['top'] - c['top']) <= 80
+                         and not any(p is not o and p['text'].strip() and abs(p['top'] - o['top']) < 2
+                                     and o['x0'] - 30 < p['x1'] <= o['x0'] - 0.5 for p in chars if p not in letras)})
+        meio = (c['top'] + c['bottom']) / 2
+        perto = min(inicio, key=lambda t: abs(t - meio), default=None)
+        if perto is None:
+            saida.append(c)
+            continue
+        k = inicio.index(perto)                 # bloco: linhas seguidas (entrelinha <= 26 pt) em volta da letra
+        a = k
+        while a > 0 and inicio[a] - inicio[a - 1] <= 26:
+            a -= 1
+        b = k
+        while b + 1 < len(inicio) and inicio[b + 1] - inicio[b] <= 26:
+            b += 1
+        if a == b or not inicio[a] - 2 <= meio <= inicio[b] + 20:
+            saida.append(c)
+            continue
+        d = inicio[a] + 3 - c['top']
+        novo = dict(c)
+        for kk in ('top', 'bottom', 'doctop'):
+            if kk in novo:
+                novo[kk] += d
+        for kk in ('y0', 'y1'):
+            if kk in novo:
+                novo[kk] -= d
+        saida.append(novo)
+    return saida
+
+
 def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
     """Linhas de texto de uma região (uma coluna ou a página toda), sem o texto de dentro das figuras
     (`excl`), sem linhas em `pular_tops`, sem numeração de margem e com frações linearizadas."""
@@ -1219,6 +1261,9 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
                                             and any(o['x0'] <= (c['x0'] + c['x1']) / 2 <= o['x1']
                                                     and o['top'] <= (c['top'] + c['bottom']) / 2 <= o['bottom']
                                                     for c in letras))]
+    if P.letra_centralizada:                   # letra centralizada num bloco de várias linhas (digital 2021);
+        # depois do filtro do círculo, que usa a posição original da letra
+        chars = _letra_na_primeira_linha(chars, P.fontes_letra)
     if P.barra_de_segmento:                    # barra sobre letras no meio da frase (segmento CP, vetor v): não é fração
         def _no_meio_da_frase(grupo, b):
             if not grupo:
@@ -1301,7 +1346,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             'numerada': numerada,
             'marcas_x': [c['x0'] for c in cs if c['text'] in 'ABCDE' and any(k in c['fontname'] for k in P.fontes_letra)],
             'fracoes': len({id(c) for c in ln['chars'] if c.get('fracao')}),   # o pdfplumber repete o objeto por caractere
-            'indices_soltos': _indices_soltos(ln['chars'], tam_corpo),
+            'indices_soltos': _indices_soltos([c for c in ln['chars'] if not (P.letra_menor_que_corpo and letra
+                                                                              and c is cs[0])], tam_corpo),
         }
         if lado_a_lado:
             item['lado_a_lado'] = True
@@ -1400,7 +1446,7 @@ def geometria(itens):
             i['col_x0'], i['col_x1'] = esq, dire
 
 
-def ilegiveis_para_figuras(itens, pn, largura):
+def ilegiveis_para_figuras(itens, pn, largura, continuar=False):
     """Linhas com glifos indecifráveis são recortadas como imagem; o texto corrompido não é mantido.
     Alternativa afetada = UMA imagem. As linhas da zona de alternativas (numeradores acima da letra,
     denominadores abaixo) pertencem à letra verticalmente mais próxima; só entram no recorte linhas alinhadas
@@ -1426,6 +1472,8 @@ def ilegiveis_para_figuras(itens, pn, largura):
                 elif it['alt'] == esperado and atual:
                     atual.append(k)
                     esperado = chr(ord(esperado) + 1)
+                elif continuar and not atual and not any(c == col for c, _ in sequencias):
+                    atual, esperado = [k], chr(ord(it['alt']) + 1)   # alternativas que continuam da página anterior
                 elif it.get('lado_a_lado') and atual:   # alternativas lado a lado (A D / B E / C): fora de ordem
                     atual.append(k)
                     feitas = {itens[x]['alt'] for x in atual}
@@ -1606,6 +1654,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
                       if w['x0'] < meio - 2 < meio + 2 < w['x1'] and not so_fig(w)]
             if not cruzam:
                 calha = meio
+        if P.coluna_unica:                               # tela da prova digital: sempre uma coluna só
+            calha = None
         regs = regioes_com_colunas(pagina, (0, topo, pagina.width, rodape), calha, excl, pn, '', P)
 
         # cabeçalho: só interessam rótulos de questão e títulos de seção que caiam na faixa do topo
@@ -1670,7 +1720,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
             itens.sort(key=lambda i: i.get('ord', (i['top'], 0, i['top'])))
             if P.rotulos_na_figura:
                 itens = _absorver_rotulos(itens)
-            itens = (ilegiveis_para_figuras_v2025 if P.usa_v2025 else ilegiveis_para_figuras)(itens, pn, pagina.width)
+            itens = (ilegiveis_para_figuras_v2025(itens, pn, pagina.width) if P.usa_v2025
+                     else ilegiveis_para_figuras(itens, pn, pagina.width, P.alternativas_continuam))
             caixas_formula.extend(i['caixa'] for i in itens if i['tipo'] == 'figura'
                                   and (i.get('formula') or P.rotulos_na_figura))   # inclui rótulos absorvidos
             geometria(itens)
