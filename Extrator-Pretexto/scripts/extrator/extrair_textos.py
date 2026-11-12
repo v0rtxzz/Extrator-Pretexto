@@ -221,24 +221,101 @@ def _chars_invisiveis(pagina, dpi=50):
     return fora
 
 
+# Letra A-E desenhada como disco preto com "furos" brancos, sem caractere (2010): nº de pontos de cada furo.
+# Duas tabelas: caderno regular (prova) e caderno-gabarito regular, que vêm de arquivos diferentes.
+_LETRA_POR_FUROS = {(4, 9): 'A', (10, 10, 16): 'B', (19,): 'C', (12, 12): 'D', (13,): 'E',      # prova
+                    (3, 9): 'A', (9, 10, 16): 'B', (11, 12): 'D', (12,): 'E'}                   # caderno-gabarito
+_BRANCO = ((1.0, 1.0, 1.0), (0.0, 0.0, 0.0, 0.0), 1.0, (1.0,))
+
+
+def letras_vetoriais(pagina):
+    """[(letra, disco, [furos])] das letras desenhadas como disco de 6-8 pt com furos brancos."""
+    saida = []
+    curvas = pagina.curves
+    for d in curvas:
+        w, h = d['x1'] - d['x0'], d['bottom'] - d['top']
+        if not (6 <= w <= 8 and 6 <= h <= 8 and abs(w - h) < 1 and d.get('fill') and len(d.get('pts', [])) == 5):
+            continue
+        furos = [o for o in curvas if o is not d and o.get('fill') and o.get('non_stroking_color') in _BRANCO
+                 and d['x0'] - 0.1 <= o['x0'] and o['x1'] <= d['x1'] + 0.3
+                 and d['top'] - 0.1 <= o['top'] and o['bottom'] <= d['bottom'] + 0.3]
+        letra = _LETRA_POR_FUROS.get(tuple(sorted(len(o['pts']) for o in furos)))
+        if letra:
+            saida.append((letra, d, furos))
+    return saida
+
+
+def _com_letras_vetoriais(pagina, P):
+    """Troca cada letra desenhada (disco com furos) por um caractere sintético na fonte de marcador: a leitura passa
+    a tratá-la como as letras (A)-(E) em fonte de marcador (alternativas, lado a lado, só-marcador)."""
+    achadas = letras_vetoriais(pagina)
+    if not achadas:
+        return pagina
+    tirar = {id(o) for _, d, fs in achadas for o in [d] + fs}
+    nova = pagina.filter(lambda o: id(o) not in tirar)
+    fonte = 'LetraVetorial-' + P.fontes_letra[0]
+    corpo = [c['size'] for c in pagina.chars if c['text'].strip()]
+    tam = statistics.median(corpo) if corpo else 10.0
+    chars = list(nova.chars)
+    for letra, d, _ in achadas:
+        cy = (d['top'] + d['bottom']) / 2
+        top, bottom = cy - tam * 0.5, cy + tam * 0.5      # mesma linha de base do texto ao lado
+        ch = {'object_type': 'char', 'page_number': d.get('page_number'), 'text': letra, 'fontname': fonte,
+              'size': tam, 'adv': d['x1'] - d['x0'], 'upright': True, 'x0': d['x0'], 'x1': d['x1'],
+              'top': top, 'bottom': bottom, 'doctop': d['doctop'] - d['top'] + top,
+              'y0': d['y1'] - (bottom - d['top']), 'y1': d['y1'] + (d['top'] - top),
+              'width': d['x1'] - d['x0'], 'height': bottom - top, 'matrix': (1, 0, 0, 1, d['x0'], d['y0']),
+              'ncs': 'DeviceGray', 'stroking_color': None, 'non_stroking_color': (0.0,),
+              'stroking_pattern': None, 'non_stroking_pattern': None, 'mcid': None, 'tag': None}
+        # entra na ordem original logo antes do 1º caractere à direita na mesma linha (a ordem de leitura não muda)
+        depois = [k for k, c in enumerate(chars) if c['x0'] >= d['x1'] - 0.5 and abs((c['top'] + c['bottom']) / 2 - cy) < 4]
+        k = min(depois, key=lambda k: chars[k]['x0']) if depois else len(chars)
+        chars.insert(k, ch)
+    nova.objects['char'] = chars
+    return nova
+
+
 def preparar_pagina(pagina, P):
     """Remove caracteres duplicados, marca d'água (fonte minúscula) e o que está fora da área visível."""
     vx0, vt, vx1, vb = caixa_visivel(pagina, P)
     if P.decodificar_cid:
         decodificar_cid(pagina.chars, P.decodificar_cid)
     pagina = pagina.dedupe_chars()
-    invisiveis = _chars_invisiveis(pagina) if P.remover_texto_invisivel else set()
+    invisiveis = _chars_invisiveis(pagina, P.dpi_invisiveis) if P.remover_texto_invisivel else set()
+    sobrepostos = set()
+    if P.espacos_sobrepostos:                    # espaço oculto (outra fonte) por cima da 1ª letra: "Q uestão"
+        por_linha = {}
+        for c in pagina.chars:
+            if c['text'].strip() and not any(f in c['fontname'] for f in P.fontes_ocultas):
+                por_linha.setdefault(round(c['top'] / 4), []).append(c)
+        for c in pagina.chars:
+            if c['text'].strip():
+                continue
+            cy = (c['top'] + c['bottom']) / 2
+            for k in (round(c['top'] / 4) - 1, round(c['top'] / 4), round(c['top'] / 4) + 1):
+                if any(o['fontname'] != c['fontname'] and o['top'] - 1 <= cy <= o['bottom'] + 1
+                       and min(c['x1'], o['x1']) - max(c['x0'], o['x0']) > 0.5 * (c['x1'] - c['x0'])
+                       for o in por_linha.get(k, ())):
+                    sobrepostos.add(_chave_char(c))
+                    break
 
     def manter(o):
         if o.get('object_type') != 'char':
             return True
         if invisiveis and _chave_char(o) in invisiveis:
             return False
+        if sobrepostos and _chave_char(o) in sobrepostos:
+            return False
         if o['size'] < P.tam_min_char:
             return False
+        if P.fontes_ocultas and any(f in o['fontname'] for f in P.fontes_ocultas):
+            return False                             # texto oculto (código do item) que vaza na leitura
         cx, cy = (o['x0'] + o['x1']) / 2, (o['top'] + o['bottom']) / 2
         return vx0 - 2 <= cx <= vx1 + 2 and vt - 2 <= cy <= vb + 2
-    return pagina.filter(manter)
+    pagina = pagina.filter(manter)
+    if P.letras_vetoriais:
+        pagina = _com_letras_vetoriais(pagina, P)
+    return pagina
 
 
 def caixa(o):
@@ -405,6 +482,8 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             w, h = c[2] - c[0], c[3] - c[1]
             if c[3] < topo or c[1] > rodape:
                 continue
+            if P.decoracao_na_borda and tipo == 'vet' and (c[1] < topo - 10 or c[0] < vis[0] - 5 or c[2] > vis[2] + 5):
+                continue                                       # enfeite do cabeçalho recortado por máscara
             cx, cy = (c[0] + c[2]) / 2, (c[1] + c[3]) / 2
             if not (vis[0] - 1 <= cx <= vis[2] + 1 and topo - 1 <= cy <= rodape + 1):
                 continue                                       # sangria / cabeçalho / rodapé
@@ -1278,7 +1357,7 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
             continue
         if P.ignorar_ano_solto and txt.strip() == P.motor[1:]:
             continue                                 # ano da prova impresso solto no cabeçalho/rodapé
-        if P.quadro_rotulo and re.fullmatch(r'Rascunho', txt, re.I):
+        if (P.quadro_rotulo or P.rascunho_e_ruido) and re.fullmatch(r'Rascunho', txt, re.I):
             continue                                 # rótulo do espaço de rascunho (2009)
         if not txt or (txt.isdigit() and len(txt) <= 3 and RE_MARCA_SUB.search(ln['text'])):
             continue
@@ -1566,6 +1645,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
     if P.letra_marcador_auto and not P.letra_so_por_marcador:
         n_marcadores = sum(1 for pn in paginas for c in pdf.pages[pn - 1].chars
                            if c['text'] in 'ABCDE' and any(k in c['fontname'] for k in P.fontes_letra))
+        if P.letras_vetoriais and n_marcadores < 20:      # letras desenhadas (disco com furos) também são marcador
+            n_marcadores += sum(len(letras_vetoriais(pdf.pages[pn - 1])) for pn in paginas)
         if n_marcadores >= 20:
             P = replace(P, letra_so_por_marcador=True)
     for pn in paginas:
@@ -1584,6 +1665,8 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
         def so_fig(o):
             if not centro_dentro(o, caixas_fig):
                 return False
+            if o.get('object_type') == 'char' and o['fontname'].startswith('LetraVetorial-'):
+                return False                              # letra desenhada por cima da imagem (2010): é alternativa
             if zonas_rot and o.get('object_type') == 'char' and centro_dentro(o, zonas_rot):
                 return False                              # rótulo "Questão NN" encostado numa figura
             return not (o.get('object_type') == 'char' and _chave_char(o) in manter_texto)
@@ -1698,6 +1781,7 @@ def ler_fluxo(pdf, caminho, paginas, P, log):
                 continue                                    # número do rótulo "QUESTÃO 91"
             if not redacao and not so_fig(w) and not centro_dentro(w, caixas_formula) \
                     and norm(w['text']) not in RUIDO_COBERTURA \
+                    and not (P.rascunho_e_ruido and norm(w['text']) == 'rascunho') \
                     and 'cid:' not in w['text'] and not RE_GLIFO_RUIM.search(w['text']) \
                     and not re.fullmatch(r'\*?[A-Z0-9]{6,}\*?', w['text']):
                 corpo_palavras.append(w['text'])
@@ -2525,8 +2609,6 @@ def _gabarito_por_cor(caminho, cor, P):
     return gab
 
 
-# Letra desenhada como disco preto com "furos" brancos (gabarito regular de 2010): nº de pontos de cada furo.
-_LETRA_POR_FUROS = {(3, 9): 'A', (9, 10, 16): 'B', (19,): 'C', (11, 12): 'D', (12,): 'E'}
 
 
 def _letra_no_circulo(pg, c, P):
@@ -2536,15 +2618,9 @@ def _letra_no_circulo(pg, c, P):
     for ch in pg.chars:
         if ch['text'] in 'ABCDE' and ch['text'].strip() and any(f in ch['fontname'] for f in P.fontes_letra) and dentro(ch):
             return ch['text']
-    for d in pg.curves:
-        if (6 <= d['x1'] - d['x0'] <= 8 and 6 <= d['bottom'] - d['top'] <= 8 and d.get('fill')
-                and len(d.get('pts', [])) == 5 and dentro(d)):
-            furos = tuple(sorted(len(o['pts']) for o in pg.curves if o is not d and o.get('fill')
-                                 and o.get('non_stroking_color') == (1.0, 1.0, 1.0)
-                                 and d['x0'] <= o['x0'] and o['x1'] <= d['x1'] + 0.3
-                                 and d['top'] <= o['top'] and o['bottom'] <= d['bottom'] + 0.3))
-            if furos in _LETRA_POR_FUROS:
-                return _LETRA_POR_FUROS[furos]
+    for letra, d, _ in letras_vetoriais(pg):
+        if dentro(d):
+            return letra
     return None
 
 
