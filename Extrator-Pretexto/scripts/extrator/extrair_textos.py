@@ -386,8 +386,12 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             meio = calha_txt
             if meio and P.curva_recortada and tipo == 'vet' and o.get('object_type') == 'curve' \
                     and c[2] - c[0] > pagina.width * 0.35 and c[0] < meio - 8 and meio < c[2]:
-                # curva grande que atravessa a calha (círculo recortado pela coluna): a caixa fica do lado do centro
-                c = (c[0], c[1], meio - 3, c[3]) if (c[0] + c[2]) / 2 < meio else (meio + 3, c[1], c[2], c[3])
+                # curva grande que atravessa a calha: se a parte do outro lado não aparece na página (recorte da
+                # coluna), a caixa fica só do lado do centro; se aparece (figura de largura total), fica inteira
+                esquerda = (c[0] + c[2]) / 2 < meio
+                pts_alem = [p for p in (o.get('pts') or []) if (p[0] > meio + 3 if esquerda else p[0] < meio - 3)]
+                if tinta is None or not any(tinta((p[0] - 1.5, p[1] - 1.5, p[0] + 1.5, p[1] + 1.5)) for p in pts_alem):
+                    c = (c[0], c[1], meio - 3, c[3]) if esquerda else (meio + 3, c[1], c[2], c[3])
             if tipo == 'vet' and any(z[0] <= c[0] and c[2] <= z[2] and z[1] <= c[1] and c[3] <= z[3]
                                      for z in zonas_rotulo):
                 continue                                       # quadrinho do rótulo 'Questão | N'
@@ -418,7 +422,9 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
                     w * h > pagina.width * pagina.height * 0.12 and tipo == 'vet'
                     and sum(1 for ch in pagina.chars if centro_dentro(ch, [c])) > 60)):
                 continue                                       # fundo/cartão da tela com o texto por cima (digital)
-            objs.append({'caixa': c, 'img': tipo == 'img', 'n': 1, 'membros': [(c, tipo == 'img')]})
+            n_obj = 3 if (P.curva_unica_figura and tipo == 'vet' and o.get('object_type') == 'curve'
+                          and len(o.get('pts') or []) >= 12) else 1        # um só caminho complexo já é desenho
+            objs.append({'caixa': c, 'img': tipo == 'img', 'n': n_obj, 'membros': [(c, tipo == 'img')]})
     if filetes:
         objs = _filetes_de_grafico(objs, filetes)
     grupos = objs
@@ -464,6 +470,18 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
                 if not dentro and intersecta(c, cw):
                     c = uniao(c, cw)
             g['caixa'] = c
+    if P.faixa_do_rotulo:                        # faixa decorativa ao lado de "Questão N" não é figura
+        rotulos = []
+        ws = pagina.extract_words()
+        for k, w in enumerate(ws[:-1]):
+            if re.fullmatch(r'Quest[ãa]o', w['text'], re.I) and re.fullmatch(r'\d{1,3}', ws[k + 1]['text']):
+                rotulos.append((w['x0'], w['top'], ws[k + 1]['x1'], w['bottom']))
+        if rotulos:
+            def _faixa(g):
+                c = g['caixa']
+                # começa na linha do rótulo e é baixa: é a faixa listrada (as listras invadem a linha de baixo)
+                return not g['img'] and c[3] - c[1] <= 30 and any(r[1] - 8 <= c[1] <= r[3] for r in rotulos)
+            grupos = [g for g in grupos if not _faixa(g)]
     figuras, caixas = [], []
     for g in grupos:
         w, h = g['caixa'][2] - g['caixa'][0], g['caixa'][3] - g['caixa'][1]
@@ -1115,8 +1133,9 @@ def _parece_lixo(texto):
     n_ind = len(RE_INDICE_LETRA.findall(texto)) + texto.count('_{')
     if n_ind >= 3 or (n_ind >= 2 and len(texto) <= 12):
         return True
-    soltas = sum(1 for t in toks if len(t) == 1 and t.isalpha() and t not in 'aeoAEOyY')
-    return len(toks) >= 8 and soltas >= len(toks) * 0.5
+    soltas = sum(1 for t in toks if len(t.strip(',.;:')) == 1 and t.strip(',.;:').isalpha() and t not in 'aeoAEOyY')
+    palavras = sum(1 for t in toks if re.search(r'[a-zà-ÿ]{3,}', t))
+    return len(toks) >= 8 and soltas >= len(toks) * 0.5 and palavras < 2   # frase com palavras não é lixo
 
 
 def _precisa_ocr(cs):
@@ -1222,7 +1241,8 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         corpo_cs = [c for c in chars if not c.get('_indice') and c['text'].strip() and c['size'] >= tam_med * 0.85]
         novos = []
         for c in chars:
-            pequeno = c['text'] in '0123456789+-−' and c['text'].strip() and c['size'] < tam_med * 0.85
+            pequeno = (c['text'] in '0123456789+-−ABCDEFGHIJKLMNOPQRSTUVWXYZ' and c['text'].strip()
+                       and c['size'] < tam_med * 0.85)                 # índices: algarismos, sinais, maiúsculas
             if (c.get('_indice') or pequeno) and corpo_cs:
                 viz = min(corpo_cs, key=lambda o: min(abs(o['x1'] - c['x0']), abs(c['x1'] - o['x0']))
                           + abs(o['top'] - c['top']) * 0.5)
@@ -1940,6 +1960,10 @@ def _completar_alternativas_desenhadas(pdf, q, forcar=False):
         if acima:                                       # não sobe além do fim do enunciado
             t = min(max(t, max(acima) + 1), ls[0]['top'] - 2)
         b = ls[-1]['bottom'] + (passo * 1.5 if passos else 80)
+        rodape_pg = [w['top'] for w in pg.extract_words() if w['top'] > pg.height * 0.8
+                     and re.search(r'P[áa]gina|Caderno|\d+º', w['text'])]
+        if rodape_pg:                                   # nunca desce até o rodapé da página
+            b = min(b, min(rodape_pg) - 3)
         img = pg.crop((x0, t, x1, b), strict=False).to_image(resolution=72 * escala).original.convert('L')
         w, h = img.size
         px = img.load()
@@ -2028,32 +2052,111 @@ def _dividir_figura_em_alternativas(pdf, q):
     q['alts'] = [{'letra': letra, 'linhas': [], 'figuras': [f]} for letra, f in zip('ABCDE', figs)]
 
 
+def _aparar_texto_vizinho(f, linhas):
+    """Borda da figura que corta parcialmente uma linha que ficou como texto (frase do enunciado logo acima, legenda
+    logo abaixo): a borda recua até sair da linha, para o recorte não mostrar meia linha. Só recua se a linha estiver
+    pouco dentro da figura (até 60% da altura dela) e for mais larga que a sobreposição pequena de um rótulo."""
+    x0, t, x1, b = f['caixa']
+    for ln in linhas:
+        if ln['x1'] <= x0 or ln['x0'] >= x1 or ln['bottom'] <= t or ln['top'] >= b:
+            continue
+        alt = max(ln['bottom'] - ln['top'], 1)
+        if ln['top'] < t < ln['bottom'] and (ln['bottom'] - t) <= alt * 0.6:
+            t = ln['bottom'] + 0.5                       # meia linha de cima
+        elif ln['top'] < b < ln['bottom'] and (b - ln['top']) <= alt * 0.6:
+            b = ln['top'] - 0.5                          # meia linha de baixo
+    if b - t > 4:
+        f['caixa'] = (x0, t, x1, b)
+        f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
+
+
 def _absorver_rotulos(itens):
-    """Linhas curtas (sem letra de alternativa) encostadas em figuras são rótulos delas (eixo de gráfico, legenda de
-    ponto): cada figura tocada cresce para incluir o pedaço da linha que está sobre ela, e a linha sai do texto.
-    Até 3 palavras; até 8 se a linha inteira estiver sobre as figuras (rótulos de dois gráficos lado a lado)."""
+    """Linhas de rótulo (sem letra de alternativa) encostadas em figuras são parte delas (eixo de gráfico, legenda,
+    nome de parte do desenho): a figura cresce para incluí-las e elas saem do texto.
+    - rótulo = texto sem palavras (números, "Q (L/min)") de qualquer tamanho, ou fonte menor que o corpo com até 8
+      palavras, ou até 3 palavras em fonte normal;
+    - encostada = até 14 pt da figura;
+    - vai para a figura mais próxima; se a linha corre sobre figuras lado a lado, cada uma fica com o pedaço dela."""
     figs = [i for i in itens if i['tipo'] == 'figura' and not i.get('formula')]
     if not figs:
         return itens
     tams = [i['tam'] for i in itens if i['tipo'] == 'linha' and i.get('tam')]
     corpo = statistics.median(tams) if tams else 10
+    orig = {id(f): f['caixa'] for f in figs}              # bordas antes de absorver (fronteiras estáveis)
     saida = []
     for it in itens:
-        n = len(it['texto'].split()) if it['tipo'] == 'linha' else 99
-        parece_rotulo = it['tipo'] == 'linha' and (_texto_fraco(it['texto']) or it.get('tam', corpo) < corpo * 0.9)
-        if parece_rotulo and not it.get('alt') and not it.get('rotulo') and n <= 8:
-            cb = (it['x0'], it['top'], it['x1'], it['bottom'])
-            perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=8)]
-            sobre = perto and min(f['caixa'][0] for f in perto) - 12 <= cb[0] and cb[2] <= max(f['caixa'][2] for f in perto) + 12
-            if perto and (n <= 3 or sobre):
-                for f in perto:
-                    parte = cb if len(perto) == 1 else (max(cb[0], f['caixa'][0] - 12), cb[1],
-                                                        min(cb[2], f['caixa'][2] + 12), cb[3])
-                    if parte[0] < parte[2]:
-                        f['caixa'] = uniao(f['caixa'], parte)
-                        f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
-                continue
-        saida.append(it)
+        if it['tipo'] != 'linha' or it.get('alt') or it.get('rotulo'):
+            saida.append(it)
+            continue
+        if RE_VAZAMENTO.search(it['texto']) or re.search(r'P[áa]gina\s+\d+|\d+º\s*dia', it['texto']) \
+                or re.search(r'[.;:?!]$', it['texto'].strip()):
+            saida.append(it)                             # rodapé/cabeçalho e fim de frase nunca são rótulo
+            continue
+        n = len(it['texto'].split())
+        fraco = _texto_fraco(it['texto'])
+        pequeno = it.get('tam', corpo) < corpo * 0.9
+        if not (fraco or (pequeno and n <= 8) or n <= 3):
+            saida.append(it)
+            continue
+        cb = (it['x0'], it['top'], it['x1'], it['bottom'])
+        perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=14 if (fraco or pequeno) else 8)]
+        if not perto:
+            saida.append(it)
+            continue
+        o = lambda f: orig[id(f)]
+        mesma_faixa = sorted((f for f in perto if o(f)[1] < cb[3] + 14 and cb[1] - 14 < o(f)[3]), key=lambda f: o(f)[0])
+        if len(mesma_faixa) >= 2 and len({round(o(f)[1] / 25) for f in mesma_faixa}) == 1 \
+                and cb[0] < o(mesma_faixa[0])[2] + 5 and cb[2] > o(mesma_faixa[1])[0] - 5:
+            # linha que corre sob/sobre figuras lado a lado: cada figura fica com o seu pedaço; a fronteira fica logo
+            # depois da figura da esquerda (a escala do eixo da figura da direita fica à esquerda dela)
+            for k, f in enumerate(mesma_faixa):
+                ini = cb[0] if k == 0 else o(mesma_faixa[k - 1])[2] + 5
+                fim = cb[2] if k == len(mesma_faixa) - 1 else o(f)[2] + 5
+                parte = (max(cb[0], ini), cb[1], min(cb[2], fim), cb[3])
+                if parte[0] < parte[2]:
+                    f['caixa'] = uniao(f['caixa'], parte)
+                    f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
+            continue
+        else:
+            dist = lambda f: max(f['caixa'][1] - cb[3], cb[1] - f['caixa'][3], 0) + max(f['caixa'][0] - cb[2], cb[0] - f['caixa'][2], 0)
+            sobrepoe = lambda f: max(0, min(cb[2], f['caixa'][2]) - max(cb[0], f['caixa'][0]))
+            ordem = sorted(perto, key=lambda f: (dist(f), -sobrepoe(f)))
+            alvo = ordem[0]
+            if len(ordem) > 1 and dist(ordem[1]) - dist(alvo) < 8:
+                a_direita = [f for f in ordem[:2] if f['caixa'][0] >= cb[2] - 3]   # escala fica à esquerda do eixo
+                a_esquerda = [f for f in ordem[:2] if f['caixa'][2] <= cb[0] + 3]
+                if a_direita and a_esquerda:
+                    alvo = a_direita[0]
+            f = alvo
+            f['caixa'] = uniao(f['caixa'], cb)
+            f['x0'], f['top'], f['x1'], f['bottom'] = f['caixa']
+    # desenho vetorial e bitmap colados na mesma faixa (árvore + figuras com nomes), ou figuras muito sobrepostas:
+    # uma figura só
+    juntou = True
+    while juntou:
+        juntou = False
+        figs_s = [i for i in saida if i['tipo'] == 'figura' and not i.get('formula')]
+        for a_ in figs_s:
+            for b_ in figs_s:
+                if a_ is b_ or a_['pg'] != b_['pg']:
+                    continue
+                ca, cb_ = a_['caixa'], b_['caixa']
+                sobre_v = min(ca[3], cb_[3]) - max(ca[1], cb_[1])
+                sobre_h = min(ca[2], cb_[2]) - max(ca[0], cb_[0])
+                area = lambda c: max(c[2] - c[0], 0.1) * max(c[3] - c[1], 0.1)
+                colados = (bool(a_.get('raster')) != bool(b_.get('raster')) and intersecta(ca, cb_, folga=6)
+                           and sobre_v >= 0.6 * min(ca[3] - ca[1], cb_[3] - cb_[1]))
+                sobrepostos = sobre_v > 0 and sobre_h > 0 and sobre_v * sobre_h >= 0.4 * min(area(ca), area(cb_))
+                if colados or sobrepostos:
+                    a_['caixa'] = uniao(ca, cb_)
+                    a_['x0'], a_['top'], a_['x1'], a_['bottom'] = a_['caixa']
+                    a_['raster'] = True
+                    a_['membros'] = a_.get('membros', []) + b_.get('membros', [])
+                    saida = [i for i in saida if i is not b_]
+                    juntou = True
+                    break
+            if juntou:
+                break
     return saida
 
 
@@ -2617,6 +2720,10 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
             destino.mkdir(parents=True, exist_ok=True)
 
         resultados, ignoradas, cache_fig = [], [], {}
+        linhas_por_pg = {}                       # linhas que ficaram como texto (para aparar figuras encostadas)
+        for it in fluxo:
+            if it['tipo'] == 'linha' and it.get('texto', '').strip():
+                linhas_por_pg.setdefault(it['pg'], []).append(it)
         for chave, q in sorted(questoes.items(), key=lambda it: (it[0][0], it[0][1] or '')):
             numero, idioma = chave
             rotulo = id_questao(ano, categoria, dia, numero, idioma)
@@ -2643,6 +2750,8 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
             def urls(figuras, grupo):
                 saida = []
                 for k, f in enumerate(figuras, start=1):
+                    if P.aparar_texto_vizinho:
+                        _aparar_texto_vizinho(f, linhas_por_pg.get(f['pg'], []))
                     ck = (f['pg'], tuple(round(v) for v in f['caixa']))
                     if ck not in cache_fig:
                         nome = f'{rotulo}-{grupo}-{k:02d}'
