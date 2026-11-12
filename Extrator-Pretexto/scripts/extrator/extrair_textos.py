@@ -2730,6 +2730,96 @@ def sql_questao(registro):
             f'on conflict (id) do update set\n  ' + ',\n  '.join(atualiza(c) for c in colunas if c != 'id') + ';')
 
 
+PASTA_MANUAIS = Path(__file__).resolve().parent / 'manuais'
+_CAMPOS_MANUAIS = ('enunciado', 'texto_apoio', 'credito_texto', 'alternativas', 'materia')
+
+
+def aplicar_manuais(pdf, nome, resultados, ignoradas, gabaritos, ano, categoria, dia, args, destino, prefixo_url, log):
+    """Correções manuais (extração assistida) de scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json.
+
+    Para questões que o extrator não lê bem (layout de tela das provas digitais, fórmulas desenhadas), o texto é
+    transcrito à mão a partir do PDF e as imagens são recortadas por caixas fixas. Formato (chave = número da
+    questão, com "-ingles"/"-espanhol" se for de idioma):
+      {"155": {"alternativas": ["10⁻² × 60⁻²", ...],              # campos presentes substituem os extraídos
+               "imagens": [{"pg": 21, "caixa": [x0, topo, x1, base], "foto": false}],
+               "imagens_alternativas": {"A": [{"pg": 21, "caixa": [...]}]},   # {} remove as imagens extraídas
+               "obs": "por que foi corrigida à mão"}}
+    Questão ausente da extração precisa de enunciado, alternativas e materia; o gabarito vem sempre do oficial."""
+    arq = PASTA_MANUAIS / f'{nome}.json'
+    if not arq.exists():
+        return resultados, ignoradas
+    dados = json.loads(arq.read_text(encoding='utf-8'))
+    por_id = {r['id']: r for r in resultados}
+    n_corr, n_novas = 0, 0
+
+    def recortes(lista, rotulo, grupo, figs_q):
+        saida = []
+        for k, f in enumerate(lista, start=1):
+            fig = {'pg': f['pg'], 'caixa': tuple(f['caixa']), 'raster': bool(f.get('foto')), 'pad': f.get('pad', 1)}
+            nome_img = f'{rotulo}-{grupo}-m{k:02d}'
+            if args.dry_run:
+                url = f'{prefixo_url}/{nome_img}.{"jpg" if fig["raster"] else "png"}'
+            else:
+                destino.mkdir(parents=True, exist_ok=True)
+                url = f'{prefixo_url}/{salvar_figura(pdf, fig, destino / nome_img, args.dpi, args.formato).name}'
+            saida.append(url)
+            figs_q.append((url, fig['pg'], tuple(round(v, 1) for v in fig['caixa'])))
+        return saida
+
+    for chave, m in dados.items():
+        if chave.startswith('_'):
+            continue
+        num, _, idioma = chave.partition('-')
+        numero, idioma = int(num), (idioma or None)
+        rotulo = id_questao(ano, categoria, dia, numero, idioma)
+        if (numero, idioma) not in gabaritos:
+            log(f'MANUAL: {rotulo} sem resposta no gabarito; correção ignorada.')
+            continue
+        r = por_id.get(rotulo)
+        if r is None:
+            if not all(m.get(c) for c in ('enunciado', 'alternativas', 'materia')):
+                log(f'MANUAL: {rotulo} não foi extraída e a correção não traz enunciado/alternativas/materia.')
+                continue
+            resposta = gabaritos[(numero, idioma)]
+            r = {'id': rotulo, 'numero': numero, 'materia': m['materia'], 'ano': ano, 'categoria': categoria,
+                 'idioma': idioma, 'enunciado': '', 'texto_apoio': None, 'credito_texto': None, 'imagem_url': None,
+                 'imagens_url': [], 'alternativas_imagens': {}, 'alternativas': ['', '', '', '', ''],
+                 'gabarito': resposta, 'anulada': resposta is None, '_fracoes': 0, '_indices_soltos': 0,
+                 '_numerada': False, '_formulas': 0, '_figuras': []}
+            resultados.append(r)
+            por_id[rotulo] = r
+            ignoradas = [i for i in ignoradas if i[0] != rotulo]
+            n_novas += 1
+        else:
+            n_corr += 1
+        for c in _CAMPOS_MANUAIS:
+            if c in m:
+                r[c] = m[c] if m[c] != '' else None if c in ('texto_apoio', 'credito_texto') else m[c]
+        if 'imagens' in m or 'imagens_alternativas' in m:
+            figs_q = []
+            if 'imagens' in m:
+                r['imagens_url'] = recortes(m['imagens'], rotulo, 'apoio', figs_q)
+                r['imagem_url'] = r['imagens_url'][0] if r['imagens_url'] else None
+            else:
+                figs_q += [f for f in r['_figuras'] if f[0] in r['imagens_url']]
+            if 'imagens_alternativas' in m:
+                r['alternativas_imagens'] = {l: recortes(v, rotulo, f'alt-{l}', figs_q)
+                                             for l, v in sorted(m['imagens_alternativas'].items()) if v}
+            else:
+                todas = {u for v in r['alternativas_imagens'].values() for u in v}
+                figs_q += [f for f in r['_figuras'] if f[0] in todas]
+            r['_figuras'] = figs_q
+        if len(r['alternativas']) != 5 or any(not t and not r['alternativas_imagens'].get(l)
+                                              for t, l in zip(r['alternativas'], 'ABCDE')):
+            log(f'MANUAL: {rotulo} ficou com alternativa vazia; confira o arquivo {arq.name}.')
+        r['_manual'] = True
+        r['_fracoes'] = r['_indices_soltos'] = r['_formulas'] = 0
+        r['_avisos'] = auditar(r)
+    resultados.sort(key=lambda r: (r['numero'], r['idioma'] or ''))
+    log(f'CORREÇÕES MANUAIS ({arq.name}): {n_corr} questão(ões) corrigida(s), {n_novas} incluída(s).')
+    return resultados, ignoradas
+
+
 def id_questao(ano, categoria, dia, numero, idioma):
     sufixo = {'ingles': '-ing', 'espanhol': '-esp'}.get(idioma, '')
     return f'enem-{ano}-{categoria}-d{dia}-q{numero:02d}{sufixo}'
@@ -2845,6 +2935,9 @@ def extrair_prova(args, caminho_pdf, caminho_gab, ano, dia, categoria, idioma_fo
             r['_figuras'] = figs_q
             r['_avisos'] = auditar(r)
             resultados.append(r)
+
+        resultados, ignoradas = aplicar_manuais(pdf, f'{ano}-{categoria}-dia{dia}{sufixo_saida}', resultados, ignoradas,
+                                                gabaritos, ano, categoria, dia, args, destino, prefixo_url, log)
 
         # explicação da resolução (IA), logo após a extração: cruza enunciado, alternativas e gabarito oficial
         nome_cache = f'{ano}-{categoria}-dia{dia}{sufixo_saida}'
