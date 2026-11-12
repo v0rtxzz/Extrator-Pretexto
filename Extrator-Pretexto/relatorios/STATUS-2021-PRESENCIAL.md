@@ -35,7 +35,16 @@ PPL dia 2 88/90; cada rodada levava ~7,5 min por causa do OCR. Agora as 4 provas
 5. **`auditoria_sem_glifos`** — a auditoria de letras perdidas pula linhas lidas por OCR (com glifos `(cid:N)` ela
    contava "c", "i", "d" do nome do glifo como letras perdidas). Com o item 1 quase não sobra linha de OCR.
 
-`verificar_baseline.py --todos --pular-anos 2010,2021`: ver o resultado no commit (rodado antes do push).
+### Trava de regressão
+
+`verificar_baseline.py --todos --pular-anos 2010,2021` **não dá "igual à foto" neste ambiente, nem com o código de
+`main`** (testado num worktree de `f183460`: 2017-regular-dia1 dá as mesmas 95 diferenças). A causa é do ambiente:
+o pypdfium2 instalado (5.13.0) renderiza sem antisserrilhado, e a checagem de texto invisível a 50 dpi descarta vírgulas
+e pontos em todos os anos ("No conto de Galeano a expressão…"). As fotos foram tiradas num ambiente que renderizava
+com antisserrilhado. Por isso a trava foi interrompida e substituída por uma comparação direta `main` × este ramo
+(`extrair_textos.py --dry-run --json`) em 8 provas de outros anos: 2009 regular d2, 2010 regular d2, 2017 regular d1,
+2020 PPL d2, 2022 PPL d1, 2023 regular d2, 2024 regular d2, 2025 PPL d2 — **todas idênticas byte a byte**.
+Rodar a trava completa num ambiente igual ao das fotos antes do merge.
 
 ## Questões incluídas à mão (`scripts/extrator/manuais/`)
 
