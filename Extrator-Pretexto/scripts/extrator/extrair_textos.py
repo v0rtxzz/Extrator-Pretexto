@@ -84,7 +84,7 @@ _SUB_L = dict(zip('aehijklmnoprstuvx', 'ₐₑₕᵢⱼₖₗₘₙₒₚᵣₛ�
 
 
 def _sup(ch):
-    ch = '-' if ch == '−' else ch
+    ch = '-' if ch in '−–' else ch
     return ch.translate(_SUP_D) if ch in '0123456789+-=()' else _SUP_L.get(ch)
 
 
@@ -214,6 +214,8 @@ def _chars_invisiveis(pagina, dpi=50):
         t, b = max(int((c['top'] - bt) * ey), 0), min(int((c['bottom'] - bt) * ey) + 1, h)
         if x1 <= x0 or b <= t:
             continue
+        if c['size'] < 7 or c['text'] in ',.;:–-−·\'':          # glifo fino: a 50 dpi pode cair no pixel vizinho
+            x0, x1, t, b = max(x0 - 1, 0), min(x1 + 1, w), max(t - 1, 0), min(b + 1, h)
         if min(px[x, y] for x in range(x0, x1) for y in range(t, b)) > 235:
             fora.add(_chave_char(c))
     return fora
@@ -428,6 +430,13 @@ def achar_objetos_graficos(pagina, topo, rodape, vis, P, aparadas):
             objs.append({'caixa': c, 'img': tipo == 'img', 'n': n_obj, 'membros': [(c, tipo == 'img')]})
     if filetes:
         objs = _filetes_de_grafico(objs, filetes)
+    if P.faixa_do_rotulo:                        # listras da faixa de "Questão N", antes de agrupar (senão grudam
+        ws_r = pagina.extract_words()            # na imagem logo abaixo)
+        rot_r = [(w['x0'], w['top'], ws_r[k + 1]['x1'], w['bottom']) for k, w in enumerate(ws_r[:-1])
+                 if re.fullmatch(r'Quest[ãa]o', w['text'], re.I) and re.fullmatch(r'\d{1,3}', ws_r[k + 1]['text'])]
+        objs = [o for o in objs if o['img'] or o['caixa'][3] - o['caixa'][1] > 30 or not any(
+            r[1] - 8 <= o['caixa'][1] <= r[3] and o['caixa'][0] >= r[0] - 5 and o['caixa'][3] <= r[3] + 14
+            for r in rot_r)]
     grupos = objs
 
     def traco(g):                     # traço vetorial minúsculo e isolado (ponta de filete, risco)
@@ -1134,7 +1143,8 @@ def _parece_lixo(texto):
     n_ind = len(RE_INDICE_LETRA.findall(texto)) + texto.count('_{')
     if n_ind >= 3 or (n_ind >= 2 and len(texto) <= 12):
         return True
-    soltas = sum(1 for t in toks if len(t.strip(',.;:')) == 1 and t.strip(',.;:').isalpha() and t not in 'aeoAEOyY')
+    soltas = sum(1 for t in toks if len(t.strip(',.;:')) == 1 and t.strip(',.;:').isalpha() and t not in 'aeoAEOyY'
+                 and not re.fullmatch(r'[A-Z]\.,?', t))                 # inicial de nome ("N.", "J.") não é lixo
     palavras = sum(1 for t in toks if re.search(r'[a-zà-ÿ]{3,}', t))
     return len(toks) >= 8 and soltas >= len(toks) * 0.5 and palavras < 2   # frase com palavras não é lixo
 
@@ -1242,7 +1252,7 @@ def linhas_da_regiao(pagina, bbox, excl, pg, col, P, pular_tops=()):
         corpo_cs = [c for c in chars if not c.get('_indice') and c['text'].strip() and c['size'] >= tam_med * 0.85]
         novos = []
         for c in chars:
-            pequeno = (c['text'] in '0123456789+-−ABCDEFGHIJKLMNOPQRSTUVWXYZ' and c['text'].strip()
+            pequeno = (c['text'] in '0123456789+-−–ABCDEFGHIJKLMNOPQRSTUVWXYZ' and c['text'].strip()
                        and c['size'] < tam_med * 0.85)                 # índices: algarismos, sinais, maiúsculas
             if (c.get('_indice') or pequeno) and corpo_cs:
                 viz = min(corpo_cs, key=lambda o: min(abs(o['x1'] - c['x0']), abs(c['x1'] - o['x0']))
@@ -2103,9 +2113,15 @@ def _absorver_rotulos(itens):
     tams = [i['tam'] for i in itens if i['tipo'] == 'linha' and i.get('tam')]
     corpo = statistics.median(tams) if tams else 10
     orig = {id(f): f['caixa'] for f in figs}              # bordas antes de absorver (fronteiras estáveis)
-    saida = []
+    marcos = [i for i in itens if i['tipo'] == 'linha' and re.match(r'Quest[ãa]o\s+\d+', i.get('texto') or '')]
+    saida, ultimo, continua = [], None, False
     for it in itens:
-        if it['tipo'] != 'linha' or it.get('alt') or it.get('rotulo'):
+        if it['tipo'] == 'linha':                        # continuação de alternativa ("A texto…" / "…resto")
+            ref = ultimo and (ultimo.get('_cx0', ultimo['x0']) if ultimo.get('alt') else ultimo['x0'])
+            continua = bool(ultimo and (ultimo.get('alt') or continua) and not it.get('alt')
+                            and abs(it['x0'] - ref) <= 4 and -2 <= it['top'] - ultimo['bottom'] <= 6)
+            ultimo = it
+        if it['tipo'] != 'linha' or it.get('alt') or it.get('rotulo') or continua:
             saida.append(it)
             continue
         cb = (it['x0'], it['top'], it['x1'], it['bottom'])
@@ -2114,7 +2130,9 @@ def _absorver_rotulos(itens):
         eixo = (n <= 14 and len(re.findall(r'[a-zà-ÿ]{4,}', it['texto'])) <= 1
                 and any(f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=3) for f in figs))
         if RE_VAZAMENTO.search(it['texto']) or re.search(r'P[áa]gina\s+\d+|\d+º\s*dia', it['texto']) \
-                or (re.search(r'[.;:?!]$', it['texto'].strip()) and not eixo):
+                or re.match(r'(?:TEXTO|Texto)\s+[IVX]+\b|Quest[ãa]o\s+\d+', it['texto']) \
+                or (re.search(r'[.;:?!]$', it['texto'].strip()) and not eixo) \
+                or re.search(r'^(?:Dispon[íi]vel|Fonte)\b|Acesso\s+em|www\.|https?:', it['texto']):   # crédito
             saida.append(it)                             # rodapé/cabeçalho e fim de frase nunca são rótulo
             continue
         n = len(it['texto'].split())
@@ -2124,10 +2142,18 @@ def _absorver_rotulos(itens):
         if not (fraco or (pequeno and n <= 8) or n <= 3 or eixo):
             saida.append(it)
             continue
-        perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=14 if (fraco or pequeno) else 8)]
+        perto = [f for f in figs if f['pg'] == it['pg'] and intersecta(f['caixa'], cb, folga=14 if (fraco or pequeno) else 8)
+                 and not any(m is not it and m['pg'] == it['pg']                 # "Questão N" entre os dois: outra
+                             and min(cb[3], f['caixa'][3]) - 2 <= m['top'] <= max(cb[1], f['caixa'][1]) + 15  # questão
+                             for m in marcos)]
         if not perto:
             saida.append(it)
             continue
+        if re.fullmatch(r'[A-E]', it['texto'].strip()):           # letra sozinha à esquerda da figura: é a
+            perto = [f for f in perto if f['caixa'][0] < cb[2] - 2]   # alternativa desenhada, não rótulo
+            if not perto:
+                saida.append(it)
+                continue
         o = lambda f: orig[id(f)]
         mesma_faixa = sorted((f for f in perto if o(f)[1] < cb[3] + 14 and cb[1] - 14 < o(f)[3]), key=lambda f: o(f)[0])
         if len(mesma_faixa) >= 2 and len({round(o(f)[1] / 25) for f in mesma_faixa}) == 1 \
@@ -2175,7 +2201,8 @@ def _absorver_rotulos(itens):
                 # pedaços de um mesmo esquema (reação, ciclo): figuras a até 16 pt umas das outras, sem nenhuma linha
                 # de texto no retângulo que as une
                 encadeados = False
-                if not (colados or sobrepostos) and intersecta(ca, cb_, folga=16):
+                if not (colados or sobrepostos) and intersecta(ca, cb_, folga=16) \
+                        and abs(ca[0] - cb_[0]) >= 4 and abs(ca[1] - cb_[1]) >= 4:   # pilha/fileira alinhada: alternativas
                     u = uniao(ca, cb_)
                     encadeados = not any(i['tipo'] == 'linha' and i['pg'] == a_['pg']
                                          and u[0] <= (i['x0'] + i['x1']) / 2 <= u[2]
