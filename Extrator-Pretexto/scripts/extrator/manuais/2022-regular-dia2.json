@@ -1,0 +1,6 @@
+{
+ "144": {
+  "enunciado": "Cada número que identifica uma agência bancária tem quatro dígitos: N₁, N₂, N₃, N₄ mais um dígito verificador N₅.\n\nN₁ N₂ N₃ N₄ – N₅\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N₅, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N₁ + 4 N₂ + 3 N₃ + 2 N₄.\n\nPosteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N₅ é a diferença 11 - R.\n\nConsidere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.\n\nQual é o dígito verificador N₅ dessa agência bancária?",
+  "obs": "caixas N₁…N₅ desenhadas"
+ }
+}

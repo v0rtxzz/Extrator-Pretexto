@@ -1,0 +1,33 @@
+{
+ "70": {
+  "enunciado": "O alumínio é um metal bastante versátil, pois, a partir dele, podem-se confeccionar materiais amplamente utilizados pela sociedade. A obtenção do alumínio ocorre a partir da bauxita, que é purificada e dissolvida em criolita fundida (Na₃AlF₆) e eletrolisada a cerca de 1 000 °C. Há liberação do gás dióxido de carbono (CO₂), formado a partir da reação de um dos produtos da eletrólise com o material presente nos eletrodos. O ânodo é formado por barras de grafita submergidas na mistura fundida. O cátodo é uma caixa de ferro coberta de grafita. A reação global do processo é:\n\n2 Al₂O₃ (l) + 3 C (s) → 4 Al (l) + 3 CO₂ (g)\n\nNa etapa de obtenção do alumínio líquido, as reações que ocorrem no cátodo e ânodo são:",
+  "alternativas": [
+   "cátodo: Al³⁺ + 3 e⁻ → Al; ânodo: 2 O²⁻ → O₂ + 4 e⁻ e C + O₂ → CO₂",
+   "cátodo: 2 O²⁻ → O₂ + 4 e⁻ e C + O₂ → CO₂; ânodo: Al³⁺ + 3 e⁻ → Al",
+   "cátodo: Al³⁺ + 3 e⁻ → Al e 2 O²⁻ → O₂ + 4 e⁻; ânodo: C + O₂ → CO₂",
+   "cátodo: Al³⁺ + 3 e⁻ → Al e C + O₂ → CO₂; ânodo: 2 O²⁻ → O₂ + 4 e⁻",
+   "cátodo: 2 O²⁻ → O₂ + 4 e⁻; ânodo: Al³⁺ + 3 e⁻ → Al e C + O₂ → CO₂"
+  ],
+  "obs": "alternativas com chaves (duas reações por eletrodo); transcritas do PDF"
+ },
+ "61": {
+  "enunciado": "Os calcários são materiais compostos por carbonato de cálcio, que podem atuar como sorventes do dióxido de enxofre (SO₂), um importante poluente atmosférico. As reações envolvidas no processo são a ativação do calcário, por meio de calcinação, e a fixação do SO₂ com a formação de um sal de cálcio, como ilustrado pelas equações químicas simplificadas.\n\nCaCO₃ —(calor)→ CaO + CO₂\n\nCaO + SO₂ + ½ O₂ → Sal de cálcio\n\nConsiderando-se as reações envolvidas nesse processo de dessulfurização, a fórmula química do sal de cálcio corresponde a",
+  "obs": "equações com seta rotulada e fração ½"
+ },
+ "90": {
+  "texto_apoio": "",
+  "credito_texto": "",
+  "imagens": [
+   {
+    "pg": 31,
+    "caixa": [
+     370.0,
+     504.0,
+     519.0,
+     629.0
+    ]
+   }
+  ],
+  "obs": "esquema do ciclo (CO₂ / C₆H₁₂O₆) não recortado; rótulos lidos como texto"
+ }
+}

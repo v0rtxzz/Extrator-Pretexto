@@ -2741,15 +2741,13 @@ def sql_questao(registro):
         sql_str(registro['gabarito']), 'true' if registro['anulada'] else 'false',
         sql_str(registro.get('explicacao')),
     )
-    preservar = {'texto_apoio', 'credito_texto', 'imagem_url', 'explicacao'}
+    # o SQL é a versão corrigida: sobrescreve tudo (inclusive limpa imagens e créditos que saíram); só a explicação
+    # gerada por IA é preservada quando a carga não traz uma
+    preservar = {'explicacao'}
 
     def atualiza(c):
         if c in preservar:
             return f'{c} = coalesce(excluded.{c}, questoes.{c})'
-        if c == 'imagens_url':
-            return "imagens_url = coalesce(nullif(excluded.imagens_url, '{}'::text[]), questoes.imagens_url)"
-        if c == 'alternativas_imagens':
-            return "alternativas_imagens = coalesce(nullif(excluded.alternativas_imagens, '{}'::jsonb), questoes.alternativas_imagens)"
         return f'{c} = excluded.{c}'
     return (f'insert into public.questoes ({", ".join(colunas)})\nvalues ({", ".join(valores)})\n'
             f'on conflict (id) do update set\n  ' + ',\n  '.join(atualiza(c) for c in colunas if c != 'id') + ';')
