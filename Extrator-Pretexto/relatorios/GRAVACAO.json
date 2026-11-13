@@ -780,8 +780,12 @@
    "avisos": {},
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL)."
+   ],
+   "pendente": []
   },
   "2009-regular-dia2": {
    "ano": 2009,
@@ -795,20 +799,13 @@
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
-   "palavras_sem_cobertura": 19,
+   "palavras_sem_cobertura": 5,
    "exemplos_sem_cobertura": [
-    "Rubem",
-    "Valentim.",
-    "em:http://www.ocaixote.com.br.",
-    "Athos",
-    "Bulcão.",
-    "http://www.irbr.mre.gov.br.",
-    "Rubens",
-    "Gerchman.",
-    "http://www.itaucultural.org.br.",
-    "Victor",
-    "Vassarely.",
-    "http://www.masterworksfineart.com."
+    "Rascunho",
+    "Rascunho",
+    "Rascunho",
+    "Transcreva",
+    "AZUL"
    ],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
@@ -841,7 +838,14 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Cabeçalho/rodapé da página (\"AZUL\", \"2º dia\", \"Rascunho\", número da questão no topo da tela).",
+    "\"363e0,03x\" está no SQL como \"363e^{0,03x}\"."
+   ],
+   "pendente": [
+    "Fórmulas \"r⎜1−sen…\", \"r⎜1−cos…\", \"r⎜1−tg…\" (pág. 29): conferir a questão."
+   ]
   },
   "2011-regular-dia1": {
    "ano": 2011,
@@ -866,8 +870,12 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL)."
+   ],
+   "pendente": []
   },
   "2011-regular-dia2": {
    "ano": 2011,
@@ -919,12 +927,13 @@
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 1,
+   "palavras_sem_cobertura": 2,
    "exemplos_sem_cobertura": [
-    "Emissões"
+    "Emissões",
+    "COH"
    ],
    "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 0,
+   "algarismos_sem_cobertura": 11,
    "avisos": {
     "enem-2012-ppl-d1-q73": [
      "2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -933,7 +942,13 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q75: esquema reacional recortado como imagem)."
+   ],
+   "pendente": [
+    "Palavra \"Emissões\" (pág. 15, rótulo de diagrama de alternativa): conferir o recorte."
+   ]
   },
   "2012-ppl-dia2": {
    "ano": 2012,
@@ -1045,26 +1060,27 @@
    "motor": "v2013",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 2,
+   "com_aviso": 1,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 1,
+   "algarismos_sem_cobertura": 5,
    "avisos": {
     "enem-2013-regular-d1-q49": [
      "1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2013-regular-d1-q70": [
-     "2 fração(ões) linearizada(s) como a/b: conferir"
     ]
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL)."
+   ],
+   "pendente": []
   },
   "2013-regular-dia2": {
    "ano": 2013,
@@ -1361,7 +1377,7 @@
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 2,
-   "algarismos_sem_cobertura": 0,
+   "algarismos_sem_cobertura": 6,
    "avisos": {
     "enem-2015-ppl-d1-q46": [
      "5 fração(ões) linearizada(s) como a/b: conferir"
@@ -1382,8 +1398,12 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q70: alternativas transcritas)."
+   ],
+   "pendente": []
   },
   "2016-ppl-dia1": {
    "ano": 2016,
@@ -1400,12 +1420,16 @@
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
-   "algarismos_sem_cobertura": 4,
+   "algarismos_sem_cobertura": 9,
    "avisos": {},
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Cabeçalho/rodapé da página (\"AZUL\", \"2º dia\", \"Rascunho\", número da questão no topo da tela)."
+   ],
+   "pendente": []
   },
   "2016-ppl-dia2": {
    "ano": 2016,
@@ -1419,10 +1443,8 @@
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 1,
-   "exemplos_sem_cobertura": [
-    "Gauditano."
-   ],
+   "palavras_sem_cobertura": 0,
+   "exemplos_sem_cobertura": [],
    "letras_perdidas": 0,
    "algarismos_sem_cobertura": 0,
    "avisos": {
@@ -1454,7 +1476,7 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
+   "status": "OK",
    "gravado": true
   },
   "2016-regular-dia1": {
@@ -1582,8 +1604,15 @@
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
+   "palavras_sem_cobertura": 6,
+   "exemplos_sem_cobertura": [
+    "formadas",
+    "casais",
+    "rendimento",
+    "responsáveis",
+    "engravidam",
+    "tarde:aos"
+   ],
    "letras_perdidas": 2,
    "algarismos_sem_cobertura": 0,
    "avisos": {
@@ -1613,8 +1642,12 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q105: infográfico)."
+   ],
+   "pendente": []
   },
   "2017-ppl-dia2": {
    "ano": 2017,
@@ -1722,7 +1755,13 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q95 e Q171)."
+   ],
+   "pendente": [
+    "Números \"6,4\", \"9,3\", \"10,4\" (pág. 18), \"03/08\", \"01/09\" (pág. 30) e \"n−1)\" (pág. 16)."
+   ]
   },
   "2018-ppl-dia1": {
    "ano": 2018,
@@ -1758,8 +1797,11 @@
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 0,
-   "palavras_sem_cobertura": 0,
-   "exemplos_sem_cobertura": [],
+   "palavras_sem_cobertura": 2,
+   "exemplos_sem_cobertura": [
+    "RELIGIÃO",
+    "POLÍTICAFAMÍLIA"
+   ],
    "letras_perdidas": 4,
    "algarismos_sem_cobertura": 0,
    "avisos": {
@@ -1803,8 +1845,12 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q102); Q175: nuvem de palavras recortada como imagem."
+   ],
+   "pendente": []
   },
   "2018-regular-dia1": {
    "ano": 2018,
@@ -1843,7 +1889,7 @@
    "palavras_sem_cobertura": 0,
    "exemplos_sem_cobertura": [],
    "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 0,
+   "algarismos_sem_cobertura": 19,
    "avisos": {
     "enem-2018-regular-d2-q95": [
      "enunciado muito curto"
@@ -1895,7 +1941,15 @@
    "criticos": 1,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Q136: \"rótulos embaralhados\" é falso alarme (índices aᵢⱼ).",
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q103).",
+    "Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q168: gráfico)."
+   ],
+   "pendente": [
+    "\"r2\" (pág. 18)."
+   ]
   },
   "2019-ppl-dia1": {
    "ano": 2019,
@@ -1980,8 +2034,12 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q106 e Q128)."
+   ],
+   "pendente": []
   },
   "2019-regular-dia2": {
    "ano": 2019,
@@ -2021,7 +2079,11 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [],
+   "pendente": [
+    "Números \"10-1\" a \"10-5\" (pág. 19) e a palavra \"enzima\" sobre a seta da equação (pág. 5)."
+   ]
   },
   "2020-digital-dia1-espanhol": {
    "ano": 2020,
@@ -2097,7 +2159,13 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Cabeçalho/rodapé da página (\"AZUL\", \"2º dia\", \"Rascunho\", número da questão no topo da tela). (números 137…180)."
+   ],
+   "pendente": [
+    "9 palavras (págs. 25, 51, 74: \"vacinas\", \"longo\", \"abaixo\", \"consegue\", \"ordenar\"…)."
+   ]
   },
   "2020-ppl-dia1": {
    "ano": 2020,
@@ -2171,7 +2239,13 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL)."
+   ],
+   "pendente": [
+    "\"3×\" (pág. 29) e um \"+\" (pág. 26)."
+   ]
   },
   "2020-regular-dia1": {
    "ano": 2020,
@@ -2250,7 +2324,13 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q94: rótulos (1) e (2) das fórmulas)."
+   ],
+   "pendente": [
+    "\"9!×\" (pág. 24) e \"s-1\"."
+   ]
   },
   "2022-digital-dia1-espanhol": {
    "ano": 2022,
@@ -3026,7 +3106,7 @@
    "motor": "v2022",
    "esperadas": 90,
    "extraidas": 90,
-   "com_aviso": 75,
+   "com_aviso": 57,
    "ignoradas": [],
    "ausentes": [],
    "anuladas": 1,
@@ -3043,13 +3123,9 @@
     "escreveu"
    ],
    "letras_perdidas": 1,
-   "algarismos_sem_cobertura": 22,
+   "algarismos_sem_cobertura": 13,
    "avisos": {
     "enem-2022-digital-d2-q91": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q92": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3058,19 +3134,7 @@
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2022-digital-d2-q94": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2022-digital-d2-q97": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q98": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q99": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3082,22 +3146,6 @@
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2022-digital-d2-q102": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q104": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q105": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q107": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2022-digital-d2-q108": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
@@ -3106,23 +3154,11 @@
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2022-digital-d2-q110": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2022-digital-d2-q111": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2022-digital-d2-q112": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q113": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q114": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3144,18 +3180,6 @@
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2022-digital-d2-q119": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q120": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q122": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q123": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3183,15 +3207,7 @@
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
-    "enem-2022-digital-d2-q130": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
     "enem-2022-digital-d2-q131": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q132": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3245,14 +3261,6 @@
      "6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
     "enem-2022-digital-d2-q149": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q150": [
-     "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
-     "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
-    ],
-    "enem-2022-digital-d2-q151": [
      "5 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir",
      "5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)"
     ],
@@ -3352,7 +3360,11 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [],
+   "pendente": [
+    "9 palavras (págs. 35 e 38: \"solução\", \"catalítica\", \"decompõe\", \"peróxido\"…) e \"3 2\" (pág. 24)."
+   ]
   },
   "2022-ppl-dia1": {
    "ano": 2022,
@@ -3447,8 +3459,13 @@
    },
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL).",
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q123)."
+   ],
+   "pendente": []
   },
   "2022-regular-dia1": {
    "ano": 2022,
@@ -3600,7 +3617,14 @@
    "criticos": 0,
    "explicacoes": 0,
    "status": "REVISAR",
-   "gravado": true
+   "gravado": true,
+   "conferido": [
+    "Notação: o PDF escreve \"10–2\", \"g-1\", \"mol–1\"; o SQL tem \"10⁻²\", \"g⁻¹\", \"mol⁻¹\" (conferido no SQL).",
+    "Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q159: alternativas com π em fração)."
+   ],
+   "pendente": [
+    "Trecho \"sp o\" (pág. 25)."
+   ]
   },
   "2023-regular-dia2": {
    "ano": 2023,
@@ -3672,8 +3696,12 @@
    "avisos": {},
    "criticos": 0,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "453 \"letras perdidas\": glifos ocultos (texto invisível sobreposto), não texto real; o texto vem do OCR."
+   ],
+   "pendente": []
   },
   "2010-ppl-dia2": {
    "ano": 2010,
@@ -3822,8 +3850,13 @@
    },
    "criticos": 1,
    "explicacoes": 0,
-   "status": "REVISAR",
-   "gravado": true
+   "status": "OK (conferido)",
+   "gravado": true,
+   "conferido": [
+    "Q157: \"rótulos embaralhados\" é falso alarme (enunciado e matriz conferidos).",
+    "Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q170, π)."
+   ],
+   "pendente": []
   },
   "2021-ppl-dia2": {
    "ano": 2021,

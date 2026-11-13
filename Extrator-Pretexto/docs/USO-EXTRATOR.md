@@ -95,7 +95,9 @@ python scripts/extrator/lote.py --anos 2010,2011 --categoria ppl --gravar --incl
 Opções: `--anos` (lista) ou `--de/--ate`, `--categoria`, `--pular-anos`, `--pular-existentes` (só provas sem SQL),
 `--incluir-revisar` (grava também REVISAR/FALHA), `--processos N` (provas em paralelo), `--explicar`.
 Status: **OK** (todas as questões, cobertura completa), **REVISAR** (todas as questões, mas sobrou texto/número do PDF
-sem cobertura ou aviso crítico), **FALHA** (faltam questões), **ERRO**. A gravação escreve `relatorios/GRAVACAO.md`;
+sem cobertura ou aviso crítico), **FALHA** (faltam questões), **ERRO**. Em `relatorios/GRAVACAO.md`, **OK (conferido)** marca as provas cujos avisos
+foram todos conferidos à mão como falsos alarmes; o relatório lista os avisos conferidos e as pendências ainda não
+confirmadas. A gravação escreve `relatorios/GRAVACAO.md`;
 os logs completos ficam em `relatorios/logs/` (fora do git).
 
 ### 4.2) Explicação da resolução por IA (`explicacao`)
