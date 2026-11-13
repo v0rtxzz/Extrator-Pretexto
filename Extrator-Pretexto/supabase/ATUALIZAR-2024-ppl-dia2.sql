@@ -1344,7 +1344,7 @@ insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunci
 values ('enem-2024-ppl-d2-q152', 152, 'matematica', 2024, 'ppl', null, 'A pressão sonora (P), medida em newton por metro quadrado (N/m²), e o nível dessa pressão sonora (n), medido
 em decibel (dB), se relacionam mediante a expressão
 
-sendo P₀ = 2 × 10^{–5} N/m² uma constante, denominada limiar de percepção do ouvido humano.
+sendo P₀ = 2 × 10⁻⁵ N/m² uma constante, denominada limiar de percepção do ouvido humano.
 Durante uma fiscalização, foi medido, por um decibelímetro, que o ruído proveniente de um carro, com seu som
 automotivo ligado, atingiu um nível de pressão sonora de 80 dB.
 
