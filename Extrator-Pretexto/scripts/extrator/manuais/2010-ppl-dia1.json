@@ -1,0 +1,178 @@
+{
+ "58": {
+  "enunciado": "Um garoto que passeia de carro com seu pai pela cidade, ao ouvir o rádio, percebe que a sua estação de rádio preferida, a 94,9 FM, que opera na banda de frequência de megahertz, tem seu sinal de transmissão superposto pela transmissão de uma rádio pirata de mesma frequência que interfere no sinal da emissora do centro em algumas regiões da cidade.\n\nConsiderando a situação apresentada, a rádio pirata interfere no sinal da rádio do centro devido à",
+  "obs": "Quebras de linha do PDF no meio das frases; texto unido."
+ },
+ "59": {
+  "enunciado": "A resistência elétrica de um fio é determinada pela suas dimensões e pelas propriedades estruturais do material. A condutividade (σ) caracteriza a estrutura do material, de tal forma que a resistência de um fio pode ser determinada conhecendo-se L, o comprimento do fio e A, a área de seção reta. A tabela relaciona o material à sua respectiva resistividade em temperatura ambiente.\n\nTabela de condutividade\nMaterial | Condutividade (S·m/mm²)\nAlumínio | 34,2\nCobre | 61,7\nFerro | 10,2\nPrata | 62,5\nTungstênio | 18,8\n\nMantendo-se as mesmas dimensões geométricas, o fio que apresenta menor resistência elétrica é aquele feito de",
+  "imagens": [],
+  "obs": "Tabela partida (uma linha como texto, as demais como imagem) e σ lido como 'w'; tabela transcrita da página 19."
+ },
+ "60": {
+  "materia": "natureza",
+  "texto_apoio": "O Brasil é um dos países que obtêm melhores resultados na reciclagem de latinhas de alumínio. O esquema a seguir representa as várias etapas desse processo:",
+  "credito_texto": "Disponível em: http://ambiente.hsw.uol.com.br. Acesso em: 27 abr. 2010 (adaptado).",
+  "enunciado": "A temperatura do forno em que o alumínio é fundido é útil também porque",
+  "alternativas": [
+   "sublima outros metais presentes na lata.",
+   "evapora substâncias radioativas remanescentes.",
+   "impede que o alumínio seja eliminado em altas temperaturas.",
+   "desmagnetiza as latas que passaram pelo processo de triagem.",
+   "queima os resíduos de tinta e outras substâncias presentes na lata."
+  ],
+  "imagens": [
+   {
+    "pg": 19,
+    "caixa": [
+     96,
+     466,
+     560,
+     672
+    ],
+    "foto": true
+   }
+  ],
+  "obs": "Questão de largura total abaixo das duas colunas: o extrator achou só 2 alternativas. Transcrita da página 19."
+ },
+ "11": {
+  "texto_apoio": "RELAÇÃO ENTRE PRODUÇÃO E ÁREA PLANTADA NO BRASIL 1980-2008",
+  "credito_texto": "Disponível em: http://www.ibge.gov.br. Acesso em: 20 jul. 2010.",
+  "imagens": [
+   {
+    "pg": 5,
+    "caixa": [
+     36,
+     582,
+     289,
+     770
+    ],
+    "foto": true
+   }
+  ],
+  "obs": "Texto compartilhado 'A partir do gráfico a seguir, responda às questões 11 e 12' (gráfico e crédito) não entrou; recortado da página 5."
+ },
+ "12": {
+  "texto_apoio": "RELAÇÃO ENTRE PRODUÇÃO E ÁREA PLANTADA NO BRASIL 1980-2008",
+  "credito_texto": "Disponível em: http://www.ibge.gov.br. Acesso em: 20 jul. 2010.",
+  "imagens": [
+   {
+    "pg": 5,
+    "caixa": [
+     36,
+     582,
+     289,
+     770
+    ],
+    "foto": true
+   }
+  ],
+  "alternativas": [
+   "O aumento do número de trabalhadores e menor necessidade de investimentos.",
+   "O progressivo direcionamento da produção de grãos para o mercado interno.",
+   "A introdução de novas técnicas e insumos agrícolas, como fertilizantes e sementes geneticamente modificadas.",
+   "A introdução de métodos de plantio orgânico, altamente produtivos, voltados para a exportação em larga escala.",
+   "O aumento no crédito rural voltado para a produção de grãos por camponeses da agricultura extensiva."
+  ],
+  "obs": "Idem Q11 (gráfico compartilhado) e 'paraa' na alternativa D."
+ },
+ "13": {
+  "texto_apoio": "Os últimos séculos marcam, para a atividade agrícola, com a humanização e a mecanização do espaço geográfico, uma considerável mudança em termos de produtividade: chegou-se, recentemente, à constituição de um meio técnico-científico-informacional, característico não apenas da vida urbana, mas também do mundo rural, tanto nos países avançados como nas regiões mais desenvolvidas dos países pobres.",
+  "alternativas": [
+   "introdução de tecnologia equilibrou o desenvolvimento econômico entre o campo ea cidade, refletindo diretamente na humanização do espaço geográfico nos países mais pobres.",
+   "tecnificação do espaço geográfico marca o modelo produtivo dos países ricos, uma vez que pretendem transferir gradativamente as unidades industriais para o espaço rural.",
+   "construção de uma infraestrutura científica e tecnológica promoveu um conjunto de relações que geraram novas interações socioespaciais entre o campo e a cidade.",
+   "aquisição de máquinas e implementos industriais, incorporados ao campo, proporcionou o aumento da produtividade, libertando o campo da subordinação à cidade.",
+   "incorporação de novos elementos produtivos oriundos da atividade rural resultou em uma relação com a cadeia produtiva industrial, subordinando a cidade ao campo."
+  ],
+  "obs": "Aspas espúrias do OCR (página 5)."
+ },
+ "21": {
+  "credito_texto": "MELODIA, Z.; RUSSO, N.; MADRUGADA, C. Sublime Pergaminho. Disponível em http://www.letras.terra.com.br. Acesso em: 28 abr. 2010.",
+  "obs": "Lixo de OCR (fonte sem Unicode) corrigido a partir da página 8."
+ },
+ "24": {
+  "alternativas": [
+   "defender a igualdade econômica, extinguindo a propriedade, conforme proposto nos movimentos liberais da França napoleônica.",
+   "introduzir no Brasil o pensamento e o ideário liberal que moveram os revolucionários ingleses na luta contra o absolutismo monárquico.",
+   "propor a instalação de um regime nos moldes da república dos Estados Unidos, sem alterar a ordem socioeconômica escravista e latifundiária.",
+   "apresentar um caráter elitista burguês, uma vez que sofrera influência direta da Revolução Francesa, propondo o sistema censitário de votação.",
+   "defender um governo democrático que garantisse a participação política das camadas populares, influenciado pelo ideário da Revolução Francesa."
+  ],
+  "imagens_alternativas": {},
+  "obs": "Alternativas C e D partidas (pedaço virou imagem); transcritas da página 9."
+ },
+ "37": {
+  "credito_texto": "VELOSO, C. In: HOLLANDA, H. B.; GONÇALVES, M. A. Cultura e participação nos anos 60. São Paulo: Brasiliense, 1995 (adaptado).",
+  "obs": "Lixo de OCR (fonte sem Unicode) corrigido a partir da página 12."
+ },
+ "44": {
+  "texto_apoio": "Alexandria começou a ser construída em 332 a.C., por Alexandre, o Grande, e, em poucos anos, tornou-se um polo de estudos sobre matemática, filosofia e ciência gregas. Meio século mais tarde, Ptolomeu II ergueu uma enorme biblioteca e um museu — que funcionou como centro de pesquisa. A biblioteca reuniu entre 200 mil e 500 mil papiros e, com o museu, transformou a cidade no maior núcleo intelectual da época, especialmente entre os anos 290 e 88 a.C. A partir de então, sofreu sucessivos ataques de romanos, cristãos e árabes, o que resultou na destruição ou perda de quase todo o seu acervo.",
+  "obs": "Lixo de OCR (fonte sem Unicode) corrigido a partir da página 14."
+ },
+ "52": {
+  "texto_apoio": "A tabela apresenta dados comparados de respostas de brasileiros, norte-americanos e europeus a perguntas relacionadas à compreensão de fatos científicos pelo público leigo. Após cada afirmativa, entre parênteses, aparece se a afirmativa é Falsa ou Verdadeira. Nas três colunas da direita aparecem os respectivos percentuais de acertos dos três grupos sobre essas afirmativas.\n\nPesquisa | % respostas certas: Brasileiros | Norte-americanos | Europeus\nOs antibióticos matam tanto vírus quanto bactérias. (Falsa) | 41,8 | 51,0 | 39,7\nOs continentes têm mudado sua posição no decorrer dos milênios. (Verdadeira) | 78,1 | 79,0 | 81,8\nO Homo sapiens originou-se a partir de uma espécie animal anterior. (Verdadeira) | 56,4 | 53,0 | 68,6\nOs elétrons são menores que os átomos. (Verdadeira) | 53,6 | 48,0 | 41,3\nOs primeiros homens viveram no mesmo período que os dinossauros. (Falsa) | 61,2 | 48,0 | 59,4",
+  "imagens": [],
+  "obs": "Tabela partida em texto e imagens; transcrita da página 17."
+ },
+ "56": {
+  "texto_apoio": "Alguns fatores podem alterar a rapidez das reações químicas. A seguir destacam-se três exemplos no contexto da preparação e da conservação de alimentos:\n\n1. A maioria dos produtos alimentícios se conserva por muito mais tempo quando submetidos à refrigeração. Esse procedimento diminui a rapidez das reações que contribuem para a degradação de certos alimentos.\n2. Um procedimento muito comum utilizado em práticas de culinária é o corte dos alimentos para acelerar o seu cozimento, caso não se tenha uma panela de pressão.\n3. Na preparação de iogurtes, adicionam-se ao leite bactérias produtoras de enzimas que aceleram as reações envolvendo açúcares e proteínas lácteas.",
+  "enunciado": "Com base no texto, quais são os fatores que influenciam a rapidez das transformações químicas relacionadas aos exemplos 1, 2 e 3, respectivamente?",
+  "imagens": [],
+  "obs": "Item 3 virou imagem e o texto saiu quebrado; transcrito da página 18."
+ },
+ "57": {
+  "texto_apoio": "Atualmente, existem inúmeras opções de celulares com telas sensíveis ao toque (touchscreen). Para decidir qual escolher, é bom conhecer as diferenças entre os principais tipos de telas sensíveis ao toque existentes no mercado. Existem dois sistemas básicos usados para reconhecer o toque de uma pessoa:\n\n• O primeiro sistema consiste de um painel de vidro\n\nnormal, recoberto por duas camadas afastadas por\n\nespaçadores. Uma camada resistente a riscos é\n\ncolocada por cima de todo o conjunto. Uma corrente\n\nelétrica passa através das duas camadas enquanto\n\na tela está operacional. Quando um usuário toca a\n\ntela, as duas camadas fazem contato exatamente\n\nnaquele ponto. A mudança no campo elétrico é\n\npercebida, e as coordenadas do ponto de contato\n\nsão calculadas pelo computador.\n\n• No segundo sistema, uma camada que armazena\n\ncarga elétrica é colocada no painel de vidro do monitor.\n\nQuando um usuário toca o monitor com seu dedo,\n\nparte da carga elétrica é transferida para o usuário, de\n\nmodo que a carga na camada que a armazena diminui.\n\nEsta redução é medida nos circuitos localizados em\n\ncada canto do monitor. Considerando as diferenças\n\nrelativas de carga em cada canto, o computador\n\ncalcula exatamente onde ocorreu o toque.",
+  "obs": "Marcadores de lista lidos como '£' (página 18)."
+ },
+ "62": {
+  "texto_apoio": "Às vezes, ao abrir um refrigerante, percebe-se que uma parte do produto vaza rapidamente pela extremidade do recipiente. A explicação para esse fato está relacionada à perturbação do equilíbrio químico existente entre alguns dos ingredientes do produto, de acordo com a equação:\n\nCO₂(g) + H₂O(l) ⇌ H₂CO₃(aq)",
+  "credito_texto": "",
+  "alternativas": [
+   "liberação de CO₂ para o ambiente.",
+   "elevação da temperatura do recipiente.",
+   "elevação da pressão interna no recipiente.",
+   "elevação da concentração de CO₂ no líquido.",
+   "formação de uma quantidade significativa de H₂O."
+  ],
+  "imagens": [],
+  "obs": "Equação salva como imagem, índice lido como crédito '(ag)' e H₂O como 'H,0'; transcrito da página 20."
+ },
+ "64": {
+  "alternativas": [
+   "1,0 e 3,0",
+   "2,0 e 1,0",
+   "2,0 e 1,5",
+   "2,0 e 3,0",
+   "10,0 e 30,0"
+  ],
+  "obs": "Alternativas A e D com lixo de OCR (página 21)."
+ },
+ "73": {
+  "texto_apoio": "Fator de emissão (carbon footprint) é um termo utilizado para expressar a quantidade de gases que contribuem para o aquecimento global, emitidos por uma fonte ou processo industrial específico. Pode-se pensar na quantidade de gases emitidos por uma indústria, uma cidade ou mesmo por uma pessoa. Para o gás CO₂, a relação pode ser escrita:\n\nFator de emissão de CO₂ = (Massa de CO₂ emitida) / (Quantidade de material)\n\nO termo “quantidade de material” pode ser, por exemplo, a massa de material produzido em uma indústria ou a quantidade de gasolina consumida por um carro em um determinado período.\n\nNo caso da produção do cimento, o primeiro passo é a obtenção do óxido de cálcio, a partir do aquecimento do calcário a altas temperaturas, de acordo com a reação:\n\nCaCO₃(s) → CaO(s) + CO₂(g)\n\nUma vez processada essa reação, outros compostos inorgânicos são adicionados ao óxido de cálcio, tendo o cimento formado 62% de CaO em sua composição.\n\nDados: Massas molares em g/mol — CO₂ = 44; CaCO₃ = 100; CaO = 56.",
+  "credito_texto": "TREPTOW, R. S. Journal of Chemical Education. v. 87 nº 2, fev. 2010 (adaptado).",
+  "enunciado": "Considerando as informações apresentadas no texto, qual é, aproximadamente, o fator de emissão de CO₂ quando 1 tonelada de cimento for produzida, levando-se em consideração apenas a etapa de obtenção do óxido de cálcio?",
+  "alternativas": [
+   "4,9 × 10⁻⁴",
+   "7,9 × 10⁻⁴",
+   "3,8 × 10⁻¹",
+   "4,9 × 10⁻¹",
+   "7,9 × 10⁻¹"
+  ],
+  "obs": "Fórmulas e potências de 10 com lixo de OCR; transcrito da página 24."
+ },
+ "75": {
+  "texto_apoio": "O pH do solo pode variar em uma faixa significativa devido a várias causas. Por exemplo, o solo de áreas com chuvas escassas, mas com concentrações elevadas do sal solúvel carbonato de sódio (Na₂CO₃), torna-se básico devido à reação de hidrólise do íon carbonato, segundo o equilíbrio:\n\nCO₃²⁻(aq) + H₂O(l) ⇌ HCO₃⁻(aq) + OH⁻(aq)\n\nEsses tipos de solos são alcalinos demais para fins agrícolas e devem ser remediados pela utilização de aditivos químicos.",
+  "credito_texto": "BAIRD, C. Química ambiental. São Paulo: Artmed, 1995 (adaptado).",
+  "obs": "Equação com lixo de OCR; transcrita da página 24."
+ },
+ "83": {
+  "texto_apoio": "O flúor é usado de forma ampla na prevenção de cáries. Por reagir com a hidroxiapatita [Ca₁₀(PO₄)₆(OH)₂] presente nos esmaltes dos dentes, o flúor forma a fluorapatita [Ca₁₀(PO₄)₆F₂], um mineral mais resistente ao ataque ácido decorrente da ação de bactérias específicas presentes nos açúcares das placas que aderem aos dentes.",
+  "enunciado": "A reação de dissolução da hidroxiapatita é:\n\n[Ca₁₀(PO₄)₆(OH)₂](s) + 8 H⁺(aq) → 10 Ca²⁺(aq) + 6 HPO₄²⁻(aq) + 2 H₂O(l)\n\nDados: Massas molares em g/mol — [Ca₁₀(PO₄)₆(OH)₂] = 1004; HPO₄²⁻ = 96; Ca = 40.\n\nSupondo-se que o esmalte dentário seja constituído exclusivamente por hidroxiapatita, o ataque ácido que dissolve completamente 1 mg desse material ocasiona a formação de, aproximadamente,",
+  "imagens": [],
+  "obs": "Fórmulas com índices perdidos e equação como imagem; transcrito da página 28."
+ },
+ "87": {
+  "texto_apoio": "Devido ao seu alto teor de sais, a água do mar é imprópria para o consumo humano e para a maioria dos usos da água doce. No entanto, para a indústria, a água do mar é de grande interesse, uma vez que os sais presentes podem servir de matérias-primas importantes para diversos processos. Nesse contexto, devido a sua simplicidade e ao seu baixo potencial de impacto ambiental, o método da precipitação fracionada tem sido utilizado para a obtenção dos sais presentes na água do mar.\n\nTabela 1: Solubilidade em água de alguns compostos presentes na água do mar a 25 °C",
+  "obs": "Símbolo de grau (página 29)."
+ }
+}

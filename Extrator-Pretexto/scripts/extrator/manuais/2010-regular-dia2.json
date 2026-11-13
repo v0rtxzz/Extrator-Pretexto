@@ -1,0 +1,67 @@
+{
+ "95-ingles": {
+  "texto_apoio": "",
+  "credito_texto": "Disponível em: http://www.meganbergdesigns.com/andrill/iceberg07/postcards/index.html. Acesso em: 29 jul. 2010 (adaptado).",
+  "alternativas": [
+   "comunicar o endereço da nova sede do projeto nos Estados Unidos.",
+   "convidar colecionadores de cartões-postais a se reunirem em um evento.",
+   "anunciar uma nova coleção de selos para angariar fundos para a Antártica.",
+   "divulgar às pessoas a possibilidade de receberem um cartão-postal da Antártica.",
+   "solicitar que as pessoas visitem o site do mencionado projeto com maior frequência."
+  ],
+  "imagens": [
+   {
+    "pg": 4,
+    "caixa": [
+     44,
+     486,
+     378,
+     762
+    ],
+    "foto": true
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "O cartão-postal (texto de apoio em imagem) foi fatiado entre as alternativas e o crédito caiu na E; transcrito da página 4."
+ },
+ "92-ingles": {
+  "texto_apoio": "Viva la Vida\n\nI used to rule the world\nSeas would rise when I gave the word\nNow in the morning and I sleep alone\nSweep the streets I used to own\n\nI used to roll the dice\nFeel the fear in my enemy’s eyes\nListen as the crowd would sing\n“Now the old king is dead! Long live the king!”\n\nOne minute I held the key\nNext the walls were closed on me\nAnd I discovered that my castles stand\nUpon pillars of salt and pillars of sand\n[…]",
+  "obs": "Recebia junto o texto compartilhado do espanhol (92-93 'Bilingüismo…'); fica só a letra da canção (página 3)."
+ },
+ "93-ingles": {
+  "texto_apoio": "THE WEATHER MAN\n\nThey say that the British love talking about the weather. For other nationalities this can be a banal and boring subject of conversation, something that people talk about when they have nothing else to say to each other. And yet the weather is a very important part of our lives. That at least is the opinion of Barry Gromett, press officer for The Met Office. This is located in Exeter, a pretty cathedral city in the southwest of England. Here employees – and computers – supply weather forecasts for much of the world.",
+  "obs": "Recebia junto o texto compartilhado do espanhol (92-93 'Bilingüismo…'); fica só o texto próprio (página 3)."
+ },
+ "167": {
+  "texto_apoio": "O gráfico apresenta a quantidade de gols marcados pelos artilheiros das Copas do Mundo desde a Copa de 1930 até a de 2006.\n\nQuantidades de Gols dos Artilheiros das Copas do Mundo",
+  "obs": "Quebras de linha do PDF no meio das frases; texto unido."
+ },
+ "121": {
+  "alternativas": [
+   "“A Academia (Brasileira de Letras) encara essa aprovação como um marco histórico. Inscreve-se, finalmente, a Língua Portuguesa no rol daquelas que conseguiram beneficiar-se há mais tempo da unificação de seu sistema de grafar, numa demonstração de consciência da política do idioma e de maturidade na defesa, difusão e ilustração da língua da Lusofonia.” SANDRONI, C. Presidente da ABL. Disponível em: http://www.academia.org.br. Acesso em: 10 nov. 2008.",
+   "“Acordo ortográfico? Não, obrigado. Sou contra. Visceralmente contra. Filosoficamente contra. Linguisticamente contra. Eu gosto do “c” do “actor” e o “p” de “cepticismo”. Representam um património, uma pegada etimológica que faz parte de uma identidade cultural. A pluralidade é um valor que deve ser estudado e respeitado. Aceitar essa aberração significa apenas que a irmandade entre Portugal e o Brasil continua a ser a irmandade do atraso.” COUTINHO, J. P. Folha de São Paulo. Ilustrada. 28 set. 2008, E1 (adaptado).",
+   "“Há um conjunto de necessidades políticas e econômicas com vista à internacionalização do português como identidade e marca econômica.” “É possível que o (Fernando) Pessoa, como produto de exportação, valha mais do que a PT (Portugal Telecom). Tem um valor econômico único.” RIBEIRO, J. A. P. Ministro da Cultura de Portugal. Disponível em: http://ultimahora.publico.clix.pt. Acesso em: 10 nov. 2008.",
+   "“É um acto cívico batermo-nos contra o Acordo Ortográfico.” “O acordo não leva a unidade nenhuma.” “Não se pode aplicar na ordem interna um instrumento que não está aceito internacionalmente” e nem assegura “a defesa da língua como património, como prevê a Constituição nos artigos 9º e 68º.” MOURA, V. G. Escritor e eurodeputado. Disponível em: www.mundoportugues.org. Acesso em: 10 nov. 2008.",
+   "“Se é para ter uma lusofonia, o conceito [unificação da língua] deve ser mais abrangente e temos de estar em paridade. Unidade não significa que temos que andar todos ao mesmo passo. Não é necessário que nos tornemos homogéneos. Até porque o que enriquece a língua portuguesa são as diversas literaturas e formas de utilização.” RODRIGUES, M. H. Presidente do Instituto Português do Oriente, sediado em Macau. Disponível em: http://taichungpou.blogspot.com. Acesso em: 10 nov. 2008 (adaptado)."
+  ],
+  "obs": "Alternativa B misturada com o crédito em letra pequena e texto oculto; crédito da E faltando. Transcrito da página 15."
+ },
+ "146": {
+  "credito_texto": "",
+  "obs": "Crédito era lixo do texto oculto 'MT - PROVA I' da página."
+ },
+ "148": {
+  "texto_apoio": "O gráfico a seguir apresenta o gasto militar dos Estados Unidos, no período de 1988 a 2006.",
+  "obs": "Lixo do texto oculto 'MT - PROVA I' no texto de apoio."
+ },
+ "150": {
+  "alternativas": [
+   "o dobro do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+   "maior do que o valor da primeira encomenda, mas não o dobro.",
+   "a metade do valor da primeira encomenda, porque a altura e a largura dos quadros dobraram.",
+   "menor do que o valor da primeira encomenda, mas não a metade.",
+   "igual ao valor da primeira encomenda, porque o custo de entrega será o mesmo."
+  ],
+  "obs": "Algarismo do texto oculto da página dentro da alternativa D."
+ }
+}
