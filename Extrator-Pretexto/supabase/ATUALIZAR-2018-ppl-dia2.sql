@@ -1742,13 +1742,9 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2018-ppl-d2-q175', 175, 'matematica', 2018, 'ppl', null, 'Ao acessar uma página da internet, que trata da pesquisa de assuntos de interesse juvenil, encontramos a figura:
 
-MANGÁS FÉ MÚSICA
-
-LIVROS ESPORTES A M OR DANÇA NOVELAS ESCOLA TEATRO CINEMA PAZ AMIZADE RELIGIÃO TRABALHO POLÍTICAFAMÍLIA LIBERDADESEXO BALADAS HQ
-
 Sabe-se que nesse tipo de comunicação visual, comum em páginas da internet, o tamanho das letras está diretamente associado ao número de vezes que o assunto ou termo foi pesquisado ou lido naquela página. Dessa forma, quanto maior o tamanho das letras de cada palavra, maior será o número de vezes que esse tema foi pesquisado.
 
-De acordo com a figura, quais são, em ordem decrescente, os três assuntos que mais interessaram às pessoas que acessaram a página citada?', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["HQ, FÉ, PAZ.", "MANGÁS, FÉ, LIVROS.", "MÚSICA, BALADAS, AMOR.", "AMOR, MÚSICA, BALADAS.", "AMOR, BALADAS, MÚSICA."]'::jsonb, 'E', false, null)
+De acordo com a figura, quais são, em ordem decrescente, os três assuntos que mais interessaram às pessoas que acessaram a página citada?', null, null, '/questoes/2018/ppl/dia2/enem-2018-ppl-d2-q175-apoio-m01.png', ARRAY['/questoes/2018/ppl/dia2/enem-2018-ppl-d2-q175-apoio-m01.png']::text[], '{}'::jsonb, '["HQ, FÉ, PAZ.", "MANGÁS, FÉ, LIVROS.", "MÚSICA, BALADAS, AMOR.", "AMOR, MÚSICA, BALADAS.", "AMOR, BALADAS, MÚSICA."]'::jsonb, 'E', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

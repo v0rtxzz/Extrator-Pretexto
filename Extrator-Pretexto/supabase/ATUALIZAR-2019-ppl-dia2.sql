@@ -1321,15 +1321,9 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2019-ppl-d2-q153', 153, 'matematica', 2019, 'ppl', null, 'A unidade de medida utilizada para anunciar o tamanho das telas de televisores no Brasil é a polegada, que corresponde a 2,54 cm. Diferentemente do que muitos imaginam, dizer que a tela de uma TV tem X polegadas significa que a diagonal do retângulo que representa sua tela mede X polegadas, conforme ilustração.
 
-X
-
-A
-
-C
-
 O administrador de um museu recebeu uma TV convencional de 20 polegadas, que tem como razão do comprimento (C) pela altura (A) a proporção 4 : 3, e precisa calcular o comprimento (C) dessa TV a fim de colocá-la em uma estante para exposição.
 
-A tela dessa TV tem medida do comprimento C, em centímetro, igual a', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["12,00.", "16,00.", "30,48.", "40,64.", "50,80."]'::jsonb, 'D', false, null)
+A tela dessa TV tem medida do comprimento C, em centímetro, igual a', null, null, '/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q153-apoio-m01.png', ARRAY['/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q153-apoio-m01.png']::text[], '{}'::jsonb, '["12,00.", "16,00.", "30,48.", "40,64.", "50,80."]'::jsonb, 'D', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

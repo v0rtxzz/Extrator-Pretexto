@@ -1000,20 +1000,9 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2016-regular-d1-q53', 53, 'natureza', 2016, 'regular', null, 'O esquema representa, de maneira simplificada, o
-processo de produção de etanol utilizando milho como
-matéria-prima.
-Levedura
+values ('enem-2016-regular-d1-q53', 53, 'natureza', 2016, 'regular', null, 'O esquema representa, de maneira simplificada, o processo de produção de etanol utilizando milho como matéria-prima.
 
-CO₂
-
-Milho Etanol
-
-Água
-Hidrólise Fermentação
-
-A etapa de hidrólise na produção de etanol a partir do
-milho é fundamental para que', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["a glicose seja convertida em sacarose.", "as enzimas dessa planta sejam ativadas.", "a maceração favoreça a solubilização em água.", "o amido seja transformado em substratos utilizáveis pela levedura.", "os grãos com diferentes composições químicas sejam padronizados."]'::jsonb, 'D', false, null)
+A etapa de hidrólise na produção de etanol a partir do milho é fundamental para que', null, null, '/questoes/2016/regular/dia1/enem-2016-regular-d1-q53-apoio-m01.png', ARRAY['/questoes/2016/regular/dia1/enem-2016-regular-d1-q53-apoio-m01.png']::text[], '{}'::jsonb, '["a glicose seja convertida em sacarose.", "as enzimas dessa planta sejam ativadas.", "a maceração favoreça a solubilização em água.", "o amido seja transformado em substratos utilizáveis pela levedura.", "os grãos com diferentes composições químicas sejam padronizados."]'::jsonb, 'D', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

@@ -905,15 +905,7 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2014-terceira-d1-q49', 49, 'natureza', 2014, 'terceira', null, 'Para que haja a levitação indicada na figura, a força que equilibra o peso do objeto deve ser decorrente da', 'O fenômeno da levitação de corpos ocorre, na Terra, quando a força gravitacional é equilibrada, fazendo com que um objeto paire no ar. O som pode fazer objetos levitarem, fenômeno chamado de levitação acústica. Um levitador acústico deve conter um transdutor, que é uma superfície vibratória que emite o som, e um refletor. Ambos têm superfícies côncavas para focalizar o som, conforme a ilustração:
-
-Refletor
-
-gravidade
-
-Objeto em levitação
-
-Transdutor', 'Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 28 fev.2012 (adaptado).', null, ARRAY[]::text[], '{}'::jsonb, '["ação mecânica direta do transdutor sobre o objeto.", "ressonância que ocorre entre a onda sonora e o objeto.", "pressão que o som emitido pelo transdutor aplica no objeto.", "interferência destrutiva do som que anula o movimento do objeto.", "diferença de pressão dos sons emitido e refletido aplicada no objeto."]'::jsonb, 'E', false, null)
+values ('enem-2014-terceira-d1-q49', 49, 'natureza', 2014, 'terceira', null, 'Para que haja a levitação indicada na figura, a força que equilibra o peso do objeto deve ser decorrente da', 'O fenômeno da levitação de corpos ocorre, na Terra, quando a força gravitacional é equilibrada, fazendo com que um objeto paire no ar. O som pode fazer objetos levitarem, fenômeno chamado de levitação acústica. Um levitador acústico deve conter um transdutor, que é uma superfície vibratória que emite o som, e um refletor. Ambos têm superfícies côncavas para focalizar o som, conforme a ilustração:', 'Disponível em: http://ciencia.hsw.uol.com.br. Acesso em: 28 fev.2012 (adaptado).', '/questoes/2014/terceira/dia1/enem-2014-terceira-d1-q49-apoio-m01.png', ARRAY['/questoes/2014/terceira/dia1/enem-2014-terceira-d1-q49-apoio-m01.png']::text[], '{}'::jsonb, '["ação mecânica direta do transdutor sobre o objeto.", "ressonância que ocorre entre a onda sonora e o objeto.", "pressão que o som emitido pelo transdutor aplica no objeto.", "interferência destrutiva do som que anula o movimento do objeto.", "diferença de pressão dos sons emitido e refletido aplicada no objeto."]'::jsonb, 'E', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

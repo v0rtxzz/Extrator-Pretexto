@@ -1913,11 +1913,9 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2016-segunda-d2-q170', 170, 'matematica', 2016, 'segunda', null, 'Em um trabalho escolar, João foi convidado a calcular as áreas de vários quadrados diferentes, dispostos em sequência, da esquerda para a direita, como mostra a figura.
 
-1 2 3 4 5 6
-
 O primeiro quadrado da sequência tem lado medindo 1 cm, o segundo quadrado tem lado medindo 2 cm, o terceiro quadrado tem lado medindo 3 cm e assim por diante. O objetivo do trabalho é identificar em quanto a área de cada quadrado da sequência excede a área do quadrado anterior. A área do quadrado que ocupa a posição n, na sequência, foi representada por Aₙ.
 
-Para n ≥ 2, o valor da diferença Aₙ − Aₙ₋₁, em centímetro quadrado, é igual a', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["2n − 1", "2n + 1", "−2n + 1", "(n − 1)²", "n² − 1"]'::jsonb, 'A', false, null)
+Para n ≥ 2, o valor da diferença Aₙ − Aₙ₋₁, em centímetro quadrado, é igual a', null, null, '/questoes/2016/segunda/dia2/enem-2016-segunda-d2-q170-apoio-m01.png', ARRAY['/questoes/2016/segunda/dia2/enem-2016-segunda-d2-q170-apoio-m01.png']::text[], '{}'::jsonb, '["2n − 1", "2n + 1", "−2n + 1", "(n − 1)²", "n² − 1"]'::jsonb, 'A', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

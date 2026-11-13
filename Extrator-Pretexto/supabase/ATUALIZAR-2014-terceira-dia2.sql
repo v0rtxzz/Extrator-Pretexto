@@ -1520,7 +1520,7 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2014-terceira-d2-q154', 154, 'matematica', 2014, 'terceira', null, 'Um jogo entre dois jogadores tem as seguintes regras: (a) o primeiro jogador pensa em uma forma geométrica, desenha apenas uma parte da forma e fornece uma dica para que o segundo jogador termine o desenho; (b) se o segundo jogador conseguir concluir o desenho, ganha um ponto; caso contrário, quem ganha um ponto é o primeiro jogador. Dois amigos, Alberto e Dora, estão jogando o referido jogo. Alberto desenhou a figura a seguir e deu a seguinte dica a Dora: “a forma em que pensei é a planificação de um prisma reto”.
 
-Dora completou o desenho com', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["um pentágono e um retângulo.", "um pentágono e quatro retângulos.", "um pentágono e cinco retângulos.", "dois pentágonos e quatro retângulos.", "dois pentágonos e cinco retângulos."]'::jsonb, 'C', false, null)
+Dora completou o desenho com', null, null, '/questoes/2014/terceira/dia2/enem-2014-terceira-d2-q154-apoio-m01.png', ARRAY['/questoes/2014/terceira/dia2/enem-2014-terceira-d2-q154-apoio-m01.png']::text[], '{}'::jsonb, '["um pentágono e um retângulo.", "um pentágono e quatro retângulos.", "um pentágono e cinco retângulos.", "dois pentágonos e quatro retângulos.", "dois pentágonos e cinco retângulos."]'::jsonb, 'C', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

@@ -1480,11 +1480,7 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2015-regular-d1-q77', 77, 'natureza', 2015, 'regular', null, 'Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o', 'Hidrocarbonetos podem ser obtidos em laboratório por descarboxilação oxidativa anódica, processo conhecido como eletrossíntese de Kolbe. Essa reação é utilizada na síntese de hidrocarbonetos diversos, a partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substituição aos hidrocarbonetos fósseis. O esquema ilustra simplificadamente esse processo.
-
-OH 2 eletrólise/KOH + 2 CO₂
-
-O metanol', 'AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. Química Nova, n. 2, 1997 (adaptado).', null, ARRAY[]::text[], '{}'::jsonb, '["2,2,7,7-tetrametil-octano.", "3,3,4,4-tetrametil-hexano.", "2,2,5,5-tetrametil-hexano.", "3,3,6,6-tetrametil-octano.", "2,2,4,4-tetrametil-hexano."]'::jsonb, 'C', false, null)
+values ('enem-2015-regular-d1-q77', 77, 'natureza', 2015, 'regular', null, 'Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o', 'Hidrocarbonetos podem ser obtidos em laboratório por descarboxilação oxidativa anódica, processo conhecido como eletrossíntese de Kolbe. Essa reação é utilizada na síntese de hidrocarbonetos diversos, a partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substituição aos hidrocarbonetos fósseis. O esquema ilustra simplificadamente esse processo.', 'AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. Química Nova, n. 2, 1997 (adaptado).', '/questoes/2015/regular/dia1/enem-2015-regular-d1-q77-apoio-m01.png', ARRAY['/questoes/2015/regular/dia1/enem-2015-regular-d1-q77-apoio-m01.png']::text[], '{}'::jsonb, '["2,2,7,7-tetrametil-octano.", "3,3,4,4-tetrametil-hexano.", "2,2,5,5-tetrametil-hexano.", "3,3,6,6-tetrametil-octano.", "2,2,4,4-tetrametil-hexano."]'::jsonb, 'C', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

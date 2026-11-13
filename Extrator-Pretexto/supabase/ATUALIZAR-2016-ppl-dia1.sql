@@ -1634,9 +1634,7 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2016-ppl-d1-q85', 85, 'natureza', 2016, 'ppl', null, 'Após a análise das bandas de DNA, pode-se concluir que o pai biológico do garoto é o', 'Para verificar a eficácia do teste de DNA na determinação de paternidade, cinco voluntários, dentre eles o pai biológico de um garoto, cederam amostras biológicas para a realização desse teste. A figura mostra o resultado obtido após a identificação dos fragmentos de DNA de cada um deles.
-
-Garoto Mãe 1º 2º 3º 4º 5º', 'OLIVEIRA, F. B.; SILVEIRA, R. M. V. O teste de DNA na sala de aula: é possível ensinar biologia a partir de temas atuais. Revista Genética na Escola, abr. 2010.', null, ARRAY[]::text[], '{}'::jsonb, '["1° voluntário.", "2° voluntário.", "3° voluntário.", "4° voluntário.", "5° voluntário."]'::jsonb, 'D', false, null)
+values ('enem-2016-ppl-d1-q85', 85, 'natureza', 2016, 'ppl', null, 'Após a análise das bandas de DNA, pode-se concluir que o pai biológico do garoto é o', 'Para verificar a eficácia do teste de DNA na determinação de paternidade, cinco voluntários, dentre eles o pai biológico de um garoto, cederam amostras biológicas para a realização desse teste. A figura mostra o resultado obtido após a identificação dos fragmentos de DNA de cada um deles.', 'OLIVEIRA, F. B.; SILVEIRA, R. M. V. O teste de DNA na sala de aula: é possível ensinar biologia a partir de temas atuais. Revista Genética na Escola, abr. 2010.', '/questoes/2016/ppl/dia1/enem-2016-ppl-d1-q85-apoio-m01.png', ARRAY['/questoes/2016/ppl/dia1/enem-2016-ppl-d1-q85-apoio-m01.png']::text[], '{}'::jsonb, '["1° voluntário.", "2° voluntário.", "3° voluntário.", "4° voluntário.", "5° voluntário."]'::jsonb, 'D', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

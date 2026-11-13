@@ -1319,7 +1319,7 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2013-regular-d1-q70', 70, 'natureza', 2013, 'regular', null, 'Que casal pode ser considerado como pais biológicos do bebê?', 'Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.', 'Bebê 1/(Pai Mãe) 2 3 4 5/(Pai Mãe) Pai Mãe Pai Mãe Pai Mãe', null, ARRAY[]::text[], '{}'::jsonb, '["1", "2", "3", "4", "5"]'::jsonb, 'C', false, null)
+values ('enem-2013-regular-d1-q70', 70, 'natureza', 2013, 'regular', null, 'Que casal pode ser considerado como pais biológicos do bebê?', 'Cinco casais alegavam ser os pais de um bebê. A confirmação da paternidade foi obtida pelo exame de DNA. O resultado do teste está esquematizado na figura, em que cada casal apresenta um padrão com duas bandas de DNA (faixas, uma para o suposto pai e outra para a suposta mãe), comparadas à do bebê.', null, '/questoes/2013/regular/dia1/enem-2013-regular-d1-q70-apoio-m01.png', ARRAY['/questoes/2013/regular/dia1/enem-2013-regular-d1-q70-apoio-m01.png']::text[], '{}'::jsonb, '["1", "2", "3", "4", "5"]'::jsonb, 'C', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

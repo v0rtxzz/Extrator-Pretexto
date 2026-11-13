@@ -587,13 +587,9 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2017-ppl-d2-q117', 117, 'natureza', 2017, 'ppl', null, 'Um estudante construiu um densímetro, esquematizado na figura, utilizando um canudinho e massa de modelar. O instrumento foi calibrado com duas marcas de flutuação, utilizando água (marca A) e etanol (marca B) como referências.
 
-B
-
-A
-
 Em seguida, o densímetro foi usado para avaliar cinco amostras: vinagre, leite integral, gasolina (sem álcool anidro), soro fisiológico e álcool comercial (92,8 °GL).
 
-Que amostra apresentará marca de flutuação entre os limites A e B?', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["Vinagre.", "Gasolina.", "Leite integral.", "Soro fisiológico.", "Álcool comercial."]'::jsonb, 'E', false, null)
+Que amostra apresentará marca de flutuação entre os limites A e B?', null, null, '/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q117-apoio-m01.png', ARRAY['/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q117-apoio-m01.png']::text[], '{}'::jsonb, '["Vinagre.", "Gasolina.", "Leite integral.", "Soro fisiológico.", "Álcool comercial."]'::jsonb, 'E', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,
@@ -818,9 +814,7 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2017-ppl-d2-q128', 128, 'natureza', 2017, 'ppl', null, 'Em algumas regiões brasileiras, é comum se encontrar um animal com odor característico, o zorrilho. Esse odor serve para a proteção desse animal, afastando seus predadores. Um dos feromônios responsáveis por esse odor é uma substância que apresenta isomeria trans e um grupo tiol ligado à sua cadeia.
 
-A estrutura desse feromônio, que ajuda na proteção do zorrilho, é
-
-H CH₃', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["C C H CH₂ SH H₃C H", "C C H CH₂ SH H H", "C C H₃C CH₂ SH H CH₃", "C C H S CH₃ H H", "C C"]'::jsonb, 'B', false, null)
+A estrutura desse feromônio, que ajuda na proteção do zorrilho, é', null, null, null, ARRAY[]::text[], '{"A": ["/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q128-alt-A-m01.png"], "B": ["/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q128-alt-B-m01.png"], "C": ["/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q128-alt-C-m01.png"], "D": ["/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q128-alt-D-m01.png"], "E": ["/questoes/2017/ppl/dia2/enem-2017-ppl-d2-q128-alt-E-m01.png"]}'::jsonb, '["", "", "", "", ""]'::jsonb, 'B', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,
