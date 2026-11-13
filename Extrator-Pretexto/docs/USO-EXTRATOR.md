@@ -27,12 +27,12 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 | 2014 | `v2014` | 6 | 555 | 4 | 274 |
 | 2013 | `v2013` | 4 | 370 | 2 | 188 |
 | 2012 | `v2012` | 4 | 370 | 2 | 228 |
-| 2011 | `v2011` | 2 | 185 | 0 | 98 |
-| 2010 | `v2010` | 2 | 185 | 54 | 99 |
+| 2011 | `v2011` | 4 | 370 | 6 | 200 |
+| 2010 | `v2010` | 3 | 280 | 54 | 160 |
 | 2009 | `v2009` | 2 | 180 | 4 | 101 |
-| **Total** | | **77** | **7095** | **337** | **4031** |
+| **Total** | | **80** | **7375** | **343** | **4194** |
 
-Correções manuais (extração assistida) ficam em `scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json` e são aplicadas pelo extrator a cada execução. Sem gabarito oficial no repositório: 2011 PPL (não processada).
+Correções manuais (extração assistida) ficam em `scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json` e são aplicadas pelo extrator a cada execução. O gabarito do 2011 PPL (2ª aplicação) foi incluído em `provas/2011/ppl/`.
 <!-- /ESTADO-POR-ANO -->
 
 ## 1) Preparar o ambiente

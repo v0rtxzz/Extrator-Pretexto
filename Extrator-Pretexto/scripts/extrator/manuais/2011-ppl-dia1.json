@@ -1,0 +1,83 @@
+{
+ "85": {
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 29,
+     "caixa": [
+      338.0,
+      498.5,
+      426.0,
+      512.0
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 29,
+     "caixa": [
+      338.0,
+      541.0,
+      379.5,
+      577.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 29,
+     "caixa": [
+      338.0,
+      595.0,
+      402.0,
+      631.5
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 29,
+     "caixa": [
+      338.0,
+      649.0,
+      407.5,
+      685.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 29,
+     "caixa": [
+      338.0,
+      703.0,
+      407.5,
+      739.5
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas desenhadas (vetores)",
+  "materia": "natureza",
+  "texto_apoio": "A força de atrito é uma força que depende do contato entre corpos. Pode ser definida como uma força de oposição à tendência de deslocamento dos corpos e é gerada devido a irregularidades entre duas superfícies em contato. Na figura, as setas representam forças que atuam no corpo e o ponto ampliado representa as irregularidades que existem entre as duas superfícies.",
+  "enunciado": "Na figura, os vetores que representam as forças que provocam o deslocamento e o atrito são, respectivamente:",
+  "imagens": [
+   {
+    "pg": 29,
+    "caixa": [
+     318,
+     261,
+     564,
+     416
+    ]
+   }
+  ]
+ }
+}

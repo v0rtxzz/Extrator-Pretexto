@@ -62,9 +62,7 @@ Todas as provas devem sair como `igual à foto`.
 
 ## Pendências conhecidas
 
-- **2011 PPL:** não há gabarito no repositório e o caderno não tem resposta marcada. É preciso baixar o gabarito do
-  INEP e salvar como `provas/2011/ppl/diaN-gabarito.pdf`.
-- **Cobertura:** 75 provas gravadas (2009, 2011–2025), 6 910 questões. 283 delas têm correção manual (extração
+- **Cobertura:** todas as provas de 2009 a 2025 gravadas, inclusive 2011 PPL (gabarito da 2ª aplicação incluído). 283 delas têm correção manual (extração
   assistida) em `scripts/extrator/manuais/*.json`, aplicada automaticamente pelo extrator. Veja a tabela "Estado por
   ano" em `docs/USO-EXTRATOR.md`.
 - **2010:** regular gravado; PPL (gabarito transcrito do caderno, texto por OCR) gravado por último.

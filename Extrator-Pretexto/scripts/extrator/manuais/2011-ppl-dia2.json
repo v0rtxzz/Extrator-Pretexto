@@ -1,0 +1,212 @@
+{
+ "139": {
+  "alternativas": [
+   "Do carvão para a energia nuclear.",
+   "Do carvão para o petróleo.",
+   "Da lenha para a energia nuclear.",
+   "Da lenha para o petróleo.",
+   "Da lenha para o carvão."
+  ],
+  "obs": "alternativas em letra miúda não reconhecidas",
+  "materia": "matematica",
+  "texto_apoio": "Durante o século XX, a principal fonte primária de geração de energia, isto é, a principal fonte de energia do Brasil, foi alterada.\n\nVeja no gráfico, em termos percentuais, a quantidade de energia gerada a partir de cada uma das fontes primárias:",
+  "credito_texto": "Almanaque Abril 2010. São Paulo: Abril, 2010.",
+  "enunciado": "Com base no gráfico, essa troca da principal fonte primária de geração de energia ocorreu entre quais fontes?",
+  "imagens": [
+   {
+    "pg": 21,
+    "caixa": [
+     319,
+     527,
+     572,
+     686
+    ]
+   }
+  ]
+ },
+ "159": {
+  "alternativas": [
+   "261/3 114, o que mostra que Antônio tem mais chances de acertar.",
+   "783/1 038, o que mostra que Antônio tem mais chances de acertar.",
+   "1 038/261, o que mostra que José tem mais chances de acertar.",
+   "3 114/261, o que mostra que Antônio tem mais chances de acertar.",
+   "3 114/261, o que mostra que José tem mais chances de acertar."
+  ],
+  "obs": "frações das alternativas perdidas"
+ },
+ "167": {
+  "materia": "matematica",
+  "texto_apoio": "As fábricas de pneus utilizam-se de modelos matemáticos próprios em sua produção, para a adaptação dos vários tipos de pneus aos veículos: de bicicletas a caminhões, tratores e aviões. Um dos conceitos utilizados pela indústria é o de “índice de carga”, que está relacionado à carga máxima que pode ser suportada por um pneu. Uma empresa fabricante de pneus apresenta o seguinte quadro, relativo às cargas máximas suportadas por pneus cujos índices variam de 70 a 80. Há um comportamento regular em alguns intervalos, como se observa entre os índices de 70 a 74.",
+  "credito_texto": "Disponível em: http://www.goodyear.com.br. Acesso em: 27 abr. 2010 (adaptado).",
+  "enunciado": "Qual equação representa a dependência entre o índice de carga (I) e a carga máxima (C), em kg, no intervalo de 70 a 74?",
+  "alternativas": [
+   "I = C/10 − 70",
+   "I = C/10 + 36,5",
+   "I = C/10 − 328",
+   "I = 10C − 3 280",
+   "I = 10C − 70"
+  ],
+  "imagens": [
+   {
+    "pg": 28,
+    "caixa": [
+     60,
+     613,
+     298,
+     751
+    ]
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas com fração lidas como figura; transcritas do PDF"
+ },
+ "153": {
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 24,
+     "caixa": [
+      330,
+      324,
+      437.5,
+      407
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 24,
+     "caixa": [
+      330,
+      437,
+      433.5,
+      519.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 24,
+     "caixa": [
+      330,
+      544.5,
+      441,
+      643.5
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 24,
+     "caixa": [
+      455,
+      328.5,
+      553,
+      407
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 24,
+     "caixa": [
+      455,
+      429,
+      567.5,
+      519
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas em gráfico (grade A D / B E / C)",
+  "materia": "matematica",
+  "texto_apoio": "O equilíbrio na conta dos saltos\n\nA expressão desenvolvida por cientistas ingleses relaciona as variáveis que influem na altura dos sapatos femininos. Tal expressão é dada por A = Q × (12 + 3T/8), onde A é a altura do salto, Q é um coeficiente e T o tamanho do sapato. O coeficiente Q depende de diversas variáveis, entre as quais, o impacto que o salto deve provocar nas pessoas que o vejam em uso, que pode valer de zero a 1.",
+  "credito_texto": "Disponível em: http://revistaescola.abril.com.br. Acesso em: abr. 2010 (adaptado).",
+  "enunciado": "Júlia construiu corretamente o gráfico que revela o desenvolvimento da função citada no texto, considerando o coeficiente Q = 1.\n\nDos gráficos apresentados, fora de escala, qual foi o construído por Júlia?",
+  "imagens": []
+ },
+ "180": {
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 31,
+     "caixa": [
+      336,
+      296.5,
+      522,
+      374.5
+     ],
+     "foto": true
+    }
+   ],
+   "B": [
+    {
+     "pg": 31,
+     "caixa": [
+      336,
+      389,
+      522,
+      469.5
+     ],
+     "foto": true
+    }
+   ],
+   "C": [
+    {
+     "pg": 31,
+     "caixa": [
+      336,
+      479.5,
+      522,
+      571
+     ],
+     "foto": true
+    }
+   ],
+   "D": [
+    {
+     "pg": 31,
+     "caixa": [
+      336,
+      576.5,
+      522,
+      658.5
+     ],
+     "foto": true
+    }
+   ],
+   "E": [
+    {
+     "pg": 31,
+     "caixa": [
+      336,
+      671.5,
+      522,
+      747.5
+     ],
+     "foto": true
+    }
+   ]
+  },
+  "obs": "cinco gráficos num único bitmap, divididos pelas faixas em branco",
+  "materia": "matematica",
+  "texto_apoio": "De acordo com os números divulgados pela Agência Nacional de Telecomunicações (Anatel), já há no país 91 celulares em cada grupo de 100 pessoas. Entre as várias operadoras existentes, uma propõe o seguinte plano aos seus clientes: R$ 25,00 mensais para até 40 minutos de conversação mensal e R$ 1,00 por minuto que exceda o tempo estipulado.",
+  "credito_texto": "Disponível em: http://www.economia.ig.com.br. Acesso em: 28 abr. 2010 (adaptado).",
+  "enunciado": "Qual dos gráficos a seguir corresponde aos possíveis gastos mensais (y), em reais, de um cliente dessa operadora de celular, em função do tempo (x) utilizado, em minutos?",
+  "imagens": []
+ }
+}
