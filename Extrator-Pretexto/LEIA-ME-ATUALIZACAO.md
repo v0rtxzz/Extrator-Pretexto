@@ -62,10 +62,10 @@ Todas as provas devem sair como `igual à foto`.
 
 ## Pendências conhecidas
 
-- **Cobertura:** todas as provas de 2009 a 2025 gravadas, inclusive 2011 PPL (gabarito da 2ª aplicação incluído). 283 delas têm correção manual (extração
-  assistida) em `scripts/extrator/manuais/*.json`, aplicada automaticamente pelo extrator. Veja a tabela "Estado por
-  ano" em `docs/USO-EXTRATOR.md`.
-- **2010:** regular gravado; PPL (gabarito transcrito do caderno, texto por OCR) gravado por último.
+- **Cobertura:** todas as provas de 2009 a 2025 gravadas (81 provas, 7 465 questões, inclusive 2010 e 2011 PPL). 343 questões têm
+  correção manual (extração assistida) em `scripts/extrator/manuais/*.json`, aplicada automaticamente pelo extrator.
+  Veja a tabela "Estado por ano" em `docs/USO-EXTRATOR.md`.
+- **2010:** gabarito do PPL transcrito do caderno (letra circulada); texto lido por OCR.
 - **Carga no banco:** os SQLs agora **sobrescrevem** texto de apoio, crédito e imagens (só a explicação por IA é
   preservada). Rode-os de novo mesmo nas provas que já estavam carregadas, para limpar imagens e créditos errados.
 - **Gabarito público:** o gabarito e a explicação podem ser lidos com a chave pública do Supabase (`anon`). Se o app
