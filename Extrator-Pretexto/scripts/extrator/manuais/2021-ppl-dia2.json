@@ -160,5 +160,10 @@
    ]
   },
   "obs": "alternativas são 5 desenhos (A-C numa coluna, D-E na outra); o extrator achou só 3. Texto transcrito; prisma e alternativas recortados por caixa."
+ },
+ "119": {
+  "texto_apoio": "A balança de braços iguais (balança A) faz a medição por meio da comparação com massas de referência colocadas em um dos pratos. A balança de plataforma (balança B) determina a massa indiretamente pela força de compressão aplicada pelo corpo sobre a plataforma.\n\nAs balanças A e B são usadas para determinar a massa de um mesmo corpo. O procedimento de medição de calibração foi conduzido em um local da superfície terrestre e forneceu o valor de 5,0 kg para ambas as balanças. O mesmo procedimento de medição é conduzido para esse corpo em duas situações.\n\nSituação 1: superfície lunar, onde o módulo da aceleração da gravidade é 1,6 m/s². A balança A forneceu o valor m₁, e a balança B forneceu o valor m₂.\n\nSituação 2: interior de um elevador subindo com aceleração constante de módulo 2 m/s², próximo à superfície da Terra. A balança A forneceu o valor m₃, e a balança B forneceu o valor m₄.",
+  "credito_texto": "Disponível em: http://fisica.tubalivre.com. Acesso em: 23 nov. 2013 (adaptado).",
+  "obs": "o crédito, em fonte pequena e colado ao índice de m₄, foi lido como subscrito: o fim do texto de apoio foi parar no crédito, embaralhado. Corrigido conforme o PDF."
  }
 }
