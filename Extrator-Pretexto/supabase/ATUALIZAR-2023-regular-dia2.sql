@@ -1670,21 +1670,11 @@ values ('enem-2023-regular-d2-q169', 169, 'matematica', 2023, 'regular', null, '
 decresce com o aumento da profundidade em um rio,
 sendo L₀ a intensidade na sua superfície.
 
-Profundidade Intensidade luminosa
-
-0 m L₀
-
-1 m 2/3L₀
-
-2 m 4/9L₀
-
-3 m 8/27L₀
-
 Considere que a intensidade luminosa diminui, a cada
 metro acrescido na profundidade, segundo o mesmo
 padrão do esquema.
 A intensidade luminosa correspondente à profundidade
-de 6 m é igual a', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["1/9L₀", "16/27L₀", "32/243L₀", "64/729L₀", "128/2187L₀"]'::jsonb, 'D', false, null)
+de 6 m é igual a', null, null, '/questoes/2023/regular/dia2/enem-2023-regular-d2-q169-apoio-m01.png', ARRAY['/questoes/2023/regular/dia2/enem-2023-regular-d2-q169-apoio-m01.png']::text[], '{}'::jsonb, '["1/9L₀", "16/27L₀", "32/243L₀", "64/729L₀", "128/2187L₀"]'::jsonb, 'D', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

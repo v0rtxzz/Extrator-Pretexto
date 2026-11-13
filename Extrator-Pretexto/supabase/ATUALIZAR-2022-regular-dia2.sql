@@ -1534,7 +1534,7 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2022-regular-d2-q159', 159, 'matematica', 2022, 'regular', null, 'Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:
 
-A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições. A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["T₃ R T₄ R R T₅ R.", "R T₃ R T₄ R R T₅.", "R T₄ R R T₅ R T₁", "R R T₅ R T₁ R R.", "R T₅ R T₁ R R T₂."]'::jsonb, 'B', false, null)
+A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições. A sequência de treinamentos que o atleta realizará na 24ª semana de treinos é', null, null, '/questoes/2022/regular/dia2/enem-2022-regular-d2-q159-apoio-m01.png', ARRAY['/questoes/2022/regular/dia2/enem-2022-regular-d2-q159-apoio-m01.png']::text[], '{}'::jsonb, '["T₃ R T₄ R R T₅ R.", "R T₃ R T₄ R R T₅.", "R T₄ R R T₅ R T₁", "R R T₅ R T₁ R R.", "R T₅ R T₁ R R T₂."]'::jsonb, 'B', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,
@@ -1594,13 +1594,7 @@ on conflict (id) do update set
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
 values ('enem-2022-regular-d2-q162', 162, 'matematica', 2022, 'regular', null, 'Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, nos dez primeiros dias do mês e entre o dia dez e o dia vinte desse mês, nos seus dois únicos setores (infantil e adulto). Suponha que a variação no volume de vendas, para o período registrado, tenha se dado de forma linear, como mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias.
 
-18 000 Adulto 15 000
-
-8 000
-
-7 000 Infantil
-
-10 20 30 Dias Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["5 000", "7 000", "11 000", "18 000", "29 000"]'::jsonb, 'C', false, null)
+Ao final do trigésimo dia, quanto faltará no volume de vendas, em real, para que a meta fixada para o mês seja alcançada', null, null, '/questoes/2022/regular/dia2/enem-2022-regular-d2-q162-apoio-m01.png', ARRAY['/questoes/2022/regular/dia2/enem-2022-regular-d2-q162-apoio-m01.png']::text[], '{}'::jsonb, '["5 000", "7 000", "11 000", "18 000", "29 000"]'::jsonb, 'C', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,

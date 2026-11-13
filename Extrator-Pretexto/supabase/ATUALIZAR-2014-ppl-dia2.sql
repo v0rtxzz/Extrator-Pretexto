@@ -2020,43 +2020,9 @@ on conflict (id) do update set
   anulada = excluded.anulada,
   explicacao = coalesce(excluded.explicacao, questoes.explicacao);
 insert into public.questoes (id, numero, materia, ano, categoria, idioma, enunciado, texto_apoio, credito_texto, imagem_url, imagens_url, alternativas_imagens, alternativas, gabarito, anulada, explicacao)
-values ('enem-2014-ppl-d2-q180', 180, 'matematica', 2014, 'ppl', null, 'O modelo matemático desenvolvido por Kirschner
-e Webb descreve a dinâmica da interação das células
-não infectadas do sistema imunológico humano com os
-vírus HIV. Os gráficos mostram a evolução no tempo
-da quantidade de células não infectadas no sistema
-imunológico de cinco diferentes pacientes infectados
-pelo vírus HIV. Quando a população das células não
-infectadas de um sistema imunológico é extinta, o
-paciente infectado fica mais suscetível à morte, caso
-contraia alguma outra doença.
+values ('enem-2014-ppl-d2-q180', 180, 'matematica', 2014, 'ppl', null, 'O modelo matemático desenvolvido por Kirschner e Webb descreve a dinâmica da interação das células não infectadas do sistema imunológico humano com os vírus HIV. Os gráficos mostram a evolução no tempo da quantidade de células não infectadas no sistema imunológico de cinco diferentes pacientes infectados pelo vírus HIV. Quando a população das células não infectadas de um sistema imunológico é extinta, o paciente infectado fica mais suscetível à morte, caso contraia alguma outra doença.
 
-Gráfico A Gráfico B
-3000 3000
-2000 2000
-1000 1000
-0 0
-0 1000 2000 3000 4000 0 1000 2000 3000 4000
-Tempo (dias) Tempo (dias)
-Gráfico C Gráfico D
-3000 3000
-2000 2000
-1000 1000
-0 0
-0 1000 2000 3000 4000 0 1000 2000 3000 4000
-Tempo (dias) Tempo (dias)
-Gráfico E
-3000
-2000
-1000
-0
-0 1000 2000 3000 4000
-Tempo (dias)
-KIRSCHNER, D. E.; WEBB, G. F. Resistance, Remission, and Qualitative Differences in HIV
-Chemotherapy. Emerging Infectious Diseases, v. 3, n. 3, 1997.
-A partir desses dados, o sistema imunológico do
-paciente infectado que ficou mais rapidamente
-suscetível à morte está representado pelo gráfico', null, null, null, ARRAY[]::text[], '{}'::jsonb, '["A.", "B.", "C.", "D.", "E."]'::jsonb, 'D', false, null)
+A partir desses dados, o sistema imunológico do paciente infectado que ficou mais rapidamente suscetível à morte está representado pelo gráfico', null, 'KIRSCHNER, D. E.; WEBB, G. F. Resistance, Remission, and Qualitative Differences in HIV Chemotherapy. Emerging Infectious Diseases, v. 3, n. 3, 1997.', '/questoes/2014/ppl/dia2/enem-2014-ppl-d2-q180-apoio-m01.png', ARRAY['/questoes/2014/ppl/dia2/enem-2014-ppl-d2-q180-apoio-m01.png']::text[], '{}'::jsonb, '["A.", "B.", "C.", "D.", "E."]'::jsonb, 'D', false, null)
 on conflict (id) do update set
   numero = excluded.numero,
   materia = excluded.materia,
