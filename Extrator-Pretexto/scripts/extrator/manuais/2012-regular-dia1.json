@@ -1,0 +1,72 @@
+{
+ "66": {
+  "texto_apoio": "O benzeno é um hidrocarboneto aromático presente no petróleo, no carvão e em condensados de gás natural. Seus metabólitos são altamente tóxicos e se depositam na medula óssea e nos tecidos gordurosos. O limite de exposição pode causar anemia, câncer (leucemia) e distúrbios do comportamento. Em termos de reatividade química, quando um eletrófilo se liga ao benzeno, ocorre a formação de um intermediário, o carbocátion. Por fim, ocorre a adição ou substituição eletrofílica.",
+  "credito_texto": "Disponível em: www.sindipetro.org.br. Acesso em: 1 mar. 2012 (adaptado). Disponível em: www.qmc.ufsc.br. Acesso em: 1 mar. 2012 (adaptado).",
+  "enunciado": "Com base no texto e no gráfico do progresso da reação apresentada, as estruturas químicas encontradas em I, II e III são, respectivamente:",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 23,
+     "caixa": [
+      330,
+      501,
+      575,
+      547
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 23,
+     "caixa": [
+      344.6,
+      549.6,
+      575.1,
+      607.1
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 23,
+     "caixa": [
+      339.6,
+      605.3,
+      575.1,
+      658.8
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 23,
+     "caixa": [
+      339.6,
+      657.0,
+      575.1,
+      709.0
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 23,
+     "caixa": [
+      330,
+      709,
+      575,
+      763
+     ]
+    }
+   ]
+  },
+  "obs": "alternativas com fórmulas estruturais lidas como texto; enunciado e créditos misturados"
+ }
+}

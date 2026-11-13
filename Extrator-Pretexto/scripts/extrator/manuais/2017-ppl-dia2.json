@@ -1,0 +1,85 @@
+{
+ "117": {
+  "enunciado": "Um estudante construiu um densímetro, esquematizado na figura, utilizando um canudinho e massa de modelar. O instrumento foi calibrado com duas marcas de flutuação, utilizando água (marca A) e etanol (marca B) como referências.\n\nEm seguida, o densímetro foi usado para avaliar cinco amostras: vinagre, leite integral, gasolina (sem álcool anidro), soro fisiológico e álcool comercial (92,8 °GL).\n\nQue amostra apresentará marca de flutuação entre os limites A e B?",
+  "imagens": [
+   {
+    "pg": 9,
+    "caixa": [
+     425.0,
+     200.0,
+     465.0,
+     388.0
+    ]
+   }
+  ],
+  "obs": "densímetro não recortado"
+ },
+ "128": {
+  "enunciado": "Em algumas regiões brasileiras, é comum se encontrar um animal com odor característico, o zorrilho. Esse odor serve para a proteção desse animal, afastando seus predadores. Um dos feromônios responsáveis por esse odor é uma substância que apresenta isomeria trans e um grupo tiol ligado à sua cadeia.\n\nA estrutura desse feromônio, que ajuda na proteção do zorrilho, é",
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 12,
+     "caixa": [
+      344.3,
+      460.9,
+      466.3,
+      506.4
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 12,
+     "caixa": [
+      343.8,
+      522.0,
+      477.3,
+      567.0
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 12,
+     "caixa": [
+      348.8,
+      584.3,
+      482.3,
+      629.3
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 12,
+     "caixa": [
+      342.8,
+      645.5,
+      460.3,
+      690.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 12,
+     "caixa": [
+      341.5,
+      708.5,
+      470.5,
+      753.5
+     ]
+    }
+   ]
+  },
+  "obs": "fórmulas estruturais das alternativas lidas como texto"
+ }
+}

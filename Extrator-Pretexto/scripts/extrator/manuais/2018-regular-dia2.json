@@ -7,5 +7,87 @@
   "texto_apoio": "O manejo adequado do solo possibilita a manutenção de sua fertilidade à medida que as trocas de nutrientes entre matéria orgânica, água, solo e o ar são mantidas para garantir a produção. Algumas espécies iônicas de alumínio são tóxicas, não só para a planta, mas para muitos organismos como as bactérias responsáveis pelas transformações no ciclo do nitrogênio. O alumínio danifica as membranas das células das raízes e restringe a expansão de suas paredes, com isso, a planta não cresce adequadamente. Para promover benefícios para a produção agrícola, é recomendada a remediação do solo utilizando calcário (CaCO₃).",
   "credito_texto": "BRADY, N. C.; WEIL, R. R. Elementos da natureza e propriedades dos solos. Porto Alegre: Bookman, 2013 (adaptado).",
   "obs": "crédito embaralhado com o índice de CaCO₃"
+ },
+ "168": {
+  "credito_texto": "Disponível em: http://pni.datasus.gov.br. Acesso em: 5 nov. 2017.",
+  "imagens": [
+   {
+    "pg": 27,
+    "caixa": [
+     64.0,
+     284.0,
+     307.0,
+     375.0
+    ]
+   }
+  ],
+  "obs": "gráfico não recortado; rótulos no crédito"
+ },
+ "126": {
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens_alternativas": {
+   "A": [
+    {
+     "pg": 12,
+     "caixa": [
+      72,
+      566.5,
+      159.5,
+      590.5
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 12,
+     "caixa": [
+      79,
+      602.5,
+      233,
+      661.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 12,
+     "caixa": [
+      72,
+      675.5,
+      225.5,
+      755
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 12,
+     "caixa": [
+      326,
+      559.5,
+      520.5,
+      587.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 12,
+     "caixa": [
+      326.5,
+      616.5,
+      563,
+      653
+     ]
+    }
+   ]
+  },
+  "obs": "fórmulas estruturais em grade A D / B E / C"
  }
 }

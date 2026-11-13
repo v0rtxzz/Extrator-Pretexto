@@ -1,0 +1,18 @@
+{
+ "180": {
+  "enunciado": "O modelo matemático desenvolvido por Kirschner e Webb descreve a dinâmica da interação das células não infectadas do sistema imunológico humano com os vírus HIV. Os gráficos mostram a evolução no tempo da quantidade de células não infectadas no sistema imunológico de cinco diferentes pacientes infectados pelo vírus HIV. Quando a população das células não infectadas de um sistema imunológico é extinta, o paciente infectado fica mais suscetível à morte, caso contraia alguma outra doença.\n\nA partir desses dados, o sistema imunológico do paciente infectado que ficou mais rapidamente suscetível à morte está representado pelo gráfico",
+  "credito_texto": "KIRSCHNER, D. E.; WEBB, G. F. Resistance, Remission, and Qualitative Differences in HIV Chemotherapy. Emerging Infectious Diseases, v. 3, n. 3, 1997.",
+  "imagens": [
+   {
+    "pg": 31,
+    "caixa": [
+     313,
+     236,
+     555,
+     523
+    ]
+   }
+  ],
+  "obs": "cinco gráficos lidos como texto"
+ }
+}

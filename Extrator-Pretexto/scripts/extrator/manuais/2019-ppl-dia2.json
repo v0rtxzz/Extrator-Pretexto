@@ -21,5 +21,20 @@
  "129": {
   "enunciado": "O etanol é um combustível renovável obtido da cana-de-açúcar e é menos poluente do que os combustíveis fósseis, como a gasolina e o diesel. O etanol tem densidade 0,8 g/cm³, massa molar 46 g/mol e calor de combustão aproximado de −1 300 kJ/mol. Com o grande aumento da frota de veículos, tem sido incentivada a produção de carros bicombustíveis econômicos, que são capazes de render até 20 km/L em rodovias, para diminuir a emissão de poluentes atmosféricos.\n\nO valor correspondente à energia consumida para que o motorista de um carro econômico movido a álcool percorra 400 km na condição de máximo rendimento é mais próximo de",
   "obs": "unidade g/cm³ em fração"
+ },
+ "153": {
+  "enunciado": "A unidade de medida utilizada para anunciar o tamanho das telas de televisores no Brasil é a polegada, que corresponde a 2,54 cm. Diferentemente do que muitos imaginam, dizer que a tela de uma TV tem X polegadas significa que a diagonal do retângulo que representa sua tela mede X polegadas, conforme ilustração.\n\nO administrador de um museu recebeu uma TV convencional de 20 polegadas, que tem como razão do comprimento (C) pela altura (A) a proporção 4 : 3, e precisa calcular o comprimento (C) dessa TV a fim de colocá-la em uma estante para exposição.\n\nA tela dessa TV tem medida do comprimento C, em centímetro, igual a",
+  "imagens": [
+   {
+    "pg": 23,
+    "caixa": [
+     65.5,
+     555.0,
+     247.0,
+     666.0
+    ]
+   }
+  ],
+  "obs": "ilustração da tela não recortada"
  }
 }

@@ -3,14 +3,80 @@
   "materia": "natureza",
   "texto_apoio": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F⃗, conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n\nMantendo-se a força F⃗ paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso (P⃗), normal (N⃗) e de atrito estático (f⃗ₑ).",
   "enunciado": "O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
-  "alternativas": ["", "", "", "", ""],
-  "imagens": [{"pg": 20, "caixa": [285.0, 181.0, 557.0, 458.0]}],
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 20,
+    "caixa": [
+     285.0,
+     181.0,
+     557.0,
+     458.0
+    ]
+   }
+  ],
   "imagens_alternativas": {
-   "A": [{"pg": 20, "caixa": [185.0, 667.5, 427.5, 922.5]}],
-   "B": [{"pg": 20, "caixa": [185.0, 946.0, 427.5, 1173.5]}],
-   "C": [{"pg": 21, "caixa": [185.0, 35.5, 427.5, 278.5]}],
-   "D": [{"pg": 21, "caixa": [185.0, 302.0, 427.5, 519.0]}],
-   "E": [{"pg": 21, "caixa": [185.0, 543.0, 427.5, 760.0]}]
+   "A": [
+    {
+     "pg": 20,
+     "caixa": [
+      185.0,
+      667.5,
+      427.5,
+      922.5
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 20,
+     "caixa": [
+      185.0,
+      946.0,
+      427.5,
+      1173.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 21,
+     "caixa": [
+      185.0,
+      35.5,
+      427.5,
+      278.5
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 21,
+     "caixa": [
+      185.0,
+      302.0,
+      427.5,
+      519.0
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 21,
+     "caixa": [
+      185.0,
+      543.0,
+      427.5,
+      760.0
+     ]
+    }
+   ]
   },
   "obs": "alternativas desenhadas em duas telas; extração manual assistida"
  },
@@ -18,14 +84,89 @@
   "materia": "matematica",
   "texto_apoio": "Dentre as diversas planificações possíveis para o cubo, uma delas é a que se encontra apresentada na Figura 1.\n\nEm um cubo, foram pintados, em três de suas faces, quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na Figura 2.",
   "enunciado": "A planificação do cubo da Figura 2, conforme o tipo de planificação apresentada na Figura 1, é",
-  "alternativas": ["", "", "", "", ""],
-  "imagens": [{"pg": 61, "caixa": [307.5, 118.0, 534.5, 326.5]}, {"pg": 61, "caixa": [318.5, 412.5, 524.0, 641.0]}],
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 61,
+    "caixa": [
+     307.5,
+     118.0,
+     534.5,
+     326.5
+    ]
+   },
+   {
+    "pg": 61,
+    "caixa": [
+     318.5,
+     412.5,
+     524.0,
+     641.0
+    ]
+   }
+  ],
   "imagens_alternativas": {
-   "A": [{"pg": 61, "caixa": [192.0, 736.5, 409.5, 899.5]}],
-   "B": [{"pg": 61, "caixa": [192.0, 929.5, 409.5, 1092.0]}],
-   "C": [{"pg": 62, "caixa": [192.0, 24.5, 409.5, 187.0]}],
-   "D": [{"pg": 62, "caixa": [192.0, 216.5, 409.5, 379.0]}],
-   "E": [{"pg": 62, "caixa": [192.0, 409.0, 409.5, 572.0]}]
+   "A": [
+    {
+     "pg": 61,
+     "caixa": [
+      192.0,
+      736.5,
+      409.5,
+      899.5
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 61,
+     "caixa": [
+      192.0,
+      929.5,
+      409.5,
+      1092.0
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 62,
+     "caixa": [
+      192.0,
+      24.5,
+      409.5,
+      187.0
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 62,
+     "caixa": [
+      192.0,
+      216.5,
+      409.5,
+      379.0
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 62,
+     "caixa": [
+      192.0,
+      409.0,
+      409.5,
+      572.0
+     ]
+    }
+   ]
   },
   "obs": "alternativas desenhadas em duas telas; extração manual assistida"
  },
@@ -33,7 +174,13 @@
   "materia": "matematica",
   "texto_apoio": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar.\n\nQuanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:\n\n• naqueles que finalizam em 1 ou 2, ambos os quartos recebem sol apenas na parte da manhã;\n• naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos recebe sol na parte da manhã;\n• naqueles que finalizam em 7 ou 8, ambos os quartos recebem sol apenas na parte da tarde.\n\nUma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã.",
   "enunciado": "De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?",
-  "alternativas": ["9 × 6!/(6 − 2)!", "9 × 6!/((6 − 2)! × 2!)", "9 × 4!/((4 − 2)! × 2!)", "9 × 2!/((2 − 2)! × 2!)", "9 × (8!/((8 − 2)! × 2!) − 1)"],
+  "alternativas": [
+   "9 × 6!/(6 − 2)!",
+   "9 × 6!/((6 − 2)! × 2!)",
+   "9 × 4!/((4 − 2)! × 2!)",
+   "9 × 2!/((2 − 2)! × 2!)",
+   "9 × (8!/((8 − 2)! × 2!) − 1)"
+  ],
   "imagens": [],
   "imagens_alternativas": {},
   "obs": "frações com fatorial lidas fora de ordem; transcrito do PDF"
@@ -42,15 +189,288 @@
   "materia": "matematica",
   "texto_apoio": "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = ¼ OM, traçar um arco de circunferência de raio medindo ½ OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.",
   "enunciado": "Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
-  "alternativas": ["", "", "", "", ""],
-  "imagens": [{"pg": 75, "caixa": [210.0, 191.0, 632.0, 348.5]}, {"pg": 75, "caixa": [316.0, 512.0, 527.0, 664.0]}],
+  "alternativas": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "imagens": [
+   {
+    "pg": 75,
+    "caixa": [
+     210.0,
+     191.0,
+     632.0,
+     348.5
+    ]
+   },
+   {
+    "pg": 75,
+    "caixa": [
+     316.0,
+     512.0,
+     527.0,
+     664.0
+    ]
+   }
+  ],
   "imagens_alternativas": {
-   "A": [{"pg": 75, "caixa": [185.0, 756.5, 319.0, 891.0]}],
-   "B": [{"pg": 75, "caixa": [185.0, 914.5, 319.0, 1048.5]}],
-   "C": [{"pg": 76, "caixa": [185.0, 22.0, 319.0, 156.0]}],
-   "D": [{"pg": 76, "caixa": [185.0, 179.5, 319.0, 313.5]}],
-   "E": [{"pg": 76, "caixa": [185.0, 337.0, 319.0, 471.5]}]
+   "A": [
+    {
+     "pg": 75,
+     "caixa": [
+      185.0,
+      756.5,
+      319.0,
+      891.0
+     ]
+    }
+   ],
+   "B": [
+    {
+     "pg": 75,
+     "caixa": [
+      185.0,
+      914.5,
+      319.0,
+      1048.5
+     ]
+    }
+   ],
+   "C": [
+    {
+     "pg": 76,
+     "caixa": [
+      185.0,
+      22.0,
+      319.0,
+      156.0
+     ]
+    }
+   ],
+   "D": [
+    {
+     "pg": 76,
+     "caixa": [
+      185.0,
+      179.5,
+      319.0,
+      313.5
+     ]
+    }
+   ],
+   "E": [
+    {
+     "pg": 76,
+     "caixa": [
+      185.0,
+      337.0,
+      319.0,
+      471.5
+     ]
+    }
+   ]
   },
   "obs": "alternativas desenhadas em duas telas; extração manual assistida"
+ },
+ "92": {
+  "alternativas": [
+   "incineração do lixo orgânico.",
+   "construção de rede de esgoto.",
+   "uso de vermífugo pela população.",
+   "controle das populações dos vetores.",
+   "consumo de carnes vermelhas bem cozidas."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "94": {
+  "alternativas": [
+   "liberação de gás tóxico e reação oxidativa forte.",
+   "reação oxidativa forte e liberação de gás tóxico.",
+   "formação de sais tóxicos e reação oxidativa forte.",
+   "liberação de gás tóxico e liberação de gás oxidante.",
+   "formação de sais tóxicos e liberação de gás oxidante."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "98": {
+  "alternativas": [
+   "correção do código genético para a tradução da proteína.",
+   "alteração do RNA ribossômico ligado à síntese da proteína.",
+   "produção de mutações benéficas para a correção do problema.",
+   "liberação imediata da proteína normal na região ocular humana.",
+   "expressão do gene responsável pela produção da enzima normal."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "99": {
+  "alternativas": [
+   "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+   "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.",
+   "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+   "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+   "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "102": {
+  "alternativas": [
+   "concentrar o RNA viral para otimizar a técnica.",
+   "identificar nas amostras anticorpos anti-SARS-CoV-2.",
+   "proliferar o vírus em culturas, aumentando a carga viral.",
+   "purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+   "obter moléculas de cDNA viral por meio da transcrição reversa."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "104": {
+  "alternativas": [
+   "frequência cardíaca.",
+   "capacidade pulmonar.",
+   "massa muscular do indivíduo.",
+   "atividade anaeróbica da musculatura.",
+   "taxa de transporte de oxigênio pelo sangue."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "105": {
+  "alternativas": [
+   "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.",
+   "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.",
+   "A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.",
+   "A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.",
+   "A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "107": {
+  "alternativas": [
+   "dissolver os reagentes.",
+   "deslocar o equilíbrio químico.",
+   "aumentar a velocidade da reação.",
+   "mudar a constante de equilíbrio da reação.",
+   "formar ligações de hidrogênio com o polissacarídeo."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "110": {
+  "alternativas": [
+   "as fêmeas influenciam o comportamento dos machos.",
+   "o cuidado parental é necessário para o desenvolvimento.",
+   "o grau de evolução determina o comportamento reprodutivo.",
+   "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+   "o ambiente induz modificação na produção do número de gametas femininos."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "113": {
+  "alternativas": [
+   "proteção catódica, que utiliza um metal fortemente redutor.",
+   "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+   "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+   "efeito de barreira, que impede o contato com o agente oxidante.",
+   "galvanização, que usa outros metais de menor potencial de redução."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "114": {
+  "alternativas": [
+   "acúmulo do solvente com fragmentação da organela.",
+   "rompimento da membrana celular com liberação do citosol.",
+   "aumento do vacúolo com diluição do pigmento no seu interior.",
+   "quebra da parede celular com extravasamento do pigmento.",
+   "murchamento da célula com expulsão do pigmento do vacúolo."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "120": {
+  "alternativas": [
+   "variação do pH do meio.",
+   "aumento da energia de ativação.",
+   "consumo da enzima durante o ensaio.",
+   "diminuição da concentração do substrato.",
+   "modificação da estrutura tridimensional da enzima."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "122": {
+  "alternativas": [
+   "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+   "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+   "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+   "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+   "regular a oscilação da pressão arterial, característica dos quadros de hipertensão."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "123": {
+  "alternativas": [
+   "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+   "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+   "Eles se moveriam em direção ao centro do Buraco Negro.",
+   "Eles passariam a precessionar mais rapidamente.",
+   "Eles manteriam suas órbitas inalteradas."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "130": {
+  "alternativas": [
+   "apresentar daltonismo.",
+   "perceber cores fora do espectro do visível.",
+   "enxergar bem em ambientes mal iluminados.",
+   "necessitar de mais luminosidade para enxergar.",
+   "fazer uma pequena distinção de cores em ambientes iluminados."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "132": {
+  "alternativas": [
+   "predação do vírus pela bactéria.",
+   "esterilização de mosquitos infectados.",
+   "alteração no genótipo do mosquito pela bactéria.",
+   "competição do vírus e da bactéria no hospedeiro.",
+   "inserção de material genético do vírus na bactéria."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "150": {
+  "alternativas": [
+   "apenas no ginásio I.",
+   "apenas nos ginásios I e II.",
+   "apenas nos ginásios I, II e III.",
+   "apenas nos ginásios I, II, III e IV.",
+   "em todos os ginásios."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
+ },
+ "151": {
+  "alternativas": [
+   "30 minutos ou menos.",
+   "mais de 35 e menos de 45 minutos.",
+   "mais de 45 e menos de 55 minutos.",
+   "mais de 60 e menos de 70 minutos.",
+   "70 minutos ou mais."
+  ],
+  "imagens_alternativas": {},
+  "obs": "alternativas em texto salvas como imagem; texto lido do PDF dentro da caixa"
  }
 }

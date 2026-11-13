@@ -13,5 +13,20 @@
    }
   ],
   "obs": "Texto II é um infográfico: recortado inteiro como imagem"
+ },
+ "170": {
+  "enunciado": "Em um trabalho escolar, João foi convidado a calcular as áreas de vários quadrados diferentes, dispostos em sequência, da esquerda para a direita, como mostra a figura.\n\nO primeiro quadrado da sequência tem lado medindo 1 cm, o segundo quadrado tem lado medindo 2 cm, o terceiro quadrado tem lado medindo 3 cm e assim por diante. O objetivo do trabalho é identificar em quanto a área de cada quadrado da sequência excede a área do quadrado anterior. A área do quadrado que ocupa a posição n, na sequência, foi representada por Aₙ.\n\nPara n ≥ 2, o valor da diferença Aₙ − Aₙ₋₁, em centímetro quadrado, é igual a",
+  "imagens": [
+   {
+    "pg": 28,
+    "caixa": [
+     145.0,
+     534.6,
+     488.5,
+     627.6
+    ]
+   }
+  ],
+  "obs": "figura dos quadrados não recortada"
  }
 }
