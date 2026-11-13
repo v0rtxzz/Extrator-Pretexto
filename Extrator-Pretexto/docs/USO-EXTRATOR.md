@@ -1,23 +1,20 @@
-# Uso do extrator Pretexto
+# Guia do extrator Pretexto
 
 Um único extrator (`scripts/extrator/extrair_textos.py`) lê as provas do ENEM. As diferenças de diagramação de cada
-ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts/extrator/perfis.py`.
-
-**Cada ano tem o seu motor, com o nome do ano** (`v2025`, `v2024`, ..., `v2009`), e cada motor é usado
-**exclusivamente** para as questões do seu ano. O antigo motor `v1` passou a se chamar `v2025` e o antigo `v2`,
-`v2024`. Todo motor novo recebe obrigatoriamente o nome do ano a que se refere (ex.: `v2026`).
+ano, dia e categoria ficam no **motor** de cada ano, em `scripts/extrator/perfis.py`: `v2009` … `v2025`, cada um usado
+**exclusivamente** para o seu ano. Todo motor novo recebe o nome do ano (ex.: `v2026`).
 
 <!-- ESTADO-POR-ANO -->
 <a id="estado-por-ano"></a>
 ### Estado por ano (o que está gravado em `supabase/` e `public/questoes/`)
 
-| Ano | Motor | Provas gravadas | Questões no SQL | Questões com correção manual | Imagens |
+| Ano | Motor | Provas | Questões no SQL | Questões com correção manual | Imagens |
 |---|---|---|---|---|---|
 | 2025 | `v2025` | 6 | 555 | 0 | 238 |
 | 2024 | `v2024` | 4 | 370 | 0 | 198 |
 | 2023 | `v2023` | 4 | 370 | 1 | 188 |
 | 2022 | `v2022` | 7 | 640 | 202 | 656 |
-| 2021 | `v2021` | 7 | 640 | 32 | 357 |
+| 2021 | `v2021` | 7 | 640 | 30 | 357 |
 | 2020 | `v2020` | 7 | 640 | 11 | 340 |
 | 2019 | `v2019` | 4 | 370 | 5 | 183 |
 | 2018 | `v2018` | 4 | 370 | 6 | 214 |
@@ -30,18 +27,17 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 | 2011 | `v2011` | 4 | 370 | 6 | 200 |
 | 2010 | `v2010` | 4 | 370 | 54 | 177 |
 | 2009 | `v2009` | 2 | 180 | 4 | 101 |
-| **Total** | | **81** | **7465** | **343** | **4211** |
-
-Correções manuais (extração assistida) ficam em `scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json` e são aplicadas pelo extrator a cada execução. Gabaritos de 2010 PPL (transcrito do caderno) e 2011 PPL (2ª aplicação, oficial) incluídos.
+| **Total** | | **81** | **7465** | **341** | **4211** |
 <!-- /ESTADO-POR-ANO -->
+
+A tabela é gerada por `python scripts/extrator/estado.py` a partir dos SQLs, das imagens e das correções manuais.
 
 ## 1) Preparar o ambiente
 
-- Instale Python 3.9 ou mais novo.
-- Na pasta do projeto: `pip install -r scripts/extrator/requirements.txt`
-- Opcional (provas cujo PDF usa fontes sem Unicode, como 2021): OCR Tesseract com português
-  (`sudo apt install tesseract-ocr tesseract-ocr-por`; no Windows/macOS, o instalador do Tesseract). Sem ele, essas
-  linhas continuam sendo salvas como imagem, com aviso. O OCR só é usado nos motores com `ocr_cid=True`.
+- Python 3.9 ou mais novo: `pip install -r scripts/extrator/requirements.txt`
+- OCR (só 2010, cujo PDF usa fontes sem Unicode): Tesseract com português
+  (`sudo apt install tesseract-ocr tesseract-ocr-por`; no Windows/macOS, o instalador do Tesseract). O OCR só é usado
+  nos motores com `ocr_cid=True` e é lento (~45 min para as duas provas do PPL 2010).
 
 ## 2) Organizar os PDFs
 
@@ -53,15 +49,13 @@ provas/
       dia2-prova.pdf        dia2-gabarito.pdf
     ppl/        (mesmos nomes)
     segunda/    (mesmos nomes)
-  2024/
-    regular/    (mesmos nomes)
-    ppl/        (mesmos nomes)
 ```
 
 - O gabarito deve ser o da mesma prova e da mesma cor/caderno.
 - Provas digitais do dia 1 em PDFs separados por idioma: `dia1-prova-ingles.pdf` com `dia1-gabarito-ingles.pdf`
   (e o mesmo para `espanhol`).
-- Categorias aceitas: `regular`, `ppl`, `digital`, `segunda`, `terceira`.
+- Categorias: `regular`, `ppl`, `digital`, `segunda`, `terceira`.
+- Prova sem PDF de gabarito: veja "Gabarito transcrito" na seção 7.
 - Fora da convenção, use o modo manual (`--pdf` e `--gabarito`).
 
 ## 3) Testar sem gravar nada
@@ -74,57 +68,50 @@ python scripts/extrator/extrair_textos.py --ano 2025 --categoria regular --dia 1
 python scripts/extrator/extrair_textos.py --ano 2024 --tudo --dry-run
 
 # modo manual (PDFs em qualquer lugar)
-python scripts/extrator/extrair_textos.py --pdf provas/2025-dia1-azul.pdf --gabarito provas/gabarito-2025-dia1-azul.pdf --ano 2025 --dia 1 --categoria regular --dry-run
+python scripts/extrator/extrair_textos.py --pdf caminho/prova.pdf --gabarito caminho/gabarito.pdf --ano 2025 --dia 1 --categoria regular --dry-run
 ```
 
-Com `npm`: `npm run extrair -- --ano 2025 --tudo --dry-run`. Nada é gravado com `--dry-run`: use esse passo para
-ler o relatório (seção 5) antes de continuar.
+Com `npm`: `npm run extrair -- --ano 2025 --tudo --dry-run`. Nada é gravado com `--dry-run`.
 
-## 4) Gerar a extração completa
+## 4) Gravar
 
 Rode o mesmo comando sem `--dry-run`. O extrator cria:
 
 - imagens recortadas em `public/questoes/ANO/CATEGORIA/diaDIA/`;
-- `supabase/ATUALIZAR-ANO-CATEGORIA-diaDIA.sql`, com inserções/atualizações pelo ID de cada questão.
+- `supabase/ATUALIZAR-ANO-CATEGORIA-diaDIA[-idioma].sql`, com *upsert* pelo id de cada questão.
 
-Cada combinação de ano, categoria e dia tem seu próprio SQL e sua própria pasta de imagens. O SQL grava em
-`imagem_url` a primeira imagem de apoio, todas em `imagens_url`, as imagens das alternativas em
-`alternativas_imagens` (mapa de letra para lista de URLs) e a resolução comentada em `explicacao`.
+O SQL grava em `imagem_url` a primeira imagem de apoio, todas em `imagens_url`, as imagens das alternativas em
+`alternativas_imagens` (letra → lista de URLs) e a resolução comentada em `explicacao`. Antes de regravar uma prova,
+apague a pasta de imagens dela (`public/questoes/ANO/CATEGORIA/`), para não sobrarem recortes antigos sem uso.
 
-### 4.1) Explicação da resolução por IA (`explicacao`)
-
-Com `--explicar` (sem `--dry-run`), logo depois de extrair e recortar as imagens, o extrator envia cada questão não
-anulada ao Claude (`scripts/extrator/explicar.py`, modelo padrão `claude-opus-5-5`, troque com
-`--modelo-explicacao`). A IA recebe texto de apoio, crédito, enunciado, as cinco alternativas, as imagens e o
-**gabarito oficial**, e escreve a explicação analisando cruzadamente enunciado, alternativas e gabarito: o que a
-questão pede, a resolução, por que a letra oficial está correta e por que as outras não estão. Ela nunca defende
-outra letra; se discordar do gabarito ou achar o texto extraído corrompido, a explicação começa com `[REVISAR]`.
+### 4.1) Extração em lote (`lote.py`)
 
 ```bash
-export ANTHROPIC_API_KEY=...      # chave da API da Anthropic (nunca no frontend nem no repositório)
+python scripts/extrator/lote.py --de 2009 --ate 2025 --dry-run                     # valida, gera relatorios/CONSOLIDADO.md
+python scripts/extrator/lote.py --de 2009 --ate 2025 --gravar                      # grava só as provas com status OK
+python scripts/extrator/lote.py --anos 2010,2011 --categoria ppl --gravar --incluir-revisar --processos 4
+```
+
+Opções: `--anos` (lista) ou `--de/--ate`, `--categoria`, `--pular-anos`, `--pular-existentes` (só provas sem SQL),
+`--incluir-revisar` (grava também REVISAR/FALHA), `--processos N` (provas em paralelo), `--explicar`.
+Status: **OK** (todas as questões, cobertura completa), **REVISAR** (todas as questões, mas sobrou texto/número do PDF
+sem cobertura ou aviso crítico), **FALHA** (faltam questões), **ERRO**. A gravação escreve `relatorios/GRAVACAO.md`;
+os logs completos ficam em `relatorios/logs/` (fora do git).
+
+### 4.2) Explicação da resolução por IA (`explicacao`)
+
+Com `--explicar` (sem `--dry-run`), cada questão não anulada é enviada ao Claude (`scripts/extrator/explicar.py`,
+modelo padrão `claude-opus-5-5`; troque com `--modelo-explicacao`). A IA recebe texto de apoio, crédito, enunciado,
+alternativas, imagens e o **gabarito oficial**, explica a resolução, por que a letra oficial está correta e por que as
+outras não estão. Se discordar do gabarito ou achar o texto corrompido, a explicação começa com `[REVISAR]`.
+
+```bash
+export ANTHROPIC_API_KEY=...      # nunca no frontend nem no repositório
 python scripts/extrator/extrair_textos.py --ano 2025 --categoria regular --dia 1 --explicar
 ```
 
-- Cache: `scripts/extrator/explicacoes/ANO-CATEGORIA-diaN.json`, por hash do conteúdo da questão. Reextrair não paga de
-  novo; só questões novas ou alteradas são reenviadas. `--explicar-refazer` ignora o cache.
-- Sem `--explicar` (ou com `--dry-run`) só o cache é usado; nada é enviado à API.
-- Sem credencial, as questões ficam com `explicacao = null` e o SQL **preserva** a explicação já gravada no banco.
-- Em um banco existente, rode antes `supabase/ADICIONAR_EXPLICACAO_QUESTOES.sql`.
-- A explicação é gerada por IA: revise as marcadas `[REVISAR]` antes de publicar.
-
-### 4.2) Extração em lote (`lote.py`)
-
-```bash
-# 1) validação prévia de todos os anos (nada é gravado)
-python scripts/extrator/lote.py --de 2009 --ate 2025 --dry-run
-# 2) leia relatorios/CONSOLIDADO.md
-# 3) gravação definitiva só das provas com status OK na validação (use --incluir-revisar para as demais)
-python scripts/extrator/lote.py --de 2009 --ate 2025 --gravar [--explicar]
-```
-
-Cada prova chama o motor do seu ano. Status no consolidado: **OK** (todas as questões, cobertura completa),
-**REVISAR** (todas as questões, mas sobrou texto/número do PDF sem cobertura), **FALHA** (faltam questões) e **ERRO**
-(gabarito ilegível, por exemplo). Os logs completos ficam em `relatorios/logs/`.
+- Cache em `scripts/extrator/explicacoes/`, por hash do conteúdo da questão; `--explicar-refazer` ignora o cache.
+- Sem credencial, `explicacao = null` e o SQL preserva a explicação já gravada no banco.
 
 ## 5) Ler o relatório
 
@@ -171,46 +158,60 @@ gravar o resultado completo e revisar o texto extraído.
 
 ## 6) Revisar o resultado
 
-- Confira as imagens em `public/questoes/ANO/CATEGORIA/diaDIA/`.
-- Abra o SQL correspondente em `supabase/` e revise antes de executar.
-- As questões anuladas no gabarito entram com `anulada = true` e `gabarito = null`.
+- Confira as imagens em `public/questoes/ANO/CATEGORIA/diaDIA/` e o SQL correspondente em `supabase/`.
+- Questões anuladas entram com `anulada = true` e `gabarito = null`.
+- O que o extrator não ler bem, corrija por extração manual assistida (seção 7).
 
-## 7) Alimentar o banco no Supabase
+## 7) Correções manuais (extração assistida)
 
-1. Acesse o projeto no Supabase e vá em SQL Editor.
-2. Cole o conteúdo do SQL da combinação de ano/categoria/dia e clique em Run.
+Quando o PDF não se presta à leitura automática (alternativas desenhadas, gráficos, fórmulas empilhadas, layout de tela
+das provas digitais, texto oculto), a questão é corrigida à mão a partir da página renderizada, em
+`scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json`. O extrator aplica o arquivo em toda execução, depois da
+leitura automática; o gabarito vem sempre do gabarito oficial.
 
-### Atualizar questões que já estão no banco
+```json
+{
+ "155": {
+  "alternativas": ["10⁻² × 60⁻²", "10⁻² × 60⁻¹", "10⁻² × 60", "10⁻³ × 60⁻¹", "10⁻³ × 60"],
+  "imagens_alternativas": {},
+  "obs": "expoentes lidos fora de ordem; transcrito do PDF"
+ },
+ "4-ingles": {
+  "materia": "linguagens", "texto_apoio": "...", "credito_texto": "...", "enunciado": "...",
+  "alternativas": ["...", "...", "...", "...", "..."]
+ },
+ "103": {
+  "imagens": [{"pg": 20, "caixa": [285.0, 181.0, 557.0, 458.0]}],
+  "imagens_alternativas": {"A": [{"pg": 20, "caixa": [185, 667, 427, 922], "foto": false}]}
+ }
+}
+```
 
-**Não exclua as questões**: o `id` é estável e o progresso do aluno aponta para ele. Os SQLs fazem *upsert* e
-atualizam enunciado, alternativas e gabarito. Mas, por segurança, **não apagam** `texto_apoio`, `credito_texto` nem
-imagens quando o valor novo vem vazio; então um valor antigo errado pode ficar. Por isso:
+- A chave é o número da questão; nas questões de idioma, `"N-ingles"` / `"N-espanhol"`.
+- Campos presentes substituem os extraídos: `enunciado`, `texto_apoio`, `credito_texto`, `alternativas`, `materia`.
+  `""` em `texto_apoio`/`credito_texto` apaga o campo.
+- `imagens` e `imagens_alternativas` recortam por caixa fixa em pontos do PDF (`[x0, topo, x1, base]`, página
+  `pg` a partir de 1); `"foto": true` grava em JPG. `{}` / `[]` removem as imagens extraídas.
+- Questão que o extrator não lê (ausente/ignorada) precisa trazer `enunciado`, `alternativas` e `materia`.
+- `obs` registra o motivo.
+
+**Gabarito transcrito.** Prova sem PDF de gabarito: `manuais/ANO-CATEGORIA-diaN-gabarito.json` com
+`{"1": "A", ..., "91-ingles": "B", "91-espanhol": "C"}` (`null` = anulada), lido nos motores com
+`gabarito_manual=True` (usado no PPL 2010, em que a resposta vem circulada no caderno).
+
+## 8) Alimentar o banco no Supabase
+
+1. Banco existente: rode antes `supabase/ADICIONAR_EXPLICACAO_QUESTOES.sql`. Banco novo: `supabase/schema.sql`.
+2. No SQL Editor, rode os `supabase/ATUALIZAR-*.sql` desejados.
+3. Publique `public/questoes/` junto com o site.
+
+**Não exclua questões para recarregar**: o `id` é estável e o progresso do aluno aponta para ele. O *upsert*
+sobrescreve todos os campos extraídos (inclusive limpa imagens e créditos que saíram); só a `explicacao` é preservada
+quando a carga não traz uma. Conferência:
 
 ```sql
--- 1) backup
-create table questoes_backup_2025 as select * from public.questoes where ano = 2025;
-
--- 2) limpa só os campos que a extração preenche (os ids ficam). Ajuste o WHERE se for recarregar só parte.
-update public.questoes
-set texto_apoio = null, credito_texto = null, imagem_url = null,
-    imagens_url = '{}', alternativas_imagens = '{}'::jsonb
-where ano = 2025;
-
--- 3) execute os SQLs novos  4) confira
-select categoria, count(*) from public.questoes where ano = 2025 group by 1 order by 1;
+select ano, categoria, count(*) from public.questoes group by 1, 2 order by 1, 2;
 ```
-
-Cada categoria de 2025 deve ter 185 questões (95 + 90). Depois apague a pasta antiga `public/questoes/2025/`
-antes de gerar as imagens novas, e publique-as junto com o deploy.
-
-## 8) Validar no app
-
-```bash
-npm install
-npm run dev
-```
-
-Abra a interface de questões e confirme textos, imagens e dados.
 
 ## Perfis e motores (isolamento entre anos)
 
@@ -271,73 +272,49 @@ itálico e as auditorias do relatório.
 ### Trava de regressão (`verificar_baseline.py`)
 
 Cada prova validada tem uma "foto" em `scripts/extrator/baselines/ANO-CATEGORIA-diaN.json` (gabarito, hash do texto,
-imagens e caixas de recorte de cada questão). O script extrai de novo, sem gravar nada, e compara:
+imagens e caixas de recorte de cada questão). O script extrai de novo, sem gravar, e compara:
 
 ```bash
-python scripts/extrator/verificar_baseline.py --ano 2025     # um ano
 python scripts/extrator/verificar_baseline.py --todos        # todos os anos que têm foto
-npm run verificar -- --todos
+python scripts/extrator/verificar_baseline.py --ano 2025     # um ano
 ```
 
-`igual à foto` em todas as provas (código de saída 0) significa que nada mudou nos anos validados. Se algo mudar, o
-script lista a questão e o campo (`enunciado`, `alternativas`, `recortes`...). Se a mudança for **intencional e
-revisada**, grave a nova foto com `--atualizar`. Ao validar um ano novo:
+`igual à foto` significa que nada mudou. Se algo mudar, o script lista a questão e o campo. Mudança intencional e
+revisada: grave a nova foto com `--atualizar`. As fotos de 2009, 2011–2025 foram tiradas com pdfplumber 0.11 /
+pypdfium2 5.13; versões diferentes podem mudar a renderização (e, com ela, recortes e o teste de texto invisível), o
+que aparece como diferença em quase todas as provas. Nesse caso compare o código antigo e o novo no mesmo ambiente.
+2010 não tem foto (a extração depende do OCR).
 
-```bash
-python scripts/extrator/verificar_baseline.py --ano 2023 --atualizar
-```
+## Notas por ano
 
-As caixas de recorte são comparadas com tolerância de 1,5 pt (o aparo de transparência pode variar um pouco entre
-versões do `pypdfium2`).
-
-## O que foi corrigido (em relação às versões anteriores)
-
-**2025, motor v2025 (antigo v1; 10 questões corrigidas; das 237 imagens, só as da Q14 mudaram):**
-
-| Questão | Antes | Agora |
-|---|---|---|
-| PPL d1 Q14 | `( ra enfatizar o riso. Palha )`; imagens de emoji fundidas num recorte sujo | `( ) para enfatizar o riso. Palhaço ( )`; cada emoji vira uma imagem limpa (5 em vez de 4) |
-| PPL d2 Q92 | `10⁹₉`, `10₉`, `10`; `⁴₁⁰⁹K` | `10⁹` nas três; `⁴⁰₁₉K` |
-| PPL d2 Q112 | `1,7 × 10 6 s` | `1,7 × 10⁻⁶ s` |
-| PPL d2 Q115 | `°C 1` | `°C⁻¹` |
-| PPL d2 Q121 | `proteção _P` (a letra R sumia) | `proteção R_P` |
-| Regular d2 Q131 | `aluminotérmica₋`, `mol 1` | `aluminotérmica`, `mol⁻¹` |
-| Regular d2 Q136 | `cili₃ndro`, `1 m` | `cilindro`, `1 m³` |
-| Segunda d1 Q49 | `_{OsexcluídosdaHistória}` | `Os excluídos da História` |
-| Segunda d2 Q108 | `verniz₊`, `Pb² ` | `verniz`, `Pb²⁺` |
-| Segunda d2 Q110 | `_{Chemistry}` | `Chemistry` |
-
-**2024, motor v2024 (antigo v2; 5 questões de texto, 1 imagem solta removida):**
-
-| Questão | Antes | Agora |
-|---|---|---|
-| PPL d2 Q101 | `mol−1` (uma das duas ocorrências) | `mol⁻¹` |
-| PPL d2 Q104 | `ω₀ = ,` + pedaços soltos | `ω₀ = √(k/m),` (sem a micro-imagem) |
-| PPL d2 Q123 | `NH₄₊`, `NO₃₋` | `NH₄⁺`, `NO₃⁻` |
-| PPL d2 Q126 | `A₁ 2D`, `B₂ 4He`... | `²₁D`, `⁴₂He`, `¹²₆C`, `¹⁴₇N`, `⁹⁴₃₈Sr` |
-| Regular d2 Q118 | `PO₄³₋` | `PO₄³⁻` |
-
-## Observações
-
-- IDs no padrão `enem-ANO-CATEGORIA-dDIA-qNÚMERO`, com sufixo de idioma (`-ing`, `-esp`) nas questões 1 a 5.
-- Para bancos existentes, aplique `supabase/migrations/20261020_multiple_question_images.sql` (se existir no seu
-  projeto) antes de cargas com imagens múltiplas ou de alternativas.
-- O SQL não apaga `texto_apoio`, `credito_texto` nem imagens já gravadas quando o novo valor vier vazio (veja a seção 7).
-- `--saida-sql` escolhe o arquivo SQL (apenas para uma prova por vez) e `--pasta-sql` muda a pasta.
-- O extrator não gera assunto nem dificuldade.
-- PDFs escaneados, sem texto selecionável, exigem OCR e não são suportados.
+| Edição | Particularidade |
+|---|---|
+| 2009 | Gabarito com várias cores lado a lado (`cor_gabarito='azul'`); dia 1 = Natureza + Humanas; rótulo "Questão \| N" em tabelinha. |
+| 2010 | Texto em fontes sem Unicode, lido por OCR (`ocr_cid`). Regular: resposta lida da letra circulada no PDF de gabarito. PPL: sem gabarito, transcrito do caderno (`manuais/2010-ppl-diaN-gabarito.json`). 54 questões corrigidas à mão. |
+| 2011 PPL | Gabarito oficial da 2ª aplicação incluído em `provas/2011/ppl/`. |
+| 2009–2016 | Dia 1 = Humanas + Natureza; idiomas nas questões 91–95. Fontes Arial sem Unicode decodificadas pela ordem de glifos (`decodificar_cid`). |
+| 2017+ | Dia 1 = Linguagens + Humanas; idiomas nas questões 1–5. |
+| 2020–2022 digital | Layout de tela (uma questão por página, botões no lugar das letras). Em 2022 digital, 193 questões tinham as alternativas de texto recortadas como imagem; o texto foi recuperado do PDF. |
+| 2021 | Fontes Arial com glifos `gNN`, decodificadas pelo nome do glifo (`cid_por_nome_de_glifo`), sem OCR. |
+| 2024, 2025 | Motores de referência (`v2024` é o código-base dos anos antigos; `v2025` é o código congelado de 2025). |
 
 ## Se algo sair errado
 
 | Sintoma | O que fazer |
 |---|---|
-| Faltam questões em `AUSENTES` | Rode com `--detalhes` e olhe o `perfil:` impresso; provavelmente é um ano ainda sem perfil. |
-| Texto de cabeçalho/rodapé dentro das questões | Ajuste `--topo` / `--rodape` (valores entre 0 e 1) e repita o `--dry-run`. |
+| Faltam questões em `AUSENTES` | Rode com `--detalhes`; se o layout não ajudar, inclua a questão no JSON manual (seção 7). |
+| Texto de cabeçalho/rodapé dentro das questões | Ajuste `--topo` / `--rodape` (0 a 1) e repita o `--dry-run`. |
 | Crédito/legenda misturado ao enunciado | Ajuste `--tam-credito` (ex.: `0.92`). |
 | `Nenhuma resposta foi reconhecida no PDF de gabarito` | Confira se o gabarito é o da mesma prova e tem texto selecionável. |
-| Número de alternativas diferente de 5 | A letra da alternativa pode estar em uma fonte nova; inclua-a em `fontes_letra` num perfil. |
-| `Não há motor de extração para ANO` | Crie o motor `vANO` em `MOTORES` (perfis.py). Cada ano precisa do seu motor. |
-| `O PDF de gabarito tem respostas conflitantes` | O arquivo não é o gabarito oficial (ex.: `provas/2010/regular/dia*-gabarito.pdf` são cópias da prova). Substitua pelo gabarito do INEP. |
-| `EXPLICAÇÕES (IA): não foi possível iniciar o cliente` | Instale `anthropic` e defina `ANTHROPIC_API_KEY`; as questões ficam com `explicacao = null` até lá. |
-| `ModuleNotFoundError: perfis` | Falta o arquivo `scripts/extrator/perfis.py`: copie-o junto com `extrair_textos.py`. |
-| `verificar_baseline` acusa diferença sem você ter mudado nada | Versões diferentes de `pdfplumber`/`pypdfium2` podem mudar um recorte; veja qual campo mudou. |
+| Número de alternativas diferente de 5 | Letra em fonte nova (inclua em `fontes_letra` no motor) ou alternativas desenhadas (JSON manual). |
+| `Não há motor de extração para ANO` | Crie o motor `vANO` em `MOTORES` (perfis.py). |
+| `EXPLICAÇÕES (IA): não foi possível iniciar o cliente` | Instale `anthropic` e defina `ANTHROPIC_API_KEY`. |
+| `verificar_baseline` acusa diferença sem você ter mudado nada | Versões diferentes de `pdfplumber`/`pypdfium2`; veja a seção da trava de regressão. |
+
+## Observações
+
+- IDs no padrão `enem-ANO-CATEGORIA-dDIA-qNÚMERO`, com sufixo de idioma (`-ing`, `-esp`) nas questões de idioma.
+- `--saida-sql` escolhe o arquivo SQL (uma prova por vez) e `--pasta-sql` muda a pasta.
+- O extrator não gera assunto nem dificuldade.
+- Sobrescritos, subscritos, isótopos, frações e raízes são escritos em Unicode; o que não dá para escrever com segurança
+  vira imagem, com aviso no relatório.

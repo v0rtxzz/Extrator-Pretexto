@@ -6,6 +6,10 @@
 | 2009-regular-dia2 | v2009 | REVISAR | 90/90 | 0 | 0 | 1 | 8 | 19 | 0 | 0 | 0 |
 | 2010-ppl-dia1 | v2010 | REVISAR | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 453 | 0 |
 | 2010-ppl-dia2 | v2010 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2010-regular-dia1 | v2010 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2010-regular-dia2 | v2010 | OK | 95/95 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
+| 2011-ppl-dia1 | v2011 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2011-ppl-dia2 | v2011 | OK | 95/95 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
 | 2011-regular-dia1 | v2011 | REVISAR | 90/90 | 0 | 0 | 0 | 1 | 0 | 6 | 0 | 0 |
 | 2011-regular-dia2 | v2011 | OK | 95/95 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 0 |
 | 2012-ppl-dia1 | v2012 | REVISAR | 90/90 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 |
@@ -51,8 +55,13 @@
 | 2020-ppl-dia2 | v2020 | REVISAR | 90/90 | 0 | 0 | 1 | 9 | 0 | 22 | 1 | 0 |
 | 2020-regular-dia1 | v2020 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2020-regular-dia2 | v2020 | REVISAR | 90/90 | 0 | 0 | 2 | 11 | 0 | 11 | 0 | 0 |
-| 2021-ppl-dia1 | v2021 | OK | 95/95 | 0 | 0 | 1 | 95 | 0 | 0 | 0 | 0 |
-| 2021-regular-dia1 | v2021 | OK | 95/95 | 0 | 0 | 0 | 95 | 0 | 0 | 0 | 0 |
+| 2021-digital-dia1-espanhol | v2021 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2021-digital-dia1-ingles | v2021 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2021-digital-dia2 | v2021 | REVISAR | 90/90 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 |
+| 2021-ppl-dia1 | v2021 | OK | 95/95 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 |
+| 2021-ppl-dia2 | v2021 | OK | 90/90 | 0 | 0 | 0 | 7 | 0 | 0 | 0 | 0 |
+| 2021-regular-dia1 | v2021 | OK | 95/95 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| 2021-regular-dia2 | v2021 | OK | 90/90 | 0 | 0 | 1 | 8 | 0 | 0 | 0 | 0 |
 | 2022-digital-dia1-espanhol | v2022 | OK | 90/90 | 0 | 0 | 0 | 90 | 0 | 0 | 0 | 0 |
 | 2022-digital-dia1-ingles | v2022 | OK | 90/90 | 0 | 0 | 0 | 89 | 0 | 0 | 0 | 0 |
 | 2022-digital-dia2 | v2022 | REVISAR | 90/90 | 0 | 0 | 1 | 75 | 9 | 22 | 1 | 0 |
@@ -75,7 +84,7 @@
 | 2025-segunda-dia1 | v2025 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2025-segunda-dia2 | v2025 | OK | 90/90 | 0 | 0 | 0 | 4 | 0 | 0 | 0 | 0 |
 
-**Total:** 6645 de 6645 questões esperadas (provas sem erro). OK: 51 · REVISAR: 21
+**Total:** 7465 de 7465 questões esperadas (provas sem erro). OK: 59 · REVISAR: 22
 
 ## Detalhes
 
@@ -98,6 +107,20 @@
 ### 2010-ppl-dia1 — REVISAR
 
 - Trechos com letras perdidas: 453
+
+### 2010-regular-dia2 — OK
+
+- `enem-2010-regular-d2-q100`: 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2010-regular-d2-q152`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2010-regular-d2-q153`: 5 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2010-regular-d2-q174`: 5 fração(ões) linearizada(s) como a/b: conferir
+
+### 2011-ppl-dia2 — OK
+
+- `enem-2011-ppl-d2-q143`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2011-ppl-d2-q162`: 2 fração(ões) linearizada(s) como a/b: conferir; 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2011-ppl-d2-q170`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2011-ppl-d2-q176`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 
 ### 2011-regular-dia1 — REVISAR
 
@@ -426,201 +449,42 @@
 - `enem-2020-regular-d2-q163`: 2 fração(ões) linearizada(s) como a/b: conferir
 - `enem-2020-regular-d2-q170`: 5 fração(ões) linearizada(s) como a/b: conferir
 
+### 2021-digital-dia2 — REVISAR
+
+- Trechos com letras perdidas: 1
+- `enem-2021-digital-d2-q157`: CRÍTICO: enunciado com rótulos de gráfico embaralhados ("Uma construtora, pretendendo i")
+
 ### 2021-ppl-dia1 — OK
 
-- `enem-2021-ppl-d1-q01-esp`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q01-ing`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q02-esp`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q02-ing`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q03-esp`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q03-ing`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q04-esp`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q04-ing`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q05-esp`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q05-ing`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q06`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q07`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q08`: 14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q09`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q10`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q11`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q12`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q13`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q14`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q15`: 13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q16`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q17`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q18`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q19`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q20`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q21`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q22`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q23`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q24`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q25`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q26`: 15 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q27`: 13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q28`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q29`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q30`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q31`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q32`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q33`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q34`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q35`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q36`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q37`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q38`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q39`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q40`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q41`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q42`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q43`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q44`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q45`: 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q46`: enunciado muito curto; 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q47`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q48`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q49`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q50`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q51`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q52`: enunciado muito curto; 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q53`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q54`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q55`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q56`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q57`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q58`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q59`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q60`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q61`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q62`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q63`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q64`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q65`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q66`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q67`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q68`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q69`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q70`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q71`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q72`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q73`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q74`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q75`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q76`: enunciado muito curto; 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q77`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q78`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q79`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q80`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q81`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q82`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q83`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q84`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q85`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q86`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q87`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q88`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q89`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-ppl-d1-q90`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d1-q03-ing`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d1-q08`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d1-q27`: 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d1-q72`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+
+### 2021-ppl-dia2 — OK
+
+- `enem-2021-ppl-d2-q112`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d2-q139`: 5 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2021-ppl-d2-q154`: 1 fração(ões) linearizada(s) como a/b: conferir; 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d2-q156`: 1 fração(ões) linearizada(s) como a/b: conferir; 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d2-q180`: 12 caractere(s) em tamanho de índice sem sobrescrito/subscrito reconhecido: conferir; 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d2-q91`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-ppl-d2-q99`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 
 ### 2021-regular-dia1 — OK
 
-- `enem-2021-regular-d1-q01-esp`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q01-ing`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q02-esp`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q02-ing`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q03-esp`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q03-ing`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q04-esp`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q04-ing`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q05-esp`: enunciado muito curto; 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q05-ing`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q06`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q07`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q08`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q09`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q10`: 13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q11`: 14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q12`: enunciado muito curto; 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q13`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q14`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q15`: 13 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q16`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q17`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q18`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q19`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q20`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q21`: 14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q22`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q23`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q24`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q25`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q26`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q27`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q28`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q29`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q30`: 14 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q31`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q32`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q33`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q34`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q35`: enunciado muito curto; 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q36`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q37`: enunciado muito curto; 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q38`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q39`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q40`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q41`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q42`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q43`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q44`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q45`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q46`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q47`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q48`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q49`: 12 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q50`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q51`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q52`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q53`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q54`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q55`: enunciado muito curto; 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q56`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q57`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q58`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q59`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q60`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q61`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q62`: enunciado muito curto; 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q63`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q64`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q65`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q66`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q67`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q68`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q69`: enunciado muito curto; 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q70`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q71`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q72`: 11 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q73`: 5 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q74`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q75`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q76`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q77`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q78`: 9 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q79`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q80`: 10 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q81`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q82`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q83`: 6 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q84`: 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q85`: enunciado muito curto; 4 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q86`: 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q87`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q88`: enunciado muito curto; 8 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q89`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
-- `enem-2021-regular-d1-q90`: 7 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-regular-d1-q03-esp`: 1 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+
+### 2021-regular-dia2 — OK
+
+- `enem-2021-regular-d2-q105`: 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-regular-d2-q115`: 2 fração(ões) linearizada(s) como a/b: conferir; 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-regular-d2-q138`: 6 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2021-regular-d2-q142`: 2 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2021-regular-d2-q152`: 2 fração(ões) linearizada(s) como a/b: conferir; 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-regular-d2-q156`: 1 fração(ões) linearizada(s) como a/b: conferir
+- `enem-2021-regular-d2-q157`: 2 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
+- `enem-2021-regular-d2-q94`: 3 fórmula(s) salvas como imagem (glifos não decodificáveis ou estrutura complexa)
 
 ### 2022-digital-dia1-espanhol — OK
 

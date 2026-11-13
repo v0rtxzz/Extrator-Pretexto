@@ -1,4 +1,5 @@
 __pycache__/
+*.zip
+# saídas de execução (geradas sob demanda pelo lote.py)
 Extrator-Pretexto/relatorios/logs/
-Extrator-Atualizado.zip
-Extrator-Completo.zip
+Extrator-Pretexto/relatorios/CONSOLIDADO.*
