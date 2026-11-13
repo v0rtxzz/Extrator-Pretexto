@@ -6,45 +6,32 @@
  "questoes": {
   "enem-2019-ppl-d1-q01-esp": {
    "alternativas": [
-    "babc1bfac1e6",
-    "e11b4be2ac01",
+    "f8023fae5596",
+    "b4f23ffe4bd1",
     "e5fc07b8eb77",
-    "cbb562e355a5",
+    "236d200cb499",
     "0a697c67f992"
    ],
-   "apoio": "d19287a7db27",
+   "apoio": "5569592b6ed2",
    "credito": "04aea25fa383",
-   "enunciado": "809db752306e",
+   "enunciado": "8bc6c2d65434",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q01-esp-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto destaca a importância do milho na histór",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q01-esp-apoio-01.png",
-     4,
-     [
-      103.5,
-      170.8,
-      277.5,
-      188.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q01-ing": {
    "alternativas": [
-    "92ca926b8095",
-    "f27ce0d977ff",
-    "2beb542860f0",
-    "d71f6e7c0105",
-    "5b8b128caf46"
+    "3f66d158f895",
+    "03bc4e2f7ce5",
+    "a8d57e39a368",
+    "fca77c071cd0",
+    "421050af35a2"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "399aaf1ca76b",
-   "enunciado": "6beeaadc3d4d",
+   "credito": "eecb71fc28cc",
+   "enunciado": "c96652a3ef1f",
    "gabarito": "E",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q01-ing-apoio-01.png"
@@ -56,9 +43,9 @@
      "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q01-ing-apoio-01.png",
      2,
      [
-      30.3,
-      151.8,
-      278.0,
+      34.4,
+      171.6,
+      275.0,
       448.2
      ]
     ]
@@ -66,75 +53,49 @@
   },
   "enem-2019-ppl-d1-q02-esp": {
    "alternativas": [
-    "9cef8420cfbe",
-    "cb12bfc27b4a",
-    "0805819e0d12",
-    "bdd58701e1f4",
-    "42ebf32f226d"
+    "7262a706c26b",
+    "2af91c0f5079",
+    "b42452d78ec5",
+    "fe319b8f9b5d",
+    "64d711705823"
    ],
-   "apoio": "d347eb6c67de",
-   "credito": "98ce68aa092d",
-   "enunciado": "86c08525935d",
+   "apoio": "9a2bf36a62e4",
+   "credito": "c973ecac1222",
+   "enunciado": "8c7a95dd855b",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q02-esp-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No fragmento do romance mexicano publicado em 19",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q02-esp-apoio-01.png",
-     4,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "No fragmento do romance mexicano, publicado em 1",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q02-ing": {
    "alternativas": [
-    "80603b042880",
-    "c59d12565290",
-    "165b8f5bdddc",
-    "6aea774ee4a0",
+    "a88cff9904bc",
+    "3397ff61bb8a",
+    "a2fcf30d9f64",
+    "3dda6ce73770",
     "a200bc06357c"
    ],
-   "apoio": "7aa5ae4db7cf",
-   "credito": "ee88c9f34fcb",
+   "apoio": "a50a529acfb4",
+   "credito": "020426431281",
    "enunciado": "fcbf68e21a76",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q02-ing-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "No poema Classifying, a escritora inglesa Judith",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q02-ing-apoio-01.png",
-     2,
-     [
-      363.7,
-      83.0,
-      537.7,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q03-esp": {
    "alternativas": [
-    "ccfe28076a6f",
-    "a754d3f542f6",
-    "1db634f70e84",
-    "cb11b99ce86b",
-    "e2cceb64a73a"
+    "4cbd86952735",
+    "32a9b5e6f9b0",
+    "9463bd90d08f",
+    "e1c24501b9b4",
+    "ee32729a0a88"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "e758021602e1",
+   "credito": "3488af636fdb",
+   "enunciado": "2276c0971c46",
    "gabarito": "A",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q03-esp-apoio-01.jpg"
@@ -147,234 +108,143 @@
      5,
      [
       35.2,
-      83.0,
-      277.5,
-      424.9
+      99.3,
+      272.1,
+      402.6
      ]
     ]
    ]
   },
   "enem-2019-ppl-d1-q03-ing": {
    "alternativas": [
-    "e720c2ca3b84",
-    "ed39bab4f2b0",
-    "7ed5211960e9",
-    "7b44fe148d07",
-    "fc75aff02a45"
+    "8acf4aeb1ae4",
+    "93e0008f075a",
+    "9fd037b5552f",
+    "8a6d8dbbeb74",
+    "94300e4a5ca2"
    ],
-   "apoio": "4ea9a7ec97f3",
-   "credito": "6c31cc6ff416",
-   "enunciado": "f3d1d4fb5756",
+   "apoio": "6b650598aed0",
+   "credito": "4edc705dc18e",
+   "enunciado": "bae8f4e70c02",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q03-ing-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Neste anúncio de emprego no Departamento de Polí",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q03-ing-apoio-01.png",
-     3,
-     [
-      29.8,
-      83.0,
-      277.5,
-      110.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q04-esp": {
    "alternativas": [
-    "730e922cf88c",
+    "202bbd365ecc",
     "9fdcecf0405d",
-    "6bb8f24afeca",
-    "4a995c6bcf58",
-    "626ccb225c4e"
+    "b5bdd602499f",
+    "d5d5273228d4",
+    "ccdf14166d48"
    ],
-   "apoio": "2a50d41026a8",
+   "apoio": "b22a6a212cd6",
    "credito": "8fae60637ef7",
-   "enunciado": "fe47302d241e",
+   "enunciado": "9c53b8595eb2",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q04-esp-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto ao participarem de um diál",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q04-esp-apoio-01.png",
-     5,
-     [
-      100.7,
-      584.4,
-      277.5,
-      611.7
-     ]
-    ]
-   ]
+   "previa": "De acordo com o texto, ao participarem de um diá",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q04-ing": {
    "alternativas": [
-    "86a175c03583",
-    "5ed3103a1d53",
-    "8aec0b656031",
-    "e5c99e2493a3",
-    "224e46487a38"
+    "5ed87e861765",
+    "fc6555bbd927",
+    "ab127d2a5c9d",
+    "7bce450d2246",
+    "b141914d8360"
    ],
-   "apoio": "10cca596187c",
+   "apoio": "be6d6ff929d5",
    "credito": "e5435fab952d",
    "enunciado": "d34fa0f0ad54",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q04-ing-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Na letra da canção Englishman in New York, a fal",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q04-ing-apoio-01.png",
-     3,
-     [
-      95.7,
-      439.5,
-      277.5,
-      463.9
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q05-esp": {
    "alternativas": [
-    "01ec37a7f646",
-    "5b1a043d5237",
-    "8e987af640e7",
-    "b85ef0bdc074",
-    "bd24fb1a8c82"
+    "84cd5a288bf9",
+    "01ed0d6f4ccc",
+    "a67fa2f19fb4",
+    "62019faea6a9",
+    "dc4db982e607"
    ],
-   "apoio": "1bda1bf20287",
-   "credito": "6755fdd56775",
-   "enunciado": "a2a1a159bcc1",
+   "apoio": "6b20e6d83968",
+   "credito": "409d4876028e",
+   "enunciado": "73de48e40f25",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q05-esp-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Esse texto, que reflete sobre a xenofobia na Eur",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q05-esp-apoio-01.png",
-     5,
-     [
-      363.2,
-      241.4,
-      537.2,
-      258.7
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q05-ing": {
    "alternativas": [
-    "9c4342f4dfa1",
-    "b3e45e9b13b4",
-    "ab1199e9fb90",
-    "5e4c0685c978",
-    "a37ce3a4e53a"
+    "f2b446357610",
+    "9b33ac793496",
+    "f1facff28740",
+    "6b4449e2b0d3",
+    "8f986f05d732"
    ],
-   "apoio": "153b18015279",
-   "credito": "84abc9a63358",
-   "enunciado": "59ae64d4baf2",
+   "apoio": "571d6d8932ce",
+   "credito": "b1e4426c3887",
+   "enunciado": "beffc84dcfc9",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q05-ing-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Reconhecendo o potencial da fotografia como uma ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q05-ing-apoio-01.png",
-     3,
-     [
-      363.2,
-      197.5,
-      537.2,
-      214.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q06": {
    "alternativas": [
-    "04411e902184",
-    "c65754b408b8",
-    "38474248ed41",
-    "a1720bb4d348",
-    "1aa5a8ffc21b"
+    "263aa6edc0e8",
+    "f5aeee724583",
+    "f4e3e062a29f",
+    "930e0797ebc1",
+    "570d72a7002c"
    ],
-   "apoio": "da39a3ee5e6b",
+   "apoio": "cc50ad034e2c",
    "credito": "05ed44befadb",
    "enunciado": "3986268d2904",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q06-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto expõe a preocupação de uma leitora de no",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q06-apoio-01.png",
-     6,
-     [
-      29.8,
-      117.6,
-      537.2,
-      206.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q07": {
    "alternativas": [
-    "9bef9eb0dc24",
-    "bc56514c4e41",
-    "820ef8962fc2",
+    "6f025745eb07",
+    "67786523a54a",
+    "d75f015ecb4b",
     "234a23072a92",
-    "6178a867388f"
+    "a409f1f1dbb4"
    ],
-   "apoio": "08ab996157a4",
-   "credito": "50bf98f08272",
-   "enunciado": "c77bdd0b25af",
+   "apoio": "44f61ad9689d",
+   "credito": "0f15826e1c56",
+   "enunciado": "0606843ee2ae",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q07-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "O diário da autora como interna de hospital psiq",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q07-apoio-01.png",
-     6,
-     [
-      46.8,
-      318.8,
-      537.2,
-      341.3
-     ]
-    ]
-   ]
+   "previa": "O diário da autora, como interna de hospital psi",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q08": {
    "alternativas": [
-    "768b131889ec",
-    "e4bc2f4bfe1c",
+    "3c21e3193ca5",
+    "d9d0718e28ee",
     "1fc5cace2378",
-    "2d296f2d84c0",
+    "76006903fd45",
     "b5f4d23d49b5"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "f06c2ce29815",
-   "enunciado": "1ad52115eb9c",
+   "credito": "aeaeec654016",
+   "enunciado": "73f21521779d",
    "gabarito": "A",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q08-apoio-01.jpg"
@@ -386,9 +256,9 @@
      "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q08-apoio-01.jpg",
      6,
      [
-      103.5,
-      548.8,
-      537.2,
+      118.7,
+      557.2,
+      448.2,
       651.0
      ]
     ]
@@ -396,75 +266,49 @@
   },
   "enem-2019-ppl-d1-q09": {
    "alternativas": [
-    "a695e26d961f",
-    "05c240417405",
-    "a5271ff1fdbf",
-    "148f1f1bd307",
-    "d33e29fdd716"
+    "cdfeb3b34dcc",
+    "b9de2863cb6b",
+    "8a42ad7be30f",
+    "40115b012ecd",
+    "2b31faf97827"
    ],
-   "apoio": "c654c0a123b6",
-   "credito": "10929615e304",
-   "enunciado": "8d0b7f95ac2b",
+   "apoio": "19511cbcbedd",
+   "credito": "8824ab9576ee",
+   "enunciado": "92acaf3d2ba8",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q09-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Os mitos são importantes para a cultura porque e",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q09-apoio-01.png",
-     7,
-     [
-      95.2,
-      83.0,
-      277.5,
-      109.2
-     ]
-    ]
-   ]
+   "previa": "Os mitos são importantes para a cultura porque, ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q10": {
    "alternativas": [
-    "d44b19f6f4b9",
-    "39f5c460fa0a",
+    "5cada94cfa30",
+    "932eb58e1c24",
     "deae3727e4ba",
-    "7ae6795d6e5f",
-    "bfd147d0fc86"
+    "530740a18c2d",
+    "b665c3745fdc"
    ],
-   "apoio": "38b0e0a36462",
-   "credito": "b17c6353bbb3",
-   "enunciado": "910918c301a5",
+   "apoio": "3ed252c215a1",
+   "credito": "94de10714ae8",
+   "enunciado": "6b903f3cf093",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q10-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Nesse texto acadêmico as autoras fazem uso da li",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q10-apoio-01.png",
-     7,
-     [
-      103.5,
-      472.0,
-      277.5,
-      489.3
-     ]
-    ]
-   ]
+   "previa": "Nesse texto acadêmico, as autoras fazem uso da l",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q11": {
    "alternativas": [
-    "2eb56b41b390",
-    "6c6bdded7b64",
-    "877e952429ec",
-    "dea7cc746f21",
-    "4de337c6fb56"
+    "3cea6a3f8675",
+    "4fbce1ea5d40",
+    "fd1c324e56d4",
+    "7990a182ca22",
+    "0be2dc3105dd"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "c763ff0be1b1",
+   "credito": "c2658cb6b29b",
+   "enunciado": "ae9e583895f3",
    "gabarito": "E",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q11-apoio-01.jpg"
@@ -477,314 +321,199 @@
      7,
      [
       290.0,
-      198.7,
-      537.2,
-      445.6
+      217.3,
+      536.7,
+      418.9
      ]
     ]
    ]
   },
   "enem-2019-ppl-d1-q12": {
    "alternativas": [
-    "cd738c9b3228",
-    "d97d38132f95",
-    "86ff0b793cd7",
-    "3fe119ae910a",
-    "273c9641a3c4"
+    "6e07d7a6275e",
+    "4d149c2a82be",
+    "4cf2707af393",
+    "ce55e5d657e8",
+    "712b49d945da"
    ],
-   "apoio": "65ee68b91db4",
-   "credito": "78b875ff2750",
-   "enunciado": "7a96938ca0d3",
+   "apoio": "cca3ad5b7d20",
+   "credito": "4321232666ad",
+   "enunciado": "2897be6f3321",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q12-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A descrição, que referencia o Teatro Ontológico-",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q12-apoio-01.png",
-     8,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q13": {
    "alternativas": [
-    "bb75d5fab4bd",
-    "1706da599c07",
-    "da21e5e6a2e3",
-    "d07b896ee389",
-    "a80eba265048"
+    "769be12c86c5",
+    "1b8d29566c96",
+    "e75b440ceaf0",
+    "1641122451aa",
+    "6853d74d2575"
    ],
-   "apoio": "6c8a6fa449cc",
-   "credito": "77d7f19ccec7",
-   "enunciado": "d60990928ea7",
+   "apoio": "6aaea1a97102",
+   "credito": "50a3530a0db3",
+   "enunciado": "397fb6f43357",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q13-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Em relação aos aspectos do padrão corporal dos b",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q13-apoio-01.png",
-     8,
-     [
-      103.5,
-      536.8,
-      277.5,
-      554.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q14": {
    "alternativas": [
-    "ce853c5e3547",
-    "33258b37d357",
-    "0a737f9d8f42",
+    "4e19e37f4c1e",
+    "2d5cd795843c",
+    "e566b959c7fa",
     "7d5ecb0fbb12",
-    "ebd31af897aa"
+    "f3022ba34e7e"
    ],
-   "apoio": "c29ebd9d5aa1",
-   "credito": "882e10d60729",
-   "enunciado": "60bb67533aaf",
+   "apoio": "aee4df1f6c13",
+   "credito": "fa4c39dae04a",
+   "enunciado": "20890e4e0f11",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q14-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Na obra de Guimarães Rosa destaca-se o aspecto a",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q14-apoio-01.png",
-     8,
-     [
-      363.2,
-      198.5,
-      537.2,
-      215.8
-     ]
-    ]
-   ]
+   "previa": "Na obra de Guimarães Rosa, destaca-se o aspecto ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q15": {
    "alternativas": [
-    "b28bfbc4f338",
+    "474437259902",
     "04667dce4a01",
-    "882fc363866b",
-    "722ede4747a8",
-    "349936fa9a98"
+    "b507bfadd46a",
+    "dc5875692631",
+    "b7c56f96ad06"
    ],
-   "apoio": "e8d7b2147772",
+   "apoio": "a32827bc384a",
    "credito": "9aaa59a6e0a4",
    "enunciado": "e22c721a2586",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q15-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Quanto ao seu aspecto formal, a escrita do texto",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q15-apoio-01.png",
-     9,
-     [
-      103.5,
-      83.0,
-      277.5,
-      107.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q16": {
    "alternativas": [
-    "92e99d0a95fc",
-    "a70e1848b263",
-    "af0037f3953c",
-    "bf25c6d777ef",
-    "04a5c3321fb6"
+    "23bda13af9ad",
+    "a15e7671ddc0",
+    "720617ec30b1",
+    "79b02bcff8e4",
+    "0459c022567d"
    ],
-   "apoio": "76af6bc350bd",
-   "credito": "fb9d1e0841b3",
+   "apoio": "58f43c01e06d",
+   "credito": "c65cd67d1379",
    "enunciado": "e213889b06e7",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q16-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Ao descrever a história e os exemplos de utiliza",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q16-apoio-01.png",
-     9,
-     [
-      103.5,
-      416.5,
-      277.5,
-      433.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q17": {
    "alternativas": [
-    "b98efaf3de31",
-    "1ed33cfd1217",
-    "59cd9ca2d135",
+    "4e98b54413f9",
+    "a91cc5b63373",
+    "6ae37e424537",
     "4a30ec7ae46b",
-    "75417a6ea19a"
+    "2f65631a23cf"
    ],
-   "apoio": "9f65f822a131",
+   "apoio": "f1e063e7700c",
    "credito": "fd279305c60f",
-   "enunciado": "62407624d87f",
+   "enunciado": "1925078c60e9",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q17-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Os textos tratam de uma temática bastante discut",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q17-apoio-01.png",
-     9,
-     [
-      363.2,
-      240.2,
-      537.2,
-      257.6
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q18": {
    "alternativas": [
     "9e69ca2f5540",
     "f6c2cca91094",
-    "d32e787c8a7b",
+    "2e47378a752b",
     "27a87a82a6c8",
     "cceb0e390544"
    ],
-   "apoio": "70755535b072",
+   "apoio": "a4307b20d903",
    "credito": "47f8a9ccecf7",
-   "enunciado": "ba39ffeddbc1",
+   "enunciado": "390e71366190",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q18-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Algumas palavras funcionam como marcadores textu",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q18-apoio-01.png",
-     10,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q19": {
    "alternativas": [
     "b27c4e864c82",
-    "d0c7617ac5d3",
-    "985a49a886f3",
-    "d3a924f176a4",
-    "9422c7ea97c2"
+    "745e0ba50d2d",
+    "de4029388554",
+    "f497006a25d0",
+    "899771f386ef"
    ],
-   "apoio": "5a086adfd95a",
-   "credito": "ba98d6ef2440",
-   "enunciado": "45446fa67ee8",
+   "apoio": "4b34f6daf707",
+   "credito": "43eae0da427b",
+   "enunciado": "dab9138d07ee",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q19-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Situado num momento de transição Lima Barreto pr",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q19-apoio-01.png",
-     10,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "Situado num momento de transição, Lima Barreto p",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q20": {
    "alternativas": [
-    "2882ec220234",
-    "37fc5c0d1307",
-    "f4525d2218cf",
+    "26e77e8de4ec",
+    "58e91c2214ed",
+    "8d16ccf48958",
     "5a21711b0a39",
-    "9468d57cded7"
+    "714851b3536b"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "03d28c7828d9",
+   "credito": "4a719467b5b0",
+   "enunciado": "f80a5ff88765",
    "gabarito": "E",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q20-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "A imagem da caneta de tinta vermelha associada à",
+   "previa": "A imagem da caneta de tinta vermelha, associada ",
    "recortes": [
     [
      "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q20-apoio-01.jpg",
      10,
      [
       290.0,
-      474.5,
-      537.2,
-      625.8
+      489.6,
+      536.5,
+      611.5
      ]
     ]
    ]
   },
   "enem-2019-ppl-d1-q21": {
    "alternativas": [
-    "13ee493cd42b",
-    "24e6764e3ffb",
-    "6b1f9dd72560",
-    "b7d31cbaa41a",
-    "be3cc551a32e"
+    "656b1c34649a",
+    "0a2778b96113",
+    "232b932c4aad",
+    "c89535f0e8bb",
+    "c305ee9944f9"
    ],
-   "apoio": "9de28e941a47",
-   "credito": "0d4dd3813258",
-   "enunciado": "edb1629383cf",
+   "apoio": "f06f93b6da2f",
+   "credito": "3134d8e8f383",
+   "enunciado": "abc19360a033",
    "gabarito": "C",
    "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-01.png",
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-02.jpg"
+    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Segundo o texto a cadeira infantil do tipo Isofi",
+   "previa": "Segundo o texto, a cadeira infantil do tipo Isof",
    "recortes": [
     [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-01.png",
-     11,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ],
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-02.jpg",
+     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q21-apoio-01.jpg",
      11,
      [
       43.9,
@@ -797,275 +526,160 @@
   },
   "enem-2019-ppl-d1-q22": {
    "alternativas": [
-    "12ace42461aa",
-    "629bff88026f",
-    "588bbdc53792",
-    "e17dc355506c",
-    "b0e1caad5589"
+    "c27404fc28ea",
+    "3d99fe6e07aa",
+    "b6f38e56f3db",
+    "9c780c02f56e",
+    "6b217b79b6b7"
    ],
-   "apoio": "e1292dab9723",
+   "apoio": "82e04471c64f",
    "credito": "b7b16fbc29fe",
-   "enunciado": "03273a3094bf",
+   "enunciado": "b2bbe45ba235",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q22-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O fato relatado evidencia que fenômenos presente",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q22-apoio-01.png",
-     11,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q23": {
    "alternativas": [
     "7b8c780e75c9",
-    "5709c743c71d",
+    "7e9ee0f55b26",
     "bcdc891d0ab8",
-    "2be0f298aa0a",
-    "911a6278e7ee"
+    "9f9122d42a24",
+    "229b4243c767"
    ],
-   "apoio": "ead80bd10aee",
-   "credito": "fb6377a98014",
+   "apoio": "50c4abd48edd",
+   "credito": "0f816d5f72f5",
    "enunciado": "b62a23fcfee5",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q23-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A função sociocomunicativa desse texto é",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q23-apoio-01.png",
-     12,
-     [
-      68.0,
-      83.0,
-      277.5,
-      110.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q24": {
    "alternativas": [
     "ff3181edfd53",
-    "04c1159b637b",
-    "eb340ea7e59f",
+    "d4eed8855dbd",
+    "3964b27a5e83",
     "e7d534a5ffe5",
     "a9ddf4704ed9"
    ],
-   "apoio": "baadc0408cf2",
+   "apoio": "3fe48fe6b6d6",
    "credito": "c98ed7f49d6d",
    "enunciado": "ecd24db23a4d",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q24-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Qual procedimento composicional caracteriza a co",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q24-apoio-01.png",
-     12,
-     [
-      102.1,
-      464.2,
-      277.5,
-      490.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q25": {
    "alternativas": [
-    "a8fab614f0f0",
-    "72fb49fe762e",
+    "cca7d0f72c4d",
+    "051302cae50d",
     "32d5d132f361",
-    "e41b287bdb41",
-    "35fc0f7d8221"
+    "86aa10b2a723",
+    "0bb93feca4e4"
    ],
-   "apoio": "9e150656714f",
-   "credito": "5f82464c555e",
-   "enunciado": "4dbfa2f8f2af",
+   "apoio": "80089d66ca7a",
+   "credito": "520643c3bc3f",
+   "enunciado": "47e4ff59d380",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q25-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "O texto é um depoimento de Manue Bandeira a resp",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q25-apoio-01.png",
-     12,
-     [
-      363.2,
-      190.9,
-      537.2,
-      208.3
-     ]
-    ]
-   ]
+   "previa": "O texto é um depoimento de Manuel Bandeira a res",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q26": {
    "alternativas": [
     "e42e8e562c9d",
     "00569a709afb",
-    "60d3e0065c7d",
+    "47235b84f7a6",
     "d805be30d6a6",
     "f4e630d87724"
    ],
-   "apoio": "98ff9b1d70e2",
-   "credito": "6b30f56ba900",
-   "enunciado": "dbd116ed0584",
+   "apoio": "0c86d04bd839",
+   "credito": "91c694a66cac",
+   "enunciado": "0f06e52b574d",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q26-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Com o aprimoramento dos recursos tecnológicos a ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q26-apoio-01.png",
-     13,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "Com o aprimoramento dos recursos tecnológicos, a",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q27": {
    "alternativas": [
     "1e935a7084fc",
-    "de3e51e38832",
-    "e32c9177e709",
-    "22a5d06660ee",
-    "f72727b38d59"
+    "d1bae2ae5b14",
+    "e29aa3b37d0b",
+    "d77bf289c176",
+    "585ca6f9598a"
    ],
-   "apoio": "add05359ead6",
-   "credito": "795f049e2f7c",
-   "enunciado": "8b1469cdb14e",
+   "apoio": "c276278c2152",
+   "credito": "0a40c2e97419",
+   "enunciado": "3f4a2aaae652",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q27-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No contexto da arte contemporânea o texto da aut",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q27-apoio-01.png",
-     13,
-     [
-      103.5,
-      468.6,
-      277.5,
-      485.9
-     ]
-    ]
-   ]
+   "previa": "No contexto da arte contemporânea, o texto da au",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q28": {
    "alternativas": [
-    "464fc28726ed",
-    "bbfe094d9949",
-    "4044520c24d7",
-    "cef9537203c9",
-    "7b2fbff05acf"
+    "cb9c8b96a5c8",
+    "74cde4cdd08a",
+    "3d388a96ea70",
+    "096447b85201",
+    "9ca33b006ac9"
    ],
-   "apoio": "c46b1d0a5c6e",
-   "credito": "0f9face9c95c",
-   "enunciado": "b6dba793ca91",
+   "apoio": "2cdabb7e191d",
+   "credito": "fd804f3733cd",
+   "enunciado": "76c78ed6ac8a",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q28-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Considerando os procedimentos argumentativos pre",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q28-apoio-01.png",
-     13,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q29": {
    "alternativas": [
-    "d9d262c959ac",
-    "64c40c7ab84e",
-    "bbefa1e5b042",
-    "cb4c5dd1f0d2",
+    "2374469aedf1",
+    "d86f0ee30482",
+    "fcfa84a726bf",
+    "0ed0cb355ead",
     "e875916b2434"
    ],
-   "apoio": "2d327c681169",
-   "credito": "fee4b6d565ad",
-   "enunciado": "793609cdee61",
+   "apoio": "c6ed849827f2",
+   "credito": "043b58eac097",
+   "enunciado": "19590697badb",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q29-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Na composição do poema o tom elegíaco e solene m",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q29-apoio-01.png",
-     14,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "Na composição do poema, o tom elegíaco e solene ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q30": {
    "alternativas": [
-    "47ba41cd0f98",
-    "a211efaf2c93",
-    "b9532be9d7a1",
-    "f0ae5c9b09bd",
-    "1b3a74226cbe"
+    "a1084fec723f",
+    "9062797e4caf",
+    "bd8157f18037",
+    "2e4b9ea06a04",
+    "b779d184cf78"
    ],
-   "apoio": "b9ba919863c5",
-   "credito": "15b8462b8db8",
-   "enunciado": "630f70c1b41a",
+   "apoio": "0e338851690a",
+   "credito": "c32987a3cc7d",
+   "enunciado": "7da2ea3d4b56",
    "gabarito": "E",
    "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-01.png",
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-02.jpg"
+    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-01.jpg"
    ],
    "imagens_alt": {},
    "previa": "O texto mostra diferentes tipos de discos de fre",
    "recortes": [
     [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-01.png",
-     14,
-     [
-      351.6,
-      83.0,
-      537.2,
-      116.8
-     ]
-    ],
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-02.jpg",
+     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q30-apoio-01.jpg",
      14,
      [
       327.8,
@@ -1078,104 +692,65 @@
   },
   "enem-2019-ppl-d1-q31": {
    "alternativas": [
-    "37b585971fbd",
+    "83e3d86ce849",
     "7a4f4ab71bc8",
     "16e6db255250",
     "be95ba6d506d",
-    "b4fbd8afdf87"
+    "da08053d094a"
    ],
-   "apoio": "0bfd362c6e24",
-   "credito": "e9b4d4b171f9",
-   "enunciado": "b99742281c42",
+   "apoio": "ab7f408a7191",
+   "credito": "9d150955c810",
+   "enunciado": "3e5dccad7136",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q31-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Composição de formato fixo o soneto tornou-se um",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q31-apoio-01.png",
-     15,
-     [
-      103.5,
-      83.0,
-      277.5,
-      110.8
-     ]
-    ]
-   ]
+   "previa": "Composição de formato fixo, o soneto tornou-se u",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q32": {
    "alternativas": [
-    "54f475bdaba7",
-    "31da24e76496",
-    "558316033821",
+    "f365768c859d",
+    "51a459e02470",
+    "8d4c427224d8",
     "ea4483e7ea7d",
-    "111c02f9737e"
+    "41b5a4ac2d10"
    ],
-   "apoio": "b13f2ce01278",
-   "credito": "6bed15cdeb8e",
-   "enunciado": "3146b6f673a7",
+   "apoio": "a3bd17902865",
+   "credito": "ff8bcae28939",
+   "enunciado": "b54fd8b0860b",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q32-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto apresenta uma reflexão crítica sobre o c",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q32-apoio-01.png",
-     15,
-     [
-      103.5,
-      495.6,
-      277.5,
-      513.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q33": {
    "alternativas": [
     "2e8e5243b248",
-    "3336b8318d3e",
-    "ea1f5e7bba5d",
-    "96b876df7a94",
-    "e8c9c2cde02c"
+    "13781be4169d",
+    "c918cd50e03e",
+    "28a95a39f4d6",
+    "cc38ebab668e"
    ],
-   "apoio": "2f6fd451691d",
-   "credito": "89a321a49925",
-   "enunciado": "73201abc4c46",
+   "apoio": "1c16d9dd29ed",
+   "credito": "021857f86b7c",
+   "enunciado": "9430fb42d3db",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q33-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Nessa crônica a repetição de estruturas sintátic",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q33-apoio-01.png",
-     15,
-     [
-      363.2,
-      247.9,
-      537.2,
-      265.2
-     ]
-    ]
-   ]
+   "previa": "Nessa crônica, a repetição de estruturas sintáti",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q34": {
    "alternativas": [
-    "57b9f2ad0b5a",
-    "9479a57d0139",
-    "8af82dd3268c",
-    "f77056e7121f",
-    "e5ce40ebb9cc"
+    "cf77429436a7",
+    "b1ed5f2ae26d",
+    "f5e357109492",
+    "abc61f9f927e",
+    "48cadcaecc23"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
+   "credito": "7b0f7dbfe3da",
    "enunciado": "26749a413ae0",
    "gabarito": "E",
    "imagens": [
@@ -1188,196 +763,120 @@
      "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q34-apoio-01.jpg",
      16,
      [
-      58.8,
-      83.0,
-      277.5,
-      247.0
+      62.4,
+      92.0,
+      244.9,
+      234.3
      ]
     ]
    ]
   },
   "enem-2019-ppl-d1-q35": {
    "alternativas": [
-    "94ac99f1737d",
-    "87d3dca88db3",
-    "a8906be5472c",
-    "cabb211f2b3e",
-    "4218ff5e28e4"
+    "3e4d191d175f",
+    "a8ecda9335bf",
+    "892273831bfb",
+    "cb48bbdebf3c",
+    "d54c49d56e1d"
    ],
-   "apoio": "c1eceb073a68",
+   "apoio": "a5e5237350ce",
    "credito": "199d7d1b8a43",
    "enunciado": "16392796db5d",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q35-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto de Rubem Alves faz uma analogia entre do",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q35-apoio-01.png",
-     16,
-     [
-      29.8,
-      394.4,
-      277.5,
-      463.6
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q36": {
    "alternativas": [
-    "328ef4c2980f",
-    "d8c23c71e762",
-    "ad0a91c934de",
-    "2480d9f67819",
-    "ff65ea75e4ff"
+    "b221f5f4bc82",
+    "f2b0d3e6657d",
+    "94f19bace774",
+    "80d780c1873a",
+    "886a6f507630"
    ],
-   "apoio": "2511856c2804",
-   "credito": "d289e9e418ee",
-   "enunciado": "29ed302376c6",
+   "apoio": "09d6afd3b12e",
+   "credito": "5766954cdace",
+   "enunciado": "1c4cf4fd381f",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q36-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto a condição da personagem e os desdobram",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q36-apoio-01.png",
-     16,
-     [
-      363.2,
-      83.0,
-      537.2,
-      106.6
-     ]
-    ]
-   ]
+   "previa": "No texto, a condição da personagem e os desdobra",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q37": {
    "alternativas": [
-    "10e7b6ea10a8",
-    "665e1f12f352",
+    "0b05e4d38c54",
+    "0cdb7e08265d",
     "a0d1816faf78",
-    "eec92d96ad0a",
+    "116b081cedce",
     "ece5d6b35324"
    ],
-   "apoio": "9520f4d6f646",
+   "apoio": "cf96d7f79e6e",
    "credito": "83c247e62fc6",
-   "enunciado": "a68b99c13474",
+   "enunciado": "ee15266faf6b",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q37-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A exploração da variação linguística é um elemen",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q37-apoio-01.png",
-     17,
-     [
-      86.8,
-      83.0,
-      277.5,
-      106.9
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q38": {
    "alternativas": [
     "8cbe2f45c02c",
-    "0d15087975bb",
-    "cb7f1f8ef474",
-    "809f9a2ecdf4",
-    "044eb6feb8db"
+    "478ef269f937",
+    "3e7681d6dca9",
+    "9760b54e395d",
+    "e01ce1799637"
    ],
-   "apoio": "a602b7af9b26",
-   "credito": "a51b25490449",
-   "enunciado": "61631a35497c",
+   "apoio": "2335e15fa34e",
+   "credito": "9a52a9e12f4b",
+   "enunciado": "ddffb42655e9",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q38-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Partindo da discussão sobre as relações entre o ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q38-apoio-01.png",
-     17,
-     [
-      46.8,
-      499.4,
-      277.5,
-      523.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q39": {
    "alternativas": [
-    "3eac86eb1514",
-    "dfef5ace0cb3",
-    "2f4761f117b1",
-    "4242a6620de4",
-    "e90e915faa09"
+    "2e828907c6ce",
+    "37087d43828c",
+    "320860d1d065",
+    "4d69e6fe0eb9",
+    "25e27fd6a7d6"
    ],
-   "apoio": "3b2ea0605b06",
-   "credito": "73e17a1a0ccf",
+   "apoio": "f3715c8c762a",
+   "credito": "e196e6bbed5b",
    "enunciado": "9cec9ef1df60",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q39-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto relata experiências e resultados de um e",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q39-apoio-01.png",
-     17,
-     [
-      363.2,
-      283.2,
-      537.2,
-      300.6
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q40": {
    "alternativas": [
-    "1ff560c38852",
-    "1b4fbf83f801",
-    "46fb8e21b745",
-    "5bdec99fd4ed",
-    "944b43c08f4a"
+    "9bd6273c0fc3",
+    "0e6cc7c68c93",
+    "35a115a71205",
+    "684b88146439",
+    "29b7c4d86aca"
    ],
    "apoio": "9f8414c4db54",
-   "credito": "c705a5ad612e",
-   "enunciado": "7eb6dbfd9476",
+   "credito": "0e10c6e791fb",
+   "enunciado": "ef161ede0c52",
    "gabarito": "B",
    "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-01.png",
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-02.jpg",
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-03.jpg"
+    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-01.jpg",
+    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-02.jpg"
    ],
    "imagens_alt": {},
    "previa": "O instrumento feito de lâminas metálicas e cabaç",
    "recortes": [
     [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-01.png",
-     18,
-     [
-      103.5,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ],
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-02.jpg",
+     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-01.jpg",
      18,
      [
       303.2,
@@ -1387,7 +886,7 @@
      ]
     ],
     [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-03.jpg",
+     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q40-apoio-02.jpg",
      18,
      [
       73.7,
@@ -1400,495 +899,287 @@
   },
   "enem-2019-ppl-d1-q41": {
    "alternativas": [
-    "f2549edc0a79",
-    "2b8640ed9541",
+    "7164abad8ef6",
+    "9e775ca9a68a",
     "4dc0b46f37c3",
-    "b4c4a50bc088",
+    "2367dbaecb78",
     "0779336130bc"
    ],
-   "apoio": "533aab56b056",
-   "credito": "3e2fbcff3d8c",
-   "enunciado": "811c20d118c8",
+   "apoio": "8a17d9a3d364",
+   "credito": "995c990755e3",
+   "enunciado": "f1a0424b497e",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q41-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "O texto publicado no fim do século XIX traz à to",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q41-apoio-01.png",
-     18,
-     [
-      103.5,
-      476.8,
-      537.2,
-      494.2
-     ]
-    ]
-   ]
+   "previa": "O texto, publicado no fim do século XIX, traz à ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q42": {
    "alternativas": [
     "b6ff90744087",
-    "06e738d643b2",
-    "9aa1eaccc67a",
+    "bd1790499ccc",
+    "862622652a03",
     "29a44a2ad260",
-    "2134f33658ac"
+    "29ba63c29334"
    ],
-   "apoio": "66a59abde084",
+   "apoio": "6014b6ed35ff",
    "credito": "5bb15121b4cf",
-   "enunciado": "03d0800e7b79",
+   "enunciado": "a5dd2414ef37",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q42-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto há recorrência do emprego do artigo “as",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q42-apoio-01.png",
-     19,
-     [
-      98.3,
-      83.0,
-      277.5,
-      109.9
-     ]
-    ]
-   ]
+   "previa": "No texto, há recorrência do emprego do artigo “a",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q43": {
    "alternativas": [
-    "fe3989d94de1",
-    "429af17e5b9c",
-    "d49c31facfc6",
-    "594b4d1ee35d",
-    "0e3117431bff"
+    "ed1da7d0cf7b",
+    "3692553fe0c9",
+    "15af8e3a6ea4",
+    "89045ccc11a9",
+    "bf1f5573a8ac"
    ],
-   "apoio": "bfc4042459a6",
+   "apoio": "43008b851ff5",
    "credito": "3f9475f689db",
-   "enunciado": "93a83f172402",
+   "enunciado": "1f342c13d72b",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q43-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No processo de convencimento do leitor o autor d",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q43-apoio-01.png",
-     19,
-     [
-      103.5,
-      450.3,
-      277.5,
-      477.4
-     ]
-    ]
-   ]
+   "previa": "No processo de convencimento do leitor, o autor ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q44": {
    "alternativas": [
-    "b315df09fca2",
+    "fc2c1ef7792d",
     "2fa05db656a4",
-    "a23c85a5a8b0",
-    "c1f284388be3",
-    "0b8237bfc28d"
+    "c24fb10088c0",
+    "a44ffe3b2e06",
+    "6aadfe520bbf"
    ],
-   "apoio": "e22daeb91382",
-   "credito": "889fe8fc3c99",
-   "enunciado": "924a34f62b6d",
+   "apoio": "98f747396da4",
+   "credito": "58e8a32d9041",
+   "enunciado": "d6a30c0b8013",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q44-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "As soluções de linguagem encontradas pelo narrad",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q44-apoio-01.png",
-     19,
-     [
-      289.5,
-      194.4,
-      537.2,
-      244.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q45": {
    "alternativas": [
-    "b0a16192d3ed",
-    "b0857cae7058",
-    "aec00aac030d",
-    "a55b868fcecc",
+    "2ccf19403aab",
+    "01549a6667ce",
+    "8235522a2166",
+    "522aae69e677",
     "f53694d37987"
    ],
-   "apoio": "13a8a139c0fd",
-   "credito": "b1a8651ca70f",
-   "enunciado": "7cc0281e313c",
+   "apoio": "b1855b86c230",
+   "credito": "2e04c91227a0",
+   "enunciado": "afcba1cd8fee",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q45-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O trecho integra um livro sobre os aspectos ecol",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q45-apoio-01.png",
-     19,
-     [
-      361.3,
-      467.4,
-      537.2,
-      488.3
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q46": {
    "alternativas": [
-    "7f2e511b9fd9",
-    "e8b2ddd10836",
-    "e2cf71b02737",
-    "ce7d43b1cacc",
-    "b3df55fa7f22"
+    "dc2d92f6bfc2",
+    "a1011816aeef",
+    "ca1a2f439c20",
+    "a42973270557",
+    "8cdfe3490c79"
    ],
-   "apoio": "5cabd64a9cdd",
-   "credito": "f646f125af4d",
-   "enunciado": "6a10b1baf09c",
+   "apoio": "56396858b95a",
+   "credito": "1d0b611c4b68",
+   "enunciado": "c76a03b07ddd",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q46-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O trecho contém uma formulação da doutrina nietz",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q46-apoio-01.png",
-     21,
-     [
-      103.0,
-      137.6,
-      277.0,
-      155.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q47": {
    "alternativas": [
     "0fde7fc96912",
-    "6ec396fe8999",
-    "87dd719d886f",
-    "8f76a03b70b0",
-    "aa9482f0ea2f"
+    "793dd5d25df6",
+    "d05805f54278",
+    "4f24eab8b841",
+    "aad881fd51bb"
    ],
-   "apoio": "bfc32b6fd69b",
+   "apoio": "f4eb2c1b8fb1",
    "credito": "ee72d7c69921",
-   "enunciado": "87e3a79f1fb5",
+   "enunciado": "e62394fe0a3e",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q47-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto destaca o entendimento segundo o qual a ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q47-apoio-01.png",
-     21,
-     [
-      103.0,
-      434.2,
-      277.0,
-      451.5
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q48": {
    "alternativas": [
-    "a00a411eb25d",
-    "e2de502e0699",
-    "f166f6356878",
+    "0d683a7be4a9",
+    "cecd97f819f7",
+    "931fdb50a35c",
     "7e7e9eecca0e",
-    "cb102c9c3903"
+    "e6dd77b98425"
    ],
-   "apoio": "7f6dc85fd391",
-   "credito": "13e227d1fcda",
-   "enunciado": "2a6f92c40da6",
+   "apoio": "76daec977b57",
+   "credito": "0479cbf0f895",
+   "enunciado": "92bc942bd986",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q48-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto, durante o reinado de D Pe",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q48-apoio-01.png",
-     21,
-     [
-      362.7,
-      82.5,
-      536.7,
-      99.9
-     ]
-    ]
-   ]
+   "previa": "De acordo com o texto, durante o reinado de D. P",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q49": {
    "alternativas": [
-    "44476f4b27f2",
-    "954772cced36",
-    "46bad7d77cf6",
-    "20f319227037",
-    "6a837437b8f4"
+    "44fb6f7a0539",
+    "df7aa9d9667e",
+    "a85cf54c1337",
+    "b4fa6ace69af",
+    "b97d5579f337"
    ],
-   "apoio": "2eb2e36234e3",
+   "apoio": "1398d1a09186",
    "credito": "2d06a64697e2",
    "enunciado": "4c20504af33f",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q49-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O uso desse método para compreender as condições",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q49-apoio-01.png",
-     21,
-     [
-      362.7,
-      363.1,
-      536.7,
-      380.5
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q50": {
    "alternativas": [
-    "603fb6a9788a",
+    "d33bb1dafa8f",
     "29a7bdc46306",
-    "52873cc76e02",
-    "d50416898a16",
-    "cbbcdda58a94"
+    "f9e3c0a24d7d",
+    "bdb5f9aa0165",
+    "0bd997695a31"
    ],
-   "apoio": "82ce5398aae9",
-   "credito": "a543ea9663e5",
-   "enunciado": "c03a2d50d95a",
+   "apoio": "9670ee450eff",
+   "credito": "ba32f6b9977f",
+   "enunciado": "87cba40c7157",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q50-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "A partir do século XVII, a história da casa que ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q50-apoio-01.png",
-     22,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "A partir do século XVII, a história da casa, que",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q51": {
    "alternativas": [
     "bf139d5e0e43",
-    "88f25a8bfd38",
-    "873a02049b80",
-    "7b7f8e5f879a",
-    "bd566b7aeddf"
+    "0aa280bb6bf0",
+    "82aeba67b5b4",
+    "b6cb45e0e01e",
+    "c2538d6a0053"
    ],
-   "apoio": "f5725e179ba0",
-   "credito": "66ff74fc4507",
+   "apoio": "839f519bf044",
+   "credito": "3233a4c839d9",
    "enunciado": "ece7e7b6dde6",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q51-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "As fontes valorizadas no texto são relevantes pa",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q51-apoio-01.png",
-     22,
-     [
-      103.5,
-      384.8,
-      277.5,
-      402.2
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q52": {
    "alternativas": [
     "789acecbed9e",
-    "35f1fd95aa62",
-    "af0883f066a7",
+    "d2df415889a2",
+    "d8102668b45c",
     "494cf6fe91b1",
-    "9bc8f747c7d7"
+    "43d238815f52"
    ],
-   "apoio": "a2a4dfad4b62",
+   "apoio": "eb3a83ded2e3",
    "credito": "4b2f4d4d54d8",
-   "enunciado": "bc0caf2ff98e",
+   "enunciado": "dc51bc91e2ab",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q52-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No contexto do século XIII a visão política do f",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q52-apoio-01.png",
-     22,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "No contexto do século XIII, a visão política do ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q53": {
    "alternativas": [
-    "4b3758e79f42",
-    "537ee7941ab4",
-    "1d8c9e923d72",
-    "47f94b9e5d64",
-    "265d7f52d56d"
+    "84b0ad78bdf8",
+    "001e5de58e18",
+    "e22de960d702",
+    "751c2ee686bf",
+    "8bfc402b1a8d"
    ],
-   "apoio": "a58ace5d82d3",
-   "credito": "2c733ad2c1c6",
+   "apoio": "a9c8d520b73a",
+   "credito": "22ed50da8da4",
    "enunciado": "84707b8ebea8",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q53-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Os textos de Tolstói e Rousseau retratam ideais ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q53-apoio-01.png",
-     22,
-     [
-      363.2,
-      336.4,
-      537.2,
-      353.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q54": {
    "alternativas": [
-    "d942ccc4ef14",
-    "36a03d3c5ae2",
-    "9a45ad9c3d6b",
-    "983e7ffc5c41",
-    "6b64b37369bd"
+    "fa9c88af0a82",
+    "e14f5c747cfd",
+    "5b24c93048b2",
+    "c5047192d2d3",
+    "6d2b4521b2f6"
    ],
-   "apoio": "87ed2c83f802",
-   "credito": "89be00cf4ca1",
+   "apoio": "ef7b6b16a8d1",
+   "credito": "95fe71abe49b",
    "enunciado": "8be2322c7002",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q54-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O estranhamento do autor diante da cerimônia rel",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q54-apoio-01.png",
-     23,
-     [
-      103.0,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q55": {
    "alternativas": [
     "4d54f56124d0",
-    "3cc68ca6f6fa",
+    "c9d9b7180a15",
     "cee220df5448",
     "eb7b0736b7fe",
-    "99c9a538123f"
+    "2581620402ae"
    ],
-   "apoio": "fd44810a0d78",
-   "credito": "2ff44cda89ad",
+   "apoio": "0193f9398c3b",
+   "credito": "30cfadb6099f",
    "enunciado": "77f8c9114487",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q55-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A característica da manifestação cultural descri",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q55-apoio-01.png",
-     23,
-     [
-      103.0,
-      441.4,
-      277.5,
-      458.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q56": {
    "alternativas": [
-    "d16079e117df",
-    "4f03b22c6896",
-    "c16ebbe671e1",
-    "1165e626bf03",
-    "71222b42e976"
+    "8da886baba89",
+    "600dc632e19a",
+    "dc18eaba5fda",
+    "9526ba7c08d3",
+    "f96522e2df9e"
    ],
-   "apoio": "b63eb8ed7d15",
-   "credito": "1a0571a3e7db",
+   "apoio": "b4c887ad07df",
+   "credito": "8a45bbc9a531",
    "enunciado": "868dc1864955",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q56-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Nesse contexto, a ciência encontra seu novo fund",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q56-apoio-01.png",
-     23,
-     [
-      347.8,
-      83.0,
-      537.7,
-      105.5
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q57": {
    "alternativas": [
-    "c41a4fd24213",
-    "31e7212d6e7e",
-    "3d914af5899d",
-    "a7035115bf0e",
+    "e50af3068bdd",
+    "e06ec8bed147",
+    "aab39ac2bfee",
+    "de5f72be2a17",
     "61acef992172"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "5da38a1f2e32",
+   "credito": "54c1e521b9c7",
+   "enunciado": "7a14287902b9",
    "gabarito": "A",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q57-apoio-01.jpg"
@@ -1901,38 +1192,38 @@
      23,
      [
       320.7,
-      327.3,
-      537.7,
-      637.3
+      337.9,
+      506.5,
+      615.4
      ]
     ]
    ]
   },
   "enem-2019-ppl-d1-q58": {
    "alternativas": [
-    "73a78371424f",
-    "7c49771a1785",
-    "fc7b9b11574e",
-    "14301e6111fe",
-    "a4e98d3a8419"
+    "95f24f22bff0",
+    "2a0b3e04ad34",
+    "537c5d71429f",
+    "f07354d8e52b",
+    "8bd88ef89f7e"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "6e17c086e781",
-   "enunciado": "46e7c08332ee",
+   "credito": "9c526ece3208",
+   "enunciado": "6fe0fc496d85",
    "gabarito": "E",
    "imagens": [
     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q58-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "A partida fina da Copa do Mundo de 2014 acontece",
+   "previa": "A partida final da Copa do Mundo de 2014 acontec",
    "recortes": [
     [
      "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q58-apoio-01.jpg",
      24,
      [
       35.9,
-      83.0,
-      537.2,
+      100.7,
+      531.0,
       418.2
      ]
     ]
@@ -1940,963 +1231,547 @@
   },
   "enem-2019-ppl-d1-q59": {
    "alternativas": [
-    "336018cdf425",
-    "72dcbd3e864b",
-    "08e1dbaa2232",
-    "0c3c7739ab3d",
-    "762e5e491e45"
+    "a5d5b883eb2f",
+    "aeb4a4dade22",
+    "efdb4255f32c",
+    "d114d684c44f",
+    "c758f3ec4929"
    ],
-   "apoio": "6da50e438bb7",
-   "credito": "9671958decd3",
-   "enunciado": "a7a9365a5dfd",
+   "apoio": "2de9275f9623",
+   "credito": "1501067c9c08",
+   "enunciado": "c2ae879de7b0",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q59-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Perante o cenário econômico descrito o Estado br",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q59-apoio-01.png",
-     24,
-     [
-      103.5,
-      573.4,
-      537.2,
-      590.7
-     ]
-    ]
-   ]
+   "previa": "Perante o cenário econômico descrito, o Estado b",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q60": {
    "alternativas": [
-    "fd0a6f9aee87",
-    "d4d8e77c0045",
-    "19e74cd61a9a",
-    "7935285e2189",
-    "741482352420"
+    "b2b155640567",
+    "053456cae847",
+    "211d7484a90d",
+    "61ed929ec5ac",
+    "8d849730564b"
    ],
-   "apoio": "81b9ffa5c5bc",
+   "apoio": "da561f229b6f",
    "credito": "1cce5cf017ea",
    "enunciado": "125950f18c52",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q60-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O que a Convenção representou para o cenário geo",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q60-apoio-01.png",
-     25,
-     [
-      103.0,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q61": {
    "alternativas": [
-    "114d1ada6e08",
-    "4708e23af406",
+    "2e96d0daaf9d",
+    "e2887d4b94f6",
     "7aea12f59299",
-    "349cd104e856",
+    "09d0efc4b42e",
     "38b28bdb9b9f"
    ],
-   "apoio": "e410a4d547e8",
+   "apoio": "2763d6eb7aa5",
    "credito": "493e5cfa496c",
    "enunciado": "19476786016d",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q61-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "As medidas governamentais descritas buscam conte",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q61-apoio-01.png",
-     25,
-     [
-      103.0,
-      467.6,
-      277.5,
-      485.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q62": {
    "alternativas": [
     "8a420a78e35c",
-    "69ca4eb33792",
-    "d4e828aa3581",
-    "866fb22a9f4c",
-    "5d773e3c4741"
+    "c858d5c64a64",
+    "0c575738d9fc",
+    "42758d97a4fa",
+    "1cba35eb4163"
    ],
-   "apoio": "7459c1017ae0",
+   "apoio": "daf097dd639b",
    "credito": "bcd9e9378eb3",
-   "enunciado": "8d6f87912953",
+   "enunciado": "4ce2a9ae41db",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q62-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Considerando a conjuntura histórica o ordenament",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q62-apoio-01.png",
-     25,
-     [
-      353.3,
-      83.0,
-      537.7,
-      105.2
-     ]
-    ]
-   ]
+   "previa": "Considerando a conjuntura histórica, o ordenamen",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q63": {
    "alternativas": [
-    "4d9a01bec96c",
-    "db2f99146d43",
-    "ae25fa2e2103",
-    "808dca993c1f",
-    "283fdcc816f8"
+    "8594edaf6c24",
+    "4b2543961db5",
+    "1163feb4ac2a",
+    "72cd8b2ed091",
+    "1482a710735e"
    ],
-   "apoio": "97b21eb63ac3",
+   "apoio": "7b23d5ca3aa6",
    "credito": "4956bde920bf",
-   "enunciado": "2e8ed729827f",
+   "enunciado": "a094982696d5",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q63-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "As diferentes estratégias da Otan demonstradas n",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q63-apoio-01.png",
-     25,
-     [
-      363.2,
-      314.8,
-      537.7,
-      332.1
-     ]
-    ]
-   ]
+   "previa": "As diferentes estratégias da Otan, demonstradas ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q64": {
    "alternativas": [
-    "7d75e6619c85",
-    "34b4c6dc0881",
-    "c8af98a19ed5",
-    "4b78f57ece29",
+    "46bfd15dc676",
+    "ef11be139b73",
+    "058d1c72ae5c",
+    "8859aa5fcebe",
     "4d902e4bbfc3"
    ],
-   "apoio": "85e9ea0e1457",
+   "apoio": "9c72a2434237",
    "credito": "17e61f4b84de",
-   "enunciado": "79813b3eb5ce",
+   "enunciado": "76e2d89417a3",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q64-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A característica familiar descrita deriva do seg",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q64-apoio-01.png",
-     26,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q65": {
    "alternativas": [
-    "d764a4956994",
-    "4e5ef9f831b4",
+    "9938e2c61ce6",
+    "a2d031f567e5",
     "e80343eac5b6",
-    "b0e22386e47e",
-    "ff0f239c9bba"
+    "069f48e26a70",
+    "9eae55124e59"
    ],
-   "apoio": "307ded92f37e",
-   "credito": "93372aa5bd2d",
-   "enunciado": "f0dad711165d",
+   "apoio": "eb0a7dbcbd1b",
+   "credito": "826df0787ada",
+   "enunciado": "82eeb396cffa",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q65-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "O discurso sobre a infância veiculado pelo jorna",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q65-apoio-01.png",
-     26,
-     [
-      103.5,
-      336.6,
-      277.5,
-      354.0
-     ]
-    ]
-   ]
+   "previa": "O discurso sobre a infância, veiculado pelo jorn",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q66": {
    "alternativas": [
-    "eb5f6e86951a",
-    "8aa718f9a802",
-    "5928ddc9db2f",
-    "499069fe4fbe",
-    "e9e95560593c"
+    "c5932b3c71f4",
+    "2eb5fe8e9896",
+    "26739a2f362a",
+    "9493b74941ee",
+    "38bfffabbf37"
    ],
-   "apoio": "27fa7393f1be",
-   "credito": "613f77d51ad7",
-   "enunciado": "bf7f2195c37e",
+   "apoio": "2853ec6b749b",
+   "credito": "15ce8445e9ae",
+   "enunciado": "874c83837968",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q66-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto a representação da morte g",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q66-apoio-01.png",
-     26,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "De acordo com o texto, a representação da morte ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q67": {
    "alternativas": [
     "813de97181d6",
     "50d71363cd6b",
-    "61d3c8fc9c1a",
-    "fcdc9b23de66",
-    "aca845df9ec4"
+    "d56ce575e632",
+    "458de4edd3da",
+    "209342ea1312"
    ],
-   "apoio": "aa3ae35c1463",
-   "credito": "f1a6503867b0",
-   "enunciado": "65866cc8524f",
+   "apoio": "4f4dbbfa563b",
+   "credito": "a1cb17930617",
+   "enunciado": "3ba87853bca0",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q67-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O movimento descrito no texto contribui para o p",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q67-apoio-01.png",
-     26,
-     [
-      363.2,
-      455.2,
-      537.2,
-      472.6
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q68": {
    "alternativas": [
-    "32201739bdfb",
-    "ce367864dff6",
-    "eecd17aa4f7a",
-    "1fee2099eb45",
-    "2392dd371b43"
+    "e4666128db82",
+    "91e672a74c81",
+    "11a9d1afa814",
+    "b147cc789ce0",
+    "119e0e97587b"
    ],
-   "apoio": "74b91f596d19",
-   "credito": "1a7899b0fcd2",
+   "apoio": "11358d3fbd91",
+   "credito": "3d35c9551c6c",
    "enunciado": "ed8fcb4bcb51",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q68-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O texto desmistifica uma visão do senso comum se",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q68-apoio-01.png",
-     27,
-     [
-      103.0,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q69": {
    "alternativas": [
-    "79d3fae91068",
-    "87f120896ab7",
-    "ac97e5ba6e4a",
-    "ed41953bc7fe",
-    "9c73cf5ffff6"
+    "840da41b03cc",
+    "8ea4b1e12a0a",
+    "ee69097caf8e",
+    "161d0b5dcf6e",
+    "520319a4df49"
    ],
-   "apoio": "d964f77ea4c6",
+   "apoio": "3fd6568d980d",
    "credito": "4783f0c94cb4",
-   "enunciado": "a0f6dd8928e6",
+   "enunciado": "e9e7bfc2003c",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q69-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O cenário descrito revela a seguinte característ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q69-apoio-01.png",
-     27,
-     [
-      103.0,
-      412.6,
-      277.5,
-      430.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q70": {
    "alternativas": [
-    "b4e0f5f7d891",
-    "9d6280e2a16a",
-    "56805ef77359",
-    "eeede48de325",
-    "ae4cdceb933c"
+    "2ba419818fbb",
+    "4f3dfe5f8e4d",
+    "ce8fd89a57d7",
+    "87f55712a49f",
+    "0aa6c778917b"
    ],
-   "apoio": "e65892b3c7cf",
+   "apoio": "5fd1f6680021",
    "credito": "e26f9c65c3f9",
-   "enunciado": "ecff4dec78c8",
+   "enunciado": "0b768fa9f78e",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q70-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "A característica regiona que levou uma das revol",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q70-apoio-01.png",
-     27,
-     [
-      363.2,
-      83.0,
-      537.7,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "A característica regional que levou uma das revo",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q71": {
    "alternativas": [
-    "9ba2e63a9c88",
-    "825b30f61810",
-    "2ffec8ebcbfa",
-    "d2208d5c5feb",
+    "6ac0e4c0d119",
+    "66398962989e",
+    "d209a579dd9b",
+    "e0fa8ecfad07",
     "47b32c5b3efe"
    ],
-   "apoio": "6c0dd698cf56",
-   "credito": "cb607f78e82b",
-   "enunciado": "f266d2c96b28",
+   "apoio": "5f4442e269f6",
+   "credito": "19b657c8512b",
+   "enunciado": "d24311cf34ac",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q71-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O processo de estranhamento citado, com base em ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q71-apoio-01.png",
-     27,
-     [
-      363.2,
-      410.4,
-      537.7,
-      427.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q72": {
    "alternativas": [
-    "0f3293725a2f",
+    "be7d7b4e82ce",
     "c527bbde7dde",
-    "1957f70e5ae7",
-    "c0353e30f7da",
-    "f23b235c7ce8"
+    "5173519a0a8d",
+    "2c27699a1068",
+    "fe5efa3f521d"
    ],
-   "apoio": "75d6bef5fc53",
-   "credito": "97c48fd99329",
-   "enunciado": "690cc6412966",
+   "apoio": "8683cd63193a",
+   "credito": "e81e8d9ca833",
+   "enunciado": "c6ed70bfa03f",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q72-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No contexto atual essa crítica proposta por Edga",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q72-apoio-01.png",
-     28,
-     [
-      103.5,
-      83.0,
-      277.5,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "No contexto atual, essa crítica proposta por Edg",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q73": {
    "alternativas": [
-    "daf7699c37c7",
-    "031a86012887",
+    "7ae93281ac03",
+    "c5c868e08293",
     "1aa92994d78b",
-    "074e75ca868f",
-    "548d65d7963f"
+    "8956ce49de65",
+    "4182852ad3e9"
    ],
-   "apoio": "00711316200a",
-   "credito": "2503ea7e3327",
-   "enunciado": "6fd84328d62a",
+   "apoio": "09bb02032740",
+   "credito": "b3334354eac5",
+   "enunciado": "27673637355f",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q73-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No trecho expressa-se uma visão poética da epist",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q73-apoio-01.png",
-     28,
-     [
-      103.5,
-      367.6,
-      277.5,
-      385.0
-     ]
-    ]
-   ]
+   "previa": "No trecho, expressa-se uma visão poética da epis",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q74": {
    "alternativas": [
-    "b29597101cff",
-    "f715eb52ba91",
-    "6ce0eb199f82",
+    "848e886d2390",
+    "60de2983b1fd",
+    "b23993246a88",
     "36c8c2f442b0",
     "342f8b8c7d92"
    ],
-   "apoio": "c33433e69c4a",
-   "credito": "cf8f4f7e9f65",
-   "enunciado": "6a3a41a0d808",
+   "apoio": "ed904e26966e",
+   "credito": "a2d14a1204a2",
+   "enunciado": "173b196498c6",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q74-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A mudança nas atividades produtivas a que o text",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q74-apoio-01.png",
-     28,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q75": {
    "alternativas": [
-    "cd022d1e1e4f",
-    "d90294e7ce81",
-    "571108c32d80",
-    "5a959b228f56",
-    "54b62de0a578"
+    "a88c84d09753",
+    "859646d04ce1",
+    "35e7323b03fc",
+    "1c78cfe49493",
+    "8c1e821685f4"
    ],
-   "apoio": "bb6564ae8cee",
-   "credito": "ea7f0482d768",
-   "enunciado": "c4069aad1b23",
+   "apoio": "2abc575e4a4e",
+   "credito": "4ac6eee96cf6",
+   "enunciado": "d8bf7042ada1",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q75-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No contexto descrito as transformações estéticas",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q75-apoio-01.png",
-     28,
-     [
-      363.2,
-      398.0,
-      537.2,
-      415.4
-     ]
-    ]
-   ]
+   "previa": "No contexto descrito, as transformações estética",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q76": {
    "alternativas": [
-    "ae3c4b4da3d7",
+    "ebb1d40adb52",
     "65983cc5b41a",
-    "6b2d9a83d170",
+    "9513102c3479",
     "d485113dfda7",
-    "e789b2e6c194"
+    "f61a02c0cf0c"
    ],
-   "apoio": "63e313dd5647",
+   "apoio": "1eba2145457b",
    "credito": "4cb9ff800316",
    "enunciado": "26f3ec50da19",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q76-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A letra da canção do início dos anos 1990 destac",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q76-apoio-01.png",
-     29,
-     [
-      103.0,
-      83.0,
-      277.5,
-      105.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q77": {
    "alternativas": [
-    "27e6d428cacd",
-    "4225dda08150",
-    "59c992382f46",
-    "7e3c83135b5c",
-    "f9354b6ff2b8"
+    "f00a472b0a8f",
+    "0e5b1d332ebb",
+    "806d05ac5597",
+    "d2ebbd9023d6",
+    "59bd4528b464"
    ],
-   "apoio": "af72ab587f53",
-   "credito": "c849cfba94bb",
+   "apoio": "25d95cb079d9",
+   "credito": "932d716a4b31",
    "enunciado": "61894fa9f126",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q77-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O conceito que define o processo descrito denomi",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q77-apoio-01.png",
-     29,
-     [
-      103.0,
-      293.0,
-      277.5,
-      314.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q78": {
    "alternativas": [
-    "e1397da7346b",
-    "857f7ad44a5c",
-    "720858d01e5f",
-    "ee373bbe661a",
+    "4f7058c3dad2",
+    "6c27539f248f",
+    "ba7f5240fd89",
+    "8ef0db325b93",
     "c0b52165a433"
    ],
-   "apoio": "1a90d9b8b6a7",
+   "apoio": "3dd92004fac1",
    "credito": "849969587dbe",
-   "enunciado": "fe3c39a347f6",
+   "enunciado": "9540363ba60e",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q78-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No meio urbano o atendimento da proposta de incl",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q78-apoio-01.png",
-     29,
-     [
-      93.8,
-      505.8,
-      277.5,
-      530.5
-     ]
-    ]
-   ]
+   "previa": "No meio urbano, o atendimento da proposta de inc",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q79": {
    "alternativas": [
-    "092aae860cd8",
+    "430fc1c8471e",
     "f56af8860e28",
-    "85b5f1195ddb",
-    "4c665cb4e953",
+    "276fd090d1e4",
+    "5c307a7fd691",
     "83957d6767d8"
    ],
-   "apoio": "101abc82dec8",
-   "credito": "6c4379827927",
-   "enunciado": "b156c4eefe8d",
+   "apoio": "7c58d59f38e1",
+   "credito": "f3c9c31198e9",
+   "enunciado": "524b0fdfee48",
    "gabarito": "D",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q79-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Do ponto de vista conceitua a transformação iden",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q79-apoio-01.png",
-     29,
-     [
-      363.2,
-      83.0,
-      537.7,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "Do ponto de vista conceitual, a transformação id",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q80": {
    "alternativas": [
-    "e28a13a6f7ea",
-    "57b3b213ae7e",
-    "46337048de70",
-    "56b812e4e506",
-    "caf270a8a38f"
+    "36d7c4cf6665",
+    "eb20971bbda1",
+    "45b1d7c77e67",
+    "22a6a56ea44f",
+    "8284e0e7d490"
    ],
-   "apoio": "e6fb725cfcf0",
-   "credito": "ba937bad9e42",
-   "enunciado": "e90ff3d74eb2",
+   "apoio": "b0ad048b5e99",
+   "credito": "307ff669efaf",
+   "enunciado": "ad9148b4d853",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q80-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O pedido de um grupo de africanos de Recife ao c",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q80-apoio-01.png",
-     29,
-     [
-      363.2,
-      379.6,
-      537.7,
-      397.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q81": {
    "alternativas": [
-    "31a5c89b7fc8",
+    "7a4197d9d5a1",
     "7a03494b3386",
     "564ddd9d54d6",
-    "926da4954851",
-    "67e5e1a84ccb"
+    "5a16ce101fef",
+    "f76580a55107"
    ],
-   "apoio": "557422e7cae0",
-   "credito": "58d1406db876",
-   "enunciado": "d7ef909d8122",
+   "apoio": "359f1bd8c1e6",
+   "credito": "5b58586cdd7b",
+   "enunciado": "e8c56b0095f9",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q81-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "No trecho o autor considera que o conhecimento t",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q81-apoio-01.png",
-     30,
-     [
-      60.2,
-      83.0,
-      277.5,
-      104.9
-     ]
-    ]
-   ]
+   "previa": "No trecho, o autor considera que o conhecimento ",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q82": {
    "alternativas": [
-    "6ed72079b452",
+    "9be9d8abe67c",
     "898118df8129",
     "a596e8ce6331",
-    "a726df8bbce2",
-    "3f4f11056e2b"
+    "593e60406a3c",
+    "f0c256c350d3"
    ],
-   "apoio": "24c4336566b9",
+   "apoio": "3d4c6d6fabaf",
    "credito": "314b1e851001",
-   "enunciado": "55a86da87d89",
+   "enunciado": "0109698d9f25",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q82-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O fragmento evoca o seguinte princípio moral da ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q82-apoio-01.png",
-     30,
-     [
-      103.5,
-      313.0,
-      277.5,
-      334.8
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q83": {
    "alternativas": [
-    "33bcba010c83",
-    "6fce24d5a9af",
-    "0a66b54878f4",
-    "7888211fc232",
-    "76e515128817"
+    "785b212e144c",
+    "79d76916e6cd",
+    "2067f7e05580",
+    "7ba3b7d5c36e",
+    "6a99e2391ede"
    ],
-   "apoio": "fa9f32dd9573",
-   "credito": "50fab77873c3",
-   "enunciado": "011f8f72480a",
+   "apoio": "7d6443c20317",
+   "credito": "1d68648861dc",
+   "enunciado": "d6e5d5c79680",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q83-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto a atuação poítica dos cida",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q83-apoio-01.png",
-     30,
-     [
-      99.0,
-      535.0,
-      277.5,
-      556.8
-     ]
-    ]
-   ]
+   "previa": "De acordo com o texto, a atuação política dos ci",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q84": {
    "alternativas": [
-    "076476327756",
-    "e38fe8385056",
-    "fc8fcfe1859a",
-    "3d5113ca0332",
-    "b3e55ab10171"
+    "5aa87d9ce697",
+    "c1ed59b9698b",
+    "c6f9c3c0af9e",
+    "b1f284fc0d60",
+    "cd01f1318aa3"
    ],
-   "apoio": "eb26efb3b520",
-   "credito": "ff28530867fc",
-   "enunciado": "7ec19ec20be5",
+   "apoio": "3827e962a5bf",
+   "credito": "5661d14b3f54",
+   "enunciado": "2727bab72703",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q84-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "Agravado pela ação antrópica o fenômeno atmosfér",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q84-apoio-01.png",
-     30,
-     [
-      363.2,
-      83.0,
-      537.2,
-      100.4
-     ]
-    ]
-   ]
+   "previa": "Agravado pela ação antrópica, o fenômeno atmosfé",
+   "recortes": []
   },
   "enem-2019-ppl-d1-q85": {
    "alternativas": [
-    "f518dfbd0254",
-    "57f24c23e730",
+    "5cba09d263c5",
+    "d22e5987dd6f",
     "8b554282da65",
-    "2f09d3ff5690",
-    "6cb90d8d742b"
+    "1884c646babc",
+    "8472be541096"
    ],
-   "apoio": "1e727d51a45f",
-   "credito": "6b6428aa24af",
+   "apoio": "b97315626c3f",
+   "credito": "ec72f1b2f714",
    "enunciado": "773d34cec7da",
    "gabarito": "E",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q85-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O modo de exploração descrito opõe-se a um model",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q85-apoio-01.png",
-     30,
-     [
-      363.2,
-      439.6,
-      537.2,
-      457.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q86": {
    "alternativas": [
-    "9c84f6b57ac9",
-    "4dfdd9bd48a0",
-    "c2c3a5b05cea",
-    "93dfc2a6efbd",
+    "664048cbde6e",
+    "cf8b48a6875e",
+    "9247a2f79202",
+    "c8b3ad107f07",
     "600220b8fa87"
    ],
-   "apoio": "e8c209da86a8",
-   "credito": "7ef2009b6ab7",
+   "apoio": "8b184df87e69",
+   "credito": "4dfcdf982290",
    "enunciado": "21acd13371f7",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q86-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "O trecho da letra da canção avalia o uso de comb",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q86-apoio-01.png",
-     31,
-     [
-      103.0,
-      83.0,
-      277.5,
-      106.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q87": {
    "alternativas": [
-    "25ec264b2b53",
-    "22cfcf3e56a2",
-    "f94a20452798",
-    "cc6e8a1518c9",
-    "794891538df6"
+    "ae2d1972597e",
+    "4d88762b13a8",
+    "32da5659d20e",
+    "6be91391ac75",
+    "3f6872a0e281"
    ],
-   "apoio": "5bdf57dfffd2",
+   "apoio": "5c1b41911e0a",
    "credito": "77e3cb6b8612",
    "enunciado": "8c8e9f68d24e",
    "gabarito": "A",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q87-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Quais formações vegetais pertencem às paisagens ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q87-apoio-01.png",
-     31,
-     [
-      101.3,
-      314.6,
-      277.5,
-      337.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q88": {
    "alternativas": [
-    "9ba4d131954c",
-    "1e1c36008413",
+    "1b2ad1471e59",
+    "f7e2066a6509",
     "d06926fe0015",
     "01b13fbec355",
-    "5225274b0711"
+    "f753d1dc5e4b"
    ],
-   "apoio": "c9965f13ce80",
+   "apoio": "c2fad2414f1c",
    "credito": "6a2b874676e8",
    "enunciado": "7680e5d557f8",
    "gabarito": "C",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q88-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "A preservação da cobertura vegetal interfere no ",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q88-apoio-01.png",
-     31,
-     [
-      98.6,
-      519.0,
-      277.5,
-      541.0
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q89": {
    "alternativas": [
-    "70dbf5c99334",
-    "c4e7d7c0c6da",
-    "4e9c93e28db8",
-    "ceecc50f3e63",
-    "c96da76c005c"
+    "86871c7362e5",
+    "5ccb761d18e4",
+    "80693dd2a4f5",
+    "63b5389d8d3e",
+    "143a41afa4f1"
    ],
-   "apoio": "9b97a1def9c1",
-   "credito": "56ca7708d671",
+   "apoio": "e350fa3bbf04",
+   "credito": "0ed85e1e10ff",
    "enunciado": "741a27af9517",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q89-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
    "previa": "Uma importância econômica do fenômeno apresentad",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q89-apoio-01.png",
-     31,
-     [
-      363.2,
-      83.0,
-      537.7,
-      100.4
-     ]
-    ]
-   ]
+   "recortes": []
   },
   "enem-2019-ppl-d1-q90": {
    "alternativas": [
-    "71d4ace78a66",
-    "c37c8b58b961",
+    "e4a90870c365",
+    "bcba2fd021f6",
     "c24fe29e0c0f",
-    "7a6c606192b5",
-    "3605dab05bf5"
+    "473bd53b4cbb",
+    "b7492a5c9993"
    ],
-   "apoio": "1dbf45d97ea1",
-   "credito": "7d0f961e174c",
-   "enunciado": "5c7b4021e427",
+   "apoio": "cc7edd83293a",
+   "credito": "7b53f5f0d828",
+   "enunciado": "72be3c8ee249",
    "gabarito": "B",
-   "imagens": [
-    "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q90-apoio-01.png"
-   ],
+   "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto de Aristóteles o legislado",
-   "recortes": [
-    [
-     "/questoes/2019/ppl/dia1/enem-2019-ppl-d1-q90-apoio-01.png",
-     31,
-     [
-      363.2,
-      436.2,
-      537.7,
-      453.5
-     ]
-    ]
-   ]
+   "previa": "De acordo com o texto de Aristóteles, o legislad",
+   "recortes": []
   }
  }
 }

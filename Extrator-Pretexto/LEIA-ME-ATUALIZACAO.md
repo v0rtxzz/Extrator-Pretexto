@@ -64,7 +64,11 @@ Todas as provas devem sair como `igual à foto`.
 
 - **2011 PPL:** não há gabarito no repositório e o caderno não tem resposta marcada. É preciso baixar o gabarito do
   INEP e salvar como `provas/2011/ppl/diaN-gabarito.pdf`.
-- **Provas com status FALHA ou REVISAR** (veja `relatorios/CONSOLIDADO.md`): faltam algumas questões, como fórmulas
-  desenhadas, gráficos e as provas digitais de 2021 e 2022. Elas não foram gravadas.
+- **Cobertura:** 75 provas gravadas (2009, 2011–2025), 6 910 questões. 283 delas têm correção manual (extração
+  assistida) em `scripts/extrator/manuais/*.json`, aplicada automaticamente pelo extrator. Veja a tabela "Estado por
+  ano" em `docs/USO-EXTRATOR.md`.
+- **2010:** em fechamento (gabarito do PPL transcrito do caderno; OCR do texto).
+- **Carga no banco:** os SQLs agora **sobrescrevem** texto de apoio, crédito e imagens (só a explicação por IA é
+  preservada). Rode-os de novo mesmo nas provas que já estavam carregadas, para limpar imagens e créditos errados.
 - **Gabarito público:** o gabarito e a explicação podem ser lidos com a chave pública do Supabase (`anon`). Se o app
   precisar esconder a resposta antes de o aluno responder, essas colunas têm de ser protegidas.

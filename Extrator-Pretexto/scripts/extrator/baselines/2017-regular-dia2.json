@@ -1,0 +1,2762 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2017",
+ "perfil": "motor v2017",
+ "questoes": {
+  "enem-2017-regular-d2-q100": {
+   "alternativas": [
+    "ea64c92438bf",
+    "fcee7b4d50f2",
+    "6fe28be51a80",
+    "b3ead4a742db",
+    "ad4ef6a22a5e"
+   ],
+   "apoio": "e8f239beb2bd",
+   "credito": "d4b2446e56a8",
+   "enunciado": "3c9f0a76f470",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual a doença cujos pacientes teriam melhora de ",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q101": {
+   "alternativas": [
+    "c072111e5466",
+    "d352409a5ac2",
+    "719793177de2",
+    "6ba23718b955",
+    "e5e5a4912834"
+   ],
+   "apoio": "d50a203f0510",
+   "credito": "f5d6f39001ab",
+   "enunciado": "3504c20c24b7",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q101-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual tipo de lâmpada melhor atende ao desejo do ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q101-apoio-01.png",
+     5,
+     [
+      62.9,
+      327.0,
+      308.2,
+      580.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q102": {
+   "alternativas": [
+    "b7a6997cb95e",
+    "c4937547288e",
+    "d04c5b908bd5",
+    "0a7fe1eb9c18",
+    "7ffaa283960c"
+   ],
+   "apoio": "0fe49556c36f",
+   "credito": "e8b5fd0600fa",
+   "enunciado": "c25d73e93c48",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A fixação de moléculas de vapor de água pelos nú",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q103": {
+   "alternativas": [
+    "c1dfd96eea8c",
+    "9e6a55b6b456",
+    "e6c3dd630428",
+    "2d0c8af807ef",
+    "310b86e0b62b"
+   ],
+   "apoio": "29e7080f46d2",
+   "credito": "2c1f27c482b9",
+   "enunciado": "753104be21a6",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q103-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é a máxima distância, em km, que um sinal p",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q103-apoio-01.png",
+     5,
+     [
+      342.2,
+      490.7,
+      560.7,
+      617.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q104": {
+   "alternativas": [
+    "eac50b6ffcac",
+    "95fda4ee62cc",
+    "2cf661b4513c",
+    "76ace56b672c",
+    "288b2cfea6ae"
+   ],
+   "apoio": "a09a42d1f312",
+   "credito": "2880d0d46126",
+   "enunciado": "0b0133b84324",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere que um fragmento fóssil de massa igual",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q105": {
+   "alternativas": [
+    "423b19d9c78a",
+    "06a86b5793b7",
+    "7d43d32d4aa7",
+    "bfa6faa1195c",
+    "71dc40c80fef"
+   ],
+   "apoio": "12827e1bfdf6",
+   "credito": "c519fca92b24",
+   "enunciado": "feca616e34f2",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q105-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Mesmo com ausência de ventos por curtos períodos",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q105-apoio-01.png",
+     6,
+     [
+      64.4,
+      314.0,
+      564.0,
+      649.5
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q106": {
+   "alternativas": [
+    "c2d6daeca816",
+    "141ce00ea2c7",
+    "6fd20b1bfb5e",
+    "2e726bad2c7f",
+    "cb8eff0038e4"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0eb97dfd551b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na Idade Média, para elaborar preparados a parti",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q107": {
+   "alternativas": [
+    "ab7f7b955330",
+    "d8e4bbea3af2",
+    "a5b4e6370350",
+    "28cc2209b234",
+    "f83a383c0fa8"
+   ],
+   "apoio": "708a082d9f8d",
+   "credito": "0cbd88c07be0",
+   "enunciado": "38351351c505",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q107-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é o comprimento de onda, em nm, ideal para ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q107-apoio-01.png",
+     7,
+     [
+      81.7,
+      482.1,
+      303.7,
+      615.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q108": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "11591f2476ab",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-E-01.png"
+    ]
+   },
+   "previa": "O brinquedo pula-pula (cama elástica) é composto",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-A-01.png",
+     7,
+     [
+      343.1,
+      285.0,
+      519.1,
+      361.9
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-B-01.png",
+     7,
+     [
+      343.1,
+      381.7,
+      519.1,
+      457.6
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-C-01.png",
+     7,
+     [
+      343.1,
+      477.3,
+      519.1,
+      554.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-D-01.png",
+     7,
+     [
+      343.1,
+      574.4,
+      519.6,
+      650.3
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q108-alt-E-01.png",
+     7,
+     [
+      343.1,
+      670.1,
+      518.1,
+      746.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q109": {
+   "alternativas": [
+    "6fb29811db03",
+    "a99bd98a5554",
+    "3908414f5876",
+    "ceeeda6dd2fa",
+    "24c8365fda9f"
+   ],
+   "apoio": "40db17a6d875",
+   "credito": "ff91d8f8951d",
+   "enunciado": "fae273d48084",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa intervenção antrópica prejudica a piracema ",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q110": {
+   "alternativas": [
+    "7b136dfbb14a",
+    "ab13e569afcc",
+    "6fbdf41d83e6",
+    "0726833caaa5",
+    "e31d8504311c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b2ee43486047",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q110-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Fusível é um dispositivo de proteção contra sobr",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q110-apoio-01.png",
+     8,
+     [
+      94.2,
+      462.7,
+      274.2,
+      656.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q111": {
+   "alternativas": [
+    "cdc5e941df5e",
+    "f768c724a405",
+    "78b21b14e000",
+    "61d3302c4943",
+    "9f2b5a827850"
+   ],
+   "apoio": "f56f3fca60ec",
+   "credito": "449d76442431",
+   "enunciado": "a37a02c90591",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os botos-cinza acumulam maior concentração dessa",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q112": {
+   "alternativas": [
+    "4cfb3a55374e",
+    "f8d9f4f683b1",
+    "9be7a2f7fa1d",
+    "c8c063b76279",
+    "b592111c90cd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "962e21994e10",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q112-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O trombone de Quincke é um dispositivo experimen",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q112-apoio-01.png",
+     8,
+     [
+      332.9,
+      511.7,
+      553.9,
+      666.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q113": {
+   "alternativas": [
+    "33f9ef9b6373",
+    "770dd69920fd",
+    "f8eb3eca0b18",
+    "8eb17d822466",
+    "dde6da769281"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "da5cce95a639",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q113-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A farinha de linhaça dourada é um produto natura",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q113-apoio-01.png",
+     9,
+     [
+      59.6,
+      240.5,
+      309.2,
+      365.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q114": {
+   "alternativas": [
+    "a040176bafe1",
+    "2f3a8820d829",
+    "e4fa9f5231c5",
+    "990e17ed43e2",
+    "fddd5871afe5"
+   ],
+   "apoio": "970d63fdb225",
+   "credito": "d91d69ac7933",
+   "enunciado": "52ec45ed4608",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A função química presente no produto que represe",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q115": {
+   "alternativas": [
+    "e013d197cfec",
+    "ae86b51b0cb3",
+    "59d8cfa154df",
+    "36b5c1a7ec30",
+    "abd0885378ad"
+   ],
+   "apoio": "8efbe565947e",
+   "credito": "bf4046c4169b",
+   "enunciado": "78f7e123a335",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse aparelho, a separação das substâncias ocor",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q116": {
+   "alternativas": [
+    "8d063f917bc1",
+    "61f101e54e85",
+    "cc7dd855439f",
+    "228681b8d0ad",
+    "952bf8b1571a"
+   ],
+   "apoio": "0f6cb8fd4c91",
+   "credito": "4fd87d590dca",
+   "enunciado": "5d93886a3daf",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q116-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A mudança observada da etapa 3 para a etapa 4 do",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q116-apoio-01.png",
+     9,
+     [
+      323.3,
+      381.3,
+      555.4,
+      638.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q117": {
+   "alternativas": [
+    "d80428b4d1dc",
+    "6e19be00e925",
+    "e588b372c66d",
+    "3dabd93da19f",
+    "98a3e1dc25d9"
+   ],
+   "apoio": "e35f0504e150",
+   "credito": "d05c2f0d752c",
+   "enunciado": "376891b535cb",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A diferença na manifestação da DMD entre as gême",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q118": {
+   "alternativas": [
+    "a83444766d62",
+    "e768a813ae3a",
+    "b05e20c59520",
+    "1276af4f9191",
+    "6b9aa51875fd"
+   ],
+   "apoio": "9408aafe1a3c",
+   "credito": "b28ed07b411d",
+   "enunciado": "adac0614b42c",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q118-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q118-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A utilização desse tipo de piso em uma obra tem ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q118-apoio-01.png",
+     10,
+     [
+      187.8,
+      528.3,
+      288.6,
+      608.1
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q118-apoio-02.png",
+     10,
+     [
+      75.3,
+      528.3,
+      176.1,
+      608.1
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q119": {
+   "alternativas": [
+    "2f1fd036e144",
+    "246613a946a9",
+    "4db1d32ff0d7",
+    "4ffc9efdfa26",
+    "b7d55368c69a"
+   ],
+   "apoio": "53f2a6149349",
+   "credito": "514c9af53e3a",
+   "enunciado": "801c26190f34",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q119-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q119-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual solução deve ser usada para extração do lap",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q119-apoio-01.png",
+     10,
+     [
+      319.6,
+      187.9,
+      568.8,
+      200.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q119-apoio-02.png",
+     10,
+     [
+      363.0,
+      217.7,
+      524.8,
+      335.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q120": {
+   "alternativas": [
+    "e2034841872b",
+    "25ce38b83478",
+    "aa6ca901a5da",
+    "543f519a180d",
+    "c557c309ae17"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "91b488cec639",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Alguns tipos de dessalinizadores usam o processo",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q121": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "168fd9569cbb",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-E-01.png"
+    ]
+   },
+   "previa": "A invenção do LED azul, que permite a geração de",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-apoio-01.png",
+     11,
+     [
+      146.9,
+      158.5,
+      481.2,
+      250.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-A-01.png",
+     11,
+     [
+      79.9,
+      271.9,
+      266.9,
+      432.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-B-01.png",
+     11,
+     [
+      79.9,
+      436.9,
+      266.9,
+      597.9
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-C-01.png",
+     11,
+     [
+      79.9,
+      601.9,
+      265.4,
+      762.9
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-D-01.png",
+     11,
+     [
+      335.9,
+      271.9,
+      521.4,
+      432.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q121-alt-E-01.png",
+     11,
+     [
+      336.4,
+      436.9,
+      522.4,
+      597.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q122": {
+   "alternativas": [
+    "05580caed314",
+    "35139ef894b2",
+    "4396c2d023b9",
+    "d9fce1720031",
+    "0da8cbc894c3"
+   ],
+   "apoio": "ba3e772fd026",
+   "credito": "716453ef4fa3",
+   "enunciado": "3257a8eab844",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-02.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Ácido salicílico Anidrido acético Ácido acetilsa",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-01.png",
+     12,
+     [
+      339.3,
+      166.7,
+      435.7,
+      225.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-02.png",
+     12,
+     [
+      152.6,
+      166.7,
+      195.1,
+      225.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q122-apoio-03.png",
+     12,
+     [
+      247.7,
+      176.0,
+      304.6,
+      210.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q123": {
+   "alternativas": [
+    "33819b3b5ce2",
+    "8d9832d3208e",
+    "9b7603ed419d",
+    "a62927230f26",
+    "2824b98f9209"
+   ],
+   "apoio": "6a671c9ee5ff",
+   "credito": "560192023724",
+   "enunciado": "ae5121842255",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essas espécies captam água do(a)",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q124": {
+   "alternativas": [
+    "c05f675b482c",
+    "b7c522ac6e6e",
+    "ad260d3e9e8f",
+    "e2f591ab2d20",
+    "8e457c27702c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1814fd6f4822",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ferro é encontrado na natureza na forma de seu",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q125": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a657dbe8b6bb",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-E-01.png"
+    ]
+   },
+   "previa": "A reação em cadeia da polimerase (PCR, na sigla ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-A-01.png",
+     13,
+     [
+      80.1,
+      300.8,
+      170.4,
+      322.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-B-01.png",
+     13,
+     [
+      80.1,
+      331.3,
+      170.4,
+      362.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-C-01.png",
+     13,
+     [
+      80.1,
+      371.0,
+      170.4,
+      402.0
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-D-01.png",
+     13,
+     [
+      80.1,
+      410.6,
+      170.4,
+      441.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q125-alt-E-01.png",
+     13,
+     [
+      80.1,
+      450.3,
+      170.4,
+      481.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q126": {
+   "alternativas": [
+    "f526451cf794",
+    "e8b785d4c509",
+    "d4c9d8c04f28",
+    "381c46924006",
+    "ea6083eb6185"
+   ],
+   "apoio": "ee604715ec3e",
+   "credito": "68933550d92b",
+   "enunciado": "f97b33b6196f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual propriedade do flúor justifica sua escolha ",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q127": {
+   "alternativas": [
+    "803ab79310ab",
+    "c0aab0c11f99",
+    "c615f89cc21e",
+    "c0f3796a16b0",
+    "f17caaa6e204"
+   ],
+   "apoio": "067eeac1d1a2",
+   "credito": "f60494a0b186",
+   "enunciado": "3f4a21e320f3",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q127-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações dadas, a potência na co",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q127-apoio-01.png",
+     13,
+     [
+      323.3,
+      236.1,
+      564.5,
+      337.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q128": {
+   "alternativas": [
+    "6f39c1f99003",
+    "29b4d9413191",
+    "eb8a558857dd",
+    "ca27ef82f1b5",
+    "06d3ace9df50"
+   ],
+   "apoio": "0da12abc8891",
+   "credito": "701ccf03fb3f",
+   "enunciado": "f53be494e65a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação à visão, a degeneração desse tipo cel",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q129": {
+   "alternativas": [
+    "ffcc214d69c9",
+    "3c64f5aed31c",
+    "6f3759061e8a",
+    "817308d37b60",
+    "68e949c22853"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2f8b21c82fad",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em algumas residências, cercas eletrificadas são",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q130": {
+   "alternativas": [
+    "2861921e36e2",
+    "b14b2b556910",
+    "82fbcc94ec7a",
+    "e9f10c3c5d8f",
+    "cc809893ecc3"
+   ],
+   "apoio": "e0f46f58c984",
+   "credito": "8caa0bb19863",
+   "enunciado": "934c93ce716d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-02.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-03.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-04.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-05.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A substância presente na mistura que migra mais ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-01.png",
+     14,
+     [
+      341.6,
+      458.9,
+      555.8,
+      551.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-02.png",
+     14,
+     [
+      62.2,
+      461.1,
+      302.5,
+      502.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-03.png",
+     14,
+     [
+      62.2,
+      518.9,
+      320.7,
+      566.8
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-04.png",
+     14,
+     [
+      341.6,
+      565.0,
+      566.4,
+      615.6
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q130-apoio-05.png",
+     14,
+     [
+      62.2,
+      591.5,
+      305.4,
+      634.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q131": {
+   "alternativas": [
+    "e5cd55f82b8c",
+    "34fafece4b00",
+    "522ab7caff35",
+    "ce9ec3392439",
+    "8ea6e85c309c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "121f96fbc12d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um motorista que atende a uma chamada de celular",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q132": {
+   "alternativas": [
+    "df32b5bde352",
+    "c5a34abb9ab8",
+    "d488295187ad",
+    "bbcd3ea6cbc6",
+    "2239281636a5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "07cf9932ef32",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma das estratégias para conservação de alimento",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q133": {
+   "alternativas": [
+    "8b26ea35e824",
+    "f98c566adba3",
+    "41fc7691d7f8",
+    "b254ad34026f",
+    "cb7289d21502"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "18482ba4c9e5",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para demonstrar o processo de transformação de e",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q134": {
+   "alternativas": [
+    "2a11cb304eb1",
+    "383b4a51f3b9",
+    "78bbb3d72c72",
+    "1260b2890066",
+    "157fa7b73948"
+   ],
+   "apoio": "2a2e065a74c5",
+   "credito": "92a728bf1432",
+   "enunciado": "c92d440bdecf",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q134-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Quais são os produtos formados nessa reação?",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q134-apoio-01.png",
+     15,
+     [
+      394.8,
+      353.5,
+      492.5,
+      400.1
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q135": {
+   "alternativas": [
+    "1ddfd602035f",
+    "e708fd56bb4e",
+    "4b227309d703",
+    "a0d499781eaa",
+    "e7198aa2b794"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b1f39ccfbf9c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A terapia celular tem sido amplamente divulgada ",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q136": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6c98ed501357",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-E-01.png"
+    ]
+   },
+   "previa": "Um empréstimo foi feito à taxa mensal de i%, usa",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-A-01.png",
+     16,
+     [
+      76.9,
+      289.6,
+      220.0,
+      349.1
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-B-01.png",
+     16,
+     [
+      76.9,
+      360.7,
+      218.4,
+      420.2
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-C-01.png",
+     16,
+     [
+      76.9,
+      429.8,
+      226.4,
+      489.3
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-D-01.png",
+     16,
+     [
+      76.9,
+      499.8,
+      259.1,
+      559.3
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q136-alt-E-01.png",
+     16,
+     [
+      76.9,
+      569.9,
+      272.6,
+      629.4
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q137": {
+   "alternativas": [
+    "bd0eb8527e5e",
+    "abfb80760ea4",
+    "8d89c34dc2c5",
+    "a2781076d840",
+    "f2cb7f68e063"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fcc5dd77fb15",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para realizar a viagem dos sonhos, uma pessoa pr",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q138": {
+   "alternativas": [
+    "1eb3ff8cd4c1",
+    "b46da6ec3703",
+    "39e12565b84f",
+    "22983907403c",
+    "6dd6198fd943"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3603176b905c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q138-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Raios de luz solar estão atingindo a superfície ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q138-apoio-01.png",
+     16,
+     [
+      344.3,
+      559.6,
+      543.6,
+      638.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q139": {
+   "alternativas": [
+    "1b6453892473",
+    "77de68daecd8",
+    "da4b9237bacc",
+    "356a192b7913",
+    "b6589fc6ab0d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "124744bc3459",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q139-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os congestionamentos de trânsito constituem um p",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q139-apoio-01.png",
+     17,
+     [
+      65.0,
+      194.6,
+      304.8,
+      292.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q140": {
+   "alternativas": [
+    "5e3674b95859",
+    "503897d852d0",
+    "970389c295cd",
+    "3044f2f46519",
+    "b592111c90cd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0d8fb9010ebd",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q140-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Um garçom precisa escolher uma bandeja de base r",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q140-apoio-01.jpg",
+     17,
+     [
+      149.6,
+      520.5,
+      218.8,
+      638.1
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q141": {
+   "alternativas": [
+    "ee488178b7d8",
+    "bc496f12f12d",
+    "28cabbeea221",
+    "cbf293b93177",
+    "09406537c2d3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "92b89fd56016",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma cantina, o sucesso de venda no verão são ",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q142": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c2467fdacdca",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um casal realiza sua mudança de domicílio\ne nece",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q143": {
+   "alternativas": [
+    "881ab37382c0",
+    "ca580cd931d8",
+    "610a8e804d49",
+    "96c7fc2e2bf6",
+    "ed66388e5add"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9b0d1bb8e664",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q143-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um brinquedo infantil caminhão-cegonha é formado",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q143-apoio-01.png",
+     18,
+     [
+      71.9,
+      161.5,
+      296.5,
+      234.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q144": {
+   "alternativas": [
+    "239a7e2c23b9",
+    "88080a76d6ef",
+    "50168d30973b",
+    "a223eb953d9d",
+    "06841d2c0818"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7cae8a78de0d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma empresa especializada em conservação de pisc",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q145": {
+   "alternativas": [
+    "bdaf1eca33d4",
+    "f0b89ee9977f",
+    "30e45f0274ef",
+    "8e5c07eecb7b",
+    "c10f5a2e1236"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9fe21c8f814a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q145-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um instituto de pesquisas eleitorais recebe uma\n",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q145-apoio-01.png",
+     18,
+     [
+      364.9,
+      216.9,
+      523.0,
+      304.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q146": {
+   "alternativas": [
+    "ac3478d69a3c",
+    "b1d5781111d8",
+    "f1abd670358e",
+    "91032ad7bbcb",
+    "f6e1126cedeb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "972a6b0f5086",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um teleférico turístico, bondinhos saem de es",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q147": {
+   "alternativas": [
+    "9e6a55b6b456",
+    "91032ad7bbcb",
+    "4d134bc07221",
+    "fc074d501302",
+    "af3e133428b9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8dfed28ead05",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q147-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Num dia de tempestade, a alteração na profundida",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q147-apoio-01.png",
+     19,
+     [
+      64.6,
+      191.8,
+      307.0,
+      305.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q148": {
+   "alternativas": [
+    "a5befd1785e6",
+    "c5b9cdca6746",
+    "aa806f4fafd9",
+    "32cf3dfa3b13",
+    "a135fa822c7c"
+   ],
+   "apoio": "a53857c70735",
+   "credito": "d1a805e3fb46",
+   "enunciado": "13014afef67e",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q148-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A forma geométrica da superfície cujas arestas e",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q148-apoio-01.jpg",
+     19,
+     [
+      64.4,
+      511.4,
+      302.2,
+      650.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q149": {
+   "alternativas": [
+    "1f1fb367659a",
+    "1a74d0170f2d",
+    "77f846fa25ee",
+    "e42a9e078456",
+    "1a7e69efcb56"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1cce898237f3",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q149-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A figura ilustra uma partida de Campo Minado, o ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q149-apoio-01.jpg",
+     19,
+     [
+      320.1,
+      215.0,
+      568.5,
+      478.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q150": {
+   "alternativas": [
+    "a255605f87a8",
+    "2993f45966fd",
+    "27e79f96f77a",
+    "a4c0b8bad3a7",
+    "dbeb1d365541"
+   ],
+   "apoio": "f2536e24ef4c",
+   "credito": "6dcd4ce23d88",
+   "enunciado": "6328131ec491",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q150-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q150-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para recolocar a tela na sua posição original, d",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q150-apoio-01.png",
+     20,
+     [
+      110.2,
+      222.7,
+      243.7,
+      354.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q150-apoio-02.png",
+     20,
+     [
+      117.7,
+      462.2,
+      280.3,
+      619.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q151": {
+   "alternativas": [
+    "a3afbf4cfb72",
+    "8b00a032bab1",
+    "8bcb2684438e",
+    "c55f932f17e2",
+    "4d8a75c20e63"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "601387ccead6",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q151-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q151-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A avaliação de rendimento de alunos de um curso ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q151-apoio-01.png",
+     20,
+     [
+      320.1,
+      171.4,
+      567.5,
+      263.5
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q151-apoio-02.png",
+     20,
+     [
+      320.1,
+      370.2,
+      567.5,
+      463.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q152": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3f3123830b6a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-E-01.png"
+    ]
+   },
+   "previa": "A água para o abastecimento de um prédio é armaz",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-apoio-01.png",
+     21,
+     [
+      192.1,
+      151.4,
+      435.4,
+      211.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-A-01.png",
+     21,
+     [
+      91.4,
+      283.5,
+      247.9,
+      404.0
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-B-01.png",
+     21,
+     [
+      90.9,
+      416.0,
+      245.4,
+      535.5
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-C-01.png",
+     21,
+     [
+      71.4,
+      551.5,
+      311.9,
+      691.0
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-D-01.png",
+     21,
+     [
+      344.6,
+      284.0,
+      501.1,
+      404.5
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q152-alt-E-01.png",
+     21,
+     [
+      344.6,
+      416.0,
+      501.1,
+      537.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q153": {
+   "alternativas": [
+    "85b6027f911e",
+    "d514d1b363a2",
+    "094b5da2ad6e",
+    "2910241797b0",
+    "faac41b7ccb3"
+   ],
+   "apoio": "32b64f0abe45",
+   "credito": "55761759a6c1",
+   "enunciado": "ea8c824a682f",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q153-apoio-01.jpg",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q153-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere que o raio externo de cada cano da ima",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q153-apoio-01.jpg",
+     22,
+     [
+      85.6,
+      245.7,
+      282.9,
+      361.7
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q153-apoio-02.png",
+     22,
+     [
+      106.0,
+      430.2,
+      262.4,
+      553.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q154": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "6195b86502d2",
+   "credito": "ced8156f239a",
+   "enunciado": "65fbe3dfe709",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q154-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A padaria está representada pelo ponto numerado ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q154-apoio-01.png",
+     22,
+     [
+      339.0,
+      302.6,
+      566.9,
+      314.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q155": {
+   "alternativas": [
+    "9ca694d25bbb",
+    "e6e567b9dc57",
+    "2440e0721013",
+    "1da349a24297",
+    "f03ee392f011"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d6025b86fd12",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q155-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Três alunos, X, Y e Z, estão matriculados em um ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q155-apoio-01.png",
+     22,
+     [
+      320.1,
+      581.7,
+      567.8,
+      659.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q156": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a78dbda71c7a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q156-apoio-01.jpg",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q156-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma desenhista projetista deverá desenhar uma ta",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q156-apoio-01.jpg",
+     23,
+     [
+      83.2,
+      253.2,
+      276.6,
+      453.3
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q156-apoio-02.png",
+     23,
+     [
+      60.4,
+      535.3,
+      308.6,
+      658.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q157": {
+   "alternativas": [
+    "1d5dd1571d5b",
+    "c4400b4a576c",
+    "4b2ecf081c57",
+    "545544b4c349",
+    "40ac8d8d59e9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c6450035e445",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q157-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma pessoa ganhou uma pulseira formada por pérol",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q157-apoio-01.jpg",
+     23,
+     [
+      320.1,
+      169.6,
+      566.8,
+      332.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q158": {
+   "alternativas": [
+    "44c5f258c549",
+    "b592111c90cd",
+    "f8d9f4f683b1",
+    "1931339ac9a8",
+    "ba28ad657fa6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9d5f28b57099",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma de suas viagens, um turista comprou uma l",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q159": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "259d87e00acb",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-01.jpg",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-02.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma bicicleta do tipo mountain bike tem uma coro",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-01.jpg",
+     24,
+     [
+      60.4,
+      180.9,
+      307.1,
+      302.1
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-02.png",
+     24,
+     [
+      60.4,
+      336.3,
+      308.1,
+      411.2
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q159-apoio-03.png",
+     24,
+     [
+      63.5,
+      516.7,
+      304.9,
+      552.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q160": {
+   "alternativas": [
+    "f1abd670358e",
+    "22d200f8670d",
+    "17503a6b2326",
+    "a1773d62a609",
+    "5a14ec71168c"
+   ],
+   "apoio": "d46c6bec2d7b",
+   "credito": "47afb50949d9",
+   "enunciado": "53e7ade473b9",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q160-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De quantas maneiras diferentes o comitê organiza",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q160-apoio-01.jpg",
+     24,
+     [
+      409.5,
+      204.0,
+      478.3,
+      320.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q161": {
+   "alternativas": [
+    "dbe5c3a1f47a",
+    "93be02723c0a",
+    "f35a59acf697",
+    "64389e509dfb",
+    "b399ff543d09"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a0eeaf93b2d5",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q161-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Viveiros de lagostas são construídos, por cooper",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q161-apoio-01.png",
+     24,
+     [
+      360.1,
+      554.3,
+      526.5,
+      656.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q162": {
+   "alternativas": [
+    "12c9b357e48d",
+    "9c08a849c882",
+    "5faee76575c0",
+    "40ec4706e254",
+    "1a20ddf7063a"
+   ],
+   "apoio": "afa04ff7e87c",
+   "credito": "85ccdd7922ab",
+   "enunciado": "2f88b53d936f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q162-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico da equação que o fisioterapeuta utiliz",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q162-apoio-01.png",
+     25,
+     [
+      114.6,
+      222.2,
+      253.8,
+      315.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q163": {
+   "alternativas": [
+    "96015dfa0837",
+    "d6f9c52b352f",
+    "76d94c588c5e",
+    "a18f2441d8cf",
+    "d5b35cc0d38c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "00acb386c19e",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q163-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um parque há dois mirantes de alturas distint",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q163-apoio-01.png",
+     25,
+     [
+      108.4,
+      598.3,
+      250.8,
+      679.4
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q164": {
+   "alternativas": [
+    "ba1b11af0908",
+    "f9d4061486be",
+    "7b41fd76deb8",
+    "f77fcd66cf16",
+    "cc80df1f23a8"
+   ],
+   "apoio": "7a55c1da095a",
+   "credito": "2cf2af03627a",
+   "enunciado": "dfd1ad5a0457",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A razão entre as distâncias percorridas às cegas",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q165": {
+   "alternativas": [
+    "b6589fc6ab0d",
+    "ee2caa07b76d",
+    "c0aab0c11f99",
+    "65a74c1d6b50",
+    "cfa440d54437"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7607681d7879",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q165-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q165-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O resultado de uma pesquisa eleitoral, sobre a p",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q165-apoio-01.png",
+     26,
+     [
+      95.3,
+      160.3,
+      285.0,
+      349.3
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q165-apoio-02.png",
+     26,
+     [
+      95.2,
+      388.4,
+      283.3,
+      552.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q166": {
+   "alternativas": [
+    "98df3342be29",
+    "211c8c657b66",
+    "f706949427e7",
+    "853ffd6cd404",
+    "a51c36920e76"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4f4be82d0693",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q166-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um cientista, em seus estudos para modelar a pre",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q166-apoio-01.png",
+     26,
+     [
+      320.1,
+      210.0,
+      567.5,
+      259.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q167": {
+   "alternativas": [
+    "33a36ff23004",
+    "fc88c4a3bba8",
+    "356a192b7913",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "976c7a745f87",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q167-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para decorar uma mesa de festa infantil, um chef",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q167-apoio-01.png",
+     26,
+     [
+      320.1,
+      488.1,
+      566.1,
+      629.7
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q168": {
+   "alternativas": [
+    "b2ff430da49e",
+    "bb8600eeabca",
+    "185f27ad9deb",
+    "df86146b1481",
+    "be96c2cd1bf2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c55cc3ed6f1f",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q168-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A Igreja de São Francisco de Assis, obra arquite",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q168-apoio-01.jpg",
+     27,
+     [
+      115.4,
+      155.3,
+      512.7,
+      302.4
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q169": {
+   "alternativas": [
+    "d72d6bcdba5c",
+    "9a082ef7891d",
+    "2f2ab6f14dfd",
+    "a04a760b2f15",
+    "b3464cc35523"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ff518c32203c",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q169-apoio-01.png",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q169-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Quanto tempo você fica conectado à internet? Par",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q169-apoio-01.png",
+     27,
+     [
+      144.5,
+      545.6,
+      277.3,
+      667.8
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q169-apoio-02.png",
+     27,
+     [
+      277.3,
+      545.6,
+      483.3,
+      667.8
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q170": {
+   "alternativas": [
+    "063aeeb7c671",
+    "27febd92d6c0",
+    "fb8f600d2aab",
+    "f21a879b7eca",
+    "3aaf4d6b8ce9"
+   ],
+   "apoio": "09331a1b4673",
+   "credito": "5bd44469a99f",
+   "enunciado": "c91286320723",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q170-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é a temperatura máxima mais aproximada regi",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q170-apoio-01.png",
+     28,
+     [
+      125.4,
+      177.0,
+      239.0,
+      500.2
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q171": {
+   "alternativas": [
+    "b1867fad0639",
+    "b222bad01338",
+    "37ac202c42e6",
+    "48c348e2cdb4",
+    "206fa8cdc563"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "169f13265980",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q171-apoio-01.jpg",
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q171-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Pivô central é um sistema de irrigação muito usa",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q171-apoio-01.jpg",
+     28,
+     [
+      324.2,
+      221.4,
+      563.6,
+      402.5
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q171-apoio-02.png",
+     28,
+     [
+      360.6,
+      424.7,
+      518.5,
+      578.3
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q172": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc",
+    "17bad1aaf84a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6c376c6bf8ea",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q172-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Dois reservatórios A e B são alimentados por bom",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q172-apoio-01.png",
+     29,
+     [
+      88.1,
+      170.4,
+      529.0,
+      491.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q173": {
+   "alternativas": [
+    "2dadf769c082",
+    "176b76f3fc23",
+    "48147e1a44eb",
+    "abc294b9057e",
+    "443294f25d0d"
+   ],
+   "apoio": "a6cb6167ce5c",
+   "credito": "33d0f091d982",
+   "enunciado": "cb8668bf08a1",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A quantidade de gasolina utilizada, em litro, no",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q174": {
+   "alternativas": [
+    "4885cb04b9d9",
+    "9277e62c9b28",
+    "244f773a0852",
+    "bedeb0e02adc",
+    "a154aea3705f"
+   ],
+   "apoio": "7ab4ccd41529",
+   "credito": "14881f95e393",
+   "enunciado": "2b592d36d8fb",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q174-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A mediana dessa taxa de desemprego, no período d",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q174-apoio-01.png",
+     30,
+     [
+      73.3,
+      515.5,
+      300.5,
+      607.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q175": {
+   "alternativas": [
+    "1c7f212abd9d",
+    "fa96b30171cb",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "25e82a5f9a9c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bcd3f6682bc4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "C": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q175-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q175-alt-D-01.png"
+    ]
+   },
+   "previa": "Numa avenida existem 10 semáforos. Por causa de ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q175-alt-C-01.png",
+     30,
+     [
+      338.6,
+      316.4,
+      357.1,
+      345.4
+     ]
+    ],
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q175-alt-D-01.png",
+     30,
+     [
+      338.6,
+      347.1,
+      357.1,
+      376.1
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q176": {
+   "alternativas": [
+    "c2da9fd99b62",
+    "69b03b803d4f",
+    "8c9a4f7a53f2",
+    "340c19159145",
+    "8ce10b635d0b"
+   ],
+   "apoio": "53bde4e4ca23",
+   "credito": "970a42da98f1",
+   "enunciado": "32e6718eac33",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para se obter o dobro da quantidade de energia e",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q177": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "86d916ceed66",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q177-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa construirá sua página na internet e ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q177-apoio-01.png",
+     31,
+     [
+      60.4,
+      204.4,
+      308.6,
+      301.0
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q178": {
+   "alternativas": [
+    "c66c65175fec",
+    "54ceb91256e8",
+    "2e01e1746789",
+    "fc074d501302",
+    "0a57cb53ba59"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f2795d6d967f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q178-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Como não são adeptos da prática de esportes, um ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q178-apoio-01.png",
+     31,
+     [
+      60.4,
+      593.1,
+      308.6,
+      658.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q179": {
+   "alternativas": [
+    "b03149923882",
+    "43590014f126",
+    "fc3558ccc910",
+    "d4386e66a73f",
+    "07dbfba3f46d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1f268cb6e912",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um morador de uma região metropolitana tem 50% d",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q180": {
+   "alternativas": [
+    "f35f165435a1",
+    "1026c366171e",
+    "b16158d0fc93",
+    "1f5bb85b3de6",
+    "5313f386f448"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "dd31d0cab56d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Às 17 h 15 min começa uma forte chuva, que cai c",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q91": {
+   "alternativas": [
+    "4264eef76d05",
+    "769dcc6d9cf9",
+    "325904284170",
+    "e1a01026e674",
+    "bde16cdef5d8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "66fbd8d9a590",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q91-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A toxicidade de algumas substâncias é normalment",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q91-apoio-01.png",
+     2,
+     [
+      105.7,
+      320.2,
+      262.7,
+      387.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q92": {
+   "alternativas": [
+    "1fd28e8e35ea",
+    "0a062a1afbfd",
+    "0cb930a1a46c",
+    "3928d4fdd44e",
+    "48f471028fd8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6535f40e16e9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os medicamentos são rotineiramente utilizados pe",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q93": {
+   "alternativas": [
+    "56ac12fa4939",
+    "594422060e6a",
+    "b8f464286d72",
+    "dfa32603b3d3",
+    "8890dba90282"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "db35278cc538",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q93-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Dispositivos eletrônicos que utilizam materiais ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q93-apoio-01.png",
+     2,
+     [
+      357.6,
+      225.1,
+      544.9,
+      365.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q94": {
+   "alternativas": [
+    "0b3d4d9e2056",
+    "42b672ed13bf",
+    "2d0f3de9a391",
+    "483071fc068a",
+    "e30506246d27"
+   ],
+   "apoio": "3948d5ec95dc",
+   "credito": "10a92124a089",
+   "enunciado": "9b842adfa2fb",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O aumento da eficiência fotossintética ocorreu p",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q95": {
+   "alternativas": [
+    "bf20a92908fe",
+    "e3c83fb5f6fe",
+    "bc63c951a4a3",
+    "56960e7a52f3",
+    "2611ab6466df"
+   ],
+   "apoio": "de708e772874",
+   "credito": "bef9b95ed636",
+   "enunciado": "f0c1b465ba43",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q95-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No processo eletrolítico ilustrado, o produto se",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q95-apoio-01.png",
+     3,
+     [
+      67.8,
+      157.1,
+      560.4,
+      452.9
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q96": {
+   "alternativas": [
+    "c7ea4e7b81f4",
+    "dc04325c365c",
+    "24fa1b76b10f",
+    "2091e14fb517",
+    "e5fe26fdc2e1"
+   ],
+   "apoio": "9a4b4be6935d",
+   "credito": "e1aba5869982",
+   "enunciado": "affc988c93ae",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No ciclo natural do nitrogênio, o equivalente ao",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q97": {
+   "alternativas": [
+    "7b501e5eadf6",
+    "1e7de95a22fd",
+    "f1a6272de052",
+    "b164406a7330",
+    "572849e6bb4d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2bcd6974f583",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um fato corriqueiro ao se cozinhar arroz é o der",
+   "recortes": []
+  },
+  "enem-2017-regular-d2-q98": {
+   "alternativas": [
+    "2bc9a8947438",
+    "007c15e18252",
+    "316eeffd0ed5",
+    "25157447c9b8",
+    "6f9a3737b945"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "134518beff8d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q98-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A classificação biológica proposta por Whittaker",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q98-apoio-01.png",
+     4,
+     [
+      70.6,
+      524.0,
+      297.8,
+      649.6
+     ]
+    ]
+   ]
+  },
+  "enem-2017-regular-d2-q99": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "aa095eef2123",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2017/regular/dia2/enem-2017-regular-d2-q99-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma colisão frontal entre dois automóveis, a ",
+   "recortes": [
+    [
+     "/questoes/2017/regular/dia2/enem-2017-regular-d2-q99-apoio-01.png",
+     4,
+     [
+      340.6,
+      286.0,
+      560.8,
+      427.6
+     ]
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,3052 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2022",
+ "perfil": "motor v2022",
+ "questoes": {
+  "enem-2022-regular-d2-q100": {
+   "alternativas": [
+    "65a5639f7750",
+    "df6b01f4e588",
+    "72364fb72deb",
+    "2db51fc0e305",
+    "b550c2d9c129"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ad1d805821a3",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um dia de calor intenso, dois colegas estão a",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q101": {
+   "alternativas": [
+    "2e167594c26a",
+    "64a42cce3df5",
+    "b7805067cf3d",
+    "7f938067982d",
+    "4a2189907c98"
+   ],
+   "apoio": "9651a4d0c588",
+   "credito": "825c7a44b917",
+   "enunciado": "67bfc0194b1d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q101-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual tipo de cana-de-açúcar deve ser escolhido?",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q101-apoio-01.png",
+     5,
+     [
+      289.3,
+      191.8,
+      534.7,
+      296.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q102": {
+   "alternativas": [
+    "be65cc3851cb",
+    "0990168a201a",
+    "bccbdaa288f4",
+    "a2e9894a7d10",
+    "ecddc79e26ed"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "da90f6dd977b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Entre as diversas técnicas para diagnóstico da c",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q103": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4bf2fb2484f3",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-03.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-04.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-E-01.png"
+    ]
+   },
+   "previa": "Tribologia é o estudo da interação entre duas su",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-01.png",
+     6,
+     [
+      98.1,
+      162.5,
+      104.5,
+      167.3
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-02.png",
+     6,
+     [
+      66.5,
+      203.2,
+      238.7,
+      388.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-03.png",
+     6,
+     [
+      203.0,
+      445.0,
+      271.5,
+      470.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-apoio-04.png",
+     6,
+     [
+      30.7,
+      458.4,
+      126.6,
+      483.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-A-01.png",
+     6,
+     [
+      53.9,
+      531.5,
+      208.9,
+      694.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-B-01.png",
+     6,
+     [
+      311.9,
+      75.4,
+      466.9,
+      220.9
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-C-01.png",
+     6,
+     [
+      311.9,
+      242.4,
+      466.9,
+      397.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-D-01.png",
+     6,
+     [
+      311.9,
+      415.7,
+      466.9,
+      554.1
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q103-alt-E-01.png",
+     6,
+     [
+      311.9,
+      578.3,
+      466.9,
+      716.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q104": {
+   "alternativas": [
+    "d8112f5b0da6",
+    "6e7555c4086b",
+    "c9c4a6981361",
+    "ca6da6f3c2e8",
+    "1ecbee8d2059"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d2ca68cf2de2",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Diversas substâncias são empregadas com a intenç",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q105": {
+   "alternativas": [
+    "4a60b4a41c18",
+    "c86400adcaec",
+    "c2061d413a1c",
+    "dbf336028e58",
+    "a6cd8b268e4b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a3d9a38702af",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um autódromo, os carros podem derrapar em uma",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q106": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a910dde42719",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-E-01.png"
+    ]
+   },
+   "previa": "A penicilamina é um medicamento de uso oral util",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-apoio-01.png",
+     7,
+     [
+      365.2,
+      232.1,
+      463.3,
+      295.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-A-01.png",
+     7,
+     [
+      314.6,
+      352.3,
+      410.5,
+      401.0
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-B-01.png",
+     7,
+     [
+      314.6,
+      432.4,
+      414.8,
+      481.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-C-01.png",
+     7,
+     [
+      316.0,
+      512.4,
+      409.1,
+      561.3
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-D-01.png",
+     7,
+     [
+      314.6,
+      592.5,
+      414.8,
+      642.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q106-alt-E-01.png",
+     7,
+     [
+      316.0,
+      667.7,
+      414.8,
+      717.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q107": {
+   "alternativas": [
+    "b4e3237a7c14",
+    "39885b83773e",
+    "c4b9402e6105",
+    "3358b1dbe5d6",
+    "25c32a667844"
+   ],
+   "apoio": "b21226bfc3e9",
+   "credito": "06957c38cfc7",
+   "enunciado": "d93f29b48fc1",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q107-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nessa conversão de polissacarídeos, a função do ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q107-apoio-01.jpg",
+     8,
+     [
+      105.5,
+      117.5,
+      470.5,
+      411.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q108": {
+   "alternativas": [
+    "cc69cef93e94",
+    "6e0e32b62806",
+    "fb9a9dcf0e7b",
+    "c40cdff50f17",
+    "05cbd68d02df"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6e29fbf87023",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O ácido tartárico é o principal ácido do vinho e",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-01.png",
+     8,
+     [
+      184.0,
+      569.3,
+      473.7,
+      625.1
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-02.png",
+     8,
+     [
+      92.9,
+      570.6,
+      184.0,
+      640.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q108-apoio-03.png",
+     8,
+     [
+      88.8,
+      642.3,
+      203.7,
+      654.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q109": {
+   "alternativas": [
+    "e1e23deca247",
+    "9f248f9e8b93",
+    "d62cdcc92730",
+    "0557c32855ae",
+    "50d107dcf940"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8a1b97991a42",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q109-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O elemento iodo (I) tem função biológica e é acu",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q109-apoio-01.png",
+     9,
+     [
+      57.2,
+      170.7,
+      251.8,
+      296.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q110": {
+   "alternativas": [
+    "fdbbac97d1e5",
+    "b9a58571e936",
+    "e9c8902334a1",
+    "857dc78dbc0a",
+    "8901ecee41ac"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "27c351205562",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Desde a proposição da teoria de seleção natural ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q111": {
+   "alternativas": [
+    "2ef771525128",
+    "51a501515481",
+    "0d9a0bbcba6d",
+    "7fa24df5285c",
+    "6d5e6229af9c"
+   ],
+   "apoio": "3d949ff536ce",
+   "credito": "2f396167635e",
+   "enunciado": "a8f8d8db4601",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q111-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q111-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Próximo a que região se situa a residência onde ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q111-apoio-01.png",
+     9,
+     [
+      289.8,
+      238.4,
+      535.5,
+      402.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q111-apoio-02.png",
+     9,
+     [
+      290.8,
+      481.4,
+      532.4,
+      628.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q112": {
+   "alternativas": [
+    "55585a93f336",
+    "69acf1cc7c5a",
+    "bae593eb107d",
+    "ca86ddef9a46",
+    "b8a4bdd350f6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "21711e312cda",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um pai faz um balanço utilizando dois segmentos ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q113": {
+   "alternativas": [
+    "73f16c66f307",
+    "9cc8da5aff51",
+    "039a90c5f110",
+    "12e9f1bafcdf",
+    "5f0a1ffa87dc"
+   ],
+   "apoio": "85f27cb5577f",
+   "credito": "095b6f63e63a",
+   "enunciado": "f9dc4178c2c8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa nanotecnologia aplicada na proteção contra ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q114": {
+   "alternativas": [
+    "5fd34ef10c72",
+    "8b11294f0037",
+    "35342c07f8ec",
+    "5f35c40c6c3f",
+    "2e03b1b95674"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5b2a095a0441",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As células da epiderme da folha da Tradescantia ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q115": {
+   "alternativas": [
+    "853016c5affc",
+    "343da9b3206a",
+    "89ab25780e86",
+    "44ca5d40e05b",
+    "856000e2d29d"
+   ],
+   "apoio": "74c9e785c596",
+   "credito": "ff69b3def3c7",
+   "enunciado": "fc49a7dea948",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q115-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A razão entre as variações de temperatura nas ár",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q115-apoio-01.png",
+     10,
+     [
+      303.1,
+      535.7,
+      522.0,
+      591.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q116": {
+   "alternativas": [
+    "c25abf1efc8e",
+    "934f9c4538c2",
+    "5f63b5be2beb",
+    "41abb8fea312",
+    "1011aec6f190"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c987cb0db3ce",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q116-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q116-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O manual de uma ducha elétrica informa que seus ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q116-apoio-01.png",
+     11,
+     [
+      31.4,
+      134.3,
+      278.3,
+      241.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q116-apoio-02.png",
+     11,
+     [
+      30.7,
+      342.1,
+      262.0,
+      367.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q117": {
+   "alternativas": [
+    "0a3fd8e62abe",
+    "d19aab37bb06",
+    "8f95f8ec8ce6",
+    "550729bf898e",
+    "240a09c9ce9d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b49b3202c03d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q117-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um grupo de alunos realizou um experimento para ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q117-apoio-01.png",
+     11,
+     [
+      45.2,
+      545.8,
+      251.2,
+      649.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q118": {
+   "alternativas": [
+    "ff0d2fd2b65e",
+    "632370b7c607",
+    "d682d4960572",
+    "aa2c60afea93",
+    "e03148ae232d"
+   ],
+   "apoio": "e98557890e32",
+   "credito": "c2e191174812",
+   "enunciado": "8b079b40e600",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q118-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações do texto, qual é o horm",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q118-apoio-01.png",
+     11,
+     [
+      329.5,
+      218.8,
+      513.0,
+      465.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q119": {
+   "alternativas": [
+    "3996a4b291f5",
+    "0ebe57e6112e",
+    "767f00828d9d",
+    "67a77dab72bf",
+    "272e8ff84830"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d6e8ebe56b90",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma lanterna funciona com três pilhas de resistê",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q120": {
+   "alternativas": [
+    "b830753cc6b5",
+    "ce16f0513a7a",
+    "856734c2bdda",
+    "f170a46c0915",
+    "67f780f6be88"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "db1f404d3d4c",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q120-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma aula prática de bioquímica, para medir a ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q120-apoio-01.png",
+     12,
+     [
+      110.6,
+      277.4,
+      456.4,
+      405.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q121": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4a6b9dff0cef",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q121-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Antimicrobianos são substâncias naturais ou sint",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q121-apoio-01.png",
+     12,
+     [
+      32.0,
+      550.4,
+      535.0,
+      640.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q122": {
+   "alternativas": [
+    "20af8667a78b",
+    "69b08888aedc",
+    "3ace99784fcd",
+    "a1914bd8f7b9",
+    "6570ca48430f"
+   ],
+   "apoio": "29d0d04d68aa",
+   "credito": "a98c0569ba42",
+   "enunciado": "4241f467cd6e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse novo medicamento apresenta potencial aplica",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q123": {
+   "alternativas": [
+    "154648e1c94d",
+    "175f2225513b",
+    "17c6859787ed",
+    "c69fb01baf04",
+    "f2b95f746d08"
+   ],
+   "apoio": "d338acca9d00",
+   "credito": "25f371aad847",
+   "enunciado": "daf49f3679f9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Após a substituição descrita, o que aconteceria ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q124": {
+   "alternativas": [
+    "e496caed7f99",
+    "0e09c9867bce",
+    "8a08863a742a",
+    "63abea970173",
+    "b310dfc5bb95"
+   ],
+   "apoio": "8dd69714a697",
+   "credito": "e4aa7879e66a",
+   "enunciado": "80f2ab009aee",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O grande risco envolvido no emprego indiscrimina",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q125": {
+   "alternativas": [
+    "10ef689d9e05",
+    "07abae24547e",
+    "55bf5c0df225",
+    "9d1189ef626c",
+    "3e46be93441b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3a154fca2803",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q125-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Na figura está representado o mosaicismo em funç",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q125-apoio-01.jpg",
+     13,
+     [
+      289.2,
+      400.3,
+      535.6,
+      605.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q126": {
+   "alternativas": [
+    "da584706b1cb",
+    "22a90affb8ee",
+    "f21eb5481c6e",
+    "3ab69cfde9c9",
+    "08cd07f85a41"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "21ac299d10b4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A água bruta coletada de mananciais apresenta al",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q127": {
+   "alternativas": [
+    "a8b8ddb56e70",
+    "b8bcfaafb2da",
+    "cf098828f1f2",
+    "da10ed5c1157",
+    "397e8e014ca0"
+   ],
+   "apoio": "d31f0a5fc749",
+   "credito": "3f731d9f78a1",
+   "enunciado": "068aceefca20",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em qual etapa do metabolismo energético celular ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q128": {
+   "alternativas": [
+    "d88d94eabb29",
+    "207fbb1326bb",
+    "64ede018939b",
+    "f5e52e04430c",
+    "a737a47b7a33"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bc717dc5dd35",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q128-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A fim de classificar as melhores rotas em um apl",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q128-apoio-01.png",
+     14,
+     [
+      32.1,
+      644.0,
+      277.1,
+      720.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q129": {
+   "alternativas": [
+    "a14bd5c69ff6",
+    "7bbcd53b89a9",
+    "a88971f90a53",
+    "aafabd4ce26d",
+    "dd9a6204e5ec"
+   ],
+   "apoio": "555392379ba4",
+   "credito": "a1151b428a08",
+   "enunciado": "f742440696a4",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q129-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um solo de menor pH, será favorecida a formaç",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q129-apoio-01.jpg",
+     14,
+     [
+      289.0,
+      186.9,
+      535.8,
+      370.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q130": {
+   "alternativas": [
+    "7a1347b2d17b",
+    "4fe84245dc42",
+    "ae66b0e0a065",
+    "b55724e3ccb1",
+    "f749981fce10"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e9301dcbab19",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No processo de captação da luz pelo olho para a ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q131": {
+   "alternativas": [
+    "c0f7f8fa97f1",
+    "897b0e5e2998",
+    "81dc776845c2",
+    "a973fc7b2865",
+    "b72cee1d5228"
+   ],
+   "apoio": "f306ad2170eb",
+   "credito": "064ce1b48325",
+   "enunciado": "bfe4a87762b9",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-03.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-04.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-05.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A característica estrutural dessa família de com",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-01.png",
+     15,
+     [
+      108.1,
+      165.1,
+      149.9,
+      237.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-02.png",
+     15,
+     [
+      218.8,
+      165.1,
+      302.9,
+      235.1
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-03.png",
+     15,
+     [
+      358.2,
+      184.3,
+      480.7,
+      233.9
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-04.png",
+     15,
+     [
+      94.7,
+      287.0,
+      165.4,
+      386.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q131-apoio-05.jpg",
+     15,
+     [
+      193.3,
+      297.1,
+      461.2,
+      376.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q132": {
+   "alternativas": [
+    "42825e05e471",
+    "1dce156072fb",
+    "b027f39ee0d0",
+    "1ab5234b5333",
+    "3a3299f4e557"
+   ],
+   "apoio": "52e00aee04e7",
+   "credito": "6a69d60bf3bb",
+   "enunciado": "031373643c3c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa tecnologia utilizada no combate à dengue co",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q133": {
+   "alternativas": [
+    "6b331e7ead65",
+    "f78760b21858",
+    "7556be24d60b",
+    "57c0db7f1fbd",
+    "1abef437173f"
+   ],
+   "apoio": "44be91dc24a2",
+   "credito": "f1c118782c6d",
+   "enunciado": "3c56ad155777",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual o mecanismo utilizado no experimento para e",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q134": {
+   "alternativas": [
+    "b9136a054d52",
+    "f8ffc5aeab8a",
+    "0714140cfef9",
+    "198499c7e93c",
+    "44c5f258c549"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "317544070d70",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O sinal sonoro oriundo da queda de um grande blo",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-01.png",
+     16,
+     [
+      31.8,
+      501.5,
+      277.2,
+      568.0
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-02.png",
+     16,
+     [
+      150.6,
+      645.8,
+      276.8,
+      730.1
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q134-apoio-03.png",
+     16,
+     [
+      32.3,
+      648.1,
+      150.6,
+      730.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q135": {
+   "alternativas": [
+    "1bbc961ac5ed",
+    "09838f02014e",
+    "bbaa0327daed",
+    "b361af5ae19a",
+    "1fa62695bbd1"
+   ],
+   "apoio": "d901b6c0a701",
+   "credito": "8e5ab6c2b708",
+   "enunciado": "4d1c41f49e02",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q135-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Que fenômeno óptico explica o funcionamento da “",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q135-apoio-01.jpg",
+     16,
+     [
+      289.1,
+      346.2,
+      535.8,
+      532.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q136": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d2f9deffc9be",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q136-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma máquina em operação tem sua temperatura T mo",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q136-apoio-01.png",
+     17,
+     [
+      32.8,
+      226.5,
+      277.2,
+      349.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q137": {
+   "alternativas": [
+    "bc5043bf17aa",
+    "09fb3c8c94bf",
+    "0719cf792755",
+    "0c58e8e8ca30",
+    "cfc03a564707"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b0c6b7454771",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A World Series é a decisão do campeonato norte-a",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q138": {
+   "alternativas": [
+    "2fab71430bf4",
+    "a42730ffad4d",
+    "61988b5fbc2a",
+    "cc7e74b6ed34",
+    "39fb17f6b62d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a2e8c5eda9b1",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q138-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico apresenta os totais de receitas e desp",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q138-apoio-01.png",
+     17,
+     [
+      291.2,
+      152.4,
+      535.7,
+      337.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q139": {
+   "alternativas": [
+    "33fcb6e8f2b4",
+    "a009a7ad5aad",
+    "ada8c5a074fb",
+    "954d4bcfe4ca",
+    "9e7a978b97a3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "accfab76fba0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um casal está reformando a cozinha de casa e dec",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q140": {
+   "alternativas": [
+    "0dced08ce13f",
+    "60734294f0f7",
+    "b2300b77742d",
+    "5305716480b3",
+    "eca8f2eb8482"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4e140e4f81f9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Foram convidadas 32 equipes para um torneio de f",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q141": {
+   "alternativas": [
+    "3517087d8829",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fdff0a2dd4c4",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-03.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-04.png"
+   ],
+   "imagens_alt": {
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-E-01.png"
+    ]
+   },
+   "previa": "Em um jogo de bingo, as cartelas contêm 16 quadr",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-01.png",
+     18,
+     [
+      303.0,
+      256.9,
+      359.8,
+      313.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-02.png",
+     18,
+     [
+      382.6,
+      256.9,
+      439.4,
+      327.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-03.png",
+     18,
+     [
+      462.1,
+      256.9,
+      518.9,
+      313.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-apoio-04.png",
+     18,
+     [
+      369.5,
+      433.5,
+      447.1,
+      524.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-B-01.png",
+     18,
+     [
+      307.5,
+      594.0,
+      356.8,
+      619.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-C-01.png",
+     18,
+     [
+      307.5,
+      630.4,
+      356.8,
+      655.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-D-01.png",
+     18,
+     [
+      307.5,
+      667.4,
+      356.8,
+      692.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q141-alt-E-01.png",
+     18,
+     [
+      307.5,
+      704.4,
+      356.8,
+      729.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q142": {
+   "alternativas": [
+    "2eba6e4f12ff",
+    "5c72da08f13e",
+    "f7629dabfcbd",
+    "00498f46e7f0",
+    "0950c3e574c4"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bf023226ce60",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma montadora de automóveis divulgou que oferta ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q143": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bb57fc40ab73",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-apoio-02.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-E-01.png"
+    ]
+   },
+   "previa": "Dentre as diversas planificações possíveis para ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-apoio-01.png",
+     19,
+     [
+      94.7,
+      397.6,
+      213.7,
+      486.0
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-apoio-02.png",
+     19,
+     [
+      100.7,
+      591.6,
+      208.3,
+      713.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-A-01.png",
+     19,
+     [
+      310.8,
+      96.1,
+      386.5,
+      152.3
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-B-01.png",
+     19,
+     [
+      310.8,
+      159.0,
+      386.5,
+      215.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-C-01.png",
+     19,
+     [
+      310.8,
+      221.9,
+      386.5,
+      278.1
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-D-01.png",
+     19,
+     [
+      310.8,
+      285.5,
+      386.5,
+      341.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q143-alt-E-01.png",
+     19,
+     [
+      310.8,
+      348.4,
+      386.5,
+      404.6
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q144": {
+   "alternativas": [
+    "b6589fc6ab0d",
+    "c1dfd96eea8c",
+    "902ba3cda188",
+    "fe5dbbcea5ce",
+    "0ade7c2cf97f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4d280c0b3e32",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Cada número que identifica uma agência bancária ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q145": {
+   "alternativas": [
+    "253566b53ba6",
+    "6f73ad3743fa",
+    "bd0e918cbaef",
+    "b0a53dd2f2bc",
+    "a28cb644097d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "277eefda0a0b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O pacote básico de um jogo para smartphone, que ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q146": {
+   "alternativas": [
+    "09d024446ff1",
+    "f5804170baf8",
+    "abfb80760ea4",
+    "8d89c34dc2c5",
+    "a2781076d840"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f9e0d8eba188",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um parque tem dois circuitos de tamanhos diferen",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q147": {
+   "alternativas": [
+    "710953f4a36f",
+    "4fd5737d0982",
+    "9f5670a78d39",
+    "b6189a634ec6",
+    "77c7c631e775"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ca982763206e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma equipe de marketing digital foi contratada p",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q148": {
+   "alternativas": [
+    "dedfc3d695b8",
+    "ca0e4ce5135a",
+    "ac8f0b692950",
+    "0b1fd8f10c42",
+    "4d260a087555"
+   ],
+   "apoio": "b6c86d182ea7",
+   "credito": "2457cc909507",
+   "enunciado": "80463df1e045",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere duas estrelas E e F, sendo que a estre",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q149": {
+   "alternativas": [
+    "853016c5affc",
+    "082459698110",
+    "6fe8c572bce6",
+    "343da9b3206a",
+    "89ab25780e86"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3875b61b9d63",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q149-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma das informações que pode auxiliar no dimensi",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q149-apoio-01.png",
+     21,
+     [
+      31.2,
+      478.9,
+      277.8,
+      596.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q150": {
+   "alternativas": [
+    "c0243420d3ef",
+    "8cba476baf5d",
+    "550966d172bf",
+    "21feb9bd91eb",
+    "967f2980328c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b2bf0c6f4220",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q150-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q150-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em jogos de voleibol, um saque é invalidado se a",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q150-apoio-01.png",
+     21,
+     [
+      288.6,
+      143.0,
+      536.7,
+      170.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q150-apoio-02.jpg",
+     21,
+     [
+      289.1,
+      237.8,
+      524.2,
+      394.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q151": {
+   "alternativas": [
+    "09bda702ed3d",
+    "d22e74063fbf",
+    "52f1a6a077e7",
+    "adc0afecb19f",
+    "2dbf4cc289fe"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "352864b39069",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um médico faz o acompanhamento clínico de um gru",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q152": {
+   "alternativas": [
+    "887309d048be",
+    "bc33ea4e26e5",
+    "0a57cb53ba59",
+    "7719a1c782a1",
+    "972a67c48192"
+   ],
+   "apoio": "69655d557b42",
+   "credito": "e0e1c44b7753",
+   "enunciado": "075b08a174ca",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q152-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q152-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma sala de cinema, cuja largura da tela mede 12",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q152-apoio-01.png",
+     22,
+     [
+      39.4,
+      414.8,
+      256.7,
+      601.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q152-apoio-02.png",
+     22,
+     [
+      301.4,
+      421.8,
+      516.8,
+      591.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q153": {
+   "alternativas": [
+    "757a7cfae7b0",
+    "0f6e7404a9df",
+    "85adba1b0bfd",
+    "d7c5f475cfb4",
+    "033cdc175bc0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ef96af771d1f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q153-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa produz e vende um tipo de chocolate,",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q153-apoio-01.png",
+     23,
+     [
+      75.6,
+      145.2,
+      235.9,
+      288.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q154": {
+   "alternativas": [
+    "c16bee8cf298",
+    "c66209c7507b",
+    "4e607d9682a1",
+    "59419284c7b2",
+    "ef047ed7c739"
+   ],
+   "apoio": "600817f762ed",
+   "credito": "ba6978bbc575",
+   "enunciado": "60c01290a651",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com as informações dadas, o número de ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q155": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "149a0a826442",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-E-01.png"
+    ]
+   },
+   "previa": "Um prédio, com 9 andares e 8 apartamentos de 2 q",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-A-01.png",
+     23,
+     [
+      307.2,
+      373.4,
+      351.1,
+      400.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-B-01.png",
+     23,
+     [
+      307.2,
+      417.4,
+      366.2,
+      444.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-C-01.png",
+     23,
+     [
+      307.2,
+      460.7,
+      366.4,
+      487.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-D-01.png",
+     23,
+     [
+      307.2,
+      504.7,
+      366.1,
+      531.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q155-alt-E-01.png",
+     23,
+     [
+      307.2,
+      547.7,
+      387.2,
+      579.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q156": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6c7d6452d6a1",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-02.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-03.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-E-01.png"
+    ]
+   },
+   "previa": "O professor de artes orientou seus estudantes a ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-01.png",
+     24,
+     [
+      61.5,
+      135.2,
+      163.6,
+      237.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-02.png",
+     24,
+     [
+      210.5,
+      135.2,
+      448.8,
+      237.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-apoio-03.png",
+     24,
+     [
+      172.3,
+      334.9,
+      310.4,
+      436.9
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-A-01.png",
+     24,
+     [
+      52.7,
+      487.6,
+      154.7,
+      589.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-B-01.png",
+     24,
+     [
+      223.6,
+      487.4,
+      325.7,
+      589.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-C-01.png",
+     24,
+     [
+      392.9,
+      487.4,
+      495.0,
+      589.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-D-01.png",
+     24,
+     [
+      52.7,
+      616.7,
+      154.7,
+      718.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q156-alt-E-01.png",
+     24,
+     [
+      223.6,
+      616.8,
+      325.7,
+      718.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q157": {
+   "alternativas": [
+    "34c99ed33b5b",
+    "3b54c9e95ecf",
+    "e9dcf90d0177",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f3464c9d74ee",
+   "gabarito": null,
+   "imagens": [],
+   "imagens_alt": {
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q157-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q157-alt-E-01.png"
+    ]
+   },
+   "previa": "O funcionário de uma loja tem seu salário mensal",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q157-alt-D-01.png",
+     25,
+     [
+      49.1,
+      229.2,
+      168.0,
+      258.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q157-alt-E-01.png",
+     25,
+     [
+      49.1,
+      264.9,
+      168.0,
+      294.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q158": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "147668e484b9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao analisar os dados de uma epidemia em uma cida",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q159": {
+   "alternativas": [
+    "5ed185f4eef7",
+    "c95350f0fc83",
+    "0d435313079c",
+    "71f6da84ca38",
+    "d26c795387e0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "510f45f38352",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q159-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um atleta iniciou seu treinamento visando as com",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q159-apoio-m01.png",
+     25,
+     [
+      30.0,
+      591.1,
+      533.5,
+      622.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q160": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "233076dea31f",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-E-01.png"
+    ]
+   },
+   "previa": "Um robô, que tem um ímã em sua base, se desloca ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-apoio-01.png",
+     26,
+     [
+      79.8,
+      216.3,
+      229.4,
+      365.3
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-A-01.png",
+     26,
+     [
+      49.2,
+      439.2,
+      197.7,
+      470.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-B-01.png",
+     26,
+     [
+      49.2,
+      501.2,
+      197.7,
+      533.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-C-01.png",
+     26,
+     [
+      106.2,
+      562.7,
+      198.7,
+      594.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-D-01.png",
+     26,
+     [
+      62.7,
+      623.7,
+      198.7,
+      641.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q160-alt-E-01.png",
+     26,
+     [
+      62.7,
+      683.7,
+      198.7,
+      715.7
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q161": {
+   "alternativas": [
+    "1bda2ab97523",
+    "6f9d10e67aa5",
+    "019516cd0bb1",
+    "41ca20d20a23",
+    "da8155e8483f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "97097a18b112",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q161-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa de engenharia projetou uma casa com ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q161-apoio-01.png",
+     26,
+     [
+      289.7,
+      154.5,
+      533.0,
+      337.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q162": {
+   "alternativas": [
+    "a3c0917d7808",
+    "e8ad9b48218d",
+    "1713d9cbf80e",
+    "7512ab89e739",
+    "d47e015e02ed"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3b76c33ee02e",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q162-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma loja de roupas fixou uma meta de vendas de 7",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q162-apoio-m01.png",
+     26,
+     [
+      282.5,
+      518.6,
+      535.5,
+      657.1
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q163": {
+   "alternativas": [
+    "66c94bef5297",
+    "d804cdf8348c",
+    "94a300f96fc7",
+    "98b81b182cb1",
+    "8666959fc040"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b9addc1eb466",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma universidade, atuam professores que estão",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q164": {
+   "alternativas": [
+    "bc785ac241d6",
+    "9adc0f47f413",
+    "d3a27bef562c",
+    "97d05b758614",
+    "22f87ad409ea"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e8df5399dc7c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um borrifador de atuação automática libera, a ca",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q165": {
+   "alternativas": [
+    "3ecc5e014dd8",
+    "00051038c9d4",
+    "856280b620a8",
+    "6d424a2efdc8",
+    "58f24e0ff8c2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f6bac425419b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Definem-se o dia e o ano de um planeta de um sis",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q166": {
+   "alternativas": [
+    "b6589fc6ab0d",
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "edca97a0da42",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q166-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma competição de velocidade, diz-se que há u",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q166-apoio-01.png",
+     27,
+     [
+      289.1,
+      183.4,
+      531.9,
+      367.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q167": {
+   "alternativas": [
+    "23dc32e1cf15",
+    "6b25cbb1f286",
+    "5cce56d52bd9",
+    "00b8d0eb9d56",
+    "92f003395bbe"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "382183a0c8e8",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma loja, o preço promocional de uma geladeir",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q168": {
+   "alternativas": [
+    "239b92a65180",
+    "7802c60dce5f",
+    "7758ad85d5e3",
+    "df858ea6bb09",
+    "d65af5996c7a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c170ff9d54de",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q168-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma pessoa precisa se deslocar de automóvel do p",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q168-apoio-01.png",
+     28,
+     [
+      61.9,
+      125.3,
+      246.9,
+      309.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q169": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4dc9165859de",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma loja comercializa cinco modelos de caixas-d’",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q170": {
+   "alternativas": [
+    "23a0538f53cc",
+    "aca6d6e0ac7c",
+    "7263d678abae",
+    "32a70a32da27",
+    "d08b10a32612"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e5c453f77f2b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q170-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q170-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No período de 2005 a 2013, o valor de venda dos ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q170-apoio-01.png",
+     28,
+     [
+      301.5,
+      280.7,
+      522.9,
+      407.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q170-apoio-02.png",
+     28,
+     [
+      301.5,
+      416.8,
+      523.4,
+      537.5
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q171": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6cb4f7228379",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q171-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Nos cinco jogos finais da última temporada, com ",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q171-apoio-01.png",
+     29,
+     [
+      31.8,
+      169.8,
+      277.2,
+      260.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q172": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "aff3a50d32ff",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um casal planeja construir em sua chácara uma pi",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q173": {
+   "alternativas": [
+    "9f9af029585b",
+    "ab7f7b955330",
+    "985956400084",
+    "14678d21250f",
+    "dc695e681bbd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "be3ff20b913d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q173-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma instituição de ensino superior ofereceu vaga",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q173-apoio-01.png",
+     29,
+     [
+      289.4,
+      151.0,
+      535.5,
+      361.0
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q174": {
+   "alternativas": [
+    "290a52e4dd62",
+    "985956400084",
+    "278944109b0d",
+    "c301317ec216",
+    "5e837398f4a9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f9b345e95a48",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Peças metálicas de aeronaves abandonadas em aero",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q175": {
+   "alternativas": [
+    "7b458ebd5a96",
+    "0f3e900f4bf2",
+    "a1eb53ffc009",
+    "cf18003f2f91",
+    "4828b67e52b9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6631654ce15c",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao escutar a notícia de que um filme recém-lança",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q176": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ffe42a941d37",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q176-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O governo de um estado pretende realizar uma obr",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q176-apoio-01.png",
+     30,
+     [
+      32.9,
+      421.3,
+      276.5,
+      547.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q177": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4b74c19f16b7",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q177-apoio-01.png",
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q177-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma pessoa precisa contratar um operário para fa",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q177-apoio-01.png",
+     30,
+     [
+      290.3,
+      177.9,
+      534.6,
+      246.3
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q177-apoio-02.png",
+     30,
+     [
+      290.3,
+      251.1,
+      534.6,
+      291.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q178": {
+   "alternativas": [
+    "da4b9237bacc",
+    "77de68daecd8",
+    "c1dfd96eea8c",
+    "7b52009b64fd",
+    "4d134bc07221"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "86dd4697316a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma cozinheira produz docinhos especiais por enc",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q179": {
+   "alternativas": [
+    "35dd4b29e083",
+    "dc54bf244a03",
+    "980f365c9c49",
+    "6afe2963a732",
+    "14b2aeaef674"
+   ],
+   "apoio": "8f1d88c85bfc",
+   "credito": "9c49127d6897",
+   "enunciado": "0a175bdf3fca",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q179-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Pode-se observar que a esperança de vida ao nasc",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q179-apoio-01.jpg",
+     31,
+     [
+      31.6,
+      166.2,
+      272.7,
+      358.8
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q180": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "baaea2e3d80d",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-E-01.png"
+    ]
+   },
+   "previa": "Na figura estão destacadas duas trajetórias sobr",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-apoio-01.png",
+     31,
+     [
+      300.4,
+      167.8,
+      526.2,
+      300.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-A-01.png",
+     31,
+     [
+      308.6,
+      378.2,
+      364.1,
+      433.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-B-01.png",
+     31,
+     [
+      308.6,
+      443.2,
+      364.1,
+      498.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-C-01.png",
+     31,
+     [
+      308.6,
+      508.2,
+      364.1,
+      563.7
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-D-01.png",
+     31,
+     [
+      308.6,
+      572.7,
+      364.1,
+      628.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q180-alt-E-01.png",
+     31,
+     [
+      308.6,
+      637.7,
+      364.1,
+      693.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q91": {
+   "alternativas": [
+    "474d39939190",
+    "c15781f69309",
+    "d198c54806a4",
+    "8ca1fc5a9311",
+    "3ae485cbd6a6"
+   ],
+   "apoio": "9803ba947d8d",
+   "credito": "3de52bc9ebd4",
+   "enunciado": "4536f2d949c0",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q91-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Esse procedimento de remediação de águas subterr",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q91-apoio-01.png",
+     2,
+     [
+      31.2,
+      267.2,
+      277.3,
+      431.3
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q92": {
+   "alternativas": [
+    "f127b5dcd6f7",
+    "a5b958c085ad",
+    "ff42bd2f9272",
+    "50588abf2e65",
+    "cd6d5c219dfd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "317c9f7c89dc",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com a Organização Mundial da Saúde, a ",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q93": {
+   "alternativas": [
+    "0567f06f1e59",
+    "5f97a8046f14",
+    "d697fd75a07c",
+    "9b00ba894185",
+    "b9ec58767e3f"
+   ],
+   "apoio": "b756ae8ecc45",
+   "credito": "0353131cde48",
+   "enunciado": "ebdb8cb7ae47",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nessas condições, a área total dos painéis solar",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q94": {
+   "alternativas": [
+    "778f7158096f",
+    "f66fd4efc06b",
+    "8bd384ef6e3b",
+    "c14e33a27854",
+    "610a41d4e311"
+   ],
+   "apoio": "0a0db20f047b",
+   "credito": "c68781840e52",
+   "enunciado": "470dd14231a9",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q94-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O descarte dos conjuntos (1) e (2) resultará, re",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q94-apoio-01.png",
+     2,
+     [
+      289.1,
+      424.7,
+      535.7,
+      555.2
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q95": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2884881ca783",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-E-01.png"
+    ]
+   },
+   "previa": "O físico Hans C. Oersted observou que um fio tra",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-apoio-01.jpg",
+     3,
+     [
+      168.1,
+      133.0,
+      398.2,
+      221.9
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-A-01.png",
+     3,
+     [
+      46.7,
+      289.0,
+      191.0,
+      383.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-B-01.png",
+     3,
+     [
+      46.7,
+      435.7,
+      191.0,
+      530.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-C-01.png",
+     3,
+     [
+      46.7,
+      586.1,
+      191.0,
+      680.9
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-D-01.png",
+     3,
+     [
+      299.0,
+      287.4,
+      443.3,
+      382.2
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q95-alt-E-01.png",
+     3,
+     [
+      299.0,
+      435.5,
+      443.3,
+      530.4
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q96": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "82becf048ea5",
+   "credito": "73aca66288a4",
+   "enunciado": "61967c5923d6",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-E-01.png"
+    ]
+   },
+   "previa": "Qual associação de baterias foi responsável pelo",
+   "recortes": [
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-apoio-01.png",
+     4,
+     [
+      32.3,
+      110.5,
+      276.6,
+      212.8
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-A-01.png",
+     4,
+     [
+      51.3,
+      404.6,
+      238.1,
+      435.6
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-B-01.png",
+     4,
+     [
+      51.3,
+      462.5,
+      238.1,
+      493.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-C-01.png",
+     4,
+     [
+      51.3,
+      520.7,
+      238.1,
+      551.4
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-D-01.png",
+     4,
+     [
+      51.3,
+      582.5,
+      238.1,
+      613.5
+     ]
+    ],
+    [
+     "/questoes/2022/regular/dia2/enem-2022-regular-d2-q96-alt-E-01.png",
+     4,
+     [
+      52.4,
+      637.0,
+      177.7,
+      712.9
+     ]
+    ]
+   ]
+  },
+  "enem-2022-regular-d2-q97": {
+   "alternativas": [
+    "ac57e870a023",
+    "71de8e388062",
+    "f4c68594bc6e",
+    "bb46ea49cd64",
+    "de0b3774b245"
+   ],
+   "apoio": "e2536da34b59",
+   "credito": "00d844f3be00",
+   "enunciado": "9b534bd698d9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando a diferença de massa mencionada ent",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q98": {
+   "alternativas": [
+    "e0edef75ba9f",
+    "48a7128dde07",
+    "b063f4b0b9fa",
+    "bde119560a73",
+    "98ac81d91b7a"
+   ],
+   "apoio": "740f5653c259",
+   "credito": "f21049e5e4d2",
+   "enunciado": "3ad962940f35",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O sucesso dessa terapia advém do fato de que o p",
+   "recortes": []
+  },
+  "enem-2022-regular-d2-q99": {
+   "alternativas": [
+    "9b77d0f6ccf2",
+    "9c43daa80787",
+    "882955f8b4d0",
+    "37401b9b8b82",
+    "5b70910d41ab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c9492e8f2f1a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A extinção de espécies é uma ameaça real que afe",
+   "recortes": []
+  }
+ }
+}

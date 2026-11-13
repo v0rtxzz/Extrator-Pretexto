@@ -1,0 +1,2937 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2020",
+ "perfil": "motor v2020 + digital: uma questão por página, rótulo com a área",
+ "questoes": {
+  "enem-2020-digital-d2-q100": {
+   "alternativas": [
+    "b0e549a1f472",
+    "4149a8e25be1",
+    "02803c3fe13b",
+    "02f314e1aaf2",
+    "530d8432b3a7"
+   ],
+   "apoio": "f75887066169",
+   "credito": "6727c26a7069",
+   "enunciado": "29c0f0ba4b00",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A mudança de fenótipo (tamanho dos frutos) nas p",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q101": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4b2943ba149f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Os feromônios de insetos são substâncias respons",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-apoio-01.jpg",
+     15,
+     [
+      262.2,
+      172.9,
+      333.1,
+      218.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-A-01.jpg",
+     15,
+     [
+      126.7,
+      274.8,
+      176.6,
+      314.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-B-01.jpg",
+     15,
+     [
+      126.2,
+      337.3,
+      172.9,
+      377.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-C-01.jpg",
+     15,
+     [
+      126.2,
+      402.4,
+      179.7,
+      440.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-D-01.jpg",
+     15,
+     [
+      126.2,
+      461.7,
+      203.9,
+      502.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q101-alt-E-01.jpg",
+     15,
+     [
+      126.2,
+      523.2,
+      214.9,
+      566.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q102": {
+   "alternativas": [
+    "e5971d3ebe8d",
+    "230177a3db4d",
+    "93259f13f8fd",
+    "c743de28a623",
+    "a7bfa56b966b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "afaa1b70e4eb",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q102-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um ecossistema é observada a seguinte teia al",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q102-apoio-01.jpg",
+     16,
+     [
+      167.1,
+      104.1,
+      429.7,
+      338.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q103": {
+   "alternativas": [
+    "dae4d9f7a18f",
+    "d58307154d9a",
+    "a8aae5876d4e",
+    "8494982ddda9",
+    "007bcd27bfcb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3e87613901fe",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A perfuração de poços para a extração de petróle",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q104": {
+   "alternativas": [
+    "ad1a979dcd91",
+    "8f1971a16386",
+    "af5360359191",
+    "0c802558fe8c",
+    "602d9de9e3ec"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6355cc05fa28",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A combustão completa de combustíveis fósseis pro",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q105": {
+   "alternativas": [
+    "4ae796765856",
+    "a452c6e60cf2",
+    "03936e2649c7",
+    "3fe2e7e5b0bd",
+    "42f21524e9e2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "44bdc894ea24",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No Autódromo de Interlagos, um carro de Fórmula ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q106": {
+   "alternativas": [
+    "96b3d93ccb18",
+    "55bbd12893a8",
+    "48405759070d",
+    "51cd2ce391e8",
+    "46ba747c129c"
+   ],
+   "apoio": "18a3dadf0f69",
+   "credito": "7cce1049db2b",
+   "enunciado": "928e89326311",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q106-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual espécie é geneticamente mais semelhante ao ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q106-apoio-01.jpg",
+     20,
+     [
+      104.1,
+      158.2,
+      492.2,
+      336.7
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q107": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "922674ae7923",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e871f0009a4b",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q107-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual dos materiais é o recomendado para manter u",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q107-apoio-m01.png",
+     21,
+     [
+      181.5,
+      162.0,
+      415.0,
+      275.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q108": {
+   "alternativas": [
+    "b81067fd8443",
+    "6a51fdbb3184",
+    "cd274fc74325",
+    "321049215f8c",
+    "1feed3a562fa"
+   ],
+   "apoio": "175217150018",
+   "credito": "d7763d606079",
+   "enunciado": "1a3ea11a000c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa resistência tem ocorrido porque os(as)",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q109": {
+   "alternativas": [
+    "046b2e771c82",
+    "ceda43d77158",
+    "5f80ca070c53",
+    "7b4c7d324fc3",
+    "bcc7657aa125"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6501ce6d0daf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ampla diversidade genética é uma característic",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q110": {
+   "alternativas": [
+    "ef3d69d515a2",
+    "87c4f235c93a",
+    "a65d02d3e741",
+    "85f7215404fa",
+    "e1ca762871a5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1ec0f7c94656",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Reflorestamento é uma ação ambiental que visa re",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q111": {
+   "alternativas": [
+    "97c452a3c758",
+    "593092c2923b",
+    "3eb7ad41ec59",
+    "0c99766b71d9",
+    "470cb1c81988"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3d805ee72783",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q111-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Analise o esquema de uma metodologia utilizada n",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q111-apoio-01.jpg",
+     25,
+     [
+      147.2,
+      115.1,
+      449.1,
+      341.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q112": {
+   "alternativas": [
+    "b8d4f9e56efb",
+    "3f2ee6ceed0d",
+    "2bfd7f471de8",
+    "58d6eeb96fc0",
+    "88a8b5e48a4d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "16d5cf347352",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um fabricante de termômetros orienta em seu manu",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q113": {
+   "alternativas": [
+    "cfd7244d231d",
+    "e2b562f90535",
+    "682093c83be8",
+    "6dfa083eb7db",
+    "c6e51bac316f"
+   ],
+   "apoio": "53b3ef64ef67",
+   "credito": "b58783c06e19",
+   "enunciado": "a597a5d5974a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Quais das etapas citadas do processo de reciclag",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q114": {
+   "alternativas": [
+    "5bdda331cf92",
+    "daba544d2b17",
+    "94ccf31a1fdf",
+    "2fa0cc006177",
+    "05cff402c2e6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5ad4ef31ac11",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "É possível identificar adulterantes do leite de ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q115": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "a1f24cc008ae",
+   "credito": "b4e5a0210eab",
+   "enunciado": "da7ebbfeb28e",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q115-apoio-01.jpg",
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q115-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual loja moveleira comercializa madeira exclusi",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q115-apoio-01.jpg",
+     29,
+     [
+      159.2,
+      179.7,
+      437.6,
+      345.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q115-apoio-02.jpg",
+     29,
+     [
+      164.0,
+      378.2,
+      432.3,
+      489.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q116": {
+   "alternativas": [
+    "acb2df96e9bd",
+    "06300b30dfc5",
+    "f06672250450",
+    "4ecfde8fa50d",
+    "369b4203b298"
+   ],
+   "apoio": "e67c6586ec16",
+   "credito": "a545823dc0e2",
+   "enunciado": "5dd34a86cc91",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A limitação dessa técnica no que se refere à con",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q117": {
+   "alternativas": [
+    "26d6a3cddf7e",
+    "1b53775dff43",
+    "74dded26dafd",
+    "0e147df38034",
+    "aca03b39f666"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f07fadc93a53",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O desfibrilador salva vidas de pessoas que são a",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q118": {
+   "alternativas": [
+    "a65f2767dc46",
+    "7fc4702ea42b",
+    "bf6c122e1c22",
+    "bfef2086d019",
+    "e0bb21877f30"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cfdc6e66104d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q118-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Diversos brinquedos são constituídos de pilhas l",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q118-apoio-01.jpg",
+     32,
+     [
+      98.3,
+      155.6,
+      485.9,
+      214.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q119": {
+   "alternativas": [
+    "5872d6e3aa24",
+    "cd91f7f9b0e3",
+    "4107029a5374",
+    "6a99b8bff103",
+    "6db68af8018c"
+   ],
+   "apoio": "0e71fd803377",
+   "credito": "06e00894d9cf",
+   "enunciado": "cc2cefceb897",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esses fenômenos atuam na",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q120": {
+   "alternativas": [
+    "4feef41a8a5a",
+    "c15781f69309",
+    "474d39939190",
+    "3ae485cbd6a6",
+    "fec251b299bb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c04577685e48",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q120-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O elemento ferro é essencial em nossa alimentaçã",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q120-apoio-01.jpg",
+     34,
+     [
+      105.0,
+      141.9,
+      491.9,
+      212.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q121": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "335dc1a3f03c",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a532e76d9b7e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-A-m01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-B-m01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-C-m01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-D-m01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-E-m01.png"
+    ]
+   },
+   "previa": "Qual foi o gráfico obtido pelo analista?",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-A-m01.png",
+     35,
+     [
+      125.0,
+      198.0,
+      285.0,
+      308.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-B-m01.png",
+     35,
+     [
+      125.0,
+      325.0,
+      285.0,
+      435.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-C-m01.png",
+     35,
+     [
+      125.0,
+      452.0,
+      285.0,
+      563.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-D-m01.png",
+     35,
+     [
+      362.5,
+      198.5,
+      522.5,
+      308.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q121-alt-E-m01.png",
+     35,
+     [
+      362.5,
+      324.0,
+      523.0,
+      434.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q122": {
+   "alternativas": [
+    "1481ec0e21ac",
+    "97a78aaf0831",
+    "f64399dae0fe",
+    "8ffc52a792ca",
+    "5beba6a03ac6"
+   ],
+   "apoio": "648e7ceaac3e",
+   "credito": "990ed3dedbb3",
+   "enunciado": "430aca3a0225",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse processo biológico, ocorre a transformação",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q123": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3c193a571271",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-E-01.jpg"
+    ]
+   },
+   "previa": "O custo de implantação de redes de transmissão a",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-A-01.jpg",
+     38,
+     [
+      151.2,
+      110.2,
+      335.0,
+      237.3
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-B-01.jpg",
+     38,
+     [
+      151.2,
+      255.7,
+      335.0,
+      383.3
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-C-01.jpg",
+     38,
+     [
+      151.2,
+      401.7,
+      335.0,
+      528.8
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-D-01.jpg",
+     38,
+     [
+      151.2,
+      547.2,
+      335.0,
+      675.3
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q123-alt-E-01.jpg",
+     38,
+     [
+      148.4,
+      695.3,
+      332.2,
+      822.4
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q124": {
+   "alternativas": [
+    "38d5de0687dc",
+    "a391c0fe93e5",
+    "1af83d4cccb7",
+    "c2cf0a26845d",
+    "cdd38aeef456"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "985bcb8f4525",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os objetos de prata tendem a escurecer com o tem",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q125": {
+   "alternativas": [
+    "bcdb21a846f9",
+    "3c051306c329",
+    "0e6637a19257",
+    "8d1cdc03449d",
+    "3f10cc61e2a6"
+   ],
+   "apoio": "0a70c3cfb96b",
+   "credito": "4dc441dd3160",
+   "enunciado": "29c04dc778c7",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q125-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A mudança de coloração que indica a presença de ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q125-apoio-01.jpg",
+     40,
+     [
+      98.3,
+      159.2,
+      485.9,
+      454.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q126": {
+   "alternativas": [
+    "1b6114d13389",
+    "c347a1571791",
+    "b8054bc44958",
+    "5c8fb90d0cec",
+    "9b8829f403c3"
+   ],
+   "apoio": "d64d5241fc9c",
+   "credito": "0c77b55cabe6",
+   "enunciado": "551bdf18ff8b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q126-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando a área 4, a espécie que terá priori",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q126-apoio-01.jpg",
+     41,
+     [
+      98.3,
+      137.2,
+      485.9,
+      284.2
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q127": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f1ae954cbea2",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q127-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Um pesquisador colocou a mesma quantidade de sol",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q127-apoio-01.jpg",
+     42,
+     [
+      98.3,
+      137.2,
+      485.9,
+      230.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q128": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1c161335f9eb",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q128-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A composição de um dos refrigerantes mais ácidos",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q128-apoio-01.jpg",
+     43,
+     [
+      98.8,
+      127.1,
+      485.4,
+      221.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q129": {
+   "alternativas": [
+    "36db95352d47",
+    "2cfc81816845",
+    "2076796bf2c9",
+    "0043b35e1a06",
+    "daba2b2bf5f2"
+   ],
+   "apoio": "6c7a050b9efe",
+   "credito": "5d95561f8215",
+   "enunciado": "5fd1c9902d63",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q129-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Essa radiação invisível detectada nas ampolas é ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q129-apoio-01.jpg",
+     44,
+     [
+      104.1,
+      181.3,
+      492.2,
+      293.7
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q130": {
+   "alternativas": [
+    "d8390dc2e4a6",
+    "23742ad759a2",
+    "769693b4ccfa",
+    "efe3a53b932d",
+    "3b7079be29fd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c938431a2e6d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma nova e revolucionária técnica foi desenvolvi",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q131": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "bb61c45dfdcf",
+   "credito": "366fe95beab6",
+   "enunciado": "290a47ae1566",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q131-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em qual etapa ocorre essa mudança de consistênci",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q131-apoio-01.jpg",
+     46,
+     [
+      104.1,
+      115.1,
+      492.2,
+      297.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q132": {
+   "alternativas": [
+    "ce96bc22d5ab",
+    "4bdbd559cbd9",
+    "d07683372ce0",
+    "40e7d1f37abb",
+    "7ce7e84ba220"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ed5fda4c8e67",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q132-apoio-01.jpg",
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q132-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As pilhas recarregáveis, bastante utilizadas atu",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q132-apoio-01.jpg",
+     47,
+     [
+      197.4,
+      181.8,
+      417.8,
+      192.8
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q132-apoio-02.jpg",
+     47,
+     [
+      196.9,
+      204.9,
+      418.3,
+      215.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q133": {
+   "alternativas": [
+    "75c2dc084d65",
+    "02b11160ee41",
+    "02f3e53d18bf",
+    "f7320f70e846",
+    "ea904ea9a326"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "73b4cf5eac21",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O leite UHT (do inglês Ultra-High Temperature) é",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q134": {
+   "alternativas": [
+    "530c51184996",
+    "526c1c301afe",
+    "fd1fcfa0fe9d",
+    "047df9593f97",
+    "7442c7ae5c13"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "784286b40598",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um produtor de morangos notou, no início da manh",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q135": {
+   "alternativas": [
+    "507433604cdc",
+    "669241b89c3d",
+    "ec3ea7a437c2",
+    "c2cea05a19e5",
+    "2e4f336cf5ae"
+   ],
+   "apoio": "ff013ecb2102",
+   "credito": "b4c65ce37d97",
+   "enunciado": "46a46a72ab8e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como se pode representar corretamente a unidade ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q136": {
+   "alternativas": [
+    "c1dfd96eea8c",
+    "902ba3cda188",
+    "fe5dbbcea5ce",
+    "0ade7c2cf97f",
+    "b1d5781111d8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fbd11aa6f356",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q136-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico mostra o resultado do balanço financei",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q136-apoio-01.jpg",
+     51,
+     [
+      110.4,
+      152.4,
+      487.5,
+      384.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q137": {
+   "alternativas": [
+    "b921b6b4adaa",
+    "a79d6acd2787",
+    "1b2e36929f6b",
+    "4a21b41c0e6c",
+    "b09d64953ee9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7e54085b63df",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma editora pretende fazer uma reimpressão de um",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q138": {
+   "alternativas": [
+    "5d59c52b8685",
+    "9f713d2e0707",
+    "efda199b7c4d",
+    "fe437e65f795",
+    "c7d8f4c715bb"
+   ],
+   "apoio": "c03f19faa8ce",
+   "credito": "9068595637f2",
+   "enunciado": "f069dfbeca88",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q138-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto e o mapa de percentuais de",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q138-apoio-01.jpg",
+     53,
+     [
+      114.6,
+      225.4,
+      482.2,
+      443.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q139": {
+   "alternativas": [
+    "75649e4cec48",
+    "728a49a91c58",
+    "91ebd481aa1f",
+    "812f3cbf0564",
+    "bab7453a5666"
+   ],
+   "apoio": "4f112b50861f",
+   "credito": "0dbb04abd855",
+   "enunciado": "0ef504dadced",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q139-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com os dados apresentados, o aumento p",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q139-apoio-01.jpg",
+     54,
+     [
+      122.0,
+      115.1,
+      474.9,
+      293.7
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q140": {
+   "alternativas": [
+    "5a5b0f9b7d3f",
+    "e6c3dd630428",
+    "12f0de3dc76e",
+    "a2e33d344f27",
+    "775bc5c30e27"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5340a568a182",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Eduardo deseja criar um e-mail utilizando um ana",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q141": {
+   "alternativas": [
+    "d84be060aacd",
+    "c5b633f44026",
+    "420765a6ebec",
+    "417493564f32",
+    "b60c1a4dd142"
+   ],
+   "apoio": "59a7a452c2d4",
+   "credito": "98a0cc42ddbd",
+   "enunciado": "bc69826c6699",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Supondo que a taxa de produção de combustível pe",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q142": {
+   "alternativas": [
+    "5fba16084c5f",
+    "ec2029ef719c",
+    "84cf1191b782",
+    "85390d8f612d",
+    "d3395004e3cf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7718a60a78f3",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para sua festa de 17 anos, o aniversariante conv",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q143": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2d3a986febc6",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-E-01.png"
+    ]
+   },
+   "previa": "Com base na Lei Universal da Gravitação, propost",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-apoio-01.jpg",
+     58,
+     [
+      304.7,
+      116.7,
+      315.2,
+      139.8
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-A-01.png",
+     58,
+     [
+      125.4,
+      218.1,
+      144.4,
+      242.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-B-01.png",
+     58,
+     [
+      125.4,
+      262.1,
+      143.9,
+      285.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-C-01.png",
+     58,
+     [
+      125.4,
+      305.1,
+      149.9,
+      329.6
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-D-01.png",
+     58,
+     [
+      125.4,
+      349.1,
+      135.9,
+      373.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q143-alt-E-01.png",
+     58,
+     [
+      125.4,
+      392.6,
+      139.4,
+      416.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q144": {
+   "alternativas": [
+    "235e7f1d4611",
+    "55fdbf7693d4",
+    "dfc49462a22c",
+    "3e70c2d5412a",
+    "a35706562f71"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "921908c13c28",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q144-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico mostra as receitas e as despesas de um",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q144-apoio-01.jpg",
+     59,
+     [
+      108.8,
+      126.2,
+      487.5,
+      353.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q145": {
+   "alternativas": [
+    "fa5836450376",
+    "86b918c65b55",
+    "00051038c9d4",
+    "89a1979e0897",
+    "9a52c7bf012d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9457c0f22e4b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "É comum as cooperativas venderem seus produtos a",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q146": {
+   "alternativas": [
+    "aaed047a16ee",
+    "4aca8472f30a",
+    "07966959260c",
+    "3766a03eee01",
+    "f1e34054d579"
+   ],
+   "apoio": "4c227ca223ad",
+   "credito": "10ca296fe407",
+   "enunciado": "c1599945242a",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q146-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Pelo gráfico apresentado, o intervalo em que se ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q146-apoio-01.jpg",
+     61,
+     [
+      98.3,
+      159.2,
+      485.9,
+      363.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q147": {
+   "alternativas": [
+    "59f9d0a64fce",
+    "a2ad01335824",
+    "078be95e2803",
+    "ff1c0a50ea7c",
+    "969052097694"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3247056a1555",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q147-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma fatura mensal de água é composta por uma tax",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q147-apoio-01.jpg",
+     62,
+     [
+      178.1,
+      137.2,
+      418.2,
+      305.2
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q148": {
+   "alternativas": [
+    "7b52009b64fd",
+    "64e095fe763f",
+    "eb4ac3033e8a",
+    "56ad4d4deaec",
+    "f76b2ea6b45e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "57b4e7b0013e",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa possuía um lote com área de 300 m². N",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q149": {
+   "alternativas": [
+    "f0448c8d9661",
+    "bc785ac241d6",
+    "2eba6e4f12ff",
+    "5e84f25b7a0f",
+    "c55fde36507f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "27d8dd0e3593",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma associação desportiva contratou uma empresa ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q150": {
+   "alternativas": [
+    "abed1fd5bda2",
+    "c1e1b77e4e4f",
+    "2692f821a4f0",
+    "f6573ea0ac26",
+    "648abf67d118"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6e30e5f94b45",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q150-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa deseja construir um edifício residen",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q150-apoio-01.jpg",
+     65,
+     [
+      104.1,
+      195.0,
+      492.2,
+      464.4
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q151": {
+   "alternativas": [
+    "8aedbf176ff5",
+    "9b681439dd7c",
+    "21d4f27466bf",
+    "44c4b3eb6fef",
+    "5121ff898e33"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e1c87a1fd080",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q151-apoio-01.jpg",
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q151-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O ganho real de um salário, r, é a taxa de cresc",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q151-apoio-01.jpg",
+     66,
+     [
+      282.7,
+      126.2,
+      332.5,
+      150.8
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q151-apoio-02.jpg",
+     66,
+     [
+      108.8,
+      248.0,
+      487.5,
+      383.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q152": {
+   "alternativas": [
+    "c6ca9dc6d671",
+    "c10178ad55cf",
+    "be0802f92465",
+    "76eaa74e5065",
+    "864d1d51d4f5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fdac6b2026e9",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q152-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa avaliou os cinco aparelhos de celula",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q152-apoio-01.jpg",
+     67,
+     [
+      232.8,
+      174.5,
+      364.1,
+      254.3
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q153": {
+   "alternativas": [
+    "7cb81d0cdeab",
+    "673fa5391627",
+    "38bdcb7b368d",
+    "fc9554808b2c",
+    "479c673bc44b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d5474f8fc788",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q153-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere o guindaste mostrado nas figuras, em d",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q153-apoio-01.jpg",
+     68,
+     [
+      108.8,
+      157.7,
+      487.5,
+      328.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q154": {
+   "alternativas": [
+    "13f1bdcab199",
+    "40e5fb23e10f",
+    "95bec6f42c95",
+    "1d67d5c13669",
+    "0c7e4dc85a71"
+   ],
+   "apoio": "70ffcba4637f",
+   "credito": "035cb5fd67b9",
+   "enunciado": "7039ecffb47c",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q154-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é a quantidade prevista para reciclagem de ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q154-apoio-01.jpg",
+     69,
+     [
+      108.8,
+      159.2,
+      487.5,
+      379.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q155": {
+   "alternativas": [
+    "f948e8c677d4",
+    "4265d35324eb",
+    "ede4da9115f1",
+    "7d63ba2c0841",
+    "59894f36967f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0d5a6be71904",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q155-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico apresenta a evolução do crescimento de",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q155-apoio-01.jpg",
+     70,
+     [
+      98.3,
+      126.2,
+      485.9,
+      399.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q156": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d62786e353dd",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q156-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma casa lotérica oferece cinco opções de jogos.",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q156-apoio-01.jpg",
+     71,
+     [
+      104.1,
+      148.2,
+      491.7,
+      313.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q157": {
+   "alternativas": [
+    "0428dc2044d2",
+    "14b21b6428c8",
+    "7e464338cbda",
+    "be9b631e92ee",
+    "e99e92d2226c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4976deb2d44d",
+   "gabarito": null,
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q157-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico mostra o início da trajetória de um ro",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q157-apoio-01.jpg",
+     72,
+     [
+      202.8,
+      146.6,
+      412.9,
+      357.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q158": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1fb0f96e3840",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-E-01.jpg"
+    ]
+   },
+   "previa": "De acordo com pesquisas recentes, a expectativa ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-A-01.jpg",
+     73,
+     [
+      126.2,
+      217.5,
+      249.6,
+      227.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-B-01.jpg",
+     73,
+     [
+      126.2,
+      249.0,
+      228.6,
+      259.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-C-01.jpg",
+     73,
+     [
+      126.2,
+      280.6,
+      289.0,
+      290.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-D-01.jpg",
+     73,
+     [
+      126.2,
+      309.4,
+      291.1,
+      332.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q158-alt-E-01.jpg",
+     73,
+     [
+      126.2,
+      348.8,
+      379.8,
+      358.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q159": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "557650a0974f",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Um jogo pedagógico é formado por cartas nas de s",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-apoio-01.jpg",
+     74,
+     [
+      292.1,
+      116.7,
+      331.5,
+      141.9
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-A-01.jpg",
+     74,
+     [
+      126.2,
+      182.9,
+      175.0,
+      208.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-B-01.jpg",
+     74,
+     [
+      126.2,
+      226.5,
+      175.0,
+      251.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-C-01.jpg",
+     74,
+     [
+      126.2,
+      270.1,
+      175.0,
+      295.3
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-D-01.jpg",
+     74,
+     [
+      126.2,
+      313.6,
+      175.0,
+      338.9
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q159-alt-E-01.jpg",
+     74,
+     [
+      126.2,
+      357.2,
+      175.0,
+      383.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q160": {
+   "alternativas": [
+    "88080a76d6ef",
+    "6196a3c8070c",
+    "bd4d6d554bc2",
+    "7280fc9a1c64",
+    "b930c2374106"
+   ],
+   "apoio": "4001a90e6236",
+   "credito": "b728d53ddcd3",
+   "enunciado": "857eca939ff0",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q160-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nessas condições, o valor unitário do banho, em ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q160-apoio-01.jpg",
+     75,
+     [
+      189.7,
+      148.2,
+      426.0,
+      197.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q161": {
+   "alternativas": [
+    "0a56ec40af30",
+    "0bece9eadb54",
+    "c16c4c0d4330",
+    "43dffabab1eb",
+    "fc6244735d0c"
+   ],
+   "apoio": "074b03029212",
+   "credito": "15b13691a827",
+   "enunciado": "8d456e8804b2",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q161-apoio-01.jpg",
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q161-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma escola apresentou no 9º ano do ensino fundam",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q161-apoio-01.jpg",
+     76,
+     [
+      268.0,
+      157.7,
+      328.3,
+      169.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q161-apoio-02.jpg",
+     76,
+     [
+      283.2,
+      234.9,
+      313.6,
+      261.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q162": {
+   "alternativas": [
+    "902ba3cda188",
+    "b1d5781111d8",
+    "f1abd670358e",
+    "af3e133428b9",
+    "667be543b022"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "339630b486d9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um agricultor sabe que a colheita da safra de so",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q163": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f7215c5a9cb4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-E-01.png"
+    ]
+   },
+   "previa": "Em um país, as infrações de trânsito são classif",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-A-01.png",
+     78,
+     [
+      125.4,
+      177.6,
+      133.9,
+      200.6
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-B-01.png",
+     78,
+     [
+      125.4,
+      221.6,
+      133.9,
+      246.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-C-01.png",
+     78,
+     [
+      125.4,
+      266.1,
+      133.9,
+      289.6
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-D-01.png",
+     78,
+     [
+      125.4,
+      310.6,
+      138.9,
+      333.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q163-alt-E-01.png",
+     78,
+     [
+      125.4,
+      354.1,
+      138.9,
+      376.6
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q164": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f08474d61541",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Em um ano, uma prefeitura apresentou o relatório",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-A-01.jpg",
+     79,
+     [
+      126.2,
+      176.6,
+      225.4,
+      189.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-B-01.jpg",
+     79,
+     [
+      126.2,
+      208.1,
+      240.1,
+      234.9
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-C-01.jpg",
+     79,
+     [
+      126.2,
+      249.0,
+      238.0,
+      275.8
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-D-01.jpg",
+     79,
+     [
+      126.2,
+      292.6,
+      224.9,
+      305.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q164-alt-E-01.jpg",
+     79,
+     [
+      126.2,
+      324.1,
+      238.0,
+      350.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q165": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "28abcbd739f9",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7e3e9a2758d9",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q165-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em qual madeireira o marceneiro deve comprar as ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q165-apoio-m01.png",
+     80,
+     [
+      138.5,
+      147.0,
+      458.5,
+      296.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q166": {
+   "alternativas": [
+    "ffc405a6cda7",
+    "b2300b77742d",
+    "634c73b3fbb4",
+    "fefc85f54daf",
+    "de62030fd12c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3f0889fa5afd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "“1, 2, 3, GOL, 5, 6, 7, GOL, 9, 10, 11, GOL, 13,",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q167": {
+   "alternativas": [
+    "ee261aff1784",
+    "93d5db2ea092",
+    "ba41c5a0db59",
+    "ee36da49ff4f",
+    "ed0646028eaf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e27e74cd0ca4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na última eleição para a presidência de um clube",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q168": {
+   "alternativas": [
+    "887309d048be",
+    "fe2ef495a115",
+    "a1422e6a1686",
+    "ecb7937db58e",
+    "efa6e44dfa01"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f3f6b63b55e3",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma microempresa especializou-se em produzir um ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q169": {
+   "alternativas": [
+    "327ff4260078",
+    "f656a320ee7f",
+    "0990364ac6b8",
+    "f995404522f1",
+    "fd45c2b890b0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "aed136cef325",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q169-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Um investidor deseja aplicar R$ 10 000,00 durant",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q169-apoio-01.jpg",
+     84,
+     [
+      108.8,
+      137.2,
+      487.5,
+      216.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q170": {
+   "alternativas": [
+    "61eaf6ac3603",
+    "e47f79f18e73",
+    "e36ec4e25898",
+    "d87c9d282cd4",
+    "ae0ab3282033"
+   ],
+   "apoio": "14c465e771ff",
+   "credito": "c21663c38780",
+   "enunciado": "833b33152cea",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual é a expressão que determinou o lucro L em f",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q171": {
+   "alternativas": [
+    "f5804170baf8",
+    "abfb80760ea4",
+    "8d89c34dc2c5",
+    "1488a39c538a",
+    "4a1b174b24b6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "30379fca43c0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os tempos gastos por três alunos para resolver u",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q172": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "22e2de348953",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma empresa de chocolates consultou o gerente de",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q173": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "e6ea8bffd4d1",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9d68397e788a",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-apoio-m01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-A-m01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-B-m01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-C-m01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-D-m01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-E-m01.png"
+    ]
+   },
+   "previa": "O gráfico que melhor representa, em função do te",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-apoio-m01.png",
+     88,
+     [
+      211.5,
+      147.0,
+      384.5,
+      276.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-A-m01.png",
+     88,
+     [
+      125.5,
+      345.5,
+      245.5,
+      460.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-B-m01.png",
+     88,
+     [
+      125.5,
+      479.0,
+      245.5,
+      594.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-C-m01.png",
+     88,
+     [
+      125.5,
+      613.0,
+      245.5,
+      728.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-D-m01.png",
+     88,
+     [
+      384.5,
+      346.0,
+      504.5,
+      462.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q173-alt-E-m01.png",
+     88,
+     [
+      384.5,
+      480.5,
+      504.5,
+      596.5
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q174": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a879deccab86",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-apoio-01.jpg"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Um modelo de telefone celular oferece a opção de",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-apoio-01.jpg",
+     89,
+     [
+      248.5,
+      115.1,
+      366.7,
+      325.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-A-01.jpg",
+     89,
+     [
+      126.2,
+      397.1,
+      179.7,
+      408.7
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-B-01.jpg",
+     89,
+     [
+      126.2,
+      427.1,
+      181.8,
+      439.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-C-01.jpg",
+     89,
+     [
+      126.2,
+      457.5,
+      183.9,
+      469.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-D-01.jpg",
+     89,
+     [
+      126.2,
+      487.5,
+      148.7,
+      500.1
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q174-alt-E-01.jpg",
+     89,
+     [
+      126.2,
+      518.5,
+      142.4,
+      531.1
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q175": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "36f4659951c8",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q175-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Um investidor pretende aplicar R$ 100 000,00 no ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q175-apoio-01.jpg",
+     90,
+     [
+      104.1,
+      170.3,
+      492.2,
+      540.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q176": {
+   "alternativas": [
+    "2a6df32b4088",
+    "a69959da74fa",
+    "703ea169efa3",
+    "844b870a9abf",
+    "00404ad5f519"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "111fe953f160",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Três pessoas, X, Y e Z, compraram plantas orname",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q177": {
+   "alternativas": [
+    "bcb7ff52a44d",
+    "cd060494acaa",
+    "9a81fe2bfbbb",
+    "c30fac9b59d8",
+    "e9526804513b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8ac0f59e8c32",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q177-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A gerência de uma loja de eletrônicos organizou ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q177-apoio-01.jpg",
+     92,
+     [
+      167.1,
+      115.1,
+      429.2,
+      193.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q178": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0c7ec2452c1a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-E-01.png"
+    ]
+   },
+   "previa": "Um apostador deve escolher uma entre cinco moeda",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-A-01.png",
+     93,
+     [
+      125.4,
+      236.4,
+      133.4,
+      259.4
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-B-01.png",
+     93,
+     [
+      125.4,
+      279.4,
+      133.4,
+      301.9
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-C-01.png",
+     93,
+     [
+      125.4,
+      321.9,
+      133.4,
+      344.4
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-D-01.png",
+     93,
+     [
+      125.4,
+      364.4,
+      133.9,
+      387.9
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q178-alt-E-01.png",
+     93,
+     [
+      125.4,
+      408.4,
+      133.9,
+      431.9
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q179": {
+   "alternativas": [
+    "b600dfd21a2a",
+    "a42730ffad4d",
+    "197849440102",
+    "4bc4692d7a26",
+    "b489daf1cfef"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0fc0b6320dd2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um fazendeiro possui uma cisterna com capacidade",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q180": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "f4fada3b0e9d",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "890544395149",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-apoio-m01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-A-m01.png"
+    ],
+    "B": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-B-m01.png"
+    ],
+    "C": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-C-m01.png"
+    ],
+    "D": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-D-m01.png"
+    ],
+    "E": [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-E-m01.png"
+    ]
+   },
+   "previa": "As vistas frontal, lateral e superior que melhor",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-apoio-m01.png",
+     95,
+     [
+      158.0,
+      159.5,
+      438.5,
+      328.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-A-m01.png",
+     96,
+     [
+      129.5,
+      80.5,
+      347.0,
+      164.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-B-m01.png",
+     96,
+     [
+      130.0,
+      181.5,
+      339.0,
+      262.0
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-C-m01.png",
+     96,
+     [
+      130.0,
+      279.5,
+      339.0,
+      359.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-D-m01.png",
+     96,
+     [
+      130.0,
+      377.0,
+      339.0,
+      457.5
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q180-alt-E-m01.png",
+     96,
+     [
+      130.0,
+      474.5,
+      339.0,
+      555.0
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q91": {
+   "alternativas": [
+    "7a27f53dd0b3",
+    "eba71fcaa5f8",
+    "d17a04aa824d",
+    "bac382a552c8",
+    "c587b88a97c9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1de9b0c0c639",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q91-apoio-01.jpg",
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q91-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O adaptador de tomada tipo T (Figura 1) é um ace",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q91-apoio-01.jpg",
+     5,
+     [
+      242.2,
+      217.0,
+      373.5,
+      356.2
+     ]
+    ],
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q91-apoio-02.jpg",
+     5,
+     [
+      206.5,
+      388.7,
+      390.3,
+      536.8
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q92": {
+   "alternativas": [
+    "525dfc07f8de",
+    "4ceb84fcba78",
+    "cfd45a2fce33",
+    "00c9b7749901",
+    "9239e260bddd"
+   ],
+   "apoio": "f0fcad8ceaa6",
+   "credito": "4217dece1b9e",
+   "enunciado": "b0b043bf4585",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na situação apresentada, as concentrações relati",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q93": {
+   "alternativas": [
+    "e2d289d744b0",
+    "51fa0788ae84",
+    "d888b9626dce",
+    "5ff1c9245f9d",
+    "cbedea65db75"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bf867f871dc4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para se deslocar e obter alimentos, alguns mamíf",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q94": {
+   "alternativas": [
+    "94272d728cef",
+    "230fc63a1806",
+    "9365ce1295fb",
+    "2373abdb5d6e",
+    "808ee22a643c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "adc55e04019a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As células fotovoltaicas (placas semicondutoras ",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q95": {
+   "alternativas": [
+    "7de74c2205c2",
+    "d1e7ad3bc4d2",
+    "9b5d6c623385",
+    "b232e2f29337",
+    "dce11e258a52"
+   ],
+   "apoio": "802fe98e27f2",
+   "credito": "b09b8fc8851f",
+   "enunciado": "95bc365f3b91",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A comparação dos olhos mencionada representa que",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q96": {
+   "alternativas": [
+    "ea72f0e03bc1",
+    "4cb6c28d701e",
+    "9784b71dd6ed",
+    "318ed9242d91",
+    "b503eb85d2ad"
+   ],
+   "apoio": "3e02f0b462b7",
+   "credito": "087d62c69edf",
+   "enunciado": "fa13f24d3410",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2020/digital/dia2/enem-2020-digital-d2-q96-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual componente garante o suprimento energético ",
+   "recortes": [
+    [
+     "/questoes/2020/digital/dia2/enem-2020-digital-d2-q96-apoio-01.jpg",
+     10,
+     [
+      181.8,
+      148.2,
+      433.9,
+      319.4
+     ]
+    ]
+   ]
+  },
+  "enem-2020-digital-d2-q97": {
+   "alternativas": [
+    "7436cd1d0049",
+    "656dd64563ec",
+    "caeb912fc6fb",
+    "3b55a527a09f",
+    "e64fa9b4cfd6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5e24a81044fc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As populares pilhas zinco-carbono (alcalinas e d",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q98": {
+   "alternativas": [
+    "793bc932b312",
+    "e7b3b99916f7",
+    "3ec334570fbd",
+    "beeda31006be",
+    "9b8393870e5b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a6f1f531c73a",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os ventos solares são fenômenos caracterizados p",
+   "recortes": []
+  },
+  "enem-2020-digital-d2-q99": {
+   "alternativas": [
+    "bc9ff6412e44",
+    "3bd6f78b7d91",
+    "6b3075375dda",
+    "6a07c49e0698",
+    "03da31e581fe"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a5d5c1659787",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A resolução de um instrumento de medição é defin",
+   "recortes": []
+  }
+ }
+}

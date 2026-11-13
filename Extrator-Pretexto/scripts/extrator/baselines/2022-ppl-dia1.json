@@ -6,15 +6,15 @@
  "questoes": {
   "enem-2022-ppl-d1-q01-esp": {
    "alternativas": [
-    "14db5712ebd9",
+    "0be84828e52a",
     "48597a2f667d",
-    "74703dd7ecde",
-    "41fc70c1109b",
+    "840fca2ffa79",
+    "8adf0a7d738f",
     "21737f7cafa6"
    ],
-   "apoio": "6247b3cf0eec",
-   "credito": "7d73e10a68f0",
-   "enunciado": "6b60373c8f33",
+   "apoio": "b69c4028aa30",
+   "credito": "4c845a3f3603",
+   "enunciado": "2e76aea31ad2",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -23,15 +23,15 @@
   },
   "enem-2022-ppl-d1-q01-ing": {
    "alternativas": [
-    "e5058561890a",
-    "187922b66240",
-    "990bbb15c21f",
-    "a78c1db7e0a3",
-    "8422bf6d53c5"
+    "88e43f9ebdef",
+    "c4f927276298",
+    "1adab810016a",
+    "ce6ab5118a73",
+    "a537d6b495c7"
    ],
-   "apoio": "d0ff58974a9b",
-   "credito": "5ce2b4582d55",
-   "enunciado": "ebb4067f859d",
+   "apoio": "ff98156eb2dc",
+   "credito": "4a6c105e82a1",
+   "enunciado": "be32f48027b0",
    "gabarito": "A",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-01.png",
@@ -40,7 +40,7 @@
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-04.png"
    ],
    "imagens_alt": {},
-   "previa": "Esse infográfico composto de textos verbais e nã",
+   "previa": "Esse infográfico, composto de textos verbais e n",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-01.png",
@@ -56,10 +56,10 @@
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q01-ing-apoio-02.png",
      2,
      [
-      122.7,
-      210.1,
-      179.9,
-      270.0
+      80.5,
+      224.8,
+      267.0,
+      321.3
      ]
     ],
     [
@@ -78,7 +78,7 @@
      [
       117.7,
       327.3,
-      163.0,
+      261.6,
       372.5
      ]
     ]
@@ -86,15 +86,15 @@
   },
   "enem-2022-ppl-d1-q02-esp": {
    "alternativas": [
-    "585d5940c66d",
+    "8bd314a964d9",
     "6744813e640e",
-    "d4bc4f053a0e",
-    "e776b856783b",
-    "314f4417f1ab"
+    "ddea77b6db55",
+    "b51f1a889c90",
+    "16cfe3083e62"
    ],
-   "apoio": "18f8c6e4a573",
-   "credito": "578b7160bf83",
-   "enunciado": "53ee198da448",
+   "apoio": "1fd608fc5532",
+   "credito": "6ac1d6122d55",
+   "enunciado": "ea4b019fdd9d",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -103,15 +103,15 @@
   },
   "enem-2022-ppl-d1-q02-ing": {
    "alternativas": [
-    "3cb229a9fb12",
-    "688a28746abe",
-    "f9bd2d742f20",
-    "575d2421ad7d",
-    "2baa81a586ea"
+    "d5d4eb2609fb",
+    "3cc3b888cece",
+    "0e06ba08bc6e",
+    "5c1c1b9ad366",
+    "e63219ff7fce"
    ],
-   "apoio": "f52195b91eba",
-   "credito": "1b8b70b82be2",
-   "enunciado": "b1a997f62e30",
+   "apoio": "53bee4a68fd3",
+   "credito": "ad7c226cdefa",
+   "enunciado": "6d6bf0019450",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -120,14 +120,14 @@
   },
   "enem-2022-ppl-d1-q03-esp": {
    "alternativas": [
-    "bf82405d5638",
-    "28af1e7feb4e",
-    "ddffa6b4b0e9",
-    "698431fb9d64",
-    "84d3725daa42"
+    "b35e366e7a6f",
+    "4602da3ee8b2",
+    "7c13ba09f0b3",
+    "5d9b8cee2c19",
+    "a6f3d7985d15"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "2ad94d2e2bdd",
+   "credito": "822f0c4db686",
    "enunciado": "25fa9f2cd76b",
    "gabarito": "C",
    "imagens": [
@@ -150,14 +150,14 @@
   },
   "enem-2022-ppl-d1-q03-ing": {
    "alternativas": [
-    "17b8e7b371e1",
-    "5e479bc77550",
-    "d3974ba84945",
+    "23e6e7d52f7d",
+    "eeefa65718e4",
+    "4b44990fee6c",
     "23379b2d0ed3",
-    "e55dcef228c2"
+    "ebcf9a46484a"
    ],
-   "apoio": "3bf0b68f18cd",
-   "credito": "a41da608106c",
+   "apoio": "bcfd39d1ae41",
+   "credito": "b7b118c73166",
    "enunciado": "ec7adf95bb37",
    "gabarito": "B",
    "imagens": [],
@@ -167,32 +167,32 @@
   },
   "enem-2022-ppl-d1-q04-esp": {
    "alternativas": [
-    "863680bd8576",
-    "6b3f20cc5ab4",
-    "9b926bcf0e38",
-    "98bd359e6607",
-    "98d27864024f"
+    "33deef3d1642",
+    "75d2f32d4513",
+    "d95a8abe934a",
+    "4be7065b26a8",
+    "a439c8e62082"
    ],
-   "apoio": "1123efff0def",
-   "credito": "fc3e1b41cb44",
-   "enunciado": "82921c05b83c",
+   "apoio": "dd7abce7b11b",
+   "credito": "e694c2532388",
+   "enunciado": "5b7b5d357699",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Segundo o texto a reivindicação de membros do po",
+   "previa": "Segundo o texto, a reivindicação de membros do p",
    "recortes": []
   },
   "enem-2022-ppl-d1-q04-ing": {
    "alternativas": [
-    "c55ffb11b412",
-    "48ddfdcc48db",
-    "37e93d769a8e",
-    "d705381f17ca",
-    "513c8471d222"
+    "d4293627ac13",
+    "21aa65790c00",
+    "0527e81b275d",
+    "20653011ac12",
+    "48be1ca0b1ef"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "934408a06d09",
+   "credito": "a5e9b612d85c",
+   "enunciado": "eedc2c5eb436",
    "gabarito": "A",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q04-ing-apoio-01.jpg"
@@ -207,22 +207,22 @@
       289.4,
       428.4,
       536.3,
-      613.3
+      604.8
      ]
     ]
    ]
   },
   "enem-2022-ppl-d1-q05-esp": {
    "alternativas": [
-    "99fb7edcd450",
-    "ee7ddcc24238",
-    "99efb77ab658",
-    "ebf856069af2",
-    "f8681a724100"
+    "83a985316f60",
+    "bb6c14d193eb",
+    "4854769084bf",
+    "fb5a02987bc9",
+    "a9cb3495f478"
    ],
-   "apoio": "3400a5fd6fa1",
-   "credito": "110f164e578a",
-   "enunciado": "cc06e1144933",
+   "apoio": "2b30cd106615",
+   "credito": "5b2d1734b7b4",
+   "enunciado": "09d9cfd840b6",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -231,15 +231,15 @@
   },
   "enem-2022-ppl-d1-q05-ing": {
    "alternativas": [
-    "541cbe53c922",
-    "71781f4a1db3",
-    "c86a3990e695",
-    "5def527c94ca",
-    "433edd7652e5"
+    "8f9a792143e0",
+    "42f0ab72b8b2",
+    "9293c84609e5",
+    "338221d31ac4",
+    "f043c8c10ad5"
    ],
-   "apoio": "6fa1bd8b1ec9",
-   "credito": "ff1e1c4d96d6",
-   "enunciado": "145c6b2d3076",
+   "apoio": "eeab47cfb617",
+   "credito": "7af397a95c2c",
+   "enunciado": "d48b22411859",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -248,48 +248,48 @@
   },
   "enem-2022-ppl-d1-q06": {
    "alternativas": [
-    "496d20e7607c",
-    "ef2b149469fd",
-    "187fe31aad30",
-    "a69c7f64bb01",
-    "dacb2fbac357"
+    "cce53b5a82fc",
+    "d5bbbe97bddf",
+    "b814eea5dad8",
+    "6d4a9cda3dea",
+    "2ebba705d3af"
    ],
-   "apoio": "83f0f16033cc",
-   "credito": "4ff5f51c0802",
-   "enunciado": "979f99d1b748",
+   "apoio": "d3c085db6b68",
+   "credito": "3ce576d1d971",
+   "enunciado": "0b25dd457f4f",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O povo Wajãp que vive na Serra do Tumucumaque en",
+   "previa": "O povo Wajãpi, que vive na Serra do Tumucumaque,",
    "recortes": []
   },
   "enem-2022-ppl-d1-q07": {
    "alternativas": [
-    "e21697b45f1b",
-    "7e6370d0d9e3",
-    "df5f38db8c17",
-    "db272caa1791",
-    "e9ec2d1fc320"
+    "af946944456e",
+    "0ca78e2a4fad",
+    "35fc7c76bc3c",
+    "3e90219aec8b",
+    "fac06abd601b"
    ],
-   "apoio": "bca4723f822a",
-   "credito": "17e7c0577dce",
-   "enunciado": "4df5d7ace835",
+   "apoio": "8d6d64fb5f45",
+   "credito": "48efdecbf502",
+   "enunciado": "83ce57ebafd4",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Na comparação entre os dois textos constata-se q",
+   "previa": "Na comparação entre os dois textos, constata-se ",
    "recortes": []
   },
   "enem-2022-ppl-d1-q08": {
    "alternativas": [
-    "b266e33ccf63",
-    "eeccdbd3a445",
-    "3f27224fc0d4",
-    "36e0304d2d08",
-    "7dba685210ff"
+    "356bb4753a18",
+    "afde3383df8f",
+    "297030a0d781",
+    "03a62ee338a3",
+    "7406979c4953"
    ],
-   "apoio": "1bb6c4143d25",
-   "credito": "8b80b397aec6",
+   "apoio": "30b1583c2117",
+   "credito": "3131a4a9c58e",
    "enunciado": "1f5c7f397843",
    "gabarito": "B",
    "imagens": [],
@@ -299,15 +299,15 @@
   },
   "enem-2022-ppl-d1-q09": {
    "alternativas": [
-    "aeeed64e6fb3",
-    "78f67f48460e",
-    "145231144265",
-    "e963dcc4307e",
-    "39b1f93ca8a0"
+    "10c1d7eb260b",
+    "ebb1da0cee61",
+    "c4f3b4d55dd8",
+    "243e20d0aeb2",
+    "730be51dfb49"
    ],
-   "apoio": "8bb1262529ab",
-   "credito": "506122244950",
-   "enunciado": "e74c909c5e6a",
+   "apoio": "6d27d7a878ef",
+   "credito": "699877c7b089",
+   "enunciado": "9825fecf65d2",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -316,14 +316,14 @@
   },
   "enem-2022-ppl-d1-q10": {
    "alternativas": [
-    "a1671104b577",
-    "8b1ef463da83",
-    "d3829756ed07",
-    "d86cde8d6f80",
-    "f5b6e867241f"
+    "faf815dd6235",
+    "4930d2c3a998",
+    "f6291e77357c",
+    "465a8dd9f032",
+    "0f5c93116503"
    ],
-   "apoio": "a0742f8e831a",
-   "credito": "581dd3cd10dc",
+   "apoio": "8bc13621e082",
+   "credito": "07ea47f2308b",
    "enunciado": "ea53d5f26cd0",
    "gabarito": "A",
    "imagens": [],
@@ -333,15 +333,15 @@
   },
   "enem-2022-ppl-d1-q11": {
    "alternativas": [
-    "0e786a499baa",
-    "d99d827595dc",
-    "ccf96e3715af",
-    "be9241dab14f",
-    "e7afd1fddebf"
+    "ab6a24211677",
+    "0286fe5282df",
+    "f662132e6489",
+    "8b1143d9fa30",
+    "125398bf4c73"
    ],
-   "apoio": "df36890d2665",
-   "credito": "fbcaba9e22c8",
-   "enunciado": "172f7afdd112",
+   "apoio": "3f091f1182b5",
+   "credito": "6aa2938017fb",
+   "enunciado": "f58daf902e75",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -350,66 +350,66 @@
   },
   "enem-2022-ppl-d1-q12": {
    "alternativas": [
-    "a64c64feb4dd",
-    "4bf1acef2bce",
-    "fdb85a1b1399",
-    "e4706aeca35a",
-    "a3b5d8fa3d3c"
+    "0348027b373a",
+    "9b45d583fec7",
+    "60bfecb1bad2",
+    "cdfe3599d469",
+    "e4e81161ffb0"
    ],
-   "apoio": "b945a781947c",
-   "credito": "d28105b84f57",
-   "enunciado": "ca2f1f0beea0",
+   "apoio": "3143f8263c8f",
+   "credito": "7276c724cba9",
+   "enunciado": "34a5cb386a86",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto a relação entre os personagens adquire ",
+   "previa": "No texto, a relação entre os personagens adquire",
    "recortes": []
   },
   "enem-2022-ppl-d1-q13": {
    "alternativas": [
-    "28e4e2610467",
-    "f4e0847d61bc",
-    "087b6fa7bdab",
-    "cc6232f54402",
-    "8bcea280b78e"
+    "689e2f46fc0a",
+    "e390b6d8dd22",
+    "424f0250dd89",
+    "0ad05fd5d262",
+    "843fac0bab4a"
    ],
-   "apoio": "22f3ca8520c5",
-   "credito": "54c9504b444e",
-   "enunciado": "e63ab6ecf65d",
+   "apoio": "91d3d4c47ea0",
+   "credito": "c8b1e641fed9",
+   "enunciado": "f29acd72a6df",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto o apelido dado ao personagem incorpora ",
+   "previa": "No texto, o apelido dado ao personagem incorpora",
    "recortes": []
   },
   "enem-2022-ppl-d1-q14": {
    "alternativas": [
-    "7b0e5093dbee",
-    "4ecada319388",
-    "b8e68fd3e513",
-    "afd8bce10bfe",
-    "947d1f7825cc"
+    "84a65315d73c",
+    "4a9cd06a2fef",
+    "ca49aaaa214e",
+    "0e5856f9bc81",
+    "f40a916abf3c"
    ],
-   "apoio": "fb8b04616aef",
-   "credito": "20c643a0915e",
-   "enunciado": "45343133b837",
+   "apoio": "2fee40777af3",
+   "credito": "1108d57bf207",
+   "enunciado": "0c8c745654f0",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto a atividade física é associada à preven",
+   "previa": "No texto, a atividade física é associada à preve",
    "recortes": []
   },
   "enem-2022-ppl-d1-q15": {
    "alternativas": [
-    "6d31048c1060",
-    "381bf7c37a0d",
-    "7e5d7bb9e3c3",
-    "ccb32d2ae513",
-    "041e2621bae5"
+    "35ae20baa788",
+    "fd3873ed61f2",
+    "88c717fe0635",
+    "90bc146f2b2f",
+    "5f07b076476e"
    ],
-   "apoio": "6814690d315e",
-   "credito": "37270beb543f",
-   "enunciado": "f33657997e34",
+   "apoio": "256590a49456",
+   "credito": "18fd7ecd1e46",
+   "enunciado": "47f3129fa813",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -418,32 +418,32 @@
   },
   "enem-2022-ppl-d1-q16": {
    "alternativas": [
-    "03ab76a27291",
-    "c9111c877361",
-    "3bb4bb75cf8b",
-    "c1ecd746ecf8",
-    "a75d189ac0eb"
+    "1ff819c9c9fc",
+    "9d463d4904b9",
+    "f5b79f6d9d44",
+    "bf5c6059a655",
+    "04e33cc0e56f"
    ],
-   "apoio": "ec8d0ee77e8d",
-   "credito": "22d84cde5630",
-   "enunciado": "fb518fb79729",
+   "apoio": "9b94ccfb26cf",
+   "credito": "d042c606e3a2",
+   "enunciado": "276cc33c51d8",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O texto relata o momento em que no leito de mort",
+   "previa": "O texto relata o momento em que, no leito de mor",
    "recortes": []
   },
   "enem-2022-ppl-d1-q17": {
    "alternativas": [
-    "540a9d6fcfc8",
-    "62978c8cf93a",
-    "7c3f0edcf97e",
-    "c192999c54cc",
-    "f11419516f43"
+    "1ca2469ef47e",
+    "e3f22fb4e3c8",
+    "3528d7ab2a56",
+    "8c4effd765de",
+    "6b331386a80b"
    ],
-   "apoio": "8c8a066d7798",
-   "credito": "535fdb1b28b2",
-   "enunciado": "54d95c2e0cc5",
+   "apoio": "83d72d06ee03",
+   "credito": "1c2cdff7398f",
+   "enunciado": "d8e09fb068e4",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -453,14 +453,14 @@
   "enem-2022-ppl-d1-q18": {
    "alternativas": [
     "ba7cff7118b2",
-    "747b40d4c872",
-    "3467f105f76d",
-    "89cd3ce5acc9",
-    "c8620c5549a0"
+    "497693071f45",
+    "62f2c705c81c",
+    "ddf0ed9a0e88",
+    "8f1d8c8ce5b1"
    ],
-   "apoio": "94ec1b66e1ec",
-   "credito": "bea53c5e365b",
-   "enunciado": "a097c1a6c5c5",
+   "apoio": "988f888c030e",
+   "credito": "8abcd89ad79e",
+   "enunciado": "5d01990a7dd0",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -469,15 +469,15 @@
   },
   "enem-2022-ppl-d1-q19": {
    "alternativas": [
-    "3871c0891287",
-    "ec794737fc25",
-    "6f3324e7189d",
-    "047e9d551576",
-    "c403706551fa"
+    "d23e43de41db",
+    "05711ccfd743",
+    "6133ccd26c64",
+    "fcfe2495b764",
+    "c092003ef9db"
    ],
-   "apoio": "d11ffcb81b9b",
-   "credito": "062788127b55",
-   "enunciado": "e37e1e6b2402",
+   "apoio": "4097df79c335",
+   "credito": "8ff489139dcd",
+   "enunciado": "115de29e4fa6",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -486,21 +486,21 @@
   },
   "enem-2022-ppl-d1-q20": {
    "alternativas": [
-    "56055db20a8a",
-    "06ade56a124f",
-    "ad17d3598627",
-    "2dd7b236ef4c",
-    "e55219383882"
+    "8828cb306bbb",
+    "fa6c0e06b7d1",
+    "eb04a279a7ce",
+    "9ea0cbf53c10",
+    "8ad0f02b5fd1"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "c5851fd07c19",
-   "enunciado": "0b0228d759cd",
+   "credito": "f0541806a308",
+   "enunciado": "faadfa48a8d2",
    "gabarito": "C",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q20-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "No cartum o confronto entre primatas produz um e",
+   "previa": "No cartum, o confronto entre primatas produz um ",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q20-apoio-01.jpg",
@@ -516,49 +516,49 @@
   },
   "enem-2022-ppl-d1-q21": {
    "alternativas": [
-    "47f9a8a15801",
-    "d8e739d6f2b9",
-    "bda87f1b0c1d",
-    "f2fe1785a88f",
+    "d06081bacedf",
+    "4e019700a00e",
+    "ec413885f9cd",
+    "2612829d0045",
     "8eba3e9f4136"
    ],
-   "apoio": "f2bb936fe429",
-   "credito": "ef7e04dc3eb0",
-   "enunciado": "d8c7353f6131",
+   "apoio": "74f983d50d0d",
+   "credito": "d55932e784cf",
+   "enunciado": "b47f9e5f8f7b",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "A sinopse para convencer o leitor a assistir ao ",
+   "previa": "A sinopse, para convencer o leitor a assistir ao",
    "recortes": []
   },
   "enem-2022-ppl-d1-q22": {
    "alternativas": [
-    "c35680603fd3",
-    "a5ca04626b12",
-    "08e582ad4903",
-    "de3f1eb855d7",
-    "0da0bd11b544"
+    "93a5adf1ba0b",
+    "465bd1cf5fce",
+    "728bc49c95b5",
+    "a3a477682ae8",
+    "8bb5b06c0fa1"
    ],
-   "apoio": "c640d0185c6c",
-   "credito": "9077f636e150",
-   "enunciado": "adb6a04d3cfc",
+   "apoio": "aba1170a6cca",
+   "credito": "b35cf71b692e",
+   "enunciado": "d7f72e7dbf35",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Esses dois textos têm temáticas diferentes na me",
+   "previa": "Esses dois textos têm temáticas diferentes, na m",
    "recortes": []
   },
   "enem-2022-ppl-d1-q23": {
    "alternativas": [
-    "7bc10a2ef43b",
-    "2a5a57d3d749",
-    "1e6fec8a6cd2",
+    "ae6959fd8320",
+    "ff9c7367b8a3",
+    "5b828280eb23",
     "9ecaa45c4b59",
-    "b42fa7a3d0be"
+    "d85ef5a0eb1d"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "fd2ebdd187fe",
-   "enunciado": "2a8d49963ff7",
+   "credito": "3489413ca70d",
+   "enunciado": "2ab3e8f3e34f",
    "gabarito": "A",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q23-apoio-01.jpg"
@@ -580,32 +580,32 @@
   },
   "enem-2022-ppl-d1-q24": {
    "alternativas": [
-    "c7b4cfc27c73",
-    "979a47886d3a",
-    "fd805b3762ea",
-    "2f01039347d3",
-    "5a452d975cbc"
+    "135008f0d0aa",
+    "b0575e0e6524",
+    "24d815429297",
+    "a78d3f4889b6",
+    "aa74370c4619"
    ],
-   "apoio": "82440c610eae",
-   "credito": "fe848707f80a",
-   "enunciado": "2db9d9928d57",
+   "apoio": "3c3d8b79f851",
+   "credito": "61d9609aa9b8",
+   "enunciado": "01c806472060",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Diante dessa nova concepção artística a cor é",
+   "previa": "Diante dessa nova concepção artística, a cor é",
    "recortes": []
   },
   "enem-2022-ppl-d1-q25": {
    "alternativas": [
-    "e1b0fc784fb2",
-    "160aaf73f659",
-    "e32ef312a762",
-    "285a271506e5",
-    "8fff810ffaea"
+    "67bd8600195d",
+    "4cb4ad95b681",
+    "715787fc1369",
+    "aede80a20737",
+    "4ac07c9df1ee"
    ],
-   "apoio": "68988e4ff7e2",
-   "credito": "894fcfbdb78a",
-   "enunciado": "e76ac6a4c9ad",
+   "apoio": "74b15317a79f",
+   "credito": "2fb55d7bf86d",
+   "enunciado": "e3c743c9c1c1",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
@@ -614,14 +614,14 @@
   },
   "enem-2022-ppl-d1-q26": {
    "alternativas": [
-    "0163dc22be81",
-    "731f5ec4701d",
-    "b083350d22ef",
-    "dbb113833d4d",
-    "5a9521541076"
+    "38bcc06de2a1",
+    "bb7204c7d656",
+    "dc1c070c4ee1",
+    "f8fd1cd5dcbb",
+    "264eb5545b88"
    ],
-   "apoio": "a71ecc12ccfe",
-   "credito": "8dc4e96ad0c2",
+   "apoio": "671b9368869f",
+   "credito": "6661b7af91ae",
    "enunciado": "ed01a62b565a",
    "gabarito": "C",
    "imagens": [],
@@ -631,38 +631,38 @@
   },
   "enem-2022-ppl-d1-q27": {
    "alternativas": [
-    "f8c9ca55860b",
-    "b9ee65309a23",
-    "4a0163298f28",
-    "c51f54ed1f6d",
+    "8c1f37b1783c",
+    "db1949695940",
+    "d74fddc1209b",
+    "d8267f418bf7",
     "b71335b44be1"
    ],
-   "apoio": "948bb864b6c3",
-   "credito": "0433993be199",
-   "enunciado": "e28b399344b7",
+   "apoio": "56119650f83c",
+   "credito": "9f53f90f8657",
+   "enunciado": "e32de70654ef",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Nesse verbete de dicionário a apropriação adequa",
+   "previa": "Nesse verbete de dicionário, a apropriação adequ",
    "recortes": []
   },
   "enem-2022-ppl-d1-q28": {
    "alternativas": [
-    "9b24413aff6f",
+    "d8c0405a15ea",
     "7c5dad0ccb5b",
-    "395095a40969",
-    "76af56e6ebd8",
+    "773064f65ec1",
+    "4fe0257c701c",
     "0e925c943222"
    ],
    "apoio": "7c1684f369bc",
-   "credito": "2a85c8231357",
-   "enunciado": "03c16c582f38",
+   "credito": "128cf2397319",
+   "enunciado": "576b817ccf7c",
    "gabarito": "D",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q28-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Nessa conversa por aplicativo em que se evidenci",
+   "previa": "Nessa conversa por aplicativo, em que se evidenc",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q28-apoio-01.jpg",
@@ -678,22 +678,22 @@
   },
   "enem-2022-ppl-d1-q29": {
    "alternativas": [
-    "010b5ddacb0d",
-    "b57d505b42f9",
-    "e140c1a05d49",
-    "cb122bf0f2d5",
-    "a83294b18ae3"
+    "42a2e34aec1c",
+    "8e6c219126ef",
+    "e4c165a16e3c",
+    "b7bb7dff548e",
+    "80777e261848"
    ],
    "apoio": "2164c77c0f51",
-   "credito": "68e28f7aaf56",
-   "enunciado": "91429b3c2322",
+   "credito": "67eb9ffed0c0",
+   "enunciado": "a9c177604594",
    "gabarito": "D",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-01.png",
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-02.png"
    ],
    "imagens_alt": {},
-   "previa": "Esse cartaz tem como função socia conquistar cli",
+   "previa": "Esse cartaz tem como função social conquistar cl",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q29-apoio-01.png",
@@ -702,7 +702,7 @@
       70.5,
       102.0,
       227.2,
-      134.0
+      129.3
      ]
     ],
     [
@@ -710,7 +710,7 @@
      13,
      [
       58.7,
-      236.3,
+      239.5,
       231.1,
       376.5
      ]
@@ -719,15 +719,15 @@
   },
   "enem-2022-ppl-d1-q30": {
    "alternativas": [
-    "9fb696d91e58",
-    "d98f63b45b32",
+    "2425ce6d9aca",
+    "aca6a4e1f892",
     "c155acad5ec0",
     "f5276eef1597",
     "281ce1420238"
    ],
-   "apoio": "2ff37ef258d2",
-   "credito": "71a1a823a163",
-   "enunciado": "bbb00dd8fbcd",
+   "apoio": "d752ca7877d3",
+   "credito": "501987dad76d",
+   "enunciado": "92ef1f8c96c8",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -736,31 +736,31 @@
   },
   "enem-2022-ppl-d1-q31": {
    "alternativas": [
-    "9f6c5e11b470",
-    "1608bc6ed4c5",
-    "0c34efc6ab21",
-    "bf3219d91f95",
-    "2d176237c1cf"
+    "67d90ad7323a",
+    "96a044a7f76a",
+    "fd7ee4536450",
+    "70e31c9c077d",
+    "d4db1de2241b"
    ],
-   "apoio": "0e3d901bbeb6",
-   "credito": "833335a4279f",
-   "enunciado": "3f96346ffed7",
+   "apoio": "05ea72ca84ea",
+   "credito": "11d76888d9d5",
+   "enunciado": "923d60b6368d",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Sob diferentes perspectivas os textos e I aborda",
+   "previa": "Sob diferentes perspectivas, os textos I e II ab",
    "recortes": []
   },
   "enem-2022-ppl-d1-q32": {
    "alternativas": [
-    "c203a94638d6",
-    "fb4cbff9f9c6",
-    "7294cc751df8",
-    "d2b1b396bf9c",
-    "56f2f3e33610"
+    "1da5bc3fe16d",
+    "0369451c9dee",
+    "a8466ce143ce",
+    "c0eb168fa444",
+    "6cd2b796d80d"
    ],
-   "apoio": "db3e0d9b11df",
-   "credito": "ac4dd9700edf",
+   "apoio": "472ca6cda642",
+   "credito": "1cd39a197265",
    "enunciado": "18a11aaaaf90",
    "gabarito": "C",
    "imagens": [],
@@ -770,32 +770,32 @@
   },
   "enem-2022-ppl-d1-q33": {
    "alternativas": [
-    "4250537fbe7e",
-    "a7b83082dfe9",
-    "c5671bccb579",
-    "d84eacd7e59a",
-    "ebf53d5c67f6"
+    "042495b01a7b",
+    "f762f3d7b06d",
+    "9a8866198842",
+    "41b09c7a6810",
+    "dbf0eee28839"
    ],
-   "apoio": "9b6a2651f0c4",
-   "credito": "2f79d98c1029",
-   "enunciado": "8a06ddfb7ba0",
+   "apoio": "0dc50463c1d9",
+   "credito": "37b8b252c9a4",
+   "enunciado": "e99606b497bf",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Da leitura do texto depreende-se que o patrimôni",
+   "previa": "Da leitura do texto, depreende-se que o patrimôn",
    "recortes": []
   },
   "enem-2022-ppl-d1-q34": {
    "alternativas": [
-    "4c31d369da53",
-    "faa359ad5f17",
-    "75fcdf688f38",
-    "8bb8a58cce71",
+    "68a1e47969b0",
+    "9f2c460a7d7a",
+    "3cadee8d1543",
+    "b879e60396bd",
     "a684c8cd862b"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "b83058462dd3",
+   "credito": "9658532c84d0",
+   "enunciado": "0e59aabdd38e",
    "gabarito": "B",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q34-apoio-01.jpg"
@@ -810,22 +810,22 @@
       289.8,
       80.0,
       535.1,
-      437.3
+      427.4
      ]
     ]
    ]
   },
   "enem-2022-ppl-d1-q35": {
    "alternativas": [
-    "321028e13dc2",
-    "3aefcd1602cc",
-    "2b423fc52ed6",
-    "85a95fd07a6b",
-    "0380a782cda8"
+    "576cf25cb2f5",
+    "62060f4e0a09",
+    "05921a091e34",
+    "e62ebe1d981b",
+    "e0f23d15cd93"
    ],
-   "apoio": "700cfac6b2f8",
-   "credito": "6068a35111da",
-   "enunciado": "8a35af158e3f",
+   "apoio": "ec6a1d4b12cb",
+   "credito": "9b0cb4122aa1",
+   "enunciado": "094cd78d594a",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -834,15 +834,15 @@
   },
   "enem-2022-ppl-d1-q36": {
    "alternativas": [
-    "828513078d95",
-    "72d58dc78a3a",
-    "9aaf0a91ca06",
-    "bbc655a703f4",
-    "f9732e4ae5d0"
+    "aea8fa4a6c76",
+    "92d059f14b63",
+    "cf6bf58a1ba9",
+    "1c1dca978e5a",
+    "1c617cb43aef"
    ],
-   "apoio": "181be86304db",
-   "credito": "ad12dd15df22",
-   "enunciado": "049597232598",
+   "apoio": "f7a6e2034e7b",
+   "credito": "855b8efad8f0",
+   "enunciado": "ae35d4391813",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -851,32 +851,32 @@
   },
   "enem-2022-ppl-d1-q37": {
    "alternativas": [
-    "ff86087752ae",
-    "e203840c32c1",
-    "091c9eef04f4",
-    "d14b583aece7",
-    "a29ec39ee7dc"
+    "20ef25ebeaa1",
+    "98647061a80f",
+    "297d15d0b693",
+    "237f18d9caa2",
+    "bb9993e3bce7"
    ],
-   "apoio": "f0dd1cf5ed54",
-   "credito": "ef903d3ef210",
-   "enunciado": "4b748d4a40db",
+   "apoio": "cd55202782ce",
+   "credito": "174872a75af7",
+   "enunciado": "11494afab11e",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No texto a autora propõe o uso metafórico da err",
+   "previa": "No texto, a autora propõe o uso metafórico da er",
    "recortes": []
   },
   "enem-2022-ppl-d1-q38": {
    "alternativas": [
-    "a4a8994ac58d",
-    "c174da4918d4",
-    "dc1d6b114b15",
-    "03fa7dfd9251",
-    "ac64646b2fef"
+    "1e142f4a7bd0",
+    "620938d0c631",
+    "f04cf60c8390",
+    "b260c217b31f",
+    "bdc2f4d7a7fd"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "b39f8f40fed6",
+   "credito": "ab7067c55d4b",
+   "enunciado": "76999367af96",
    "gabarito": "B",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q38-apoio-01.png"
@@ -890,22 +890,22 @@
      [
       33.6,
       460.1,
-      277.8,
-      730.0
+      272.3,
+      721.0
      ]
     ]
    ]
   },
   "enem-2022-ppl-d1-q39": {
    "alternativas": [
-    "00a4fa860abd",
-    "e985ab67be67",
-    "ed46ae783912",
-    "f49d4fe1663f",
-    "a33b28aa0166"
+    "a728f769e902",
+    "9f10c32eaf7d",
+    "d9dc3e6fdd3c",
+    "79aaf8dc56a4",
+    "c7055c5ff351"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
+   "credito": "4ffd7b31c9ae",
    "enunciado": "6059dd7f7281",
    "gabarito": "E",
    "imagens": [
@@ -921,39 +921,39 @@
       290.0,
       249.5,
       534.9,
-      474.2
+      462.8
      ]
     ]
    ]
   },
   "enem-2022-ppl-d1-q40": {
    "alternativas": [
-    "14fd776074b8",
-    "fd521e181681",
-    "b30e6468b09e",
-    "262686a25f20",
-    "769cb79af816"
+    "f29fa2f33b12",
+    "a9908cc49ac0",
+    "b304f70e8d49",
+    "7bc187d10f36",
+    "c5bcf1ade473"
    ],
-   "apoio": "d1e42b9c2b4d",
-   "credito": "29d720e7765b",
-   "enunciado": "96f0758b371f",
+   "apoio": "072d52cf23fc",
+   "credito": "38dbfdfba749",
+   "enunciado": "e189be1cca70",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Segundo o texto no contexto da pandemia a relaçã",
+   "previa": "Segundo o texto, no contexto da pandemia, a rela",
    "recortes": []
   },
   "enem-2022-ppl-d1-q41": {
    "alternativas": [
-    "088f42ed66ad",
-    "e769122bfdbb",
-    "8a7cd13cdd9b",
-    "3a6ad714d285",
-    "1626ef34931f"
+    "ecd0f8c5175f",
+    "346f7c5e6223",
+    "7a7525b71d15",
+    "04a6701b6f48",
+    "c7bc0fa485d2"
    ],
-   "apoio": "033595a0d73f",
-   "credito": "285c7393ac00",
-   "enunciado": "b84088cd45c7",
+   "apoio": "af66132414fa",
+   "credito": "af318e9fb743",
+   "enunciado": "d6c97ef60956",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -962,49 +962,49 @@
   },
   "enem-2022-ppl-d1-q42": {
    "alternativas": [
-    "4dcdc8ea5820",
-    "d5dab2afceaa",
-    "72c86ca9900b",
-    "baac2e870684",
-    "50125ad80c3a"
+    "dcc08b584c4e",
+    "96ffa15b0322",
+    "e876fa82d18b",
+    "dbfe075493dc",
+    "05aff80fcdab"
    ],
-   "apoio": "41269a23e7ee",
-   "credito": "a51750d61bdb",
-   "enunciado": "8f0c7e170e1a",
+   "apoio": "89dc1d0554b7",
+   "credito": "46317c67913d",
+   "enunciado": "24300e4d5595",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "As perguntas ao fina do texto estão relacionadas",
+   "previa": "As perguntas ao final do texto estão relacionada",
    "recortes": []
   },
   "enem-2022-ppl-d1-q43": {
    "alternativas": [
-    "717d5dc8c657",
-    "5a4c21821e7e",
-    "6a8ce5a7aba8",
-    "679ca3991aaa",
-    "7d56cb109af2"
+    "902afa88329c",
+    "8fd567c5f896",
+    "db0faef32423",
+    "43243b8a0df5",
+    "3d606dde32a2"
    ],
-   "apoio": "c4655b50c588",
-   "credito": "780419952647",
-   "enunciado": "6a34bb855a1e",
+   "apoio": "fc428a94c0a8",
+   "credito": "e65db86eb037",
+   "enunciado": "558809520f77",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Segundo esse texto as impressoras tridimensionai",
+   "previa": "Segundo esse texto, as impressoras tridimensiona",
    "recortes": []
   },
   "enem-2022-ppl-d1-q44": {
    "alternativas": [
-    "1f20e03be3c7",
-    "490531b63bbb",
-    "e6d868c67301",
-    "576ac2676f90",
-    "0a7d2b7a481d"
+    "e52d216c36fe",
+    "d6385c35b847",
+    "11493701c20d",
+    "7c9d38177f6d",
+    "b7f792235732"
    ],
-   "apoio": "506511591318",
-   "credito": "4e8a928a14df",
-   "enunciado": "c44d614a9d0c",
+   "apoio": "e57502e98a1a",
+   "credito": "93678dec52c2",
+   "enunciado": "059847ae77af",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1013,31 +1013,31 @@
   },
   "enem-2022-ppl-d1-q45": {
    "alternativas": [
-    "9c308938f13a",
-    "a68497ad0f7d",
-    "ec5105442637",
-    "fa0b58662672",
-    "72815529cde9"
+    "ee037cb5abc2",
+    "a6b7cd317e68",
+    "c614b78df244",
+    "e45478af6174",
+    "51900cc11e03"
    ],
-   "apoio": "cf5c029eac1a",
-   "credito": "d266c18b10a7",
-   "enunciado": "9a90ee1290a8",
+   "apoio": "cd036406b4d3",
+   "credito": "1837cf6a0ac9",
+   "enunciado": "82cf862b017f",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Uma causa determinante que contribu para a anore",
+   "previa": "Uma causa determinante que contribui para a anor",
    "recortes": []
   },
   "enem-2022-ppl-d1-q46": {
    "alternativas": [
-    "4a51be0b37cc",
-    "f1d0b3208e48",
-    "9fdadc6acc5c",
+    "084e7c07c5c4",
+    "a40cfe3ac388",
+    "61f6c6c9ba75",
     "e61d3ad0473c",
-    "cbe027912ed4"
+    "9c6f546fc94f"
    ],
-   "apoio": "ca9dba678a7f",
-   "credito": "cd66725f1a6b",
+   "apoio": "9c15d6788cb4",
+   "credito": "c567fef5cf78",
    "enunciado": "c858f3c89cce",
    "gabarito": "A",
    "imagens": [],
@@ -1047,55 +1047,55 @@
   },
   "enem-2022-ppl-d1-q47": {
    "alternativas": [
-    "fec7c5ad5c38",
-    "c8753cf98d91",
-    "29d07b193670",
-    "52b0575eaf16",
+    "5b8bceb8f08d",
+    "5a904c860fb1",
+    "90572e8425c4",
+    "94371e0002a1",
     "514b762d6a98"
    ],
-   "apoio": "30af1d39ddc3",
-   "credito": "068b19ae01d5",
-   "enunciado": "89cc99edc0c0",
+   "apoio": "2db3b07defa3",
+   "credito": "7d7150514df4",
+   "enunciado": "4994ce0a1fe1",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Na perspectiva apresentada no texto as melhorias",
+   "previa": "Na perspectiva apresentada no texto, as melhoria",
    "recortes": []
   },
   "enem-2022-ppl-d1-q48": {
    "alternativas": [
     "e8228165f9a7",
     "ccf4381aed87",
-    "81c2770fd5e3",
-    "47baf2cb67ab",
-    "b1f034e098b9"
+    "71281e6c6194",
+    "683306f68659",
+    "01440d4751be"
    ],
-   "apoio": "2d1b55415ce0",
-   "credito": "bd9f59d9eb01",
-   "enunciado": "b5ed48bd738c",
+   "apoio": "4416eb1e1a61",
+   "credito": "73442ebbaf13",
+   "enunciado": "d33e95332c44",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Sobre a flexibilidade o ponto de vista apresenta",
+   "previa": "Sobre a flexibilidade, o ponto de vista apresent",
    "recortes": []
   },
   "enem-2022-ppl-d1-q49": {
    "alternativas": [
-    "68a70964835c",
-    "8ca534d9ff29",
-    "4bd02b3bf723",
-    "b8df17e2d6e9",
-    "7ae3dbd1f5bd"
+    "15bc6327f8ac",
+    "98c216be6829",
+    "8684f89050d0",
+    "0488db9a628e",
+    "1ba9b18dfdd0"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "3962c4215c29",
-   "enunciado": "1a9c1d830142",
+   "credito": "3c54d8449fb5",
+   "enunciado": "c3e6af19641a",
    "gabarito": "A",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q49-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "A charge publicada em 1907 concorda com a ação d",
+   "previa": "A charge, publicada em 1907, concorda com a ação",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q49-apoio-01.jpg",
@@ -1111,38 +1111,38 @@
   },
   "enem-2022-ppl-d1-q50": {
    "alternativas": [
-    "401d089677ce",
-    "2962ee4551c9",
+    "07a5500bc57d",
+    "4e0d6a203b8e",
     "ec0c919492e4",
-    "925f09b9fd0d",
-    "f97326283de9"
+    "3de1aeceb4c7",
+    "0ab85188afda"
    ],
-   "apoio": "1e16ddaaaf0a",
-   "credito": "c39eca8e7892",
-   "enunciado": "8ec3925744df",
+   "apoio": "42a5d8a5227c",
+   "credito": "d6bbffd6899e",
+   "enunciado": "c4198e1cb70c",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Na conjuntura histórica abordada no texto surgiu",
+   "previa": "Na conjuntura histórica abordada no texto, surgi",
    "recortes": []
   },
   "enem-2022-ppl-d1-q51": {
    "alternativas": [
     "ce7b5bd09a86",
-    "03f50a345028",
-    "e21d8d0a5abd",
+    "e3e5e42a4719",
+    "d8f7c5164ce9",
     "2825f3c4335a",
-    "2ad1c71a96e5"
+    "6dc9d893cfe2"
    ],
-   "apoio": "1ce5c0df0050",
+   "apoio": "777378c3896a",
    "credito": "fd2a1056dfe8",
-   "enunciado": "f8575681a1c2",
+   "enunciado": "1160578d13dd",
    "gabarito": "E",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q51-apoio-01.png"
    ],
    "imagens_alt": {},
-   "previa": "Para os mecanismos de uso do espaço geográfico o",
+   "previa": "Para os mecanismos de uso do espaço geográfico, ",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q51-apoio-01.png",
@@ -1158,14 +1158,14 @@
   },
   "enem-2022-ppl-d1-q52": {
    "alternativas": [
-    "d6436304ac42",
-    "b31e38fc2d4e",
-    "2183909683fb",
-    "5b78d3c42639",
-    "af5fb8100931"
+    "10c27738747b",
+    "7e318c8b1a0d",
+    "12d221fb4ac1",
+    "1ec920833b25",
+    "168047626d98"
    ],
-   "apoio": "cdc6e4e4f3e3",
-   "credito": "1873561ff4b2",
+   "apoio": "94798e0b75d7",
+   "credito": "f36efaa39ad5",
    "enunciado": "52dfa6ef69be",
    "gabarito": "D",
    "imagens": [],
@@ -1175,32 +1175,32 @@
   },
   "enem-2022-ppl-d1-q53": {
    "alternativas": [
-    "49356a682357",
-    "5e4128bbd98a",
-    "a266af4193b4",
+    "dc7bf096cef4",
+    "ae36ceafbb0f",
+    "d2fe1173fb37",
     "f6de4eaa6a09",
-    "dff01b192c7a"
+    "6299a2445334"
    ],
-   "apoio": "55c1d63dd54c",
-   "credito": "fcd94fad66d2",
-   "enunciado": "36dffd613077",
+   "apoio": "994374c23c88",
+   "credito": "e0524c99387c",
+   "enunciado": "c1738a2dac92",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Os textos mesmo apresentando distintos pontos de",
+   "previa": "Os textos, mesmo apresentando distintos pontos d",
    "recortes": []
   },
   "enem-2022-ppl-d1-q54": {
    "alternativas": [
-    "c095541b2ce1",
-    "656acdf27c19",
-    "be4422f36dff",
-    "3fa535c36d8b",
-    "b69314131350"
+    "38f7b11c5d39",
+    "f03147abbb33",
+    "fe9c2c1005b1",
+    "7d6bdf56e0ab",
+    "033c7f2c9d5c"
    ],
-   "apoio": "8c1913d8a27d",
-   "credito": "9d9d71c257ec",
-   "enunciado": "43d8f4ecc022",
+   "apoio": "a1d769932af5",
+   "credito": "1b0d42394f36",
+   "enunciado": "764d37f3807b",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
@@ -1209,14 +1209,14 @@
   },
   "enem-2022-ppl-d1-q55": {
    "alternativas": [
-    "de8281100791",
-    "f271a2ce9cdc",
-    "dd06405d4b6a",
-    "29ae4f47f517",
-    "10ee21bc38b5"
+    "257caaac252a",
+    "5a78f4d3d7c0",
+    "70fbb61126fd",
+    "21588a08a857",
+    "0ac64dd5247d"
    ],
-   "apoio": "6beb5e747257",
-   "credito": "079340e758a1",
+   "apoio": "1c54da5304b7",
+   "credito": "1c23fcc18ca1",
    "enunciado": "662c8e5a4bb7",
    "gabarito": "A",
    "imagens": [],
@@ -1226,15 +1226,15 @@
   },
   "enem-2022-ppl-d1-q56": {
    "alternativas": [
-    "64124ed0e841",
-    "dfd5d5ca8192",
-    "f32b328d53c4",
-    "102b51708a16",
-    "d5b3d480944f"
+    "97e99a9689ae",
+    "2a96b20ddfa4",
+    "668068834f7f",
+    "41aa92ea6f63",
+    "4849e79dee06"
    ],
-   "apoio": "c4f84d642c1c",
-   "credito": "603c11356234",
-   "enunciado": "12d169589292",
+   "apoio": "7d35a804741f",
+   "credito": "32198a4f8c9d",
+   "enunciado": "9a9b1640e65c",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -1243,32 +1243,32 @@
   },
   "enem-2022-ppl-d1-q57": {
    "alternativas": [
-    "7ea2ea10821b",
-    "a9742840ad94",
-    "91b50c936c78",
-    "e211596f4ac9",
-    "db0309137e18"
+    "b7be0b45c0c9",
+    "c66ea09454e6",
+    "6b224c64fff5",
+    "f432a931c0fd",
+    "7e71b74c8340"
    ],
-   "apoio": "28be7f32d247",
-   "credito": "a30aa7f54bc8",
-   "enunciado": "08c6417565bb",
+   "apoio": "5e516c2d2719",
+   "credito": "0e40bcbf86b6",
+   "enunciado": "2fd88adfc88e",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O antropólogo Darcy Ribeiro em sua análise sobre",
+   "previa": "O antropólogo Darcy Ribeiro, em sua análise sobr",
    "recortes": []
   },
   "enem-2022-ppl-d1-q58": {
    "alternativas": [
-    "c865e46652ff",
-    "49fa91f42995",
-    "7c9f7ceb69b8",
-    "5d08a302834b",
-    "b3971adc24b8"
+    "c402c7145475",
+    "356829ee8cd5",
+    "3daef6911f75",
+    "2a4c46c0f952",
+    "03c9332d3073"
    ],
-   "apoio": "755d20392f5c",
-   "credito": "37df1efb3a10",
-   "enunciado": "e8652d2c2385",
+   "apoio": "8f8b84382dfd",
+   "credito": "56280b08c83a",
+   "enunciado": "12cadc9e9b76",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
@@ -1277,14 +1277,14 @@
   },
   "enem-2022-ppl-d1-q59": {
    "alternativas": [
-    "1ef5f8f9dfbf",
-    "0070593b777a",
-    "189a1f047d7a",
-    "5acc65319321",
-    "e2688f76482f"
+    "7407e808f508",
+    "ceee13a673b2",
+    "7c980fbfc251",
+    "a763380677e8",
+    "2bd27c48480e"
    ],
-   "apoio": "6c0a41307543",
-   "credito": "3498135ffb60",
+   "apoio": "fd4c9c69a939",
+   "credito": "d0de0d4e37f6",
    "enunciado": "c1af5293716f",
    "gabarito": "C",
    "imagens": [],
@@ -1294,38 +1294,38 @@
   },
   "enem-2022-ppl-d1-q60": {
    "alternativas": [
-    "5a9d16b826cd",
-    "2d99513ff242",
-    "752fc63fda10",
-    "d53b81528065",
-    "956a7ec72fa1"
+    "77c0f0c643b3",
+    "958336dadcf1",
+    "54b1df7c2824",
+    "365821e6e149",
+    "433a97781a80"
    ],
-   "apoio": "ec05d9ba196d",
-   "credito": "a37bc49148a5",
-   "enunciado": "68322cd16ac7",
+   "apoio": "74bae27c662d",
+   "credito": "663b5981b4f2",
+   "enunciado": "1f367ba3bcd4",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto durante a ocupação da Amaz",
+   "previa": "De acordo com o texto, durante a ocupação da Ama",
    "recortes": []
   },
   "enem-2022-ppl-d1-q61": {
    "alternativas": [
-    "8a6180727e61",
-    "3780209bc9b9",
-    "8a2b6c33beef",
-    "f47225f663c4",
-    "25572fc41cdc"
+    "296754b109ff",
+    "fd4ba755f57f",
+    "0b3b3bf6afdf",
+    "9a63bcae63a5",
+    "e370bec2b9ec"
    ],
-   "apoio": "79ee09a4020f",
-   "credito": "daa18b408d36",
-   "enunciado": "6418800d240c",
+   "apoio": "d413c69b56b0",
+   "credito": "03a860a13f96",
+   "enunciado": "9126645e1135",
    "gabarito": "D",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q61-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Reunindo natureza e cultura a festividade descri",
+   "previa": "Reunindo natureza e cultura, a festividade descr",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q61-apoio-01.jpg",
@@ -1341,65 +1341,65 @@
   },
   "enem-2022-ppl-d1-q62": {
    "alternativas": [
-    "33b8df187cff",
-    "c67186c2c42c",
-    "6385f6f43ed7",
+    "053ea2c8fee4",
+    "93b02cdfa635",
+    "c26229ce0ef7",
     "80be202e2390",
     "aeb60f231352"
    ],
-   "apoio": "6f448e463e0c",
-   "credito": "210c654dcdfb",
-   "enunciado": "448a34478c64",
+   "apoio": "b444e75844a4",
+   "credito": "c939a1faa8d2",
+   "enunciado": "cb6f8d4a2c62",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "O texto aponta para a emergência a partir de mea",
+   "previa": "O texto aponta para a emergência, a partir de me",
    "recortes": []
   },
   "enem-2022-ppl-d1-q63": {
    "alternativas": [
-    "3e66c2c80a46",
-    "700047e186d1",
+    "fa12b8f425cc",
+    "1f7f1d58d123",
     "b2dfc86909d0",
-    "99378c2ae01f",
-    "4f27f4fc6a0d"
+    "30c3cf5ec89d",
+    "67c6a006c899"
    ],
-   "apoio": "0ab6e3cc994b",
-   "credito": "89b0a9664f97",
-   "enunciado": "6f868791dcaf",
+   "apoio": "762dec1aa7a9",
+   "credito": "e6875bec1540",
+   "enunciado": "ef325af86338",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Segundo o autor a conquista e a conservação do p",
+   "previa": "Segundo o autor, a conquista e a conservação do ",
    "recortes": []
   },
   "enem-2022-ppl-d1-q64": {
    "alternativas": [
-    "9a1aeeaa0556",
-    "d66432b36a6b",
-    "f5ce49c215ea",
-    "aea92cf9c537",
-    "4527d7f5e353"
+    "5a30849f5499",
+    "3842378b6f40",
+    "c462f203ebe3",
+    "f02acd6a811a",
+    "311ad59bad72"
    ],
-   "apoio": "3cd067a59f2f",
-   "credito": "bf7113c6f370",
-   "enunciado": "889b4409e22b",
+   "apoio": "010625d3ab94",
+   "credito": "46a04495cd07",
+   "enunciado": "f5c5a7388d61",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Para as mulheres apresentadas no texto a reflexã",
+   "previa": "Para as mulheres apresentadas no texto, a reflex",
    "recortes": []
   },
   "enem-2022-ppl-d1-q65": {
    "alternativas": [
-    "3a1336ca141c",
-    "fb88b6029636",
-    "b2792ccf96db",
-    "6973485011ae",
-    "546ccfc25fd7"
+    "f979d549beb9",
+    "bcf097e7486b",
+    "08d89123150e",
+    "84be15bb3afc",
+    "c0338bb63d33"
    ],
-   "apoio": "f581e64f9a54",
-   "credito": "6f86bd0ef448",
+   "apoio": "717fade7ef96",
+   "credito": "2ac2ad0075cf",
    "enunciado": "4f829e78cf73",
    "gabarito": "B",
    "imagens": [],
@@ -1409,21 +1409,21 @@
   },
   "enem-2022-ppl-d1-q66": {
    "alternativas": [
-    "40c1c62bc2a6",
-    "b4501a4c299f",
-    "aee2cffcb4b3",
-    "1cbfd2ea8fa1",
-    "1b9404d30c8a"
+    "b775e84f31a4",
+    "e4e50c3c35ec",
+    "9cce5c0da9f0",
+    "866f37465405",
+    "5c3499eceeb1"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "da39a3ee5e6b",
-   "enunciado": "e1e09e9b68d4",
+   "credito": "8aa55972599d",
+   "enunciado": "ba9ac01dae8f",
    "gabarito": "D",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q66-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "A capa do jornal A Vóz da Raça da década de 1930",
+   "previa": "A capa do jornal A Vóz da Raça, da década de 193",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q66-apoio-01.jpg",
@@ -1431,22 +1431,22 @@
      [
       290.5,
       188.3,
-      534.1,
-      294.0
+      533.0,
+      282.0
      ]
     ]
    ]
   },
   "enem-2022-ppl-d1-q67": {
    "alternativas": [
-    "52dfe1f08c06",
-    "06a3f1ecbba6",
-    "deb7430dd5e8",
-    "ec14be10fed7",
+    "66dc5b5aa78b",
+    "ff062da616bb",
+    "3403876a59ac",
+    "612d588beef6",
     "63c1c11c49bc"
    ],
-   "apoio": "59fb59d38f33",
-   "credito": "4c75b1771f1b",
+   "apoio": "6994db665d2a",
+   "credito": "634eb82d3e4b",
    "enunciado": "91a6f12dcbb3",
    "gabarito": "C",
    "imagens": [],
@@ -1457,13 +1457,13 @@
   "enem-2022-ppl-d1-q68": {
    "alternativas": [
     "c0b4e7217efb",
-    "0a9367f908dc",
+    "62c7d1237881",
     "9bd0482bd02a",
     "a05b09d29838",
-    "ead1b86e7a20"
+    "4ec75fed459d"
    ],
-   "apoio": "93d14bdabcec",
-   "credito": "e66b8ce06b62",
+   "apoio": "10afc6d5c7af",
+   "credito": "97ee9ddcfcec",
    "enunciado": "4277e955aecc",
    "gabarito": "C",
    "imagens": [],
@@ -1473,14 +1473,14 @@
   },
   "enem-2022-ppl-d1-q69": {
    "alternativas": [
-    "ff5c7971a7c8",
-    "35beddb238d0",
-    "fb7533c7d4c7",
+    "bc07bbb5e67d",
+    "a5748fc99a5b",
+    "912a3906ba9c",
     "4aa2c36fc9d8",
-    "5cf22017144b"
+    "9265557b95de"
    ],
-   "apoio": "609e5c49a7fc",
-   "credito": "c020ef7fde1b",
+   "apoio": "008f2cdc4da0",
+   "credito": "6ca229387f5a",
    "enunciado": "9d04a547262c",
    "gabarito": "C",
    "imagens": [],
@@ -1490,14 +1490,14 @@
   },
   "enem-2022-ppl-d1-q70": {
    "alternativas": [
-    "0f10e15719df",
-    "2f2b4f8699b6",
-    "e4bb2558e6ae",
-    "42a4f01aefd9",
-    "0b14b83b19a1"
+    "156e094c0e12",
+    "2210b407870f",
+    "b02f5ddc99f0",
+    "1d3a7303512c",
+    "0b2b3ac9c7f1"
    ],
-   "apoio": "cfc5942c5c9c",
-   "credito": "4063cfab54e7",
+   "apoio": "ba338ac07eea",
+   "credito": "befcdad1d16f",
    "enunciado": "4502f82ccae2",
    "gabarito": "A",
    "imagens": [],
@@ -1507,21 +1507,21 @@
   },
   "enem-2022-ppl-d1-q71": {
    "alternativas": [
-    "5e9da484f5d8",
-    "ffd3930b644a",
-    "35ff36551cfa",
+    "1d6d3eccd580",
+    "304fe76cd18c",
+    "9ad845dfcf2b",
     "3ba999583d1c",
-    "087a0b4e7efa"
+    "eaa26742d357"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "55b7c7c98f72",
-   "enunciado": "c7475c63d848",
+   "credito": "6292c2f6569a",
+   "enunciado": "3af032e19c9d",
    "gabarito": "B",
    "imagens": [
     "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q71-apoio-01.jpg"
    ],
    "imagens_alt": {},
-   "previa": "Na imagem está registrada a estratégia de atuaçã",
+   "previa": "Na imagem, está registrada a estratégia de atuaç",
    "recortes": [
     [
      "/questoes/2022/ppl/dia1/enem-2022-ppl-d1-q71-apoio-01.jpg",
@@ -1537,48 +1537,48 @@
   },
   "enem-2022-ppl-d1-q72": {
    "alternativas": [
-    "a7361c289032",
-    "fe21ad17f396",
-    "acb6b539357b",
-    "c43758c47b05",
-    "d5307bc4b9bb"
+    "0e978951d6ae",
+    "c2b722209ca0",
+    "b5c2c0a278be",
+    "aa85271a79cd",
+    "3c163529a107"
    ],
-   "apoio": "85d437fafc46",
-   "credito": "aa0cc53d4f2d",
-   "enunciado": "2881e6525a48",
+   "apoio": "ed442262b0d8",
+   "credito": "e48698fa6df7",
+   "enunciado": "ff6abbed3256",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "De acordo com o texto na produção e circulação d",
+   "previa": "De acordo com o texto, na produção e circulação ",
    "recortes": []
   },
   "enem-2022-ppl-d1-q73": {
    "alternativas": [
-    "746b4dd9fcb0",
-    "fba4e21d6624",
-    "55851c2284d2",
-    "58bee0d58cdc",
-    "fee0935de5a8"
+    "320943f3dd78",
+    "2b1b18757345",
+    "4a79e1b48853",
+    "c29ec552d92f",
+    "b630ad431318"
    ],
-   "apoio": "72357d7581fb",
-   "credito": "56a48512bb18",
-   "enunciado": "bd83cc802979",
+   "apoio": "e190da985ad3",
+   "credito": "63994f26782f",
+   "enunciado": "89867f3c4e33",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Inspirada no livro Admirável mundo novo de Aldou",
+   "previa": "Inspirada no livro Admirável mundo novo, de Aldo",
    "recortes": []
   },
   "enem-2022-ppl-d1-q74": {
    "alternativas": [
-    "70e856f1fcba",
-    "fa70c1b74351",
-    "40d329558f38",
-    "97e8d1dd72a4",
-    "ec116e46a500"
+    "726172733297",
+    "9720f11a95dd",
+    "da128b5ac4bd",
+    "126e653383d1",
+    "15ad4c1f17ec"
    ],
-   "apoio": "f2c42f145696",
-   "credito": "ee81ac475899",
+   "apoio": "f42a182120e0",
+   "credito": "93a7445af891",
    "enunciado": "3ec54e95c1a4",
    "gabarito": "B",
    "imagens": [],
@@ -1588,14 +1588,14 @@
   },
   "enem-2022-ppl-d1-q75": {
    "alternativas": [
-    "0f78639d18a3",
-    "e801d608fb1b",
-    "212399208b30",
-    "c8af701711eb",
-    "25008e53a841"
+    "191ad163ff3c",
+    "d6fb47d9d95f",
+    "4078e59a352b",
+    "7ff89597d282",
+    "f1e1305b910a"
    ],
    "apoio": "da39a3ee5e6b",
-   "credito": "66e23813ce58",
+   "credito": "30a890b593df",
    "enunciado": "4b41ee7cd28a",
    "gabarito": "B",
    "imagens": [
@@ -1618,48 +1618,48 @@
   },
   "enem-2022-ppl-d1-q76": {
    "alternativas": [
-    "58fa2480df16",
-    "9a6ea3ed99e3",
-    "f7220ac732c2",
-    "1c9cf74a5697",
-    "de102151fbee"
+    "e8452086c686",
+    "4b404e6b103f",
+    "7f1b0c213e09",
+    "c2476ba3ee3c",
+    "ed8b4d880839"
    ],
-   "apoio": "ed3fa6d1320e",
-   "credito": "1d58576e7bca",
-   "enunciado": "6d0493689147",
+   "apoio": "c72e9f5abc10",
+   "credito": "45b623d8f8a1",
+   "enunciado": "a624b51f54fc",
    "gabarito": "D",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No processo de construção do Estado naciona esse",
+   "previa": "No processo de construção do Estado nacional, es",
    "recortes": []
   },
   "enem-2022-ppl-d1-q77": {
    "alternativas": [
-    "cb49207fbfef",
+    "a237bea929ce",
     "4ea837d567de",
-    "d97d4de3c7de",
-    "d369022efb5b",
-    "9d3738252105"
+    "2d0e76d726b5",
+    "542664896fa9",
+    "81195dc27f61"
    ],
-   "apoio": "d710abd45979",
-   "credito": "0ec0725fa28e",
-   "enunciado": "f185b6d3b052",
+   "apoio": "652523038441",
+   "credito": "ab2e94c744d6",
+   "enunciado": "72eb9997bb76",
    "gabarito": "E",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "A decisão da Suprema Corte com impacto sobre o s",
+   "previa": "A decisão da Suprema Corte, com impacto sobre o ",
    "recortes": []
   },
   "enem-2022-ppl-d1-q78": {
    "alternativas": [
-    "c40901db2cee",
-    "d4ea756b61bf",
-    "0cde9ecba39f",
-    "31338d0e8049",
-    "a04c1c477569"
+    "b20d4a3dbf1e",
+    "684c0ab7dd9f",
+    "f8dce05cbe0d",
+    "f12c8d6a33ca",
+    "cd9dda7854ec"
    ],
-   "apoio": "9d1cca26a67d",
-   "credito": "45baeb5df4e6",
+   "apoio": "f0d42f978302",
+   "credito": "57aa64230f46",
    "enunciado": "254d5fe64337",
    "gabarito": "D",
    "imagens": [],
@@ -1669,15 +1669,15 @@
   },
   "enem-2022-ppl-d1-q79": {
    "alternativas": [
-    "ba68122f4765",
-    "e15aaf57f0e2",
-    "394c38018b14",
-    "07d78f269fa5",
-    "973aad7cf60b"
+    "685fb6df7827",
+    "f04ab364b6f8",
+    "3a55d808069b",
+    "59992039fe8c",
+    "d2867744e287"
    ],
-   "apoio": "cd919e090032",
-   "credito": "3f8223828e0e",
-   "enunciado": "5d8a3a72e94e",
+   "apoio": "2079fe5d867b",
+   "credito": "30dd6a9fa030",
+   "enunciado": "d91c49c50418",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -1686,31 +1686,31 @@
   },
   "enem-2022-ppl-d1-q80": {
    "alternativas": [
-    "d5fffc7464b9",
-    "672e021bfadc",
-    "504ea03bdb83",
-    "b7745281841f",
-    "ce29ca567ec9"
+    "6813fc33daff",
+    "1a8ac2ba5ff5",
+    "999054a84d07",
+    "1f3a06deea09",
+    "8b887ac6a3b7"
    ],
-   "apoio": "c4f0fb8e8f16",
-   "credito": "1df4ced133cc",
-   "enunciado": "bbdc38fe217c",
+   "apoio": "db767eb369ee",
+   "credito": "b84198ca6a90",
+   "enunciado": "0ad5b54e26a3",
    "gabarito": "B",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Típico de sociedades urbanas industriais o confl",
+   "previa": "Típico de sociedades urbanas industriais, o conf",
    "recortes": []
   },
   "enem-2022-ppl-d1-q81": {
    "alternativas": [
-    "04a5a92aa80d",
+    "3186b68f5373",
     "62af6be77960",
-    "3b7061290dfd",
-    "db19700d01da",
+    "f0706a1daf95",
+    "055274d6da89",
     "fbee63275e06"
    ],
-   "apoio": "7115512c5b7c",
-   "credito": "b9ea2b79808f",
+   "apoio": "2be6b185d9ab",
+   "credito": "309d20664309",
    "enunciado": "1beb87c1068e",
    "gabarito": "C",
    "imagens": [],
@@ -1720,14 +1720,14 @@
   },
   "enem-2022-ppl-d1-q82": {
    "alternativas": [
-    "962007655a24",
-    "2757ccacac9a",
-    "55d0d0863df8",
-    "f5422a0bf3a8",
-    "6235126c0e67"
+    "4dbfd27a1319",
+    "2568323f9567",
+    "31e84e5c8781",
+    "37bdc5081de0",
+    "9fb0ae081fbf"
    ],
-   "apoio": "3e1465a0f8af",
-   "credito": "db2bec82c38b",
+   "apoio": "ccae56ef2c5c",
+   "credito": "e3989776c763",
    "enunciado": "d2b47df9a01d",
    "gabarito": "E",
    "imagens": [
@@ -1750,32 +1750,32 @@
   },
   "enem-2022-ppl-d1-q83": {
    "alternativas": [
-    "09e5af18a9ca",
-    "7e31a76ad3a1",
-    "24fad6fd55ba",
+    "5eae1e1ffaa2",
+    "64f7021c1327",
+    "aa51e0eef818",
     "e0e3e4c02cec",
     "834a50875ac9"
    ],
-   "apoio": "8890bcf9b57c",
-   "credito": "881e24a3442f",
-   "enunciado": "7e5538cbb58a",
+   "apoio": "e953bf59b282",
+   "credito": "c75711c726d4",
+   "enunciado": "fde458ffc036",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Para o Brasil uma consequência gerada pelo cenár",
+   "previa": "Para o Brasil, uma consequência gerada pelo cená",
    "recortes": []
   },
   "enem-2022-ppl-d1-q84": {
    "alternativas": [
-    "146c3988433e",
-    "d21767c8f4bb",
-    "cfb4d5311e3d",
-    "6b4c25d6aa1a",
-    "3398a80ae2d3"
+    "9b654e9e5d68",
+    "eba1aedf6b4b",
+    "7d6de59ba104",
+    "94e0e70a0959",
+    "63c6083214a3"
    ],
-   "apoio": "f5958f6de949",
-   "credito": "8995ae120336",
-   "enunciado": "62da0eee4c95",
+   "apoio": "7e288412ad53",
+   "credito": "d12ead2d89e8",
+   "enunciado": "4f48a3ede65f",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {},
@@ -1784,66 +1784,66 @@
   },
   "enem-2022-ppl-d1-q85": {
    "alternativas": [
-    "1555e05bbbaa",
-    "2ec396145263",
-    "30b4eef9ec9e",
-    "918e3386832e",
-    "ec1a49a11411"
+    "b156c3564729",
+    "1f05a8ceb9c0",
+    "cc270fa3a7a5",
+    "8b8d5b0e2898",
+    "138ff04c084d"
    ],
-   "apoio": "9687ba9efbb8",
-   "credito": "23b0c7f70bc5",
-   "enunciado": "a8a497462bda",
+   "apoio": "b23a06db27e2",
+   "credito": "1f2462d0adac",
+   "enunciado": "9370c2499e22",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Os relatos de viagens ao Brasil publicados na Eu",
+   "previa": "Os relatos de viagens ao Brasil, publicados na E",
    "recortes": []
   },
   "enem-2022-ppl-d1-q86": {
    "alternativas": [
-    "5309c8090042",
-    "9ca3a44546f8",
-    "9780286a746c",
-    "ea245b743f26",
-    "a5adfd133c0b"
+    "11874c2f30b3",
+    "a9f4e08ba931",
+    "495189ed6801",
+    "bfefac8c6a43",
+    "a51d36f7d1e0"
    ],
-   "apoio": "853079ad057a",
-   "credito": "690c7d4d453e",
-   "enunciado": "0a3aaa1c607a",
+   "apoio": "efac6045c49c",
+   "credito": "f1bbd25f9f0d",
+   "enunciado": "41a2852781bc",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "No Brasil a tradição mencionada no texto fo resp",
+   "previa": "No Brasil, a tradição mencionada no texto foi re",
    "recortes": []
   },
   "enem-2022-ppl-d1-q87": {
    "alternativas": [
-    "3fc9fac8adc5",
-    "f222aad48da6",
-    "babe7130add1",
-    "39bd3c092f60",
-    "9d520be218e2"
+    "3d6a027ee180",
+    "c3c28d550adc",
+    "97afff3cac3b",
+    "2107768228f9",
+    "c685891c08ab"
    ],
-   "apoio": "0e1422a06470",
-   "credito": "5919743f2a0d",
-   "enunciado": "bf4e282d86d2",
+   "apoio": "b7f95b65968e",
+   "credito": "6fb4bdf26f2f",
+   "enunciado": "0db719f96535",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
-   "previa": "Conforme descritas no texto algumas práticas cul",
+   "previa": "Conforme descritas no texto, algumas práticas cu",
    "recortes": []
   },
   "enem-2022-ppl-d1-q88": {
    "alternativas": [
-    "d871cfb663a4",
-    "4021f26cd076",
-    "9e84f4a853ad",
-    "c03cbb7dfdac",
-    "61f21343aa92"
+    "a3ee04bd26e6",
+    "75ac2b10833a",
+    "e0394ad47cac",
+    "0c5f047050c8",
+    "5290d3875c0a"
    ],
-   "apoio": "cc0aa9e4030d",
-   "credito": "d5fa51c0380a",
-   "enunciado": "9575d7c835f3",
+   "apoio": "646846f0abca",
+   "credito": "b364742573e2",
+   "enunciado": "f7d616a1d44f",
    "gabarito": "C",
    "imagens": [],
    "imagens_alt": {},
@@ -1852,14 +1852,14 @@
   },
   "enem-2022-ppl-d1-q89": {
    "alternativas": [
-    "02cbc0d6ac3e",
-    "fd191890b354",
-    "189f4eb9a505",
-    "29b7c031eadf",
-    "1cb5b25d4cdf"
+    "137cbd665907",
+    "df21a6c771ec",
+    "60913cc35cee",
+    "6c8e4274676d",
+    "4e8a1b203ac5"
    ],
-   "apoio": "b45ebe7b9c22",
-   "credito": "6c531790913f",
+   "apoio": "7be5c526494e",
+   "credito": "37d867bb7860",
    "enunciado": "eb44c3e226a2",
    "gabarito": "E",
    "imagens": [],
@@ -1875,9 +1875,9 @@
     "da39a3ee5e6b",
     "da39a3ee5e6b"
    ],
-   "apoio": "0a92c52d4d83",
-   "credito": "8d62bb045945",
-   "enunciado": "4013d1d8504f",
+   "apoio": "88d79f9b0f83",
+   "credito": "ccb97f8bd06e",
+   "enunciado": "e534b116721a",
    "gabarito": "A",
    "imagens": [],
    "imagens_alt": {

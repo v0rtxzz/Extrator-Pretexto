@@ -1,0 +1,2103 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2015",
+ "perfil": "motor v2015 + PPL: rodapé mais alto e cabeçalho maior",
+ "questoes": {
+  "enem-2015-ppl-d1-q01": {
+   "alternativas": [
+    "b71ed4d5fe16",
+    "5c8adaedee56",
+    "e05435440694",
+    "23908ab20b0f",
+    "3e179e2bfad6"
+   ],
+   "apoio": "de0d028ab087",
+   "credito": "f4b597c11ec5",
+   "enunciado": "ea8c4fed38b6",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nas últimas décadas do século XIX, o Império do ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q02": {
+   "alternativas": [
+    "f0aa3fa9861a",
+    "864b7ccad6a9",
+    "1556d894dd3d",
+    "d5868c6767db",
+    "52d4561c17c4"
+   ],
+   "apoio": "d9845492c331",
+   "credito": "1124a0b5b121",
+   "enunciado": "879c4fb36c71",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No contexto citado, a transferência de funções e",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q03": {
+   "alternativas": [
+    "0847dda29f0e",
+    "fcdefed96f2c",
+    "a989a40b831c",
+    "43f1f1814321",
+    "462c893ea8a5"
+   ],
+   "apoio": "b0a6cfd83a36",
+   "credito": "f4b597c11ec5",
+   "enunciado": "e0eeea200e41",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação ao argumento de que no Brasil existe ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q04": {
+   "alternativas": [
+    "c1ed59b9698b",
+    "80130440de2a",
+    "8701d2ffd183",
+    "c6f9c3c0af9e",
+    "2bbc18b12126"
+   ],
+   "apoio": "4a7d1d75291b",
+   "credito": "141a649e756c",
+   "enunciado": "136ca9ad3c2c",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q04-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As imagens representam as geleiras da Groenlândi",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q04-apoio-01.jpg",
+     2,
+     [
+      317.9,
+      499.3,
+      569.9,
+      665.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q05": {
+   "alternativas": [
+    "82822d1111da",
+    "d305a4258d3e",
+    "f28a66153c96",
+    "f4a2bd4efaf3",
+    "ab3e12642d02"
+   ],
+   "apoio": "7c227075dc2f",
+   "credito": "0a1478735657",
+   "enunciado": "50b49f158321",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, faz-se referência a um tipo de pressão",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q06": {
+   "alternativas": [
+    "7321eb06bdc1",
+    "d5fd285f4b1e",
+    "57abba141859",
+    "aa3a94501a36",
+    "b57150c83e6b"
+   ],
+   "apoio": "372ffc41a331",
+   "credito": "e610abfe9c94",
+   "enunciado": "0198380a89d0",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A relação entre mudanças tecnológicas e tempo de",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q07": {
+   "alternativas": [
+    "41a06b609a99",
+    "9a007d071035",
+    "ab739e0a31ad",
+    "686a77d2fc0d",
+    "ae8194042a82"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "091eb8b56882",
+   "enunciado": "f7a8a3be6055",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q07-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Na imagem, encontram-se referências a um momento",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q07-apoio-01.jpg",
+     3,
+     [
+      321.1,
+      104.0,
+      566.9,
+      268.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q08": {
+   "alternativas": [
+    "ad62d227fe46",
+    "551b88f27870",
+    "f5d7a25933ca",
+    "867b6d196826",
+    "39457beccfbe"
+   ],
+   "apoio": "c02974cb6826",
+   "credito": "7d5fe8c8c115",
+   "enunciado": "199674752bbd",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As decisões em favor das minorias, tomadas pelo ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q09": {
+   "alternativas": [
+    "e1c28c804ff3",
+    "fa9f713502aa",
+    "900e8208cde7",
+    "cae7e0e0037a",
+    "5ce2f980bb48"
+   ],
+   "apoio": "d5024c49e9d0",
+   "credito": "36ebe2e9e730",
+   "enunciado": "240221ae905d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No artigo, tem-se um dos mecanismos de formação ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q10": {
+   "alternativas": [
+    "76b2cf49e2ce",
+    "b0418462981f",
+    "f624a8f439d4",
+    "b7ada29b2bf6",
+    "8c5a57eb1fa5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "50290276e021",
+   "enunciado": "34b0e40f7530",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q10-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O diálogo entre os personagens da charge evidenc",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q10-apoio-01.jpg",
+     4,
+     [
+      60.2,
+      304.0,
+      567.9,
+      647.3
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q11": {
+   "alternativas": [
+    "c07d7ec850b9",
+    "651f205d9000",
+    "d03a9d217d9d",
+    "b5c515f11f93",
+    "2bcd6af5aa0d"
+   ],
+   "apoio": "c44512828735",
+   "credito": "d37ed882a0b8",
+   "enunciado": "9f1d35be55ff",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q11-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A mudança apresentada na tabela é reflexo da Lei",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q11-apoio-01.png",
+     5,
+     [
+      76.3,
+      148.2,
+      292.1,
+      280.0
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q12": {
+   "alternativas": [
+    "908be7aa551b",
+    "c1f8fa89e35a",
+    "eaedb637b4d1",
+    "75b3b716146d",
+    "59befb44d5ec"
+   ],
+   "apoio": "b0a28d9af2a2",
+   "credito": "f7d43dc3e539",
+   "enunciado": "a1e92fff1bba",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O fenômeno descrito no texto representa um grand",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q13": {
+   "alternativas": [
+    "2c3201ed6130",
+    "0685fcc6e7d2",
+    "fd6877e6a084",
+    "07bf5eb3f95a",
+    "8f19b05fbfd7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "31ff6bbd65cb",
+   "enunciado": "8b68efe39c9b",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q13-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O processo indicado no gráfico demonstra um aume",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q13-apoio-01.png",
+     5,
+     [
+      327.2,
+      102.2,
+      567.8,
+      269.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q14": {
+   "alternativas": [
+    "26c55df9a256",
+    "47bed28df498",
+    "58a6ad04de22",
+    "bef935e68277",
+    "e04f100dd567"
+   ],
+   "apoio": "b7fae3810526",
+   "credito": "b4842fbcd68f",
+   "enunciado": "9d4d6b97999e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto refere-se ao movimento migratório denomi",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q15": {
+   "alternativas": [
+    "b3470a595ef6",
+    "c07afdaf4cbb",
+    "6283d0bee13e",
+    "a927e7c5a74b",
+    "95f725cf4224"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "99fafb70c3dc",
+   "enunciado": "fd3bbc86dfd6",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q15-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As figuras representam a distância real (D) entr",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q15-apoio-01.jpg",
+     6,
+     [
+      112.9,
+      103.1,
+      515.3,
+      403.7
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q16": {
+   "alternativas": [
+    "295eae1958fd",
+    "af47847d3dfa",
+    "3a3a059fcbfa",
+    "25aca3e1a87f",
+    "14595b1e22fe"
+   ],
+   "apoio": "a18edf88e90a",
+   "credito": "f51cf1be1887",
+   "enunciado": "9a325bb1bbf3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, são descritas algumas características ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q17": {
+   "alternativas": [
+    "688e9b192401",
+    "d70d2d91dc61",
+    "3995ff2ae186",
+    "0debdd7bfd25",
+    "976a87a315a8"
+   ],
+   "apoio": "05f2bf80d8b8",
+   "credito": "8444e36f5a8a",
+   "enunciado": "82957ea2b6ff",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Analisando os desdobramentos da atividade canavi",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q18": {
+   "alternativas": [
+    "b1e5e320839f",
+    "159515fc3ebe",
+    "c691182b5345",
+    "570915c29cc6",
+    "425befd8f976"
+   ],
+   "apoio": "b33cd3a2cc18",
+   "credito": "d55c2a284a07",
+   "enunciado": "bb49db1eb2d4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A ideia de democracia presente no texto, baseada",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q19": {
+   "alternativas": [
+    "5a726c6ee995",
+    "d17ec6719af5",
+    "bf2a2eee455d",
+    "e31904dd5305",
+    "2dc386550e49"
+   ],
+   "apoio": "2a0b21eb6733",
+   "credito": "1ccd94400eff",
+   "enunciado": "6a9078dae007",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A definição de colonização apresentada no texto ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q20": {
+   "alternativas": [
+    "c2e5fa236137",
+    "3156d0354cf8",
+    "3b743acc6a0c",
+    "b48aa53a8d44",
+    "85c1cf396a9b"
+   ],
+   "apoio": "0651b40e2ff5",
+   "credito": "8c26e7c76640",
+   "enunciado": "455c51ee6efb",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nos textos são apresentados pontos de vista dist",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q21": {
+   "alternativas": [
+    "4dde8bdfac74",
+    "0876a0128208",
+    "c2fc8117d207",
+    "2e185b683933",
+    "1cce83b3e19d"
+   ],
+   "apoio": "ba0b525c1517",
+   "credito": "88c3013d82ea",
+   "enunciado": "7e15090ffa15",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa narrativa de Platão é uma importante manife",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q22": {
+   "alternativas": [
+    "97a512aae126",
+    "a9cd4506fbe1",
+    "c74c7aabf396",
+    "544461c54928",
+    "fa213b30a8e1"
+   ],
+   "apoio": "5fa5d44653c9",
+   "credito": "a872b6bb9eaf",
+   "enunciado": "e892f546c32f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para Agostinho, não se deve atribuir a Deus a or",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q23": {
+   "alternativas": [
+    "704bdc9e34d3",
+    "9625ac797a4e",
+    "5bd22501d6d3",
+    "157b39edc3fe",
+    "abad141d1a22"
+   ],
+   "apoio": "baca53a45b70",
+   "credito": "abadf3b95e7a",
+   "enunciado": "258c147a73f3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Que característica socioeconômica está expressa ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q24": {
+   "alternativas": [
+    "5a8a302a37a5",
+    "a434093813e1",
+    "0efef3f286b9",
+    "50504f681d88",
+    "d35b2ae84683"
+   ],
+   "apoio": "47c339a93be1",
+   "credito": "81e928a6bf89",
+   "enunciado": "df3af35d2f7e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como Fortaleza, muitas capitais brasileiras expe",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q25": {
+   "alternativas": [
+    "e85aa47a835a",
+    "448979caa9ce",
+    "5bb2c1e01c92",
+    "8677c889635c",
+    "2841b3133efa"
+   ],
+   "apoio": "efda408286f2",
+   "credito": "2358f6dbca90",
+   "enunciado": "3e7cc1b65464",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A aproximação entre a letra da canção e a crític",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q26": {
+   "alternativas": [
+    "531f33035f14",
+    "4c3e9ace1819",
+    "f8e1205990ba",
+    "d9912f270887",
+    "54ff83af80d3"
+   ],
+   "apoio": "0e4e6048fff4",
+   "credito": "2caa8c961b44",
+   "enunciado": "1f406c836c75",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A passagem citada expõe um pensamento caracteriz",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q27": {
+   "alternativas": [
+    "253c1f183667",
+    "2aff981bdc52",
+    "434800110f35",
+    "d7d707407136",
+    "a24cf4d792d3"
+   ],
+   "apoio": "21dcca044ad4",
+   "credito": "29feb0cd964a",
+   "enunciado": "78718e339c11",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A análise das trocas comerciais citadas permite ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q28": {
+   "alternativas": [
+    "211d6e554d78",
+    "ac7fd3804798",
+    "106a9f9f33ea",
+    "4c55a46d28d5",
+    "7181de1ef2d6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "9b5b07230460",
+   "enunciado": "fd3fce10699f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q28-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As diferentes representações cartográficas traze",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q28-apoio-01.jpg",
+     10,
+     [
+      101.0,
+      98.9,
+      267.5,
+      270.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q29": {
+   "alternativas": [
+    "370a3cc77906",
+    "f719ab057c6e",
+    "96038fbd951f",
+    "bc7166c46588",
+    "223a27967da3"
+   ],
+   "apoio": "b800ff94ad8f",
+   "credito": "b4d7103b97dc",
+   "enunciado": "b0bb45a2d3ba",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um fator essencial para a organização da produçã",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q30": {
+   "alternativas": [
+    "af40caf30cc4",
+    "0e1e0c8d0830",
+    "15e3cc7d5aee",
+    "58cc9ffe80de",
+    "a7f540697a84"
+   ],
+   "apoio": "83d2d4bfbe00",
+   "credito": "a5d52784f8b4",
+   "enunciado": "29254818cc34",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A proposição “eu sou, eu existo” corresponde a u",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q31": {
+   "alternativas": [
+    "e5386e8488cb",
+    "9a6f49fdccdd",
+    "e4d0cb417ba2",
+    "490e8e6f278c",
+    "44df01e19c1a"
+   ],
+   "apoio": "dcbb02892c0f",
+   "credito": "98699a00ebc5",
+   "enunciado": "1b21f96d640d",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O capitalismo moderno, segundo Max Weber, aprese",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q32": {
+   "alternativas": [
+    "6abdaf7e745c",
+    "85d37d8c202b",
+    "919987420c5f",
+    "922c6dd1824d",
+    "2b7b9d2d7823"
+   ],
+   "apoio": "985f5c967d49",
+   "credito": "cc8289984c70",
+   "enunciado": "adb6863d43b4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica do Estado positivo que lhe perm",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q33": {
+   "alternativas": [
+    "b67c10b148e2",
+    "d8c0f1a6d92e",
+    "d75d416887a1",
+    "a25cd4b7beb0",
+    "72df874fc534"
+   ],
+   "apoio": "534579330fec",
+   "credito": "836e7815e879",
+   "enunciado": "3430b9f3c700",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, faz-se referência a um processo espaci",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q34": {
+   "alternativas": [
+    "cbf3344b05e7",
+    "dc0100291801",
+    "98bb86f76ab3",
+    "537fdddfe72f",
+    "d1dd69b85316"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "8f030ddc72d2",
+   "enunciado": "5a8fc6c556dd",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q34-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A distribuição do consumo de energia elétrica pe",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q34-apoio-01.jpg",
+     11,
+     [
+      66.1,
+      472.8,
+      561.2,
+      671.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q35": {
+   "alternativas": [
+    "37c189564277",
+    "323ecda4d3b2",
+    "ad5f8ccc3d56",
+    "a4c56fca4181",
+    "98b8362f26b1"
+   ],
+   "apoio": "73f737c005f3",
+   "credito": "748cc2602dd3",
+   "enunciado": "338e3dba15bf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na polêmica apresentada, de acordo com a perspec",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q36": {
+   "alternativas": [
+    "b4639e21fd57",
+    "066a5f6977d3",
+    "e0877fd2f5ff",
+    "cab809388526",
+    "df3b74f1e3f8"
+   ],
+   "apoio": "74fc56eaf5f9",
+   "credito": "67429764d29e",
+   "enunciado": "00aad16397d8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Após a conquista da autonomia, a questão primord",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q37": {
+   "alternativas": [
+    "85fe274f8b1d",
+    "117e1f890669",
+    "810288a503c6",
+    "f5f54932d09c",
+    "74ccc15f229a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "4821a140307c",
+   "enunciado": "d3236ae6517d",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q37-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As novas tecnologias foram massificadas, alcança",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q37-apoio-01.jpg",
+     12,
+     [
+      320.1,
+      101.7,
+      566.8,
+      282.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q38": {
+   "alternativas": [
+    "7aa8d859f13e",
+    "f143086f97f2",
+    "ebbf71d805d5",
+    "6ea8b9c51a58",
+    "e9a39f87190a"
+   ],
+   "apoio": "b0cc26a4182c",
+   "credito": "2f30fe8b0ecc",
+   "enunciado": "4018602e425a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A partir da reflexão do historiador, um argument",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q39": {
+   "alternativas": [
+    "f1727a9e05c0",
+    "d11562d21adb",
+    "df87e4d7905a",
+    "17659ce39883",
+    "1dabf5d78db6"
+   ],
+   "apoio": "00f11d077feb",
+   "credito": "dc9a2eb09d90",
+   "enunciado": "ec73f7538fc7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A pressão dos movimentos socioambientais, na ten",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q40": {
+   "alternativas": [
+    "552da507e46e",
+    "dfc33f169ac3",
+    "1ada9e31cb83",
+    "515cab67afaa",
+    "99ef5b4c4651"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "493293447f35",
+   "enunciado": "09cc7a28cec1",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q40-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O cartum evidencia um desafio que o tema da incl",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q40-apoio-01.jpg",
+     13,
+     [
+      320.1,
+      96.5,
+      567.8,
+      373.3
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q41": {
+   "alternativas": [
+    "44c15d0cdf10",
+    "2bf585e64b66",
+    "4e1785d428a6",
+    "ecff7e84b3a7",
+    "f12f6315e377"
+   ],
+   "apoio": "582924a4cd78",
+   "credito": "9a4f1b724c57",
+   "enunciado": "e3618386a18b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O poeta pensa a região como lugar, pleno de afet",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q42": {
+   "alternativas": [
+    "8dbb69b1ec6a",
+    "5c712dd05c83",
+    "e46c66159c2e",
+    "4a09e491720b",
+    "25a5974a2243"
+   ],
+   "apoio": "d15b1459c743",
+   "credito": "b9ab43e48ee0",
+   "enunciado": "bc610ef71995",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trabalho braçal é considerado, na filosofia ar",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q43": {
+   "alternativas": [
+    "87430a820042",
+    "ea2b525f0cd0",
+    "5d66a56e7914",
+    "c353133249ea",
+    "13c28bc09366"
+   ],
+   "apoio": "28da86136336",
+   "credito": "9e92ccb3376f",
+   "enunciado": "42197400742b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, faz-se referência a um problema que se",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q44": {
+   "alternativas": [
+    "4b9c52c2858c",
+    "62b377b41572",
+    "9db0b686e9e6",
+    "72f059233c78",
+    "d1d931c19f4f"
+   ],
+   "apoio": "8e1ad3025b7c",
+   "credito": "7a8d2a69ce0d",
+   "enunciado": "833d81e15ffe",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, está apresentada a nova matriz energét",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q45": {
+   "alternativas": [
+    "84a97a863e4d",
+    "e47983cbb1e3",
+    "cd19956acd0a",
+    "9b39b7efcda4",
+    "a992f8c6ede3"
+   ],
+   "apoio": "ba23aa3ff30f",
+   "credito": "66dade1a2c2b",
+   "enunciado": "54206700bcd4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O tipo de relação entre produção e consumo discu",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q46": {
+   "alternativas": [
+    "b28db32bf5e7",
+    "b71fefee3c19",
+    "0a2b0b7571c9",
+    "476e6533b918",
+    "e972b9e13e85"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "001d7bff5f8c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma flauta, as notas musicais possuem frequên",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q47": {
+   "alternativas": [
+    "f6bbbc9737f3",
+    "3c1d34c21aa5",
+    "42534b6ec11a",
+    "e4b15bf11647",
+    "554a7f9a3021"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "83d5c6de86d7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante a aula, um professor apresentou uma pesq",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q48": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "572231df8835",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q48-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O cladograma representa, de forma simplificada, ",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q48-apoio-01.png",
+     16,
+     [
+      320.5,
+      346.1,
+      567.7,
+      500.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q49": {
+   "alternativas": [
+    "4ce424627a80",
+    "d72d6bcdba5c",
+    "9fe0d98bf325",
+    "38c069ac0556",
+    "87ba9c8b46b2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "56feae899f87",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q49-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um eletricista projeta um circuito com três lâmp",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q49-apoio-01.png",
+     17,
+     [
+      107.6,
+      195.9,
+      255.5,
+      360.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q50": {
+   "alternativas": [
+    "d6e44e94cf24",
+    "bb546506ee2c",
+    "a266b62869f4",
+    "5c7d9647d630",
+    "e26973e6ee8a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "019070730dea",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O urânio é um elemento cujos átomos contêm 92 pr",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q51": {
+   "alternativas": [
+    "8a0d9631cc4d",
+    "e56a88b4e9e0",
+    "cffe3441977a",
+    "19638aef3956",
+    "59482d928724"
+   ],
+   "apoio": "d9e3d246fcb6",
+   "credito": "974780c93ef4",
+   "enunciado": "c07fe0abd2ad",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando que se queira obter 16 mols do meta",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q52": {
+   "alternativas": [
+    "4e0a42807a0a",
+    "330f16ead22f",
+    "156166498d20",
+    "9fc458c5def8",
+    "d1cdc4295362"
+   ],
+   "apoio": "336da191ebcc",
+   "credito": "502ccc7ba478",
+   "enunciado": "c5eb9acc143c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q52-apoio-01.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q52-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, que propriedade química d",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q52-apoio-01.png",
+     18,
+     [
+      123.6,
+      166.3,
+      285.3,
+      246.1
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q52-apoio-02.png",
+     18,
+     [
+      243.0,
+      166.3,
+      504.8,
+      246.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q53": {
+   "alternativas": [
+    "c4e3963da79d",
+    "c4c0fdecb4a3",
+    "41214e26a181",
+    "a1a91b0b5fe6",
+    "382a9144a7c7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9adb02207609",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Além de ser uma prática ilegal, a adulteração de",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q54": {
+   "alternativas": [
+    "289aa330746e",
+    "4b057c2da137",
+    "e32f6edd4406",
+    "195a6e1397b1",
+    "54fb6f258b15"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a69505de8e12",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sabe-se que nas proximidades dos polos do planet",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q55": {
+   "alternativas": [
+    "27301b0f1863",
+    "c26883eaabc5",
+    "93073be868ef",
+    "aba1293ffe4b",
+    "e5d955a6a69b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "19e976c3002e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A rede elétrica de uma residência tem tensão de ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q56": {
+   "alternativas": [
+    "56a0bcb23ae8",
+    "eb4bfe828e5c",
+    "60655c97d43a",
+    "cfe68f218879",
+    "f1a8921b1673"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "21f185fe0207",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A obtenção de sistemas coloidais estáveis depend",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q57": {
+   "alternativas": [
+    "8e611389881c",
+    "3d53f8fd546b",
+    "29a2a0811383",
+    "a0d0a67e20e4",
+    "182f9316a704"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6c6981636437",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Dentre outras características, uma determinada v",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q58": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "af3fc1e097ac",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-E-01.png"
+    ]
+   },
+   "previa": "O avanço tecnológico da medicina propicia o dese",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-A-01.png",
+     19,
+     [
+      343.1,
+      280.6,
+      460.0,
+      360.0
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-B-01.png",
+     19,
+     [
+      343.1,
+      379.5,
+      459.1,
+      458.7
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-C-01.png",
+     19,
+     [
+      343.1,
+      479.3,
+      459.9,
+      559.1
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-D-01.png",
+     19,
+     [
+      343.1,
+      578.3,
+      460.8,
+      658.4
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q58-alt-E-01.png",
+     19,
+     [
+      343.1,
+      678.2,
+      459.2,
+      757.4
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q59": {
+   "alternativas": [
+    "c28c20c08e3d",
+    "477d1d78dcad",
+    "3c08bbe9bb4d",
+    "64b2f895504a",
+    "a2e0b90e3655"
+   ],
+   "apoio": "4beef84c2939",
+   "credito": "b54836930142",
+   "enunciado": "5a8a69c1c265",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q59-apoio-01.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q59-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os reagentes capazes de levar à formação de orga",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q59-apoio-01.png",
+     20,
+     [
+      102.0,
+      180.9,
+      522.5,
+      478.3
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q59-apoio-02.png",
+     20,
+     [
+      257.4,
+      513.9,
+      370.4,
+      634.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q60": {
+   "alternativas": [
+    "9d826f10b0d4",
+    "f4697e047dc6",
+    "0102e5434e1e",
+    "7c6062f7756d",
+    "2867806cf988"
+   ],
+   "apoio": "043066eb2506",
+   "credito": "68caecc24691",
+   "enunciado": "56b5aa48a002",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para serem eficientes no processo de biorremedia",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q61": {
+   "alternativas": [
+    "c42dfa770043",
+    "5262331d227b",
+    "f2107a38f8a6",
+    "9def211ba7bb",
+    "7a6c01dc36ba"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "61300eb2f2e7",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os calcários são materiais compostos por carbona",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q62": {
+   "alternativas": [
+    "2723563f07ed",
+    "f4fe970ceb56",
+    "981b7e4666c9",
+    "3cf593598acd",
+    "69e5955a1a08"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7887db3b3c96",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma enzima foi retirada de um dos órgãos do sist",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q63": {
+   "alternativas": [
+    "b22120701bc8",
+    "3d8e6f8e1e26",
+    "a96a48e02084",
+    "d82a0847b789",
+    "0700d2680cd6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "68c7e17e3d3b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Observações astronômicas indicam que no centro d",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q64": {
+   "alternativas": [
+    "3d436baab8ee",
+    "3d436baab8ee",
+    "3d436baab8ee",
+    "3d436baab8ee",
+    "b0e9bcaa45ab"
+   ],
+   "apoio": "8f61848c5b8b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "acd467e24708",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-E-01.png"
+    ]
+   },
+   "previa": "I - Bactérias sensíveis ao antibiótico",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-A-01.png",
+     22,
+     [
+      90.0,
+      212.4,
+      215.4,
+      310.5
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-B-01.png",
+     22,
+     [
+      90.0,
+      324.1,
+      215.3,
+      422.1
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-C-01.png",
+     22,
+     [
+      90.0,
+      436.1,
+      216.1,
+      534.7
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-D-01.png",
+     22,
+     [
+      90.0,
+      547.5,
+      217.6,
+      647.2
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q64-alt-E-01.png",
+     22,
+     [
+      90.0,
+      659.6,
+      217.2,
+      759.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q65": {
+   "alternativas": [
+    "f3ba35e959e9",
+    "9f6645b924e6",
+    "95367524492b",
+    "9a8c4bbf8958",
+    "e6d662e4f6df"
+   ],
+   "apoio": "273e181403fb",
+   "credito": "941284f61e2b",
+   "enunciado": "6d3387e3937a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A propriedade da radiação eletromagnética avalia",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q66": {
+   "alternativas": [
+    "433bdb131b39",
+    "f9d73c0f3cef",
+    "5e1164e36f85",
+    "b46da6ec3703",
+    "b77a111bfdc3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d824d3b0cc62",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A fenilcetonúria é uma doença hereditária autoss",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q67": {
+   "alternativas": [
+    "f9c37f78cebf",
+    "bd32ac4cba2f",
+    "ea754ad2b9c7",
+    "8b06961fbac4",
+    "4eaf4064c9f9"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "114da83bda61",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Num sistema de freio convencional, as rodas do c",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q68": {
+   "alternativas": [
+    "9314a11ed974",
+    "3af6465e4c5f",
+    "73576f251753",
+    "a345e2796706",
+    "a22ad0ff7ab5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "52c310cfc4f4",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q68-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Cinco indústrias de ramos diferentes foram insta",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q68-apoio-01.png",
+     23,
+     [
+      320.1,
+      539.3,
+      567.8,
+      645.0
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q69": {
+   "alternativas": [
+    "49985348cb90",
+    "717224389645",
+    "de2a87eabb02",
+    "b7c2487e7cb6",
+    "d15ffd45da18"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a755d2e4ea08",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-01.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-02.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-03.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-04.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O poli(ácido lático) ou PLA é um material de int",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-01.png",
+     24,
+     [
+      182.5,
+      142.5,
+      368.6,
+      223.8
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-02.png",
+     24,
+     [
+      101.1,
+      142.5,
+      182.5,
+      223.8
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-03.png",
+     24,
+     [
+      442.9,
+      143.7,
+      505.2,
+      211.5
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q69-apoio-04.png",
+     24,
+     [
+      368.6,
+      144.1,
+      434.2,
+      223.8
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q70": {
+   "alternativas": [
+    "289d88769101",
+    "78e6fd2fe4e7",
+    "5bbf91ca11bb",
+    "9d90e5678d80",
+    "11cc9006ab3a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7269dab10403",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O alumínio é um metal bastante versátil, pois, a",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q71": {
+   "alternativas": [
+    "d3ae75f978df",
+    "af393311013c",
+    "eaaf10aa8c9f",
+    "d198c54806a4",
+    "51a9add620cf"
+   ],
+   "apoio": "b008ecc580e4",
+   "credito": "1c4930d98e74",
+   "enunciado": "7c6878d12942",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q71-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para a separação dos constituintes com o objetiv",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q71-apoio-01.png",
+     25,
+     [
+      87.7,
+      119.6,
+      540.4,
+      246.3
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q72": {
+   "alternativas": [
+    "bacfe006c0d4",
+    "2abb5d43c27b",
+    "93dde2bcfd2a",
+    "9a5a5dadf3cf",
+    "5c9bf1f70e62"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "293c863f3025",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um gel vaginal poderá ser um recurso para as mul",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q73": {
+   "alternativas": [
+    "2e67403667fd",
+    "69ac05d47515",
+    "c397938a8c05",
+    "a86e2af1279f",
+    "3e3e40b3c290"
+   ],
+   "apoio": "91b7e4024e8c",
+   "credito": "357142b49fb9",
+   "enunciado": "b39c60089bae",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q73-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Na época da invenção desse composto, foi propost",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q73-apoio-01.png",
+     25,
+     [
+      60.6,
+      549.2,
+      567.6,
+      643.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q74": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "0ed8ba6a0b83",
+   "credito": "cf2c6ce96361",
+   "enunciado": "8a00dc3b4e04",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q74-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A amostra de vinagre que se encontra dentro do l",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q74-apoio-01.png",
+     26,
+     [
+      60.4,
+      197.4,
+      308.1,
+      288.0
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q75": {
+   "alternativas": [
+    "303b5eab8375",
+    "fd84b793958e",
+    "9abe04f6337d",
+    "cbf8ae0b9d3b",
+    "dbfed9692395"
+   ],
+   "apoio": "23d3202a3a42",
+   "credito": "e188f077bd49",
+   "enunciado": "049c037c72ff",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O uso desses insetos na agricultura traz benefíc",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q76": {
+   "alternativas": [
+    "89198ed82a23",
+    "f15768ef1486",
+    "85c8d82ace9e",
+    "c7edafa406d0",
+    "020d1c8d6f7d"
+   ],
+   "apoio": "71cf875f6050",
+   "credito": "7608e91bcc58",
+   "enunciado": "f878df7b7e60",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q76-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A restrição citada deve-se ao fato de a",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q76-apoio-01.jpg",
+     26,
+     [
+      361.4,
+      148.8,
+      526.4,
+      295.6
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q77": {
+   "alternativas": [
+    "ef87ec17c28b",
+    "04a2117c6943",
+    "086538aff0bc",
+    "65b400af4c37",
+    "35b6386582eb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f54b63b3251e",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q77-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No manual de uma torneira elétrica são fornecida",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q77-apoio-01.png",
+     27,
+     [
+      101.0,
+      305.2,
+      267.4,
+      481.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q78": {
+   "alternativas": [
+    "f526f4ea1a87",
+    "9093bdddecd6",
+    "ef7b809a5d82",
+    "558d9f65c536",
+    "21330e2334a8"
+   ],
+   "apoio": "cc80f5c643ea",
+   "credito": "7693f5bd9cbd",
+   "enunciado": "33d80db9eb86",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Relacionando os sintomas apresentados pelo pacie",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q79": {
+   "alternativas": [
+    "bd090d63119b",
+    "23c4e182c9e4",
+    "b40e4fdff541",
+    "634fe8dd9a26",
+    "2d1926926e8c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a49ac219c1f2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O caramujo gigante africano, Achatina fulica, é ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q80": {
+   "alternativas": [
+    "554145fe5541",
+    "1df30ffd0729",
+    "65026bc6b16c",
+    "ce25e2fd4794",
+    "9ec47261d29e"
+   ],
+   "apoio": "896bdb24f264",
+   "credito": "aa540c187229",
+   "enunciado": "13668ea81d3b",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q80-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Suponha que, em uma inspeção de rotina realizada",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q80-apoio-01.png",
+     28,
+     [
+      146.0,
+      407.1,
+      497.9,
+      652.9
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q81": {
+   "alternativas": [
+    "cdb8d329e1b1",
+    "03195f62a813",
+    "dd587c5bb5f5",
+    "c6ddc81fa088",
+    "d0beb8dddb3d"
+   ],
+   "apoio": "37c86ebb0c54",
+   "credito": "ba3d701b49b3",
+   "enunciado": "21a7737d7ea2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O alívio dos sintomas do blefaroespasmo é conseq",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q82": {
+   "alternativas": [
+    "6425c45c26e9",
+    "443f95d11128",
+    "17a939ccc7d9",
+    "e97031e5b027",
+    "0c8ed7a5ae69"
+   ],
+   "apoio": "d1041a4c5c4a",
+   "credito": "391406cd4d5a",
+   "enunciado": "904df38a0746",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q82-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando que a xícara descrita contém um vol",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q82-apoio-01.png",
+     29,
+     [
+      110.2,
+      504.7,
+      237.0,
+      627.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q83": {
+   "alternativas": [
+    "54fea0b554fc",
+    "34ad4ab27277",
+    "6e35f35e8fdb",
+    "4611fd826ceb",
+    "92a2d9e585bf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9eaa0a369846",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A reprodução vegetativa de plantas por meio de e",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q84": {
+   "alternativas": [
+    "fa541a3bf16d",
+    "010109edab05",
+    "f526451cf794",
+    "2aa15146b918",
+    "5549155b2f28"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1a50d746f727",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O acúmulo de plásticos na natureza pode levar a ",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q85": {
+   "alternativas": [
+    "13682ac41860",
+    "ba30fd97b412",
+    "d96adb142a1f",
+    "28cc2209b234",
+    "66ca59202b79"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5a6941ce4b0a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para irrigar sua plantação, um produtor rural co",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q86": {
+   "alternativas": [
+    "57de1e238780",
+    "da39a3ee5e6b",
+    "da4b9237bacc",
+    "ee2caa07b76d",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d9e0db3c6e11",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-apoio-01.png",
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-apoio-02.png"
+   ],
+   "imagens_alt": {
+    "B": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-alt-B-01.png"
+    ],
+    "E": [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-alt-E-01.png"
+    ]
+   },
+   "previa": "A fotografia feita sob luz polarizada é usada po",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-apoio-01.png",
+     30,
+     [
+      329.6,
+      281.4,
+      549.7,
+      437.2
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-apoio-02.png",
+     30,
+     [
+      329.3,
+      496.0,
+      424.1,
+      525.9
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-alt-B-01.png",
+     30,
+     [
+      336.6,
+      647.8,
+      353.3,
+      676.4
+     ]
+    ],
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q86-alt-E-01.png",
+     30,
+     [
+      336.6,
+      735.9,
+      352.2,
+      764.5
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q87": {
+   "alternativas": [
+    "e2e117801ec0",
+    "b958ae8956e2",
+    "1fd880c18d75",
+    "f72224579659",
+    "4d38a755372c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6de2c606d77c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na natureza a matéria é constantemente transform",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q88": {
+   "alternativas": [
+    "96bf5e69908e",
+    "31a9a5b8819a",
+    "e6e374682817",
+    "21b2b1d554c6",
+    "caa33086d334"
+   ],
+   "apoio": "827951a5e563",
+   "credito": "d742b54cef30",
+   "enunciado": "66931644e498",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O grupo de organismos mais adequado para essa co",
+   "recortes": []
+  },
+  "enem-2015-ppl-d1-q89": {
+   "alternativas": [
+    "fd2de0ea2663",
+    "2c4310c0b0b6",
+    "656df5dadfed",
+    "1fb8c8986a88",
+    "31d66e94f666"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4358ffbcc0ec",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q89-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Durante uma aula experimental de física, os estu",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q89-apoio-01.png",
+     31,
+     [
+      345.2,
+      183.9,
+      542.6,
+      357.1
+     ]
+    ]
+   ]
+  },
+  "enem-2015-ppl-d1-q90": {
+   "alternativas": [
+    "7cbcda1480fc",
+    "4d7b9f444585",
+    "0cb2fd728a1b",
+    "43220c897020",
+    "44b50cec247a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "696c3aa89a58",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q90-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No esquema representado, o processo identificado",
+   "recortes": [
+    [
+     "/questoes/2015/ppl/dia1/enem-2015-ppl-d1-q90-apoio-m01.png",
+     31,
+     [
+      370.0,
+      504.0,
+      519.0,
+      629.0
+     ]
+    ]
+   ]
+  }
+ }
+}

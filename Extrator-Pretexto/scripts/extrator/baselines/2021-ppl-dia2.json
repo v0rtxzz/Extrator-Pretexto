@@ -1,0 +1,2813 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2021",
+ "perfil": "motor v2021",
+ "questoes": {
+  "enem-2021-ppl-d2-q100": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "683de3c1b5cc",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Grande parte da atual frota brasileira de veícul",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-A-01.png",
+     4,
+     [
+      52.5,
+      502.1,
+      202.8,
+      603.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-B-01.png",
+     4,
+     [
+      52.7,
+      614.2,
+      202.6,
+      716.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-C-01.jpg",
+     4,
+     [
+      310.5,
+      81.5,
+      461.4,
+      179.7
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-D-01.jpg",
+     4,
+     [
+      310.5,
+      179.7,
+      461.4,
+      293.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q100-alt-E-01.jpg",
+     4,
+     [
+      310.5,
+      293.1,
+      461.4,
+      407.8
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q101": {
+   "alternativas": [
+    "bd4904ab262e",
+    "21f272c5e8af",
+    "e8b38c95da31",
+    "0043b35e1a06",
+    "eed21cec34c7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3a7c16af6193",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q101-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "As radiações ionizantes são caracterizadas por t",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q101-apoio-01.png",
+     4,
+     [
+      289.1,
+      550.1,
+      535.8,
+      642.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q102": {
+   "alternativas": [
+    "b82b2fba9cc8",
+    "fa7e82263329",
+    "8b59bb061e8d",
+    "be74a8eaa502",
+    "349bd3a5a4f7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b1d33c6497a6",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q102-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O cladograma demonstra o grau de parentesco entr",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q102-apoio-01.png",
+     5,
+     [
+      34.6,
+      114.7,
+      273.7,
+      263.1
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q103": {
+   "alternativas": [
+    "3b3b2f0b7f99",
+    "adde53559f1f",
+    "5e771d6c7b87",
+    "4b6769513573",
+    "619b8b99b831"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "13950c1c2443",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q103-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q103-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A densidade é uma propriedade que relaciona mass",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q103-apoio-01.png",
+     5,
+     [
+      51.0,
+      488.0,
+      160.7,
+      610.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q103-apoio-02.png",
+     5,
+     [
+      169.3,
+      488.0,
+      275.0,
+      610.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q104": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fe8263c95778",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q104-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Alguns recipientes de cozinha apresentam conduti",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q104-apoio-01.png",
+     5,
+     [
+      289.1,
+      172.5,
+      535.8,
+      325.1
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q105": {
+   "alternativas": [
+    "7edf513be0a1",
+    "7e39b922b117",
+    "cfe8046600d3",
+    "93289b30f869",
+    "af69905be622"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "94615fe32738",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um produto, obtido industrialmente da eletrólise",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q106": {
+   "alternativas": [
+    "19612e2f957b",
+    "d46af12aae45",
+    "ff9e570a5a0b",
+    "960e605343c2",
+    "cc900ed5a24c"
+   ],
+   "apoio": "4871c2918d9f",
+   "credito": "18ac1668e095",
+   "enunciado": "c6bef0c810e9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O desmatamento compromete essa função da florest",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q107": {
+   "alternativas": [
+    "73110804480f",
+    "be02fc0ff826",
+    "c640f0ee9a05",
+    "a36a90114124",
+    "c475b81a0931"
+   ],
+   "apoio": "da547d7b2aec",
+   "credito": "0cf1b00fe5b6",
+   "enunciado": "65ba79b2f17b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os produtos dessa degradação, quando lançados no",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q108": {
+   "alternativas": [
+    "66409b8f23ae",
+    "2e10e870065b",
+    "cc3486f2caeb",
+    "90319e3a7ff9",
+    "35b87338312d"
+   ],
+   "apoio": "b9e0131b7fdf",
+   "credito": "e0cd31b5f56b",
+   "enunciado": "e494d1184342",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De onde podem ser retirados esses fragmentos de ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q109": {
+   "alternativas": [
+    "614c5f74bc6e",
+    "0459569156c6",
+    "b4671d4f7824",
+    "725a8ce15e99",
+    "6b9aa51875fd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "041cfe7ff5e6",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Alunos de um curso de ciências biológicas, em um",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q110": {
+   "alternativas": [
+    "aa4b5177166b",
+    "caf93471155b",
+    "7c0b0d3d694f",
+    "0f020ba6cf10",
+    "462d569942e6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4b649fa74e2d",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q110-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma aula de métodos físicos de controle do cr",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q110-apoio-01.png",
+     6,
+     [
+      289.1,
+      525.8,
+      535.8,
+      601.8
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q111": {
+   "alternativas": [
+    "1a12453e5517",
+    "8db8402911c9",
+    "6ebb817f30f4",
+    "e6f7284723c3",
+    "14b1751bb770"
+   ],
+   "apoio": "bed40794298f",
+   "credito": "ddd9b27409e9",
+   "enunciado": "0ec2b2c87ecd",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q111-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é o valor mais próximo do consumo mensal de",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q111-apoio-01.png",
+     7,
+     [
+      57.5,
+      158.2,
+      237.0,
+      303.3
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q112": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bd3b766714e8",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-apoio-02.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-E-01.png"
+    ]
+   },
+   "previa": "Baterias são dispositivos que acumulam energia e",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-apoio-01.png",
+     7,
+     [
+      30.7,
+      554.0,
+      278.8,
+      568.0
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-apoio-02.png",
+     7,
+     [
+      113.9,
+      645.0,
+      197.6,
+      715.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-A-01.png",
+     7,
+     [
+      314.7,
+      124.8,
+      407.6,
+      183.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-B-01.png",
+     7,
+     [
+      314.7,
+      210.3,
+      407.6,
+      256.0
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-C-01.png",
+     7,
+     [
+      314.7,
+      280.8,
+      407.7,
+      338.9
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-D-01.png",
+     7,
+     [
+      314.7,
+      361.9,
+      407.7,
+      421.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q112-alt-E-01.png",
+     7,
+     [
+      314.7,
+      447.5,
+      418.1,
+      492.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q113": {
+   "alternativas": [
+    "2d35eff58c80",
+    "4a688b95847c",
+    "e7876eda9ce7",
+    "ac500409d8ff",
+    "5b51749fa001"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0191720c7714",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No manual de instruções de um conjunto de 30 lâm",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q114": {
+   "alternativas": [
+    "39b4f2c61da2",
+    "76e44596adef",
+    "718c6d5508fa",
+    "49f3f407d3c1",
+    "c4e6433abb13"
+   ],
+   "apoio": "839a4ca7ac08",
+   "credito": "799793de408d",
+   "enunciado": "c1623e831b1a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os processos físico e químico que ocorrem na fab",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q115": {
+   "alternativas": [
+    "b802d26ed32c",
+    "f832d4b6a210",
+    "612b1b8ad723",
+    "ebf5e5fa8c4d",
+    "d10a0ae6cb79"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "544d8a10ba5c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma antiga forma de produzir um dos constituinte",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q116": {
+   "alternativas": [
+    "971fed801598",
+    "29864534e235",
+    "d0974bb44331",
+    "a9648122e9c3",
+    "3024d8466ef2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "58fdce7980f1",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um marceneiro esqueceu um pacote de pregos ao re",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q117": {
+   "alternativas": [
+    "343a5c9820fd",
+    "826b0b49ef29",
+    "afbe0b8973bf",
+    "b3bc0e3bb9a9",
+    "e29f5653ca11"
+   ],
+   "apoio": "5411604b6daf",
+   "credito": "f7cd10637793",
+   "enunciado": "0113f2c9de53",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-01.jpg",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-02.jpg",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Caso fosse aceita a proposta apresentada, qual s",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-01.jpg",
+     8,
+     [
+      299.6,
+      173.1,
+      524.2,
+      338.8
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-02.jpg",
+     8,
+     [
+      297.6,
+      370.7,
+      498.9,
+      546.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q117-apoio-03.png",
+     8,
+     [
+      359.7,
+      598.4,
+      469.7,
+      630.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q118": {
+   "alternativas": [
+    "b802d26ed32c",
+    "27e74c9c3da6",
+    "9d3649bfc0b6",
+    "e34babb40dab",
+    "8b1f3e94adb6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5c083ef19a44",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ácido sulfúrico (H₂SO₄) é um dos ácidos mais u",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q119": {
+   "alternativas": [
+    "d7b1cad46286",
+    "9bd22730136f",
+    "43dce0e6d6a2",
+    "ad6e37c82905",
+    "c03f191dc07f"
+   ],
+   "apoio": "0ba69716598c",
+   "credito": "c0728184b123",
+   "enunciado": "452fe19e485b",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q119-apoio-01.jpg",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q119-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em relação ao resultado do procedimento de calib",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q119-apoio-01.jpg",
+     9,
+     [
+      67.3,
+      371.2,
+      242.1,
+      523.7
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q119-apoio-02.jpg",
+     9,
+     [
+      70.6,
+      531.0,
+      238.4,
+      663.7
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q120": {
+   "alternativas": [
+    "91032ad7bbcb",
+    "ffd2208f17c8",
+    "af3e133428b9",
+    "6d51eccc20d8",
+    "b888b29826bb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "70d7577f41ee",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q120-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q120-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Foi realizada uma perícia técnica de um acidente",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q120-apoio-01.png",
+     9,
+     [
+      302.6,
+      410.5,
+      395.0,
+      532.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q120-apoio-02.png",
+     9,
+     [
+      401.1,
+      410.6,
+      522.8,
+      627.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q121": {
+   "alternativas": [
+    "ba5535681407",
+    "1f676a382212",
+    "44623ad3a5b7",
+    "fd53d571e3ef",
+    "5c1d303b8144"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ff195227d079",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q121-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O quadro contém as especificações técnicas de um",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q121-apoio-01.png",
+     10,
+     [
+      31.2,
+      91.0,
+      277.8,
+      247.8
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q122": {
+   "alternativas": [
+    "ab6f2fdfa9b1",
+    "54ad53936683",
+    "52903eae84b4",
+    "28006ac89eac",
+    "d048417f68af"
+   ],
+   "apoio": "e0b6e0c01559",
+   "credito": "8240f8102711",
+   "enunciado": "d91c44533397",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando-se a dose estimada de consumo de sa",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q123": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "23f5438ab613",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3934c303cec1",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-apoio-m01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-A-m01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-B-m01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-C-m01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-D-m01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-E-m01.png"
+    ]
+   },
+   "previa": "A dificuldade mencionada é gerada pela presença ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-apoio-m01.png",
+     10,
+     [
+      299.3,
+      189.3,
+      525.1,
+      354.9
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-A-m01.png",
+     10,
+     [
+      305.3,
+      380.9,
+      342.3,
+      416.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-B-m01.png",
+     10,
+     [
+      305.5,
+      417.4,
+      338.4,
+      452.5
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-C-m01.png",
+     10,
+     [
+      305.5,
+      453.5,
+      338.4,
+      488.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-D-m01.png",
+     10,
+     [
+      437.2,
+      384.0,
+      498.7,
+      394.8
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q123-alt-E-m01.png",
+     10,
+     [
+      437.6,
+      418.7,
+      528.2,
+      469.7
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q124": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d0af637af432",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q124-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para demonstrar os processos físicos de separaçã",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q124-apoio-01.png",
+     10,
+     [
+      289.2,
+      567.7,
+      535.7,
+      659.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q125": {
+   "alternativas": [
+    "c0e3a7e07213",
+    "f1abd670358e",
+    "0a57cb53ba59",
+    "0dd3381546e3",
+    "f67462663a51"
+   ],
+   "apoio": "fa96bc983c59",
+   "credito": "e563fd81070d",
+   "enunciado": "e74ffc8e379b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O número de residências, em milhões, que poderia",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q126": {
+   "alternativas": [
+    "dcafc4b03e38",
+    "2fab71430bf4",
+    "3ecc5e014dd8",
+    "be549cb34e29",
+    "685a1f609b76"
+   ],
+   "apoio": "2677fe17d96c",
+   "credito": "570e30a244f5",
+   "enunciado": "7c76bef415e4",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q126-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O cabo que apresenta o menor custo e que suporta",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q126-apoio-01.png",
+     11,
+     [
+      31.2,
+      589.6,
+      277.8,
+      716.7
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q127": {
+   "alternativas": [
+    "df3ddd3587a1",
+    "88488e3f6882",
+    "7c5e89f52e39",
+    "5ac018f2019a",
+    "958b39b1da89"
+   ],
+   "apoio": "ce450a225008",
+   "credito": "490e12ae8e1b",
+   "enunciado": "50a195d6555e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A principal grandeza física desses rios que deve",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q128": {
+   "alternativas": [
+    "cfad66f3d2ab",
+    "7776221e0aff",
+    "e0532a361082",
+    "6bd540353775",
+    "0d25eebae449"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d524ac4b00f8",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os compostos iônicos CaCO₃ e NaCl têm solubilida",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q129": {
+   "alternativas": [
+    "6633acad4af2",
+    "1b979bc42087",
+    "688fd3c9b545",
+    "7dbe3da5b88d",
+    "2fade049ebf7"
+   ],
+   "apoio": "9a076eeaae06",
+   "credito": "b0185de37c77",
+   "enunciado": "c7241a404437",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Entre as larvas do vaga-lume e os insetos alados",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q130": {
+   "alternativas": [
+    "d6224a5d1992",
+    "2c0ffd08fcf0",
+    "cc3296fa772b",
+    "02a3e9770de6",
+    "69d61141ee35"
+   ],
+   "apoio": "1ad128fdac28",
+   "credito": "1f1424f78db8",
+   "enunciado": "4e2a813d601d",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esses hormônios são produzidos na(s) glândula(s)",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q131": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e2c5d4c99084",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q131-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em certas anemias hemolíticas, estão presentes n",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q131-apoio-01.png",
+     12,
+     [
+      31.2,
+      471.9,
+      534.8,
+      643.9
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q132": {
+   "alternativas": [
+    "e831ae90b6d3",
+    "61a2d8684454",
+    "9e604a17cdb6",
+    "91201de1e872",
+    "e0aecca0cacc"
+   ],
+   "apoio": "7de24acb6559",
+   "credito": "585a093c6527",
+   "enunciado": "566682035cc5",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q132-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Essas componentes harmônicas apresentam iguais",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q132-apoio-01.png",
+     13,
+     [
+      37.6,
+      181.8,
+      271.3,
+      460.9
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q133": {
+   "alternativas": [
+    "ef0bfc967dfa",
+    "0ba7970af74a",
+    "5a64bd6e9bc2",
+    "ed095991785a",
+    "7a5ce9d80cd5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fb81c465e7f2",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um agricultor, visando melhorar a vida útil dos ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q134": {
+   "alternativas": [
+    "c8e4a80949ee",
+    "0362b0166b22",
+    "a74dcc46ed7d",
+    "05a40eba0f3e",
+    "7b1f97c7544e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4530be076266",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo a propaganda de uma rede de hotéis, “mil",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q135": {
+   "alternativas": [
+    "ad56a31d0ad8",
+    "2d272cf475ee",
+    "e4b23cd3b8a4",
+    "dd52ccd741c4",
+    "d1c1d2de69d2"
+   ],
+   "apoio": "f908d5d030a4",
+   "credito": "1ac81b73f4b0",
+   "enunciado": "59ad4da5540a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Essa nova técnica para a proliferação das algas ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q136": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "709b36361360",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-apoio-m01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-A-m01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-B-m01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-C-m01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-D-m01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-E-m01.png"
+    ]
+   },
+   "previa": "Um inseto percorreu sobre a superfície de um obj",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-apoio-m01.png",
+     14,
+     [
+      85.4,
+      172.4,
+      222.5,
+      365.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-A-m01.png",
+     14,
+     [
+      46.4,
+      447.7,
+      170.2,
+      529.8
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-B-m01.png",
+     14,
+     [
+      46.4,
+      546.1,
+      170.2,
+      628.3
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-C-m01.png",
+     14,
+     [
+      46.4,
+      644.6,
+      170.2,
+      726.7
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-D-m01.png",
+     14,
+     [
+      304.3,
+      73.5,
+      428.2,
+      155.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q136-alt-E-m01.png",
+     14,
+     [
+      304.3,
+      168.5,
+      428.2,
+      250.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q137": {
+   "alternativas": [
+    "016cac02956e",
+    "f5e3c7a0c995",
+    "87a2b80f9272",
+    "de62030fd12c",
+    "706c043652cd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "de44f010d18c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q137-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma moça estacionou seu carro na interseção da R",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q137-apoio-01.png",
+     14,
+     [
+      289.1,
+      415.8,
+      534.7,
+      640.9
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q138": {
+   "alternativas": [
+    "477e0c8fcde1",
+    "999950d4b636",
+    "b7a186a4ab8e",
+    "31eec78440bc",
+    "d1b670e17043"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "dc38bfbd3b9b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um ciclista faz um treino para uma prova, em um ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q139": {
+   "alternativas": [
+    "42e6791b8a67",
+    "ec45a60ec4ee",
+    "3f97e46dafbb",
+    "8b7294568178",
+    "819c3de0744a"
+   ],
+   "apoio": "e99132578790",
+   "credito": "bfe60456c34f",
+   "enunciado": "a1f7bf0cf80f",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q139-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O valor de D é dado pela expressão",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q139-apoio-01.png",
+     15,
+     [
+      131.0,
+      575.7,
+      177.8,
+      621.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q140": {
+   "alternativas": [
+    "6f73ad3743fa",
+    "a28cb644097d",
+    "2e3367ef6f39",
+    "82d45adc42a1",
+    "04ccb79c115e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f06314686f9b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um agricultor utilizava toda a área de uma regiã",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q141": {
+   "alternativas": [
+    "ce0cc58f2d05",
+    "e16ea3d88691",
+    "b18615a00662",
+    "859f627b5097",
+    "7b95a48447cb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "76bcc1a08783",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No rótulo de uma lata com 350 mL de um refrigera",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q142": {
+   "alternativas": [
+    "bf67726ecdd9",
+    "082718e5ab12",
+    "2cef629f447f",
+    "fd6329d95664",
+    "63a4fbb09c09"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a694dbec6a26",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q142-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma operadora de telefonia oferece cinco planos ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q142-apoio-01.png",
+     16,
+     [
+      34.9,
+      464.8,
+      274.0,
+      616.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q143": {
+   "alternativas": [
+    "f576684403a6",
+    "4fd5737d0982",
+    "9f5670a78d39",
+    "b6189a634ec6",
+    "e0b7a08cb6ef"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "56a45951abbd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um cinema tem capacidade para 180 pessoas e cobr",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q144": {
+   "alternativas": [
+    "52dcda892554",
+    "19f97bca5bf4",
+    "a69959da74fa",
+    "703ea169efa3",
+    "00404ad5f519"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a071d46a17b0",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q144-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para um evento que acontecerá no centro de uma c",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q144-apoio-01.png",
+     17,
+     [
+      31.0,
+      132.7,
+      277.8,
+      268.2
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q145": {
+   "alternativas": [
+    "24367d76b5dc",
+    "aa0c5e109748",
+    "44c5f258c549",
+    "09d024446ff1",
+    "082459698110"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e6e2068600bb",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q145-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um casal decidiu aplicar em um fundo de investim",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q145-apoio-01.png",
+     17,
+     [
+      91.6,
+      626.7,
+      217.4,
+      732.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q146": {
+   "alternativas": [
+    "d10d3cc6b640",
+    "31939fe9c9f0",
+    "509f62c9580a",
+    "b24cb3eec64a",
+    "3044f2f46519"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d445d5a4ba9b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q146-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma confeiteira pretende divulgar em um sítio da",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q146-apoio-01.png",
+     17,
+     [
+      327.4,
+      299.8,
+      514.0,
+      424.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q147": {
+   "alternativas": [
+    "8382f73af0dc",
+    "92086f80d9c1",
+    "e5d8982940ae",
+    "669ea8bcc400",
+    "858200628a79"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f3e298afa357",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q147-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Até a Copa de 2010, apenas sete jogadores haviam",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q147-apoio-01.png",
+     18,
+     [
+      31.2,
+      167.2,
+      277.8,
+      301.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q148": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "99b6053320a8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A qualidade de sementes é verificada, entre outr",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q149": {
+   "alternativas": [
+    "7a6819f9914c",
+    "2529913b4db0",
+    "729e78394f2d",
+    "0605f41c8b23",
+    "9a66054f1000"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d2b88c67b0c1",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma fábrica de circuitos elétricos, há divers",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q150": {
+   "alternativas": [
+    "5cd287e60c38",
+    "c5b88f5b8ca8",
+    "2d0c8af807ef",
+    "44ac68a5a037",
+    "7501deba1303"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c2cc8e7a8f1e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A senha de um cofre é uma sequência formada por ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q151": {
+   "alternativas": [
+    "6084b7975583",
+    "d08d50886e10",
+    "344fde03bf1b",
+    "b0d2bc95c848",
+    "cee5757a9e8a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "032ff0a40014",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um professor tem uma despesa mensal de 10% do se",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q152": {
+   "alternativas": [
+    "0603ea498d20",
+    "082459698110",
+    "564d58d39e99",
+    "460ac7da9670",
+    "89ab25780e86"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "57a9f9bca625",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma loja que vende tintas tem uma máquina que ef",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q153": {
+   "alternativas": [
+    "5e81a91865f1",
+    "2fab71430bf4",
+    "250e3dae044c",
+    "587dc8891339",
+    "ac19721b667c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "eca66582b623",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q153-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um brinquedo muito comum em parques de diversões",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q153-apoio-01.png",
+     20,
+     [
+      33.2,
+      180.5,
+      276.9,
+      388.9
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q154": {
+   "alternativas": [
+    "b3f0c7f6bb76",
+    "91032ad7bbcb",
+    "472b07b9fcf2",
+    "d435a6cdd786",
+    "4d134bc07221"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d3295d7c95c5",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-02.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma indústria recortou uma placa de metal no for",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-01.png",
+     20,
+     [
+      298.6,
+      187.4,
+      513.8,
+      357.0
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-02.png",
+     20,
+     [
+      304.9,
+      374.3,
+      530.7,
+      482.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q154-apoio-03.png",
+     20,
+     [
+      305.6,
+      496.4,
+      536.7,
+      509.1
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q155": {
+   "alternativas": [
+    "b487ed178c48",
+    "9b431c8fd579",
+    "a8bcf8b28ece",
+    "41ad998211c8",
+    "720dae25bf31"
+   ],
+   "apoio": "e5fce199f07b",
+   "credito": "9ca1e5165409",
+   "enunciado": "45721ba33434",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q155-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é a relação algébrica entre as temperaturas",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q155-apoio-01.png",
+     21,
+     [
+      31.7,
+      195.4,
+      276.2,
+      444.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q156": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "eda4f58b5fad",
+   "credito": "1cf7f7495a83",
+   "enunciado": "131c1789d88f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-E-01.png"
+    ]
+   },
+   "previa": "A expressão algébrica que representa a nova mane",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-A-01.png",
+     21,
+     [
+      306.2,
+      292.1,
+      349.2,
+      319.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-B-01.png",
+     21,
+     [
+      288.6,
+      340.7,
+      347.5,
+      368.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-C-01.png",
+     21,
+     [
+      306.1,
+      381.4,
+      374.2,
+      412.5
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-D-01.png",
+     21,
+     [
+      306.1,
+      428.7,
+      374.2,
+      459.9
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q156-alt-E-01.png",
+     21,
+     [
+      288.6,
+      477.1,
+      369.0,
+      504.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q157": {
+   "alternativas": [
+    "72baef0a1fcd",
+    "2a829423deaa",
+    "f1dcc92ab416",
+    "16aae412e979",
+    "d5b49a2abb06"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "465fa4203acc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um diretor esportivo organiza um campeonato no q",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q158": {
+   "alternativas": [
+    "d44b6f66b473",
+    "31d1db699f6c",
+    "51bcfa18e413",
+    "d035cab2abb1",
+    "96f3792e8f76"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5202432ff06f",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q158-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um laboratório farmacêutico pretende implementar",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q158-apoio-01.png",
+     22,
+     [
+      31.2,
+      160.9,
+      535.8,
+      222.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q159": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "26426f530d48",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q159-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um nutricionista preparou cinco opções de dieta ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q159-apoio-01.png",
+     22,
+     [
+      160.2,
+      420.8,
+      406.8,
+      525.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q160": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1dcb3f3316e5",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-02.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-03.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-04.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-05.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um suporte será instalado no box de um banheiro ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-01.png",
+     23,
+     [
+      31.2,
+      206.1,
+      209.5,
+      348.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-02.png",
+     23,
+     [
+      31.2,
+      356.4,
+      229.1,
+      533.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-03.png",
+     23,
+     [
+      31.2,
+      546.2,
+      149.2,
+      650.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-04.png",
+     23,
+     [
+      31.2,
+      661.0,
+      183.8,
+      726.7
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q160-apoio-05.png",
+     23,
+     [
+      289.1,
+      77.0,
+      488.1,
+      254.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q161": {
+   "alternativas": [
+    "f79ad7abd1ca",
+    "9b77b725b7d6",
+    "1e784ef24e73",
+    "ece09dc99596",
+    "30a938cf199f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a2e8db341fac",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um técnico gráfico constrói uma nova folha a par",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q162": {
+   "alternativas": [
+    "87a2b80f9272",
+    "6e2448049b8b",
+    "74b11b9bfd5a",
+    "503897d852d0",
+    "b592111c90cd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5415aed1d00d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q162-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico informa a produção registrada por uma ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q162-apoio-01.png",
+     24,
+     [
+      69.5,
+      124.5,
+      239.4,
+      332.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q163": {
+   "alternativas": [
+    "dc775eb084ea",
+    "9440daf5bdf0",
+    "490c14788c34",
+    "711e8cb054f3",
+    "1b1bc7395844"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "955919f87929",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q163-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O preço médio cobrado por um pintor para executa",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q163-apoio-01.png",
+     24,
+     [
+      53.2,
+      640.0,
+      256.2,
+      733.6
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q164": {
+   "alternativas": [
+    "5d4a208cbc43",
+    "dcf8f2ad2dd4",
+    "9e44f8975bd6",
+    "7b52009b64fd",
+    "1d513c0bcbe3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "85548054a288",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q164-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O crescimento de uma população de microrganismos",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q164-apoio-01.png",
+     24,
+     [
+      336.3,
+      310.9,
+      488.6,
+      439.3
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q165": {
+   "alternativas": [
+    "f0cf952bf321",
+    "5dd942023c8f",
+    "6b7cbef62465",
+    "a023a093bbd1",
+    "88273f01d797"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f757582c1cf0",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q165-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q165-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O presidente de um time de futebol contratou, pa",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q165-apoio-01.png",
+     25,
+     [
+      31.2,
+      181.5,
+      277.8,
+      265.3
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q165-apoio-02.png",
+     25,
+     [
+      30.9,
+      313.7,
+      278.1,
+      404.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q166": {
+   "alternativas": [
+    "bd9ac608604a",
+    "6f4255b6ee4c",
+    "8083913ff6dd",
+    "c1bdd5a863be",
+    "51de98a7d3b0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c18959816521",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q166-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Cinco atletas que participarão de uma maratona t",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q166-apoio-01.png",
+     25,
+     [
+      289.3,
+      139.1,
+      535.5,
+      154.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q167": {
+   "alternativas": [
+    "13682ac41860",
+    "8bd7954c40c1",
+    "4cd66dfabbd9",
+    "972a67c48192",
+    "22d200f8670d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fc19eccdbb5b",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q167-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Black Friday é uma tradição norte-americana que ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q167-apoio-01.png",
+     25,
+     [
+      292.3,
+      484.8,
+      502.0,
+      609.2
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q168": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "92cc81112b28",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma rede de supermercados vende latas de sucos\ne",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q169": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3917d0f13126",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q169-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um fabricante produz cinco tipos de enfeites de ",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q169-apoio-01.png",
+     26,
+     [
+      31.2,
+      533.9,
+      277.8,
+      639.2
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q170": {
+   "alternativas": [
+    "5e84f25b7a0f",
+    "e534c61acff9",
+    "3f29a497ba0c",
+    "c28d72e2cf3c",
+    "f58ccda61e53"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ce3f055d2dce",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em determinado mês, o consumo de energia elétric",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q171": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "a47638f172ea",
+   "credito": "7927f4cd9c5d",
+   "enunciado": "d6615a90b040",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-01.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-02.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-03.png",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-04.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-E-01.png"
+    ]
+   },
+   "previa": "O gráfico que indica o resultado do exame do pac",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-01.png",
+     27,
+     [
+      31.2,
+      538.4,
+      273.9,
+      727.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-02.png",
+     27,
+     [
+      289.1,
+      91.7,
+      529.0,
+      273.2
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-03.png",
+     27,
+     [
+      289.1,
+      307.0,
+      529.0,
+      488.9
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-apoio-04.png",
+     27,
+     [
+      289.1,
+      522.4,
+      529.0,
+      705.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-A-01.png",
+     27,
+     [
+      42.2,
+      312.4,
+      285.2,
+      508.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-B-01.png",
+     27,
+     [
+      42.2,
+      537.4,
+      285.2,
+      727.4
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-C-01.png",
+     27,
+     [
+      300.1,
+      -55.2,
+      547.6,
+      272.8
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-D-01.png",
+     27,
+     [
+      300.1,
+      305.3,
+      529.6,
+      488.3
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q171-alt-E-01.png",
+     27,
+     [
+      300.1,
+      520.8,
+      529.6,
+      704.3
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q172": {
+   "alternativas": [
+    "465a0f1639bc",
+    "60fe4012b1da",
+    "5361d5ba5434",
+    "a46b27a16d32",
+    "62e69deef471"
+   ],
+   "apoio": "9f254245b15d",
+   "credito": "59314bd886eb",
+   "enunciado": "b3d2fbcd24ba",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q172-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando-se os intervalos do período com val",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q172-apoio-01.png",
+     28,
+     [
+      41.7,
+      183.6,
+      275.6,
+      383.5
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q173": {
+   "alternativas": [
+    "eb8577a112bd",
+    "01bd54284829",
+    "01bcc24ec537",
+    "9f56bf7fdbcd",
+    "0c775cf8658f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "46d58de643b3",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q173-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O rendimento de um carro bicombustível (abasteci",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q173-apoio-01.png",
+     28,
+     [
+      65.5,
+      607.3,
+      243.4,
+      724.1
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q174": {
+   "alternativas": [
+    "87a2b80f9272",
+    "77f846fa25ee",
+    "6c421161fbc0",
+    "3253a589ea40",
+    "7e2ad8b0e469"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2b8beff56844",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere que o modelo matemático utilizado no e",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q175": {
+   "alternativas": [
+    "86b918c65b55",
+    "95ac051be593",
+    "197849440102",
+    "b8a2ac4d0895",
+    "5cf8e35cac70"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e396ff2fe552",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A massa de um tanque de combustível depende:\nI. ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q176": {
+   "alternativas": [
+    "79aecaf05dfe",
+    "fec8c29b466a",
+    "37002f74d00c",
+    "99b78b7687d6",
+    "8e142c09823e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4b5f7c6efbf7",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q176-apoio-01.jpg",
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q176-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Coloquei uma pizza no forno às 8 h, momento em q",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q176-apoio-01.jpg",
+     29,
+     [
+      32.0,
+      348.4,
+      151.6,
+      586.1
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q176-apoio-02.jpg",
+     29,
+     [
+      157.6,
+      348.4,
+      277.3,
+      504.8
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q177": {
+   "alternativas": [
+    "e97031e5b027",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc",
+    "09d024446ff1",
+    "bd0eb8527e5e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "07d78b3504b2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma empresa produz painéis solares de energia el",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q178": {
+   "alternativas": [
+    "0ade7c2cf97f",
+    "ac3478d69a3c",
+    "77de68daecd8",
+    "da4b9237bacc",
+    "b6589fc6ab0d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "693b8daa714a",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q178-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Utiliza-se o termo download para designar o proc",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q178-apoio-01.png",
+     29,
+     [
+      308.9,
+      426.0,
+      517.6,
+      596.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q179": {
+   "alternativas": [
+    "2106382bb2e4",
+    "2106382bb2e4",
+    "ca4f500a9d72",
+    "9c9d8b3ac310",
+    "17ba0791499d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b150738de49a",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q179-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Na loteria Lotex, cada aposta corresponde à marc",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q179-apoio-01.png",
+     30,
+     [
+      33.6,
+      192.6,
+      275.3,
+      421.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q180": {
+   "alternativas": [
+    "bd785c65f4c0",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bcd49bad78d3",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "B": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-E-01.png"
+    ]
+   },
+   "previa": "A imagem representa uma calculadora científica c",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-apoio-01.png",
+     30,
+     [
+      296.1,
+      142.6,
+      527.9,
+      326.6
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-B-01.png",
+     30,
+     [
+      305.7,
+      448.7,
+      341.3,
+      463.5
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-C-01.png",
+     30,
+     [
+      305.8,
+      476.2,
+      360.8,
+      491.0
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-D-01.png",
+     30,
+     [
+      305.7,
+      503.0,
+      361.0,
+      517.8
+     ]
+    ],
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q180-alt-E-01.png",
+     30,
+     [
+      305.7,
+      531.2,
+      358.9,
+      546.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q91": {
+   "alternativas": [
+    "8f95f8ec8ce6",
+    "795fd55302e1",
+    "ea72f0e03bc1",
+    "75a5ae87c7dc",
+    "e1decf8c52b6"
+   ],
+   "apoio": "77a55e56ff20",
+   "credito": "86497debd870",
+   "enunciado": "752a361945f6",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q91-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O produto que apresenta essas características é:",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q91-apoio-01.png",
+     2,
+     [
+      34.8,
+      218.8,
+      275.2,
+      232.9
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q92": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "6864675ef16b",
+   "credito": "0987702b6e63",
+   "enunciado": "f26927ec8d2f",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q92-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual dessas plantas é adaptada a ambientes com d",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q92-apoio-01.png",
+     2,
+     [
+      31.7,
+      518.8,
+      278.3,
+      617.0
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q93": {
+   "alternativas": [
+    "8538f55beab2",
+    "5e4b19099f8d",
+    "33cc2a70de3a",
+    "c293c6689378",
+    "404ab855bc14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fad45d980b7c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O crescimento vegetal pode ser influenciado tant",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q94": {
+   "alternativas": [
+    "73522ea84b48",
+    "3b63065e1128",
+    "22b8531b7d90",
+    "56b81af5b4f7",
+    "d963ab89d057"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7080d0398aa5",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Probióticos são microrganismos vivos utilizados ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q95": {
+   "alternativas": [
+    "8b102b14488c",
+    "7962f2423ae4",
+    "5127a12014f3",
+    "e099d4324081",
+    "2c75efd09677"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "03936c4e22ea",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma palestra, o apresentador falou sobre uma ",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q96": {
+   "alternativas": [
+    "82856b11499c",
+    "099dccef8db9",
+    "c1a18c8a0b40",
+    "16da04158df9",
+    "5bbab9ea3140"
+   ],
+   "apoio": "477e63af9bcc",
+   "credito": "ac556b2e9bd6",
+   "enunciado": "428c2b4ddba4",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q96-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Finalizado o experimento, a cor da couve, nos bé",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q96-apoio-01.png",
+     3,
+     [
+      34.0,
+      135.4,
+      532.9,
+      195.8
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q97": {
+   "alternativas": [
+    "2a31b1d10220",
+    "3f4d390c89bf",
+    "36b3fbe619d6",
+    "8caf0d818b02",
+    "4678f2f2731b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d6c90ef3b357",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q97-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As plantas realizam fotossíntese pela captura do",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q97-apoio-01.jpg",
+     3,
+     [
+      79.3,
+      352.5,
+      485.9,
+      419.4
+     ]
+    ]
+   ]
+  },
+  "enem-2021-ppl-d2-q98": {
+   "alternativas": [
+    "84320eb8dbbe",
+    "b8a2ac4d0895",
+    "00051038c9d4",
+    "581a1167cc2a",
+    "7b9797fc61e7"
+   ],
+   "apoio": "91696b902078",
+   "credito": "c9266ba19623",
+   "enunciado": "c9f2ba12b8f6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual é a massa de calcário, em gramas, necessári",
+   "recortes": []
+  },
+  "enem-2021-ppl-d2-q99": {
+   "alternativas": [
+    "2ffb587c8729",
+    "8140e05ea47e",
+    "0559c6d1a8d2",
+    "50ed6e72da16",
+    "41343f0697fe"
+   ],
+   "apoio": "eda5af3a5af3",
+   "credito": "7d7181708534",
+   "enunciado": "c7b0869151f5",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q99-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No momento da máxima aproximação de Plutão, o va",
+   "recortes": [
+    [
+     "/questoes/2021/ppl/dia2/enem-2021-ppl-d2-q99-apoio-01.png",
+     4,
+     [
+      30.7,
+      171.6,
+      252.6,
+      184.3
+     ]
+    ]
+   ]
+  }
+ }
+}

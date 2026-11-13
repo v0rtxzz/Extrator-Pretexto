@@ -1,0 +1,2080 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2012",
+ "perfil": "motor v2012",
+ "questoes": {
+  "enem-2012-ppl-d1-q01": {
+   "alternativas": [
+    "8e4171c48ba3",
+    "a4d6bb354db3",
+    "e46e8ddc7eb5",
+    "a45b8e9b752a",
+    "c07b43b1a2bb"
+   ],
+   "apoio": "2f72eef2a4f9",
+   "credito": "35a93749cdb7",
+   "enunciado": "1178288dc16a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base na aproximação indicada no texto, uma c",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q02": {
+   "alternativas": [
+    "2462b1d60fdd",
+    "3b569e471e1f",
+    "453d0821e473",
+    "674477dcef46",
+    "0c5a852d5cb5"
+   ],
+   "apoio": "229f549c7da1",
+   "credito": "b0917f5f5072",
+   "enunciado": "63b977c4e95d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q02-apoio-01.jpg",
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q02-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A pintura-mural de Picasso e a fotografia retrat",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q02-apoio-01.jpg",
+     2,
+     [
+      60.4,
+      460.4,
+      304.3,
+      575.4
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q02-apoio-02.jpg",
+     2,
+     [
+      64.1,
+      597.2,
+      303.0,
+      752.8
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q03": {
+   "alternativas": [
+    "a3f9a032e79d",
+    "8567cb82541e",
+    "c8610c1e5d4a",
+    "35612be25d10",
+    "9ea29d854f9a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "178a8f2892ab",
+   "enunciado": "751afd8295ac",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q03-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Os aparelhos televisores se multiplicam nas resi",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q03-apoio-01.jpg",
+     2,
+     [
+      344.2,
+      209.4,
+      543.5,
+      381.6
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q04": {
+   "alternativas": [
+    "c081d9d1ea8c",
+    "b9cc04637cc3",
+    "da4b42ad6108",
+    "b2e86c0241f8",
+    "e456f2929328"
+   ],
+   "apoio": "023f05df3703",
+   "credito": "1913b5f01ef1",
+   "enunciado": "2b79dfb723a6",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os Rotschilds foi produzido na Alemanha nazista.",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q05": {
+   "alternativas": [
+    "d9bb1c7ba21b",
+    "5f5769fc119c",
+    "25a305e831de",
+    "b74e7fd5acbc",
+    "59f82adfa663"
+   ],
+   "apoio": "43ce40275fb5",
+   "credito": "56d986624c98",
+   "enunciado": "632b07dcfb59",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A frase do último presidente do regime militar i",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q06": {
+   "alternativas": [
+    "cc6cee5f8841",
+    "4ce039bf5fbc",
+    "7d7bf9005896",
+    "1974a7e787f9",
+    "6513d2fdf91a"
+   ],
+   "apoio": "f3e3b7fc96f6",
+   "credito": "d3abfaba626a",
+   "enunciado": "072101a6236a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Platão e Aristóteles marcaram profundamente a fo",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q07": {
+   "alternativas": [
+    "b350b50bac0a",
+    "c0b4392fc284",
+    "844b2e30e50d",
+    "f45bb6cb5072",
+    "a9e6e92dd420"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "cc446b5d6e90",
+   "enunciado": "c48ad92f3ce5",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q07-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com algumas teorias políticas, a forma",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q07-apoio-01.jpg",
+     4,
+     [
+      93.5,
+      92.0,
+      534.6,
+      253.5
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q08": {
+   "alternativas": [
+    "df6a6a1f22e8",
+    "4894722ed3e1",
+    "a8b41495cb5f",
+    "fb79a014a6c5",
+    "f515fdfb102a"
+   ],
+   "apoio": "a2e43d346ead",
+   "credito": "32b36d35114f",
+   "enunciado": "f75230fec52b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O conceito de deliberação tratado por Aristótele",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q09": {
+   "alternativas": [
+    "4f1a177277c6",
+    "8892c31441cb",
+    "bf64ab8494ae",
+    "83eb4aa7c1f1",
+    "43f18299aa8b"
+   ],
+   "apoio": "6f602b4d3684",
+   "credito": "a4b0b67a8e72",
+   "enunciado": "3bd1e54c52fe",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, está relatado um exemplo de exercício ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q10": {
+   "alternativas": [
+    "1a8c238d5b7c",
+    "ab038397108f",
+    "decdb27b1aed",
+    "dc00f1e7b7d7",
+    "cd7113a96a1d"
+   ],
+   "apoio": "ff24f7d2021e",
+   "credito": "3335bd3119cd",
+   "enunciado": "631949216bf7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O movimento das Mães da Praça de Maio foi criado",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q11": {
+   "alternativas": [
+    "1ede857096dd",
+    "cdec357f1adf",
+    "866d976a4d60",
+    "1d683454f951",
+    "7e7ceb1fce04"
+   ],
+   "apoio": "b60c6712fd39",
+   "credito": "7423be8ab7c6",
+   "enunciado": "3a882c96bfab",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Compartilhando da avaliação presente no texto, v",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q12": {
+   "alternativas": [
+    "34cb497ef025",
+    "56e05395a6b1",
+    "63892f430ab8",
+    "8330baca2887",
+    "e14f1815c7ec"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "e1e962089633",
+   "enunciado": "135d3f36d607",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q12-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Cada uma das personagens adota uma forma diferen",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q12-apoio-01.jpg",
+     5,
+     [
+      92.7,
+      469.1,
+      534.5,
+      599.1
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q13": {
+   "alternativas": [
+    "d22699240c43",
+    "11d1c01e10d1",
+    "42cff5d6548d",
+    "33d8894e223f",
+    "d09e9739f799"
+   ],
+   "apoio": "b832352cf72d",
+   "credito": "c840c2bffee2",
+   "enunciado": "d84210316e9b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O Taylorismo apresentou-se como um importante mo",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q14": {
+   "alternativas": [
+    "1f14654bb31e",
+    "49d4aec37fa7",
+    "ca66268ae164",
+    "01b39099083d",
+    "3b3fc9239ab9"
+   ],
+   "apoio": "7550a9c7176b",
+   "credito": "b609da554e77",
+   "enunciado": "f9c85a67267a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A estratégia produtiva adotada pela empresa, que",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q15": {
+   "alternativas": [
+    "c79155cb236c",
+    "29b6c14bd5f6",
+    "0fdf759d90af",
+    "f076fc6bb4ed",
+    "d12317c8a1eb"
+   ],
+   "apoio": "bb4a6ada2bfb",
+   "credito": "54e314ad79f0",
+   "enunciado": "e0db85ff995a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os aspectos destacados no texto que diferenciam ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q16": {
+   "alternativas": [
+    "398c16761d78",
+    "84e3c79739ef",
+    "0e93cdd04fb3",
+    "3de16997b32c",
+    "4447c281987f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "1cbd87f20ea8",
+   "enunciado": "aa2653bf9045",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q16-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A imagem registra uma especificidade do contexto",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q16-apoio-01.jpg",
+     7,
+     [
+      60.4,
+      100.4,
+      306.7,
+      264.2
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q17": {
+   "alternativas": [
+    "3d393cb856a4",
+    "1a51bfe8f5ac",
+    "50c5fa2e27ae",
+    "dc9f8b27a4d0",
+    "6bd5dec9d15a"
+   ],
+   "apoio": "c4299a8ab643",
+   "credito": "49c930e4fbab",
+   "enunciado": "c49385b2cd94",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, é feita referência a um momento do des",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q18": {
+   "alternativas": [
+    "7e3433f0b103",
+    "312523b9d95a",
+    "aa82bc53ccc8",
+    "806e58a9351c",
+    "74b3dafc7303"
+   ],
+   "apoio": "e7f44768ede1",
+   "credito": "040b115c116b",
+   "enunciado": "659059b3e47f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, em um Estado de direito",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q19": {
+   "alternativas": [
+    "633407cb8145",
+    "12e0ed9c41a3",
+    "02744c0ea1be",
+    "c9d6643b9c93",
+    "a591f3c5a588"
+   ],
+   "apoio": "e5ea72617c1f",
+   "credito": "42e12347b9f8",
+   "enunciado": "04e19a4932e4",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse processo de acumulação de riquezas no Ocide",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q20": {
+   "alternativas": [
+    "0a446d61adef",
+    "2f60a0c56fce",
+    "b6ea3550f0f9",
+    "1c9c17eac1b3",
+    "fe1378bfbf02"
+   ],
+   "apoio": "b9b48572fc03",
+   "credito": "723017c07fd0",
+   "enunciado": "ee11d254c727",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O esperanto, inventado no século XIX, é a língua",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q21": {
+   "alternativas": [
+    "0b6177954134",
+    "848e77de1888",
+    "af93856d63e2",
+    "566bc05f0c0f",
+    "1a38b335087b"
+   ],
+   "apoio": "9b4782f8cdf8",
+   "credito": "c2a40716b749",
+   "enunciado": "557067bf5cd4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As lutas pelo direito à acessibilidade, movidas,",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q22": {
+   "alternativas": [
+    "d6e4b6fcd3a9",
+    "fc5c1de413b2",
+    "1fc7b7a87a77",
+    "95fad6e20764",
+    "e440586b5e2c"
+   ],
+   "apoio": "36799f7144a9",
+   "credito": "f621b2223169",
+   "enunciado": "54b7a0753e70",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A visão de Rousseau em relação à natureza humana",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q23": {
+   "alternativas": [
+    "9f74ade664f3",
+    "3378f514d26a",
+    "44564e3ab5f7",
+    "10c5049eb074",
+    "9b1c01207446"
+   ],
+   "apoio": "22202da1a2d8",
+   "credito": "704d6ef236f7",
+   "enunciado": "113a9c5522d6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo o texto, a produção açucareira no Brasil",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q24": {
+   "alternativas": [
+    "25be0b228fc2",
+    "309987cce937",
+    "3d7bf4bfc545",
+    "f43ff2192222",
+    "351e6016df3d"
+   ],
+   "apoio": "31847a33236c",
+   "credito": "e3c4438fdb42",
+   "enunciado": "ee49eef7d655",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ao reelaborarem a lógica social vigente na metró",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q25": {
+   "alternativas": [
+    "192453bf4812",
+    "aa0c6459f514",
+    "3d57a159327e",
+    "9fb6e4630d93",
+    "5f9450d524c1"
+   ],
+   "apoio": "9b50a064bd83",
+   "credito": "b568d01b1aab",
+   "enunciado": "151062e13185",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo Joaquim Nabuco, a solução do problema es",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q26": {
+   "alternativas": [
+    "9a9538029909",
+    "104482da9f1d",
+    "1a5c7b9adcad",
+    "e9fb97894ed4",
+    "6f5e8b98d3ec"
+   ],
+   "apoio": "4dfe99d1c1b7",
+   "credito": "739e4cf3c870",
+   "enunciado": "071d6ea32374",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto contém a descrição de um bem cultural qu",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q27": {
+   "alternativas": [
+    "d36eb23a80d2",
+    "095a5077b7ea",
+    "a74ddfadb6f7",
+    "696b5825c5e7",
+    "8b32f687c179"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "f39156d785ab",
+   "enunciado": "88a37684a39d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q27-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O desenho retrata a fazenda de São Joaquim da Gr",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q27-apoio-01.jpg",
+     9,
+     [
+      318.6,
+      417.1,
+      568.8,
+      548.8
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q28": {
+   "alternativas": [
+    "c875426b5b56",
+    "85cc904ea1dd",
+    "dc6f0d1334a7",
+    "2e99e4142de0",
+    "2904d8b9a525"
+   ],
+   "apoio": "434d575f7613",
+   "credito": "f966d8c25a36",
+   "enunciado": "14d791288a16",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Dráuzio Varella discute a associação entre doenç",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q29": {
+   "alternativas": [
+    "6cf271ec8880",
+    "ec7a774045ec",
+    "27fb18d4332a",
+    "2d73a5bc8eea",
+    "6f5acc095a1b"
+   ],
+   "apoio": "df53f59a3b2b",
+   "credito": "a75202b01d5a",
+   "enunciado": "3a4654234b3e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O texto, extraído da carta escrita por Galileu (",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q30": {
+   "alternativas": [
+    "4c827c8a0eff",
+    "e56e8663bb1c",
+    "f6dd7d53b67e",
+    "e7e10edf13ea",
+    "d7d4f2259830"
+   ],
+   "apoio": "0a2526fb108c",
+   "credito": "6dd20d682a05",
+   "enunciado": "995bb3060d9b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os versos da composição remetem à condição das m",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q31": {
+   "alternativas": [
+    "e19b689174f7",
+    "102a79d7bc30",
+    "71ec7ee58814",
+    "f00ddab91aed",
+    "98396367ee74"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "582ef4ff4085",
+   "enunciado": "6d012865a677",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q31-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O arrojado projeto arquitetônico e urbanista da ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q31-apoio-01.jpg",
+     10,
+     [
+      325.7,
+      407.0,
+      561.3,
+      591.8
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q32": {
+   "alternativas": [
+    "6df3850a89c8",
+    "83fed4722ee7",
+    "0105bc21fc8b",
+    "427c210f6711",
+    "fa4b97ca3b6e"
+   ],
+   "apoio": "60ed45d5e5e3",
+   "credito": "7304937feda8",
+   "enunciado": "de7194dc1c5b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O que representam encontros como o ocorrido na B",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q33": {
+   "alternativas": [
+    "0b21b65c75ed",
+    "7e957cb40c11",
+    "1e044f1a0a8f",
+    "61503fb47e64",
+    "4caf8a8f5ace"
+   ],
+   "apoio": "6c825c411f70",
+   "credito": "fa9c7239254d",
+   "enunciado": "f3eb1f47a1d6",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma causa para a mudança verificada no consumo d",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q34": {
+   "alternativas": [
+    "bb29cfa443dd",
+    "3e39bcbc3ac2",
+    "6e08c1c9ac76",
+    "463ddeceeae8",
+    "56b724a02617"
+   ],
+   "apoio": "eeb7fac331e6",
+   "credito": "5e03797e2630",
+   "enunciado": "16dd51d00a57",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A existência de práticas de exploração mineral p",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q35": {
+   "alternativas": [
+    "6f3475bc42fc",
+    "507453c005ff",
+    "13f81c44ccf4",
+    "115e4087bcc3",
+    "57b870521282"
+   ],
+   "apoio": "b78fcd6a30db",
+   "credito": "04b7814468d0",
+   "enunciado": "a52fb62f30ca",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os efeitos da urbanização sobre os corpos hídric",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q36": {
+   "alternativas": [
+    "39f9276ec040",
+    "f2058f09927a",
+    "38b50deee274",
+    "c95d11efcdc8",
+    "436b756bd90c"
+   ],
+   "apoio": "6db22fbb758c",
+   "credito": "5241c0bee7ab",
+   "enunciado": "2173f9a81fdd",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No texto, são apresentados fundamentos da políti",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q37": {
+   "alternativas": [
+    "9e4ff4669944",
+    "75d6dbe21eb5",
+    "a998cfe82080",
+    "2131b7769ed9",
+    "fba9144caa8f"
+   ],
+   "apoio": "76a3b4c5b36e",
+   "credito": "7e545c101972",
+   "enunciado": "f87900c4d0de",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q37-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O mapa representa um problema ambiental que tem ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q37-apoio-01.jpg",
+     12,
+     [
+      60.6,
+      426.5,
+      307.9,
+      595.3
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q38": {
+   "alternativas": [
+    "1e09093788b2",
+    "3e4aefb9dc7c",
+    "213da9ba1e13",
+    "24cbbd187370",
+    "d23f4fed5ee8"
+   ],
+   "apoio": "252722d4fa62",
+   "credito": "759de123e389",
+   "enunciado": "dd50d8326ed2",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Como São Paulo, todo o Brasil sofre com o proble",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q39": {
+   "alternativas": [
+    "d1ead0706e7d",
+    "9574b7398b4f",
+    "7c3a3debf17a",
+    "bc412ad53faf",
+    "997f08132085"
+   ],
+   "apoio": "7758c41c0521",
+   "credito": "8b861f55a10b",
+   "enunciado": "912dacf7acd4",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os textos apresentados expressam alteração na re",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q40": {
+   "alternativas": [
+    "4bbc22795f0d",
+    "39f8634bc299",
+    "3c3f6391270f",
+    "6c922275ba6b",
+    "295385663ce3"
+   ],
+   "apoio": "896f940e88bf",
+   "credito": "d4306bbf0a47",
+   "enunciado": "3b386ba732f6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um dos fenômenos climáticos conhecidos no planet",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q41": {
+   "alternativas": [
+    "189fcf0debf6",
+    "3f6203b60aaf",
+    "3dfd28177145",
+    "305c2d32c8e6",
+    "efa68a73ea92"
+   ],
+   "apoio": "5e2d77da7891",
+   "credito": "ce33c842ec77",
+   "enunciado": "ffed653763c8",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o debate apresentado no texto, e v",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q42": {
+   "alternativas": [
+    "c91f890ef742",
+    "071085274039",
+    "85726cae602c",
+    "58c1240ff098",
+    "cdbf44b90841"
+   ],
+   "apoio": "07403fd5bb62",
+   "credito": "9c9281d1d405",
+   "enunciado": "f63d709c0db1",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em relação aos efeitos da decisão da empresa, um",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q43": {
+   "alternativas": [
+    "dec2ad10ee2f",
+    "330b87d94db1",
+    "068819ef3c99",
+    "b6192e0eb4dc",
+    "1537b5c12a72"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "83f0d5019c0b",
+   "enunciado": "f97872acec9d",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q43-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O gráfico divulgado pela Associação por Vias Seg",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q43-apoio-01.png",
+     13,
+     [
+      320.6,
+      452.4,
+      567.3,
+      558.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q44": {
+   "alternativas": [
+    "da7709b9bf2b",
+    "d30cd8f7e868",
+    "c7879483247d",
+    "7acd276da03b",
+    "580b57455215"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "148a221004c1",
+   "enunciado": "d4bbebce4990",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q44-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A figura representada por Charles Chaplin critic",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q44-apoio-01.jpg",
+     14,
+     [
+      93.8,
+      95.8,
+      274.6,
+      369.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q45": {
+   "alternativas": [
+    "5d039eff3444",
+    "5bd7a08faa30",
+    "e7732d63ac49",
+    "9c01510bf74c",
+    "10242dfe1b03"
+   ],
+   "apoio": "3e385106f5c7",
+   "credito": "8e6fe93cf00c",
+   "enunciado": "a4caafc8160b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Estão sugeridas nos textos duas situações de exc",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q46": {
+   "alternativas": [
+    "859d6d176b86",
+    "7947781201cc",
+    "1fe354299ed7",
+    "be77ae86ad0b",
+    "25e87a5fa06d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ce0bf503a1cd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No manual de uma máquina de lavar, o usuário vê ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q47": {
+   "alternativas": [
+    "debd84500eca",
+    "ff37c0c76ee9",
+    "549f4ccde743",
+    "9d2d1f4e88bb",
+    "a14d815fb9c9"
+   ],
+   "apoio": "3a9ec150790d",
+   "credito": "923f1202b818",
+   "enunciado": "3343aa460954",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O vegetal que apresenta maior eficiência no proc",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q48": {
+   "alternativas": [
+    "78f089d5ee51",
+    "b1db583a8b3e",
+    "92c596f91106",
+    "5cb81d1555c2",
+    "1240202be978"
+   ],
+   "apoio": "e293042d11cf",
+   "credito": "4ef1aa6cdd17",
+   "enunciado": "fe5585274615",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-B-01.png"
+    ],
+    "D": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-D-01.png"
+    ]
+   },
+   "previa": "Um esquema de cidade que pretende atender a esse",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-A-01.png",
+     15,
+     [
+      379.8,
+      236.4,
+      512.5,
+      306.2
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-B-01.png",
+     15,
+     [
+      380.1,
+      350.2,
+      566.1,
+      413.9
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q48-alt-D-01.png",
+     15,
+     [
+      380.9,
+      565.0,
+      557.7,
+      635.4
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q49": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e896baef2465",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-E-01.png"
+    ]
+   },
+   "previa": "Um eletricista precisa medir a resistência elétr",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-A-01.png",
+     16,
+     [
+      107.5,
+      238.2,
+      182.1,
+      333.8
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-B-01.png",
+     16,
+     [
+      96.9,
+      363.3,
+      193.5,
+      436.3
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-C-01.png",
+     16,
+     [
+      107.3,
+      465.6,
+      183.5,
+      537.3
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-D-01.png",
+     16,
+     [
+      107.1,
+      572.2,
+      183.3,
+      644.0
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q49-alt-E-01.png",
+     16,
+     [
+      102.4,
+      678.8,
+      188.1,
+      750.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q50": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "19a994182231",
+   "credito": "96ce6a456dd7",
+   "enunciado": "fea37246844d",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-E-01.png"
+    ]
+   },
+   "previa": "De acordo com o texto, qual dos polímeros seguin",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-A-01.png",
+     16,
+     [
+      366.2,
+      315.6,
+      540.5,
+      344.3
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-B-01.png",
+     16,
+     [
+      365.5,
+      371.6,
+      541.1,
+      399.4
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-C-01.png",
+     16,
+     [
+      348.2,
+      424.8,
+      559.0,
+      455.5
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-D-01.png",
+     16,
+     [
+      374.0,
+      479.5,
+      527.3,
+      525.7
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q50-alt-E-01.png",
+     16,
+     [
+      362.6,
+      550.2,
+      544.1,
+      588.1
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q51": {
+   "alternativas": [
+    "1df752a4516e",
+    "894502e1a772",
+    "2338e171f493",
+    "3f13adcb55cb",
+    "fde4a8143e8b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4ee584f5092c",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Charles R. Darwin (1809-1882) apresentou em 1859",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q52": {
+   "alternativas": [
+    "45ce260bf119",
+    "11005669a70e",
+    "6c77233f5e09",
+    "e5b33ef9b6ba",
+    "38572a28511a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "968ab886de9d",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em dias com baixas temperaturas, as pessoas util",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q53": {
+   "alternativas": [
+    "9eaf064d2944",
+    "1c73ce7f8aec",
+    "b7f5e5f1eea5",
+    "a94932f37e60",
+    "26f363e65dd7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9f65a164b378",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q53-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O quadro apresenta o teor de cafeína em diferent",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q53-apoio-01.png",
+     17,
+     [
+      320.1,
+      134.5,
+      566.9,
+      248.5
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q54": {
+   "alternativas": [
+    "51294160a708",
+    "6649219a0192",
+    "88357c8c0917",
+    "56cb99e34719",
+    "33e382a39b2b"
+   ],
+   "apoio": "e27a4d850373",
+   "credito": "a87dc27c68d4",
+   "enunciado": "e7fbc6f080a3",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q54-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações e na figura, o elo da c",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q54-apoio-01.jpg",
+     18,
+     [
+      65.4,
+      173.0,
+      302.9,
+      321.2
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q55": {
+   "alternativas": [
+    "fb5ed18d9350",
+    "cf6408cda959",
+    "1d5f315f19e9",
+    "f45f1fe26100",
+    "a0d162deaf32"
+   ],
+   "apoio": "2a9a27590780",
+   "credito": "dd2d28476223",
+   "enunciado": "24fac40614e7",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q55-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A profundidade de até 2 mm em que o tratamento c",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q55-apoio-01.jpg",
+     18,
+     [
+      332.7,
+      230.1,
+      555.2,
+      386.9
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q56": {
+   "alternativas": [
+    "db7f864b2501",
+    "aa8b605a7ae2",
+    "3ede40f30ce0",
+    "5f1438f63f29",
+    "b5a47fbd3dfb"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8f41992c022c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Diversos estudos têm sido desenvolvidos para enc",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q57": {
+   "alternativas": [
+    "affb350ede2a",
+    "e1bf4f62e61e",
+    "0624b52ac718",
+    "226ac50dd6ac",
+    "18aa9a96992f"
+   ],
+   "apoio": "d088628b2c01",
+   "credito": "adfde66d8c71",
+   "enunciado": "6f0a749372f3",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O benefício dessa nova tecnologia, em comparação",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q58": {
+   "alternativas": [
+    "5de417916b27",
+    "583cc9d39594",
+    "d1ea1dd5fbe0",
+    "2b089e6bf81b",
+    "f6efcfbaa013"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "52258aedd033",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Chuveiros elétricos possuem uma chave para regul",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q59": {
+   "alternativas": [
+    "553ed6ab05c6",
+    "fd44f1a95258",
+    "41a12505b56f",
+    "65cddcb1c871",
+    "715b21c08ac8"
+   ],
+   "apoio": "a43e64b1103a",
+   "credito": "6a7fc7715cb3",
+   "enunciado": "e64f664bec48",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q59-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando o processo de reciclagem do PET, pa",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q59-apoio-01.png",
+     19,
+     [
+      369.9,
+      273.7,
+      531.8,
+      356.2
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q60": {
+   "alternativas": [
+    "58a66700d26a",
+    "9a263e6cf33f",
+    "75ab3bb4d2d4",
+    "3c4073d42256",
+    "002a8b847e1a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5dac95eed6fb",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q60-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Na investigação de paternidade por análise de DN",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q60-apoio-01.png",
+     20,
+     [
+      60.4,
+      222.4,
+      305.6,
+      495.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q61": {
+   "alternativas": [
+    "6b0b39183600",
+    "612b1b8ad723",
+    "ca21c6912d23",
+    "50a5ed7516f1",
+    "78d4df3e65a2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a8f25d30fc5f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com o aumento da demanda por alimentos e a abert",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q62": {
+   "alternativas": [
+    "a987245ea4c2",
+    "8eee84e59c89",
+    "da363f4164e8",
+    "3a2f5cfbea0e",
+    "ecc1250d6859"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d051312b5f1f",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q62-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os tecidos animais descritos no quadro são forma",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q62-apoio-01.png",
+     20,
+     [
+      320.1,
+      415.7,
+      567.3,
+      638.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q63": {
+   "alternativas": [
+    "1adb1d0be52e",
+    "36cc0525e86d",
+    "60bc11572b84",
+    "b31a8fb54356",
+    "2bb2cb172f12"
+   ],
+   "apoio": "bc206c3c1513",
+   "credito": "17215a03bdd7",
+   "enunciado": "37f9ee3c7fe3",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q63-apoio-01.jpg",
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q63-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para permitir a ocorrência do fato observado na ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q63-apoio-01.jpg",
+     21,
+     [
+      107.2,
+      99.4,
+      520.4,
+      236.2
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q63-apoio-02.png",
+     21,
+     [
+      60.4,
+      264.3,
+      566.4,
+      320.9
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q64": {
+   "alternativas": [
+    "3304185d82fc",
+    "8e819dedbc74",
+    "93ba80e136fd",
+    "703f522e5b86",
+    "74a7d2817ccf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "55a587b237c0",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O freio ABS é um sistema que evita que as rodas ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q65": {
+   "alternativas": [
+    "795eb742c151",
+    "410beeb58726",
+    "b4a1a516d8a3",
+    "438de9348e7e",
+    "e3b6fff10488"
+   ],
+   "apoio": "de2bdb996479",
+   "credito": "980066928253",
+   "enunciado": "6695cc073554",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q65-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Além do risco de acidentes, como o referenciado ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q65-apoio-01.jpg",
+     22,
+     [
+      85.0,
+      120.1,
+      284.3,
+      277.3
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q66": {
+   "alternativas": [
+    "065ae2bed549",
+    "fb58dc14ed8b",
+    "a5ef62994941",
+    "10bbd009f257",
+    "c1ee16afb88d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "39819ecc3df4",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A vesícula biliar é um órgão muscular onde a bil",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q67": {
+   "alternativas": [
+    "1b3a4920fcd3",
+    "dc9e74b2e057",
+    "f35e73e7bec2",
+    "874d71765ea7",
+    "4a67ea1903b8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5ef8fcef06bd",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em 1543, Nicolau Copérnico publicou um livro rev",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q68": {
+   "alternativas": [
+    "2e6a23044065",
+    "211e84fd81a3",
+    "35685a0046d9",
+    "e8c44635c8ce",
+    "ead33acdc490"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0c33d76e213d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q68-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Após a redescoberta do trabalho de Gregor Mendel",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q68-apoio-01.png",
+     23,
+     [
+      61.0,
+      232.0,
+      307.4,
+      349.4
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q69": {
+   "alternativas": [
+    "2af75bc631e8",
+    "8a6089d29a2b",
+    "8889f14c9ace",
+    "5a1e8b709c5f",
+    "6c94369c1d82"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a44ae585e4ad",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A usina termelétrica a carvão é um dos tipos de ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q70": {
+   "alternativas": [
+    "15d96b2ad137",
+    "4a6c655589bc",
+    "811dcf5c7a33",
+    "12dccb827da2",
+    "32c78496bdee"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0819745dc9ec",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q70-apoio-01.png",
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q70-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os fornos domésticos de micro-ondas trabalham co",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q70-apoio-01.png",
+     24,
+     [
+      60.5,
+      237.1,
+      307.9,
+      324.3
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q70-apoio-02.png",
+     24,
+     [
+      60.9,
+      334.5,
+      307.5,
+      421.7
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q71": {
+   "alternativas": [
+    "2ccf05281604",
+    "6551013605b2",
+    "78a0c97a7458",
+    "350895f30200",
+    "66c2edec9fad"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e468c7d1b82a",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O DNA (ácido desoxirribonucleico), material gené",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q72": {
+   "alternativas": [
+    "414d0ff6a8ad",
+    "16b4f73ee001",
+    "f3b58b988d00",
+    "89b5a106ee61",
+    "7cfb17547540"
+   ],
+   "apoio": "daad2e2a188f",
+   "credito": "a0bdada22e3d",
+   "enunciado": "04c2ac5a54bd",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q72-apoio-01.png",
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q72-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os aquecedores solares mais eficientes e, portan",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q72-apoio-01.png",
+     25,
+     [
+      61.2,
+      329.0,
+      307.2,
+      401.1
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q72-apoio-02.png",
+     25,
+     [
+      60.3,
+      419.1,
+      308.1,
+      584.8
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q73": {
+   "alternativas": [
+    "b2086baf5589",
+    "5b4902759bcb",
+    "25e92309ec76",
+    "fc10f61841b7",
+    "cd953df2044c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "37310ba452a5",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q73-apoio-01.png",
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q73-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em apresentações musicais realizadas em espaços ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q73-apoio-01.png",
+     25,
+     [
+      319.6,
+      172.7,
+      568.7,
+      185.5
+     ]
+    ],
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q73-apoio-02.png",
+     25,
+     [
+      319.6,
+      201.7,
+      568.7,
+      214.5
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q74": {
+   "alternativas": [
+    "7ebbc39f2b6d",
+    "d956261e5b7a",
+    "304d75de9f59",
+    "cbcb9b9543e6",
+    "ef3680aa2ba6"
+   ],
+   "apoio": "ccb3fd6009bc",
+   "credito": "a02435f573bd",
+   "enunciado": "62fb668cbcd7",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q74-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações do texto, a natureza da",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q74-apoio-01.jpg",
+     26,
+     [
+      86.7,
+      140.7,
+      541.5,
+      250.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q75": {
+   "alternativas": [
+    "d90730a00aa2",
+    "f415f74522ea",
+    "e347a081bb9e",
+    "7c97b7a34ab8",
+    "ed97f57ba4f3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "32ff05377afe",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q75-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um dos métodos de produção de biodiesel envolve ",
+   "recortes": [
+    [
+     "/questoes/2012/ppl/dia1/enem-2012-ppl-d1-q75-apoio-m01.png",
+     26,
+     [
+      53.5,
+      479.0,
+      566.5,
+      561.0
+     ]
+    ]
+   ]
+  },
+  "enem-2012-ppl-d1-q76": {
+   "alternativas": [
+    "5159c66946d1",
+    "1f924ded653c",
+    "604c4a447ac8",
+    "3f3a0cb0421b",
+    "66c5895025f2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "baa6eccc52e2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere a seguinte cadeia alimentar em um ambi",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q77": {
+   "alternativas": [
+    "9ccd6861aaf7",
+    "43ca8eca0027",
+    "e084a9584169",
+    "e9052f745d01",
+    "78530858ff10"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0e26e3ff0110",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante uma faxina, a mãe pediu que o filho a aj",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q78": {
+   "alternativas": [
+    "7ac150361277",
+    "0dff00556dec",
+    "25b42d26d6d7",
+    "000ede33960d",
+    "9b4b0747b49b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2d427acad6ed",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um experimento, coloca-se glicerina dentro de",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q79": {
+   "alternativas": [
+    "39728d7ec729",
+    "0a04d54d08e3",
+    "34df90236b10",
+    "6e062e4a4aa4",
+    "3df82ebc8561"
+   ],
+   "apoio": "e4dd7dfed734",
+   "credito": "e7dfc4cbf4ef",
+   "enunciado": "84b51d6adca7",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considerando o processo descrito com um rendimen",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q80": {
+   "alternativas": [
+    "558982c3ceb9",
+    "39bbc0a9662e",
+    "79d45b6fb894",
+    "4013c2103d09",
+    "1c0e1f3cc9f9"
+   ],
+   "apoio": "c4597f737e14",
+   "credito": "d8e32a1a9e97",
+   "enunciado": "3e261fa8a4db",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com o emprego dessa técnica, o número de casos d",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q81": {
+   "alternativas": [
+    "7f0c897c5fb9",
+    "8803404b02b5",
+    "3b1994ba33c0",
+    "4dca5ba2de96",
+    "6c4afac25a29"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d9fae60a7538",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A grafita é uma variedade alotrópica do carbono.",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q82": {
+   "alternativas": [
+    "fad4a7a352a5",
+    "bb2aa9009c4b",
+    "3510a759ffc8",
+    "f9c0b67a051d",
+    "1b8d5ee74d25"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a3235f11410b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para preparar uma massa básica de pão, deve-se m",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q83": {
+   "alternativas": [
+    "f7d0f7e90f97",
+    "0676d0a88ad6",
+    "a26cd095507c",
+    "66aee5d94f71",
+    "4b06eb523bc3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d7af02d30160",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para afinar um violão, um músico necessita de um",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q84": {
+   "alternativas": [
+    "fdf5f4d7b2b6",
+    "6655a52ecc59",
+    "286df875f0a7",
+    "6148d35c7d33",
+    "872f85102143"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6da2869ff6c3",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Alimentos como carnes, quando guardados de manei",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q85": {
+   "alternativas": [
+    "5986457929fa",
+    "d72725588f79",
+    "22c1f066e84b",
+    "366f5906610d",
+    "d72393ba93b2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1b3a4a9065ad",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Motores a combustão interna apresentam melhor re",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q86": {
+   "alternativas": [
+    "c3849a80ff10",
+    "e8d900e52f33",
+    "4b5d3d87aa02",
+    "615961c475ff",
+    "aab66517e423"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "47a5ab301ed1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um automóvel, em movimento uniforme, anda por um",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q87": {
+   "alternativas": [
+    "74f50b9bebbb",
+    "5a10287f0cef",
+    "09725a004fc3",
+    "351b557e2b30",
+    "1ef723bf16e5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4e6f6a876dcc",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Ácido muriático (ou ácido clorídrico comercial) ",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q88": {
+   "alternativas": [
+    "7f2290e84242",
+    "070d8746e779",
+    "22cc9da9b7d4",
+    "d7daba3910f6",
+    "f59244627204"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "abbe6cb15611",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A vegetação do cerrado é constituída por árvores",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q89": {
+   "alternativas": [
+    "ad3744b54df3",
+    "7365e086f856",
+    "383d5653684b",
+    "bd74bf1d54d7",
+    "3eb73c2547b0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "07c84611e320",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A instalação de uma indústria de processamento d",
+   "recortes": []
+  },
+  "enem-2012-ppl-d1-q90": {
+   "alternativas": [
+    "7eead63d302d",
+    "0abeadbb20a3",
+    "6ce03ff968b2",
+    "7e9391fb34d5",
+    "72d1a5d70d67"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b55289e7a85b",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um centro de pesquisa de alimentos, um técnic",
+   "recortes": []
+  }
+ }
+}

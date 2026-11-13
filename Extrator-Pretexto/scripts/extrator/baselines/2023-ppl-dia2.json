@@ -1,0 +1,2480 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2023",
+ "perfil": "motor v2023",
+ "questoes": {
+  "enem-2023-ppl-d2-q100": {
+   "alternativas": [
+    "b660e09c8bcf",
+    "303aeedaea20",
+    "e05b53d23d22",
+    "5e07412203ba",
+    "a1de8e5adf35"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fbd4d1487fe6",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q100-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A crescente facilidade para aquisição de aeroger",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q100-apoio-01.png",
+     5,
+     [
+      291.5,
+      224.2,
+      533.4,
+      342.0
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q101": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7cfc3171c9fb",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q101-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com o objetivo de demonstrar a transferência de ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q101-apoio-01.png",
+     6,
+     [
+      34.1,
+      178.1,
+      274.9,
+      268.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q102": {
+   "alternativas": [
+    "28b887fcf023",
+    "6e2448049b8b",
+    "e7c41be7c3dc",
+    "5c402be51846",
+    "c36a398a89ac"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "769537b7f508",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um fabricante de eletrodomésticos desenvolveu um",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q103": {
+   "alternativas": [
+    "56c6a01d0507",
+    "b6831de522d4",
+    "4823e90af28f",
+    "557d4dff75ba",
+    "3bb54302aba8"
+   ],
+   "apoio": "4b4a27acd70d",
+   "credito": "4a6f9f0cac4b",
+   "enunciado": "0f452f520565",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-01.jpg",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-02.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O escurecimento desse tipo de lente ocorre porqu",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-01.jpg",
+     6,
+     [
+      303.1,
+      139.4,
+      507.5,
+      309.1
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-02.png",
+     6,
+     [
+      381.2,
+      423.0,
+      535.5,
+      510.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q103-apoio-03.png",
+     6,
+     [
+      289.4,
+      423.5,
+      367.3,
+      502.6
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q104": {
+   "alternativas": [
+    "71adc65353c3",
+    "2da45dbea508",
+    "a7fa9ee3ed96",
+    "b47ffceac22e",
+    "50295aaac7f0"
+   ],
+   "apoio": "c4e3c7a38cfa",
+   "credito": "b448a763230b",
+   "enunciado": "561282ba58ed",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ar que sai do turbo está em alta temperatura p",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q105": {
+   "alternativas": [
+    "669b14065723",
+    "6e2448049b8b",
+    "9c10947a7cc3",
+    "b592111c90cd",
+    "b22ca643c1b8"
+   ],
+   "apoio": "ddf8fa666767",
+   "credito": "177548e616b3",
+   "enunciado": "a94c51e870d8",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O volume aproximado, em litro, da bateria de lít",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q106": {
+   "alternativas": [
+    "a659ffa36d20",
+    "bf99266f645c",
+    "0a58534810e3",
+    "eb2307a6e2fb",
+    "222568f81922"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c5da5d33d824",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Duas pessoas saem de suas casas para se exercita",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q107": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "457691819067",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-E-01.png"
+    ]
+   },
+   "previa": "Dois operários deslizam uma pedra, para cima, so",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-apoio-01.png",
+     8,
+     [
+      106.9,
+      138.9,
+      459.8,
+      284.1
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-A-01.png",
+     8,
+     [
+      55.3,
+      314.9,
+      189.9,
+      383.5
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-B-01.png",
+     8,
+     [
+      56.7,
+      397.5,
+      192.8,
+      474.2
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-C-01.png",
+     8,
+     [
+      54.9,
+      484.4,
+      191.8,
+      560.0
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-D-01.png",
+     8,
+     [
+      55.3,
+      567.1,
+      194.7,
+      637.6
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q107-alt-E-01.png",
+     8,
+     [
+      53.6,
+      650.8,
+      192.4,
+      720.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q108": {
+   "alternativas": [
+    "f89be250f9a1",
+    "b9551c929a4c",
+    "1506d26be5a6",
+    "50a5ed7516f1",
+    "5e3f48c3bb97"
+   ],
+   "apoio": "a11602b2bf0d",
+   "credito": "9a8506dd8497",
+   "enunciado": "a24e86a1f604",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q108-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q108-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual destes compostos pode ser usado para fazer ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q108-apoio-01.png",
+     9,
+     [
+      127.5,
+      146.2,
+      195.1,
+      196.3
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q108-apoio-02.png",
+     9,
+     [
+      195.1,
+      146.2,
+      435.9,
+      196.5
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q109": {
+   "alternativas": [
+    "b33a3b11ac35",
+    "d2a69fe50040",
+    "9d7f3cc56ccc",
+    "a55b3ae31360",
+    "7d34a85094d7"
+   ],
+   "apoio": "ad557e2b3d8f",
+   "credito": "6e3d82a6b68c",
+   "enunciado": "10a03359f50f",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q109-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q109-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para evitar o rompimento da dorna por pressão, q",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q109-apoio-01.png",
+     9,
+     [
+      384.8,
+      369.4,
+      520.4,
+      571.0
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q109-apoio-02.png",
+     9,
+     [
+      46.0,
+      390.5,
+      375.3,
+      530.4
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q110": {
+   "alternativas": [
+    "ff796d4611ba",
+    "e6dbcf61635d",
+    "cba54df49b6f",
+    "09b843d25357",
+    "3b6c11a2af64"
+   ],
+   "apoio": "f6ce419a1e87",
+   "credito": "c94899ee1649",
+   "enunciado": "c8b24a27293d",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q110-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q110-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A partir dessas informações, verifica-se que",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q110-apoio-01.png",
+     10,
+     [
+      51.9,
+      196.5,
+      256.0,
+      295.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q110-apoio-02.png",
+     10,
+     [
+      31.2,
+      316.2,
+      275.9,
+      458.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q111": {
+   "alternativas": [
+    "a5c5f451e2da",
+    "5b0a057ebcfd",
+    "c99f38080f3f",
+    "e9e9f3fbb876",
+    "e1c3db477b1d"
+   ],
+   "apoio": "1c3983fa091c",
+   "credito": "0cf1b00fe5b6",
+   "enunciado": "da4980e04986",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q111-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Pela análise das estruturas químicas, o solvente",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q111-apoio-01.png",
+     10,
+     [
+      362.8,
+      224.2,
+      462.0,
+      609.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q112": {
+   "alternativas": [
+    "11a5cd5ce93f",
+    "7717bdf878f6",
+    "317a4129c09d",
+    "0e5b8bd4cc55",
+    "e58d2051d036"
+   ],
+   "apoio": "18f57ea7d877",
+   "credito": "16766b709e9d",
+   "enunciado": "022c126fe602",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A Caatinga pode ser considerada um ambiente frág",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q113": {
+   "alternativas": [
+    "c9a9980589f8",
+    "f43e8954b562",
+    "078e5f620b06",
+    "4bb450ec4c30",
+    "0f1b58f2e1f6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ee2ec209a83d",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A incapacidade de perceber certas cores é denomi",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q114": {
+   "alternativas": [
+    "18141d5e7914",
+    "766ac7cad637",
+    "73bd8dceacc5",
+    "6dfdb73dee01",
+    "ac3c346e4fe7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c94b453594e8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um homem submetido à vasectomia tem a conexão do",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q115": {
+   "alternativas": [
+    "66409b8f23ae",
+    "af92c307d7d1",
+    "203ab60a6375",
+    "739225b3f128",
+    "777b497f5492"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3a45513750f3",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q115-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A análise da atividade de dois cultivos celulare",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q115-apoio-01.png",
+     11,
+     [
+      289.4,
+      302.7,
+      535.5,
+      384.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q116": {
+   "alternativas": [
+    "9fcb0ae62c84",
+    "18d953bf82cc",
+    "ad7274107f4c",
+    "0a30fe16764d",
+    "032e081eafd2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d066cf62b8d9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No ciclo de vida de um inseto endoparasitoide, a",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q117": {
+   "alternativas": [
+    "17626853ace6",
+    "82abeeaba7ab",
+    "8044fabd8558",
+    "7b00af0a8e4f",
+    "46f2f874d88f"
+   ],
+   "apoio": "ffaf43202f40",
+   "credito": "78bb5f68ea5e",
+   "enunciado": "e03f691519a9",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q117-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O comportamento do animal no ambiente mencionado",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q117-apoio-01.jpg",
+     12,
+     [
+      31.2,
+      205.4,
+      277.8,
+      368.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q118": {
+   "alternativas": [
+    "94c130759e80",
+    "a7b82eb207ad",
+    "ba47b1862ea4",
+    "2f4a3c1d5c60",
+    "626690e7c4ed"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "00523b8259a4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Anualmente, o número de casos de dengue aumenta ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q119": {
+   "alternativas": [
+    "fd8820593330",
+    "47880a1d0fba",
+    "af5d4256c6df",
+    "f1fa2020e1cc",
+    "b9e76a55e5ce"
+   ],
+   "apoio": "640716efe7b8",
+   "credito": "00d844f3be00",
+   "enunciado": "b5f34be50070",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O procedimento que permite diminuir a quantidade",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q120": {
+   "alternativas": [
+    "e94233273b44",
+    "039db4213739",
+    "bb46ea49cd64",
+    "e02da95fd628",
+    "782cf0e7dc47"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b23a33214ec3",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q120-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Na produção do politereftalato de etileno, o PET",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q120-apoio-01.png",
+     13,
+     [
+      31.4,
+      298.5,
+      277.6,
+      386.3
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q121": {
+   "alternativas": [
+    "20565baf2a01",
+    "47f0240ba82d",
+    "9a658e42836e",
+    "f0696ebcc8b1",
+    "3d1b93bb027f"
+   ],
+   "apoio": "de0e0f2c478c",
+   "credito": "6fe71428a9e9",
+   "enunciado": "f0020ed2a575",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na primeira etapa do processo, que ocorre no ext",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q122": {
+   "alternativas": [
+    "d8be63b53f46",
+    "b480d6285d7a",
+    "a0e5f4daa996",
+    "030acfacf7ac",
+    "ddf4f6f68bb6"
+   ],
+   "apoio": "77a060d19516",
+   "credito": "ee725978fc1a",
+   "enunciado": "227d5a471ce5",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A preocupação dos astrônomos baseia-se no fato d",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q123": {
+   "alternativas": [
+    "be2b0a9326b0",
+    "dfba745bcbfe",
+    "95071fff4cd6",
+    "885c0cb37cd9",
+    "b93da0f2bb28"
+   ],
+   "apoio": "ae85e2213e22",
+   "credito": "3f731d9f78a1",
+   "enunciado": "f2d8c158b925",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q123-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O agente redutor primário responsável pela repos",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q123-apoio-01.jpg",
+     14,
+     [
+      120.5,
+      149.0,
+      471.9,
+      433.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q124": {
+   "alternativas": [
+    "5a09a909e9ac",
+    "c098dd919b1d",
+    "12e059e7dc8f",
+    "1c109a25df3a",
+    "e2f6274378e1"
+   ],
+   "apoio": "b442c9de2530",
+   "credito": "4b6f3c7317ae",
+   "enunciado": "a7135974375c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os ambientalistas consideram o uso excessivo de ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q125": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7b51a3b8a12b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-E-01.png"
+    ]
+   },
+   "previa": "Para se utilizar um controle remoto que funciona",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-A-01.png",
+     15,
+     [
+      49.4,
+      204.6,
+      143.3,
+      295.3
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-B-01.png",
+     15,
+     [
+      49.4,
+      310.9,
+      143.5,
+      401.6
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-C-01.png",
+     15,
+     [
+      49.4,
+      417.2,
+      152.3,
+      507.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-D-01.png",
+     15,
+     [
+      49.4,
+      523.5,
+      143.3,
+      614.2
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q125-alt-E-01.png",
+     15,
+     [
+      49.4,
+      629.8,
+      143.5,
+      720.5
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q126": {
+   "alternativas": [
+    "c93596cdf6bd",
+    "48b500d1b44c",
+    "721597695715",
+    "a4429668cc94",
+    "65f4e1e4b425"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2ddda2c8eaeb",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Lâmpadas incandescentes são constituídas de um f",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q127": {
+   "alternativas": [
+    "cd45083f0a14",
+    "b9551c929a4c",
+    "7ff8828d864c",
+    "93ba4abc1663",
+    "e34babb40dab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5bb2e50ab252",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q127-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q127-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O odor desagradável de peixe deve-se principalme",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q127-apoio-01.png",
+     15,
+     [
+      466.8,
+      426.6,
+      507.9,
+      455.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q127-apoio-02.png",
+     15,
+     [
+      289.7,
+      465.6,
+      535.1,
+      635.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q128": {
+   "alternativas": [
+    "f7f03c204394",
+    "ef0a4b1fc5d4",
+    "5aa3f82e6266",
+    "7e68a166ad3a",
+    "f1f444a0b42a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "52963d6bce08",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As anfetaminas são drogas sintéticas utilizadas ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q129": {
+   "alternativas": [
+    "d209e7e1d21e",
+    "96fb711d6e09",
+    "b2aa884fdd17",
+    "3716c6579721",
+    "8dd9cf347ab5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cbc2fd9eef52",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Fatores como introdução de espécies exóticas, de",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q130": {
+   "alternativas": [
+    "8bae4b26dd7a",
+    "f40c8d98ecca",
+    "bef1ec97ac4e",
+    "f9aaff2211ee",
+    "560a3d6b4d7f"
+   ],
+   "apoio": "68dccc7a8cea",
+   "credito": "e850394477f7",
+   "enunciado": "711407751a0f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q130-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nos resultados, qual é a estratégia efi",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q130-apoio-01.png",
+     16,
+     [
+      289.4,
+      229.5,
+      535.5,
+      581.4
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q131": {
+   "alternativas": [
+    "dac5d0935768",
+    "e07f6e3c1c2b",
+    "1d50e8ee87b1",
+    "317917681faf",
+    "ad778a40d45d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bcab9ce7cc40",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A primeira tecnologia comercial de comunicação d",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q132": {
+   "alternativas": [
+    "287291f06fa9",
+    "349468cf7899",
+    "77baca973434",
+    "c3eb2dbf7973",
+    "d3d886caf033"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ddde49e7aea4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ser humano é incapaz de enxergar a radiação in",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q133": {
+   "alternativas": [
+    "8214053eefe4",
+    "360c4ec55551",
+    "a77c39486787",
+    "72d8f44260ac",
+    "ff334577176e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2a632be74fb3",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma microempresa adquire um sistema fotovoltaico",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q134": {
+   "alternativas": [
+    "500686eb94cd",
+    "b4eb9c30809e",
+    "69bb15815af4",
+    "c2213e760bf8",
+    "1386cd2670fc"
+   ],
+   "apoio": "642435163a9e",
+   "credito": "206f63d46961",
+   "enunciado": "b70883f6e846",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere uma gestante que descobre, no primeiro",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q135": {
+   "alternativas": [
+    "3f8a78c07afa",
+    "a82884e56ec4",
+    "543e9bc73761",
+    "9d2a50561dcf",
+    "62f459aef857"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1446f2d35c94",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Balões cheios de gás hélio são soltos no ar pela",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q136": {
+   "alternativas": [
+    "a0cd7dd1973d",
+    "ae94526ccacd",
+    "f9d4061486be",
+    "f3b0da4ed7e2",
+    "7f391cf6808f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b39f37b5003f",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um funcionário de uma loja de computadores mistu",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q137": {
+   "alternativas": [
+    "6e2448049b8b",
+    "84736a3a83e7",
+    "fe3eee1be3cc",
+    "dcd64772d23a",
+    "464582b08aee"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "88f88ef32251",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q137-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa fundada em 2005, ao longo dos anos g",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q137-apoio-01.png",
+     18,
+     [
+      31.8,
+      486.1,
+      277.2,
+      612.3
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q138": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "fb84cf409747",
+   "credito": "9a7408802005",
+   "enunciado": "32bc4822d2d9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trecho da canção Oito anos, de Paula Toller, f",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q139": {
+   "alternativas": [
+    "3263450f46cf",
+    "cf107617ef26",
+    "6cb1fd16e86c",
+    "4f17f60a1779",
+    "4deeeb5c2b9e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "df827f1c74f0",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma câmara de resfriamento de um laboratório tem",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q140": {
+   "alternativas": [
+    "669b14065723",
+    "de62030fd12c",
+    "e34f0e3d54f5",
+    "80fa55cf73fb",
+    "64eeec065174"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a196d85e5d67",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O síndico de um condomínio contratou uma empresa",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q141": {
+   "alternativas": [
+    "e97031e5b027",
+    "2eba6e4f12ff",
+    "5c72da08f13e",
+    "09d024446ff1",
+    "f7629dabfcbd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c0be20a49ae2",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Após uma reforma, um clube decide comprar duchas",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q142": {
+   "alternativas": [
+    "356a192b7913",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c",
+    "902ba3cda188"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c8e8b4d9ea49",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q142-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Na modelagem e no estudo de fenômenos periódicos",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q142-apoio-01.png",
+     19,
+     [
+      288.6,
+      191.9,
+      536.4,
+      219.2
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q143": {
+   "alternativas": [
+    "ca73ab65568c",
+    "a6178c525a0d",
+    "721411ed09fb",
+    "2ad76dae31ba",
+    "30e792c895aa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9aa4989e5d94",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q143-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A nota final de um estudante em uma disciplina é",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q143-apoio-01.png",
+     19,
+     [
+      289.8,
+      436.6,
+      535.2,
+      535.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q144": {
+   "alternativas": [
+    "52d3ef709f0b",
+    "47f5e8598c41",
+    "a2037df9e4d9",
+    "ae930b0aeb77",
+    "1eedd94dba33"
+   ],
+   "apoio": "50f82ea13fa1",
+   "credito": "926c6bb14dc9",
+   "enunciado": "bc9246d920dc",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q144-apoio-01.jpg",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q144-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O modelo geométrico de um tachão está representa",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q144-apoio-01.jpg",
+     20,
+     [
+      88.5,
+      144.9,
+      220.5,
+      213.3
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q144-apoio-02.png",
+     20,
+     [
+      56.5,
+      283.1,
+      251.1,
+      351.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q145": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3b5289a4cea0",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-apoio-02.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-E-01.png"
+    ]
+   },
+   "previa": "Os candidatos A, B e C participaram de um concur",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-apoio-01.png",
+     20,
+     [
+      289.8,
+      162.9,
+      534.5,
+      255.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-apoio-02.png",
+     20,
+     [
+      289.8,
+      276.6,
+      535.5,
+      368.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-A-01.png",
+     20,
+     [
+      308.6,
+      468.3,
+      368.3,
+      484.4
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-B-01.png",
+     20,
+     [
+      308.6,
+      503.8,
+      330.8,
+      547.8
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-C-01.png",
+     20,
+     [
+      308.6,
+      562.4,
+      330.8,
+      606.4
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-D-01.png",
+     20,
+     [
+      308.6,
+      621.0,
+      364.3,
+      665.0
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q145-alt-E-01.png",
+     20,
+     [
+      308.6,
+      679.6,
+      369.0,
+      723.6
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q146": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d2f940032428",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q146-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma imobiliária pôs cinco apartamentos à venda e",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q146-apoio-01.png",
+     21,
+     [
+      160.9,
+      114.4,
+      406.0,
+      240.4
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q147": {
+   "alternativas": [
+    "84a3ebfe2baf",
+    "05aa4b4d2563",
+    "ccf585645f24",
+    "4c3e8086a5ff",
+    "6a74e49ea97f"
+   ],
+   "apoio": "215dcfd29179",
+   "credito": "f29f923dd558",
+   "enunciado": "43b2e35e101a",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q147-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com as medidas especificadas no texto ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q147-apoio-01.png",
+     21,
+     [
+      173.6,
+      419.0,
+      405.4,
+      577.0
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q148": {
+   "alternativas": [
+    "6c05b44f699e",
+    "4d3c83c85f16",
+    "b96c8f7e9683",
+    "8802226a57bf",
+    "4d7a239334ea"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b43113785c92",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No ano em que uma empresa lançou seu novo modelo",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q149": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7eac68777266",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A amplitude é uma medida estatística que detecta",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q150": {
+   "alternativas": [
+    "a42730ffad4d",
+    "cc7e74b6ed34",
+    "831b183eaa77",
+    "f49c8b2ec22d",
+    "69ffba8c920e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b74ef821ad3f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um ateliê de costura, para confeccionar 200 c",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q151": {
+   "alternativas": [
+    "e377e7514641",
+    "77ed45612db2",
+    "11de73076822",
+    "eb5703c03e2b",
+    "8a246a55a360"
+   ],
+   "apoio": "5c17f795e282",
+   "credito": "51b6a4f11f77",
+   "enunciado": "fb438fc20af4",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q151-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Como esse astronauta ficará cinco meses no espaç",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q151-apoio-01.png",
+     22,
+     [
+      309.7,
+      417.3,
+      533.2,
+      556.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q152": {
+   "alternativas": [
+    "ea3fedd3d2d4",
+    "e0f5411c9ba7",
+    "ec594f6a6627",
+    "2d33efccbd2d",
+    "e9c35df0cf4c"
+   ],
+   "apoio": "6007f1edcca4",
+   "credito": "2d5c23227995",
+   "enunciado": "7bc905706e54",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Por quanto tempo deveríamos coletar as águas que",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q153": {
+   "alternativas": [
+    "bc2ec112ef9a",
+    "e509cd44553d",
+    "602cd2d2e5cc",
+    "77be81541fe8",
+    "2d56ae01250b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ba6aee58c17b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Mariana não tem computador pessoal em casa e\npre",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q154": {
+   "alternativas": [
+    "7a2269446861",
+    "cdcbfd73dcbe",
+    "0621bffa6945",
+    "f09e783966d5",
+    "78e11af1505e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ccdfb6163210",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q154-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma padaria criou uma receita de bolo chamada Bo",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q154-apoio-01.png",
+     23,
+     [
+      319.5,
+      138.0,
+      505.4,
+      367.6
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q155": {
+   "alternativas": [
+    "b49a43d29c0f",
+    "f6fe8319ffb9",
+    "02b7c14a0a69",
+    "8def005be977",
+    "2cc27a22c746"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5f68d84a00c6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa tinha um projeto para um salão de fes",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q156": {
+   "alternativas": [
+    "03b623da7dbf",
+    "6ae20bddcd76",
+    "da39a3ee5e6b",
+    "90fd349d3ac5",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a7e675085297",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q156-alt-C-01.png"
+    ],
+    "E": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q156-alt-E-01.png"
+    ]
+   },
+   "previa": "Em radiometria, a potência radiante emitida por ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q156-alt-C-01.png",
+     24,
+     [
+      49.1,
+      592.7,
+      69.7,
+      619.4
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q156-alt-E-01.png",
+     24,
+     [
+      49.1,
+      672.6,
+      73.9,
+      699.2
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q157": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "8fe8709b256c",
+   "credito": "817eff52d2bc",
+   "enunciado": "a864787f4bba",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As figuras apresentam algumas possibilidades des",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q158": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "39ffcc27d90e",
+   "credito": "b31bac884272",
+   "enunciado": "5a9765bef7a0",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-02.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-03.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-04.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-05.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A gerência do Departamento de Obras de uma Prefe",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-01.png",
+     25,
+     [
+      32.8,
+      312.5,
+      118.8,
+      360.1
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-02.png",
+     25,
+     [
+      118.8,
+      312.5,
+      199.8,
+      358.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-03.png",
+     25,
+     [
+      199.8,
+      312.5,
+      275.2,
+      358.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-04.png",
+     25,
+     [
+      55.3,
+      428.0,
+      153.9,
+      531.7
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q158-apoio-05.png",
+     25,
+     [
+      169.5,
+      428.0,
+      251.5,
+      514.4
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q159": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "df970d5823f4",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-E-01.png"
+    ]
+   },
+   "previa": "Uma empresa produziu uma bola de chocolate, em f",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-A-01.png",
+     25,
+     [
+      308.6,
+      200.9,
+      327.6,
+      223.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-B-01.png",
+     25,
+     [
+      308.6,
+      235.4,
+      333.1,
+      257.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-C-01.png",
+     25,
+     [
+      308.6,
+      269.4,
+      341.1,
+      292.4
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-D-01.png",
+     25,
+     [
+      308.6,
+      303.9,
+      341.1,
+      326.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q159-alt-E-01.png",
+     25,
+     [
+      308.6,
+      337.9,
+      345.6,
+      360.9
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q160": {
+   "alternativas": [
+    "9e6a55b6b456",
+    "fc074d501302",
+    "64e095fe763f",
+    "80e28a51cbc2",
+    "eb4ac3033e8a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "946a411e382d",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Duas empresas do mercado de pequenos reparos dom",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q161": {
+   "alternativas": [
+    "7aa72ca18bf0",
+    "89ba00a91b0a",
+    "8be27343e2fb",
+    "d675ffd5af08",
+    "fe96cbf393f0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9652f8f6c013",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um reservatório que abastece uma região urbana e",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q162": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "10ff85eea44b",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-01.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-02.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-03.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-04.png",
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-05.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um equipamento monitora o volume de água que pas",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-01.png",
+     26,
+     [
+      375.4,
+      170.7,
+      450.2,
+      262.5
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-02.png",
+     26,
+     [
+      292.2,
+      171.1,
+      367.0,
+      262.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-03.png",
+     26,
+     [
+      458.0,
+      171.1,
+      532.8,
+      262.9
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-04.png",
+     26,
+     [
+      333.7,
+      306.2,
+      408.5,
+      398.0
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q162-apoio-05.png",
+     26,
+     [
+      416.4,
+      306.2,
+      491.3,
+      398.0
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q163": {
+   "alternativas": [
+    "3a0841e89100",
+    "107843025d33",
+    "290c50e1cb8d",
+    "52c07515723f",
+    "7ed568006387"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e801c350f14a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa comprou uma caixa com 25 bombons por ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q164": {
+   "alternativas": [
+    "6bd143ffb4f5",
+    "5b1234480d2c",
+    "83a839ee2e79",
+    "c49fac535983",
+    "e1d0a62604ba"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cf12b859e409",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para o tratamento de uma doença específica, exis",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q165": {
+   "alternativas": [
+    "7b52009b64fd",
+    "4d134bc07221",
+    "f1f836cb4ea6",
+    "64e095fe763f",
+    "e6c3dd630428"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8d297e570407",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q165-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma costureira tem à sua disposição pelo menos d",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q165-apoio-01.jpg",
+     27,
+     [
+      35.0,
+      478.1,
+      273.9,
+      625.0
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q166": {
+   "alternativas": [
+    "c28d72e2cf3c",
+    "283357edcede",
+    "3b11af59ec60",
+    "a85730bf5339",
+    "2656d550a91e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ab83b2f2cb93",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q166-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Restaurantes geralmente se deparam com o problem",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q166-apoio-01.png",
+     27,
+     [
+      301.3,
+      294.0,
+      534.9,
+      424.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q167": {
+   "alternativas": [
+    "d9f094a19c1c",
+    "da84df88165b",
+    "ec449af81102",
+    "dc5c4b47ec7a",
+    "db02537a6c64"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "838980eca3ee",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um estudante de arquitetura projetou um prédio d",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q168": {
+   "alternativas": [
+    "c28d72e2cf3c",
+    "706c043652cd",
+    "64eeec065174",
+    "de62030fd12c",
+    "fefc85f54daf"
+   ],
+   "apoio": "84879a1ee20c",
+   "credito": "44abcee2dfab",
+   "enunciado": "cf677745ce22",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere o dia em que um cão de pequeno porte c",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q169": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cf4907e5f4ee",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q169-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma pessoa foi a um supermercado comprar uma cai",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q169-apoio-01.png",
+     28,
+     [
+      31.9,
+      499.6,
+      277.0,
+      625.6
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q170": {
+   "alternativas": [
+    "33bed441eb36",
+    "2e1fcfd65e56",
+    "fca3a2630635",
+    "d502d8a47b22",
+    "fe490586c052"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7337b8d8ac12",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma piscina de um clube tem o formato de paralel",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q171": {
+   "alternativas": [
+    "f2066d2147c9",
+    "811209d964fb",
+    "d364291788df",
+    "6ed71cf46d22",
+    "024ded1d7755"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6b3bd8a9150a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um professor de matemática desenvolveu uma ativi",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q172": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "694eaaac36ec",
+   "credito": "4b5f09c1de0a",
+   "enunciado": "e19dcb64798a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q172-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Os dados exibidos no gráfico indicam que a torci",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q172-apoio-01.png",
+     29,
+     [
+      31.6,
+      153.3,
+      277.4,
+      364.8
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q173": {
+   "alternativas": [
+    "9b170d3ac93d",
+    "cdcd87d737bf",
+    "6ae1aae73d9a",
+    "b18b9cb1de3e",
+    "d8b7baa19962"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c062c96c073a",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um tipo de célula se reproduz constantemente por",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q174": {
+   "alternativas": [
+    "0ade7c2cf97f",
+    "7b52009b64fd",
+    "4d134bc07221",
+    "b6692ea5df92",
+    "e114c448f4ab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a821a2858a37",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A proprietária de uma confecção pretende liquida",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q175": {
+   "alternativas": [
+    "0c4282c66719",
+    "5ea7f084f4b4",
+    "e8d32f1f717e",
+    "1f099a45d24b",
+    "da5b46a0a6c8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ba734c5dd834",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q175-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um rolo de papel higiênico tradicional é represe",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q175-apoio-01.png",
+     29,
+     [
+      346.7,
+      433.7,
+      476.1,
+      589.4
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q176": {
+   "alternativas": [
+    "b80933066fca",
+    "1a5269605f71",
+    "3a6f0802235e",
+    "a3d88463a57d",
+    "6f97227b1233"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "20d635eb59d0",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um pronto-socorro, um paciente ingeriu, à mei",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q177": {
+   "alternativas": [
+    "4c9a8a283f02",
+    "1be80dd1890d",
+    "dd4892422649",
+    "541f28b6e898",
+    "047bae689507"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cbb0faa4a8c8",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa, procurando um estacionamento, encont",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q178": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "bdc343f4bc91",
+   "credito": "911b7dfe14a8",
+   "enunciado": "894edd546e4b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q178-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Ao analisarem o caso em que a quantidade Q₁é o\nd",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q178-apoio-01.png",
+     30,
+     [
+      387.3,
+      211.3,
+      437.3,
+      239.2
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q179": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "5c72da08f13e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fc94795111fa",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q179-alt-A-01.png"
+    ]
+   },
+   "previa": "Em uma sala escura há um ponto luminoso, a mais ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q179-alt-A-01.png",
+     30,
+     [
+      288.6,
+      633.8,
+      357.2,
+      661.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q180": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "04f1241ed2b1",
+    "da39a3ee5e6b",
+    "c45aa30f6e99",
+    "ec0cce6588a9"
+   ],
+   "apoio": "6820adfc1b90",
+   "credito": "3f2ec7f639ac",
+   "enunciado": "48e42850063e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-C-01.png"
+    ]
+   },
+   "previa": "Uma pessoa varreu o chão da casa, depois passou ",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-A-01.jpg",
+     31,
+     [
+      53.8,
+      197.2,
+      470.9,
+      349.0
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-B-01.jpg",
+     31,
+     [
+      53.4,
+      362.2,
+      492.1,
+      521.5
+     ]
+    ],
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q180-alt-C-01.png",
+     31,
+     [
+      53.4,
+      551.6,
+      215.6,
+      702.7
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q91": {
+   "alternativas": [
+    "d2a69fe50040",
+    "be36881433ab",
+    "951863745802",
+    "239d5a98f6a9",
+    "f5d9060167ea"
+   ],
+   "apoio": "ea88784feeb9",
+   "credito": "2775bc07e50e",
+   "enunciado": "8bae14a3ea12",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Qual tipo de substância liberada pelos vermes di",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q92": {
+   "alternativas": [
+    "a64ba34eb121",
+    "641d80164bdb",
+    "dc116fab5560",
+    "247c063cadca",
+    "c2e0ea7aff1a"
+   ],
+   "apoio": "d45508f03737",
+   "credito": "30d2ec37a29e",
+   "enunciado": "df33425fe6aa",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Esse avanço na medicina foi importante porque pe",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q93": {
+   "alternativas": [
+    "971938a4bcd3",
+    "1ebf921ed584",
+    "bee0946afb21",
+    "1758c3b8afc6",
+    "bb48d7d23d45"
+   ],
+   "apoio": "5aa3f3672a18",
+   "credito": "6396a98e4380",
+   "enunciado": "50bcdb4b2c1b",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Apesar do custo mais alto, uma das vantagens do ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q94": {
+   "alternativas": [
+    "9bbf521cd5d8",
+    "205cf9e27f0a",
+    "1d88eec57f74",
+    "183ab4692843",
+    "f535f4c5cfae"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6b86aa36aa68",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na formulação de detergentes sintéticos, são enc",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q95": {
+   "alternativas": [
+    "598256684b16",
+    "4bc76c6833eb",
+    "dd10cf3149e9",
+    "1c2b122c8733",
+    "10dd228b0021"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "76a7fd29f4ab",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um carro sedã apresenta tipicamente 200 kg de al",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q96": {
+   "alternativas": [
+    "12b6f63ad053",
+    "e5f994101b13",
+    "39ac00bd7b31",
+    "28ac390f2736",
+    "1406c7c73235"
+   ],
+   "apoio": "b1e6332cb3b5",
+   "credito": "04583d88a27c",
+   "enunciado": "695f6e3fcc4e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A exemplo do caso descrito, é possível citar, co",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q97": {
+   "alternativas": [
+    "9906bb84fe72",
+    "eef4bc01e043",
+    "36977b0a897a",
+    "085a3948f812",
+    "7b3764aa7cf0"
+   ],
+   "apoio": "bc804a819324",
+   "credito": "4268055dfd96",
+   "enunciado": "eaa1d9e138fe",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q97-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é o impacto ambiental gerado a partir dessa",
+   "recortes": [
+    [
+     "/questoes/2023/ppl/dia2/enem-2023-ppl-d2-q97-apoio-01.jpg",
+     4,
+     [
+      31.2,
+      118.9,
+      535.7,
+      368.0
+     ]
+    ]
+   ]
+  },
+  "enem-2023-ppl-d2-q98": {
+   "alternativas": [
+    "30e097693b5b",
+    "7d6a722c231c",
+    "1da1075e7fa1",
+    "4ee59d44fd10",
+    "ef827a442ea1"
+   ],
+   "apoio": "b17257cd7b7f",
+   "credito": "45a92e2c4c9f",
+   "enunciado": "96a847267b9f",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O composto que pode ser adicionado ao solo para ",
+   "recortes": []
+  },
+  "enem-2023-ppl-d2-q99": {
+   "alternativas": [
+    "f2a16d8db519",
+    "0497682781f2",
+    "041fe69ccf46",
+    "1206904e0052",
+    "0405f8c7dfcf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "bd4e16f0aefe",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O processo de radiação de alimentos consiste em ",
+   "recortes": []
+  }
+ }
+}

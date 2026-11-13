@@ -1,0 +1,2182 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2009",
+ "perfil": "motor v2009",
+ "questoes": {
+  "enem-2009-regular-d1-q01": {
+   "alternativas": [
+    "8058a39cb108",
+    "3860c1e80ead",
+    "df447ce41d2d",
+    "79f784d4da1b",
+    "42d1bf9bdd34"
+   ],
+   "apoio": "dacb558b695e",
+   "credito": "5a37c9eb22fd",
+   "enunciado": "ce63edf7b982",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q01-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando o texto, uma alternativa viável par",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q01-apoio-01.jpg",
+     2,
+     [
+      509.5,
+      40.5,
+      560.2,
+      71.8
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q02": {
+   "alternativas": [
+    "7f0038631675",
+    "b6f0f3db7b7d",
+    "34dde9054bce",
+    "153ba9cd513b",
+    "79885ffe2220"
+   ],
+   "apoio": "f42b7cb774c7",
+   "credito": "ab7689d4b759",
+   "enunciado": "5cc7b7f72ac3",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q02-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Supondo que seja necessário dar um título para e",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q02-apoio-01.jpg",
+     2,
+     [
+      323.0,
+      105.4,
+      545.8,
+      284.2
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q03": {
+   "alternativas": [
+    "29f95c5a215e",
+    "c309a45b7ee5",
+    "702209d0ba39",
+    "20405c1743ea",
+    "3a17c866d71f"
+   ],
+   "apoio": "a3965d45b402",
+   "credito": "a0143763a070",
+   "enunciado": "6951028b845a",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma vacina eficiente contra o HIV deveria",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q04": {
+   "alternativas": [
+    "fe4a9f409b3d",
+    "60dbaaf34005",
+    "12b72b652e9f",
+    "5e066092e4b0",
+    "7be5945a9891"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f5fda29502d2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um experimento, preparou-se um conjunto de pl",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q05": {
+   "alternativas": [
+    "eb3baf7107ba",
+    "c5fd05fd2112",
+    "158e91fc50c6",
+    "5252f4bf6d3f",
+    "659389f8417a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d6bed58610d1",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na linha de uma tradição antiga, o astrônomo gre",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q06": {
+   "alternativas": [
+    "daf9edd2e0f3",
+    "b6610da8cbca",
+    "069d32e5aee8",
+    "2277e2b23d26",
+    "e66828683e74"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8c486588dddc",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ciclo biogeoquímico do carbono compreende dive",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q07": {
+   "alternativas": [
+    "996a99e0ff7a",
+    "2a467721240b",
+    "ce11aed1760b",
+    "29a04afdd45b",
+    "d35e82a37478"
+   ],
+   "apoio": "ecd6d34c78fa",
+   "credito": "aae6fc5eeb59",
+   "enunciado": "4f4dc229fb51",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A produção de insulina pela técnica do DNA recom",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q08": {
+   "alternativas": [
+    "1d56e761c97e",
+    "006b992dda33",
+    "3dea225232d1",
+    "461f1f1eaad7",
+    "1048bcbf61bd"
+   ],
+   "apoio": "73db68f30e43",
+   "credito": "730f64bac4e4",
+   "enunciado": "7619657f3506",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma situação hipotética, optou-se por constru",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q09": {
+   "alternativas": [
+    "7767675af13e",
+    "5987b77d397b",
+    "1fd9a83fceb1",
+    "864622449745",
+    "1855cd1ce6d9"
+   ],
+   "apoio": "cf2806ed0bfc",
+   "credito": "4c6ca3f59c9b",
+   "enunciado": "1e54dd0a0c6b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante os períodos glaciais,",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q10": {
+   "alternativas": [
+    "8d752ac27d6d",
+    "caab957a2292",
+    "ed25c11d84f8",
+    "847adad257c0",
+    "61144e65f260"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "34a07419c35f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A fotossíntese é importante para a vida na Terra",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q11": {
+   "alternativas": [
+    "7812aece7e66",
+    "4f29293dcd86",
+    "ff697dfc8c25",
+    "ffbebdac0adc",
+    "bfb848d2a566"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f9abb15c812c",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para que todos os órgãos do corpo humano funcion",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q12": {
+   "alternativas": [
+    "cba29833b896",
+    "c868435f531a",
+    "b11717d5fcb1",
+    "ab01b0ca3742",
+    "b2faaae22b13"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "de14e78a24b2",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q12-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Sabões são sais de ácidos carboxílicos de cadeia",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q12-apoio-01.jpg",
+     5,
+     [
+      35.5,
+      155.5,
+      270.2,
+      180.8
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q13": {
+   "alternativas": [
+    "538101ac0ffe",
+    "7dec8216ae6a",
+    "804ac6b04ae4",
+    "c7faf9751cf7",
+    "d3493d4ae15b"
+   ],
+   "apoio": "a06a1370946a",
+   "credito": "eba49da6077e",
+   "enunciado": "7567ba99a63f",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nesse contexto, para conciliar os interesses apa",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q14": {
+   "alternativas": [
+    "1883c16b9cf6",
+    "3958e9d160a2",
+    "0d05014b60f3",
+    "5ae96a855b67",
+    "bb1405f75be3"
+   ],
+   "apoio": "b43af1c9c873",
+   "credito": "6a14cde1465f",
+   "enunciado": "8baea9dfece8",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q14-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Aumentar a eficiência dos processos de conversão",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q14-apoio-01.jpg",
+     5,
+     [
+      307.7,
+      407.5,
+      545.7,
+      544.3
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q15": {
+   "alternativas": [
+    "767b392355c9",
+    "a045988791b2",
+    "7581db9dd27b",
+    "5b99ac0880ee",
+    "9da1a39fad48"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0bd95640dac2",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q15-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Para que apresente condutividade elétrica adequa",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q15-apoio-01.jpg",
+     6,
+     [
+      112.2,
+      245.8,
+      209.6,
+      347.3
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q16": {
+   "alternativas": [
+    "e7644515a6d4",
+    "0cf8df376e70",
+    "f324cfb66929",
+    "3e36ea0ee96a",
+    "b46e21be24b0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ee48bc677acf",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q16-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A figura seguinte representa um modelo de transm",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q16-apoio-01.jpg",
+     6,
+     [
+      35.5,
+      531.2,
+      286.1,
+      586.6
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q17": {
+   "alternativas": [
+    "5a3a33de6302",
+    "daedfe37136e",
+    "0a53105672b2",
+    "d80903acede5",
+    "18c7a0867de8"
+   ],
+   "apoio": "bb68a2feb875",
+   "credito": "bdc9384ad86c",
+   "enunciado": "4c6989452875",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Devido à alta velocidade, um dos problemas a ser",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q18": {
+   "alternativas": [
+    "6171ae193aa4",
+    "c9ad7a7f9173",
+    "55a4e17492e2",
+    "0b6e1bd3894d",
+    "57ca0b93e873"
+   ],
+   "apoio": "8821f0e7f564",
+   "credito": "bad4d4e0f6e5",
+   "enunciado": "36c07d41e1a4",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q18-apoio-01.png",
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q18-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere-se que um auditório possua capacidade ",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q18-apoio-01.png",
+     6,
+     [
+      306.8,
+      423.7,
+      558.1,
+      468.1
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q18-apoio-02.png",
+     6,
+     [
+      306.8,
+      469.6,
+      558.1,
+      505.4
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q19": {
+   "alternativas": [
+    "c36792e3fddc",
+    "85bfc13c75e0",
+    "b21d3f17b387",
+    "78e01351ffc4",
+    "f3a13a76509d"
+   ],
+   "apoio": "5241ffea5c56",
+   "credito": "6d8e8163a054",
+   "enunciado": "d171fe77e2b1",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-01.png",
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-02.png",
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-03.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando a planta baixa fornecida, com todos",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-01.png",
+     7,
+     [
+      55.6,
+      188.4,
+      266.1,
+      261.4
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-02.png",
+     7,
+     [
+      37.9,
+      386.4,
+      283.8,
+      448.4
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q19-apoio-03.jpg",
+     7,
+     [
+      35.5,
+      460.1,
+      285.4,
+      609.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q20": {
+   "alternativas": [
+    "d1364a54792a",
+    "7eb52fbe4099",
+    "503e78db9188",
+    "616c786966ce",
+    "62c941c55701"
+   ],
+   "apoio": "bafa6eecad39",
+   "credito": "d3633d0f1234",
+   "enunciado": "374d64370703",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q20-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Se fosse necessário melhorar o rendimento dessa ",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q20-apoio-01.jpg",
+     7,
+     [
+      310.1,
+      125.5,
+      558.7,
+      345.2
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q21": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "b3f030e5f8d7",
+   "enunciado": "14c0f730115a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-E-01.jpg"
+    ]
+   },
+   "previa": "Os seres vivos apresentam diferentes ciclos de v",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-A-01.jpg",
+     8,
+     [
+      54.4,
+      193.1,
+      238.9,
+      282.4
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-B-01.jpg",
+     8,
+     [
+      59.7,
+      294.7,
+      251.2,
+      382.9
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-C-01.jpg",
+     8,
+     [
+      59.7,
+      395.2,
+      250.9,
+      482.3
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-D-01.jpg",
+     8,
+     [
+      59.6,
+      494.6,
+      252.4,
+      586.8
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q21-alt-E-01.jpg",
+     8,
+     [
+      57.0,
+      599.0,
+      254.0,
+      694.6
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q22": {
+   "alternativas": [
+    "bd13f0a057e8",
+    "c1af30cf8f37",
+    "f6df2acb7f36",
+    "8af43283bf13",
+    "9ec6be80500f"
+   ],
+   "apoio": "129c7eb664a1",
+   "credito": "271ca0cfaa97",
+   "enunciado": "cf5e629d9da8",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q22-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com as informações contidas no texto e",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q22-apoio-01.jpg",
+     8,
+     [
+      328.1,
+      328.2,
+      540.8,
+      566.5
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q23": {
+   "alternativas": [
+    "8adde6712709",
+    "02384006d1e0",
+    "48c3a8d9e0f9",
+    "5f0aaf3b14f1",
+    "43e3b9c2480e"
+   ],
+   "apoio": "36651c77c1bc",
+   "credito": "9b435759e130",
+   "enunciado": "3e2596d488f6",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma medida que poderia contribuir para acabar de",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q24": {
+   "alternativas": [
+    "976ea6c4802c",
+    "8ed7d435ccfe",
+    "60642d34e631",
+    "e393a3140886",
+    "90d2e35756d8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2470d5aba363",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q24-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Umidade relativa do ar é o termo usado para desc",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q24-apoio-01.jpg",
+     9,
+     [
+      309.0,
+      257.2,
+      563.2,
+      458.8
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q25": {
+   "alternativas": [
+    "30527bc6b19b",
+    "f80ab3ca6099",
+    "c4500c4f62cb",
+    "d34792b37edc",
+    "a2eb228434e0"
+   ],
+   "apoio": "732e5339a105",
+   "credito": "881bda446ddf",
+   "enunciado": "a4dbc4581c02",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q25-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considerando que, no teste diagnóstico, a sensib",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q25-apoio-01.png",
+     10,
+     [
+      39.9,
+      125.0,
+      281.9,
+      197.6
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q26": {
+   "alternativas": [
+    "e72a82648ff4",
+    "625186f881c8",
+    "642c348dd4f2",
+    "de2b1e8cc3ae",
+    "eb569f06bc6d"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cb84c42c73c1",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O processo de industrialização tem gerado sérios",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q27": {
+   "alternativas": [
+    "45471f88febe",
+    "9e74faabf107",
+    "f2c41163c22b",
+    "8dd2d9f1c20e",
+    "8e200beb2055"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8aac07680ac9",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q27-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O ônibus espacial Atlantis foi lançado ao espaço",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q27-apoio-01.jpg",
+     10,
+     [
+      318.1,
+      208.1,
+      550.7,
+      374.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q28": {
+   "alternativas": [
+    "0f9c1b393825",
+    "890fed14329e",
+    "8a26d7231287",
+    "3528a1c43495",
+    "890f6bbf501b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e9226322c781",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q28-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma pesquisadora deseja reflorestar uma área de ",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q28-apoio-01.png",
+     11,
+     [
+      34.7,
+      311.7,
+      286.3,
+      351.7
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q29": {
+   "alternativas": [
+    "362b958664d4",
+    "9f32eed4e51c",
+    "8a3a270caa3f",
+    "1bb70e570074",
+    "e2f94d946912"
+   ],
+   "apoio": "cf3a53f55d04",
+   "credito": "b800ef09effa",
+   "enunciado": "32793aa26f22",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q29-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O antimônio é um elemento químico que possui 50 ",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q29-apoio-01.jpg",
+     11,
+     [
+      309.0,
+      169.9,
+      563.5,
+      496.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q30": {
+   "alternativas": [
+    "8a08501a2a74",
+    "15a9760a45cb",
+    "846aa15003f6",
+    "432302c906c5",
+    "4068d7fe0ba7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f621f2fd2ae7",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "É possível, com 1 litro de gasolina, usando todo",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q31": {
+   "alternativas": [
+    "697ca75ec5c9",
+    "0fa8470595dc",
+    "a37a2047761d",
+    "e87cbd9648b8",
+    "cc53eb7058f0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "35947e9bf21e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O progresso da tecnologia introduziu diversos ar",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q32": {
+   "alternativas": [
+    "40c0a65ea72d",
+    "096f4e723d32",
+    "17a728807c77",
+    "8ee0fd8141e6",
+    "b6cb10c69f11"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "83885f8311df",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q32-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere um equipamento capaz de emitir radiaçã",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q32-apoio-01.jpg",
+     12,
+     [
+      334.9,
+      213.8,
+      533.9,
+      511.6
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q33": {
+   "alternativas": [
+    "03218556d592",
+    "f9737e5c7fa4",
+    "6f80de1e09a6",
+    "153350b6639e",
+    "a21bf896553b"
+   ],
+   "apoio": "754dbbb77f02",
+   "credito": "2d7468e8bf66",
+   "enunciado": "9cfd317c1d40",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q33-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O mecanismo evolutivo envolvido na associação en",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q33-apoio-01.jpg",
+     13,
+     [
+      124.3,
+      126.2,
+      471.1,
+      411.0
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q34": {
+   "alternativas": [
+    "79e213c188d5",
+    "1a747396c191",
+    "952926144a33",
+    "ffbbc45200de",
+    "687ed0a09ea0"
+   ],
+   "apoio": "c7123c11fe04",
+   "credito": "605febacaeb6",
+   "enunciado": "64ed4b951a78",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Suponha que uma pessoa, desejosa de fazer seu pr",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q35": {
+   "alternativas": [
+    "d2a9733726eb",
+    "9b41dfdc7999",
+    "f932ebad54f6",
+    "edb4a26ca8f1",
+    "8d03127dc9a8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "dbb79f07578f",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q35-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "O Sol representa uma fonte limpa e inesgotável d",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q35-apoio-01.jpg",
+     14,
+     [
+      70.4,
+      246.2,
+      251.4,
+      375.7
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q36": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "95c31eafc6c7",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-D-01.png",
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-D-02.png"
+    ],
+    "E": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-E-01.png",
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-E-02.png"
+    ]
+   },
+   "previa": "O uso de protetores solares em situações de gran",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-A-01.png",
+     14,
+     [
+      329.6,
+      84.5,
+      454.3,
+      140.5
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-B-01.png",
+     14,
+     [
+      329.5,
+      147.1,
+      513.8,
+      197.9
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-C-01.png",
+     14,
+     [
+      329.5,
+      197.9,
+      513.8,
+      235.7
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-D-01.png",
+     14,
+     [
+      329.5,
+      240.9,
+      440.5,
+      293.9
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-D-02.png",
+     14,
+     [
+      441.0,
+      260.0,
+      513.8,
+      289.4
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-E-01.png",
+     14,
+     [
+      329.5,
+      300.3,
+      440.5,
+      353.1
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q36-alt-E-02.png",
+     14,
+     [
+      441.0,
+      319.3,
+      513.8,
+      348.6
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q37": {
+   "alternativas": [
+    "4f079d4a9861",
+    "0c10e55d9394",
+    "299fae060048",
+    "1b872a940c14",
+    "72c56e313b32"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "fda9f42cc278",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sabe-se que o olho humano não consegue diferenci",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q38": {
+   "alternativas": [
+    "0458b3cb4d3b",
+    "deba1aa06a71",
+    "b6e4617e1a11",
+    "85a8bc966c07",
+    "c16eb7bbd34f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4163463cbc63",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Durante uma ação de fiscalização em postos de co",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q39": {
+   "alternativas": [
+    "8e9dbe40c933",
+    "65e6dbcd291b",
+    "5e66e45a442d",
+    "8b7b4f7614dd",
+    "100cb36db24d"
+   ],
+   "apoio": "ff77a11f627e",
+   "credito": "dc51cbeb7730",
+   "enunciado": "265cd942a099",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q39-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Nos processos de transformação de energia envolv",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q39-apoio-01.jpg",
+     15,
+     [
+      215.5,
+      340.0,
+      286.3,
+      477.0
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q40": {
+   "alternativas": [
+    "23e1691cec7c",
+    "18b969710a5b",
+    "99046cd399e3",
+    "34039a173e1d",
+    "facb987eb786"
+   ],
+   "apoio": "812bc9d0348d",
+   "credito": "223985c8fcb3",
+   "enunciado": "427fd17de2cf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A utilização de nanopartículas na indústria e na",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q41": {
+   "alternativas": [
+    "844a2714725e",
+    "0bea36586f6f",
+    "d8ece044e556",
+    "0ea39c953e20",
+    "d3fa601a70c0"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "62a35c01ba21",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma vítima de acidente de carro foi encontrada c",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q42": {
+   "alternativas": [
+    "17e191474932",
+    "bf171681c765",
+    "b1e12908341c",
+    "908e997f4b31",
+    "86737b792064"
+   ],
+   "apoio": "95bcef45bf3f",
+   "credito": "99b156c0a821",
+   "enunciado": "b6c4359506a8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Suponha que tenha sido construída uma fazenda de",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q43": {
+   "alternativas": [
+    "5052e39e4dac",
+    "58a3a5673e04",
+    "5e981f188e33",
+    "4628dd3afdc5",
+    "f23d5b5e0bb6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b911aa4d5235",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q43-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Nas últimas décadas, o efeito estufa tem-se inte",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q43-apoio-01.png",
+     16,
+     [
+      48.3,
+      508.6,
+      292.0,
+      570.0
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q44": {
+   "alternativas": [
+    "bdb20330ce56",
+    "aa10d36ad155",
+    "069864fa377e",
+    "cd8c04c25214",
+    "032ff7f4eab5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2e00c2e075e6",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O álcool hidratado utilizado como combustível ve",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q45": {
+   "alternativas": [
+    "99e2a00ab1d4",
+    "97fcf4249286",
+    "586c2eb385f2",
+    "286124d89787",
+    "55e6898937e3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c82e0e84ab4b",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q45-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere a seguinte situação hipotética: ao pre",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q45-apoio-01.jpg",
+     16,
+     [
+      327.5,
+      495.7,
+      551.4,
+      585.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q46": {
+   "alternativas": [
+    "95cebcf02bbf",
+    "c4f48bdae6ca",
+    "c892307311b4",
+    "ef8a49aa2775",
+    "0517dca8b9ac"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f83e5084b90e",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O Egito é visitado anualmente por milhões de\ntur",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q47": {
+   "alternativas": [
+    "c36e40d2c40e",
+    "8f12dc285724",
+    "b60e71264459",
+    "110a63f34ec9",
+    "0bd8c3914a7e"
+   ],
+   "apoio": "f672ef84d020",
+   "credito": "3532eb0efe92",
+   "enunciado": "6e3315fe5417",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q47-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Algumas casas de habitação dos reis tiveram gran",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q47-apoio-01.jpg",
+     17,
+     [
+      510.6,
+      40.6,
+      561.4,
+      71.8
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q48": {
+   "alternativas": [
+    "c8b6f6a89349",
+    "437cc52738a8",
+    "422b3f0b5087",
+    "771a8506312c",
+    "a57f1763bef6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cd26eb62d5a5",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Hoje em dia, nas grandes cidades, enterrar os mo",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q49": {
+   "alternativas": [
+    "c1ef5d1b59b0",
+    "af306cbf4659",
+    "bd8ed015728c",
+    "7ebae7d54db1",
+    "6a825372fa12"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8e1e01431ebc",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A Idade Média é um extenso período da História d",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q50": {
+   "alternativas": [
+    "0f5ce97ed584",
+    "1859bae0823b",
+    "4a16da238eb6",
+    "b943d740f562",
+    "f17cd7188ed5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b7ca5de37877",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A primeira metade do século XX foi marcada por c",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q51": {
+   "alternativas": [
+    "5fdc34fcc672",
+    "1a9c3ffe542e",
+    "69b85d2a0ca9",
+    "36445a913959",
+    "d824246273e8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b0322948010c",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os regimes totalitários da primeira metade do sé",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q52": {
+   "alternativas": [
+    "5d2a920d843a",
+    "638712e77950",
+    "156aa72d5322",
+    "33587a5e82ee",
+    "4ff9d94d9eb5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "6a2abb7d49f1",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Do ponto de vista geopolítico, a Guerra Fria div",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q53": {
+   "alternativas": [
+    "09bf10fe5895",
+    "cb48042de214",
+    "14af3be891d4",
+    "d1eb3e8611bb",
+    "0968be855bb7"
+   ],
+   "apoio": "f910be5cbe93",
+   "credito": "2f0975a31443",
+   "enunciado": "a2c38425d7a2",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os movimentos sociais, que marcaram o ano de 196",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q54": {
+   "alternativas": [
+    "e7794f4e480b",
+    "3889e7938744",
+    "a33ca8d5d9cc",
+    "40736f32ded7",
+    "611d61db1475"
+   ],
+   "apoio": "74ecf9e470a0",
+   "credito": "c1bc89ce1b3b",
+   "enunciado": "8570ae477f0d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "De acordo com o texto, os Yanomami acreditam que",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q55": {
+   "alternativas": [
+    "be5fa5240a71",
+    "1e78345f3334",
+    "c5aa64d0207f",
+    "7385f2a967dd",
+    "7a56e7c7cfc1"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8a1a44a0784f",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O fim da Guerra Fria e da bipolaridade, entre as",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q56": {
+   "alternativas": [
+    "218280e25cef",
+    "e6c033504399",
+    "75ebab4dc7df",
+    "3d67fdadcb6d",
+    "d9a18b5fa409"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "131e88fd42c4",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na democracia estado-unidense, os cidadãos são i",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q57": {
+   "alternativas": [
+    "6b6347a32a0f",
+    "c43cd9bf042c",
+    "3f2da1c77b69",
+    "4f0c46df882d",
+    "b1892bb39133"
+   ],
+   "apoio": "ff80c26f33fc",
+   "credito": "81dcf54fbe14",
+   "enunciado": "69cb513813ed",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Do trecho, infere-se que, para Tocqueville, os n",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q58": {
+   "alternativas": [
+    "8c0d6298a0f5",
+    "b2c650aedcbc",
+    "98b42956912b",
+    "998c8893ec41",
+    "e73484627d5d"
+   ],
+   "apoio": "9ac03496b3c2",
+   "credito": "b465c4175ae5",
+   "enunciado": "22511c65a229",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O trecho, retirado da obra Política, de Aristóte",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q59": {
+   "alternativas": [
+    "271899546f30",
+    "ac85d553a0d2",
+    "6ae089fb7c99",
+    "4af64bd8449d",
+    "ee10c3ac5772"
+   ],
+   "apoio": "59ac3ac2b3e6",
+   "credito": "8c7b025acd80",
+   "enunciado": "6cb9cea467b2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Acerca das expectativas quanto à formação do Bra",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q60": {
+   "alternativas": [
+    "38c455c2c08e",
+    "678582274a44",
+    "f915d337dcca",
+    "747d1ef6a06f",
+    "21424ff9e69a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "72e6afd0c450",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A definição de eleitor foi tema de artigos nas C",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q61": {
+   "alternativas": [
+    "07fc6c9de9eb",
+    "0a77b7a47985",
+    "bad831e685aa",
+    "5d9ef9161df7",
+    "a3263d0f9f69"
+   ],
+   "apoio": "af46ff646638",
+   "credito": "6d405f64347b",
+   "enunciado": "95a3d6666974",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Segundo as ideias de Francisco Campos,",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q62": {
+   "alternativas": [
+    "a77ebe234ddc",
+    "6514b9d7d1b3",
+    "4f0da8d0f141",
+    "b87e34f87c5f",
+    "2ce03ae1a852"
+   ],
+   "apoio": "f027774ce653",
+   "credito": "9be8b5f89555",
+   "enunciado": "96c27834e42c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Os programas “Hora do Brasil” contribuíram para",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q63": {
+   "alternativas": [
+    "74b10ebddd66",
+    "87b75dc1eaa3",
+    "8f24c02f7c18",
+    "351c698d8517",
+    "b02cef6056ba"
+   ],
+   "apoio": "5506bc4f4a3b",
+   "credito": "0e5e42fe86ea",
+   "enunciado": "37f41e4a8c16",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Do ponto de vista da Inquisição,",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q64": {
+   "alternativas": [
+    "3f8ba6545f2d",
+    "b0a5858e2203",
+    "125e111f8470",
+    "0797f3c980cf",
+    "2277786abe66"
+   ],
+   "apoio": "73eb502521b0",
+   "credito": "6d8c94b29c71",
+   "enunciado": "4afb844ee701",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Relacionando as informações ao contexto históric",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q65": {
+   "alternativas": [
+    "c96760db8e28",
+    "a8a6aa7cbc9e",
+    "fee09efd71f1",
+    "78002b64c8bc",
+    "e6a15ce8bed3"
+   ],
+   "apoio": "f8c6635d4a8d",
+   "credito": "958884627320",
+   "enunciado": "77551100e549",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O período da independência do Brasil registra co",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q66": {
+   "alternativas": [
+    "29d582971408",
+    "648b7eb87e66",
+    "3bb4b07464a4",
+    "b4f2acf800db",
+    "b6fde5cd9b5b"
+   ],
+   "apoio": "0ae3d580c403",
+   "credito": "c389d3cf6d91",
+   "enunciado": "e7bbb9913539",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Sob o ponto de vista da política externa brasile",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q67": {
+   "alternativas": [
+    "f696e191a33c",
+    "d1bfb7c6f7e9",
+    "439182136344",
+    "e040e27cf2bb",
+    "b9082c7bf7f2"
+   ],
+   "apoio": "a5f4f1cf944b",
+   "credito": "734354015d10",
+   "enunciado": "a656df754d81",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com a mudança tecnológica ocorrida durante a Rev",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q68": {
+   "alternativas": [
+    "38ddd8c19dff",
+    "015c450a78d6",
+    "5e9104875895",
+    "aa85a951c164",
+    "3187712608fa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cf6220f82079",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Até o século XVII, as paisagens rurais eram marc",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q69": {
+   "alternativas": [
+    "dce58dc688f7",
+    "4333411d4291",
+    "71607a626d3f",
+    "1b94ffd19a8e",
+    "5595c3a38941"
+   ],
+   "apoio": "57aad92822bf",
+   "credito": "0e8274aaa8e4",
+   "enunciado": "3993ef4bf05b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O mundo narrado nesse trecho do romance de Lúcio",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q70": {
+   "alternativas": [
+    "f28a700afcd6",
+    "2cf760bc44fa",
+    "914ce1df0b2a",
+    "9951c23b2331",
+    "b3c183bd27d4"
+   ],
+   "apoio": "bce8ed09c5a7",
+   "credito": "ae90933093bd",
+   "enunciado": "c103f172198b",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O impacto das ferrovias na promoção de projetos ",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q71": {
+   "alternativas": [
+    "48d86b278566",
+    "8ae95c95e53b",
+    "b19670bb066e",
+    "4bae0acb0661",
+    "ef43889c2c1a"
+   ],
+   "apoio": "3936a27ab364",
+   "credito": "789182883e89",
+   "enunciado": "9878a0a061cf",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma das consequências das inovações tecnológicas",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q72": {
+   "alternativas": [
+    "6b9ac8ad7647",
+    "a79435aff597",
+    "bfecb29f9a30",
+    "4e61e9438033",
+    "3e61114ea1bd"
+   ],
+   "apoio": "11a99194684f",
+   "credito": "f2895e3fb9cb",
+   "enunciado": "4a35bf4f2a46",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base no texto e considerando os impactos cul",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q73": {
+   "alternativas": [
+    "39e96d08d1c1",
+    "9a99d2d30d5e",
+    "b5425faa2b39",
+    "b6adc9aca8a3",
+    "83f866a9e03f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "3c0863107057",
+   "enunciado": "4adc36ac3aaf",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q73-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A partir do mapa apresentado, é possível inferir",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q73-apoio-01.jpg",
+     25,
+     [
+      47.0,
+      58.6,
+      264.9,
+      256.3
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q74": {
+   "alternativas": [
+    "4e7b8dcbb681",
+    "c347a2c637e5",
+    "bccaf4855fbb",
+    "1ce0949e0a5e",
+    "73e05969a8da"
+   ],
+   "apoio": "41581b48a782",
+   "credito": "f58a284bce5f",
+   "enunciado": "f201bc324529",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Apesar das diferenças históricas e geográficas e",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q75": {
+   "alternativas": [
+    "f2020363f9b6",
+    "0f432d56e27c",
+    "0111aaae0cd1",
+    "c15b6607dad5",
+    "794fdc874b37"
+   ],
+   "apoio": "fea69a7783f4",
+   "credito": "92bd48ac616c",
+   "enunciado": "b508d484e450",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base nas informações contidas no texto, depr",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q76": {
+   "alternativas": [
+    "2556ad959322",
+    "ecf3797298be",
+    "68aed89cb5ce",
+    "1d80d3a6f491",
+    "189bccd9500b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "95d6f1fc1e07",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Apesar do aumento da produção no campo e da inte",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q77": {
+   "alternativas": [
+    "20ddd6fec4f8",
+    "055a2cb4fb7d",
+    "d48c023de369",
+    "368ee9dcbe63",
+    "ef48c8c024e8"
+   ],
+   "apoio": "41d82f5884c4",
+   "credito": "760df66aa11d",
+   "enunciado": "78e77cda9a5e",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q77-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações do mapa acerca dos conf",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q77-apoio-01.jpg",
+     26,
+     [
+      52.9,
+      480.8,
+      268.9,
+      710.5
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q78": {
+   "alternativas": [
+    "d8a0e4faa91e",
+    "e26d414d46f7",
+    "43d4eb9c1128",
+    "e94e7d49ba24",
+    "c3c918cf28ca"
+   ],
+   "apoio": "618b0267646c",
+   "credito": "92fe6a941bce",
+   "enunciado": "99ab2f82efd9",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q78-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com o gráfico e com referência à distr",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q78-apoio-01.jpg",
+     26,
+     [
+      309.0,
+      291.5,
+      559.9,
+      446.7
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q79": {
+   "alternativas": [
+    "3e69809bc297",
+    "9f4d8e4818ac",
+    "78f999eef681",
+    "ccadd7bc8f7c",
+    "ce87931f4e88"
+   ],
+   "apoio": "cff061c97885",
+   "credito": "3d30ca6f7232",
+   "enunciado": "3f0c17c54926",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nos lugares mencionados no texto, o papel dos gr",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q80": {
+   "alternativas": [
+    "b721f8082ec4",
+    "72ae45adbcbc",
+    "94a75805983d",
+    "2af5a80a6df5",
+    "a0a62ad53ed8"
+   ],
+   "apoio": "adee42b39790",
+   "credito": "2731db5b6ecf",
+   "enunciado": "b03427139d03",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma das consequências que pode ser atribuída à c",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q81": {
+   "alternativas": [
+    "53250e714a8f",
+    "7ac87804324d",
+    "e7bc2f6e169f",
+    "7198d340ab48",
+    "30d5573bf7ab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "225bd7d044cf",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No presente, observa-se crescente atenção aos ef",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q82": {
+   "alternativas": [
+    "4ce4c884992f",
+    "cc9080ff817c",
+    "8e34b5d80cd2",
+    "c65c31cea423",
+    "e128ac115d66"
+   ],
+   "apoio": "c012f82d0d03",
+   "credito": "7aecab6fb47a",
+   "enunciado": "972bf8898565",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "No cenário de que trata o texto, a exploração de",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q83": {
+   "alternativas": [
+    "25870f733916",
+    "3fa7f8b3e617",
+    "35235ce6f5e3",
+    "77c7313cfcf9",
+    "d936ccc81594"
+   ],
+   "apoio": "62d706dfb7bf",
+   "credito": "ce75c635dbc1",
+   "enunciado": "fd68f724f988",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q83-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "As reservas venezuelanas figuram em ambas as cla",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q83-apoio-01.jpg",
+     28,
+     [
+      226.1,
+      98.9,
+      490.2,
+      357.0
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q84": {
+   "alternativas": [
+    "059e539f5431",
+    "9f5a167c2d67",
+    "0f005ccab9b9",
+    "fc4bcbb0dd14",
+    "033b9d2f7699"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "3957502ddfd3",
+   "enunciado": "03573ddcaefa",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q84-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "As terras brasileiras foram divididas por meio d",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q84-apoio-m01.png",
+     28,
+     [
+      34.5,
+      486.0,
+      262.0,
+      681.5
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q85": {
+   "alternativas": [
+    "a55216bac268",
+    "22b2532d2c7a",
+    "8dd4ebd81b26",
+    "6ca3c9d7a1b6",
+    "4cd699fd982c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "40de43078466",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-A-01.jpg"
+    ],
+    "B": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-B-01.jpg"
+    ],
+    "C": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-C-01.jpg"
+    ],
+    "D": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-D-01.jpg"
+    ],
+    "E": [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-E-01.jpg"
+    ]
+   },
+   "previa": "O clima é um dos elementos fundamentais não só n",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-A-01.jpg",
+     29,
+     [
+      58.9,
+      145.0,
+      209.8,
+      240.3
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-B-01.jpg",
+     29,
+     [
+      59.4,
+      262.6,
+      209.7,
+      359.8
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-C-01.jpg",
+     29,
+     [
+      58.9,
+      382.1,
+      209.8,
+      477.4
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-D-01.jpg",
+     29,
+     [
+      58.9,
+      499.3,
+      209.8,
+      594.6
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q85-alt-E-01.jpg",
+     29,
+     [
+      58.9,
+      616.4,
+      209.8,
+      711.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q86": {
+   "alternativas": [
+    "f61ea165f100",
+    "8fbecd5a80a1",
+    "09a2d4e8e3d4",
+    "f299a2a5bcf1",
+    "0df43ef9ba5a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2a994cf8b637",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q86-apoio-01.jpg",
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q86-apoio-02.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Disponível em: http://clickdigitalsj.com.br. Ace",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q86-apoio-01.jpg",
+     29,
+     [
+      309.0,
+      58.6,
+      564.8,
+      223.9
+     ]
+    ],
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q86-apoio-02.jpg",
+     29,
+     [
+      309.0,
+      248.2,
+      561.3,
+      510.1
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q87": {
+   "alternativas": [
+    "06324010d260",
+    "5ca677775f4d",
+    "3aa7395150ba",
+    "dbf8995ae0be",
+    "6809f7effe6e"
+   ],
+   "apoio": "602bec9d00dc",
+   "credito": "d4c813fef570",
+   "enunciado": "39667dd0dabf",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2009/regular/dia1/enem-2009-regular-d1-q87-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em relação às regiões marcadas na figura, observ",
+   "recortes": [
+    [
+     "/questoes/2009/regular/dia1/enem-2009-regular-d1-q87-apoio-01.jpg",
+     30,
+     [
+      150.2,
+      86.0,
+      445.2,
+      482.8
+     ]
+    ]
+   ]
+  },
+  "enem-2009-regular-d1-q88": {
+   "alternativas": [
+    "5d317de6ac87",
+    "614660262d04",
+    "2f83ab5295f5",
+    "a4da4c1e9742",
+    "a5f218e379af"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "670d7b43923e",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "À medida que a demanda por água aumenta, as rese",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q89": {
+   "alternativas": [
+    "380117ac409c",
+    "349766dc9aeb",
+    "c22906ee7651",
+    "924546c1c195",
+    "19c3d20920f9"
+   ],
+   "apoio": "f7b38fa5b5c3",
+   "credito": "63dcfaf9a485",
+   "enunciado": "907078b75e5d",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "As ideias apontadas no texto estão em oposição, ",
+   "recortes": []
+  },
+  "enem-2009-regular-d1-q90": {
+   "alternativas": [
+    "0fd93a6a566c",
+    "a94dccf6dad6",
+    "8a279a99bf19",
+    "30bc338d9d59",
+    "d201c2055d07"
+   ],
+   "apoio": "53268e214d06",
+   "credito": "3a499ea28463",
+   "enunciado": "f9ce93730a0c",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A medida mais eficaz a ser tomada, visando à con",
+   "recortes": []
+  }
+ }
+}

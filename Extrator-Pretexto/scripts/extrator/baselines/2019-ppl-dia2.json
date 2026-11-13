@@ -1,0 +1,2614 @@
+{
+ "extraidas": 90,
+ "ignoradas": [],
+ "motor": "v2019",
+ "perfil": "motor v2019",
+ "questoes": {
+  "enem-2019-ppl-d2-q100": {
+   "alternativas": [
+    "a1e062046d2d",
+    "c4831f4bd3f6",
+    "7ed568006387",
+    "7482d3ffef32",
+    "59948814213b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "56b36a888601",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q100-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma das formas de se obter energia elétrica é us",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q100-apoio-01.png",
+     5,
+     [
+      289.0,
+      624.4,
+      457.2,
+      638.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q101": {
+   "alternativas": [
+    "c26275a5f5fa",
+    "39fb3c2530fb",
+    "4570af674404",
+    "658065481d89",
+    "a49342a19f78"
+   ],
+   "apoio": "924c213bbf30",
+   "credito": "f74ca956f43d",
+   "enunciado": "6a253eb7c88a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q101-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "De que forma a oxigenação dos tecidos será afeta",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q101-apoio-01.png",
+     6,
+     [
+      210.3,
+      156.8,
+      376.8,
+      314.5
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q102": {
+   "alternativas": [
+    "656df5dadfed",
+    "de3405afed04",
+    "5cdc523bf94a",
+    "31d66e94f666",
+    "77fa95baff28"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1880bfdd74a3",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q102-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma residência com aquecimento central, um re",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q102-apoio-01.jpg",
+     6,
+     [
+      135.0,
+      535.8,
+      431.9,
+      623.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q103": {
+   "alternativas": [
+    "c667583678c5",
+    "51cf1e002c35",
+    "494ee63eb94f",
+    "acee8c159ad3",
+    "5e36e37f2c44"
+   ],
+   "apoio": "bded1f62a149",
+   "credito": "990bb2e1d53c",
+   "enunciado": "dc1256def700",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Do ponto de vista da ciência moderna, a descriçã",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q104": {
+   "alternativas": [
+    "afe5e4525b37",
+    "c9f2d6c76d2e",
+    "f9b1b270d3b5",
+    "f6e1126cedeb",
+    "fc074d501302"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "11e3c3d3d8d5",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O vinagre é um produto alimentício resultante da",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q105": {
+   "alternativas": [
+    "55ac4aec4745",
+    "27f95eea4975",
+    "3680ffc3bdac",
+    "149bef5676db",
+    "6641fd91c7aa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "aea3a1ad3fd9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O nitrogênio é essencial aos seres vivos e pode ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q106": {
+   "alternativas": [
+    "f5f563864c58",
+    "d846ae4085ac",
+    "6f33764f2265",
+    "beb471eb9f2a",
+    "0e277636738f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "15979c3f8d15",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Astrônomos medem a velocidade de afastamento de ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q107": {
+   "alternativas": [
+    "6b7302d5bf79",
+    "6b9aa51875fd",
+    "b4671d4f7824",
+    "101d816587b9",
+    "c82d881021dc"
+   ],
+   "apoio": "e5d6e3d2646c",
+   "credito": "baae06018725",
+   "enunciado": "2d4376179df4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Comparando o pensamento do Padre Cícero com o at",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q108": {
+   "alternativas": [
+    "9d196330d006",
+    "3977b35f69d7",
+    "14b50dfd315b",
+    "3cd63c318994",
+    "986703fc2b4f"
+   ],
+   "apoio": "e1f39a0c8a02",
+   "credito": "1f108103a4ac",
+   "enunciado": "ae8fb74731b8",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q108-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A interação entre a superfície da nanopartícula ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q108-apoio-01.jpg",
+     8,
+     [
+      289.9,
+      233.6,
+      536.7,
+      365.1
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q109": {
+   "alternativas": [
+    "d3ae75f978df",
+    "1fde656d983e",
+    "af393311013c",
+    "307a08a8285a",
+    "9a777101e843"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "23eaa0679dd6",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em regiões desérticas, a obtenção de água potáve",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q110": {
+   "alternativas": [
+    "8412945c3177",
+    "7deb3077cad5",
+    "408d22e328b4",
+    "1f4d11add5c2",
+    "4ec2fde464ab"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9cbf60817309",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um laudo de análise de laboratório apontou que a",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q111": {
+   "alternativas": [
+    "6852cff5325f",
+    "ae46784b1d76",
+    "900857d21444",
+    "05e5198aa445",
+    "c58847306e3b"
+   ],
+   "apoio": "80cd13b9595d",
+   "credito": "697743b2db6b",
+   "enunciado": "5bf4fdc22376",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q111-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual é o processo responsável pela diminuição da",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q111-apoio-01.jpg",
+     9,
+     [
+      289.9,
+      129.0,
+      536.7,
+      330.8
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q112": {
+   "alternativas": [
+    "982b568ef989",
+    "eae56966cf86",
+    "357fa566cee6",
+    "fd2cadc729e0",
+    "08ebd2b571cf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8ce1c8134d2d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q112-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um estudante leu em um site da internet que os p",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q112-apoio-01.png",
+     10,
+     [
+      34.9,
+      398.6,
+      272.6,
+      488.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q113": {
+   "alternativas": [
+    "c8c28deb7227",
+    "5b07b09e6794",
+    "309e02f92bd4",
+    "d38f12221f7e",
+    "5a5c432a8acd"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a5e022d54395",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O mármore, rocha metamórfica composta principalm",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q114": {
+   "alternativas": [
+    "98425df2a20c",
+    "b31dad261244",
+    "8befbc972b6e",
+    "a533328e7d44",
+    "46f0c0bce026"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "debd0127a230",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um dos processos biotecnológicos mais antigos é ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q115": {
+   "alternativas": [
+    "51cbd675d4d4",
+    "2b600ff5bdbe",
+    "3d55d7dad191",
+    "31b4d7c74c23",
+    "06e14b6ffb02"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "91a8404965f4",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em uma atividade prática, um professor propôs o ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q116": {
+   "alternativas": [
+    "47010b2a8ef5",
+    "2895ff11c138",
+    "4f00bf886f0c",
+    "2c4f146c6456",
+    "64be6e474ccf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "57f6b2f56745",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O processo de calagem consiste na diminuição da ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q117": {
+   "alternativas": [
+    "a4154454f826",
+    "48254350d647",
+    "972cf3578e0e",
+    "0b45bf3e7e58",
+    "3eb13ec6e632"
+   ],
+   "apoio": "372e6e8ac90a",
+   "credito": "0c75a7424d11",
+   "enunciado": "3d70bbb9f9e8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A característica morfológica de valor adaptativo",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q118": {
+   "alternativas": [
+    "0465a3dcb1ba",
+    "34ad4ab27277",
+    "747ad0298ca1",
+    "4dfe145fc69d",
+    "78a3d140d556"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ef6a125e349d",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q118-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "1. Coleta e cultivo in vitro das células do paci",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q118-apoio-01.png",
+     11,
+     [
+      323.9,
+      361.0,
+      471.8,
+      552.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q119": {
+   "alternativas": [
+    "15efa888e9df",
+    "d16760d8a2b6",
+    "1e0f55874478",
+    "badd3247dd9e",
+    "649e0ddc0a9a"
+   ],
+   "apoio": "c6c51859654e",
+   "credito": "3c1757de2963",
+   "enunciado": "2d1d30d4ce4f",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para obtenção de biocombustível a partir de alga",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q120": {
+   "alternativas": [
+    "13c672db8142",
+    "023b96f02319",
+    "11651200b1ff",
+    "23a41bf91db0",
+    "e4d6825ffacf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "458376c6fab8",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em 2014, iniciou-se em São Paulo uma séria crise",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q121": {
+   "alternativas": [
+    "aa2d074d4b00",
+    "721411ed09fb",
+    "6678e3ec8e8b",
+    "1a0e55103302",
+    "a5d7fe1dd8cf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "4aa2f9312d35",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q121-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Laboratórios de química geram como subprodutos s",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q121-apoio-01.png",
+     12,
+     [
+      325.2,
+      241.9,
+      501.4,
+      352.2
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q122": {
+   "alternativas": [
+    "49f546263b7a",
+    "faa2bf0d76b6",
+    "a2262c758012",
+    "b73381bcced7",
+    "cd0269a1f20b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9c971e8ee3df",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Recentemente um grupo de biólogos descobriu um a",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q123": {
+   "alternativas": [
+    "0eea5861a5fe",
+    "2c57649a0b6b",
+    "a734c08f97c6",
+    "fa70812b0746",
+    "513fd2483931"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7ba938c53f56",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Nos municípios onde foi detectada a resistência ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q124": {
+   "alternativas": [
+    "f3ba35e959e9",
+    "95367524492b",
+    "272c12eab950",
+    "fd227a1ce9f4",
+    "48db82af6ef6"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0fe48759b9ab",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um professor percebeu que seu apontador a laser,",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q125": {
+   "alternativas": [
+    "e44bde7c811d",
+    "4abe4c390c24",
+    "6433b5f214f5",
+    "68f3763322d9",
+    "a5dd5aa3c72f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8c1d8eefa87b",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Antigamente, em lugares com invernos rigorosos, ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q126": {
+   "alternativas": [
+    "ea7c8e9a466b",
+    "af7b5c70ddc6",
+    "a1b5c412ed66",
+    "81f147f2125e",
+    "192bfdd184fa"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d00c7c050b6b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um herbicida de largo espectro foi desenvolvido ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q127": {
+   "alternativas": [
+    "852f6c4dcc64",
+    "e3886ac910e9",
+    "060f1af4a804",
+    "35e4b1e15b47",
+    "ffaffcd3686a"
+   ],
+   "apoio": "0d35844d2feb",
+   "credito": "d840dfc3f383",
+   "enunciado": "ebc600156469",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Medidas que interferem na localização do hospede",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q128": {
+   "alternativas": [
+    "7d0e7dd46e51",
+    "24bb58bb57df",
+    "e8d43e249030",
+    "61988b5fbc2a",
+    "831b183eaa77"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "58abe8505282",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na busca por ouro, os garimpeiros se confundem f",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q129": {
+   "alternativas": [
+    "d80597171f89",
+    "092be069b551",
+    "7e2cd44f6253",
+    "30b3705db2db",
+    "4938d8051f76"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "5be2aa8f08a9",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O etanol é um combustível renovável obtido da ca",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q130": {
+   "alternativas": [
+    "1fd080a40848",
+    "14d08e66db57",
+    "a85403007f81",
+    "32030a71aa4c",
+    "b3865afc83cc"
+   ],
+   "apoio": "8a003d216b9a",
+   "credito": "1c754921921a",
+   "enunciado": "347d8e4af938",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O principal processo evolutivo relacionado ao te",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q131": {
+   "alternativas": [
+    "cc2aa8a0caad",
+    "7c44c490030a",
+    "80dbbe532e7f",
+    "f9f7db274f65",
+    "129febdc9e65"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7bef8b42fe84",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q131-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O gás hidrogênio é considerado um ótimo combustí",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q131-apoio-01.png",
+     14,
+     [
+      291.2,
+      510.1,
+      535.4,
+      602.7
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q132": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "771226825be7",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-E-01.png"
+    ]
+   },
+   "previa": "Um foguete viaja pelo espaço sideral com os prop",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-apoio-01.png",
+     15,
+     [
+      214.1,
+      160.4,
+      360.5,
+      252.8
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-A-01.png",
+     15,
+     [
+      59.3,
+      312.1,
+      212.4,
+      412.6
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-B-01.png",
+     15,
+     [
+      59.3,
+      467.3,
+      235.9,
+      548.0
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-C-01.png",
+     15,
+     [
+      59.3,
+      592.9,
+      208.1,
+      710.1
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-D-01.png",
+     15,
+     [
+      313.0,
+      307.2,
+      453.1,
+      417.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q132-alt-E-01.png",
+     15,
+     [
+      313.0,
+      452.1,
+      512.8,
+      561.6
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q133": {
+   "alternativas": [
+    "9690186ee926",
+    "a4ace14ecd02",
+    "41d93e445bac",
+    "10194555a8d3",
+    "6d6feb4bfca4"
+   ],
+   "apoio": "c2f394b2159f",
+   "credito": "c512158a6a77",
+   "enunciado": "cec891fc275e",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O uso de fungicida ocasionaria à colmeia dessa e",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q134": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "641310e0a1e9",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um laboratório de química foram encontrados c",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q135": {
+   "alternativas": [
+    "cb021dec4fec",
+    "cb86bc234ec9",
+    "8c46d18ed0b7",
+    "71cec8ed9cdf",
+    "5276e3317665"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9db786dc4f56",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q135-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q135-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A figura mostra, de forma esquemática, uma repre",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q135-apoio-01.png",
+     16,
+     [
+      363.8,
+      219.5,
+      535.4,
+      340.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q135-apoio-02.png",
+     16,
+     [
+      288.7,
+      223.1,
+      359.3,
+      341.7
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q136": {
+   "alternativas": [
+    "b6589fc6ab0d",
+    "1b6453892473",
+    "902ba3cda188",
+    "0ade7c2cf97f",
+    "fa35e192121e"
+   ],
+   "apoio": "514ee27db967",
+   "credito": "f271b3b4e84d",
+   "enunciado": "4392484c29ae",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q136-apoio-01.jpg",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q136-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "De acordo com as informações, indique qual o núm",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q136-apoio-01.jpg",
+     17,
+     [
+      123.0,
+      179.4,
+      441.2,
+      303.8
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q136-apoio-02.png",
+     17,
+     [
+      123.4,
+      317.2,
+      442.7,
+      394.8
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q137": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c9f00b14dd5e",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q137-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa de transporte disponibiliza, para em",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q137-apoio-01.png",
+     17,
+     [
+      77.7,
+      534.7,
+      488.3,
+      613.8
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q138": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e9b2672a0f90",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-E-01.png"
+    ]
+   },
+   "previa": "Uma formiga encontra-se no ponto X, no lado exte",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-apoio-01.png",
+     18,
+     [
+      237.7,
+      153.7,
+      330.5,
+      313.6
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-A-01.png",
+     18,
+     [
+      61.1,
+      409.1,
+      216.3,
+      494.0
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-B-01.png",
+     18,
+     [
+      61.0,
+      520.9,
+      215.8,
+      610.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-C-01.png",
+     18,
+     [
+      61.1,
+      632.2,
+      216.3,
+      716.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-D-01.png",
+     18,
+     [
+      313.9,
+      410.4,
+      468.7,
+      499.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q138-alt-E-01.png",
+     18,
+     [
+      313.9,
+      521.8,
+      468.7,
+      611.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q139": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f397f21e8c23",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q139-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q139-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O dono de um salão de festas precisa decorar cin",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q139-apoio-01.png",
+     19,
+     [
+      70.2,
+      181.0,
+      134.6,
+      377.7
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q139-apoio-02.png",
+     19,
+     [
+      30.2,
+      458.3,
+      276.2,
+      562.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q140": {
+   "alternativas": [
+    "aca03b39f666",
+    "b47b8869b7d0",
+    "1cb5159e947c",
+    "c2a7863b7b7c",
+    "4961ba2a0236"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a7563ba62654",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q140-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Considere que a safra nacional de cereais, legum",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q140-apoio-01.png",
+     19,
+     [
+      313.6,
+      178.0,
+      513.2,
+      321.7
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q141": {
+   "alternativas": [
+    "8ce00fe68743",
+    "d58e116bda7e",
+    "68909f96ff78",
+    "209fc2861211",
+    "9457fb109882"
+   ],
+   "apoio": "16fc796dfdd1",
+   "credito": "05c0ded8c0c1",
+   "enunciado": "7aa9d8292bb1",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Com base nas informações, qual expressão represe",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q142": {
+   "alternativas": [
+    "ea094da2340b",
+    "87d8dc41a186",
+    "5a616f5a3f4e",
+    "f5050e4f715f",
+    "6a01fa74a016"
+   ],
+   "apoio": "28e25c13ddfa",
+   "credito": "684bd0e07749",
+   "enunciado": "370d19934e2a",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q142-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Com base nas informações apresentadas, a maior r",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q142-apoio-01.png",
+     20,
+     [
+      46.4,
+      312.8,
+      264.8,
+      450.2
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q143": {
+   "alternativas": [
+    "0c8ed7a5ae69",
+    "e38b75b45a3e",
+    "2eba6e4f12ff",
+    "5c72da08f13e",
+    "09d024446ff1"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "47b5b5adb680",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q143-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No desenvolvimento de um novo remédio, pesquisad",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q143-apoio-01.png",
+     20,
+     [
+      306.7,
+      194.3,
+      519.8,
+      245.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q144": {
+   "alternativas": [
+    "a17554a0d2b1",
+    "6fb84aed32fa",
+    "b4182bff4b3c",
+    "19a448c01aa2",
+    "3028f51407d8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "480e80da2c48",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um jardineiro cultiva plantas ornamentais e as c",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q145": {
+   "alternativas": [
+    "95f448b100ce",
+    "203b6f48a6aa",
+    "a30bf79f65c7",
+    "785da0465179",
+    "f700dbe1752e"
+   ],
+   "apoio": "be44322204f8",
+   "credito": "1c4eec376c25",
+   "enunciado": "c6dd84097b85",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O valor posicional do algarismo 7, presente na n",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q146": {
+   "alternativas": [
+    "277b69f5609e",
+    "dc8f472ca719",
+    "4caa627c16a7",
+    "082413ceb03c",
+    "f4fbebeface3"
+   ],
+   "apoio": "6a81c2a2cac6",
+   "credito": "b74cba29af04",
+   "enunciado": "97726622ceba",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Considere uma pessoa saudável que, no decorrer d",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q147": {
+   "alternativas": [
+    "17bad1aaf84a",
+    "2eba6e4f12ff",
+    "bd0eb8527e5e",
+    "a2781076d840",
+    "0950c3e574c4"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "854fa3dc4f6b",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa comprou um aparelho sem fio para tran",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q148": {
+   "alternativas": [
+    "e5d8982940ae",
+    "9a7b41bdaee8",
+    "c6e65d229d69",
+    "952d22e45f1c",
+    "4621a6ad8dc2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "544096b44210",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q148-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um gerente decidiu fazer um estudo financeiro da",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q148-apoio-01.png",
+     21,
+     [
+      289.5,
+      364.4,
+      537.7,
+      425.5
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q149": {
+   "alternativas": [
+    "d5dd69c2ab54",
+    "6f48883f2362",
+    "04ab772877da",
+    "5bdc07cb839e",
+    "7a31016e65be"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e16a54ebeb53",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q149-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um fiscal de certa empresa de ônibus registra o ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q149-apoio-01.png",
+     22,
+     [
+      32.5,
+      240.6,
+      274.6,
+      359.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q150": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "08ede89365c5",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q150-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um país decide investir recursos na educação em ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q150-apoio-01.png",
+     22,
+     [
+      29.7,
+      552.3,
+      277.4,
+      655.9
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q151": {
+   "alternativas": [
+    "13310967975f",
+    "d77ff1a8e03b",
+    "565f41d7f0ff",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "d3888e9526ba",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-apoio-01.png"
+   ],
+   "imagens_alt": {
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-alt-E-01.png"
+    ]
+   },
+   "previa": "Para certas molas, a constante elástica (C) depe",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-apoio-01.png",
+     22,
+     [
+      383.4,
+      289.2,
+      442.1,
+      321.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-alt-D-01.png",
+     22,
+     [
+      311.0,
+      559.8,
+      359.4,
+      587.0
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q151-alt-E-01.png",
+     22,
+     [
+      311.0,
+      595.8,
+      359.4,
+      623.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q152": {
+   "alternativas": [
+    "20e47515df53",
+    "bb98df7f8908",
+    "4b44305d0c47",
+    "76980ede05a0",
+    "517289921afe"
+   ],
+   "apoio": "845d94214b05",
+   "credito": "63c4b0429b8f",
+   "enunciado": "172f32c36a4f",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q152-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A mediana das alturas, em metro, desses jogadore",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q152-apoio-01.png",
+     23,
+     [
+      42.8,
+      153.3,
+      264.4,
+      343.2
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q153": {
+   "alternativas": [
+    "6d6cfe77c0ad",
+    "2194e9ec30b7",
+    "c0754013eed8",
+    "f0fab33c4d42",
+    "db0555fc54df"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "9a2d88b84766",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q153-apoio-m01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "A unidade de medida utilizada para anunciar o ta",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q153-apoio-m01.png",
+     23,
+     [
+      65.5,
+      555.0,
+      247.0,
+      666.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q154": {
+   "alternativas": [
+    "c904892e66ee",
+    "8c98e4597914",
+    "3d5f30b11cdc",
+    "d8d549254bc3",
+    "d163c355e26e"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "743b3cabfc34",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma locadora possui disponíveis 120 veículos da ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q155": {
+   "alternativas": [
+    "e48630ed8b7f",
+    "1090c884ae8d",
+    "f8430b135593",
+    "ee488178b7d8",
+    "07e41fa5f8ea"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "43f2bbc442dc",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q155-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Um vidraceiro é contratado para colocar uma port",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q155-apoio-01.png",
+     23,
+     [
+      293.7,
+      512.2,
+      532.6,
+      534.0
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q156": {
+   "alternativas": [
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc",
+    "17bad1aaf84a"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "23b41bff6977",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q156-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O boliche é um esporte cujo objetivo é derrubar,",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q156-apoio-01.png",
+     24,
+     [
+      38.0,
+      171.0,
+      269.4,
+      309.6
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q157": {
+   "alternativas": [
+    "ffcb65279aaa",
+    "4eac4bd8c61e",
+    "6ac1d3171c21",
+    "3585caab172e",
+    "35af7280cf46"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "898d61d771d0",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q157-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "As coordenadas usualmente utilizadas na localiza",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q157-apoio-01.png",
+     24,
+     [
+      296.5,
+      357.2,
+      527.9,
+      579.4
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q158": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "e6aed7e4712c",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-02.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-03.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-04.png"
+   ],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-E-01.png"
+    ]
+   },
+   "previa": "Os movimentos ondulatórios (periódicos) são\n\nque",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-01.png",
+     25,
+     [
+      29.3,
+      111.6,
+      278.5,
+      126.1
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-02.png",
+     25,
+     [
+      29.3,
+      136.8,
+      278.5,
+      167.2
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-03.png",
+     25,
+     [
+      29.7,
+      181.2,
+      278.5,
+      209.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-apoio-04.png",
+     25,
+     [
+      36.1,
+      300.9,
+      271.3,
+      524.6
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-A-01.png",
+     25,
+     [
+      47.8,
+      570.5,
+      118.0,
+      586.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-B-01.png",
+     25,
+     [
+      47.8,
+      601.4,
+      123.9,
+      617.6
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-C-01.png",
+     25,
+     [
+      47.8,
+      632.2,
+      124.2,
+      648.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-D-01.png",
+     25,
+     [
+      47.8,
+      666.0,
+      137.8,
+      694.6
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q158-alt-E-01.png",
+     25,
+     [
+      47.8,
+      705.7,
+      138.1,
+      734.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q159": {
+   "alternativas": [
+    "5e1164e36f85",
+    "7e0783095c82",
+    "b46da6ec3703",
+    "1971b5043d8f",
+    "b77a111bfdc3"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ed4d5e7ceda0",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "A conta de telefone de uma loja foi, nesse mês, ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q160": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8df5db8794c2",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-E-01.png"
+    ]
+   },
+   "previa": "Uma equipe de cientistas decidiu iniciar uma cul",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-A-01.png",
+     25,
+     [
+      311.0,
+      561.2,
+      407.4,
+      586.4
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-B-01.png",
+     25,
+     [
+      313.0,
+      600.8,
+      412.2,
+      626.7
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-C-01.png",
+     25,
+     [
+      311.0,
+      642.0,
+      413.7,
+      660.0
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-D-01.png",
+     25,
+     [
+      311.0,
+      674.6,
+      404.6,
+      694.1
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q160-alt-E-01.png",
+     25,
+     [
+      311.0,
+      711.0,
+      419.6,
+      727.2
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q161": {
+   "alternativas": [
+    "bcb1d4aac9bc",
+    "ce91939e2220",
+    "414b39671102",
+    "c18039e98e0f",
+    "4436a3cda881"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cea88fd4c89c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q161-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa sorteia prêmios entre os funcionário",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q161-apoio-01.png",
+     26,
+     [
+      31.8,
+      181.3,
+      275.3,
+      300.4
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q162": {
+   "alternativas": [
+    "d2340ac70fd1",
+    "af9a19ffb335",
+    "85079803e620",
+    "a9dd539ba732",
+    "b216bbdc6cca"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "a4648d2a38dc",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Para decorar sua casa, uma pessoa comprou um vas",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q163": {
+   "alternativas": [
+    "ca73ab65568c",
+    "e95267a3d7c9",
+    "a6178c525a0d",
+    "932eaaf5a365",
+    "c9ee5681d3c5"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "98088127cf1c",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q163-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q163-apoio-02.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa especializou-se no aluguel de contêi",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q163-apoio-01.png",
+     26,
+     [
+      299.5,
+      280.3,
+      531.1,
+      423.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q163-apoio-02.png",
+     26,
+     [
+      289.4,
+      520.7,
+      536.6,
+      625.5
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q164": {
+   "alternativas": [
+    "d8135469829d",
+    "00ab0061f454",
+    "99054f2aab08",
+    "07fa1cefd4c7",
+    "337c388ab722"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "cf7177f80f15",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q164-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em uma corrida de regularidade, cada corredor re",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q164-apoio-01.png",
+     27,
+     [
+      103.1,
+      163.8,
+      463.9,
+      254.5
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q165": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "ac3478d69a3c",
+    "c1dfd96eea8c"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f2bde1ffd65e",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Um pintor cobra R$ 240,00 por dia de trabalho, q",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q166": {
+   "alternativas": [
+    "503897d852d0",
+    "a9dd539ba732",
+    "4530d9efeacd",
+    "0b9066d6f7ec",
+    "e942dd8841bf"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b9ed7918d370",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Alguns modelos de rádios automotivos estão prote",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q167": {
+   "alternativas": [
+    "abcfc6483cc5",
+    "67d5e3a5fe8f",
+    "75ba66218803",
+    "5094d46b96b4",
+    "11b31b6ea015"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2a6df42d42ae",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Em um laboratório, cientistas observaram o cresc",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q168": {
+   "alternativas": [
+    "f4ef09989dfa",
+    "7337677c8724",
+    "1fc181d4bdf2",
+    "b9da921494c5",
+    "34688a91a40f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "0e8cd23813d2",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q168-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No ano de 1751, o matemático Euler conseguiu dem",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q168-apoio-01.png",
+     28,
+     [
+      84.1,
+      505.4,
+      223.0,
+      622.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q169": {
+   "alternativas": [
+    "4c9a8a283f02",
+    "1be80dd1890d",
+    "dd4892422649",
+    "541f28b6e898",
+    "047bae689507"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "ea12cdd0b606",
+   "gabarito": "B",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Uma pessoa fez um depósito inicial de R$ 200,00 ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q170": {
+   "alternativas": [
+    "1213ed1ad116",
+    "f9cc043399f5",
+    "d2db3d595e2c",
+    "2107d864997b",
+    "b2c6839cb4a8"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "35d169a16759",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Muitos restaurantes servem refrigerantes em copo",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q171": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "2817facdfac4",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Deseja-se comprar determinado produto e, após\num",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q172": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "60419054bff9",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q172-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Para a compra de um repelente eletrônico, uma pe",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q172-apoio-01.png",
+     29,
+     [
+      37.0,
+      498.8,
+      270.3,
+      602.5
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q173": {
+   "alternativas": [
+    "32c4a538a9a6",
+    "cf50f234d91b",
+    "32e9cb706d27",
+    "5063d0b73211",
+    "b8d42561b868"
+   ],
+   "apoio": "f49ab2f1a8eb",
+   "credito": "447429faf5e3",
+   "enunciado": "104a5d28dd4c",
+   "gabarito": "E",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q173-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Qual o maior intervalo em que a resposta funcion",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q173-apoio-01.png",
+     29,
+     [
+      311.9,
+      206.9,
+      532.3,
+      417.8
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q174": {
+   "alternativas": [
+    "afe55b8a4d48",
+    "3aeee59983ea",
+    "3a1815738d98",
+    "15333b55e6af",
+    "f3d48d44aae7"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "8245c40ba54e",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-02.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-03.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa, investindo na segurança, contrata u",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-01.png",
+     30,
+     [
+      48.2,
+      239.9,
+      251.1,
+      447.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-02.png",
+     30,
+     [
+      83.6,
+      537.5,
+      159.4,
+      564.7
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q174-apoio-03.png",
+     30,
+     [
+      83.6,
+      573.5,
+      164.4,
+      600.7
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q175": {
+   "alternativas": [
+    "803ab79310ab",
+    "a8792c028241",
+    "cb347a0ce208",
+    "c615f89cc21e",
+    "4133cbf6d210"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "77bb32eec3cb",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q175-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "No trapézio isósceles mostrado na figura a segui",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q175-apoio-01.png",
+     30,
+     [
+      331.3,
+      141.9,
+      497.3,
+      223.1
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q176": {
+   "alternativas": [
+    "f7e19157e9c4",
+    "77873674e5df",
+    "bf9e9998a83a",
+    "fa1a65120bd4",
+    "7919ae519f96"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f3b986c5371d",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q176-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Em um município foi realizado um levantamento re",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q176-apoio-01.png",
+     30,
+     [
+      299.7,
+      502.8,
+      526.9,
+      573.7
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q177": {
+   "alternativas": [
+    "1abb3ea06e15",
+    "0a53172284e8",
+    "3f758b91b523",
+    "e048708fc8ad",
+    "9dc68929ee14"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "1f11605fb092",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q177-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Uma empresa divide o balanço anual de vendas de ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q177-apoio-01.png",
+     31,
+     [
+      29.8,
+      187.0,
+      279.3,
+      315.4
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q178": {
+   "alternativas": [
+    "5baea9ca1359",
+    "50adad307850",
+    "664f7fafcc49",
+    "9b51fd5e9f2b",
+    "04378d92a34a"
+   ],
+   "apoio": "41e63ff40049",
+   "credito": "a308e7836c34",
+   "enunciado": "4538ba3c068b",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q178-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O professor constatou que o aluno esqueceu de co",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q178-apoio-01.png",
+     31,
+     [
+      86.6,
+      518.4,
+      203.6,
+      603.9
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q179": {
+   "alternativas": [
+    "4d0e47efffea",
+    "5bd182cfc2e1",
+    "5069cb76d61d",
+    "8fbd8564a88b",
+    "2409767a0a72"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "f1e48b513fdc",
+   "gabarito": "C",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q179-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O quadro apresenta a quantidade de um tipo de pã",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q179-apoio-01.png",
+     31,
+     [
+      289.5,
+      122.2,
+      537.2,
+      246.2
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q180": {
+   "alternativas": [
+    "58bc8be1af11",
+    "2ad8cea62acd",
+    "449dbe7f6198",
+    "7de63d86479a",
+    "7b749ad59e65"
+   ],
+   "apoio": "b9d6674f3568",
+   "credito": "6146de130fdd",
+   "enunciado": "5a40ba73b1d1",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q180-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "O segmento RP é um diâmetro dessa circunferência",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q180-apoio-01.png",
+     31,
+     [
+      289.0,
+      606.8,
+      538.2,
+      630.8
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q91": {
+   "alternativas": [
+    "e3e3be8d5c17",
+    "8fb04281ee26",
+    "e192a64a2399",
+    "d221a95a5914",
+    "866784fdb137"
+   ],
+   "apoio": "e568ad92d155",
+   "credito": "06d8f20c4fa1",
+   "enunciado": "82b785b7d191",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q91-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A menor desaceleração da pedra de granito ocorre",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q91-apoio-01.jpg",
+     2,
+     [
+      174.1,
+      219.2,
+      393.8,
+      371.9
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q92": {
+   "alternativas": [
+    "dcf4ef6622d9",
+    "e97031e5b027",
+    "9902d381a017",
+    "0c8ed7a5ae69",
+    "d2835fcfb3bc"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "c3a76949c5d4",
+   "gabarito": "D",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q92-apoio-01.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Atualmente, uma série de dietas alimentares têm ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q92-apoio-01.png",
+     2,
+     [
+      61.0,
+      565.3,
+      506.9,
+      650.4
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q93": {
+   "alternativas": [
+    "356a192b7913",
+    "da4b9237bacc",
+    "77de68daecd8",
+    "1b6453892473",
+    "ac3478d69a3c"
+   ],
+   "apoio": "add1e5c9cbaf",
+   "credito": "321f40122e81",
+   "enunciado": "351b28203de1",
+   "gabarito": "A",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-01.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-02.jpg",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-03.png",
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-04.png"
+   ],
+   "imagens_alt": {},
+   "previa": "Dos filhotes, qual apresenta a coloração típica ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-01.png",
+     3,
+     [
+      137.5,
+      243.7,
+      542.3,
+      291.7
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-02.jpg",
+     3,
+     [
+      137.5,
+      312.3,
+      517.1,
+      356.3
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-03.png",
+     3,
+     [
+      137.5,
+      372.3,
+      314.6,
+      388.3
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q93-apoio-04.png",
+     3,
+     [
+      369.6,
+      372.3,
+      488.7,
+      404.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q94": {
+   "alternativas": [
+    "4def78d8da50",
+    "ef71ea1eb744",
+    "2067b504199a",
+    "83b0ae87a432",
+    "393fb90449d2"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "3ce6af95229a",
+   "gabarito": "C",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Algumas moedas utilizam cobre metálico em sua co",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q95": {
+   "alternativas": [
+    "2bcf3aea75cb",
+    "b61c987fdc70",
+    "688fd3c9b545",
+    "7dbe3da5b88d",
+    "4255234c014f"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "7325339c8267",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Algumas espécies de orquídeas apresentam flores ",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q96": {
+   "alternativas": [
+    "eaaf10aa8c9f",
+    "a9e244a35670",
+    "af393311013c",
+    "e105743053fa",
+    "d3ae75f978df"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "65cbdfbd1adf",
+   "gabarito": "A",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "Na perfuração de uma jazida petrolífera, a press",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q97": {
+   "alternativas": [
+    "d888b9626dce",
+    "e2d289d744b0",
+    "51fa0788ae84",
+    "da3664248a3d",
+    "933525ef9dae"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "b0537dcdd388",
+   "gabarito": "D",
+   "imagens": [],
+   "imagens_alt": {},
+   "previa": "O ácido ricinoleico, um ácido graxo funcionaliza",
+   "recortes": []
+  },
+  "enem-2019-ppl-d2-q98": {
+   "alternativas": [
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b",
+    "da39a3ee5e6b"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "17aaac0bc9f9",
+   "gabarito": "E",
+   "imagens": [],
+   "imagens_alt": {
+    "A": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-A-01.png"
+    ],
+    "B": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-B-01.png"
+    ],
+    "C": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-C-01.png"
+    ],
+    "D": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-D-01.png"
+    ],
+    "E": [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-E-01.png"
+    ]
+   },
+   "previa": "O 2-BHA é um fenol usado como antioxidante para ",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-A-01.png",
+     5,
+     [
+      62.1,
+      217.3,
+      190.6,
+      301.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-B-01.png",
+     5,
+     [
+      62.1,
+      319.4,
+      160.3,
+      405.5
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-C-01.png",
+     5,
+     [
+      62.5,
+      424.1,
+      158.6,
+      510.2
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-D-01.png",
+     5,
+     [
+      62.1,
+      528.5,
+      163.4,
+      615.9
+     ]
+    ],
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q98-alt-E-01.png",
+     5,
+     [
+      62.1,
+      633.4,
+      171.2,
+      727.3
+     ]
+    ]
+   ]
+  },
+  "enem-2019-ppl-d2-q99": {
+   "alternativas": [
+    "6983d4d6446a",
+    "9901a5bec0a8",
+    "920738fae2a6",
+    "a54539d5cfb5",
+    "9324b0d96574"
+   ],
+   "apoio": "da39a3ee5e6b",
+   "credito": "da39a3ee5e6b",
+   "enunciado": "330d2b4012a7",
+   "gabarito": "B",
+   "imagens": [
+    "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q99-apoio-01.jpg"
+   ],
+   "imagens_alt": {},
+   "previa": "A ação de uma nova droga antitumoral sobre o cit",
+   "recortes": [
+    [
+     "/questoes/2019/ppl/dia2/enem-2019-ppl-d2-q99-apoio-01.jpg",
+     5,
+     [
+      291.5,
+      149.8,
+      535.1,
+      354.2
+     ]
+    ]
+   ]
+  }
+ }
+}

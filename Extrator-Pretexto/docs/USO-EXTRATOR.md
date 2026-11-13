@@ -9,30 +9,30 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 
 <!-- ESTADO-POR-ANO -->
 <a id="estado-por-ano"></a>
-### Estado por ano (validação em lote, dry-run)
+### Estado por ano (o que está gravado em `supabase/` e `public/questoes/`)
 
-| Ano | Motor | Provas OK | Questões extraídas | Pendências |
-|---|---|---|---|---|
-| 2025 | `v2025` | 6/6 | 555/555 | — |
-| 2024 | `v2024` | 4/4 | 370/370 | — |
-| 2023 | `v2023` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
-| 2022 | `v2022` | 3/7 | 635/640 | digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: REVISAR; regular-dia2: REVISAR |
-| 2020 | `v2020` | 2/7 | 626/640 | digital-dia1-espanhol: FALHA; digital-dia1-ingles: FALHA; digital-dia2: FALHA; ppl-dia2: REVISAR; regular-dia2: REVISAR |
-| 2019 | `v2019` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
-| 2018 | `v2018` | 2/4 | 370/370 | ppl-dia2: REVISAR; regular-dia2: REVISAR |
-| 2017 | `v2017` | 1/4 | 370/370 | ppl-dia2: REVISAR; regular-dia1: REVISAR; regular-dia2: REVISAR |
-| 2016 | `v2016` | 1/6 | 555/555 | ppl-dia1: REVISAR; ppl-dia2: REVISAR; regular-dia1: REVISAR; segunda-dia1: REVISAR; segunda-dia2: REVISAR |
-| 2015 | `v2015` | 1/4 | 370/370 | ppl-dia1: REVISAR; regular-dia1: REVISAR; regular-dia2: REVISAR |
-| 2014 | `v2014` | 3/6 | 555/555 | ppl-dia1: REVISAR; ppl-dia2: REVISAR; regular-dia1: REVISAR |
-| 2013 | `v2013` | 3/4 | 370/370 | regular-dia1: REVISAR |
-| 2012 | `v2012` | 3/4 | 370/370 | ppl-dia1: REVISAR |
-| 2011 | `v2011` | 1/2 | 185/185 | regular-dia1: REVISAR |
-| 2009 | `v2009` | 0/2 | 179/180 | regular-dia1: FALHA; regular-dia2: REVISAR |
+| Ano | Motor | Provas gravadas | Questões no SQL | Questões com correção manual | Imagens |
+|---|---|---|---|---|---|
+| 2025 | `v2025` | 6 | 555 | 0 | 238 |
+| 2024 | `v2024` | 4 | 370 | 0 | 198 |
+| 2023 | `v2023` | 4 | 370 | 1 | 188 |
+| 2022 | `v2022` | 7 | 640 | 202 | 656 |
+| 2021 | `v2021` | 7 | 640 | 32 | 357 |
+| 2020 | `v2020` | 7 | 640 | 11 | 340 |
+| 2019 | `v2019` | 4 | 370 | 5 | 183 |
+| 2018 | `v2018` | 4 | 370 | 6 | 214 |
+| 2017 | `v2017` | 4 | 370 | 5 | 212 |
+| 2016 | `v2016` | 6 | 555 | 5 | 282 |
+| 2015 | `v2015` | 4 | 370 | 4 | 175 |
+| 2014 | `v2014` | 6 | 555 | 4 | 274 |
+| 2013 | `v2013` | 4 | 370 | 2 | 188 |
+| 2012 | `v2012` | 4 | 370 | 2 | 228 |
+| 2011 | `v2011` | 2 | 185 | 0 | 98 |
+| 2009 | `v2009` | 2 | 180 | 4 | 101 |
+| **Total** | | **75** | **6910** | **283** | **3932** |
 
-Sem gabarito oficial no repositório (não processadas): `2011/ppl/dia1-prova.pdf`, `2011/ppl/dia2-prova.pdf`.
-
-Detalhes por prova em `relatorios/CONSOLIDADO.md`. Provas **OK** têm foto em `baselines/`. Todas as provas foram gravadas; questões ignoradas ficam fora do SQL. 2010 e 2021 (exceto regular e PPL dia 1) ainda não foram processadas.
-<!-- /ESTADO-POR-ANO --><!-- /ESTADO-POR-ANO -->
+Correções manuais (extração assistida) ficam em `scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json` e são aplicadas pelo extrator a cada execução. Sem gabarito oficial no repositório: 2011 PPL (não processada).
+<!-- /ESTADO-POR-ANO -->
 
 ## 1) Preparar o ambiente
 
