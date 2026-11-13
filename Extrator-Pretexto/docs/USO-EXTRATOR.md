@@ -28,8 +28,9 @@ ano, dia e categoria, e o **motor** de extração de cada ano, ficam em `scripts
 | 2013 | `v2013` | 4 | 370 | 2 | 188 |
 | 2012 | `v2012` | 4 | 370 | 2 | 228 |
 | 2011 | `v2011` | 2 | 185 | 0 | 98 |
+| 2010 | `v2010` | 2 | 185 | 54 | 99 |
 | 2009 | `v2009` | 2 | 180 | 4 | 101 |
-| **Total** | | **75** | **6910** | **283** | **3932** |
+| **Total** | | **77** | **7095** | **337** | **4031** |
 
 Correções manuais (extração assistida) ficam em `scripts/extrator/manuais/ANO-CATEGORIA-diaN[-idioma].json` e são aplicadas pelo extrator a cada execução. Sem gabarito oficial no repositório: 2011 PPL (não processada).
 <!-- /ESTADO-POR-ANO -->
