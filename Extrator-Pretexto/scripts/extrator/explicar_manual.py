@@ -10,6 +10,7 @@ reaproveita, e são gravadas direto no SQL, sem reextrair a prova.
     python scripts/extrator/explicar_manual.py estado                      # quantas explicações por prova
     python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20 # próximas 20 questões sem explicação
     python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json   # {"id": "texto", ...}
+    python scripts/extrator/explicar_manual.py copiar 2022-digital-dia1-ingles 2022-digital-dia1-espanhol
     python scripts/extrator/explicar_manual.py aplicar [2025-regular-dia1 ...]          # grava no SQL (todas, sem nome)
 
 Regras de escrita: as mesmas de explicar.py (SISTEMA), com o gabarito oficial como referência.
@@ -125,6 +126,21 @@ def cmd_salvar(prova, arquivo):
     print(f'{prova}: {len(novas)} explicação(ões) salvas; {len(c)} no cache')
 
 
+def cmd_copiar(origem, destino):
+    """Copia explicações de questões idênticas (mesmo id e mesmo conteúdo) de uma prova para outra (dia 1 digital:
+    as questões comuns ao inglês e ao espanhol têm o mesmo id)."""
+    _, co = cache(origem)
+    arq, cd = cache(destino)
+    n = 0
+    for q in questoes(destino):
+        e = co.get(q['id'])
+        if e and e.get('hash') == IA._hash(q) and cd.get(q['id'], {}).get('hash') != e['hash']:
+            cd[q['id']] = e
+            n += 1
+    arq.write_text(json.dumps(cd, ensure_ascii=False, indent=1, sort_keys=True), encoding='utf-8')
+    print(f'{destino}: {n} explicação(ões) copiadas de {origem}')
+
+
 def cmd_aplicar(nomes):
     for p in nomes or provas():
         arq_sql = RAIZ / 'supabase' / f'ATUALIZAR-{p}.sql'
@@ -152,7 +168,7 @@ def cmd_aplicar(nomes):
 
 if __name__ == '__main__':
     a = sys.argv[1:]
-    if not a or a[0] not in ('estado', 'pacote', 'salvar', 'aplicar'):
+    if not a or a[0] not in ('estado', 'pacote', 'salvar', 'copiar', 'aplicar'):
         sys.exit(__doc__)
     {'estado': lambda: cmd_estado(), 'pacote': lambda: cmd_pacote(a[1], a[2] if len(a) > 2 else 20),
-     'salvar': lambda: cmd_salvar(a[1], a[2]), 'aplicar': lambda: cmd_aplicar(a[1:])}[a[0]]()
+     'salvar': lambda: cmd_salvar(a[1], a[2]), 'copiar': lambda: cmd_copiar(a[1], a[2]), 'aplicar': lambda: cmd_aplicar(a[1:])}[a[0]]()
