@@ -1,7 +1,7 @@
 # Status da extração do ENEM 2010 (ramo `lote/2010`)
 
-Gravado: imagens em `public/questoes/2010/` e SQL em `supabase/ATUALIZAR-2010-*.sql` (convertidos com
-`sobrescrever_sql.sh`). Nenhuma mudança de código do extrator nesta etapa: tudo foi corrigido por JSON manual
+Gravado só o regular (imagens em `public/questoes/2010/regular/`, SQL `supabase/ATUALIZAR-2010-regular-*.sql` convertidos com
+`sobrescrever_sql.sh`). A gravação do PPL fica com a sessão coordenadora (correções já no JSON manual). Nenhuma mudança de código do extrator nesta etapa: tudo foi corrigido por JSON manual
 (`scripts/extrator/manuais/2010-*.json`).
 
 ## Status por prova (gravação)
@@ -10,8 +10,8 @@ Gravado: imagens em `public/questoes/2010/` e SQL em `supabase/ATUALIZAR-2010-*.
 |---|---|---|---|
 | 2010-regular-dia1 | 90/90 | OK | 3 (Q66, Q67, Q82) |
 | 2010-regular-dia2 | 95/95 | OK | 8 (Q92-ing, Q93-ing, Q95-ing, Q121, Q146, Q148, Q150, Q167) |
-| 2010-ppl-dia1 | 90/90 (dry-run) | gravação em andamento | 21 (ver abaixo) |
-| 2010-ppl-dia2 | 95/95 (com manual) | gravação em andamento | 24 (ver abaixo) |
+| 2010-ppl-dia1 | 90/90 (com manual) | pronto para gravar | 21 (ver abaixo) |
+| 2010-ppl-dia2 | 95/95 (com manual) | pronto para gravar | 24 (ver abaixo) |
 
 ## Gabarito
 - **Regular:** lido automaticamente da letra circulada no `diaN-gabarito.pdf` (90 e 95 respostas).
