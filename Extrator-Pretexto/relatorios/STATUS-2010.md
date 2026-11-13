@@ -1,67 +1,57 @@
 # Status da extração do ENEM 2010 (ramo `lote/2010`)
 
-Trabalho interrompido a pedido do usuário. Nada foi gravado: sem imagens, sem SQL e sem mudanças em
-`public/questoes/`, `supabase/` ou `baselines/`.
+Gravado só o regular (imagens em `public/questoes/2010/regular/`, SQL `supabase/ATUALIZAR-2010-regular-*.sql` convertidos com
+`sobrescrever_sql.sh`). A gravação do PPL fica com a sessão coordenadora (correções já no JSON manual). Nenhuma mudança de código do extrator nesta etapa: tudo foi corrigido por JSON manual
+(`scripts/extrator/manuais/2010-*.json`).
 
-## Status por prova (dry-run, última execução)
+## Status por prova (gravação)
 
-| Prova | Extraídas | Status | Observação |
+| Prova | Extraídas | Status | Correções manuais |
 |---|---|---|---|
-| 2010-regular-dia1 | 90/90 | REVISAR | 0 palavras/algarismos sem cobertura; 4 avisos CRÍTICOS em 3 questões (Q66, Q67, Q82) |
-| 2010-regular-dia2 | 95/95 | REVISAR | 0 palavras/algarismos sem cobertura; 2 avisos CRÍTICOS (Q95-inglês) |
-| 2010-ppl-dia1 | não medido | — | gabarito pronto (90/90); a extração com o código final não terminou antes da parada |
-| 2010-ppl-dia2 | não medido | — | gabarito pronto (95/95); idem |
+| 2010-regular-dia1 | 90/90 | OK | 3 (Q66, Q67, Q82) |
+| 2010-regular-dia2 | 95/95 | OK | 8 (Q92-ing, Q93-ing, Q95-ing, Q121, Q146, Q148, Q150, Q167) |
+| 2010-ppl-dia1 | 90/90 (com manual) | pronto para gravar | 21 (ver abaixo) |
+| 2010-ppl-dia2 | 95/95 (com manual) | pronto para gravar | 24 (ver abaixo) |
 
-Antes deste trabalho: as 4 provas tinham 0 questões aproveitáveis (o gabarito lia só 2 respostas e o regular não
-reconhecia nenhuma alternativa).
+## Gabarito
+- **Regular:** lido automaticamente da letra circulada no `diaN-gabarito.pdf` (90 e 95 respostas).
+- **PPL:** `manuais/2010-ppl-diaN-gabarito.json`, transcrito à mão do círculo verde em cada questão do caderno e
+  conferido visualmente uma a uma (90 + 95). A leitura automática dá o mesmo resultado em 100% dos casos.
 
-## O que foi feito
+## Correções manuais (por quê)
 
-### Gabarito
-- **PPL (manual, visual):** `scripts/extrator/manuais/2010-ppl-dia1-gabarito.json` (90) e `2010-ppl-dia2-gabarito.json`
-  (95, com 91–95 em inglês e em espanhol). Cada letra foi lida no círculo verde do caderno e conferida por mim
-  na imagem renderizada, questão a questão. Casos difíceis: dia 1 Q84 = B (o círculo é uma elipse); dia 2
-  Q140 = C (o outro círculo da página é a seta de rotação da figura); dia 2 Q108–Q110 conferidas na página inteira.
-  Lido por `_gabarito_manual()` quando não há PDF de gabarito (flag nova `gabarito_manual`, só no v2010;
-  `descobrir_provas` e `lote.sem_gabarito` passam a enxergar o arquivo).
-- **Leitura automática (`_gabarito_marcado`, só o v2010 usa):** reescrita. Pega os círculos verdes/verde-azulados em
-  ordem de leitura (respeitando trechos de largura total), identifica a letra dentro (fonte de marcador no PPL; disco
-  vetorial com "furos" no caderno-gabarito do regular) e numera pela ordem das questões do dia, conferindo com os
-  rótulos "Questão N" legíveis. Resultado: 90/95 respostas nas 4 provas, e no PPL **bate 100% com a transcrição
-  manual**. Regular dia 1 Q29 (círculo achatado, 9,7 pt) conferida visualmente = C.
+### Regular
+- d1 Q66: "NO₃" de B e C virou imagem solta (texto cortado). Q67: sumiu a seta ⇌ da reação. Q82: o íon PO₂²⁻ de C/D
+  virou imagem atribuída a D/E; equação e definições transcritas no apoio.
+- d2 Q92/Q93-inglês: recebiam junto o texto compartilhado do espanhol ("Bilingüismo…", 92–93). Q95-inglês: o
+  cartão-postal foi fatiado entre as alternativas e o crédito caiu na E. Q121: alternativa B misturada com crédito e
+  texto oculto; crédito da E faltando. Q146/Q148/Q150: lixo do texto oculto "MT - PROVA I" da página. Q167: quebras
+  de linha no meio das frases.
 
-### Extração (todas atrás de campos novos do Perfil, ligados só em `v2010`)
-- `letras_vetoriais`: no regular, as letras A–E são discos desenhados (sem caractere). Cada disco é reconhecido pela
-  assinatura dos furos brancos (90/95 de cada letra, sem ambiguidade) e vira um caractere sintético de fonte de
-  marcador; as letras desenhadas por cima de imagens não são engolidas pela figura.
-- `decoracao_na_borda`: pedaços do enfeite cinza do cabeçalho (recortados por máscara, invisíveis) viravam uma figura
-  gigante que engolia o título "Questões de 91 a 95 (opção inglês)".
-- `fontes_ocultas=('Courier',)`: códigos de item ocultos ("017", "IT_071716") quebravam os rótulos de questão.
-- `espacos_sobrepostos`: espaço oculto em outra fonte sobre a 1ª letra produzia "Q uestão 149" (rótulo perdido).
-- `rascunho_e_ruido`: "Rascunho" deixa de contar como palavra sem cobertura.
-- `dpi_invisiveis=150`: a checagem de texto invisível a 50 dpi apagava vírgulas, pontos, "i" e "l" finos.
+### PPL dia 1
+- Q11/Q12: gráfico compartilhado ("A partir do gráfico…, responda às questões 11 e 12") não entrou; recortado.
+- Q60: questão de largura total abaixo das duas colunas (o extrator achou 2 alternativas); transcrita.
+- Q58 (quebras de linha), Q59 (tabela partida, σ lido como "w"), Q13 (aspas espúrias), Q24 (C/D partidas),
+  Q52 (tabela), Q56 (item 3 virou imagem), Q57 (marcadores "£"), Q62/Q73/Q75/Q83 (fórmulas químicas com lixo de OCR,
+  transcritas com índices e ⇌/→), Q64 (alternativas com lixo), Q21/Q37/Q44/Q87 (créditos/símbolos com "€", "ᵒ").
 
-## Questões corrigidas à mão
-Nenhuma correção manual de texto (`manuais/2010-*.json` de questões) foi feita. Só o gabarito do PPL é manual
-(motivo: não há PDF de gabarito do PPL).
+### PPL dia 2
+- Uma máscara branca (recorte do enfeite da página) virava "figura" e escondia a coluna esquerda das páginas ímpares:
+  espanhol 91–95, Q96, Q97, Q103, Q104, Q108, Q115, Q116 saíram por **extração assistida** (extrator rodado no
+  rascunho com a máscara filtrada, campos copiados para o JSON e conferidos na página).
+- Q110 (tirinha de largura total), Q136/Q137 (alternativas em figura, recortadas por faixa medida de cada letra),
+  Q146/Q154/Q164/Q165 (frações/raízes desenhadas: alternativas transcritas), Q152/Q163 (frações), Q153 (π sumiu),
+  Q160 ("2/3" lido como lixo), Q167 (quebras de linha).
 
-## Pendente
-1. **PPL dia 1 e dia 2:** rodar o dry-run com o código final e tratar o que aparecer. O PPL tem muitos caracteres
-   cid; a 150 dpi eles se mostram invisíveis (texto oculto), o que deve reduzir muito o OCR, mas a execução não
-   terminou antes da parada.
-2. **Regular, avisos CRÍTICOS:** dia 1 Q66 (alternativas B e C com fórmula salva como imagem: "S e" + imagem —
-   conferir recorte), Q67 (seta da reação química sumiu: "calor  CO" — provável correção manual), Q82 (rótulos de
-   esquema no texto de apoio); dia 2 Q95-inglês (alternativas C/D cortadas, com imagens). Também conferir Q84 do dia 1
-   (alternativas em figura), Q100, Q137, Q152, Q153, Q174 do dia 2 (frações/fórmulas).
-3. **Conferência visual por amostra** (15 por prova + todas com aviso) contra a página renderizada: não feita no texto
-   final das questões (só no gabarito).
-4. **Trava de regressão:** `verificar_baseline.py --todos --pular-anos 2010,2021` **não dá "igual à foto" neste
-   ambiente nem no `main` intocado** (testei 2011 regular dia 1 num worktree limpo do `main`: 90 diferenças). Causa:
-   as fotos e os SQL de 2011–2013 foram gerados num ambiente que perdia a pontuação (o SQL gravado da 2011 Q01 não tem
-   vírgulas nem pontos), e aqui a mesma versão do código a mantém. Ou seja, a diferença é de ambiente, não deste ramo.
-   A verificação útil — fotos novas geradas a partir do `main` neste ambiente e comparação do ramo contra elas — foi
-   iniciada mas interrompida pela parada; precisa ser refeita antes do merge. Todas as mudanças de código estão atrás
-   de campos do Perfil com padrão desligado e ligados só no `v2010`, exceto: `lote.sem_gabarito` (só muda quando existe
-   `manuais/ANO-CAT-diaN-gabarito.json`, que só existe para 2010) e a exceção em `so_fig` para a fonte sintética
-   `LetraVetorial-*` (só criada com `letras_vetoriais`).
-5. Reverter/regerar `relatorios/CONSOLIDADO.*` não foi necessário (não alterados neste ramo).
+## Conferência visual
+Gabarito: 100% das questões do PPL. Texto e recortes: todas as questões com aviso, todas as corrigidas à mão e uma
+amostra de páginas inteiras (regular d1 p. 2, 20, 26, 27; d2 p. 3, 4, 15, 24; PPL d1 p. 2, 5, 9, 17, 18, 19, 20, 24,
+28; PPL d2 p. 11, 13, 20, 21, 22, 24, 27). Recortes manuais conferidos em folha de contato.
+
+## Pendente / observações
+- PPL dia 1: o relatório acusa ~450 "trechos com letras perdidas", que são glifos cid ocultos (texto invisível
+  sobreposto, ex.: "cccddd iii"), não texto real. Por isso o status não é OK, mesmo com as 90 questões completas.
+- O OCR do PPL é lento (~45 min as duas provas): cada linha renderiza a página inteira a 300 dpi.
+- Não revisei uma a uma as questões do PPL sem aviso fora da amostra; os problemas achados se concentram em fórmulas,
+  frações e créditos com glifos cid.
+- Trava de regressão: o código do extrator não mudou nesta etapa (só JSON manual e dados de 2010).

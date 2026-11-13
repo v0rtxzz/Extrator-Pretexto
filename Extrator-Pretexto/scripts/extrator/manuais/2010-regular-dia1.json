@@ -1,0 +1,41 @@
+{
+ "66": {
+  "alternativas": [
+   "S e CH₄",
+   "S e NO₃",
+   "H₂ e NO₃",
+   "CO₂ e CH₄",
+   "H₂ e CO₂"
+  ],
+  "imagens_alternativas": {},
+  "obs": "NO₃ das alternativas B e C tinha virado imagem solta (texto cortado); transcrito da página 20."
+ },
+ "67": {
+  "enunciado": "Atualmente, uma das formas de se utilizar a energia solar tem sido armazená-la por meio de processos químicos endotérmicos que mais tarde podem ser revertidos para liberar calor. Considerando a reação: CH₄(g) + H₂O(v) + calor ⇌ CO(g) + 3 H₂(g) e analisando-a como potencial mecanismo para o aproveitamento posterior da energia solar, conclui-se que se trata de uma estratégia",
+  "obs": "A seta dupla da reação (desenho) sumia do enunciado; transcrito da página 20."
+ },
+ "82": {
+  "texto_apoio": "As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emissão de cádmio para a atmosfera durante a combustão é indicado que seja feita a reciclagem dos materiais dessas baterias.\n\nUma maneira de separar o cádmio dos demais compostos presentes na bateria é realizar o processo de lixiviação ácida. Nela, tanto os metais (Cd, Ni e eventualmente Co) como os hidróxidos de íons metálicos Cd(OH)₂(s), Ni(OH)₂(s), Co(OH)₂(s) presentes na bateria, reagem com uma mistura ácida e são solubilizados. Em função da baixa seletividade (todos os íons metálicos são solubilizados), após a digestão ácida, é realizada uma etapa de extração dos metais com solventes orgânicos de acordo com a reação:\n\nM²⁺(aq) + 2 HR(org) ⇌ MR₂(org) + 2 H⁺(aq)\n\nOnde:\nM²⁺ = Cd²⁺, Ni²⁺ ou Co²⁺\nHR = C₁₆H₃₄–PO₂H: identificado no gráfico por X\nHR = C₁₂H₁₂–PO₂H: identificado no gráfico por Y\n\nO gráfico mostra resultado da extração utilizando os solventes orgânicos X e Y em diferentes pH.",
+  "alternativas": [
+   "as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o íon H⁺ pelo cátion do metal.",
+   "as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon H⁺ pelo cátion do metal.",
+   "as moléculas X e Y atuam como extratores catiônicos uma vez que a parte apolar da molécula troca o íon PO₂²⁻ pelo cátion do metal.",
+   "as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o íon PO₂²⁻ pelo cátion do metal.",
+   "as moléculas X e Y fazem ligações com os íons metálicos resultando em compostos com caráter apolar o que justifica a eficácia da extração."
+  ],
+  "imagens": [
+   {
+    "pg": 26,
+    "caixa": [
+     321.2,
+     394.1,
+     559.9,
+     537.2
+    ],
+    "foto": true
+   }
+  ],
+  "imagens_alternativas": {},
+  "obs": "O íon PO₂²⁻ de C e D virou imagem atribuída a D e E; a equação e as definições foram transcritas no texto de apoio (página 26). Fica só o gráfico como imagem."
+ }
+}
