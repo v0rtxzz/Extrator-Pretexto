@@ -1,6 +1,6 @@
 # ENEM 2021 presencial (regular e PPL) — status da extração
 
-Ramo `lote/2021-presencial`. Validação em dry-run (nada gravado: sem imagens, sem SQL, sem mexer em `public/questoes/`,
+Ramo `lote/2021-presencial` (atualizado com `main` em 13/11, já com a resolução de texto invisível unificada). Validação em dry-run (nada gravado: sem imagens, sem SQL, sem mexer em `public/questoes/`,
 `supabase/` ou `baselines/`). O trabalho foi interrompido a pedido antes da revisão manual completa (ver "Pendente").
 
 ## Status de cada prova (dry-run, última rodada)
@@ -10,7 +10,7 @@ Ramo `lote/2021-presencial`. Validação em dry-run (nada gravado: sem imagens, 
 | 2021-regular-dia1 | **OK** | 95/95 | 0 | 0 | 0 | 0 |
 | 2021-regular-dia2 | **OK** | 90/90 | 0 | 0 | 0 | 0 |
 | 2021-ppl-dia1 | **OK** | 95/95 | 0 | 0 | 0 | 0 |
-| 2021-ppl-dia2 | REVISAR | 90/90 | 1 (`http://fisica.tubalivre.com.`, Q119) | 0 | 0 | 0 |
+| 2021-ppl-dia2 | **OK** | 90/90 | 0 | 0 | 0 | 0 |
 
 Antes: regular dia 1 e PPL dia 1 com 95/95 mas REVISAR (≈1 200 "letras perdidas" cada), regular dia 2 88/90,
 PPL dia 2 88/90; cada rodada levava ~7,5 min por causa do OCR. Agora as 4 provas rodam em ~35 s.
@@ -57,18 +57,16 @@ caixa fixa, conferidas visualmente.
   - **Q161** — 5 gráficos (arrecadação × desconto). O gráfico B termina antes do marcador "E", que fica na mesma
     altura: o recorte corta o fim do rótulo "Desconto" e o "23" do eixo.
   - **Q162** — quadro (imagem) + 5 gráficos (imposto × preço).
+  - **Q146** (corrigida) — a barra da média se perdia ("CV =s/x", "e x, a média"); agora "CV = s/x̄" e "e x̄, a média".
 - `2021-ppl-dia2.json`
   - **Q123** — esquema do triacilglicerol + 5 grupos funcionais desenhados.
   - **Q136** — prisma + 5 projeções desenhadas.
+  - **Q119** (corrigida) — o crédito em fonte pequena, colado ao índice de m₄, era lido como subscrito e levava o fim
+    do texto de apoio ("…e a balança B forneceu o valor m₄."). Texto de apoio e crédito corrigidos.
 
 ## Pendente
 
-- **PPL dia 2, Q119**: o crédito em fonte pequena ("Disponível em: http://fisica.tubalivre.com. Acesso em: 23 nov.
-  2013 (adaptado).") encosta no índice de "m₄" e foi lido como subscrito: o fim do texto de apoio
-  ("…e a balança B forneceu o valor m₄.") foi parar no crédito. Corrigir em `manuais/2021-ppl-dia2.json`
-  (campos `texto_apoio` e `credito_texto`); isso zera a palavra sem cobertura e deixa a prova OK.
-- **Regular dia 2, Q146**: a barra do x̄ (média) se perde: sai "CV =s/x" e "e x, a média". Corrigir à mão para
-  "CV = s/x̄" e "e x̄, a média".
+- **Gravação** (imagens e SQL) não feita nesta sessão: as regras originais da tarefa a reservam para depois do merge.
 - **Revisão manual do passo 3 não foi feita** (interrompida): comparar com a página renderizada ao menos 15 questões
   por prova e todas as com aviso (frações linearizadas e fórmulas como imagem: regular d2 Q94, 105, 115, 138, 142,
   146, 152, 156, 157; PPL d2 Q91, 99, 112, 139, 154, 156, 180; PPL d1 Q03-ing, 08, 27, 72; regular d1 Q03-esp),
