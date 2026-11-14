@@ -354,6 +354,56 @@
   "hash": "d070204422d48503",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2023-ppl-d2-q171": {
+  "explicacao": "A questão pede a escala linear da maquete, sabendo que ela representa uma piscina de volume mínimo 2 500 000 L com volume de 2 500 cm³. O ponto central é lembrar que a escala é uma razão entre comprimentos, enquanto a razão entre volumes é o cubo dessa escala. Primeiro, convertemos o volume real: 2 500 000 L × 10³ cm³ = 2,5 × 10⁹ cm³. A razão entre os volumes é 2 500 cm³ ÷ 2,5 × 10⁹ cm³ = 10⁻⁶, ou seja, 1 : 1 000 000. Como volume varia com o cubo da escala linear, temos k³ = 1/10⁶, logo k = 1/10² = 1/100. Conferindo: as dimensões reais seriam 2 m, 25 m e 50 m, exatamente as de uma piscina olímpica (50 m de comprimento por 25 m de largura). A alternativa B usaria uma razão de áreas ou um erro de conversão. C não corresponde a nenhuma razão coerente com os dados. D também não tem relação com as potências envolvidas. E é a razão entre os volumes, e não a escala linear, que é o que se pede. Gabarito: A.",
+  "hash": "8b5d582c0bab4d82",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q172": {
+  "explicacao": "A questão pede qual torcida apenas cresceu entre fevereiro de 2006 e agosto de 2007, ou seja, entre os pontos 02/02/06 e 15/08/07 do gráfico, passando por 24/06/06. É preciso olhar só esse trecho e verificar se a curva sobe em todas as etapas. Time IV: 6% em 02/02/06, 7% em 24/06/06 e 9% em 15/08/07; sobe sempre, portanto apenas cresceu nesse intervalo. Time I: 17%, cai para 15% e volta a 17%; houve queda no meio. Time II: 13%, 13% e depois 12%; ficou estável e depois encolheu. Time III: 8% nos três pontos; permaneceu constante, sem crescimento. Time V: 5%, cai para 4% e volta a 5%; também teve queda. Assim, a única torcida com crescimento em todo o período é a do time IV. Gabarito: D.",
+  "hash": "5a8756b30d6ac70e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q173": {
+  "explicacao": "[REVISAR] O expoente das alternativas está corrompido na extração; a alternativa D deve ser lida como Q(t) = Q₀ ⋅ 3^(2⁻¹·t), isto é, 3^(t/2). A questão pede a função que descreve uma população de células que triplica a cada duas horas. Em crescimento exponencial, Q(t) = Q₀ ⋅ b^(t/p), em que b é o fator de multiplicação e p o período em que essa multiplicação ocorre. Aqui b = 3 e p = 2 h, logo Q(t) = Q₀ ⋅ 3^(t/2) = Q₀ ⋅ 3^(2⁻¹t). Conferindo: para t = 2, Q = Q₀ ⋅ 3¹ = 3Q₀; para t = 4, Q = Q₀ ⋅ 3² = 9Q₀, como esperado. A alternativa A triplicaria a cada hora. B usa expoente 2t, fazendo a população crescer rápido demais. C usa base 2, que corresponde a duplicar, não a triplicar. E é constante, sem depender do tempo. Gabarito: D.",
+  "hash": "149d28ec04bc2039",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q174": {
+  "explicacao": "A questão pede o número de camisas por lote na 1ª semana. Seja n esse número. Na 1ª semana, o preço unitário é 720/n; na 2ª, os lotes têm n + 3 camisas pelo mesmo R$ 720,00, e o preço unitário é 720/(n + 3), que deve ser R$ 20,00 menor. Montamos a equação: 720/n − 720/(n + 3) = 20. Multiplicando por n(n + 3): 720(n + 3) − 720n = 20n(n + 3), ou seja, 2 160 = 20n² + 60n. Dividindo por 20: n² + 3n − 108 = 0. Δ = 9 + 432 = 441, √441 = 21, então n = (−3 + 21)/2 = 9 (a raiz negativa, −12, não serve). Conferindo: 720/9 = 80 e 720/12 = 60, diferença de R$ 20,00. A alternativa B é o tamanho do lote da 2ª semana. C, D e E não satisfazem a equação: por exemplo, 720/24 − 720/27 ≈ 3,33, longe de 20. Gabarito: A.",
+  "hash": "9105703df1bc2c09",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q175": {
+  "explicacao": "A questão pede o volume do rolo de papel, que é um cilindro maior do qual se retira um cilindro menor de mesma altura. Basta subtrair os volumes. O diâmetro externo é 12 cm, logo raio R = 6 cm; o interno é 4 cm, logo raio r = 2 cm; a altura é h = 10 cm. Volume externo: πR²h = π ⋅ 36 ⋅ 10 = 360π cm³. Volume interno: πr²h = π ⋅ 4 ⋅ 10 = 40π cm³. Volume do rolo: 360π − 40π = 320π cm³. Equivalente: π(R² − r²)h = π(36 − 4) ⋅ 10 = 320π. A alternativa A (80π) corresponde a usar a diferença de raios ao quadrado, (6 − 2)² = 16, e dividir por 2, ou outro erro de cálculo. B (160π) resulta de esquecer um fator 2, como usar metade da área. D (640π) surge ao confundir raio com diâmetro em parte da conta. E (1 280π) aparece ao usar os diâmetros no lugar dos raios: π(144 − 16) ⋅ 10. Gabarito: C.",
+  "hash": "b24c8fa9646d755b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q176": {
+  "explicacao": "A questão pede em que período do dia o paciente deve tomar o próximo comprimido, sabendo que a quantidade no organismo cai pela metade a cada 6 horas e que a nova dose deve ser tomada quando essa quantidade estiver entre 200 mg e 100 mg. Partindo de 800 mg à meia-noite: às 6 h há 400 mg; às 12 h, 200 mg; às 18 h, 100 mg. Portanto, a quantidade fica entre 200 mg e 100 mg no intervalo das 12 h às 18 h, que corresponde à tarde. Antes disso (madrugada e manhã), a quantidade está acima de 200 mg, e não é recomendado tomar outro comprimido. Ao tomar a nova dose à tarde, a quantidade volta a subir e só voltaria à faixa recomendada cerca de 12 horas depois, já fora das 24 horas consideradas. A alternativa A inclui doses na madrugada e de manhã, com mais de 200 mg no organismo. B também prevê doses pela manhã. C acrescenta doses de manhã e à noite fora da faixa. E indica a noite, quando a dose já deveria ter sido tomada à tarde. Gabarito: D.",
+  "hash": "603155f024be99c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q177": {
+  "explicacao": "A questão pede qual estacionamento cobra menos por 5 horas e 12 minutos. Calculamos cada um. A: R$ 6,00 por hora ou fração; 5 h 12 min contam como 6 horas, logo 6 × 6 = R$ 36,00. B: R$ 6,00 pelas duas primeiras horas e R$ 3,00 por hora ou fração seguinte; restam 3 h 12 min, que contam como 4 horas, logo 6 + 4 × 3 = R$ 18,00. C: com tolerância de 15 minutos, os 12 minutos excedentes não são cobrados, então conta 5 horas: 5 × 6 = R$ 30,00. D: mesma regra de B, mas com tolerância de 15 minutos; restam 3 horas cobradas, logo 6 + 3 × 3 = R$ 15,00. E: 5 h 12 min = 312 minutos, logo 312 × 0,10 = R$ 31,20. O menor valor é R$ 15,00, do estacionamento D. A custa R$ 36,00, o mais caro. B custa R$ 18,00 porque não tem tolerância. C custa R$ 30,00. E custa R$ 31,20. Gabarito: D.",
+  "hash": "f84ba1a631e93af5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q178": {
+  "explicacao": "A questão pede em que condição V₁ > V₂ quando Q₁ = 2Q₂. A imagem traz o modelo: V₁/V₂ = (Q₁/Q₂) ⋅ (T₂/T₁). Substituindo Q₁/Q₂ = 2, temos V₁/V₂ = 2 ⋅ (T₂/T₁). Para V₁ ser maior que V₂, a razão V₁/V₂ deve ser maior que 1: 2 ⋅ (T₂/T₁) > 1, ou seja, T₂/T₁ > 0,5. Essa é exatamente a afirmação do estudante 2. O estudante 1 erra porque ignora os tempos de atraso: se T₁ for muito maior que T₂, V₁ pode ser menor. O estudante 3 inverte a desigualdade. O estudante 4 apresenta só um caso particular (T₂/T₁ = 1 satisfaz a condição, mas não é o único). O estudante 5 restringe indevidamente a razão a valores menores que 1, quando qualquer razão acima de 0,5 serve. Gabarito: B.",
+  "hash": "d17623e3a14c18e3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q179": {
+  "explicacao": "A questão pede a razão A₁/A₂ entre as áreas das sombras do disco na parede, antes e depois de afastá-lo do ponto luminoso. Seja r o raio do disco e D a distância da luz até a parede. Por semelhança de triângulos (os raios de luz formam um cone com vértice no ponto luminoso), o raio da sombra é R = r ⋅ D/d, em que d é a distância do disco à luz. Na primeira posição, d = 1 m, logo R₁ = r ⋅ D. Depois de afastar o disco mais 2 m, d = 3 m, logo R₂ = r ⋅ D/3. Assim, R₁/R₂ = 3. Como as áreas são proporcionais ao quadrado dos raios, A₁/A₂ = 3² = 9. A alternativa A supõe sombras iguais. B não corresponde a nenhuma razão entre distâncias. C é a razão entre os raios, e não entre as áreas. D seria (2)², usando o deslocamento de 2 m em vez da nova distância de 3 m. Gabarito: E.",
+  "hash": "412cfa10a937a86d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q180": {
+  "explicacao": "[REVISAR] As alternativas D e E chegaram corrompidas (só restos de eixos) e B e C dependem de imagens; a explicação usa o gráfico da alternativa A. A questão pede o gráfico do gasto acumulado de calorias ao longo de três atividades de 30 minutos cada. Como o gasto é proporcional ao tempo, em meia hora gasta-se metade do valor por hora. Varrer: 200 ÷ 2 = 100 calorias. Aspirador: 350 ÷ 2 = 175 calorias. Janelas: 260 ÷ 2 = 130 calorias. Acumulando: aos 30 min, 100; aos 60 min, 100 + 175 = 275; aos 90 min, 275 + 130 = 405. O gráfico é formado por três segmentos de reta, e o segundo é o mais inclinado, pois o aspirador gasta mais calorias por minuto. O gráfico da alternativa A mostra exatamente os pontos 100, 275 e 405, com a maior inclinação no trecho do meio. O gráfico com 175 no primeiro ponto inverte a ordem das atividades. As demais alternativas não apresentam os valores acumulados corretos ou os intervalos de 30 minutos. Gabarito: A.",
+  "hash": "f8af238fdd15f22c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2023-ppl-d2-q91": {
   "explicacao": "A questão pede qual substância, liberada pela digestão dos vermes, é absorvida pela planta Philcoxia minensis. A pista central está no texto: a planta vive num solo pobre, usa os vermes como suplemento alimentar e a digestão é feita por fosfatases. Fosfatases são enzimas que removem grupos fosfato de moléculas orgânicas, liberando fosfato inorgânico. Lembre que plantas são autotróficas: produzem sua própria matéria orgânica pela fotossíntese, que o texto diz ocorrer normalmente mesmo com as folhas enterradas. O que falta num solo pobre são nutrientes minerais, como fósforo e nitrogênio, e é justamente isso que as plantas carnívoras e semicarnívoras obtêm das presas. Assim, a planta absorve sais minerais, especialmente fosfatos. A glicose a planta já produz na fotossíntese. Aminoácidos não são o produto da ação das fosfatases nem a carência principal. Fosfolipídeos são moléculas grandes que seriam quebradas, não absorvidas inteiras. Ácidos nucleicos também são macromoléculas digeridas, e não o que é absorvido. Gabarito: C.",
   "hash": "a69d1ed8db04ce99",
