@@ -1,0 +1,202 @@
+{
+ "enem-2024-ppl-d2-q100": {
+  "explicacao": "Compare os dois espectros. No gráfico A, do LED branco comum, há um pico intenso na faixa do azul (em torno de 450 nm) e uma banda larga do verde ao vermelho. No gráfico B, com o material de cobertura, o pico azul desaparece completamente e surge um único pico intenso entre o amarelo e o laranja (cerca de 600 nm), com intensidade máxima igual à do original. Como o texto diz que a intensidade total da lâmpada é mantida, a energia da luz azul não foi simplesmente bloqueada: ela foi absorvida pelo material e reemitida em comprimentos de onda maiores, na região amarelo-alaranjada. É o fenômeno da fotoluminescência, como em um fósforo. Se o material refletisse a luz azul, ela voltaria para a lâmpada e haveria perda de intensidade, sem o novo pico. Difração apenas desvia a luz, sem eliminar o azul do espectro. Não há emissão no ultravioleta no gráfico B, que começa no verde. Polarizar a luz não removeria o pico azul do espectro. Gabarito: C.",
+  "hash": "b349e50c90bc16e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q101": {
+  "explicacao": "O objetivo é encontrar a área de angico-branco capaz de fixar todo o carbono emitido pelo carro em um ano. Passo 1: massa de carbono contida em 3 000 kg de CO₂. Em 44 g de CO₂ há 12 g de C, logo m(C) = 3 000 × 12 ÷ 44 ≈ 818 kg. Passo 2: carbono fixado por área plantada. Cada 1 000 m² têm 3 520 kg de massa arbórea, metade carbono: 3 520 × 0,5 = 1 760 kg de C por 1 000 m². Passo 3: regra de três. 1 760 kg → 1 000 m²; 818 kg → x. x = 818 × 1 000 ÷ 1 760 ≈ 465 m². A alternativa de 230 m² corresponde a cerca de metade do necessário, como se se esquecesse de algum fator. 850 m² se aproxima da massa de carbono em kg, confundindo massa com área. 1 700 m² e 2 000 m² superestimam a área, como se fosse usada a massa de CO₂ em vez da de carbono. Gabarito: B.",
+  "hash": "559419b697235605",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q102": {
+  "explicacao": "O solvente ideal, segundo o texto, deve dissolver manchas lipofílicas (óleos, ceras e gorduras), que são apolares, e evaporar facilmente. Pela regra \"semelhante dissolve semelhante\", procuramos a molécula mais apolar e volátil. A alternativa B é o tetracloroeteno (C₂Cl₄), o percloroetileno, solvente clássico das lavanderias a seco. Os quatro átomos de cloro estão distribuídos simetricamente em torno da dupla ligação, de modo que os vetores de polaridade das ligações C–Cl se anulam: a molécula é apolar, dissolvendo bem gorduras, e é volátil. A alternativa A, o cis-1,2-dicloroeteno, tem os dois cloros do mesmo lado, o que gera momento dipolar resultante. A alternativa C, o clorofórmio (CHCl₃), é polar por ter um H no lugar de um Cl. A alternativa D, o tricloroeteno, também é assimétrico e polar. A alternativa E, o etanol, é polar e faz ligações de hidrogênio pelo grupo OH, sendo pouco eficiente para gorduras. Gabarito: B.",
+  "hash": "84e3a96d3cabf139",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q103": {
+  "explicacao": "O cronômetro mede o tempo contando ciclos da tensão da rede e foi calibrado para 50 Hz, isto é, ele entende que cada 50 ciclos contados equivalem a 1 segundo. No laboratório, porém, a rede opera a 60 Hz. Passo 1: número de ciclos que ocorrem durante o evento real de 60 s. N = 60 ciclos/s × 60 s = 3 600 ciclos. Passo 2: tempo que o aparelho mostra, dividindo esses ciclos pela frequência de calibração. t = 3 600 ÷ 50 = 72 s. Ou seja, como a rede é mais rápida que a esperada, o cronômetro \"adianta\", indicando 72 s para um evento de 60 s (fator 60/50 = 1,2). O valor 10 resulta de subtrair as frequências. 50 seria o resultado de inverter a proporção (60 × 50 ÷ 60). 60 é o valor real, que só apareceria com o aparelho calibrado. 132 vem de somar valores sem sentido físico. Gabarito: D.",
+  "hash": "047fd8b0c84b46f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q104": {
+  "explicacao": "A suspensão foi projetada para w₀ = b, o amortecimento crítico, em que o carro volta rápido sem oscilar. O proprietário corta as molas pela metade e mantém a massa total m. O ponto-chave é como a constante elástica depende do comprimento: uma mola pode ser vista como várias molas menores em série; ao cortá-la ao meio, cada metade se deforma metade do que a mola inteira se deformaria sob a mesma força, então a constante dobra: k' = 2k. Com isso, a nova frequência é w₀' = √(2k/m) = √2 × w₀ ≈ 1,41 w₀. Como originalmente w₀ = b, agora w₀' > b, que é justamente a condição em que o sistema oscila algumas vezes até parar (subamortecido). As alternativas que dizem que a constante elástica diminui estão erradas, pois encurtar a mola a torna mais rígida. A alternativa que combina aumento de k com retorno lento descreve w₀ < b, o oposto do que ocorre. Gabarito: B.",
+  "hash": "434368666ddfc25b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q105": {
+  "explicacao": "O balão deve estourar a 20 000 m, ou seja, a 20 km de altitude. Precisamos comparar o volume do gás nessa altitude com o volume no solo, usando a lei geral dos gases: P₁V₁/T₁ = P₂V₂/T₂. Leitura dos gráficos: no solo, T₁ = 300 K e P₁ = 100 kPa; a 20 km, a temperatura está no mínimo da troposfera, T₂ = 240 K, e a pressão é P₂ = 10 kPa. Então V₂/V₁ = (P₁/P₂) × (T₂/T₁) = (100/10) × (240/300) = 10 × 0,8 = 8. O volume aumenta 8 vezes. Como o balão é esférico, V = (4/3)πr³, e o volume é proporcional ao cubo do raio: (r₂/r₁)³ = 8 → r₂/r₁ = ∛8 = 2. O valor 10,00 considera só a pressão e esquece a temperatura. 8,00 é a razão entre os volumes, não entre os raios. 2,83 equivale a √8, usando raiz quadrada em vez de cúbica. 1,25 é o inverso da razão de temperaturas, sem relação com o raio. Gabarito: D.",
+  "hash": "3fea4a6bb99773a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q106": {
+  "explicacao": "Os brasileiros consomem 12 g de sal por dia; o máximo recomendado é 5 g de NaCl. Se todo o consumo for de sal light, metade da massa é NaCl: 12 × 0,5 = 6 g de NaCl. O excesso em relação ao recomendado é 6 − 5 = 1 g de NaCl. Agora calculamos quanto sódio há nesse 1 g. Massa molar do NaCl = 23 + 35,5 = 58,5 g/mol, e a fração de sódio é 23/58,5 ≈ 0,39. Logo, massa de Na em excesso ≈ 1 × 0,39 ≈ 0,4 g. Repare que o KCl não interessa, pois não contém sódio. 1,0 g é o excesso de NaCl, não de sódio. 1,4 g não corresponde a nenhum cálculo coerente com os dados. 2,8 g seria o sódio do excesso de 7 g de sal comum (12 − 5), ignorando o sal light. 3,5 g aproxima-se do sódio em 9 g de NaCl, também sem considerar corretamente a composição do sal light. Gabarito: A.",
+  "hash": "fa9a090687f970b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q107": {
+  "explicacao": "As três frutas partem do repouso, da mesma altura de 50,0 cm, no mesmo instante, e as forças dissipativas, como a resistência do ar, são desprezadas. Nessa condição, a única força relevante é o peso, e a aceleração de qualquer corpo é a da gravidade, g, independentemente de massa, tamanho ou formato, pois a = P/m = mg/m = g. O tempo de queda livre a partir do repouso vem de h = gt²/2, ou seja, t = √(2h/g), que depende apenas da altura e de g. Como h e g são os mesmos para as três frutas, os tempos são iguais: t₁ = t₂ = t₃, e as frutas chegam juntas ao chão. As alternativas que colocam a melancia caindo mais devagar ou mais rápido que as demais, ou que estabelecem qualquer ordem entre os tempos, carregam a ideia aristotélica errada de que a massa altera o tempo de queda. Gabarito: A.",
+  "hash": "aec2321c3d7d2bce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q108": {
+  "explicacao": "Na figura, o eletrodo de bismuto está ligado ao polo positivo (+) e o de NaTi₂(PO₄)₃ ao polo negativo (−). Na eletrólise, o polo positivo é o ânodo, onde ocorre oxidação, e o negativo é o cátodo, onde ocorre redução. Os íons Cl⁻ migram para o eletrodo de Bi, que se oxida e incorpora o cloreto, formando BiOCl, como mostra a etapa final do esquema. Os íons Na⁺ migram para o outro eletrodo, que se reduz e os incorpora, formando Na₃Ti₂(PO₄)₃. Assim o sal sai da água. Portanto, BiOCl se forma no ânodo. Não há formação de H₂ no cátodo: o cátodo forma Na₃Ti₂(PO₄)₃. O Bi não é formado no polo positivo; ao contrário, é consumido. O esquema não mostra formação de O₂, muito menos no polo negativo, onde ocorre redução. Na₃Ti₂(PO₄)₃ se forma no cátodo, não no ânodo. Gabarito: A.",
+  "hash": "f97462ad02aa98ce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q109": {
+  "explicacao": "A pergunta é em qual etapa o enxofre chega ao seu maior estado de oxidação, que é +6. Vamos calcular o Nox do S ao longo do esquema. Etapa 1: S (s), Nox 0, é queimado e vira SO₂, onde S + 2(−2) = 0 → S = +4. Etapa 2: SO₂ é convertido em SO₃, onde S + 3(−2) = 0 → S = +6. É aqui que o enxofre atinge o Nox máximo. Nas etapas seguintes, ele permanece em +6: no H₂SO₄, 2(+1) + S + 4(−2) = 0 → S = +6; no H₂S₂O₇, 2(+1) + 2S + 7(−2) = 0 → S = +6. A etapa 1 leva o enxofre apenas a +4. As etapas 3, 4 e 5 só transformam espécies em que o S já está em +6, sem mudar seu estado de oxidação. Gabarito: B.",
+  "hash": "1c4ba6d091837585",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q110": {
+  "explicacao": "A questão pede o procedimento mais adequado, do ponto de vista ambiental, para resolver o acúmulo de resíduos plásticos, e cada alternativa traz uma justificativa que precisa estar correta. A reciclagem reaproveita o plástico descartado para fabricar novos objetos, retirando-o do ambiente e reduzindo a necessidade de produzir matéria-prima nova, derivada do petróleo. Ela ataca diretamente o acúmulo e ainda poupa recursos. Incinerar reduz o volume, mas libera gases poluentes, como CO₂, dioxinas e outros tóxicos, então a justificativa é falsa. Os plásticos biodegradáveis não são, em geral, simples e baratos de produzir, nem toda matéria-prima é renovável, e eles não resolvem os resíduos já existentes. Os aterros sanitários têm capacidade limitada e se esgotam, apenas acumulando o problema em outro lugar. Os oxibiodegradáveis fragmentam-se em microplásticos, que não são rapidamente assimilados e continuam no ambiente. Gabarito: B.",
+  "hash": "58ac20943bf23d7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q111": {
+  "explicacao": "A questão trata da adaptação das lhamas à altitude, onde o ar é rarefeito e a pressão parcial de O₂ é baixa. Nessas condições, uma hemoglobina comum teria dificuldade de se saturar de oxigênio nos pulmões. A hemoglobina geneticamente diferenciada das lhamas tem maior afinidade pelo O₂, ou seja, liga-se ao oxigênio mesmo quando ele está pouco disponível. Na curva de dissociação, isso aparece como um deslocamento para a esquerda: a hemoglobina fica saturada com pressões de O₂ menores. Assim, o animal maximiza a captação do gás nos pulmões e garante o suprimento dos tecidos. A capacidade de tamponamento do sangue não é o problema imposto pelo ar rarefeito. Maior afinidade pelo CO₂ não resolve a falta de oxigênio, que é o desafio da altitude. A velocidade do transporte de gases depende da circulação, não da diferença genética da hemoglobina. A solubilidade dos gases no plasma é uma propriedade física, não alterada pela hemoglobina. Gabarito: A.",
+  "hash": "1b55e1e1187dd5fe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q112": {
+  "explicacao": "O texto mostra que uma pessoa infectada libera gotículas e aerossóis carregados de partículas virais ao falar, tossir ou espirrar, e que as máscaras ajudam a reduzir a transmissão. O mecanismo é físico: a máscara funciona como barreira, retendo boa parte das gotículas e aerossóis que saem de quem está infectado e dificultando que essas partículas cheguem às vias respiratórias de quem está por perto. Por isso, ela protege tanto o usuário quanto as outras pessoas. A máscara comum não neutraliza nem inativa o vírus; ela apenas retém as partículas. Ela não altera a quantidade de vírus dentro das gotículas produzidas pelo organismo. A ideia de que o infectado passa a inspirar e expirar menos vírus não descreve o papel de barreira e confunde o mecanismo. Manter pessoas afastadas é a função do distanciamento social, não da máscara. Gabarito: B.",
+  "hash": "0858c2a29c79fdd9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q113": {
+  "explicacao": "A figura representa a formação de diferentes raças com fenótipos distintos a partir de uma população ancestral, por meio da reprodução diferencial de genótipos. O ponto central é quem decide quais indivíduos se reproduzem. Quando é o ser humano que escolhe, cruzando apenas os indivíduos com características de seu interesse, ao longo de gerações, temos a seleção artificial, o mesmo princípio da seleção natural de Darwin, mas com o critério definido pelo criador. É assim que surgiram as raças de cães, de gado e de muitas plantas cultivadas. Deriva genética é a mudança aleatória de frequências gênicas, sem direção, especialmente em populações pequenas. Formação de híbridos envolve o cruzamento entre espécies ou linhagens diferentes, o que não caracteriza a criação dirigida de raças. Especiação alopátrica exige isolamento geográfico e leva a novas espécies, não a raças. Divergência adaptativa é guiada por pressões do ambiente natural, não pela escolha humana. Gabarito: B.",
+  "hash": "ea12dbf894dec401",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q114": {
+  "explicacao": "O experimento compara ervilhas em solo rico em nutrientes, um esterilizado pelo calor e outro não. As plantas do solo esterilizado cresceram menos. O que mudou foi a eliminação dos microrganismos do solo. Ervilhas são leguminosas e dependem de bactérias fixadoras, como as do gênero Rhizobium, que vivem em nódulos nas raízes e convertem o N₂ do ar em formas utilizáveis, além de microrganismos decompositores que mineralizam o nitrogênio orgânico, transformando-o em amônio e nitrato. Sem esses seres, o nitrogênio orgânico do solo e o do ar ficam inacessíveis à planta, e o nitrogênio é o nutriente cuja disponibilidade cai. A água não depende de microrganismos e foi mantida em condições ideais. Cálcio, fosfato e potássio já estão presentes em formas minerais e não dependem da ação de bactérias para serem absorvidos. Gabarito: E.",
+  "hash": "734c9d75da051a4f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q115": {
+  "explicacao": "O satélite passa por três órbitas: a circular interna R₁, a elíptica E e a circular geoestacionária R₂, mais afastada. Para ir de uma órbita à outra, ele recebe dois impulsos tangenciais no sentido do movimento, em A e em B. Cada impulso aumenta a velocidade e, portanto, a energia cinética, enquanto a energia potencial no ponto do impulso não muda. Logo, cada impulso aumenta a energia mecânica. Fora dos impulsos, só a gravidade atua e a energia se conserva em cada órbita. Outra forma de ver: a energia mecânica de uma órbita vale E = −GMm/(2a), em que a é o semieixo maior. Como R₁ < a_E < R₂, a energia é menos negativa quanto maior a órbita: E₁ < E_E < E₂. A alternativa com a ordem invertida ignora que os impulsos fornecem energia. As que igualam E₁ a E_E ou E_E a E₂ desconsideram que cada impulso altera a energia mecânica. Gabarito: A.",
+  "hash": "55b909b185024728",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q116": {
+  "explicacao": "Como as mitocôndrias vêm só do óvulo, o DNA mitocondrial passa apenas pela linhagem materna: todos os filhos e filhas de uma mulher têm o mesmo mtDNA que ela, mas só as filhas o transmitem adiante. No heredograma, W é filho de uma mulher que é filha do casal formado pelo indivíduo 2 e sua esposa. O mtDNA de W, portanto, é o da avó materna (esposa de 2), que por sua vez o recebeu da mãe dela, a mulher do casal da primeira geração, passando pela filha desse casal. A irmã da esposa de 2 também é filha da mesma mulher e transmitiu esse mtDNA aos três filhos homens, entre eles o indivíduo 3. Logo, 3 e W compartilham o mesmo DNA mitocondrial. O indivíduo 1 é filha de um homem da família com uma mulher de fora. O indivíduo 2 entrou na família pelo casamento. Os indivíduos 4 e 5 são filhos de homens da família com mulheres de fora, herdando o mtDNA das mães. Gabarito: C.",
+  "hash": "1f2afa8a60148d68",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q117": {
+  "explicacao": "No circuito original, um resistor de 40 Ω é percorrido por 4 A. Pela lei de Ohm, a tensão original é V = R × i = 40 × 4 = 160 V. A ideia é passar a usar 250 V mantendo a mesma corrente de 4 A, para que o resistor do aquecedor dissipe a mesma potência (P = R·i² = 40 × 16 = 640 W) e aqueça a mesma água no mesmo tempo. A resistência total necessária é R_total = 250 ÷ 4 = 62,5 Ω. Como precisamos aumentar a resistência equivalente, o resistor extra deve ser ligado em série: 62,5 − 40 = 22,5 Ω. Esse resistor fica com os 90 V excedentes. Um resistor de 22,5 Ω em paralelo reduziria a resistência equivalente e aumentaria a corrente. 71,1 Ω não resulta de nenhum cálculo coerente com os dados, em série ou em paralelo. 101,1 Ω em paralelo também diminuiria a resistência total, aumentando a corrente. Gabarito: B.",
+  "hash": "fa7b7bf602aae802",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q118": {
+  "explicacao": "Os alunos coletaram musgo, cogumelo, samambaia, alga e ramos de pinheiro e goiabeira. O professor lembra que nem todos são vegetais: o cogumelo pertence ao reino Fungi. A característica que separa o cogumelo de todos os demais da coleção é a nutrição. Musgo, samambaia, alga, pinheiro e goiabeira têm clorofila e fazem fotossíntese, sendo autótrofos. O cogumelo é heterótrofo: não fabrica seu alimento e obtém matéria orgânica por absorção, decompondo restos ou vivendo associado a outros seres. Ser talófito não é exclusivo do cogumelo, pois as algas também não têm corpo dividido em órgãos. Ser criptógamo também vale para musgos, samambaias e algas. Fungos se reproduzem sexuadamente, e a haploidia não é o critério que os diferencia. Ser avascular também se aplica ao musgo e à alga. Gabarito: C.",
+  "hash": "8cf6356680b40f75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q119": {
+  "explicacao": "É uma questão de estequiometria em duas etapas. Primeiro, ligamos o Ti ao TiCl₄ e depois o TiCl₄ ao Cl₂. Etapa de redução: 2 Mg + TiCl₄ → 2 MgCl₂ + Ti, logo 1 mol de TiCl₄ gera 1 mol de Ti. Etapa de cloração: TiO₂ + 2 Cl₂ + 2 CO → TiCl₄ + 2 CO₂, logo 2 mol de Cl₂ geram 1 mol de TiCl₄. Juntando: 2 mol de Cl₂ → 1 mol de Ti. Quantidade de titânio: 480 kg ÷ 48 g/mol = 480 000 g ÷ 48 = 10 000 mol. Cloro necessário: 2 × 10 000 = 20 000 mol de Cl₂. Massa molar do Cl₂ = 2 × 35,5 = 71 g/mol. Massa = 20 000 × 71 = 1 420 000 g = 1 420 kg. 179 kg e 359 kg resultam de erros de proporção ou de usar Cl em vez de Cl₂ com divisões indevidas. 480 kg apenas repete a massa de titânio. 710 kg considera 1 mol de Cl₂ por mol de Ti, esquecendo o coeficiente 2. Gabarito: E.",
+  "hash": "cba2f5caea469bd1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q120": {
+  "explicacao": "O texto define doenças negligenciadas como enfermidades tropicais endêmicas, comuns em regiões pobres, que atingem populações sem recursos para pagar tratamentos e, por isso, recebem pouco investimento da indústria farmacêutica. Entre as opções, a única que se encaixa é a leishmaniose, doença causada por protozoários do gênero Leishmania, transmitida pelo mosquito-palha, típica de regiões tropicais e associada à pobreza; ela integra a lista de doenças negligenciadas da OMS, ao lado de doença de Chagas, esquistossomose e dengue. Infarto é uma doença cardiovascular de distribuição mundial, alvo de grandes investimentos. Câncer também é amplamente pesquisado e atinge todas as regiões e classes sociais. Alzheimer é uma doença neurodegenerativa associada ao envelhecimento, com muitos estudos em países ricos. Influenza A é uma gripe de distribuição global, com vacinas produzidas anualmente. Gabarito: E.",
+  "hash": "1ba4026d9fde958f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q121": {
+  "explicacao": "A questão pede o menor nível de intensidade sonora, em dB, para ouvir um som de 90 Hz. Esse mínimo é dado pela curva de 0 fon, o limiar de audibilidade, a mais baixa do gráfico. Localize 90 Hz no eixo horizontal, logo antes da marca de 100 Hz (lembre que a escala é logarítmica), suba até a curva de 0 fon e leia o valor no eixo vertical: cerca de 40 dB. Isso mostra que o ouvido humano é pouco sensível a sons graves: para frequências baixas, é preciso uma intensidade bem maior do que em torno de 3 000 a 4 000 Hz, onde o limiar fica abaixo de 0 dB. O valor −20 dB não aparece na curva de 0 fon nessa região. 0 dB corresponde ao limiar apenas para frequências médias, perto de 1 000 Hz. 30 dB é a leitura de uma frequência um pouco maior, perto de 150 Hz. 4 000 é uma frequência, não um nível em dB. Gabarito: D.",
+  "hash": "851d76f2a6a4ef12",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q122": {
+  "explicacao": "O texto descreve o estudo clássico de Robert Paine: a estrela-do-mar Pisaster se alimenta do mexilhão Mytilus, molusco dominante que compete por espaço com outros invertebrados e algas. Os dados do gráfico mostram que, onde a Pisaster é retirada, a diversidade de espécies cai, enquanto onde ela permanece, a diversidade se mantém. A explicação é que, sem o predador, o mexilhão se multiplica, ocupa todo o espaço disponível nas rochas e exclui competitivamente as outras espécies. Com a Pisaster presente, a predação mantém a população de moluscos sob controle, liberando espaço e permitindo a coexistência de muitas espécies. Por isso ela é chamada de espécie-chave. A estrela não fragmenta hábitats. Ela é predadora, não presa, nesse contexto. Não há isolamento geográfico nem relação com taxa de especiação. Ela não libera substâncias inibidoras, e o efeito é justamente reduzir os moluscos, não aumentá-los. Gabarito: D.",
+  "hash": "99c868f5263ccf20",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q123": {
+  "explicacao": "O texto mostra que a adubação da cana fornece nitrogênio nas formas NH₄⁺ e NO₃⁻, e que esses íons são lixiviados, chegando a rios e lagos. O excesso de nutrientes nitrogenados (e também fosfatados) nos corpos d'água provoca a eutrofização: as algas e cianobactérias, que tinham crescimento limitado pela falta desses nutrientes, proliferam intensamente. Isso turva a água, e a decomposição posterior dessa biomassa consome o oxigênio dissolvido, causando morte de peixes. Portanto, uma consequência direta é a proliferação de grandes quantidades de algas. O NH₄⁺ tem caráter ácido, e a nitrificação também acidifica, então não há elevação da alcalinidade. Ocorre aumento, e não redução, de nutrientes. Nitrato e amônio são muito solúveis e justamente por isso são lixiviados, não retidos. A eutrofização desequilibra o ecossistema, favorecendo poucas espécies, e não as nativas. Gabarito: C.",
+  "hash": "4e440e46a0687eca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q124": {
+  "explicacao": "Os dois copos têm a mesma água quente e são iguais, exceto pela superfície externa: um é preto, o outro espelhado. O enunciado lembra que bons absorvedores de radiação também são bons emissores. A superfície preta absorve muito bem a radiação e, por isso, também emite muito bem; já a superfície espelhada reflete a maior parte da radiação, sendo má absorvedora e, portanto, má emissora. Como a água está mais quente que o ambiente, o copo preto perde energia por radiação com mais eficiência, e sua temperatura cai mais rápido. O copo espelhado também esfria, por condução e convecção e um pouco por radiação, mas mais devagar. É o mesmo princípio das garrafas térmicas com paredes espelhadas. Dizer que os dois esfriam igualmente ignora a diferença de emissividade. Nenhum dos copos mantém a temperatura, já que ambos trocam calor. O copo espelhado não esfria mais rápido, pois é o pior emissor. Gabarito: D.",
+  "hash": "593f041f712bb2db",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q125": {
+  "explicacao": "Precisamos de um gráfico em que o Animal A, osmorregulador, mantenha a pressão osmótica interna quase constante qualquer que seja a do meio, e o Animal B, osmoconformador, tenha a pressão interna acompanhando a externa. No gráfico da alternativa B, a linha do Animal A fica praticamente horizontal, variando só de cerca de 600 para 770 mOsm enquanto o meio vai de 200 a 1 600 mOsm, e a linha do Animal B sobe junto com a externa, de 200 a 1 600 mOsm, na diagonal em que interno = externo. É exatamente o comportamento esperado. Na alternativa A, os papéis estão trocados: é o A que acompanha o meio. Na alternativa C, o B varia ao contrário do meio, o que nenhum osmoconformador faz. Na alternativa D, o A diminui com o aumento externo e o B não acompanha o meio. Na alternativa E, o B também cai enquanto o meio aumenta, e o A varia bastante. Gabarito: B.",
+  "hash": "a8aaaddc53bb4fd7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q126": {
+  "explicacao": "O objetivo do moderador é frear os nêutrons. Na colisão frontal e elástica com um alvo em repouso, a velocidade final do nêutron é dada por υ_nf = [(mₙ − mₛ)/(mₙ + mₛ)] × υ₀. A redução é máxima quando essa fração é a menor possível em módulo, o que acontece quando a massa do alvo é próxima da massa do nêutron (no limite de massas iguais, o nêutron pararia). Tomando mₙ ≈ 1 u: para o deutério (m = 2), |υ_nf| = (1/3)υ₀ ≈ 0,33υ₀. Para o hélio-4, (3/5)υ₀ = 0,60υ₀. Para o carbono-12, (11/13)υ₀ ≈ 0,85υ₀. Para o nitrogênio-14, (13/15)υ₀ ≈ 0,87υ₀. Para o estrôncio-94, (93/95)υ₀ ≈ 0,98υ₀, ou seja, o nêutron quase só ricocheteia. Assim, o deutério, presente na água pesada usada em reatores, é o que mais reduz a velocidade. Os núcleos mais pesados, como He, C, N e Sr, retiram cada vez menos energia por colisão. Gabarito: A.",
+  "hash": "61a8fe800f54e456",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q127": {
+  "explicacao": "A questão pede a fonte primária que gera energia elétrica por meio de processos químicos, ou seja, por reações que quebram e formam ligações entre átomos. A biomassa (bagaço de cana, lenha, resíduos agrícolas, biogás) produz energia pela combustão da matéria orgânica, uma reação química de oxidação que libera calor; esse calor gera vapor que movimenta turbinas. No caso do biogás, há ainda a decomposição anaeróbia por microrganismos, também química. A energia eólica aproveita a energia cinética dos ventos, um processo mecânico. A nuclear vem da fissão de núcleos atômicos, um processo físico-nuclear, não químico, pois altera os núcleos e não as ligações. A maremotriz usa o movimento das marés, também mecânico. A geotérmica aproveita o calor do interior da Terra, sem reação química. Gabarito: C.",
+  "hash": "1bea6a1a07eb9703",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q128": {
+  "explicacao": "Com n lâmpadas iguais de resistência R em paralelo, a resistência equivalente é R/n. Somando a resistência interna r da fonte, a corrente total é i = ε/(R/n + r). Para 20 lâmpadas: i₂₀ = ε/(R/20 + r). Para 40 lâmpadas: i₄₀ = ε/(R/40 + r). Como i₄₀ = a · i₂₀, temos a = i₄₀/i₂₀ = (R/20 + r)/(R/40 + r). Note que a é maior que 1, pois a resistência equivalente diminui e a corrente total aumenta; porém essa corrente se divide entre o dobro de lâmpadas, e cada uma recebe a·i₂₀/40 em vez de i₂₀/20, ou seja, a/2 vezes a corrente anterior. Como a potência de cada lâmpada é proporcional ao quadrado da corrente, o brilho cai pelo fator (a/2)², menor que 1 enquanto r > 0. As alternativas 1/2 e 1/20 não dependem de R e r, o que é impossível. A fração invertida, (R/40 + r)/(R/20 + r), corresponde a i₂₀/i₄₀. A expressão (R/40) + r é uma resistência, não uma razão de correntes. Gabarito: C.",
+  "hash": "96e7e1fe93461396",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q129": {
+  "explicacao": "O HIV é um retrovírus: seu material genético é RNA, e ele usa a enzima transcriptase reversa para produzir, a partir desse RNA, uma molécula de DNA, que passa a fita dupla e se integra ao DNA da célula hospedeira com a ajuda da integrase. A partir daí, a célula passa a fabricar novos vírus. O fármaco descrito inibe a transcriptase reversa, então bloqueia justamente a conversão do RNA viral em DNA de fita dupla, impedindo sua integração ao genoma celular e a multiplicação do vírus. A transcriptase reversa não transcreve DNA viral em RNA; faz o inverso. O HIV não duplica seu RNA diretamente; ele passa pelo DNA. A enzima não participa da duplicação do DNA celular. Ela também não atua na formação de RNA transportador. Gabarito: B.",
+  "hash": "cfd798675821f5b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q130": {
+  "explicacao": "A vacina imunizou 100% dos ratos no primeiro teste, mas, com novas cobaias, semanas e meses depois, a proteção caiu muito: 40% morreram após quatro semanas e só 15% sobreviveram após três meses. Repare que são novas cobaias em cada experimento, logo não se trata de perda de memória dos mesmos animais. O que mudou ao longo do tempo foi o próprio vírus. Vírus, especialmente os de RNA, têm elevada taxa de mutação; novas variantes surgem com antígenos alterados, e os anticorpos induzidos pela vacina, feita com base na forma antiga, deixam de reconhecê-las. É o que acontece com a gripe, cuja vacina precisa ser atualizada todo ano. Diminuir a carga viral favoreceria a sobrevivência, não o contrário. Não há indício de supressão imune nas novas cobaias. Perda de memória imunológica não explica, pois os animais eram novos a cada teste. Janela imunológica é o período até a produção de anticorpos detectáveis, sem relação com a perda de eficácia. Gabarito: C.",
+  "hash": "82c2c55f342930d9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q91": {
+  "explicacao": "A questão pede a cidade onde o climatizador é mais eficiente, ou seja, onde ele produz a maior redução de temperatura em setembro. Basta cruzar, na Tabela 1, a temperatura média e a umidade relativa de cada cidade da Tabela 2. Repare que a umidade pesa muito mais que a temperatura: quanto mais seco o ar, mais água evapora no painel e mais calor é retirado do ar. Fazendo a leitura: Barbalha (26,0 °C; 58%) → faixa 50 a 59 → 5,7 °C. Belém (27,5 °C; 75%) → faixa 70 a 80 → 2,6 °C. Cáceres (28,5 °C; 51%) → faixa 50 a 59 → 6,2 °C. Corumbá (27,0 °C; 52%) → faixa 50 a 59 → 5,9 °C. Janaúba (25,5 °C; 40%) → faixa 40 a 49 → 7,1 °C. A maior redução é a de Janaúba, a cidade de ar mais seco, mesmo sendo a de menor temperatura. Barbalha reduz só 5,7 °C. Belém, muito úmida, tem o pior desempenho. Cáceres, apesar de mais quente, reduz 6,2 °C. Corumbá reduz 5,9 °C. Gabarito: E.",
+  "hash": "96b224f76e3423be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q92": {
+  "explicacao": "O texto mostra que a pavimentação impermeabiliza o solo: a água da chuva não infiltra, escoa pela superfície e arrasta dejetos e impurezas direto para rios e córregos. A pergunta é qual ação reduziria esse efeito. A saída é recuperar áreas permeáveis, onde a água possa infiltrar e o solo e a vegetação funcionem como filtro, retendo parte dos poluentes e diminuindo o volume e a velocidade da enxurrada. Parques e espaços arborizados fazem exatamente isso, em escala relevante para a cidade. Reciclar lixo seco é positivo, mas não altera a infiltração nem o escoamento superficial. Fossas sépticas tratam esgoto doméstico, um problema diferente do arraste pela chuva. Vasos de plantas têm área de solo insignificante e não aumentam a infiltração nas vias. Expandir a canalização dos rios acelera o escoamento e leva os poluentes ainda mais rápido aos cursos de água. Gabarito: D.",
+  "hash": "9aa1c95ad4942658",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q93": {
+  "explicacao": "O experimento de Griffith é clássico: ele injetou em camundongos pneumococos virulentos (cepa S, com cápsula), que matavam; não virulentos (cepa R), que não matavam; virulentos mortos pelo calor, que também não matavam; e, por fim, uma mistura de virulentos mortos pelo calor com não virulentos vivos. Esse último grupo matou os camundongos, e deles foram isoladas bactérias S vivas. A conclusão é que algum fator das bactérias mortas transformou as bactérias R, transferindo a elas a capacidade de causar doença. Mais tarde, Avery mostrou que esse \"princípio transformante\" era o DNA. Logo, a hipótese testada é a de que a virulência pode passar de uma bactéria para outra. O experimento não investiga mutações causadas pelo calor. O calor serve apenas como ferramenta para matar as bactérias S, não é o objeto do teste. As bactérias virulentas aquecidas morrem, então não se trata de verificar se o calor as altera. A quantidade de bactérias injetadas não é variável no experimento. Gabarito: D.",
+  "hash": "74bb0debf73c880e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q94": {
+  "explicacao": "O texto descreve nanocápsulas biodegradáveis, de parede semipermeável e núcleo oleoso com prilocaína e lidocaína, que transportam e entregam os princípios ativos à região desejada. A ideia central da nanotecnologia aqui é: por serem minúsculas, as cápsulas atravessam as camadas da pele e liberam o fármaco aos poucos, conforme o polímero se degrada. Assim, o anestésico chega mais fundo, à derme, onde estão as terminações nervosas, e é absorvido de forma mais eficiente. É isso que afirma a alternativa correta: aumento do transporte e da absorção dos princípios ativos à medida que as cápsulas se degradam ao migrar da epiderme para a derme. O texto não fala em diminuição do tempo de vida do fármaco nem em migração para a hipoderme. A absorção na epiderme pela interação com gordura não é o mecanismo descrito; o objetivo é atravessá-la. Concentrar o fármaco na epiderme seria o contrário de transportá-lo às camadas mais profundas. A miniaturização torna a entrega mais eficiente, logo não exige mais creme. Gabarito: E.",
+  "hash": "7d8a52c32d51e640",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q95": {
+  "explicacao": "No esquema, o PET, um poliéster, reage com H₂O na presença de catalisador. A ligação éster (–CO–O–) é quebrada: de um lado forma-se o grupo ácido carboxílico (–COOH) do ácido tereftálico, e do outro o grupo álcool (HO–CH₂–) do etilenoglicol. Uma reação em que a água quebra uma ligação, com o H indo para um fragmento e o OH para o outro, é uma hidrólise; neste caso, a hidrólise de um éster, o inverso da esterificação. Eterificação forma éteres, o que não acontece aqui. Esterificação é justamente a reação oposta, ácido + álcool formando éster e água. Neutralização é a reação entre ácido e base formando sal e água. Transesterificação seria a troca do grupo alcóxi do éster por reação com um álcool, não com água. Gabarito: A.",
+  "hash": "8d4dd06e3f620dc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q96": {
+  "explicacao": "A proprietária quer provar que o cavalo já estava infectado no momento da compra, poucos dias antes. Então o exame precisa indicar uma infecção antiga, anterior à chegada ao haras. Pelo texto, a IgM é o primeiro anticorpo produzido e indica infecção recente; a IgG aparece depois e indica infecção mais antiga. Se o resultado for IgM negativo e IgG positivo, a fase aguda inicial já passou e o animal convive com o vírus há mais tempo do que os poucos dias na nova propriedade. Nesse cenário, a avidez nem precisa ser considerada, pois a ausência de IgM já afasta a infecção recente. IgM e IgG positivos com baixa avidez indicam infecção recente, favorecendo o vendedor. Ambos negativos indicam que não há infecção detectável. IgM e IgG positivos mantêm a possibilidade de infecção recente. IgM positivo com IgG negativo é o quadro típico de infecção muito recente, o que prejudicaria a compradora. Gabarito: C.",
+  "hash": "cb157ebf838a4789",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q97": {
+  "explicacao": "O texto diz que os polímeros biodegradáveis possuem grupos ésteres hidrolisáveis, que os microrganismos conseguem quebrar. Então basta procurar, entre as unidades monoméricas, aquela que contém o grupo éster, isto é, uma carbonila ligada a um oxigênio que continua a cadeia (–CO–O–). Na alternativa B, a unidade repetitiva tem exatamente isso: CH₂–CH₂–C(=O)–O–, um poliéster alifático, do tipo dos polímeros biodegradáveis usados em embalagens e suturas. A alternativa A é uma cadeia só de carbonos e hidrogênios, como o polietileno, muito resistente à degradação. A alternativa C tem C=O ligado a nitrogênio, ou seja, uma amida (poliamida), não um éster. A alternativa D tem apenas oxigênio entre carbonos, um poliéter, sem carbonila. A alternativa E é uma cadeia carbônica com cloro, semelhante ao PVC, também pouco biodegradável. Gabarito: B.",
+  "hash": "83b27c679bc1cf4c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q98": {
+  "explicacao": "O fusível deve derreter e abrir o circuito quando a corrente atinge o limite de 1 000 A, mas não antes, em operação normal. Pelo enunciado, cada 4 A elevam a temperatura em 1 °C. Assim, com 1 000 A, a elevação é ΔT = 1 000 ÷ 4 = 250 °C. Precisamos de um material que funda pouco abaixo dessa temperatura, para que o fio se rompa quando a corrente se aproximar do limite. O estanho funde a 232 °C, o que corresponde a uma corrente de 232 × 4 = 928 A, logo abaixo de 1 000 A: ele protege o equipamento sem romper com correntes muito menores. O frâncio funde a 27 °C, o que corresponderia a apenas 108 A, e o fusível queimaria em operação normal. Prata (960 °C) exigiria 3 840 A para fundir, deixando passar correntes perigosas. Silício (1 400 °C) exigiria 5 600 A. Zinco (420 °C) só fundiria com 1 680 A, acima do limite. Gabarito: A.",
+  "hash": "71b7283f13d7d27e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q99": {
+  "explicacao": "O texto compara duas abelhas que visitam a flor do maracujazeiro: a mamangava, grande, que poliniza com eficiência, e a abelha europeia, pequena, que coleta o pólen sem alcançar o estigma, ou seja, sem fecundar a flor. A pergunta é sobre a relação entre os dois insetos, e não entre inseto e planta. Ambas exploram o mesmo recurso, o pólen da flor do maracujá. Quando a abelha europeia retira o pólen, sobra menos para a mamangava, que é prejudicada; a disputa pelo mesmo recurso limitado entre espécies diferentes é competição interespecífica. Predação exigiria que uma abelha se alimentasse da outra. Mutualismo pressupõe benefício mútuo, o que não ocorre entre as duas abelhas. Inquilinismo é quando uma espécie usa a outra como abrigo. Comensalismo é quando uma espécie aproveita restos da outra sem prejudicá-la, mas aqui há prejuízo pelo uso do mesmo recurso. Gabarito: C.",
+  "hash": "d639e76122d68534",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
