@@ -1,0 +1,452 @@
+{
+ "enem-2022-ppl-d2-q100": {
+  "explicacao": "A questão pede duas coisas: qual substância está em maior concentração no frasco e qual não conduz corrente elétrica em solução aquosa. Na bula, os 500 mL de solução contêm 75 mg de cloreto de potássio, 0,07 g de cloreto de sódio e 0,00008 kg de glicose. Como o volume é o mesmo para todos, basta comparar as massas na mesma unidade. Cloreto de potássio: 75 mg. Cloreto de sódio: 0,07 g = 70 mg. Glicose: 0,00008 kg = 0,08 g = 80 mg. Portanto a glicose está em maior concentração (80 mg em 500 mL). Quanto à condutividade, KCl e NaCl são compostos iônicos que se dissociam em íons (K⁺, Na⁺ e Cl⁻) e conduzem corrente; a glicose (C₆H₁₂O₆) é molecular e se dissolve sem formar íons, por isso não conduz. A resposta é glicose e glicose. As alternativas que colocam cloreto de sódio ou de potássio como mais concentrados erram na conversão de unidades. As que apontam um sal como não condutor ignoram a dissociação iônica. Gabarito: A.",
+  "hash": "9e5ffc3225820f17",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q101": {
+  "explicacao": "A questão pede o mecanismo pelo qual a colchicina combate o câncer. O texto informa que ela interfere na polimerização dos microtúbulos que formam as fibras do fuso acromático. Durante a mitose, essas fibras se prendem aos cromossomos pelos cinetócoros e, na anáfase, puxam as cromátides-irmãs para polos opostos. Sem o fuso, ou com ele desorganizado pela despolimerização, os cromossomos não são separados, a divisão para na metáfase e a célula tumoral não consegue se multiplicar, o que inibe o crescimento do tumor. A colchicina não atua nas mitocôndrias nem na produção de ATP. Ela não bloqueia a síntese proteica de modo geral; age diretamente sobre a tubulina. O fuso não é responsável pela condensação da cromatina, que ocorre independentemente dele. A separação das células-filhas no fim da mitose é a citocinese, feita por um anel de actina e miosina, e não pelas fibras do fuso. Gabarito: E.",
+  "hash": "f59863320d57e9f9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q102": {
+  "explicacao": "A questão pede o combustível que libera mais energia para cada quantidade de CO₂ produzida. O quadro dá a entalpia de combustão por mol de combustível. Cada átomo de carbono vira uma molécula de CO₂, então basta dividir a energia liberada pelo número de carbonos da fórmula. Carbono (C): 394 ÷ 1 = 394 kJ por mol de CO₂. Etino (C₂H₂): 1 300 ÷ 2 = 650 kJ/mol de CO₂. Propano (C₃H₈): 2 220 ÷ 3 = 740 kJ/mol de CO₂. Butano (C₄H₁₀): 2 878 ÷ 4 ≈ 719,5 kJ/mol de CO₂. Octano (C₈H₁₈): 5 471 ÷ 8 ≈ 683,9 kJ/mol de CO₂. O maior valor é o do propano: ele fornece cerca de 740 kJ para cada mol de CO₂ emitido. Isso acontece porque tem proporção relativamente alta de hidrogênio, cuja queima gera energia formando água, e não CO₂. O carbono puro é o pior, pois toda a energia vem da formação de CO₂. O etino tem pouco hidrogênio. O butano e o octano liberam mais energia por mol, mas também emitem mais CO₂, e a razão fica abaixo da do propano. Gabarito: C.",
+  "hash": "e7f477c32a6b0fff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q103": {
+  "explicacao": "A questão pede a explicação evolutiva do dimorfismo sexual, como a cauda do pavão ou os chifres maiores dos machos de certas espécies. Esses traços surgem por seleção sexual, um caso particular de seleção natural em que o critério é o sucesso reprodutivo, e não a sobrevivência. Ela atua de duas formas: pela escolha das fêmeas, que preferem machos mais vistosos (seleção intersexual, caso do pavão), e pela competição entre machos, em que os mais fortes ou mais bem armados vencem disputas e conseguem mais parceiras (seleção intrassexual, caso dos chifres e garras). Machos com essas características deixam mais descendentes e passam adiante os genes que as determinam, mesmo que o traço tenha custo de sobrevivência. A deriva genética é aleatória e não explica traços tão direcionados. Não existe base para dizer que as fêmeas sofrem menor pressão seletiva total. Dizer que machos e fêmeas são diferentes apenas descreve o dimorfismo, sem explicá-lo. Não há maior suscetibilidade a mutações nos machos dimórficos. Gabarito: D.",
+  "hash": "10e3f83ccc60b854",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q104": {
+  "explicacao": "A questão pede o tempo para recarregar totalmente a bateria usando o carregador na corrente máxima. A capacidade da bateria é 4 000 mAh, o que significa a carga que ela armazena: corrente vezes tempo. A saída do carregador fornece no máximo 1 000 mA. Como carga é Q = i × Δt, o tempo é Δt = Q ÷ i = 4 000 mAh ÷ 1 000 mA = 4 h. Os dados de entrada (100-240 V, 200 mA, 50-60 Hz) referem-se à tomada e não entram no cálculo. As tensões de 5,0 V e 1,5 V também não são necessárias, pois a capacidade já está em unidades de carga. O valor 1/6 vem de dividir a corrente pela capacidade de forma invertida e com outro dado. O valor 5/6 mistura tensões indevidamente. O valor 6 resulta de usar a razão entre tensões de modo incorreto. O valor 8 dobraria o tempo sem justificativa. Gabarito: C.",
+  "hash": "4339dfbc6e7b00e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q105": {
+  "explicacao": "A questão pede o que o multímetro 1 vai indicar quando for ligado. Na foto, o multímetro 2 está ligado com seus dois terminais nas extremidades da lâmpada, ou seja, em paralelo com ela; nessa posição ele funciona como voltímetro e mede a tensão na lâmpada, 5,62 V. O multímetro 1 está no caminho entre as pilhas e a lâmpada, em série com o circuito; por isso ele só pode funcionar como amperímetro e medirá a corrente elétrica. Pela lei de Ohm, i = U ÷ R = 5,62 V ÷ 40 Ω ≈ 0,14 A. Repare que a tensão na lâmpada (5,62 V) é menor que os 6,0 V nominais das quatro pilhas (4 × 1,5 V) por causa da resistência interna delas, por isso não se deve usar 6,0 V. A alternativa 0,15 resulta de usar 6,0 V em vez da tensão medida. A de 0,29 não corresponde a nenhuma relação correta. As alternativas de tensão erram a função do aparelho, pois um multímetro em série mede corrente; 225 seria o produto 5,62 × 40, que não tem sentido físico aqui. Gabarito: A.",
+  "hash": "d821d55040db5624",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q106": {
+  "explicacao": "A questão pede qual substância, em contato com a água, libera íons OH⁻ e eleva o pH de um solo ácido. A chave é reconhecer óxidos básicos e sais de caráter básico. O MgO é óxido de metal alcalino-terroso, portanto óxido básico: MgO + H₂O → Mg(OH)₂ ⇌ Mg²⁺ + 2 OH⁻. Os íons hidróxido neutralizam o H₃O⁺ do solo (OH⁻ + H₃O⁺ → 2 H₂O), corrigindo a acidez; é o mesmo princípio da calagem. O KCl vem de ácido forte e base forte, é um sal neutro e não altera o pH. O NH₄Br tem o íon amônio, que sofre hidrólise ácida (NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺) e acidificaria ainda mais o solo. O AlCl₃ também é sal de caráter ácido, pois o Al³⁺ hidratado libera H₃O⁺. O P₂O₅ é óxido ácido e forma ácido fosfórico em água. Gabarito: B.",
+  "hash": "555ad70920d69f75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q107": {
+  "explicacao": "A questão pede o esquema correto do laser atravessando uma janela de vidro de faces paralelas, com o vidro mais refringente que o ar. Ao entrar no vidro, a luz passa para um meio de maior índice de refração e se aproxima da normal (a reta perpendicular à face, horizontal nas figuras); dentro do vidro, o raio fica menos inclinado que a linha pontilhada. Ao sair para o ar, ocorre o inverso: o raio se afasta da normal na mesma medida, porque as faces são paralelas. Resultado: o raio emergente sai paralelo ao incidente, apenas deslocado lateralmente, acima da linha pontilhada. É exatamente o que mostra a alternativa A. Em B, o raio entra corretamente, mas sai menos inclinado que o incidente, sem ficar paralelo a ele. Em C, o raio sai mais inclinado que o incidente, cruzando a linha pontilhada. Em D, dentro do vidro o raio se afasta da normal, o que só ocorreria se o vidro fosse menos refringente que o ar. Em E, além do desvio errado na entrada, o raio emergente não sai paralelo ao incidente. Gabarito: A.",
+  "hash": "9703cac7a1c1b910",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q108": {
+  "explicacao": "A questão pede qual pesticida passa ao bebê pelo leite materno em maior proporção, sabendo que o leite, nessa fase, tem os lipídios como principais constituintes. O raciocínio é de solubilidade: semelhante dissolve semelhante. Substâncias apolares, pouco solúveis em água, são lipossolúveis e se acumulam na gordura do corpo e do leite. Pelo quadro, as solubilidades em água são: atrazina 35-70 ppm, DDT 0,0034 ppm, HCB 0,0062 ppm, malation 145 ppm e paration 24 ppm. O DDT tem a menor solubilidade em água de todas, portanto é o mais apolar e o mais lipossolúvel. Por isso é o que mais se concentra na fração gordurosa do leite e é transmitido ao lactente em maior proporção; é também conhecido por sua bioacumulação. O HCB é bastante lipossolúvel, mas sua solubilidade em água é quase o dobro da do DDT. Atrazina, paration e malation são bem mais solúveis em água, logo menos acumulados na gordura do leite; o malation é o mais hidrossolúvel. Gabarito: B.",
+  "hash": "0659d249d7cad9f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q109": {
+  "explicacao": "A questão pede quais espécies vegetais são diretamente prejudicadas pelo efeito de borda. O texto explica que, nas bordas de um fragmento florestal, a umidade do ar diminui e aumentam a luminosidade, a temperatura e o vento. O interior de uma floresta madura é sombreado, úmido e estável, e é nesse ambiente que vivem as espécies da comunidade clímax, adaptadas à sombra e às condições amenas do estágio final da sucessão ecológica. Quando a borda avança, essas espécies passam a enfrentar condições típicas de áreas abertas, para as quais não estão adaptadas, e acabam prejudicadas. Já as espécies pioneiras, que toleram sol e secura, costumam até ser favorecidas. As espécies exóticas, em geral oportunistas, tendem a se beneficiar das bordas. As plantas polinizadas pelo vento são favorecidas pelo aumento do vento. O baixo potencial de dispersão é um problema da fragmentação em si, não das alterações microclimáticas descritas. A grande área de vida é característica de animais, não de plantas. Gabarito: D.",
+  "hash": "9cc63ac08d94171e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q110": {
+  "explicacao": "A questão pede quais componentes estão nas frações aquosas II e III do esquema de separação. O resíduo tem fenol, ácido acético, anilina e acetona dissolvidos em éter. A ideia é transformar cada composto em sal, que passa para a água, por meio de reações ácido-base. Primeiro, o NaHCO₃, base fraca, só reage com o ácido mais forte, o ácido acético, formando acetato de sódio, que vai para a fração aquosa I; o fenol é ácido fraco demais para reagir com bicarbonato. Em seguida, o NaOH, base forte, reage com o fenol e forma fenóxido de sódio, que vai para a fração aquosa II. Depois, o HCl reage com a anilina, que é uma base (grupo NH₂), formando cloreto de anilínio, que vai para a fração aquosa III. A acetona, que não é ácida nem básica nessas condições, permanece na fração etérea III. Logo, II contém fenol e III contém anilina. As alternativas com ácido acético erram porque ele já saiu na primeira etapa. As que colocam acetona numa fração aquosa ignoram que ela não reage com HCl. Gabarito: A.",
+  "hash": "516c7759ac3d1471",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q111": {
+  "explicacao": "A questão pede a tensão que chega à torneira, considerando a queda de tensão nos fios entre o quadro de distribuição e a cozinha. Primeiro calcule a resistência da fiação pela segunda lei de Ohm: R = ρ × L ÷ A. Dados: ρ = 1,7 × 10⁻⁸ Ω·m, L = 28 m (comprimento total, ida e volta) e A = 4 mm² = 4 × 10⁻⁶ m². Então R = 1,7 × 10⁻⁸ × 28 ÷ (4 × 10⁻⁶) = 47,6 × 10⁻⁸ ÷ (4 × 10⁻⁶) = 0,119 Ω. A queda de tensão nos fios, com corrente de 30 A, é U = R × i = 0,119 × 30 ≈ 3,57 V. A tensão nos terminais da torneira é 220 − 3,57 ≈ 216,4 V, ou seja, cerca de 216 V. Os valores 211 V e 213 V resultariam de uma resistência maior, por exemplo usando o dobro do comprimento, que já é o total. O valor 219 V subestima a perda nos fios. O valor 220 V desconsidera a resistência da fiação, contrariando o enunciado. Gabarito: C.",
+  "hash": "dfb12bb30243b20e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q112": {
+  "explicacao": "A questão pede a explicação química para o fato de 500 mL de água mais 500 mL de etanol resultarem em apenas 970 mL de solução, com liberação de energia. Água e etanol têm grupos OH e fazem ligações de hidrogênio. Ao misturá-los, formam-se ligações de hidrogênio entre moléculas de água e de etanol que, no conjunto, são mais intensas e permitem um empacotamento mais eficiente que nos líquidos puros: as moléculas se aproximam e se encaixam umas entre as outras, e o volume total diminui. A liberação de energia confirma que as novas interações são mais fortes, pois formar interações mais intensas é um processo exotérmico. O volume de cada molécula não muda; o que muda é a distância entre elas. A massa molecular é constante, já que não há reação química. Não se formam ligações covalentes novas, só interações intermoleculares. A diminuição da agitação das moléculas não explica a contração, e a temperatura até sobe levemente. Gabarito: E.",
+  "hash": "1aa0244f40414bc7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q113": {
+  "explicacao": "A questão pede a forma recomendável de lidar com efluentes industriais que contêm fenol, substância tóxica com limite de lançamento de apenas 0,5 ppm. A melhor solução ambiental e econômica é separar o fenol do efluente, por extração, e devolvê-lo ao processo produtivo. Assim o poluente deixa de ser descartado, a água tratada pode ser lançada dentro do limite legal e a indústria reaproveita matéria-prima, o que segue os princípios de reduzir, reutilizar e reciclar. Incinerar o efluente gasta muita energia, pois ele é majoritariamente água, e pode gerar poluentes atmosféricos. Aquecer para evaporar o fenol só transfere o poluente tóxico da água para o ar. Armazenar em piscinas de contenção apenas adia o problema e cria risco de vazamento e contaminação do solo e do lençol freático. Diluir com água para despejar nos rios não reduz a quantidade total de fenol lançada no ambiente, apenas mascara a concentração. Gabarito: D.",
+  "hash": "54257f07ad7f2c6f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q114": {
+  "explicacao": "A questão pede em que etapa do ciclo do nitrogênio as minhocas atuam. As minhocas são decompositoras: ingerem restos de matéria orgânica (folhas, raízes, resíduos animais) e, ao digeri-la e excretar, transformam proteínas e outros compostos nitrogenados em formas mais simples, liberando amônia (NH₃) ou amônio no solo. Esse processo, chamado amonificação, junto com a ação de bactérias e fungos, devolve nitrogênio ao solo e aumenta sua disponibilidade, como o enunciado menciona. Depois, bactérias nitrificantes podem converter essa amônia em nitrito e nitrato. Oxidar nitrito a nitrato é tarefa de bactérias nitrificantes, como as do gênero Nitrobacter. Reduzir nitrito a amônia é um processo bacteriano, não das minhocas. Oxidar a amônia a nitrito também é papel de bactérias nitrificantes, como Nitrosomonas. Fixar o N₂ atmosférico é exclusivo de certos procariontes, como Rhizobium e cianobactérias, que têm a enzima nitrogenase. Gabarito: D.",
+  "hash": "ac20770e5dd1ecc6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q115": {
+  "explicacao": "A questão pede as condições para que a luz sofra reflexão interna total dentro da fibra óptica, informando o ângulo de refração e a relação entre os índices n₁ (núcleo) e n₂ (casca). A reflexão total só acontece quando a luz vai de um meio mais refringente para um menos refringente, pois só nesse caso o raio refratado se afasta da normal. Logo, o núcleo precisa ter índice maior que a casca: n₂ < n₁. Além disso, existe o ângulo limite: quando o ângulo de incidência atinge esse valor, o raio refratado sairia rasante à superfície, com ângulo de refração de 90°; acima disso não há refração e toda a luz é refletida. Pela lei de Snell, n₁ × sen L = n₂ × sen 90°, o que dá sen L = n₂ ÷ n₁, possível apenas se n₂ < n₁. Por isso a condição é ângulo de refração de 90° e n₂ < n₁. A alternativa com 45° não corresponde ao ângulo limite. As alternativas com ângulo nulo descrevem incidência perpendicular, sem reflexão total. As que trazem n₂ > n₁ tornam a reflexão total impossível. Gabarito: E.",
+  "hash": "9c21f0a736162145",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q116": {
+  "explicacao": "A questão pede onde aparecerá o isótopo ¹⁸O depois que um sistema com uma célula autotrófica e uma heterotrófica recebe gás oxigênio marcado (¹⁸O₂). O destino do O₂ nas células é a respiração aeróbica: ele é o aceptor final de elétrons na cadeia respiratória, nas mitocôndrias. Lá o oxigênio recebe elétrons e prótons e forma água: ½ O₂ + 2 H⁺ + 2 e⁻ → H₂O. Assim, o ¹⁸O vai para a água produzida na respiração; as duas células, autotrófica e heterotrófica, respiram. O piruvato da glicólise vem da glicose, sem participação do O₂. A fermentação alcoólica é anaeróbica e não usa O₂, e o oxigênio do etanol vem da glicose. Na fotossíntese, o oxigênio da glicose vem do CO₂ fixado, não do O₂. O CO₂ do ciclo de Krebs tem oxigênios vindos dos substratos orgânicos e da água, não diretamente do O₂ respirado. Gabarito: A.",
+  "hash": "cc3277c2bb04eb63",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q117": {
+  "explicacao": "A questão pede o que as fermentações alcoólica e lática, mostradas no esquema, têm em comum. Nas duas, a glicose é quebrada em duas moléculas de ácido pirúvico na glicólise, gerando 2 NADH; depois, o piruvato é convertido em etanol (leveduras) ou em ácido lático (lactobacilos), regenerando o NAD⁺. Em nenhum dos casos a glicose é totalmente oxidada a CO₂ e H₂O: os produtos finais, etanol e ácido lático, ainda são moléculas orgânicas com bastante energia química e podem ser metabolizados por outros organismos ou por outras vias, por exemplo o etanol oxidado no fígado e o lactato reconvertido em piruvato. Por isso ambos formam produtos metabolizáveis. A liberação de gás, o CO₂, ocorre só na fermentação alcoólica. A descarboxilação do piruvato também só aparece na fermentação alcoólica. As leveduras são fungos, eucariontes, então nem os dois processos envolvem procariontes. A oxidação completa do substrato é característica da respiração aeróbica. Gabarito: E.",
+  "hash": "a502386f4fa80e96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q118": {
+  "explicacao": "A questão pede o que acontece com o brilho das lâmpadas quando A queima. Analise o circuito. O polo positivo liga-se ao lado esquerdo; o ramo de cima tem A e B em série, e o ramo do meio tem C; os dois chegam ao fio vertical da direita, que está ligado diretamente ao polo negativo. A lâmpada D está ligada entre dois pontos unidos também por um fio sem resistência: está em curto-circuito, toda a corrente passa pelo fio e D já estava apagada antes. Então, antes da queima, A e B (em série) e C estão cada um submetido diretamente à tensão V da fonte ideal. Quando A queima, o ramo de cima fica aberto e B apaga. C continua ligada diretamente aos terminais da fonte ideal, com a mesma tensão V e a mesma corrente, logo mantém o mesmo brilho. D continua em curto e permanece apagada. As alternativas que dizem que D estava acesa ou passa a brilhar mais ignoram o curto-circuito. Dizer que C fica com maior brilho esquece que a fonte ideal mantém a tensão em C. B não pode continuar acesa, pois está em série com A. Gabarito: B.",
+  "hash": "db5370a93cfef2f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q119": {
+  "explicacao": "A questão pede a velocidade constante da esteira, sabendo que, quando a massa cai de 1 200 kg para 1 000 kg em 0,10 s, é preciso aplicar uma força impulsiva de 250 N para manter a velocidade. Use o teorema do impulso: o impulso da força é igual à variação da quantidade de movimento, F × Δt = Δ(m × v). Como a velocidade é constante, a variação de quantidade de movimento vem da variação de massa: Δp = Δm × v. Então 250 N × 0,10 s = 200 kg × v, o que dá 25 = 200 × v e v = 25 ÷ 200 = 0,125 m/s. A alternativa 0,011 não segue nenhum raciocínio coerente. A de 0,021 equivale a dividir 25 pela massa final aumentada, 1 200 kg. A de 0,025 corresponde a dividir 25 por 1 000 kg, usando a massa total em vez da variação de massa. A de 0,500 resultaria de usar a massa variando em 50 kg ou um tempo errado. Gabarito: D.",
+  "hash": "c3125f347b54ecfc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q120": {
+  "explicacao": "A questão pede qual gás secundário pode ser removido por um purificador com pasta de calcário (CaCO₃), sendo convertido em um sal sólido. O carbonato de cálcio é uma base fraca, então reage com gases de caráter ácido. Entre os gases citados, o dióxido de enxofre (SO₂), emitido principalmente pela queima de carvão e combustíveis com enxofre, é um óxido ácido. A reação é CaCO₃ + SO₂ → CaSO₃ + CO₂; com oxigênio, forma-se sulfato de cálcio: 2 CaCO₃ + 2 SO₂ + O₂ → 2 CaSO₄ + 2 CO₂. CaSO₃ e CaSO₄ são sais sólidos, que ficam retidos no purificador. Esse processo, a dessulfurização, é usado em chaminés de usinas para reduzir a chuva ácida. O ozônio é oxidante, mas não forma sal com o carbonato. O metano é um hidrocarboneto apolar e não reage com CaCO₃. O monóxido de carbono e o monóxido de nitrogênio são óxidos neutros, que não reagem com bases. Gabarito: C.",
+  "hash": "37aa5704427c0a7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q121": {
+  "explicacao": "A questão pede o impacto ambiental de um sistema de arrefecimento mal operado numa usina nuclear. O reator gera muito calor, e a água captada de rios, lagos ou mar circula no sistema de resfriamento, absorve esse calor e depois volta ao ambiente. Se essa água não for resfriada adequadamente antes do retorno, ela chega aos corpos d'água com temperatura acima da natural. É a chamada poluição térmica. O aquecimento diminui a solubilidade do oxigênio na água e acelera o metabolismo dos organismos, que passam a consumir mais oxigênio; o resultado pode ser a morte de peixes e de outros organismos e o desequilíbrio do ecossistema aquático. A água de arrefecimento circula em circuito separado do material radioativo e não gera gases tóxicos. O volume devolvido é praticamente o captado, então a reserva hídrica não diminui de modo relevante. Não há aumento de nutrientes, o que caracterizaria eutrofização. A contaminação por microrganismos não decorre do resfriamento. Gabarito: C.",
+  "hash": "918c8d189009bae3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q122": {
+  "explicacao": "A questão pede o revestimento mais barato que impeça os pneus de deslizar com uma força motora de até 200 N e normal de 800 N. Para não haver deslizamento, a força de atrito estático máxima precisa ser pelo menos igual à força aplicada: μ × N ≥ 200 N. Então μ ≥ 200 ÷ 800 = 0,25. No quadro, o cimento tem μ = 0,20, abaixo do mínimo: a cadeira escorregaria. Os outros atendem à condição: mármore (0,30), madeira (0,35), carpete (0,45) e lona (0,55). Entre esses, compare os custos: mármore $$$$$, madeira $$, carpete $$$$, lona $$$. O mais barato que garante segurança é a madeira, com custo $$. O cimento é o mais barato, mas o coeficiente 0,20 não basta. O mármore é seguro, mas é o mais caro de todos. O carpete e a lona também são seguros, porém mais caros que a madeira. Gabarito: C.",
+  "hash": "d29c13f94d905199",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q123": {
+  "explicacao": "A questão pede o volume de N₂ produzido pela decomposição de 100 g de NaN₃ a 1 atm e 25 °C. Primeiro, a quantidade de NaN₃: n = 100 g ÷ 65 g/mol ≈ 1,54 mol. Pela equação, 2 mol de NaN₃ produzem 3 mol de N₂, então n(N₂) = 1,54 × 3 ÷ 2 ≈ 2,31 mol. Converta a temperatura: T = 25 + 273 = 298 K. Pela equação dos gases, V = n × R × T ÷ P = 2,31 × 0,0821 × 298 ÷ 1. Calculando: 0,0821 × 298 ≈ 24,47 L/mol; 2,31 × 24,47 ≈ 56,5 L. A alternativa 4,7 L e a de 9,4 L resultam de erros na proporção ou de usar a temperatura em Celsius. A de 18,8 L usa a quantidade de mols errada, como 1 mol de N₂ para 1 de NaN₃ sem a proporção correta e com outra temperatura. A de 113,0 L é o dobro do valor correto, como se fossem formados 3 mol de N₂ por mol de NaN₃. Gabarito: D.",
+  "hash": "74f5ac9a4eb9af83",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q124": {
+  "explicacao": "A questão pergunta por que deixar na compoteira o talher que foi à boca faz o doce azedar. A boca abriga uma grande quantidade de microrganismos, como bactérias e leveduras. Quando o talher volta ao doce, leva saliva e esses microrganismos para um ambiente rico em açúcar, ideal para a proliferação deles. Esses seres fermentam os açúcares e produzem ácidos, como o ácido lático e o acético, e às vezes álcool; é isso que deixa o doce com gosto azedo e o estraga. Portanto, o saber popular está certo: o problema é a contaminação microbiana seguida de fermentação. A oxidação pelo ar aconteceria com a compoteira aberta, independentemente do talher usado. As enzimas da saliva, como a amilase, digerem amido e não produzem acidez significativa. Os conservantes não evaporam, e a compota não depende de um equilíbrio desse tipo. O metal do talher não reage com os açúcares de modo a azedar o doce. Gabarito: B.",
+  "hash": "8d70c27e6de0a2bb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q125": {
+  "explicacao": "A questão pede qual alimento da refeição deve ser eliminado da dieta de uma pessoa com doença celíaca. O texto explica que a doença é uma reação autoimune ao glúten, proteína presente no trigo, na cevada e no centeio. Então é preciso procurar, entre os alimentos ingeridos, aquele feito com algum desses cereais. A lasanha é preparada com massa de farinha de trigo, que contém glúten; por isso precisa ser retirada da dieta. O arroz é um cereal que não contém glúten e é bem tolerado pelos celíacos. O ovo cozido é de origem animal e não tem glúten. O bife com creme de leite também é de origem animal, sem glúten. A salada de alface e tomate é composta por hortaliças e frutos, também sem glúten. Gabarito: B.",
+  "hash": "cd70f1fcd9868748",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q126": {
+  "explicacao": "A questão pede o tipo de reação que transforma o benzopireno (I), um hidrocarboneto aromático policíclico formado só por carbono e hidrogênio, no composto carcinogênico (II). No organismo, enzimas do fígado, do grupo citocromo P450, inserem átomos de oxigênio na molécula: formam primeiro um epóxido, que é hidratado a um diol, e depois um novo epóxido, gerando o diol-epóxido do benzopireno, capaz de se ligar ao DNA e causar mutações. A entrada de oxigênio e o aumento do número de ligações C–O mostram que os carbonos perdem elétrons, ou seja, o composto é oxidado. Por isso a biotransformação é uma reação de oxidação, típica do metabolismo de compostos estranhos ao corpo. Uma adição simples não explica a inserção de oxigênio vinda de enzimas oxidativas. Na eliminação haveria perda de átomos e formação de ligação dupla. Na substituição um átomo do anel seria trocado por outro grupo, o que não descreve a conversão. Hidrogenação seria adição de H₂, uma redução, o oposto do que ocorre. Gabarito: B.",
+  "hash": "87750441b7dd1fa2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q127": {
+  "explicacao": "A questão pede o que a fumaça interrompe para que o sensor a detecte. O texto descreve o funcionamento: uma fonte radioativa de amerício emite partículas alfa, que ionizam as moléculas do ar na câmara, formando cátions e elétrons. Esses íons se movem entre dois eletrodos e mantêm uma corrente elétrica no circuito; enquanto ela existe, o alarme fica em silêncio. Quando a fumaça entra, suas partículas se prendem aos íons e impedem o movimento deles. A corrente cai ou é interrompida, o circuito detecta a mudança e o alarme dispara. Logo, o que a fumaça interrompe é a passagem de corrente elétrica. Não há fissão do hélio; as partículas alfa já são núcleos de hélio emitidos pelo amerício. As moléculas do ar são ionizadas, não transmutadas em outros elementos. O decaimento radioativo do amerício não é afetado pela fumaça; é um processo nuclear espontâneo. Não ocorre fusão nuclear no detector. Gabarito: B.",
+  "hash": "66d4fc53b204d691",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q128": {
+  "explicacao": "A questão pede a faixa de frequência em que a maior parte da população tem maior sensibilidade auditiva. Atenção à leitura do gráfico: o eixo vertical é a intensidade mínima necessária para ouvir o som. Quanto mais baixa a curva, menor a intensidade necessária e, portanto, maior a sensibilidade. As curvas tracejadas, de 5% a 99% da população, descem a partir das baixas frequências, atingem o ponto mais baixo e voltam a subir em frequências altas. Observando todas elas, o mínimo fica entre 2 000 Hz e 4 000 Hz, aproximadamente perto de 3 000 Hz, onde os limiares chegam perto de 0 nas curvas mais baixas. Essa é a faixa de maior sensibilidade, que coincide com a ressonância do canal auditivo e com sons importantes da fala. Abaixo de 80 Hz e entre 80 e 100 Hz, as curvas estão altas, o que indica baixa sensibilidade. Entre 4 000 e 10 000 Hz, as curvas já sobem rapidamente. Acima de 10 000 Hz, a sensibilidade é ainda menor. Gabarito: C.",
+  "hash": "1b5b3b6b534a5270",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q129": {
+  "explicacao": "A questão pede como diferem a quantidade e a qualidade dos açúcares do suco e do néctar de uma mesma fruta. O texto informa que o suco tem cerca de 50% de polpa e que o néctar tem só 20% a 30% de polpa, mas recebe adição de açúcar, com valor calórico equivalente. O açúcar natural das frutas é principalmente a frutose; como o suco tem mais polpa, tem mais frutose. O açúcar adicionado industrialmente é o açúcar comum, a sacarose; como o néctar tem menos polpa, os fabricantes completam o sabor e as calorias com sacarose. Portanto há mais frutose no suco e mais sacarose no néctar. Dizer que há mais frutose no néctar e mais sacarose no suco inverte a lógica do texto. Afirmar mais sacarose no suco ignora que é o néctar que recebe açúcar adicionado. Quantidades iguais de sacarose nos dois produtos contrariam a adição de açúcar só no néctar. Frutose maior no néctar contradiz a maior porcentagem de polpa do suco. Gabarito: A.",
+  "hash": "8b20904a1d57811c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q130": {
+  "explicacao": "A questão pede o efeito metabólico em uma criança homozigota recessiva para o gene B (bb). Pelo esquema, a fenilalanina vira tirosina pela enzima E1 (alelo A); a tirosina, por sua vez, segue três caminhos: melanina pela enzima E2 (alelo B), tiroxina pela E3 (alelo C) e adrenalina pela E4 (alelo D). Como as enzimas resultam dos alelos dominantes, uma criança bb não produz a enzima E2 funcional. Sem ela, a tirosina não é convertida em melanina, o pigmento que dá cor à pele, aos cabelos e aos olhos. O resultado é a ausência de pigmentação, o albinismo. Taquicardia estaria ligada à adrenalina, cuja via depende do alelo D. O retardo mental se relaciona à falha da enzima E1, na fenilcetonúria, que depende do alelo A. A redução de peso estaria associada a alterações na tiroxina, via do alelo C. Disfunção dos processos metabólicos em geral é vaga demais; a falta de E2 afeta especificamente a produção de melanina. Gabarito: D.",
+  "hash": "ac3ea0b640099db5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q131": {
+  "explicacao": "A questão pede a origem principal da enorme energia liberada pelo meteorito ao entrar na atmosfera. O dado que importa é a velocidade: 19 km/s, ou seja, cerca de 19 000 m/s. A energia cinética é Ec = m × v² ÷ 2, e como depende do quadrado da velocidade, um corpo de grande massa a essa velocidade carrega uma quantidade gigantesca de energia. Ao penetrar na atmosfera, o meteorito sofre forte atrito e compressão do ar à sua frente; a energia cinética se converte em energia térmica e luminosa, o que explica o brilho intenso e a explosão. A comparação com toneladas de TNT e com a bomba de Hiroshima é só uma forma de expressar a quantidade de energia, não a sua origem. O meteorito não contém combustíveis que estejam queimando. Não ocorrem reações nucleares de fusão como no Sol. Também não há fissão nuclear como numa bomba atômica. O TNT não está presente no meteorito; foi usado apenas como unidade de comparação. Gabarito: C.",
+  "hash": "d12ce37c2880caef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q132": {
+  "explicacao": "A questão pede as propriedades que explicam os dois experimentos com mel, água, óleo e álcool. No experimento 1, com agitação, o mel (açúcares muito solúveis em água), a água e o álcool, que são polares e fazem ligações de hidrogênio, se dissolvem uns nos outros e formam uma única fase; o óleo, apolar, não se dissolve e forma a segunda fase. O que explica isso é a solubilidade. No experimento 2, os líquidos foram adicionados devagar e sem agitação, por isso não houve tempo para se misturarem; eles se arrumaram em camadas conforme a densidade: o mel, mais denso, embaixo; depois a água; em seguida o óleo; e o álcool, menos denso, em cima. Assim, as propriedades são solubilidade e densidade, respectivamente. A viscosidade influencia a velocidade da mistura, mas não explica o número de fases nem a ordem das camadas. Miscibilidade é praticamente sinônimo de solubilidade entre líquidos e não explica a ordem das camadas no experimento 2. Gabarito: A.",
+  "hash": "ab419b549bfe85d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q133": {
+  "explicacao": "A questão pergunta por que o método descrito para trazer o mamute de volta é uma clonagem. O procedimento é o mesmo usado na ovelha Dolly: retira-se o núcleo de uma célula somática do mamute, que contém todo o seu material genético, e ele é inserido em um zigoto ou óvulo de elefante cujo núcleo foi removido. O embrião que se desenvolve tem o DNA nuclear do mamute doador, ou seja, seus cromossomos são idênticos aos do indivíduo que forneceu o núcleo. É isso que define a clonagem: produzir um organismo geneticamente idêntico ao parental, sem mistura de genes de dois progenitores. Não se cria um híbrido, porque não há combinação dos genomas de mamute e elefante no núcleo. A clonagem não depende de reprodução assistida no sentido de fecundação in vitro. Não forma uma espécie nova; o objetivo é recriar a espécie extinta. Também não é transferência de genes entre espécies, que seria transgenia. Gabarito: D.",
+  "hash": "6865c92a822f89aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q134": {
+  "explicacao": "A questão pede por que produzir apenas frutos pequenos é vantajoso para o palmito juçara onde as aves grandes desapareceram. A planta depende de aves que comem seus frutos e espalham as sementes, ou seja, que fazem a dispersão. Frutos grandes só podem ser engolidos por aves de bico largo, de maior porte. Se essas aves foram extintas, os frutos grandes não são comidos, as sementes caem perto da planta-mãe e têm menos chance de originar novas plantas. Já os frutos pequenos podem ser ingeridos pelas aves menores que ainda existem, que levam as sementes para outros lugares. Assim, a seleção natural passa a favorecer plantas com frutos pequenos. Os frutos do palmito não são dispersos pelo vento; são carnosos e consumidos por animais. A desidratação das sementes não é a vantagem apontada e pode até reduzir a viabilidade. Não há indicação de que o tamanho acelere a germinação. Guardar menos reservas não é o fator que explica a mudança. Gabarito: A.",
+  "hash": "3bdf440314283022",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q135": {
+  "explicacao": "A questão pede o que acontece com as partículas poluentes no precipitador eletrostático. O fio de cobre ligado à fonte acumula carga elétrica e cria um campo elétrico intenso ao redor, mais forte perto do fio. As partículas de fumaça, mesmo neutras, sofrem polarização por indução: as cargas internas se separam e o lado mais próximo do fio fica com carga oposta à dele. Como o campo é mais intenso perto do fio, a atração sobre o lado próximo supera a repulsão sobre o lado distante, e a partícula é atraída para o fio, onde se acumula. É o mesmo efeito do pente eletrizado atraindo papel picado. Assim, os gases saem limpos pela saída. O precipitador não decompõe as partículas em outras moléculas; só as separa do gás. Elas não são ionizadas e liberadas, pois o objetivo é retê-las. Partículas polarizadas por indução são atraídas, e não repelidas, pelo corpo carregado. Não ocorre formação de ligações iônicas. Gabarito: A.",
+  "hash": "b9a84c0f7a372bec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q136": {
+  "explicacao": "A questão pede o produto de matrizes A × B que gera uma coluna com a nota do curso I na primeira linha e a do curso II na segunda. Escreva primeiro as notas: curso I = 1 × X + 2 × Y; curso II = 1 × X + 3 × Y. Se a matriz B das notas é a coluna (X, Y), cada linha da matriz A deve conter os pesos de um curso na mesma ordem, objetiva e depois redação: primeira linha (1, 2) e segunda linha (1, 3). Fazendo o produto: (1 2 / 1 3) × (X / Y) = (X + 2Y / X + 3Y), exatamente as notas pedidas. A alternativa com (1 1 / 2 3) × (X / Y) dá X + Y e 2X + 3Y, trocando linhas por colunas. A de (2 1 / 3 1) × (X / Y) dá 2X + Y e 3X + Y, aplicando os pesos da redação à nota objetiva. A de (2 3 / 1 1) × (Y / X) dá 2Y + 3X e Y + X, sem sentido. A de (1 1 / 2 3) × (Y / X) dá X + Y e 2Y + 3X, também invertida. Gabarito: B.",
+  "hash": "c2bd85848e6bb697",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q137": {
+  "explicacao": "A questão pede o maior valor que a balança de casa pode mostrar para que a massa real da mala não ultrapasse 23 kg, sabendo que a balança indica até 8% a mais que a massa real. Se a balança erra para mais, a leitura é a massa real multiplicada por 1,08 no pior caso: leitura = 1,08 × massa real. Para a mala ter no máximo 23 kg reais, a leitura correspondente é 1,08 × 23 = 24,84 kg. Assim, se a balança indicar até 24,84 kg, mesmo no caso de erro máximo a mala terá 23 kg de verdade. A alternativa 21,16 resulta de subtrair 8% de 23 (23 × 0,92), raciocínio de quem acha que a balança marca a menos. A de 22,08 é 23 menos 8% de 12, sem relação lógica. A de 23,92 soma apenas 4% a 23. A de 25,00 é um arredondamento que permitiria massa real acima de 23 kg. Gabarito: D.",
+  "hash": "8aaf6460fd28cda7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q138": {
+  "explicacao": "A questão pede a mediana do número de portadores de diabetes tipo 2 nas 13 macrorregiões de Minas Gerais. Para achar a mediana, coloque os valores em ordem crescente: 36, 39, 45, 47, 86, 110, 128, 153, 186, 255, 448, 460, 714. Como são 13 valores, número ímpar, a mediana é o valor central, que ocupa a posição (13 + 1) ÷ 2 = 7ª. O sétimo valor da lista é 128, do Triângulo do Norte. Portanto a mediana é 128,00. A alternativa 110,00 é o sexto valor, uma posição antes do centro. A de 119,00 é a média entre o sexto e o sétimo valores, cálculo que só se faz quando a quantidade de dados é par. A de 182,50 não corresponde a nenhuma posição central dos dados ordenados. A de 208,23 é a média aritmética: a soma, 2 707, dividida por 13, que é puxada para cima pelos valores altos, como 714. Gabarito: C.",
+  "hash": "21da3b68de00fed2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q139": {
+  "explicacao": "A questão pede o menor número de medalhas a mais que o Brasil precisaria para ficar exatamente em 10º lugar. O Brasil tem 3 ouros, 5 pratas e 9 bronzes. Para ser 10º, deve ficar à frente da Austrália (7 ouros, 16 pratas, 12 bronzes) e do Japão (7, 14, 17), mas atrás da Hungria (8 ouros). Com 8 ouros ou mais, empataria ou superaria a Hungria, então o Brasil pode ter no máximo 7 ouros, o que exige 4 ouros a mais. Empatado em ouros com a Austrália, o desempate é a prata. Opção 1: 17 pratas, superando a Austrália sem precisar de bronze; são 12 pratas a mais, total 4 + 12 = 16. Opção 2: 16 pratas, empatando, e mais de 12 bronzes, ou seja, 13; são 11 pratas e 4 bronzes a mais, total 4 + 11 + 4 = 19. Ficar com mais ouros que a Austrália, com 8 ouros, empataria com a Hungria, e mais de 8 colocaria o Brasil à frente dela. O mínimo é 16 medalhas. A de 19 é a opção com empate em pratas, que não é a mínima. As de 22 e 17 não são mínimas. A de 14 é insuficiente para passar a Austrália. Gabarito: D.",
+  "hash": "b7ed87c3b4c93fd4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q140": {
+  "explicacao": "A questão pede o desconto real em relação ao preço original de R$ 300,00, depois de um aumento para R$ 315,00 e de um desconto de 20%. Calcule o preço final: 20% de 315 é 0,20 × 315 = 63, então o celular saiu por 315 − 63 = R$ 252,00, ou 0,80 × 315 = 252. Agora compare com o preço antes do aumento: a redução foi 300 − 252 = R$ 48,00. Em porcentagem do valor original: 48 ÷ 300 = 0,16 = 16%. Note que aumento e desconto percentuais não se cancelam simplesmente: o aumento foi de 5% (15 sobre 300), e o desconto de 20% incidiu sobre o valor maior. A alternativa 15,24% vem de dividir 48 por 315. A de 19,04% vem de dividir 60 por 315 ou de erro semelhante. A de 21,00% seria 20% mais 1%, uma combinação sem sentido. A de 25,00% não resulta das contas do problema. Gabarito: B.",
+  "hash": "ff168afd869c62b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q141": {
+  "explicacao": "A questão pede o raio da base de uma caixa-d'água cilíndrica de 1 m de altura que armazene 0,4 m³. O volume do cilindro é área da base vezes altura: V = π × r² × h. Substituindo, 0,4 = π × r² × 1, então r² = 0,4 ÷ π. Extraindo a raiz quadrada, r = √(0,4 ÷ π) metro. Conferindo o valor aproximado: 0,4 ÷ 3,14 ≈ 0,127 e √0,127 ≈ 0,36 m, medida razoável para uma caixa pequena. A alternativa 0,2/π usa metade do volume e esquece a raiz. A de 0,4/π dá r², e não r, porque esquece a raiz quadrada. A de √(0,2/π) divide o volume por 2 sem motivo, como se usasse o diâmetro de forma errada. A de √(1,2/π) multiplica o volume por 3, confundindo com o volume do cone (V = π r² h ÷ 3). Gabarito: D.",
+  "hash": "365f050cccbc021a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q142": {
+  "explicacao": "A questão pede a probabilidade de Brasil e França estarem juntos na comissão, formada por 4 dos 7 países americanos e 4 dos 7 europeus, escolhidos ao acaso. As duas escolhas são independentes. Para o Brasil: a chance de estar entre os 4 escolhidos de 7 é 4/7. Isso pode ser visto por combinação: C(6,3) ÷ C(7,4) = 20 ÷ 35 = 4/7, isto é, fixando o Brasil, escolhem-se os outros 3 entre os 6 restantes. Para a França, o raciocínio é idêntico: 4/7. A probabilidade de os dois eventos ocorrerem juntos é o produto: 4/7 × 4/7 = 16/49. A alternativa 1/182 seria a chance de uma comissão específica completa. A de 1/49 considera apenas 1 vaga em cada continente (1/7 × 1/7). A de 1/4 não corresponde a nenhum cálculo coerente. A de 1/13 parece vir de considerar escolha entre os 14 países sem separar os continentes. Gabarito: E.",
+  "hash": "7eaf52a8af031f7d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q143": {
+  "explicacao": "A questão pede qual bônus os professores recebem, conforme a probabilidade de um aluno escolhido ao acaso ser aprovado. Temos 54% dos alunos na turma A, com 25% de aprovação, e os outros 46% na turma B, com 40% de aprovação. Pela probabilidade total: P = 0,54 × 0,25 + 0,46 × 0,40. Calculando: 0,54 × 0,25 = 0,135 e 0,46 × 0,40 = 0,184. Somando, P = 0,319, ou seja, 31,9%. Na tabela, 31,9% está na faixa 20 ≤ P < 35, que corresponde ao bônus III. Os bônus I e II exigiriam probabilidades abaixo de 20%, muito menores que a calculada. O bônus IV, de 35% a 50%, seria obtido se a turma B tivesse mais peso, por exemplo usando só os 40% dela. O bônus V exigiria probabilidade de pelo menos 50%, que só seria alcançada somando indevidamente as duas taxas (25% + 40% = 65%). Gabarito: C.",
+  "hash": "20847e18ea51bb26",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q144": {
+  "explicacao": "A questão pede quantos CDs o grupo comprou, sabendo que o gasto total foi R$ 1 008,00, que incluiu R$ 252,00 do equipamento, e que o preço unitário depende da quantidade. Primeiro, o valor gasto só com CDs: 1 008 − 252 = R$ 756,00. Agora teste cada faixa de preço, verificando se a quantidade obtida pertence à faixa. A R$ 0,45: 756 ÷ 0,45 = 1 680 CDs, mas esse preço vale só para menos de 1 000 unidades; não serve. A R$ 0,40: 756 ÷ 0,40 = 1 890 CDs, e esse preço vale de 1 000 a menos de 2 500 unidades; 1 890 está na faixa, então serve. A R$ 0,35: 756 ÷ 0,35 = 2 160 CDs, mas esse preço exige pelo menos 2 500; não serve. Logo, foram comprados 1 890 CDs. A alternativa 1 680 usa o preço errado para a faixa. A de 2 160 também é incompatível com a faixa. As de 2 520 e 2 880 resultam de incluir o equipamento no cálculo (1 008 ÷ 0,40 e 1 008 ÷ 0,35). Gabarito: B.",
+  "hash": "634d2d4060c1a737",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q145": {
+  "explicacao": "A questão pede o menor custo entre dois projetos de piso para uma sala de 36 m². Projeto A: cada peça tem 0,60 × 0,60 = 0,36 m², então 36 ÷ 0,36 = 100 peças. Com 25% a mais, 100 × 1,25 = 125 peças. As caixas têm 10 peças, logo são 13 caixas (12 caixas teriam só 120 peças). Custo: 13 × 60 = R$ 780,00. Projeto B: cada peça tem 0,40 × 0,40 = 0,16 m², então 36 ÷ 0,16 = 225 peças. Com 10% a mais, 225 × 1,10 = 247,5, ou seja, 248 peças. As caixas têm 12 peças: 248 ÷ 12 ≈ 20,7, logo 21 caixas. Custo: 21 × 40 = R$ 840,00. O cliente escolhe o projeto A, que custa R$ 780,00. A alternativa de R$ 600,00 é o custo do projeto A sem o adicional (10 caixas). A de R$ 660,00 e a de R$ 720,00 resultam de comprar menos caixas do que o necessário para A. A de R$ 840,00 é o custo do projeto B, o mais caro. Gabarito: D.",
+  "hash": "c3ea340be47a29ea",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q146": {
+  "explicacao": "A questão pede as classificações de Valéria e Bianca, cuidando da notação de intervalos. Valéria vendeu R$ 10 000,00. O intervalo de N2 é ]10 000, 20 000], aberto em 10 000, ou seja, não inclui esse valor. O intervalo de N3 é ]7 000, 10 000], fechado em 10 000, que inclui o valor. Logo, Valéria recebeu N3. Bianca vendeu 35% a menos: 10 000 × 0,65 = R$ 6 500,00. Esse valor está no intervalo ]4 000, 7 000], que corresponde a N4. Portanto as classificações são N3 e N4. As alternativas que colocam Valéria em N2 erram na leitura do colchete aberto, que exclui o 10 000 dessa faixa. A alternativa com N3 e N5 erra a classificação de Bianca, pois 6 500 é maior que 4 000. Gabarito: D.",
+  "hash": "683adcdff6dcaac0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q147": {
+  "explicacao": "A questão pede quantos quilômetros correspondem a 50 milhas, sabendo que 1 milha vale cerca de 1 610 metros. Multiplique: 50 × 1 610 m = 80 500 m. Convertendo para quilômetros, divida por 1 000: 80 500 m = 80,5 km. Desprezando as casas decimais, a placa deve mostrar 80 km. Uma observação: a milha não pertence ao sistema CGS, como diz o texto, e sim ao sistema imperial, mas isso não altera o cálculo. A alternativa 8 resulta de dividir por 10 000 em vez de 1 000. A de 31 vem de dividir 50 por 1,61, fazendo a conversão ao contrário (de km para milhas). A de 310 também usa a conversão invertida com outra potência de 10. A de 805 confunde a ordem de grandeza, dividindo 80 500 por 100. Gabarito: C.",
+  "hash": "faec0f2b83f5d404",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q148": {
+  "explicacao": "A questão pede a distância total percorrida em 31 horas, com cada um dos três amigos dirigindo um terço do percurso a velocidades médias de 75, 90 e 100 km/h. Chame cada terço de x km; a distância total é 3x. O tempo de cada motorista é distância dividida por velocidade: x/75 + x/90 + x/100 = 31. O mínimo múltiplo comum de 75, 90 e 100 é 900. Reescrevendo: 12x/900 + 10x/900 + 9x/900 = 31, ou seja, 31x/900 = 31. Logo x = 900 km, e a distância total é 3 × 900 = 2 700 km. Conferindo: 900/75 = 12 h, 900/90 = 10 h e 900/100 = 9 h; somando, 31 h. A alternativa 900 é apenas o trecho de cada motorista. A de 2 738 usa a média aritmética das velocidades (cerca de 88,3 km/h × 31 h), erro clássico, já que os tempos são diferentes. A de 2 790 usa 90 km/h como velocidade média. A de 8 215 não tem relação com o problema. Gabarito: B.",
+  "hash": "f0547a8340c0934b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q149": {
+  "explicacao": "A questão pede o menor número de dias com desconto máximo para que a concessionária ainda alcance a meta de 104 carros. Nos 6 primeiros dias foram vendidos 18 carros, então faltam 104 − 18 = 86 carros nos 20 dias restantes. Para usar o mínimo de dias com desconto máximo (5 carros/dia), os demais dias devem render o máximo possível sem ele, ou seja, com desconto mínimo (4 carros/dia). Seja x o número de dias com desconto máximo: 5x + 4(20 − x) ≥ 86. Desenvolvendo: 5x + 80 − 4x ≥ 86, logo x ≥ 6. Conferindo: 6 dias × 5 = 30 e 14 dias × 4 = 56, total 86 carros, exatamente o necessário. Com 5 dias, teríamos 25 + 60 = 85, insuficiente. A alternativa 10 corresponderia a combinar desconto máximo com dias sem desconto. As de 11 e 13 também partem de combinações com dias sem desconto ou de erro na meta. A de 18 resultaria de dividir 86 por 5 e arredondar para cima. Gabarito: A.",
+  "hash": "9326e3a45f1ddb96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q150": {
+  "explicacao": "A questão pede a capacidade da caneca maior, comparando um prisma hexagonal regular de lado 4 cm com um cilindro de diâmetro 6 cm, ambos com 10 cm de altura, usando π = 3,1 e √3 = 1,7. Caneca A: o hexágono regular é formado por 6 triângulos equiláteros de lado L, cada um com área L²√3/4. Área da base = 6 × 16 × 1,7 ÷ 4 = 6 × 6,8 = 40,8 cm². Volume = 40,8 × 10 = 408 cm³. Caneca B: raio = 3 cm, área da base = π × r² = 3,1 × 9 = 27,9 cm². Volume = 27,9 × 10 = 279 cm³. A caneca A tem maior capacidade, então a escolhida tem 408 cm³. A alternativa 186 resulta de erros no volume do cilindro, como usar o diâmetro de modo incorreto. A de 279 é o volume da caneca B, a menor. A de 816 é o dobro do volume de A, como se a área do triângulo fosse L²√3/2. A de 1 116 usa o diâmetro como raio no cilindro (3,1 × 36 × 10). Gabarito: C.",
+  "hash": "c3c25d665f1e07bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q151": {
+  "explicacao": "A questão pede quanto o investidor teria ganhado a mais por ação se tivesse vendido pelo preço da semana de 7 a 13 de junho. Primeiro, o valor que ele realmente recebeu: a média entre a primeira e a última semanas do quadro, (20 + 45) ÷ 2 = R$ 32,50. Depois, o preço da semana de 7 de junho, que é 30% maior que a média de todas as semanas do quadro. Essa média é (20 + 25 + 20 + 35 + 45) ÷ 5 = 145 ÷ 5 = R$ 29,00. Com 30% a mais: 29 × 1,30 = R$ 37,70. A diferença é 37,70 − 32,50 = R$ 5,20 por ação. A alternativa 4,55 resulta de aplicar os 30% sobre outra base ou de erros de média. A de 9,75 equivale a 30% de 32,50, aplicando o aumento sobre o valor recebido. A de 16,25 corresponde à metade de 32,50, sem sentido no problema. A de 26,00 confunde o resultado com um valor total. Gabarito: B.",
+  "hash": "4dc65cd81437e013",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q152": {
+  "explicacao": "A questão pede o maior tempo de garantia para que a empresa troque no máximo 3% dos equipamentos. A amostra tem 400 aparelhos; 3% de 400 = 0,03 × 400 = 12 equipamentos. Com garantia de T meses, a empresa troca todos os que apresentaram defeito até T meses, então é preciso somar as frequências acumuladas. Até 1 mês: 5. Até 3 meses: 5 + 7 = 12, exatamente 3%. Até 5 meses: 12 + 38 = 50, muito acima do limite. Até 6 meses: 50 + 12 = 62, ou 15,5%. Logo, a garantia deve ser de 3 meses. A alternativa de 6 meses leva em conta só os 12 defeitos que ocorrem no sexto mês, esquecendo de acumular os anteriores. As de 12, 20 e 24 meses também consideram apenas a frequência daquele mês isolado (24, 2 e 10), sem somar os defeitos anteriores, e implicariam trocar grande parte dos produtos. Gabarito: A.",
+  "hash": "7f8a32c19a98c455",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q153": {
+  "explicacao": "A questão pede a distância do ponto de partida até cada semáforo, a partir do gráfico de distância em função do tempo. Quando os carros param num semáforo, o tempo passa, mas a distância não muda: no gráfico, isso aparece como um trecho horizontal. Procure esses trechos. De 2 a 4 minutos, a distância fica constante em 4 km: é o semáforo S₁. De 8 a 10 minutos, a distância fica em 8 km: é o S₂. De 16 a 18 minutos, a distância fica em 10 km: é o S₃. Portanto as distâncias são 4, 8 e 10 km. A alternativa 2, 6 e 8 confunde os valores com os tempos ou os desloca. A de 2, 8 e 16 mistura tempos e distâncias. A de 4, 4 e 2 apresenta as distâncias entre semáforos consecutivos (4, 8 − 4 e 10 − 8), não a partir do ponto de partida. A de 4, 10 e 18 usa os instantes finais de parada no lugar das distâncias. Gabarito: D.",
+  "hash": "08f5672ec61e1e8a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q154": {
+  "explicacao": "A questão pede a redução mínima de consumo para que a conta na bandeira vermelha patamar 2 não ultrapasse a da bandeira verde. Na bandeira verde, a tarifa é R$ 0,42 por kWh; na vermelha patamar 2, há acréscimo de R$ 0,06, então a tarifa passa a R$ 0,48 por kWh. Seja C o consumo original; a conta verde é 0,42 × C. Com novo consumo C', a conta vermelha é 0,48 × C'. Para não pagar mais: 0,48 × C' ≤ 0,42 × C, logo C' ≤ (0,42 ÷ 0,48) × C = 0,875 × C. O consumo precisa cair para 87,5% do original, ou seja, uma redução de 12,5%. A alternativa 6,0% usa o acréscimo de R$ 0,06 como se fosse percentual. A de 14,3% é o aumento percentual da tarifa (0,06 ÷ 0,42), base errada para calcular a redução. A de 16,6% não corresponde a nenhuma razão correta. A de 87,5% é a fração do consumo que permanece, não a redução. Gabarito: B.",
+  "hash": "0c0fce5b6af6eb32",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q155": {
+  "explicacao": "A questão pede a sequência do número de bactérias a cada 20 minutos, sabendo que cada uma se divide em duas por bipartição nesse intervalo. Se cada bactéria origina duas, a população dobra a cada 20 minutos. Começando com N₀: em 20 minutos, 2N₀; em 40 minutos, 4N₀; em 60 minutos, 8N₀; em 80 minutos, 16N₀; em 100 minutos, 32N₀. É uma progressão geométrica de razão 2, cujo termo geral é N₀ × 2ⁿ, com n o número de intervalos de 20 minutos. A sequência N₀, N₀², N₀³ eleva a quantidade inicial a potências, o que não tem sentido biológico. A sequência N₀, N₀², N₀⁴, N₀⁸ também eleva N₀ a potências em vez de multiplicá-lo por 2. A sequência N₀, 2N₀, 3N₀ é progressão aritmética, como se só uma bactéria nova surgisse por intervalo. A sequência N₀, 3N₀, 7N₀, 15N₀ soma os valores de forma acumulada e não descreve a duplicação. Gabarito: D.",
+  "hash": "bf9a0b644cb0efe7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q156": {
+  "explicacao": "A questão pede quantas vezes o gráfico indica bom momento de venda: dois segmentos consecutivos com inclinação positiva, sendo o segundo com inclinação de pelo menos 45°, ou seja, taxa de variação de pelo menos R$ 1,00 por hora. Calcule as inclinações: 1 a 2 h, +1,27/h; 2 a 3,5 h, queda; 3,5 a 6 h, 2,09 ÷ 2,5 ≈ 0,84; 6 a 8 h, 0,51 ÷ 2 ≈ 0,26; 8 a 11 h, 3,48 ÷ 3 = 1,16; 11 a 12 h, queda; 12 a 15 h, 0,99 ÷ 3 = 0,33; 15 a 17 h, 3,31 ÷ 2 ≈ 1,66; 17 a 19 h, 0,67 ÷ 2 ≈ 0,34. Pares de subidas consecutivas: (3,5-6 e 6-8): o segundo tem 0,26 < 1, não serve. (6-8 e 8-11): o segundo tem 1,16 ≥ 1, serve. (12-15 e 15-17): o segundo tem 1,66 ≥ 1, serve. (15-17 e 17-19): o segundo tem 0,34, não serve. São 2 momentos. As alternativas 7, 4 e 3 contam pares que não atendem a uma das condições, como subidas isoladas ou segundo trecho pouco inclinado. A alternativa 1 deixa de contar um dos dois pares válidos. Gabarito: D.",
+  "hash": "28ffb030cccf3609",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q157": {
+  "explicacao": "A questão pede o reservatório que guarda água suficiente para 6 dias e cabe num espaço de 5 m por 6 m. O consumo em 6 dias é 6 × 10 000 L = 60 000 L. Como 1 m³ = 1 000 L, são necessários pelo menos 60 m³. Analise cada opção. R₁ (6 × 6 × 2 = 72 m³) tem volume suficiente, mas a largura de 6 m não cabe nos 5 m disponíveis. R₂ (4 × 5 × 2,5 = 50 m³) cabe, mas não tem volume suficiente. R₃ (5 × 6 × 2 = 60 m³) cabe exatamente no espaço e armazena os 60 m³ necessários. R₄ é um cilindro de raio 6 m, ou seja, diâmetro 12 m, que não cabe no espaço. R₅ tem raio 4 m, diâmetro 8 m, também maior que as dimensões disponíveis. Portanto a única opção que atende às duas condições é R₃. Gabarito: C.",
+  "hash": "5f6ce70ca5e03090",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q158": {
+  "explicacao": "A questão pede quais dois setores modificar para que a extensão da nova pista fique o mais próxima possível da original. Calcule a variação de comprimento em cada setor (novo menos original), com π = 3. Setor I: o original vai 50 m, desce e volta 50 m; o novo trecho só desce. Variação: −100 m. Setor II: o original tem 300 m + 400 m = 700 m; o novo é a hipotenusa do triângulo retângulo, √(300² + 400²) = 500 m. Variação: −200 m. Setor III: o original é reto, 480 m; o novo é semicircunferência de raio 240 m, π × 240 = 720 m. Variação: +240 m. Setor IV: o original é semicircunferência de diâmetro 360 m, π × 180 = 540 m; o novo é reto, 360 m. Variação: −180 m. Setor V: o original tem 200 m; o novo são dois lados de um triângulo equilátero (ângulos de 60°), 400 m. Variação: +200 m. Combinando: II e V dá −200 + 200 = 0, a pista fica com a mesma extensão. I e V dá +100. II e III dá +40. III e IV dá +60. IV e V dá +20. Gabarito: C.",
+  "hash": "bca2a1f1df491468",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q159": {
+  "explicacao": "A questão pede a altura que um caminhão de 3 m de largura deve ter para tangenciar a entrada de um túnel em forma de triângulo equilátero de lado 6 m. Coloque o caminhão centralizado: ele ocupa 1,5 m de cada lado do eixo central. A base do túnel tem 6 m, ou seja, 3 m de cada lado do centro. Então, entre a lateral do caminhão e o vértice da base sobram 3 − 1,5 = 1,5 m. Os lados do triângulo equilátero formam 60° com a base. A altura do lado do túnel a 1,5 m do vértice é h = 1,5 × tg 60° = 1,5 × √3 = 3√3/2 m, aproximadamente 2,6 m. Os cantos superiores do caminhão tocam o túnel nessa altura. A alternativa 3 seria a altura com 3 m horizontais até o vértice. A de 3√2 usa razão de 45°. A de 3√3 é a altura total do triângulo, que só valeria para largura zero. A de (3√2)/2 aplica tg 45° em vez de tg 60°. Gabarito: E.",
+  "hash": "628f4b5f9ae6d471",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q160": {
+  "explicacao": "A questão pede a unidade federativa com maior densidade médica, isto é, mais médicos por habitante. Divida o total de médicos pela população (em milhares) para obter médicos por mil habitantes. Distrito Federal: 10 800 ÷ 2 650 ≈ 4,08. Minas Gerais: 40 400 ÷ 19 900 ≈ 2,03. São Paulo: 110 450 ÷ 41 900 ≈ 2,64. Sergipe: 3 000 ÷ 2 120 ≈ 1,42. Piauí: 3 300 ÷ 3 140 ≈ 1,05. O Distrito Federal tem a maior densidade, cerca de 4 médicos por mil habitantes. Minas Gerais tem muitos médicos, mas também população grande. São Paulo tem o maior número absoluto de médicos, porém a densidade fica bem abaixo da do DF; escolhê-lo é confundir total com razão. Sergipe e Piauí têm as menores densidades da tabela. Gabarito: A.",
+  "hash": "ebdad1843ae97149",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q161": {
+  "explicacao": "A questão pede o valor de d para que 78/d represente 7,8 × 10⁻⁶ metros. Primeiro, transforme 7,8 em 78: como 7,8 = 78 × 10⁻¹, temos 7,8 × 10⁻⁶ = 78 × 10⁻¹ × 10⁻⁶ = 78 × 10⁻⁷. Uma potência negativa de 10 equivale a dividir: 78 × 10⁻⁷ = 78 ÷ 10⁷. Como 10⁷ = 10 000 000, d = 10 000 000. Conferindo: 78 ÷ 10 000 000 = 0,0000078 m, que é 7,8 × 10⁻⁶ m. A alternativa 10 000 corresponde a 10⁴. A de 100 000 corresponde a 10⁵. A de 1 000 000 é 10⁶, resposta de quem esquece de compensar a passagem de 7,8 para 78. A de 100 000 000 é 10⁸, uma potência a mais que o necessário. Gabarito: D.",
+  "hash": "1dc21334c4d039a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q162": {
+  "explicacao": "A questão pede o número máximo de bombons que a doceira consegue fazer com 2 kg de chocolate e 1 L de creme de leite, usando 34 g de chocolate e 12 mL de creme por bombom. Calcule quantos bombons cada ingrediente permite. Chocolate: 2 000 g ÷ 34 g ≈ 58,8, ou seja, 58 bombons completos. Creme de leite: 1 000 mL ÷ 12 mL ≈ 83,3, ou seja, 83 bombons. O ingrediente que limita é o chocolate: depois de 58 bombons, sobram apenas 2 000 − 58 × 34 = 28 g, insuficientes para mais um. Portanto ela fará 58 bombons. As alternativas 5 e 8 vêm de erros de conversão de unidades (por exemplo, usar 2 kg e 1 L sem converter). A de 71 é a média aproximada entre os dois limites, sem sentido. A de 83 considera apenas o creme de leite e ignora que o chocolate acabaria antes. Gabarito: C.",
+  "hash": "bfa54c325c5b73b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q163": {
+  "explicacao": "A questão pede as tintas de menor custo para 560 m² de parede e 260 m² de teto, lembrando que só se compram embalagens inteiras. Paredes: tipo I cobre 220 m² por lata; 560 ÷ 220 ≈ 2,5, então são 3 latas, 3 × 180 = R$ 540. Tipo II cobre 450 m²; são 2 latas, 2 × 350 = R$ 700. Tipo III cobre 550 m²; são 2 latas, 2 × 650 = R$ 1 300. A mais barata é a tipo I. Teto: tipo X cobre 80 m²; 260 ÷ 80 = 3,25, então 4 latas, 4 × 70 = R$ 280. Tipo Y cobre 90 m²; 260 ÷ 90 ≈ 2,9, então 3 latas, 3 × 85 = R$ 255. A mais barata é a tipo Y. A escolha é I e Y, com custo total de R$ 795. A combinação I e X gasta R$ 25 a mais no teto. As combinações com II gastam R$ 160 a mais nas paredes. A combinação III e Y tem o maior custo para as paredes. Gabarito: B.",
+  "hash": "a588d86e857e1827",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q164": {
+  "explicacao": "A questão pede o número mínimo de lâmpadas fluorescentes de 1 600 lúmens para aumentar em 50% a energia luminosa atual. Hoje são 40 lâmpadas de 600 lúmens: 40 × 600 = 24 000 lúmens. Com aumento de 50%: 24 000 × 1,5 = 36 000 lúmens. O número de lâmpadas fluorescentes é 36 000 ÷ 1 600 = 22,5. Como não existe meia lâmpada e é preciso atingir o objetivo, arredonda-se para cima: 23 lâmpadas. Com 22, teríamos 35 200 lúmens, abaixo da meta. A alternativa 10 equivale a substituir a iluminação apenas em parte. A de 14 vem de dividir 24 000 por 1 600 e reduzir algo, sem o aumento. A de 15 é a quantidade que apenas mantém os 24 000 lúmens atuais, sem o aumento de 50%. A de 16 também não alcança a meta. Gabarito: E.",
+  "hash": "21890522bd850409",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q165": {
+  "explicacao": "A questão pede a porcentagem de estudantes matriculados em curso de língua estrangeira, sabendo que três em cada dez estão matriculados. A razão é 3/10. Para transformar em porcentagem, basta escrever a fração com denominador 100: 3/10 = 30/100 = 30%. Ou ainda, 3 ÷ 10 = 0,3, e 0,3 × 100 = 30%. A alternativa 0,3% esquece de multiplicar o decimal por 100. A de 0,33% e a de 33% parecem confundir a razão com 1/3, como se fossem três em cada nove. A de 3% divide 3 por 100, em vez de por 10. Gabarito: D.",
+  "hash": "9542cd943aed45b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q166": {
+  "explicacao": "A questão pede o domínio da função que descreve o salto, para que a situação seja real. O gráfico mostra uma parábola que começa no andaime, em x = 0 (cerca de 0,75 m de altura), sobe até aproximadamente 1,5 m e desce até tocar o chão, onde a função tem sua raiz positiva x₂ (cerca de 1,8 m). O salto acontece apenas entre o ponto de partida e o ponto de chegada ao chão, então os valores de x que fazem sentido vão de 0 até x₂: D = {x ∈ ℝ | 0 ≤ x ≤ x₂}. O conjunto que contém apenas x₂ descreve só o instante do contato com o chão. O intervalo entre as duas raízes x₁ e x₂ inclui valores negativos de x, atrás do andaime, por onde a pessoa não passa. O domínio x ≥ 0 inclui pontos depois de x₂, onde a função ficaria negativa, como se a pessoa atravessasse o chão. Todos os reais também inclui trechos sem sentido físico. Gabarito: B.",
+  "hash": "f267f9a835d36ee2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q167": {
+  "explicacao": "A questão pede a moda e a média diária do número de interrupções na rede elétrica ao longo de 30 dias. A moda é o valor que mais se repete. Na tabela, o número de interrupções com mais dias é 3, que ocorreu em 10 dias; assim, a moda é 3, e não 10, que é a frequência. A média é a soma de todas as interrupções dividida pelo número de dias. Total de interrupções: 0 × 5 + 1 × 6 + 2 × 6 + 3 × 10 + 4 × 3 = 0 + 6 + 12 + 30 + 12 = 60. Média: 60 ÷ 30 = 2,0 interrupções por dia. As alternativas com 2,4 erram a soma ou o divisor. A com 6,0 divide o total por 10, o número de valores distintos ou a maior frequência. As que trazem moda 10 confundem a moda com a frequência mais alta. Gabarito: A.",
+  "hash": "33e00f8282b0433b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q168": {
+  "explicacao": "A questão pede a razão entre a área do círculo circunscrito ao quadrado e a do círculo inscrito no mesmo quadrado. Seja ℓ o lado do quadrado. O círculo menor toca os lados, então seu diâmetro é igual ao lado: raio r = ℓ/2. O círculo maior passa pelos vértices, então seu diâmetro é a diagonal do quadrado, ℓ√2: raio R = ℓ√2/2. A razão entre as áreas é (π R²) ÷ (π r²) = (R/r)². Como R/r = √2, a razão é (√2)² = 2. Ou seja, o círculo maior tem o dobro da área do menor. A alternativa √2 é a razão entre os raios, não entre as áreas. A de 1/2 é a razão invertida, menor sobre maior. As de 8 e 16 não correspondem a nenhuma relação entre os dois círculos. Gabarito: C.",
+  "hash": "5f1e63506a4208dd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q169": {
+  "explicacao": "A questão pede a relação entre a aresta x da nova embalagem e a aresta a da atual, sabendo que a capacidade triplica e a altura passa a 4/3 da original. O volume de um prisma de base quadrada é aresta² × altura. Volume atual: a² × h. Novo volume: x² × (4h/3). Ele deve ser o triplo do atual: x² × 4h/3 = 3 × a² × h. Cancelando h e isolando x²: x² = 3a² × 3/4 = 9a²/4. Tirando a raiz quadrada: x = 3a/2. Conferindo: (3a/2)² × 4h/3 = (9a²/4) × (4h/3) = 3a²h, o triplo. A alternativa x = a manteria a base e só aumentaria a altura, resultando em 4/3 do volume. A de x = 3a multiplicaria o volume por 12. A de x = 9a confunde x² com x. A de x = a√3 triplicaria o volume só se a altura fosse mantida, ignorando o fator 4/3. Gabarito: D.",
+  "hash": "969741a1c14b2d0f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q170": {
+  "explicacao": "A questão pede quanto cada garçom recebeu, sabendo que as gorjetas são divididas igualmente entre os que trabalharam no dia. Pelo quadro, C e F estavam de folga, então só 8 garçons trabalharam: A, B, D, E, G, H, I e J. Some as gorjetas: 17 + 24 + 17 + 20 + 16 + 27 + 18 + 21 = 160 reais. Dividindo entre os 8: 160 ÷ 8 = R$ 20,00 para cada um. A alternativa R$ 16,00 resulta de dividir 160 pelos 10 garçons, incluindo os que estavam de folga, o que contraria a regra. As de R$ 17,00, R$ 18,00 e R$ 19,00 vêm de erros na soma ou de usar a moda ou a mediana dos valores, em vez do total dividido igualmente. Gabarito: E.",
+  "hash": "9468824dc175264d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q171": {
+  "explicacao": "A questão pede a expressão do valor V pago na compra de x bombons de R$ 2,00, com desconto de x%. Sem desconto, x bombons custam 2x reais. O desconto é x% desse valor: (x/100) × 2x = 2x²/100 = x²/50. O valor pago é o preço cheio menos o desconto: V = 2x − x²/50. Também se pode pensar que o cliente paga (100 − x)% do total: V = 2x × (1 − x/100) = 2x − x²/50. Conferindo com x = 40: V = 80 − 1 600/50 = 80 − 32 = R$ 48,00, que é 60% de R$ 80,00, de acordo com o desconto de 40%. A alternativa V = x²/50 representa apenas o valor do desconto, não o valor pago. A de V = 2 − x/50 é o preço de um único bombom com desconto, não o total. A de V = x − x²/100 é exatamente a metade do valor correto, como se o bombom custasse R$ 1,00. A de V = 2x − x/100 aplica o desconto como se não dependesse da quantidade comprada. Gabarito: C.",
+  "hash": "4922eecd56c2dc9c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q172": {
+  "explicacao": "A questão pede a escala que relaciona o terreno real de 36 m por 9 m com o desenho de 24 cm por 6 cm. Primeiro, coloque tudo na mesma unidade: 36 m = 3 600 cm e 9 m = 900 cm. Agora compare: 3 600 ÷ 24 = 150 e 900 ÷ 6 = 150. Ou seja, cada 1 cm no desenho corresponde a 150 cm no terreno real. A razão real : desenho é 150 : 1, que é a forma apresentada pela alternativa correta; na notação usual de desenho técnico, essa escala costuma ser escrita como 1 : 150. A alternativa 225 : 1 vem de comparar áreas ou de multiplicar 150 por 1,5. A de 600 : 1 usa valores trocados, como 3 600 dividido por 6. A de 2,25 : 1 e a de 1,5 : 1 esquecem de converter metros em centímetros (36 ÷ 24 = 1,5). Gabarito: A.",
+  "hash": "361f9d5bd1b6ca6b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q173": {
+  "explicacao": "A questão pede quanto custou 1 kg de arroz mais 2 kg de macarrão, a partir das compras e dos trocos dos três amigos. Chame os preços por quilo de a (arroz), f (feijão) e m (macarrão). Os gastos foram: A pagou 40 − 4 = 36,00; B pagou 40 − 7,30 = 32,70; C pagou 30 − 5,40 = 24,60. Pelo quadro: A: 3a + 2f + 4m = 36,00; B: 2a + 3f + 3m = 32,70; C: 2a + 2f + 2m = 24,60. Da equação de C, a + f + m = 12,30. Queremos a + 2m. Note que a equação de A menos o dobro de (a + f + m) dá exatamente isso: (3a + 2f + 4m) − 2(a + f + m) = a + 2m. Logo, a + 2m = 36,00 − 24,60 = 11,40. A vizinha deve R$ 11,40. Resolvendo o sistema completo, a = 3,60, f = 4,80 e m = 3,90, o que confirma: 3,60 + 7,80 = 11,40. A alternativa 8,10 é a soma de um quilo de cada item menos o feijão, sem dobrar o macarrão. As de 10,00, 12,00 e 13,20 resultam de erros nos trocos ou nas subtrações. Gabarito: C.",
+  "hash": "65009cc33cbbbbd3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q174": {
+  "explicacao": "A questão pede o setor com a menor média salarial por cargo. Como cada setor tem 4 funcionários, basta somar os salários e dividir por 4. Setor I: 1 550 + 1 140 + 1 140 + 1 150 = 4 980; média 1 245. Setor II: 1 100 + 1 100 + 1 520 + 1 200 = 4 920; média 1 230. Setor III: 1 050 + 1 050 + 1 600 + 2 000 = 5 700; média 1 425. Setor IV: 1 300 + 1 160 + 1 280 + 1 280 = 5 020; média 1 255. Setor V: 1 250 + 1 300 + 1 300 + 1 150 = 5 000; média 1 250. A menor média é a do setor II, R$ 1 230,00. O setor I tem média um pouco maior, R$ 1 245,00. O setor III tem os menores salários individuais (1 050), mas os cargos 3 e 4 elevam muito sua média; escolhê-lo é olhar só o menor valor. Os setores IV e V têm médias próximas, mas acima de 1 230. Gabarito: B.",
+  "hash": "bf88c3ad79d34170",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q175": {
+  "explicacao": "A questão pede o consumo mensal do ar-condicionado que gera acréscimo de R$ 150,00 na conta, com tarifa de R$ 0,58 por kWh mais R$ 0,045 por kWh da bandeira vermelha. O custo total de cada kWh é 0,58 + 0,045 = R$ 0,625. O consumo é o valor dividido pelo preço do kWh: 150 ÷ 0,625 = 240 kWh. Conferindo: 240 × 0,625 = 150. A alternativa 286 resulta de subtrair a bandeira da tarifa (150 ÷ 0,535 ≈ 280) ou de erro semelhante. A de 280 também vem de usar uma tarifa menor que a correta. A de 259 considera apenas a tarifa de R$ 0,58, esquecendo a bandeira vermelha (150 ÷ 0,58 ≈ 259). A de 146 está muito abaixo do resultado e não corresponde a nenhuma conta coerente. Gabarito: D.",
+  "hash": "41b16fa14c0dfa90",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q176": {
+  "explicacao": "A questão pede o máximo de horas de uso do celular no sábado da segunda semana para que a média diária fique pelo menos 1 hora abaixo da média da primeira semana. Primeira semana: 5 + 2 + 9 + 2 + 8 + 12 + 4 = 42 horas; média 42 ÷ 7 = 6 horas por dia. Na segunda semana, a média deve ser no máximo 6 − 1 = 5 horas, então o total deve ser no máximo 5 × 7 = 35 horas. Os outros seis dias continuam iguais: 42 − 12 = 30 horas. Sobram para o sábado no máximo 35 − 30 = 5 horas. A alternativa 4 também atende, mas não é o máximo. A de 6 levaria a 36 horas, média de cerca de 5,14, acima do limite. As de 10 e 11 parecem reduzir só 1 ou 2 horas do sábado, confundindo a redução de 1 hora na média com a redução de 1 hora em um único dia. Gabarito: B.",
+  "hash": "1c58035e2bd076b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q177": {
+  "explicacao": "A questão pede o horário marcado pelo relógio de pulso depois de 90 dias, quando o relógio do centro marca exatamente 7 horas. O relógio de pulso atrasa 2 minutos a cada 15 dias. Em 90 dias, há 90 ÷ 15 = 6 períodos de 15 dias, então o atraso acumulado é 6 × 2 = 12 minutos. Atrasar significa marcar um horário anterior ao correto: 7 h − 12 min = 6 h 48 min. A alternativa 6 h 54 min considera só 6 minutos de atraso, como se fossem 45 dias. A de 6 h 58 min considera só os 2 minutos de um período. A de 7 h 06 min e a de 7 h 12 min tratam o atraso como adiantamento, somando os minutos em vez de subtrair. Gabarito: A.",
+  "hash": "9abe5c9dc19a6353",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q178": {
+  "explicacao": "A questão pede quantos metros a base menor do trapézio deve aumentar para que o viveiro passe de 6 000 para 8 400 camarões, mantendo 10 camarões por m². Área atual: 6 000 ÷ 10 = 600 m². A área do trapézio é (B + b) × h ÷ 2. Com B = 45 e h = 20: (45 + b) × 20 ÷ 2 = 600, logo (45 + b) × 10 = 600, 45 + b = 60 e b = 15 m. Nova produção: 6 000 + 2 400 = 8 400 camarões, área de 840 m². Então (45 + b') × 10 = 840, 45 + b' = 84 e b' = 39 m. O aumento da base menor é 39 − 15 = 24 m. A alternativa 21 não corresponde a nenhuma conta correta. A de 36 resultaria de esquecer a divisão por 2 na fórmula da área. A de 39 é a nova medida da base menor, não o aumento. A de 54 é a soma de 15 com 39. Gabarito: B.",
+  "hash": "11bb0b0000fcdfc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q179": {
+  "explicacao": "A questão pede o tubo mais barato que suporte vazão de pelo menos 1,2 L/s, com diâmetro de 15, 20 ou 25 mm. Primeiro, filtre pelo quadro os tubos com vazão maior ou igual a 1,2 L/s e veja o custo por metro: PVC soldável 20 mm (1,20 L/s, R$ 1,25) e 25 mm (1,25 L/s, R$ 1,35); PEX 25 mm (1,20 L/s, R$ 1,35); polipropileno 20 mm (1,20 L/s, R$ 1,25) e 25 mm (1,30 L/s, R$ 1,55); PVC roscável 25 mm (1,20 L/s, R$ 1,15); polietileno reticulado 20 mm (1,20 L/s, R$ 1,20) e 25 mm (1,30 L/s, R$ 1,25). O menor custo é o do PVC roscável de 25 mm, R$ 1,15 por metro. O PVC soldável de 20 mm atende, mas custa R$ 1,25. O PEX de 20 mm tem vazão de apenas 1,10 L/s, insuficiente. O polipropileno de 15 mm é barato, mas sua vazão de 0,60 L/s não atende. O polietileno reticulado de 20 mm atende, mas custa R$ 1,20, mais que o escolhido. Gabarito: D.",
+  "hash": "d10e0d1fec587ee4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q180": {
+  "explicacao": "A questão pede o comprimento do cabo extensor para que o cortador alcance uma região com o dobro da área atual. Hoje o raio da região cortada é 6 m: 5 m de cabo mais 1 m de lâmina. A área é π × 6² = 36π. O dobro é 72π. Para o novo raio R: π × R² = 72π, logo R² = 72 e R = √72 = 6√2 ≈ 6 × 1,414 ≈ 8,49 m. Desse raio, 1 m continua sendo a largura da lâmina, então o cabo total deve ter 8,49 − 1 = 7,49 m. Como o cabo original tem 5 m, o extensor precisa ter 7,49 − 5 ≈ 2,5 m. Repare que dobrar a área não significa dobrar o raio, que deve ser multiplicado por √2. A alternativa 12,0 dobra o raio, o que quadruplicaria a área. A de 8,5 é o novo raio total, sem descontar cabo e lâmina. A de 6,0 é o raio atual. A de 3,0 desconta só o cabo de 5 m e arredonda, esquecendo a lâmina. Gabarito: E.",
+  "hash": "0d8c36ec70fdc50a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q91": {
+  "explicacao": "A questão pergunta por que a morte de abelhas causada pelos inseticidas afeta a produção de alimentos agrícolas. O texto dá a pista: as abelhas desempenham papel importante na agricultura. Esse papel é a polinização. Ao visitar as flores em busca de néctar e pólen, as abelhas levam grãos de pólen de uma flor a outra e permitem a fecundação, que dá origem a frutos e sementes. Muitas culturas, como maçã, café, melão, girassol e várias hortaliças, dependem total ou parcialmente desses polinizadores. Com menos abelhas, a taxa de polinização cai e a produtividade agrícola diminui, por isso a resposta é o decréscimo da taxa de polinização. A redução da produção de mel existe, mas o mel não é a base da produção agrícola de alimentos citada no texto. A contaminação do solo por abelhas mortas não tem relevância na produção. O aumento de resíduos tóxicos nos alimentos não é o efeito ligado às abelhas. A alteração da cadeia alimentar é genérica demais e não explica o impacto direto na agricultura. Gabarito: B.",
+  "hash": "e556baeae516eb8f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q92": {
+  "explicacao": "A questão pede a economia de energia em kWh quando se troca uma lâmpada incandescente de 60 W por uma de LED de 8 W, as duas ligadas 8 horas por dia durante 30 dias. Lembre que energia é potência vezes tempo (E = P × Δt). A diferença de potência é 60 − 8 = 52 W, ou seja, 0,052 kW. O tempo total de uso é 8 h/dia × 30 dias = 240 h. A economia de energia fica 0,052 kW × 240 h = 12,48 kWh. Outra forma: a incandescente consome 0,060 × 240 = 14,40 kWh e a LED consome 0,008 × 240 = 1,92 kWh; a diferença é 14,40 − 1,92 = 12,48 kWh. A alternativa 0,24 corresponde só a um dia da incandescente com o tempo errado. A de 1,80 não resulta de nenhuma conta coerente. A de 1,92 é o consumo da LED, não a economia. A de 14,40 é o consumo da incandescente, sem descontar o da LED. Gabarito: D.",
+  "hash": "01b557a013292523",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q93": {
+  "explicacao": "A questão pede a classificação dos materiais formados quando mercúrio, prata e estanho se combinam no amálgama dentário. Todos os elementos envolvidos (Ag, Sn e Hg) são metais. Quando metais se misturam, eles mantêm ligação metálica: os átomos ficam num retículo cercado por um mar de elétrons livres. Uma mistura sólida de metais, ou de um metal com outro elemento que mantém o caráter metálico, chama-se liga metálica. Os produtos Ag₂Hg₃ e Sn₈Hg são fases intermetálicas, ou seja, ligas, e o próprio nome amálgama indica uma liga que contém mercúrio. Precipitados se formam em solução quando um sólido insolúvel aparece, o que não é o caso. Compostos iônicos exigem metal com ametal, com transferência de elétrons. Produtos de oxidação exigiriam um oxidante, como o oxigênio, que não aparece na equação. Compostos covalentes são formados por ametais compartilhando elétrons, o que não acontece entre metais. Gabarito: B.",
+  "hash": "129d3f32f3d6dace",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q94": {
+  "explicacao": "A questão pede a medida adequada para conservar a diversidade de anfíbios anuros (sapos, rãs e pererecas) num remanescente de Floresta de Araucária. O texto afirma que a alteração de hábitat é causa bem documentada do declínio dos anfíbios e que cerca de 40% das espécies da região dependem daquela mata, do interior até o entorno. Se o problema é a perda do hábitat, a solução mais direta é protegê-lo, impedindo o desmatamento do remanescente. Assim se mantêm a umidade, os corpos d'água, o abrigo e o alimento de que esses animais precisam. Reflorestar com eucalipto cria uma monocultura exótica, que não reproduz as condições da mata nativa. Modificar geneticamente os anuros não resolve a perda de hábitat e traz riscos. Soltar animais criados em cativeiro de nada adianta se o ambiente continua sendo destruído, além de poder introduzir doenças. Introduzir árvores novas no fragmento altera a comunidade original e pode prejudicar as espécies nativas. Gabarito: E.",
+  "hash": "c3ebb453297586bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q95": {
+  "explicacao": "A questão pergunta por que é seguro pegar a panela pelo cabo de madeira e perigoso tocar na base de metal. A panela ficou muito tempo no fogo, então o sistema já está praticamente em equilíbrio térmico perto da chama. O que faz a mão se queimar é a rapidez com que o calor passa do objeto para a pele. O metal tem condutividade térmica muito maior que a madeira: transfere calor rapidamente para a mão e ainda repõe o calor perdido na região tocada, mantendo a superfície quente. A madeira é isolante térmica, conduz pouco calor, por isso o cabo esquenta pouco e, mesmo morno, transfere energia devagar. O calor específico diz quanto calor é preciso para variar a temperatura, e não explica a queimadura ao toque. Energia interna depende também da massa e não é propriedade do material. A temperatura não é uma propriedade do material e depende da posição. O coeficiente de dilatação não tem relação com queimaduras. Gabarito: D.",
+  "hash": "6d87ac546cc4a48d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q96": {
+  "explicacao": "A questão pede o benefício ambiental direto de usar álcool de cana-de-açúcar como combustível. O ponto central é ele ser um biocombustível. A queima do etanol libera CO₂, mas a cana, durante o crescimento, retira CO₂ da atmosfera pela fotossíntese. Com isso, boa parte do carbono emitido no motor foi absorvida antes pela própria planta, num ciclo de carbono relativamente fechado. Já a gasolina vem do petróleo, carbono que estava guardado no subsolo havia milhões de anos e que é acrescentado à atmosfera. Por isso o etanol diminui a emissão efetiva, ou líquida, de dióxido de carbono, o principal gás do efeito estufa. A preservação de rios e lagos não é consequência direta; o cultivo de cana pode até poluir corpos d'água. A preservação da biodiversidade também não está garantida, pois a monocultura ocupa grandes áreas. O buraco na camada de ozônio é causado por CFCs, não por CO₂. A proteção de espécies ameaçadas não tem relação direta com o combustível. Gabarito: E.",
+  "hash": "4a88a6fa15c9f6b6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q97": {
+  "explicacao": "A questão pergunta por que o timol, pouco solúvel em água, se dissolve numa solução de hidróxido de sódio. O timol é um fenol: tem uma hidroxila (OH) ligada diretamente a um anel aromático. Os fenóis são ácidos fracos, bem mais ácidos que os álcoois, porque o ânion fenóxido formado é estabilizado por ressonância com o anel. Diante de uma base forte como o NaOH, ocorre neutralização ácido-base: o OH⁻ retira o H⁺ do grupo OH do timol e forma água e o fenóxido de sódio (timolato de sódio). Esse produto é um sal orgânico, iônico e muito mais solúvel em água que o timol neutro, por isso o composto se dissolve. O OH⁻ não ataca o anel aromático, que é rico em elétrons e não sofre ataque de nucleófilos. O Na⁺ não forma complexo com os elétrons pi do anel. Ligações de hidrogênio sozinhas não explicam a dissolução, já que o timol é pouco solúvel em água mesmo podendo fazê-las. A polaridade do solvente não aumenta de modo relevante. Gabarito: A.",
+  "hash": "05050d37c0c45b36",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q98": {
+  "explicacao": "A questão pede qual parente pode confirmar a identidade do cadáver pelo DNA mitocondrial, que é herdado apenas da mãe. Então só sirvo para comparação quem pertence à mesma linhagem materna do morto: a mãe dele, a avó materna e todos os descendentes por via feminina dessa avó. Veja cada um. O primo, filho da irmã da mãe do morto, recebeu o DNA mitocondrial da mãe dele, que é irmã da mãe do morto; as duas irmãs herdaram o mesmo DNA mitocondrial da avó. Portanto o primo tem DNA mitocondrial idêntico ao do falecido. A sobrinha, filha de um irmão, herdou o DNA mitocondrial da esposa desse irmão, mulher de outra linhagem. A tia, irmã do pai, tem a linhagem materna do pai, não a da mãe. O avô materno tem o DNA mitocondrial da mãe dele, enquanto a mãe do morto recebeu o da avó materna. A prima, filha do irmão da mãe, herdou o DNA mitocondrial da esposa desse tio. Gabarito: C.",
+  "hash": "5de792bed43a551a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-ppl-d2-q99": {
+  "explicacao": "A questão pede qual seria o problema de visão de um homem cujo corpo inteiro tivesse o mesmo índice de refração do ar. A visão depende de dois processos. Primeiro, a córnea e o cristalino precisam refratar a luz, desviando os raios para formar uma imagem nítida na retina; se o índice de refração dessas estruturas fosse igual ao do ar, a luz passaria sem desvio e nenhuma imagem seria formada. Segundo, as células da retina (cones e bastonetes) precisam absorver a luz para gerar o impulso nervoso; se ficassem transparentes, a luz as atravessaria sem ser absorvida. Sem formação de imagem e sem absorção de luz, o protagonista simplesmente não enxergaria, ou seja, ficaria cego. Miopia e hipermetropia são erros de foco em que a imagem se forma antes ou depois da retina, mas ainda se forma. O daltonismo é uma falha na percepção de certas cores pelos cones. O astigmatismo resulta de irregularidade na curvatura da córnea ou do cristalino, e não da ausência total de refração. Gabarito: B.",
+  "hash": "a47f3f1e13664c16",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
