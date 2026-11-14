@@ -254,6 +254,151 @@
   "hash": "ed5d811c0227c4cd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2020-digital-d2-q151": {
+  "explicacao": "A questão pede que se calcule o ganho real de um aumento salarial de 10% com inflação de 5% e que se classifique o resultado conforme o quadro. O ganho real não é a simples diferença 10% − 5%; ele compara o poder de compra pela razão entre os fatores de correção: r = (1 + i)/(1 + f) − 1. Substituindo: r = 1,10/1,05 − 1 ≈ 1,0476 − 1 = 0,0476, ou seja, cerca de 4,7%. No quadro, a faixa regular vai de 1,5% (inclusive) até menos de 5%, e 4,7% está exatamente nesse intervalo. Portanto, a proposta é regular, com ganho real próximo de 4,7%. A alternativa A chega a um valor negativo, invertendo o papel de aumento e inflação. A alternativa B confunde o fator 1,05 da inflação com o ganho. A alternativa D combina os percentuais sem sentido, chegando a 9,5%. A alternativa E usa a diferença simples 10% − 5% = 5%, ignorando que os percentuais incidem sobre bases diferentes. Gabarito: C.",
+  "hash": "e634ce05e0889747",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q152": {
+  "explicacao": "A questão apresenta a matriz A, em que cada linha i traz as notas do aparelho Tᵢ nos cinco itens, e pede o aparelho com a maior soma de notas. Basta somar os elementos de cada linha. T₁: 6 + 9 + 9 + 9 + 8 = 41. T₂: 9 + 6 + 7 + 8 + 10 = 40. T₃: 7 + 10 + 10 + 7 + 10 = 44. T₄: 8 + 8 + 10 + 10 + 9 = 45. T₅: 8 + 8 + 8 + 9 + 9 = 42. A maior soma é 45, do aparelho T₄, que é, portanto, o melhor segundo o critério da empresa. Um erro comum seria somar colunas, que representam itens e não aparelhos. A alternativa A (T₁) tem soma 41. A alternativa B (T₂) tem a menor soma, 40. A alternativa C (T₃) tem 44, uma unidade abaixo de T₄. A alternativa E (T₅) soma apenas 42. Gabarito: D.",
+  "hash": "947002096c40bd51",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q153": {
+  "explicacao": "A questão pede a classificação dos triângulos T₁ (A, B, C) e T₂ (A, D, E) quanto aos ângulos e aos lados, usando as medidas da figura. Na posição 1, o braço AC mede 12 m e o cabo CB mede 16 m, formando ângulo reto em C. Pelo teorema de Pitágoras, AB² = 12² + 16² = 144 + 256 = 400, logo AB = 20 m. Os três lados (12, 16 e 20) são diferentes, então T₁ é retângulo escaleno. Na posição 2, AE = 12 m e o cabo ED = 12 m, com ângulo de 60° entre eles. Um triângulo isósceles com ângulo de 60° entre os lados iguais tem os outros dois ângulos iguais a (180° − 60°)/2 = 60°, sendo, portanto, equilátero e acutângulo. A alternativa A erra T₂, que não tem ângulo reto. A alternativa B erra T₁ e T₂. A alternativa C classifica T₂ como escaleno, mas seus lados são todos iguais. A alternativa D erra T₁, que possui ângulo reto. Gabarito: E.",
+  "hash": "926c02ae377b65b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q154": {
+  "explicacao": "A questão pede a quantidade de isopor reciclada prevista para 2020, a partir do gráfico e da regra de crescimento descrita. No gráfico, 2008 teve 7 200 t e 2009 teve 8 400 t, um aumento de 1 200 t. Esse mesmo aumento se repete ano a ano de 2009 até 2013, formando uma progressão aritmética de razão 1 200: 2010 = 9 600; 2011 = 10 800; 2012 = 12 000; 2013 = 13 200. A partir daí, a quantidade fica inalterada por 10 anos (2014 a 2023), período que inclui 2020. Assim, em 2020 a previsão é de 13 200 t. A alternativa A prolonga o crescimento até 2020 e soma valores indevidos. A alternativa B também mantém o aumento além de 2013 (8 400 + 11 × 1 200). A alternativa C aplica uma taxa percentual em vez do aumento constante. A alternativa E ignora os acréscimos posteriores a 2010. Gabarito: D.",
+  "hash": "4a8ee1d1fe9a5050",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q155": {
+  "explicacao": "A questão pede a variação da altura da árvore no intervalo de 1 ano a partir de 2,5 anos de plantio, isto é, entre t = 2,5 e t = 3,5 anos, lendo o gráfico. Em t = 2,5, a curva passa por 2 m de altura. Em t = 3,5, a curva marca cerca de 3,5 m. A variação é 3,5 − 2 = 1,5 m, valor que está entre 1,45 e 1,55. Note que esse é justamente o trecho de crescimento mais acelerado da curva em forma de S, por isso a variação é grande. A alternativa A corresponde a um intervalo de crescimento lento, como o início ou o fim da curva. A alternativa B também subestima a variação. A alternativa C equivale a uma leitura de intervalo menor que um ano. A alternativa D resulta de leitura imprecisa da altura em t = 3,5. Gabarito: E.",
+  "hash": "1da9fa20c2c4d9cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q156": {
+  "explicacao": "A questão pede qual jogo dá maior probabilidade de ganhar gastando no máximo R$ 2,00. Com esse valor, o número de cartões possíveis varia: jogos de R$ 1,00 permitem 2 cartões; o de R$ 1,50 e os de R$ 2,00 permitem apenas 1. A probabilidade é o número de cartões dividido por C. Jogo I: 1/8 145 060. Jogo II: 2/15 890 700 = 1/7 945 350. Jogo III: 1/5 461 512. Jogo IV: 2/50 063 860 = 1/25 031 930. Jogo V: 1/2 118 760. A maior probabilidade corresponde ao menor denominador, que é o do jogo V, 2 118 760. A alternativa A só permite um cartão e tem C muito maior. A alternativa B, mesmo com dois cartões, fica com chance de cerca de 1 em 7,9 milhões. A alternativa C tem C maior que o do jogo V. A alternativa D tem a menor chance de todas. Gabarito: E.",
+  "hash": "0b822c64ca38172b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q158": {
+  "explicacao": "A questão pede o cálculo que converte o aumento da expectativa de vida em dias, considerando meses de 30 dias. O aumento foi 74,9 − 74,6 = 0,3 ano. Como 1 ano tem 12 meses, 0,3 ano = 0,3 × 12 = 3,6 meses. Como cada mês tem 30 dias, 3,6 meses = 3,6 × 30 = 108 dias. A alternativa C traz exatamente essa sequência: 0,3 × 1 ano = 0,3 × 12 meses = 3,6 × 30 dias. As demais alternativas apresentam conversões incorretas: tratam 0,3 ano como se fossem 3 meses (lendo a parte decimal como meses), usam um número errado de meses no ano ou aplicam fatores que não correspondem à transformação ano → mês → dia. O raciocínio correto é sempre multiplicar a fração de ano por 12 e o resultado por 30. Gabarito: C.",
+  "hash": "93bcc96bd6acad62",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q159": {
+  "explicacao": "[REVISAR] O enunciado está truncado (falta a regra do jogo e parte das frações do aluno); a explicação supõe que se pede a ordem crescente das quatro frações. Pelas imagens, as cartas trazem as frações 1/4, 5/9, 3/5 e 2/3, e a tarefa é colocá-las em ordem crescente. Uma forma simples é converter para decimais: 1/4 = 0,25; 5/9 ≈ 0,556; 3/5 = 0,6; 2/3 ≈ 0,667. Também é possível usar o denominador comum 180: 1/4 = 45/180, 5/9 = 100/180, 3/5 = 108/180 e 2/3 = 120/180. Assim, a ordem crescente é 1/4 < 5/9 < 3/5 < 2/3, exatamente a sequência da alternativa A. As demais alternativas trocam posições, em geral confundindo 5/9 com 3/5, que são próximas, ou ordenando pelo tamanho do numerador ou do denominador, o que não garante a ordem dos valores. Gabarito: A.",
+  "hash": "eef7603eeebd499b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q160": {
+  "explicacao": "A questão pede o novo preço do banho para que o gasto mensal permaneça o mesmo após o reajuste do suplemento. No primeiro mês, o cão consome 50 g por dia, ou seja, 50 × 30 = 1 500 g, que são 3 pacotes de 500 g. Pelo quadro, cada pacote custa R$ 8,00, então 3 × 8 = R$ 24,00. Os banhos são 4 por mês a R$ 30,00: 4 × 30 = R$ 120,00. Gasto total: 24 + 120 = R$ 144,00. No mês seguinte, o suplemento custa 3 × 9 = R$ 27,00. Para manter R$ 144,00, sobram 144 − 27 = R$ 117,00 para os banhos, e cada banho passa a custar 117 ÷ 4 = R$ 29,25. A alternativa A desconta todo o aumento de forma errada. A alternativa B considera aumento de apenas R$ 1,00 no gasto com suplemento. A alternativa D e a alternativa E usam número errado de pacotes ou de banhos. Gabarito: C.",
+  "hash": "e6b72175ae3d7651",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q161": {
+  "explicacao": "A questão pede a variação do Ideb quando T diminui 2% e N aumenta 2%. Pelas fórmulas, Ideb = N × P e P = 1/T, ou seja, Ideb = N/T: diretamente proporcional a N e inversamente proporcional a T. Em 2017, N passa a 1,02N e T passa a 0,98T. Então Ideb₂₀₁₇ = 1,02N/(0,98T) = (1,02/0,98) × Ideb₂₀₁₅ ≈ 1,0408 × Ideb₂₀₁₅. Logo, o Ideb aumentou cerca de 4,08%, pela razão apresentada na alternativa E: acréscimo num parâmetro diretamente proporcional e decréscimo num inversamente proporcional, ambos elevando o índice. A alternativa A supõe que as variações se anulam. A alternativa B soma percentuais de forma simplista. A alternativa C fala em diminuição, mas o índice cresce. A alternativa D usa 1,02 × 1,02, mas dividir por 0,98 não é o mesmo que multiplicar por 1,02. Gabarito: E.",
+  "hash": "354ee490cad41a00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q162": {
+  "explicacao": "A questão pede quantas máquinas novas são necessárias para colher a mesma safra em 100 dias. Primeiro, calcula-se a área total com o modelo antigo: 20 máquinas × 10 h/dia × 2 ha/h × 120 dias = 48 000 hectares. Com o novo modelo, cada máquina colhe 4 ha/h durante 12 h/dia por 100 dias: 4 × 12 × 100 = 4 800 hectares por máquina. Número de máquinas: 48 000 ÷ 4 800 = 10. A alternativa A resulta de erro na montagem da regra de três composta. A alternativa C trata alguma grandeza na proporção invertida. A alternativa D desconsidera a maior produtividade das novas máquinas. A alternativa E surge de erros acumulados nas proporções entre dias, horas e produtividade. Gabarito: B.",
+  "hash": "d2dcb9df501191ce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q163": {
+  "explicacao": "A questão pede a razão entre o número de infrações leves e médias. Sejam L as leves (3 pontos cada) e M as médias (4 pontos cada). Temos o sistema: L + M = 5 e 3L + 4M = 17. Da primeira equação, L = 5 − M. Substituindo: 3(5 − M) + 4M = 17, ou seja, 15 − 3M + 4M = 17, logo M = 2 e L = 3. Conferindo: 3 × 3 + 4 × 2 = 9 + 8 = 17 pontos. A razão pedida, leves para médias, é L/M = 3/2, que corresponde à alternativa B. As demais alternativas invertem a razão (2/3), comparam uma das quantidades com o total de infrações ou usam os pontos em vez do número de infrações. Atenção à ordem pedida: primeiro leves, depois médias. Gabarito: B.",
+  "hash": "0bc1b3e51343c8d0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q164": {
+  "explicacao": "A questão pede a lei da parábola T(x) que passa por T(1) = 72, T(12) = 105 e tem máximo em x = 8. Como há máximo, a concavidade é para baixo (a < 0) e o vértice está em x = −b/(2a) = 8. Testando a forma T(x) = −x² + bx + c, temos −b/(−2) = 8, logo b = 16. Usando T(1) = 72: −1 + 16 + c = 72, então c = 57. Conferindo com dezembro: T(12) = −144 + 192 + 57 = 105, que bate com o relatório. Assim, T(x) = −x² + 16x + 57, a expressão da alternativa A. As outras alternativas falham em alguma condição: algumas têm vértice fora de x = 8, outras não produzem 72 em janeiro ou 105 em dezembro, e uma expressão com a > 0 teria mínimo, não máximo. Gabarito: A.",
+  "hash": "3826275ccb485096",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q165": {
+  "explicacao": "A questão pede a madeireira que permite fazer 5 prateleiras de 30 cm × 120 cm com a menor sobra, admitindo emendas. A área total necessária é 5 × 30 × 120 = 18 000 cm². Pelo quadro, calcula-se a área de cada tábua e quantas são necessárias. I: 40 × 100 = 4 000 cm², exige 5 tábuas (20 000), sobra 2 000. II: 30 × 110 = 3 300 cm², exige 6 tábuas (19 800), sobra 1 800. III: 35 × 120 = 4 200 cm², exige 5 tábuas (21 000), sobra 3 000. IV: 25 × 150 = 3 750 cm², exige 5 tábuas (18 750), sobra 750. V: 20 × 200 = 4 000 cm², exige 5 tábuas (20 000), sobra 2 000. A menor sobra é a da madeireira IV. A alternativa A deixa sobra de 2 000 cm². A alternativa B sobra 1 800 cm². A alternativa C tem a maior sobra. A alternativa E também sobra 2 000 cm². Gabarito: D.",
+  "hash": "4476bf45b0a0511d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q166": {
+  "explicacao": "A questão pede quantas vezes foi dito GOL ao contar de 1 até 103, trocando múltiplos de 4 e números terminados em 4. Múltiplos de 4 até 103: 103 ÷ 4 = 25,75, logo 25 números (4, 8, ..., 100). Números terminados em 4 até 103: 4, 14, 24, ..., 94, ou seja, 10 números. Alguns foram contados duas vezes por serem terminados em 4 e múltiplos de 4: 4, 24, 44, 64 e 84, isto é, 5 números. Pelo princípio da inclusão e exclusão: 25 + 10 − 5 = 30 vezes. A alternativa A considera apenas parte dos casos. A alternativa B erra na contagem das interseções. A alternativa D soma 25 + 10 sem descontar as repetições. A alternativa E conta números além de 103 ou duplica múltiplos. Gabarito: C.",
+  "hash": "1ee2cc37f3ddc9f6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q167": {
+  "explicacao": "A questão pede o menor número de sócios contribuintes que devem trocar o voto da chapa I para a II para que a II vença. Pontuação da chapa I: 0,6 × 850 + 0,4 × 4 300 = 510 + 1 720 = 2 230. Chapa II: 0,6 × 1 300 + 0,4 × 2 120 = 780 + 848 = 1 628. A diferença é 2 230 − 1 628 = 602. Cada contribuinte que troca de chapa tira 0,4 da chapa I e dá 0,4 à chapa II, reduzindo a diferença em 0,8. Precisamos de 0,8x > 602, logo x > 752,5. O menor inteiro é 753. A alternativa A não corresponde ao cálculo correto com os pesos. A alternativa C e a alternativa D erram na conta dos pesos ou da diferença. A alternativa E superestima a quantidade, por exemplo ao considerar só o ganho de 0,4 da chapa II, sem a perda da chapa I. Gabarito: B.",
+  "hash": "5e19f9b5a9eb458f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q168": {
+  "explicacao": "A questão pede o número mínimo de pacotes vendidos por mês para não haver prejuízo, isto é, receita ≥ custo. Cada pacote tem 400 chaveiros, com custo de produção 400 × 0,42 = R$ 168,00, e é vendido por R$ 280,00. O ganho por pacote, antes do custo fixo, é 280 − 168 = R$ 112,00. Para cobrir o custo fixo de R$ 12 800,00: 112n ≥ 12 800, logo n ≥ 114,28... Como n deve ser inteiro, o mínimo é 115 pacotes. A alternativa A não considera o custo fixo corretamente. A alternativa B ignora o custo de produção ao dividir o custo fixo pela receita (12 800 ÷ 280 ≈ 46). A alternativa C erra no custo do pacote. A alternativa D arredonda para baixo, e com 114 pacotes ainda haveria prejuízo de R$ 32,00. Gabarito: E.",
+  "hash": "d033205a5d9ad361",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q169": {
+  "explicacao": "A questão pede qual aplicação dá maior rendimento líquido sobre R$ 10 000,00 em um mês, usando o quadro. Básica: rendimento de 0,542% × 10 000 = R$ 54,20; descontando a taxa fixa de R$ 0,30, sobram R$ 53,90. Pessoal: rendimento de 0,560% × 10 000 = R$ 56,00; a taxa é 3,8% sobre o rendimento, ou seja, 0,038 × 56 = R$ 2,128; líquido de 56 − 2,128 ≈ R$ 53,87. Comparando, a Básica rende R$ 53,90, ligeiramente mais que a Pessoal. A alternativa B soma a taxa em vez de descontá-la. A alternativa C ignora a taxa administrativa da Pessoal. A alternativa D aplica a taxa de forma errada. A alternativa E também não desconta corretamente a taxa. Gabarito: A.",
+  "hash": "d15a168ee9bbb291",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q170": {
+  "explicacao": "A questão pede a lei do lucro L em função do número x de sacas vendidas. Lucro é receita menos custo. A receita vem da venda das sacas: cada uma por R$ 50,00, logo 50x. O custo depende da área plantada: R$ 1 200,00 por hectare em 10 hectares, ou seja, 1 200 × 10 = R$ 12 000,00, valor fixo que não depende de x. Assim, L(x) = 50x − 12 000. A alternativa A considera o custo de apenas um hectare. A alternativa C soma o custo, quando ele deve ser subtraído. A alternativa D multiplica o preço da saca por 10, confundindo hectares com sacas. A alternativa E troca os papéis do preço e do custo. Gabarito: B.",
+  "hash": "7ef6723525188188",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q171": {
+  "explicacao": "[REVISAR] O enunciado está truncado; a explicação supõe que se pede a diferença, em segundos, entre o tempo do último aluno a terminar e o do primeiro. Para comparar os tempos, é preciso colocá-los na mesma unidade. 3,25 minutos = 3,25 × 60 = 195 segundos. 3,4 minutos = 3,4 × 60 = 204 segundos. O terceiro aluno gastou 191 segundos. O primeiro a finalizar foi o que gastou 191 s, e o último foi o que gastou 204 s. A diferença é 204 − 191 = 13 segundos. Um erro comum é tratar 3,25 min como 3 min e 25 s (205 s) e 3,4 min como 3 min e 4 s (184 s), o que muda a ordem e a diferença. A alternativa B decorre de leitura errada da parte decimal. A alternativa C, a alternativa D e a alternativa E resultam de confusões semelhantes entre decimal de minuto e segundos. Gabarito: A.",
+  "hash": "17024727442a1771",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q172": {
+  "explicacao": "A questão pede qual barra, entre os preços disponíveis, gera o maior lucro segundo L(x) = −x² + 14x − 45. Como o coeficiente de x² é negativo, a parábola tem concavidade para baixo e o lucro máximo ocorre no vértice: x = −b/(2a) = −14/(2 × (−1)) = 7. O preço R$ 7,00 é exatamente o da barra IV. Conferindo os valores: L(7) = −49 + 98 − 45 = 4; L(8) = −64 + 112 − 45 = 3; L(4) = −16 + 56 − 45 = −5; L(3,5) = −12,25 + 49 − 45 = −8,25; L(2) = −4 + 28 − 45 = −21. O maior lucro é o da barra IV. A alternativa A (R$ 2,00) gera prejuízo de 21. A alternativa B (R$ 3,50) também dá prejuízo. A alternativa C (R$ 4,00) resulta em prejuízo de 5. A alternativa E (R$ 8,00) dá lucro 3, menor que o de R$ 7,00, pois já passa do vértice. Gabarito: D.",
+  "hash": "5a1913df5c8078d4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q173": {
+  "explicacao": "A questão pede o gráfico da distância D entre a criança P e a parede I ao longo do tempo, a partir do instante T. Na figura, P está no ponto do círculo mais próximo da parede I (extremo esquerdo), então em t = T a distância D é mínima. Com o giro anti-horário a velocidade constante, P se afasta da parede, atinge a distância máxima no ponto diametralmente oposto (meia volta), volta a se aproximar e retorna ao mínimo após uma volta completa. Esse movimento se repete periodicamente, e a distância varia de forma suave, como uma senoide entre um valor mínimo positivo (o brinquedo não encosta na parede) e um máximo. O gráfico C mostra exatamente isso: começa no mínimo em T, sobe até o máximo e oscila periodicamente. As alternativas que começam no máximo ou em valor intermediário ignoram a posição inicial de P. As que mostram crescimento contínuo, valores constantes ou mínimo igual a zero não representam o movimento circular a distância fixa da parede. Gabarito: C.",
+  "hash": "afd0523eceb36943",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q174": {
+  "explicacao": "A questão pede o número total de códigos formados por toques em 4 regiões, podendo-se escolher 3, 4 ou 5 toques. Como os toques são livres, cada toque pode ser em qualquer uma das 4 regiões, inclusive repetindo regiões, e a ordem importa. Pelo princípio multiplicativo: com 3 toques, há 4 × 4 × 4 = 4³ códigos; com 4 toques, 4⁴; com 5 toques, 4⁵. Como o usuário escolhe uma dessas quantidades, os casos são mutuamente exclusivos e somam-se: total = 4⁵ + 4⁴ + 4³ = 1 024 + 256 + 64 = 1 344 códigos, expressão da alternativa B. As demais alternativas cometem erros típicos: multiplicar os casos em vez de somá-los, usar arranjos ou combinações sem repetição (como se cada região só pudesse ser tocada uma vez) ou inverter base e expoente, escrevendo 3⁴, 4⁴, 5⁴. Gabarito: B.",
+  "hash": "eee1e9b79b4c1872",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q175": {
+  "explicacao": "A questão pede o investimento com maior rendimento líquido, isto é, rendimento menos o imposto de renda. O gráfico traz os rendimentos mensais e o quadro, as alíquotas de IR. O líquido é rendimento × (1 − alíquota). I: 900 × 0,88 = R$ 792,00. II: 700 × 0,91 = R$ 637,00. III: 300 × 0,80 = R$ 240,00. IV: 500 × 0,90 = R$ 450,00. V: 1 000 × 0,78 = R$ 780,00. O maior valor é o do investimento I, R$ 792,00. Repare na armadilha: o investimento V tem o maior rendimento bruto, mas sua alíquota de 22% reduz o líquido para menos que o de I. A alternativa B tem a menor alíquota, mas rendimento bruto baixo. A alternativa C tem o menor líquido. A alternativa D rende apenas R$ 450,00. A alternativa E perde para I por R$ 12,00 por causa do imposto maior. Gabarito: A.",
+  "hash": "03eab2be1a7bd268",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q176": {
+  "explicacao": "A questão pede o vaso de maior capacidade e a planta mais alta, o que exige converter tudo para a mesma unidade. Capacidades: 1 dm³ = 1 L, então X tem 4 L; 1 000 cm³ = 1 L, então Y tem 7 000 cm³ = 7 L; Z tem 20 L. O maior vaso é o de Z. Alturas, em metros: X tem 0,6 m; Y tem 120 cm = 1,2 m; Z tem 900 mm = 0,9 m. A planta mais alta é a de Y. Logo, a resposta é Z e Y. A alternativa A considera 7 000 cm³ maior que 20 L, enganada pelo número grande. A alternativa B inverte a ordem pedida. A alternativa C acerta o vaso, mas toma a planta de X como mais alta. A alternativa E supõe que 900 mm é a maior altura, de novo enganada pelo número sem conversão. Gabarito: D.",
+  "hash": "5c7d75e97d0c084e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q177": {
+  "explicacao": "A questão pede o novo preço do notebook para arrecadar 10% a mais, mantendo as quantidades e os demais preços. Pelo quadro, a arrecadação do ano foi: celulares 300 × 300 = R$ 90 000; impressoras 300 × 200 = R$ 60 000; notebooks 200 × 900 = R$ 180 000. Total: R$ 330 000. A meta é 330 000 × 1,10 = R$ 363 000. Celulares e impressoras continuam rendendo 90 000 + 60 000 = R$ 150 000, então os notebooks devem render 363 000 − 150 000 = R$ 213 000. Preço do notebook: 213 000 ÷ 200 = R$ 1 065,00. A alternativa A não corresponde a nenhum aumento coerente. A alternativa B aplica 10% apenas sobre o preço do notebook (900 × 1,1), sem compensar os outros produtos. A alternativa C usa cálculo intermediário incorreto. A alternativa E transfere o aumento de forma exagerada ao notebook. Gabarito: D.",
+  "hash": "7487bbf3862cd4f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q178": {
+  "explicacao": "A questão pede a probabilidade de sair cara ao escolher uma das cinco moedas ao acaso e lançá-la. Cada moeda tem probabilidade 1/5 de ser escolhida. As duas moedas com cara nas duas faces dão cara com certeza: 2/5 × 1 = 2/5. A moeda com coroa nas duas faces nunca dá cara: 1/5 × 0 = 0. As duas moedas normais dão cara com probabilidade ½: 2/5 × ½ = 1/5. Somando: 2/5 + 0 + 1/5 = 3/5. Outra forma: há 10 faces no total, das quais 6 são cara (4 das moedas viciadas e 2 das normais), logo 6/10 = 3/5, valor da alternativa C. As demais alternativas trazem erros típicos: considerar só as moedas de duas caras (2/5), tratar todas como normais (½), esquecer a moeda de duas coroas no total ou contar apenas as normais. Gabarito: C.",
+  "hash": "47186ac778bbcc75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q179": {
+  "explicacao": "A questão pede quanto o fazendeiro deve aumentar a área de captação para encher a cisterna de 10 000 L em um ano. O índice de 400 mm por ano significa 400 L por metro quadrado, já que 1 mm equivale a 1 L/m². A área necessária para captar 10 000 L é 10 000 ÷ 400 = 25 m². A área atual é um retângulo de 3 m × 7 m = 21 m². O aumento mínimo é 25 − 21 = 4 m². A alternativa A resulta de erro de unidade ou divisão incorreta. A alternativa B subestima o aumento. A alternativa D não corresponde à diferença entre as áreas. A alternativa E é a área total necessária, e não o aumento pedido. Gabarito: C.",
+  "hash": "89852ac63de7b10a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-digital-d2-q180": {
+  "explicacao": "A questão pede as três vistas ortogonais da peça obtida retirando-se de um cubo um bloco retangular a partir da face frontal, junto ao topo, com arestas ocultas tracejadas. Na vista frontal, vê-se o quadrado do cubo com o recorte em forma de U aberto para cima: um retângulo que desce do topo até certa altura, todo em linha contínua, pois está visível. Na vista lateral (pela direita), o recorte não aparece diretamente, pois fica escondido pelo material; suas arestas aparecem tracejadas: uma linha vertical na profundidade do corte, partindo do topo, e uma horizontal na altura do fundo do recorte. Na vista superior, vê-se de cima a abertura do recorte junto à borda frontal, como um retângulo em linha contínua. A alternativa E reúne exatamente essas três vistas. As demais alternativas erram ao desenhar o recorte com linha contínua na vista lateral, omitir as arestas ocultas, posicionar a abertura na borda errada da vista superior ou mostrar o recorte com dimensões incompatíveis com o bloco retirado. Gabarito: E.",
+  "hash": "eeb88dbe3651c62f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2020-digital-d2-q91": {
   "explicacao": "A questão compara dois circuitos: na Figura 2A, um aparelho de resistência R ligado à tomada por meio do adaptador de resistência r; na Figura 2B, três aparelhos iguais ligados ao mesmo adaptador. O ponto central é perceber como os aparelhos se associam. Num adaptador tipo T, os aparelhos ficam em paralelo entre si, e esse conjunto fica em série com a resistência r do próprio adaptador. Com um aparelho, a resistência total é r + R. Com três aparelhos em paralelo, o conjunto vale R/3, e a resistência total cai para r + R/3. Como a tensão da tomada (entre C e D) é fixa, a corrente total fornecida, i = U/(r + R/3), aumenta. Essa corrente total passa inteira pelo adaptador, e a potência dissipada nele, P = r·i², cresce com o quadrado da corrente. É isso que superaquece o adaptador. A alternativa A erra porque a tensão em cada aparelho até diminui um pouco, já que o adaptador passa a reter mais tensão. A B erra pelo mesmo motivo: a corrente em cada R não aumenta. A C erra porque a tensão da tomada é constante. A E erra porque a resistência equivalente diminui, não aumenta. Gabarito: D.",
   "hash": "c44de6e20093bf49",
