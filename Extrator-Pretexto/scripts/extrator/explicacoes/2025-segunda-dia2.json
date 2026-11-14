@@ -1,0 +1,452 @@
+{
+ "enem-2025-segunda-d2-q100": {
+  "explicacao": "A questão pede o que o aumento do pH provoca, segundo o gráfico de absorbância versus comprimento de onda para pH 5, 9 e 13, em amostras de mesma concentração. Observando as curvas, a de pH 5 tem absorbância baixa, perto de 0,02 a 0,07 em toda a faixa; a de pH 9 sobe até cerca de 0,19 perto de 690 nm; e a de pH 13 chega a cerca de 0,27 perto de 630 nm. Assim, a absorção total (a área sob a curva) cresce com o pH, ou seja, a amostra absorve mais radiação e, portanto, mais energia. Além disso, o pico se desloca para comprimentos de onda menores, de fótons mais energéticos, reforçando a conclusão. A alternativa A está errada porque o gráfico não mede reatividade. A C contraria a química: elevar o pH diminui a concentração de H₃O⁺. A D é falsa, pois acima de cerca de 830 nm a curva de pH 13 fica abaixo das demais. A E está errada porque as três amostras têm a mesma concentração. Gabarito: B.",
+  "hash": "a59a87629d13155a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q101": {
+  "explicacao": "A questão pede em que etapa da expressão gênica atua o RNA de interferência. O texto diz que pequenas moléculas de RNA interferem na expressão gênica tipicamente destruindo o RNA mensageiro de um gene específico no citoplasma. Ora, o RNAm já foi sintetizado no núcleo (transcrição) e já saiu para o citoplasma, onde seria lido pelos ribossomos para produzir a proteína. Se ele é degradado nesse ponto, a proteína correspondente não é formada: o que se inibe é a tradução do RNAm em proteína. A alternativa A está errada porque a transcrição ocorre normalmente; o RNAm é produzido e só depois destruído. A B erra porque a destruição acontece no citoplasma, ou seja, o RNAm já saiu do núcleo. A D está errada porque o RNAm não sintetiza ribossomos; estes são formados a partir de RNA ribossômico e proteínas. A E confunde funções: quem captura e transporta aminoácidos é o RNA transportador. Gabarito: C.",
+  "hash": "2fa85a1ea6e7f8b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q102": {
+  "explicacao": "A questão pede a menor potência real da placa fotovoltaica, que ocorre na maior temperatura atingida, 65 °C. Dados: potência nominal de 250 W a 25 °C e variação de −0,4% da potência nominal por grau Celsius. Primeiro, a variação de temperatura: ΔT = 65 − 25 = 40 °C. Em seguida, a perda percentual total: 0,4% × 40 = 16%. Agora a perda em watts: 16% de 250 W = 0,16 × 250 = 40 W. Por fim, a potência real mínima: 250 − 40 = 210 W. Também é possível calcular direto: perda por grau = 0,004 × 250 = 1 W/°C, e em 40 °C perdem-se 40 W. A alternativa A (230 W) corresponde a uma perda de apenas 20 W, como se a variação fosse de 20 °C. A C (190 W) supõe perda de 60 W, o que exigiria variação de 60 °C. A D e a E indicam perdas muito maiores, incompatíveis com a taxa de 0,4% por grau. Gabarito: B.",
+  "hash": "05cd0ecb98a84f7e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q103": {
+  "explicacao": "A questão pede de onde extrair enzimas para hidrolisar a celulose do bagaço de cana, liberando glicose fermentável para produzir etanol de segunda geração. A ilustração mostra que o desafio é quebrar os polímeros (celulose e hemicelulose) em monossacarídeos. Isso exige celulases, enzimas que os vertebrados não produzem. Os bovinos, porém, são ruminantes que digerem capim graças a bactérias e outros microrganismos que vivem no rúmen e produzem celulases em grande quantidade, numa relação de mutualismo. Por isso, extrair enzimas dessas bactérias é uma estratégia lógica para otimizar a hidrólise. A alternativa A está errada porque gaviões são carnívoros e não possuem enzimas para digerir celulose. A B erra porque o suco pancreático humano contém amilase, que quebra amido, mas não celulose. A D está errada porque a saliva dos roedores também contém amilase, sem celulases significativas. A E erra porque o estômago dos macacos produz pepsina e ácido, voltados à digestão de proteínas. Gabarito: C.",
+  "hash": "5512dc66aa14766f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q104": {
+  "explicacao": "A questão pede qual poluente primário, ao reagir com componentes do ar, forma um poluente secundário altamente corrosivo. O dióxido de enxofre (SO₂), liberado na queima de combustíveis fósseis com enxofre e em processos industriais, é oxidado na atmosfera: 2 SO₂ + O₂ → 2 SO₃. Em seguida, o trióxido de enxofre reage com o vapor de água: SO₃ + H₂O → H₂SO₄, formando ácido sulfúrico, um ácido forte e muito corrosivo, principal componente da chuva ácida, que ataca monumentos, metais e vegetação. A alternativa A está errada porque o metano é gás de efeito estufa, mas não origina ácido corrosivo. A B erra porque os CFCs são conhecidos por destruir a camada de ozônio, não por formar ácidos fortes no ar. A D está errada porque o CO₂ forma ácido carbônico, que é fraco e responsável apenas pela leve acidez natural da chuva. A E erra porque o monóxido de carbono se oxida a CO₂, que não é corrosivo. Gabarito: C.",
+  "hash": "b9490a0f0b76f946",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q105": {
+  "explicacao": "A questão pede qual dos cinco compostos deve ter a maior atividade antiviral, sabendo que ela foi associada a substituintes pouco volumosos e moderadamente eletronegativos no anel aromático. Todos os compostos têm o mesmo esqueleto, variando apenas os grupos no benzeno: I tem um único flúor; II, um único bromo; III, CF₃ e Cl; IV, CF₃ e I; V, dois Cl e um CF₃. Os compostos III, IV e V possuem o grupo CF₃ além de halogênios, o que os torna mais volumosos, com dois ou três substituintes no anel, fugindo do critério de pouco volume. Restam I e II, cada um com um único halogênio. O flúor, porém, é o elemento mais eletronegativo da tabela, ou seja, é fortemente eletronegativo, e não moderadamente. O bromo tem eletronegatividade intermediária e, como substituinte único, ainda é pouco volumoso, atendendo às duas condições. Assim, o composto II deve ser o mais ativo. A alternativa A falha pela eletronegatividade excessiva do flúor. As alternativas C, D e E falham pelo volume dos substituintes, especialmente o CF₃ e o iodo. Gabarito: B.",
+  "hash": "c1b122743353acb1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q106": {
+  "explicacao": "A questão pede qual estrutura celular foi afetada, considerando que, após o tratamento com água de esgoto, muitas células apresentaram cromossomos em metáfase não alinhados no plano equatorial. Na metáfase normal, os cromossomos já condensados se prendem, pelos cinetócoros, às fibras do fuso mitótico, formadas por microtúbulos, que os posicionam alinhados na placa equatorial. Se os cromossomos não se alinham, o problema está no fuso, que não se formou ou não funciona corretamente. Isso pode levar a erros na separação das cromátides e células com número anormal de cromossomos. A alternativa A está errada porque a replicação do DNA ocorre na interfase e falhas nela não impedem o alinhamento. A B erra porque a citocinese ocorre ao final da divisão, depois da metáfase. A D está errada porque os cromossomos foram vistos como metafásicos, ou seja, estavam condensados. A E erra porque a fragmentação do envoltório nuclear ocorreu, já que os cromossomos estavam livres no citoplasma. Gabarito: C.",
+  "hash": "85f79cba26d7020d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q107": {
+  "explicacao": "A questão pede a massa de cal hidratada usada, incluindo 50% de excesso de segurança. Pela equação, 2 HCl + Ca(OH)₂ → CaCl₂ + 2 H₂O, a proporção é de 2 mol de HCl para 1 mol de Ca(OH)₂. Passo 1, quantidade de HCl: 365 kg = 365 000 g; n = 365 000 ÷ 36,5 = 10 000 mol. Passo 2, quantidade estequiométrica de base: 10 000 ÷ 2 = 5 000 mol de Ca(OH)₂. Passo 3, massa necessária: 5 000 × 74 = 370 000 g = 370 kg. Passo 4, acréscimo de 50%: 370 × 1,5 = 555 kg. Também se pode fazer em massa direta: 2 × 36,5 = 73 kg de HCl reagem com 74 kg de base; 365 kg correspondem a 5 × 73, logo exigem 5 × 74 = 370 kg, e com 50% a mais, 555 kg. A alternativa A é a massa estequiométrica, sem o excesso. A C (740 kg) ignora a proporção 2:1. A D soma 50% sobre 740 kg, repetindo esse erro. A E dobra o valor de 740 kg. Gabarito: B.",
+  "hash": "4a3252a782262687",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q108": {
+  "explicacao": "A questão pede a equação que representa a formação da camada acinzentada após a aplicação do verniz com íons Pb²⁺ sobre o sulfato de cádmio. O CdSO₄ é sólido e solúvel em água; quando entra em contato com o verniz, que fornece Pb²⁺ em solução, ocorre uma reação de dupla troca: o íon chumbo se combina com o sulfato, formando sulfato de chumbo (PbSO₄), sal pouco solúvel que precipita e forma a camada acinzentada, enquanto o cádmio fica como Cd²⁺ em solução. A equação é CdSO₄ (s) + Pb²⁺ (aq) → PbSO₄ (s) + Cd²⁺ (aq). Note que não há variação de número de oxidação: chumbo e cádmio permanecem +2. A alternativa A está errada porque o verniz contém Pb²⁺, e não chumbo metálico. A B forma Cd metálico, o que exigiria uma oxirredução inexistente aqui. A D coloca PbSO₄ em solução e forma Pb metálico, incoerente com os dados. A E representa o processo inverso, com o PbSO₄ como reagente. Gabarito: C.",
+  "hash": "51bf6dd2cb0ca80e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q109": {
+  "explicacao": "A questão pede como classificar a força de atrito sobre o atleta quando ele está acelerando enquanto puxa o pneu. Para andar ou correr, o atleta empurra o solo para trás com os pés; pela terceira lei de Newton (ação e reação), o solo empurra os pés do atleta para frente com força de mesma intensidade e sentido oposto. Essa força do solo sobre o atleta, paralela à superfície, é justamente a força de atrito estático que o impulsiona. Logo, o atrito é a reação à força para trás que os pés exercem sobre o solo. A alternativa A está errada porque, acelerando, o atrito para frente é maior que a força elástica para trás, e as duas atuam no mesmo corpo, não formando par ação e reação. A B erra porque a reação à normal é a força que o atleta faz perpendicularmente sobre o solo. A C confunde forças em corpos diferentes e sem relação direta. A D está errada porque a reação à força da fita sobre o atleta é a força do atleta sobre a fita. Gabarito: E.",
+  "hash": "74c5059e6244cb1c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q110": {
+  "explicacao": "A questão pede a energia liberada na combustão do metano contido nos 15 m³ de GNV, usando as energias de ligação do quadro: C−H 414, O=O 498, C=O 799 e H−O 460 kJ/mol. Passo 1, equação: CH₄ + 2 O₂ → CO₂ + 2 H₂O. Passo 2, ligações rompidas (energia absorvida): 4 C−H = 4 × 414 = 1 656; 2 O=O = 2 × 498 = 996; total 2 652 kJ. Passo 3, ligações formadas (energia liberada): 2 C=O = 2 × 799 = 1 598; 4 H−O = 4 × 460 = 1 840; total 3 438 kJ. Passo 4, ΔH = 2 652 − 3 438 = −786 kJ por mol de CH₄. Passo 5, quantidade de metano: massa do gás = 15 m³ × 0,8 kg/m³ = 12 kg; 90% é metano, 0,9 × 12 = 10,8 kg = 10 800 g; n = 10 800 ÷ 16 = 675 mol. Passo 6, energia total: 675 × 786 ≈ 530 550 kJ ≈ 5,3 × 10⁵ kJ. A alternativa E (5,9 × 10⁵) corresponde a considerar todo o gás como metano (750 mol). As alternativas A, B e C resultam de erros na contagem das ligações, como usar apenas uma ligação O−H por molécula de água ou esquecer um dos O₂. Gabarito: D.",
+  "hash": "ae22193c73ad636c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q111": {
+  "explicacao": "A questão pede a massa diária de manganês obtida a partir de 18 t de pirolusita, considerando o teor de MnO₂ e o rendimento da reação. Primeiro, a massa de MnO₂ no minério: 40% de 18 t = 0,40 × 18 = 7,2 t. Pela equação, 2 mol de MnO₂ produzem 2 mol de Mn, ou seja, a proporção é 1 : 1 em mol. Assim, 87 g de MnO₂ geram 55 g de Mn, e 7,2 t de MnO₂ geram teoricamente 7,2 × 55/87 ≈ 4,55 t de Mn. Como o rendimento é de 80%, a massa real é 0,80 × 4,55 ≈ 3,64 t, ou seja, aproximadamente 3,6 t. A alternativa B (4,6 t) corresponde ao cálculo sem aplicar o rendimento de 80%. A alternativa C ignora o teor de 40% e o rendimento de forma combinada incorreta. A alternativa D superestima a massa ao não considerar a proporção correta entre as massas molares. A alternativa E (11,4 t) desconsidera o teor de MnO₂ no minério, tratando-o como puro. Gabarito: A.",
+  "hash": "22dae2e640f37719",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q112": {
+  "explicacao": "A questão pergunta onde fica armazenada a maior parte do carbono que as florestas em desenvolvimento retiram da atmosfera. O CO₂ absorvido na fotossíntese é convertido em açúcares, que em grande parte são usados para construir celulose e lignina, os principais componentes das paredes celulares. Em árvores em crescimento, o tecido que mais acumula biomassa ao longo dos anos é o lenho, formado pelo xilema secundário do caule, cujas células têm paredes espessas e lignificadas. Por isso a madeira é o grande reservatório de carbono das florestas, e é nela que fica a maior parte do carbono sequestrado. A alternativa A está errada porque antocianinas são pigmentos em quantidade pequena. A B erra porque frutos são estruturas temporárias e de pouca massa relativa. A C erra porque as reservas lipídicas das sementes representam fração mínima da biomassa. A D erra porque as membranas plasmáticas das folhas têm massa irrisória e as folhas são renovadas com frequência. Gabarito: E.",
+  "hash": "a31e37588d4a4d2b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q113": {
+  "explicacao": "A questão pede qual hormônio placentário, mantido em níveis altos, explica a menor variação hormonal durante a gravidez. Fora da gestação, o ciclo menstrual é controlado pelos hormônios hipofisários FSH e LH, que oscilam e provocam variações de estrógeno e progesterona. Na gravidez, a placenta produz a gonadotrofina coriônica humana (hCG), que mantém o corpo lúteo ativo; este continua secretando estrógeno e progesterona em níveis elevados e constantes. Esses hormônios ovarianos altos exercem retroalimentação negativa sobre a hipófise, diminuindo a liberação de FSH e LH e interrompendo o ciclo. Assim, a manutenção do hCG leva à redução dos hormônios hipofisários e à estabilidade hormonal. A alternativa A erra ao dizer que a progesterona reduz os hormônios ovarianos. A B erra porque o estrógeno elevado inibe, e não estimula, a hipófise. A C erra porque o LH é hormônio hipofisário, não placentário. A E erra porque o FSH também é hipofisário e não é mantido alto na gravidez. Gabarito: D.",
+  "hash": "e628745f94d9c2fb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q114": {
+  "explicacao": "A questão descreve partículas sólidas sendo englobadas pelas células por meio de projeções da membrana plasmática e pergunta o nome desse processo. Esse é o conceito de fagocitose: a célula emite pseudópodes que envolvem a partícula sólida, formando um fagossomo no citoplasma. É exatamente o mecanismo usado por células de defesa, como macrófagos e neutrófilos, o que combina com o objetivo dos cientistas de ativar o sistema imunológico. A alternativa A está errada porque clasmocitose é a eliminação de fragmentos citoplasmáticos, não a captura de partículas. A C erra porque a pinocitose engloba gotículas de líquido, por invaginação da membrana, e não partículas sólidas por pseudópodes. A D erra porque a exocitose é a saída de material da célula. A E erra porque apoptose é morte celular programada, e não um processo de transporte. Gabarito: B.",
+  "hash": "ab9fef78155f1a49",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q115": {
+  "explicacao": "A questão pede qual substância, ao ser oxidada, origina o 3-metil-butanal, um aldeído. Aldeídos são obtidos pela oxidação branda de álcoois primários, em que a hidroxila está ligada a um carbono da extremidade da cadeia. O 3-metil-butanal tem cadeia de quatro carbonos com o grupo carbonila no carbono 1 e um metil no carbono 3. Portanto, o álcool de partida deve ter a mesma cadeia com a OH no carbono 1: o 3-metil-butan-1-ol, que, ao perder dois hidrogênios, forma o CHO terminal. A alternativa A está errada porque o ácido carboxílico já é um produto mais oxidado que o aldeído. A B erra porque é um enol, que se converte em cetona, não em aldeído. A D erra porque o 3-metil-butan-2-ol é álcool secundário e sua oxidação gera cetona. A E erra porque a cetona não se oxida a aldeído em condições usuais. Gabarito: C.",
+  "hash": "275a656249e3402b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q116": {
+  "explicacao": "A questão pede o método de separação usado na produção da flor de sal. O texto informa que a água do mar passa por tanques e vai ficando cada vez mais concentrada, com sol intenso, clima seco e vento constante, até o sal se cristalizar. Isso significa que a água está passando para o estado gasoso e saindo do sistema, enquanto o sal dissolvido permanece e cristaliza: trata-se de evaporação, processo típico das salinas. A alternativa A está errada porque filtração separa sólidos não dissolvidos de líquidos usando um filtro. A B erra porque destilação envolve aquecimento e condensação do vapor para recuperar o líquido, o que não ocorre. A C erra porque decantação separa sólidos já existentes que se depositam por gravidade, sem explicar a concentração da solução. A E erra porque sublimação é a passagem direta do sólido para o gasoso, o que não acontece com o sal. Gabarito: D.",
+  "hash": "81c6b72d9c580185",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q117": {
+  "explicacao": "A questão pede o processo responsável pela formação de amônia a partir dos dejetos suínos no biorreator. A tabela mostra que, ao longo de 40 horas, o nitrogênio orgânico cai de 80% para 15%, enquanto a amônia (NH₃) sobe de 20% para 37%. Também aparecem nitrito e nitrato, mas o N₂ permanece em 0%. A transformação de nitrogênio de compostos orgânicos (proteínas, ureia, ácidos nucleicos) em amônia é feita por microrganismos decompositores, na etapa chamada amonificação, que é parte da decomposição da matéria orgânica. Portanto, a amônia surge por decomposição. A alternativa A está errada porque fixação converte N₂ atmosférico em amônia, e não há consumo de N₂. A B erra porque nitratação transforma nitrito em nitrato. A C erra porque nitrosação transforma amônia em nitrito, consumindo amônia. A D erra porque desnitrificação converte nitrato em N₂, que não aparece na tabela. Gabarito: E.",
+  "hash": "c8bd11d8344e99dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q118": {
+  "explicacao": "A questão pede a massa total de íons Cr³⁺ no reservatório de 5 000 L, a partir da análise de 1,0 L. Na alíquota de 1 L, formaram-se 3,8 g de Cr₂O₃. Quantidade em mol: 3,8 ÷ 152 = 0,025 mol de Cr₂O₃. Cada fórmula de Cr₂O₃ contém 2 átomos de Cr, então há 2 × 0,025 = 0,05 mol de Cr³⁺ por litro. Massa de cromo por litro: 0,05 × 52 = 2,6 g. Para o reservatório inteiro: 2,6 g/L × 5 000 L = 13 000 g = 13,0 kg. A alternativa A (6,5 kg) esquece que cada Cr₂O₃ tem dois átomos de cromo. A B não corresponde a nenhuma relação estequiométrica correta. A D (19,0 kg) usa a massa de Cr₂O₃ em vez da de cromo. A E (38,0 kg) usa a massa de Cr₂O₃ com o dobro do cálculo, confundindo óxido com íon. Gabarito: C.",
+  "hash": "549a30df34ed2fa3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q119": {
+  "explicacao": "A questão pede a distância horizontal D entre a base do telhado e a calha onde a água cai. A água deixa o telhado com velocidade de 4 m/s, inclinada de 30° em relação à horizontal, e o tempo de queda já é dado: 0,6 s. Na direção horizontal não há aceleração, então o movimento é uniforme. A componente horizontal da velocidade é Vx = V × cos 30° = 4 × 0,87 = 3,48 m/s. Assim, D = Vx × t = 3,48 × 0,6 ≈ 2,09 m, ou seja, aproximadamente 2,1 m. A alternativa A não corresponde a nenhuma componente aplicada corretamente. A B (1,2 m) usa o seno no lugar do cosseno: 4 × 0,5 × 0,6. A C erra ao arredondar ou combinar componentes de modo indevido. A E (2,4 m) usa a velocidade total, 4 × 0,6, sem decompor. Gabarito: D.",
+  "hash": "9cfaf9948d612757",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q120": {
+  "explicacao": "A questão pede com que velocidade angular os painéis de um satélite geoestacionário devem girar, comparada à rotação da Terra, para ficarem sempre perpendiculares aos raios solares. Um satélite geoestacionário completa uma volta ao redor da Terra em 24 horas, acompanhando sua rotação, e mantém sempre a mesma face voltada para o planeta. Isso faz com que, em relação ao Sol, o corpo do satélite gire uma vez por dia. Para que os painéis continuem apontados para o Sol, eles precisam girar em relação ao satélite uma volta completa a cada 24 horas, compensando esse movimento. Logo, a velocidade angular dos painéis é igual à da Terra, R_T. As alternativas A e B indicam rotações mais lentas, que deixariam os painéis desalinhados ao longo do dia. As alternativas D e E indicam rotações mais rápidas que o necessário, fazendo os painéis ultrapassarem a direção do Sol. Gabarito: C.",
+  "hash": "6f90a3dddd2b2611",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q121": {
+  "explicacao": "A questão pede o produto adequado para corrigir o pH de um solo alcalino, deixando-o na faixa de 5,8 a 6,2, propícia ao feijão. Como o solo está básico, é preciso um produto de caráter ácido que possa ser aplicado diretamente e que não traga elementos indesejados. O sulfato de amônio, (NH₄)₂SO₄, é um sal de caráter ácido (o íon NH₄⁺ sofre hidrólise liberando H⁺), reduz o pH e ainda fornece nitrogênio e enxofre, nutrientes exigidos pela cultura. A alternativa A está errada porque o Al₂(SO₄)₃ acidifica, mas acrescenta alumínio, que deve estar em baixa concentração. A C erra porque o HNO₃ a 63,5% é ácido forte concentrado, perigoso e indicado para produzir fertilizantes, não para aplicação direta. A D erra porque o calcário é básico e aumentaria ainda mais o pH. A E erra porque o NaNO₃ é sal neutro e não corrige o pH. Gabarito: B.",
+  "hash": "a670643bc6037b09",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q122": {
+  "explicacao": "A questão pede quais dispositivos acendem com baterias de 9 V e 12 V. Como os dispositivos têm resistência desprezível, todos os pontos superiores do circuito ficam no mesmo potencial, e cada resistor de 1 kΩ fica submetido à tensão V. Cada resistor conduz i = V/1 000. O dispositivo 4 conduz só a corrente do último resistor (1 × i); o 3 conduz a de dois resistores (2i); o 2, de três (3i); e o 1, de quatro (4i). Situação A, com 9 V: i = 9 mA, então os dispositivos conduzem 36 mA, 27 mA, 18 mA e 9 mA. Só 1 e 2 superam 25 mA. Situação B, com 12 V: i = 12 mA, resultando em 48 mA, 36 mA, 24 mA e 12 mA. Novamente só 1 e 2 acendem, pois 24 mA é menor que o limiar. A alternativa B inverte a ordem das correntes. A C ignora o limiar. A D erra porque o dispositivo 3 recebe 24 mA, abaixo de 25 mA. A E erra ao supor que menos dispositivos acendem com tensão maior. Gabarito: A.",
+  "hash": "74355c76e19a4bdd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q123": {
+  "explicacao": "A questão pede qual situação se explica pelo mesmo princípio físico que move o Hyperloop. Segundo o texto, o ar é retirado à frente da cápsula, criando menor pressão na parte frontal que na traseira; a diferença de pressão gera uma força resultante que empurra a cápsula. No canudo ocorre o mesmo: ao sugar, a pessoa reduz a pressão dentro do canudo, e a pressão atmosférica maior sobre a superfície do líquido no copo o empurra para cima. Em ambos os casos, o movimento é causado por diferença de pressão. A alternativa A está errada porque o foguete se move por ação e reação, com conservação da quantidade de movimento. A C erra porque o elétron é acelerado por força elétrica. A D erra porque o próton também é acelerado por campos elétricos e magnéticos. A E erra porque o submarino emerge por variação do empuxo em relação ao peso. Gabarito: B.",
+  "hash": "4ae3f38d5c4363ec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q124": {
+  "explicacao": "A questão descreve a seleção estabilizadora, que elimina os fenótipos extremos e favorece os intermediários, e pede seu efeito na população em caso de dominância completa. Com dominância completa, existem apenas dois fenótipos: o dominante (AA ou Aa) e o recessivo (aa). Entre os genótipos, os homozigotos AA e aa representam os extremos, e o heterozigoto Aa ocupa a posição intermediária. Se a seleção reduz os extremos, os homozigotos são desfavorecidos e os heterozigotos tendem a predominar na população. A alternativa A está errada porque os homozigotos recessivos, por serem extremos, seriam reduzidos. A B erra porque seleção natural não é aleatória; a escolha ao acaso caracteriza a deriva genética. A D erra porque os homozigotos dominantes também são extremos e diminuiriam. A E erra pelo mesmo motivo, já que os homozigotos recessivos teriam frequência reduzida. Gabarito: C.",
+  "hash": "7e1a282b9e827e65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q125": {
+  "explicacao": "A questão pede o efeito de um RNAt de serina carregado, por engano, com valina. Na tradução, quem reconhece o códon do RNAm é o anticódon do RNAt, e não o aminoácido que ele carrega. Assim, esse RNAt defeituoso continuará pareando com os códons de serina, mas entregará valina nessas posições. Já os códons de valina continuarão sendo lidos pelos RNAt corretos de valina. Resultado: haverá incorporação de valina tanto nas posições de códons de valina (normal) quanto nas de serina (erro), justamente o que afirma a alternativa do gabarito. A alternativa A está errada porque o RNAt alterado carrega valina, e o pareamento não ocorre com qualquer códon. A B erra porque o anticódon é específico e não pareia com qualquer códon. A C erra ao sugerir que a valina deixaria de ser incorporada nos seus próprios códons. A E erra porque o RNAt com erro carrega valina, não serina. Gabarito: D.",
+  "hash": "7d4e42347d5085c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q126": {
+  "explicacao": "A questão pede a ordem eluotrópica, isto é, a ordem crescente de polaridade dos solventes n-hexano, clorofórmio, etanol, metanol e água. O n-hexano é um hidrocarboneto, praticamente apolar, sendo o menos polar. O clorofórmio (CHCl₃) tem polaridade moderada, maior que a do hexano, mas não forma ligações de hidrogênio como doador eficiente. Entre os álcoois, o etanol tem cadeia carbônica maior que o metanol, por isso é menos polar que ele. A água é o solvente mais polar, com intensas ligações de hidrogênio. A sequência fica: n-hexano, clorofórmio, etanol, metanol e água. A alternativa A está em ordem praticamente decrescente. A B começa pelos álcoois e termina no solvente apolar. A C coloca o clorofórmio antes do n-hexano. A E coloca o metanol antes do etanol e o clorofórmio por último. Gabarito: D.",
+  "hash": "22e8cb017d73b3e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q127": {
+  "explicacao": "A questão pede onde estão as lesões dos dois pacientes com perda visual, a partir da resposta da melatonina à luz. Pelo esquema, a informação luminosa sai da retina pelo nervo óptico; parte vai ao tálamo e ao córtex visual (formação da imagem) e parte vai ao hipotálamo, que controla a pineal. No paciente 1, a luz inibiu a melatonina: logo, retina e nervo óptico funcionam e o sinal chega ao hipotálamo. A perda visual deve estar na via da imagem, depois da bifurcação, como no córtex visual. No paciente 2, não houve inibição: o sinal nem chega ao hipotálamo, indicando lesão no início da via, como a retina. A alternativa A erra porque, com retina lesada, o paciente 1 não teria inibição. A C erra pelo mesmo motivo quanto ao nervo óptico. A D erra porque lesão no tálamo não impediria a inibição no paciente 2. A E erra porque hipotálamo lesado no paciente 1 impediria a inibição. Gabarito: B.",
+  "hash": "0572dc4be43be9bd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q128": {
+  "explicacao": "A questão pede o óxido que pode ser usado em tintas e pomadas antissépticas, mantendo o pH da água inalterado. Pelo quadro, são necessárias duas condições: o óxido não pode reagir com a água (para não alterar o pH) e não pode ser tóxico, já que vai em pomadas para a pele. PbO, Cr₂O₃ e ZnO não reagem com a água, mas só o ZnO é não tóxico. De fato, o óxido de zinco é amplamente usado em pomadas contra assaduras e como fungicida em tintas. A alternativa A está errada porque o chumbo é tóxico. A B erra porque o cromo é indicado como tóxico. A D erra porque o P₄O₁₀ reage como óxido ácido, diminuindo o pH. A E erra porque o MgO reage como óxido básico, aumentando o pH. Gabarito: C.",
+  "hash": "b6ca522b8181a5e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q129": {
+  "explicacao": "A questão pede o fenômeno ondulatório responsável pelo problema das rádios AM em carros elétricos. O texto diz que os motores geram ondas eletromagnéticas de mesmo comprimento de onda que os sinais de AM e que os dois sinais “colidem um com o outro e se cancelam”. A superposição de duas ondas no mesmo ponto do espaço, resultando em reforço ou cancelamento, é a interferência; no caso descrito, trata-se de interferência destrutiva, que prejudica a recepção. A alternativa A está errada porque difração é a capacidade da onda de contornar obstáculos. A B erra porque reflexão é o retorno da onda ao incidir numa superfície. A C erra porque refração é a mudança de velocidade ao passar de um meio para outro. A D erra porque ressonância é a amplificação da vibração de um sistema excitado na sua frequência natural, e não cancelamento de sinais. Gabarito: E.",
+  "hash": "54a155d148574bc0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q130": {
+  "explicacao": "A questão pede o motivo da criação das Reservas Particulares do Patrimônio Natural (RPPNs) na região de Bonito. O texto mostra que as atrações ecoturísticas ficam dentro de fazendas e movimentam a economia local, e que os proprietários estão recompondo matas ciliares e instalando ninhos para araras nativas. Ou seja, a conservação da natureza garante a continuidade da atividade econômica do ecoturismo: conciliar uso econômico com preservação ambiental é justamente a ideia de desenvolvimento sustentável. A alternativa A está errada porque o turismo é a base econômica da região e não é proibido. A B erra porque as reservas protegem espécies endêmicas, em vez de reduzi-las. A D erra porque espécies exóticas ameaçam a biodiversidade nativa, e o texto fala de araras nativas. A E erra porque a extração de madeira contraria a recomposição das matas ciliares. Gabarito: C.",
+  "hash": "f26fa7eec678f46e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q131": {
+  "explicacao": "A questão pede por que o amaciamento do jeans com celulases de fungos é considerado ambientalmente seguro. As celulases são enzimas, ou seja, catalisadores biológicos: atuam de forma específica, em condições brandas de temperatura e pH, e são biodegradáveis. Ao substituir os métodos físico-químicos, como a lavagem com pedras e com ácidos, o processo enzimático dispensa reagentes agressivos e gera efluentes muito menos poluentes. Por isso, a vantagem ambiental está em minimizar a produção de resíduos tóxicos. A alternativa A está errada porque as enzimas são catalisadores orgânicos (proteínas), não inorgânicos. A B erra porque a digestão parcial da celulose deixa o tecido mais macio, não mais resistente. A C erra porque enzimas atuam em faixas estreitas de temperatura, e isso não explica a segurança ambiental. A D erra pelo mesmo motivo: enzimas têm pH ótimo específico, e a variação de pH não é o argumento ambiental. Gabarito: E.",
+  "hash": "9a9ee18fa340f9f7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q132": {
+  "explicacao": "A questão pede o nome do grupo de substâncias produzidas no corpo, transportadas pelo sangue e que provocam reações e emoções ligadas à afetividade. Essa descrição corresponde aos hormônios: mensageiros químicos secretados por glândulas, que circulam pela corrente sanguínea e atuam em órgãos-alvo. Na afetividade, destacam-se a ocitocina, ligada ao vínculo, a adrenalina, que acelera o coração, e outros hormônios que influenciam o humor e o comportamento. É por isso que a expressão “rolou uma química” tem base científica. A alternativa A está errada porque vitaminas são obtidas principalmente da alimentação e atuam como cofatores, não como mensageiros de emoções. A C erra porque catalisadores aceleram reações, mas não são mensageiros circulantes ligados à emoção. A D erra porque ácidos nucleicos armazenam e transmitem a informação genética. A E erra porque fluidos corporais é um termo genérico, como sangue e linfa, e não um grupo de substâncias reguladoras. Gabarito: B.",
+  "hash": "d741dcf99b16ed04",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q133": {
+  "explicacao": "A questão pede o motivo da deflexão da lâmina bimetálica de aço e latão no termostato do ferro de passar. A lâmina é formada por dois metais soldados lado a lado. Ao serem aquecidos, ambos dilatam, mas em quantidades diferentes, porque têm coeficientes de dilatação distintos. Como estão presos um ao outro, o metal que dilata mais fica com comprimento maior e obriga a lâmina a se curvar, ficando no lado externo da curva. Para que a lâmina se afaste do contato, o latão precisa dilatar mais que o aço, ou seja, ter maior coeficiente de dilatação térmica. Com isso, o circuito é aberto e o aquecimento é interrompido. A alternativa A inverte a relação e faria a lâmina se curvar para o outro lado. As alternativas C e D falam de condutividade térmica, que afeta a rapidez do aquecimento, mas não causa a curvatura. A E trata do calor específico, que também não explica a deformação. Gabarito: B.",
+  "hash": "25985f245cead9ce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q134": {
+  "explicacao": "A questão pede qual fator ambiental determina o tipo de excreta nitrogenada de um animal. A amônia é muito tóxica e solúvel, e precisa ser eliminada diluída em grande volume de água; por isso é típica de animais aquáticos, os amoniotélicos. A ureia é menos tóxica e exige menos água, sendo comum em mamíferos e anfíbios adultos, os ureotélicos. O ácido úrico é pouco tóxico e praticamente insolúvel, podendo ser eliminado quase sem água, o que é vantajoso para aves, répteis e insetos, os uricotélicos, e para embriões dentro de ovos com casca. Logo, o fator determinante é a disponibilidade de água no ambiente. A alternativa A está errada porque a temperatura não define o tipo de excreta. A B erra porque a fonte energética não altera a forma de eliminar o nitrogênio. A C erra porque a quantidade de oxigênio não é o critério. A D erra porque a abundância de alimento influencia a quantidade, não o tipo de resíduo. Gabarito: E.",
+  "hash": "f28d0781e40fae00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q135": {
+  "explicacao": "A questão pede as faixas do espectro eletromagnético usadas nos controles remotos da TV e do drone. O controle da TV funciona a curta distância e exige que o caminho até o receptor esteja desobstruído: essas são características da radiação infravermelha, que é emitida por um LED e é facilmente bloqueada por obstáculos. Já o drone é controlado a distâncias de quilômetros, o que exige ondas de rádio, de grande comprimento de onda, que se propagam por longas distâncias e contornam obstáculos com mais facilidade. A alternativa A está errada porque a luz visível não é usada nesses controles e os raios X são radiação ionizante, perigosa. A B inverte a lógica e cita ultravioleta, que não é usado em controle remoto. A C erra porque nenhum dos dois usa ultravioleta nem luz visível. A E erra porque raios X não são usados em controles domésticos. Gabarito: D.",
+  "hash": "d136c057ba2d2681",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q136": {
+  "explicacao": "A questão pede a razão R/r entre os raios de dois cilindros com mesma área lateral, sabendo que o primeiro comporta 4/9 do volume do segundo. Sejam h e H as alturas. Áreas laterais iguais: 2πrh = 2πRH, logo rh = RH. Volumes: πr²h = (4/9) × πR²H. Podemos escrever r²h = r × (rh) e R²H = R × (RH). Como rh = RH, a equação fica r × (rh) = (4/9) × R × (rh), então r = (4/9)R. Portanto, R/r = 9/4. A alternativa A (4/9) é a razão inversa, r/R. A B (5/9) não decorre das relações dadas. A C (5/4) também não corresponde a nenhuma relação correta. A D (3/2) seria a resposta se o volume dependesse do quadrado da razão com alturas iguais, ignorando a condição da área lateral. Gabarito: E.",
+  "hash": "9092fe6879971968",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q137": {
+  "explicacao": "A questão pede o valor posicional do algarismo 1 na premiação de R$ 31,3 mil. Primeiro, escrevemos o número por extenso: 31,3 mil = 31,3 × 1 000 = 31 300 reais. Agora, identificamos as ordens: 3 na dezena de milhar (30 000), 1 na unidade de milhar (1 000), 3 na centena (300), 0 na dezena e 0 na unidade. Assim, o algarismo 1 representa 1 000 reais. A alternativa A (1) considera apenas o valor absoluto do algarismo, sem a posição. A B (10) e a C (100) atribuem ao algarismo ordens que ele não ocupa. A E (10 000) corresponde à ordem do algarismo 3, a dezena de milhar. Gabarito: D.",
+  "hash": "e54eb39d1db8a0b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q138": {
+  "explicacao": "A questão pede quantos polígonos regulares, contornados por linhas contínuas, aparecem no mosaico. Um polígono regular tem todos os lados e todos os ângulos iguais. Na figura, o quadrado amarelo central é regular. Os quatro triângulos roxos, juntos com o quadrado amarelo, formam um quadrilátero roxo em forma de losango cujos vértices estão nos pontos médios da malha; seus quatro lados são diagonais de quadradinhos, todas iguais, e seus ângulos são retos, logo é outro quadrado, contornado por linha contínua. Os triângulos roxos são retângulos isósceles, não equiláteros. Os hexágonos verdes têm lados de medidas diferentes. O octógono externo tem lados horizontais e verticais de 2 unidades e lados inclinados de √2 unidades, então não é regular. Total: 2 polígonos regulares. A alternativa B contaria o octógono como regular. A C contaria quadrados que não existem. As alternativas D e E incluem triângulos ou hexágonos, que não são regulares. Gabarito: A.",
+  "hash": "345379594b1c6764",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q139": {
+  "explicacao": "A questão pede a unidade padrão no SI da grandeza medida em passos no mapa da tirinha. O passo é usado para medir distâncias, ou seja, comprimento. No Sistema Internacional de Unidades, a unidade de base do comprimento é o metro. Por isso, a dificuldade de Tuca faz sentido: o tamanho do passo varia de pessoa para pessoa, enquanto o metro é padronizado. A alternativa B está errada porque grama mede massa (e a unidade de base de massa no SI é o quilograma). A C erra porque segundo mede tempo. A D erra porque metro cúbico mede volume. A E erra porque metro por segundo mede velocidade. Gabarito: A.",
+  "hash": "c7d80c70d5fba28f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q140": {
+  "explicacao": "A questão pede quantos escudos diferentes podem ser coloridos com até três cores, sem que regiões vizinhas tenham a mesma cor, para saber se atendem às 16 equipes. Na Figura 1, as quatro regiões formam um ciclo de vizinhança: cada região faz fronteira com duas outras e toca as regiões opostas apenas em um ponto. Chamando as regiões de A, B, C e D em sequência, A pode receber 3 cores e B, 2. Se C tiver a mesma cor de A, D pode ter 2 cores: 3 × 2 × 1 × 2 = 12. Se C for diferente de A e de B, só há 1 cor para C, e D deve diferir de C e de A, restando 1 cor: 3 × 2 × 1 × 1 = 6. Total: 12 + 6 = 18 escudos, mais que 16, logo é viável. O argumento II (72) desconsidera as restrições de vizinhança. O III (81) é 3⁴, sem restrição alguma. O IV (6) conta só os escudos com três cores. O V (12) conta só um dos casos. Gabarito: A.",
+  "hash": "4650293e3bfce710",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q141": {
+  "explicacao": "A questão pede o número mínimo de pacotes de 5 balões para usar todo o hélio comprado. Volume do cilindro: raio 20 cm e altura 100 cm, V = π × 20² × 100 = 40 000π cm³. O gás adquirido equivale a 12 vezes isso: 480 000π cm³. Cada balão tem raio 15 cm: volume = (4/3)π × 15³ = (4/3)π × 3 375 = 4 500π cm³. Número de balões: 480 000π ÷ 4 500π ≈ 106,7. Assim, 106 balões ficam totalmente cheios e sobra gás, que exige um 107º balão para que todo o volume seja usado. Pacotes: 107 ÷ 5 = 21,4, logo são necessários 22 pacotes. A alternativa A (11) usa o diâmetro como raio ou erra o volume. A B (12) parte apenas do fator 12 do enunciado. A D (24) e a E (25) superestimam os balões necessários. Gabarito: C.",
+  "hash": "b2c43a7e5ceb9145",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q142": {
+  "explicacao": "A questão pede qual automóvel gera a menor despesa anual, somando combustível e manutenção, para 60 000 km e gasolina a R$ 5,00. Gasto com combustível = (60 000 ÷ rendimento) × 5. Automóvel I: 6 000 L × 5 = 30 000; total 30 000 + 22 000 = 52 000. II: 5 000 L × 5 = 25 000; total 41 000. III: 4 000 L × 5 = 20 000; total 38 000. IV: 4 000 L × 5 = 20 000; total 39 000. V: 3 000 L × 5 = 15 000; total 39 500. A menor despesa é a do automóvel III, R$ 38 000,00. A alternativa A é a mais cara de todas. A B tem a menor manutenção, mas o combustível pesa mais. A D tem o mesmo rendimento do III, mas manutenção R$ 1 000,00 maior. A E tem o melhor rendimento, mas a manutenção alta anula a economia. Gabarito: C.",
+  "hash": "2c9a8d825115b0e6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q143": {
+  "explicacao": "A questão pede quais personagens têm média dos níveis de habilidade igual ou superior a 6. Cada personagem tem 5 habilidades, então somamos e dividimos por 5. Personagem I: 10 + 8 + 7 + 3 + 4 = 32, média 6,4. Personagem II: 3 + 6 + 10 + 6 + 4 = 29, média 5,8. Personagem III: 5 + 5 + 5 + 6 + 9 = 30, média 6,0. Personagem IV: 7 + 7 + 7 + 7 + 1 = 29, média 5,8. Atendem à condição apenas I (6,4) e III (6,0, que é igual a 6). A alternativa A inclui o II, com média 5,8. A C inclui o IV, também com 5,8. A D inclui II e IV, ambos abaixo de 6. A E inclui todos os personagens. Gabarito: B.",
+  "hash": "77709644d0cf5a93",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q144": {
+  "explicacao": "A questão pede o tipo de desconto do consumidor no terceiro mês. Primeiro mês: consumindo 40% a menos, ele chegaria a 30 000 L, o máximo do tipo I. Então 0,6 × C = 30 000, logo C = 50 000 L. Segundo mês: redução de 20%, ou seja, 0,8 × 50 000 = 40 000 L. Terceiro mês: redução de 30% em relação ao segundo, 0,7 × 40 000 = 28 000 L. Como 27 500 ≤ 28 000 < 29 000, o consumidor se enquadra no tipo II. A alternativa A exigiria consumo entre 29 000 e 30 000 L. A C corresponde a 26 000 ≤ C < 27 500, o que ocorreria se as reduções fossem somadas sobre o primeiro mês de forma errada. A D e a E exigiriam consumos bem menores que 28 000 L. Gabarito: B.",
+  "hash": "dab05a3d40721f5f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q145": {
+  "explicacao": "A questão pede o número de estrangeiros com carteira assinada em 2015, aplicando duas vezes a média dos aumentos percentuais observados. De 2011 para 2012: de 80 000 para 96 000, aumento de 16 000 ÷ 80 000 = 20%. De 2012 para 2013: de 96 000 para 120 000, aumento de 24 000 ÷ 96 000 = 25%. Média: (20% + 25%) ÷ 2 = 22,5%. Em 2014: 120 000 × 1,225 = 147 000. Em 2015: 147 000 × 1,225 = 180 075. A alternativa A (147 000) é o valor de 2014. A B não corresponde ao cálculo com aumentos compostos. A C (180 000) soma 45% sobre 120 000 de forma simples, sem compor. A E (228 000) aplica aumentos incorretos. Gabarito: D.",
+  "hash": "a164987602a850d5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q146": {
+  "explicacao": "A questão pede a distância total percorrida em duas voltas na pista, com π ≈ 3. Trechos retos: 560 + 370 + 800 = 1 730 m. Arco de ângulo reto e raio 90 m: um quarto da circunferência, (2 × 3 × 90) ÷ 4 = 540 ÷ 4 = 135 m. Demais arcos, raio 260 m, com ângulos 150°, 80°, 100° e 60°: soma 390°. O comprimento correspondente é (390/360) × 2 × 3 × 260 = (390/360) × 1 560 = 1 690 m. Uma volta: 1 730 + 135 + 1 690 = 3 555 m. Duas voltas: 2 × 3 555 = 7 110 m. A alternativa A superestima os arcos. A C e a D correspondem a cálculos parciais ou com raios trocados. A E não considera corretamente os arcos ou as duas voltas. Gabarito: B.",
+  "hash": "e87ba0b338731c3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q147": {
+  "explicacao": "A questão pede os períodos em que os dois produtos aumentaram de preço simultaneamente, segundo o gráfico. Vamos comparar trecho a trecho. De 17/jan a 22/jan: Produto 1 de 127 para 149 e Produto 2 de 140 para 145, ambos sobem. De 22/jan a 2/fev: 149 para 171 e 145 para 147, ambos sobem. De 2/fev a 14/fev: Produto 1 cai de 171 para 158, então o aumento simultâneo é interrompido. De 14/fev a 24/fev, a 18/mar, a 19/abr e a 2/maio, os dois sobem continuamente (o Produto 2 chega a 214). De 2/maio a 16/maio, o Produto 1 sobe, mas o Produto 2 cai de 214 para 205. Depois, ambos caem. Logo, os períodos são de 17/jan a 2/fev e de 14/fev a 2/maio. A alternativa A ignora a queda do Produto 1 em fevereiro. A B e a C também ignoram essa queda e incluem quedas do Produto 2. A E inclui o período em que o Produto 2 cai. Gabarito: D.",
+  "hash": "bc8d2f1a5317b2d4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q148": {
+  "explicacao": "A questão pede a área da tampa da caixa, que tem uma abertura circular ajustada à bola. A esfera tem diâmetro 30 cm, raio 15 cm, e tangencia as faces laterais, então a base da caixa é um quadrado de 30 cm de lado; a área da tampa sem furo seria 30². A bola toca o fundo, logo seu centro está a 15 cm de altura. A tampa está a 27 cm, ou seja, 12 cm acima do centro. O círculo de corte nessa altura tem raio r tal que r² + 12² = 15², então r² = 225 − 144 = 81 e r = 9 cm. A área da tampa é a do quadrado menos a da abertura: 30² − π × 9². A alternativa A dá apenas a área do furo. A B dá a área do círculo máximo da bola. A C usa raio 3, diferença de alturas mal interpretada. A E desconta o círculo máximo, como se a tampa passasse pelo centro da bola. Gabarito: D.",
+  "hash": "dd7c0780c87a0df1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q149": {
+  "explicacao": "A questão pede o diâmetro externo do pneu da miniatura, que mantém proporção com o pneu real. A razão de escala vem da largura: 7,4 ÷ 148 = 0,05, ou seja, a miniatura tem 1/20 das medidas reais. Aplicando ao diâmetro: 403 × 0,05 = 20,15 cm. Conferindo pela proporção: 7,4/148 = d/403, então d = 403 × 7,4 ÷ 148 = 2 982,2 ÷ 148 = 20,15 cm. A alternativa A (2,72) inverte a relação entre as grandezas. A B não corresponde à escala correta. A C usa uma escala diferente da obtida pela largura. A E (27,55) soma 20,15 com 7,4, misturando as medidas. Gabarito: D.",
+  "hash": "4c5662960c30d38d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q150": {
+  "explicacao": "A questão pede o caminho de menor tempo, trafegando nas velocidades máximas de cada trecho. Tempo = distância ÷ velocidade. Caminho I (90 km): 45 km a 100 km/h e 45 km a 120 km/h, tempo 0,45 + 0,375 = 0,825 h. Caminho II: 90 ÷ 70 ≈ 1,286 h. Caminho III (100 km): 30 km a 130 km/h e 70 km a 90 km/h, tempo ≈ 0,231 + 0,778 = 1,009 h. Caminho IV (80 km): 32 km a 100 km/h e 48 km a 90 km/h, tempo 0,32 + 0,533 ≈ 0,853 h. Caminho V: 120 ÷ 120 = 1 h. O menor tempo é o do caminho I, cerca de 49,5 minutos. A alternativa B tem a menor velocidade e o maior tempo. A C, apesar do trecho a 130 km/h, leva cerca de 1 h. A D é o mais curto, mas leva cerca de 51 minutos. A E tem a maior velocidade, mas também a maior distância, levando 1 h. Gabarito: A.",
+  "hash": "8ba96bb2df0286a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q151": {
+  "explicacao": "A questão pede a relação entre o comprimento H da sombra na parede e a distância X entre a haste e a chama. Os raios de luz partem da chama e passam pelas extremidades da haste até a parede, formando dois triângulos semelhantes com vértice comum na chama: um com base na haste (20 cm) e altura X, e outro com base na sombra (H) e altura 140 cm. Pela semelhança, H/20 = 140/X. Multiplicando cruzado: H × X = 20 × 140 = 2 800. Note que H e X são inversamente proporcionais: quanto mais perto da vela, maior a sombra. A alternativa A (H/X = 1/7) e a B (H/X = 7) tratam a relação como proporção direta, o que está errado. A C (700) usa metade do produto correto. A D (1 400) usa 10 cm ou 70 cm em vez de 20 cm e 140 cm. Gabarito: E.",
+  "hash": "f925a9933d2a6de8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q152": {
+  "explicacao": "A questão pede o gráfico que relaciona área florestal (eixo vertical) e área agrícola (eixo horizontal) entre 2000 e 2014, com taxa de variação constante. Taxa de variação constante entre as duas grandezas significa que a relação é linear, logo o gráfico é um segmento de reta. Além disso, de 2000 para 2014 a área agrícola aumentou de cerca de 39,9 para 55,9 milhões de ha, enquanto a florestal diminuiu de cerca de 351,4 para 317,6 milhões de ha. Assim, o ponto de 2000 fica em (≈ 40; ≈ 351), à esquerda e acima, e o de 2014 em (≈ 56; ≈ 318), à direita e abaixo: uma reta decrescente, exatamente como no gráfico da alternativa A. A alternativa B é uma reta crescente, com os anos trocados. As alternativas C e D são curvas, o que contradiz a taxa de variação constante. A E é uma curva e ainda inverte os anos. Gabarito: A.",
+  "hash": "a109d11038b822ad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q153": {
+  "explicacao": "A questão pede qual material do quadro tem a condutividade térmica calculada a partir das medições. Pelo enunciado, q = k × A × ΔT × (1/ℓ). Isolando k: k = q × ℓ ÷ (A × ΔT). Substituindo: k = 400 × 0,2 ÷ (10 × 10) = 80 ÷ 100 = 0,80 kcal/(h⋅m⋅°C). No quadro, o material com k = 0,80 é o tipo II. A alternativa A (0,25) resultaria de erro na posição da espessura. A C (1,25) corresponde ao inverso do valor correto. A D (2,00) e a E (4,00) aparecem se a espessura for dividida em vez de multiplicada, ou se a área for ignorada. Gabarito: B.",
+  "hash": "e3dee180ee8cdaef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q154": {
+  "explicacao": "A questão pede quantos mililitros a máquina deve liberar por uso após a reprogramação. Hoje, a produção diária de 12 000 mL atende 40 funcionários com 5 usos cada: 40 × 5 = 200 acionamentos, ou seja, 12 000 ÷ 200 = 60 mL por uso. Na nova situação, serão 50 funcionários com 3 usos cada: 50 × 3 = 150 acionamentos. Mantendo os 12 000 mL, cada uso deve liberar 12 000 ÷ 150 = 80 mL. A alternativa A (48) aplica as proporções de forma invertida. A C (100) não corresponde ao total de acionamentos. A D (150) é o número de acionamentos, não a quantidade por uso. A E (240) divide 12 000 apenas por 50, ignorando os 3 usos. Gabarito: B.",
+  "hash": "8d7360b32a20945b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q155": {
+  "explicacao": "A questão pede o valor do reajuste no preço para que, com desconto de 20%, o lucro por unidade continue igual. Situação inicial: custo 40 + 40 = 80 reais e venda por 120, lucro de 40 reais. Novos custos: matéria-prima 40 e custos diversos 40 × 1,5 = 60, total 100 reais. Seja P o novo preço; com desconto de 20%, a venda efetiva é 0,8P. Queremos 0,8P − 100 = 40, então 0,8P = 140 e P = 175 reais. O reajuste é 175 − 120 = 55 reais. A alternativa A (16) não considera o desconto e o aumento de custo corretamente. A B (20) é apenas o aumento dos custos diversos. A C (25) ignora o efeito do desconto. A D (50) seria o novo preço de 170, que, com 20% de desconto, daria lucro de apenas 36 reais. Gabarito: E.",
+  "hash": "841ec2dacaffd0c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q156": {
+  "explicacao": "A questão pede quantas vezes o sistema de resfriamento foi acionado. O limite de segurança é 80% da temperatura de referência: 0,8 × 50 = 40 °C. O sistema deve ser acionado sempre que a temperatura atingir ou ultrapassar 40 °C. No gráfico, as temperaturas nos dez instantes são aproximadamente: 20, 30, 45, 43, 20, 42, 35, 40, 30 e 36 °C. Atingem ou superam 40 °C os instantes 3 (45 °C), 4 (43 °C), 6 (42 °C) e 8 (40 °C, que conta por ser igual ao limite). São, portanto, 4 acionamentos. A alternativa A usa os 50 °C de referência como limite. A B não corresponde a nenhum critério coerente. A C esquece que o instante 8, exatamente em 40 °C, também aciona o sistema. A E inclui algum valor abaixo de 40 °C. Gabarito: D.",
+  "hash": "c409c9ddcb0c4172",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q157": {
+  "explicacao": "A questão pede a arrecadação de 1 138,32 milhões de dólares em notação científica. Um milhão é 10⁶, então o valor é 1 138,32 × 10⁶ dólares. Em notação científica, o coeficiente deve estar entre 1 e 10: 1 138,32 = 1,13832 × 10³. Logo, 1 138,32 × 10⁶ = 1,13832 × 10³ × 10⁶ = 1,13832 × 10⁹ dólares, cerca de 1,1 bilhão. A alternativa A considera só o número 1 138,32, esquecendo os milhões. A B usa apenas o fator 10⁶, sem ajustar o coeficiente. A C perde uma ordem de grandeza. A E acrescenta uma ordem de grandeza a mais. Gabarito: D.",
+  "hash": "fca68bb25b2ba70b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q158": {
+  "explicacao": "A questão pede quantos litros de xarope foram adicionados a 10 L de refrigerante com 15% de xarope para que a nova bebida tenha 25% de xarope. Nos 10 L, há 0,15 × 10 = 1,5 L de xarope. Adicionando x litros de xarope puro, a quantidade de xarope passa a 1,5 + x, e o volume total a 10 + x. Condição: (1,5 + x)/(10 + x) = 0,25. Então 1,5 + x = 2,5 + 0,25x, logo 0,75x = 1 e x = 1/0,75 = 4/3 L. A alternativa A (1) é a diferença 2,5 − 1,5, sem considerar que o volume total também aumenta. A C (2) e a D (5/2) superestimam a adição. A E (4) não decorre da equação. Gabarito: B.",
+  "hash": "a1e052410154c43a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q159": {
+  "explicacao": "A questão pede o termo geral da sequência de preços dos dispositivos de 32, 64, 128, 256 e 512 GB, a R$ 10,00 por GB. As capacidades são potências de 2: 32 = 2⁵, 64 = 2⁶, 128 = 2⁷, 256 = 2⁸ e 512 = 2⁹. Para n = 1, 2, 3, 4, 5, o expoente é n + 4, então a capacidade é 2ⁿ⁺⁴ e o preço é Pₙ = 10 × 2ⁿ⁺⁴. Conferindo: P₁ = 10 × 32 = 320 e P₅ = 10 × 512 = 5 120. A alternativa A dá apenas a capacidade, sem o preço por GB. A B dá 5 × 2⁷ = 640 para n = 1, o dobro do correto. A D dá 10 × 6 = 60 para n = 1. A E dá 10 × 33 = 330 para n = 1. Gabarito: C.",
+  "hash": "a47bb8bc48be1d5a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q160": {
+  "explicacao": "A questão pede quanto o cliente deve acrescentar à entrada inicial para pagar prestações de R$ 120,00 em vez de R$ 150,00. A regra informada é: cada R$ 1,00 de redução na prestação exige R$ 10,00 a mais de entrada. A redução desejada é 150 − 120 = 30 reais. Logo, o acréscimo na entrada é 30 × 10 = 300 reais, passando a entrada de R$ 500,00 para R$ 800,00. A alternativa A (100) e a B (200) subestimam o acréscimo. A D (600) dobra o valor correto. A E (800) é o valor total da nova entrada, não o acréscimo pedido. Gabarito: C.",
+  "hash": "20f62a73ae2c4c00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q161": {
+  "explicacao": "A questão pede a classificação de risco a partir do desvio padrão dos retornos 3%, 15%, 6%, 9% e 12%. Média: (3 + 15 + 6 + 9 + 12) ÷ 5 = 45 ÷ 5 = 9%. Desvios em relação à média: −6, 6, −3, 0 e 3. Quadrados: 36, 36, 9, 0 e 9, cuja soma é 90. Variância: 90 ÷ 5 = 18. Desvio padrão: √18 ≈ 4,24%. Como 4,24% < 5%, o risco é muito baixo. A alternativa B (baixo) exigiria desvio entre 5% e 10%, o que pode ocorrer se a média de 9% for confundida com o desvio padrão. A C exigiria desvio entre 10% e 20%, como a amplitude de 12%. A D e a E exigiriam desvios bem maiores, possivelmente confundindo variância com desvio padrão. Gabarito: A.",
+  "hash": "ef6368f13afca133",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q162": {
+  "explicacao": "A questão pede a unidade de medida do IMC, definido como massa dividida pelo quadrado da altura. A massa é medida em kg e a altura em m, então o quadrado da altura é dado em m². A razão fica kg/m², que, escrita com expoente negativo, é kg ⋅ m⁻². A alternativa B (kg ⋅ m⁻¹) divide pela altura, sem elevá-la ao quadrado. A C (kg ⋅ m²) multiplica em vez de dividir. A D (m ⋅ kg⁻¹) e a E (m² ⋅ kg⁻¹) invertem a razão, colocando a altura no numerador. Gabarito: A.",
+  "hash": "09dd006bd3f1c6c3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q163": {
+  "explicacao": "A questão pede o aumento da área de isolamento quando o raio passa de 30 km para 40 km, com π ≈ 3. Área inicial: 3 × 30² = 3 × 900 = 2 700 km². Área final: 3 × 40² = 3 × 1 600 = 4 800 km². Aumento: 4 800 − 2 700 = 2 100 km². É a área da coroa circular entre os dois círculos. A alternativa A (300) eleva ao quadrado apenas a diferença dos raios: 3 × 10². A C (4 800) é a área final, não o aumento. A D (7 500) soma as duas áreas. A E (14 700) não corresponde a nenhuma operação correta com os dados. Gabarito: B.",
+  "hash": "89045edef9d281fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q164": {
+  "explicacao": "A questão pede o aumento, em metro, do segmento que representa o lado do terreno ao trocar a escala de 1 : 2 500 por 1 : 1 600. O terreno é quadrado com área 360 000 m², então seu lado é √360 000 = 600 m. No mapa original: 600 ÷ 2 500 = 0,24 m. No mapa novo: 600 ÷ 1 600 = 0,375 m. Aumento: 0,375 − 0,24 = 0,135 m, que, arredondado para duas casas, é 0,14 m. A alternativa A (0,02) e a B (0,05) subestimam a diferença. A C (0,07) corresponde a cerca de metade do valor correto. A E (0,67) não considera corretamente as escalas. Gabarito: D.",
+  "hash": "7572ebb7bda62464",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q165": {
+  "explicacao": "A questão pede qual empresa oferece maior taxa de transferência com menor custo. Precisamos usar a mesma unidade: 1 MB/s = 8 Mbps. A empresa Y oferece 50 MB/s = 50 × 8 = 400 Mbps, oito vezes os 50 Mbps da empresa X. Custo por Mbps: na X, 50 ÷ 50 = R$ 1,00 por Mbps; na Y, 100 ÷ 400 = R$ 0,25 por Mbps. Assim, o custo por Mbps da Y é 1/4 do da X, e a escolha é a empresa Y. As alternativas A e B erram ao dizer que a taxa da X é maior; na verdade, é oito vezes menor. A C erra ao dizer que as taxas são iguais, confundindo megabit com megabyte. A E erra no custo: 0,25 é 1/4 de 1, e não 1/8. Gabarito: D.",
+  "hash": "2da55ce1c72ca886",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q166": {
+  "explicacao": "A questão pede a expressão do valor mensal V para consumo x maior que 5 m³. O consumidor paga a taxa mínima de R$ 40,00 mais R$ 12,00 por metro cúbico que exceder 5 m³. O excedente é (x − 5), então V = 40 + 12(x − 5) = 40 + 12x − 60 = 12x − 20. Conferindo: para x = 6, V = 72 − 20 = 52, que é 40 + 12. A alternativa B (12x − 40) subtrai a taxa mínima em vez de somá-la ao excedente. A C (12x − 60) esquece a taxa mínima de R$ 40,00. A D (12x) cobra R$ 12,00 por todo o consumo, sem a taxa. A E (52x) soma 40 e 12 e multiplica pelo consumo total. Gabarito: A.",
+  "hash": "f484326eb415e031",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q167": {
+  "explicacao": "A questão pede a mediana das taxas de pobreza de 2012 a 2021. O gráfico mostra 10 valores: 27,36; 25,48; 23,72; 24,93; 26,51; 26,79; 26,86; 26,05; 25,08 e 29,62. Em ordem crescente: 23,72; 24,93; 25,08; 25,48; 26,05; 26,51; 26,79; 26,86; 27,36; 29,62. Com 10 valores, a mediana é a média dos 5º e 6º termos: (26,05 + 26,51) ÷ 2 = 52,56 ÷ 2 = 26,28%. A alternativa A (26,00%) é um valor arredondado que não está entre os dados. A B (26,24%) não corresponde à média dos termos centrais. A D (26,65%) é a média de 26,51 e 26,79, termos centrais da lista sem ordenar. A E (26,67%) não decorre dos dados ordenados. Gabarito: C.",
+  "hash": "de6da093e2685042",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q168": {
+  "explicacao": "A questão pede o maior desvio padrão possível para a nova máquina, com média 5,6 cm, sem sair dos limites da máquina anterior. Máquina anterior: M = 5,0 e d = 1,2, então 3d = 3,6. Limites: mínimo 5,0 − 3,6 = 1,4 cm e máximo 5,0 + 3,6 = 8,6 cm. Nova máquina: o intervalo 5,6 − 3d ≤ C ≤ 5,6 + 3d deve caber entre 1,4 e 8,6. Pelo limite inferior: 5,6 − 3d ≥ 1,4, logo d ≤ 1,4. Pelo limite superior: 5,6 + 3d ≤ 8,6, logo 3d ≤ 3,0 e d ≤ 1,0. As duas condições valem juntas, então d ≤ 1,00 cm. A alternativa A (0,60) satisfaz a condição, mas não é o máximo. A C (1,12) e a D (1,2) ultrapassariam o limite superior de 8,6 cm. A E (1,80) ultrapassa os dois limites. Gabarito: B.",
+  "hash": "52377aac10e050b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q169": {
+  "explicacao": "A questão pede a probabilidade de a pessoa sorteada ser homem ou ter sido imunizada pela vacina. No grupo de 30 pessoas, há 15 homens e 15 mulheres. Imunizados: 80% das mulheres, 0,8 × 15 = 12, e 60% dos homens, 0,6 × 15 = 9. Pela união: P(homem ou imune) = P(homem) + P(imune) − P(homem e imune) = 15/30 + 21/30 − 9/30 = 27/30 = 9/10. Outra forma: os casos favoráveis são todos os 15 homens mais as 12 mulheres imunizadas, 27 de 30. A alternativa A (1/20) não decorre dos dados. A B (3/10) corresponde aos homens imunizados. A C (7/20) não usa a união corretamente. A D (8/10) soma 15 e 9 homens, contando os homens imunes duas vezes de forma inadequada. Gabarito: E.",
+  "hash": "0ff33b0958f48329",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q170": {
+  "explicacao": "A questão pede quantos objetos havia na Caixa 1 após 3 rodadas, sabendo que a Caixa 4 ficou com 30. Seja n a quantidade inicial em cada caixa. Em cada rodada, a Caixa 1 perde 2 objetos; a Caixa 2 recebe 2 e repassa 2, ficando igual; o mesmo ocorre com a Caixa 3; e a Caixa 4 ganha 2. Após 3 rodadas, a Caixa 4 tem n + 6 = 30, então n = 24. A Caixa 1 tem 24 − 6 = 18 objetos. A alternativa A (12) desconta 2 objetos a mais por rodada. A C (22) desconta apenas uma transferência. A D (24) é a quantidade inicial. A E (36) soma em vez de subtrair. Gabarito: B.",
+  "hash": "0ba43f10ea2e632a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q171": {
+  "explicacao": "A questão pede o ângulo x entre o último lance da escada e o piso superior, sabendo que os pisos são paralelos. A estratégia é medir a inclinação de cada lance em relação à horizontal. O primeiro lance sobe fazendo 32° com o piso inferior. No vértice da direita, o ângulo entre o primeiro e o segundo lance é 67°; como o primeiro já faz 32° com a horizontal, o segundo lance faz 67° − 32° = 35° com a horizontal. No vértice da esquerda, o ângulo entre o segundo e o terceiro lance é 65°; assim, o terceiro lance faz 65° − 35° = 30° com a horizontal. No topo, o terceiro lance encontra o piso superior, paralelo ao inferior, e x é o suplemento dessa inclinação: x = 180° − 30° = 150°. As alternativas A, B, C e D trazem valores entre 146°30’ e 148°00’, que resultam de somar ou subtrair os ângulos dados de forma incorreta, sem acompanhar a inclinação de cada lance. Gabarito: E.",
+  "hash": "b049aec41e82c834",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q172": {
+  "explicacao": "A questão pede o número mínimo de garçons extras em cada dia, para que nenhum intervalo fique sem atendimento. Cada garçom atende até 24 mesas por hora, então 3 garçons atendem 72 mesas por hora. Basta olhar o maior valor de cada dia na tabela. Segunda: pico de 124 mesas; 124 ÷ 24 ≈ 5,2, logo são necessários 6 garçons, 3 a mais. Terça: pico de 110; 110 ÷ 24 ≈ 4,6, logo 5 garçons, 2 a mais. Quarta: pico de 35, menor que 72, nenhum extra. Quinta: pico de 56, menor que 72, nenhum extra. Sexta: pico de 105; 105 ÷ 24 ≈ 4,4, logo 5 garçons, 2 a mais. A alternativa A usa os totais diários em vez dos picos. A B inclui a quinta-feira e subestima a segunda. A C calcula apenas 1 extra por dia. A D subestima a segunda, pois 5 garçons atendem só 120 mesas, menos que 124. Gabarito: E.",
+  "hash": "2a9a7e29ba74fb51",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q173": {
+  "explicacao": "A questão pede quantos estudantes formam a nova equipe. Seja n o número inicial de estudantes. A soma inicial das alturas é 1,66n. Com os dois novos, a soma passa a 1,66n + 1,75 + 1,85 = 1,66n + 3,60, e o número de estudantes a n + 2. A nova média é 1,67: 1,66n + 3,60 = 1,67(n + 2) = 1,67n + 3,34. Então 3,60 − 3,34 = 1,67n − 1,66n, ou seja, 0,26 = 0,01n e n = 26. A nova equipe tem 26 + 2 = 28 estudantes. A alternativa A (14) e a B (16) não satisfazem a equação das médias. A C (26) é o número inicial, antes da inclusão dos dois novos. A E (30) acrescenta estudantes além dos dois informados. Gabarito: D.",
+  "hash": "647c37b592bf5d55",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q174": {
+  "explicacao": "A questão pede o menor número de peças, de pelo menos dois tipos diferentes, cujas larguras somem exatamente 150 cm. Com 2 peças de tipos diferentes, as somas possíveis são 25 + 35, 25 + 40, ..., 60 + 75 = 135, e nenhuma dá 150; a única combinação de duas peças que dá 150 é 75 + 75, que usa um só tipo e não é permitida. Com 3 peças, encontramos 75 + 40 + 35 = 150, usando três tipos diferentes (V, III e II). Logo, o menor número é 3 peças. A alternativa A (2) exigiria duas peças de 75 cm, do mesmo tipo. As alternativas C, D e E têm mais peças do que o necessário, já que 3 peças resolvem o problema. Gabarito: B.",
+  "hash": "e0c5aac708e1a96f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q175": {
+  "explicacao": "A questão pede a vazão do novo registro. Com V(t) = 20 + 5t, a piscina já tinha 20 m³ e recebe 5 m³/h. O tempo previsto para encher os 100 m³: 20 + 5t = 100, então t = 16 h. O novo registro deve reduzir esse tempo em 4 horas, fazendo a piscina encher em t = 12 h. Às 10 h, o volume é V(10) = 20 + 50 = 70 m³. Faltam 30 m³, a serem preenchidos em 2 horas (de 10 h a 12 h), então a vazão conjunta é 30 ÷ 2 = 15 m³/h. Como o primeiro registro fornece 5 m³/h, o novo fornece 15 − 5 = 10 m³/h. A alternativa A (5) repete a vazão do primeiro registro. A B (9) não decorre das condições. A D (15) é a vazão conjunta, não a do novo registro. A E (35) não considera corretamente o volume restante. Gabarito: C.",
+  "hash": "275df93b1d3eef9d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q176": {
+  "explicacao": "A questão pede a estimativa de vendas para julho, mantendo o crescimento linear observado de março a maio. Pelo gráfico, as vendas foram 500 mil em março, 600 mil em abril e 700 mil em maio: crescimento constante de 100 mil unidades por mês. Continuando esse padrão, junho teria 800 mil e julho, 900 mil unidades. A queda real de junho (600 mil) deve ser desconsiderada, pois a estimativa foi feita antes dela. A alternativa A (500) e a B (600) repetem valores já observados. A C (700) mantém o valor de maio, sem crescimento. A D (800) é a estimativa para junho, e não para julho. Gabarito: E.",
+  "hash": "97cf38cabe1f2b7b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q177": {
+  "explicacao": "A questão pede qual orçamento corresponde à área exata dos dois muros, garantindo o menor custo sem faltar muro. Cada muro tem 40 m de comprimento e altura que varia de 2 m em uma extremidade a 2,5 m na outra, formando um trapézio. Área de um muro: (2 + 2,5)/2 × 40 = 2,25 × 40 = 90 m². Como são dois muros, a área total é 2 × 90 = 180 m². O pedreiro III orçou exatamente 180 m². A alternativa A (160 m²) usa apenas a altura de 2 m, insuficiente. A B (200 m²) usa a altura de 2,5 m em todo o comprimento, superestimando o custo. A D (90 m²) considera apenas um muro. A E (169 m²) é menor que a área necessária, de modo que a obra ficaria incompleta. Gabarito: C.",
+  "hash": "196efc3aff084590",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q178": {
+  "explicacao": "A questão pede a nota mínima do segundo candidato na terceira fase para ficar em primeiro lugar. Nota final do primeiro: NF = 0,4 × 7 + 0,1 × 7 + 0,5 × 10 = 2,8 + 0,7 + 5,0 = 8,5. Nota do segundo: NF = 0,4 × 8 + 0,1 × 8 + 0,5 × F3 = 3,2 + 0,8 + 0,5F3 = 4,0 + 0,5F3. Para empatar ou superar: 4,0 + 0,5F3 ≥ 8,5, logo 0,5F3 ≥ 4,5 e F3 ≥ 9,0. Com F3 = 9,0 há empate em 8,5, e o desempate favorece o segundo, que tem nota maior na primeira fase (8,0 contra 7,0). Ele também cumpre a nota mínima de 6,0 em todas as fases. A alternativa A (2,0) e a B (4,0) estão abaixo do mínimo de 6,0 e não alcançam 8,5. A C (6,0) daria NF = 7,0. A E (9,5) garante a vitória, mas não é o mínimo. Gabarito: D.",
+  "hash": "3b23794c588f6faf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q179": {
+  "explicacao": "A questão pede quanto a equipe Profissional vendeu a mais que a Iniciante, somando apenas os dias em que vendeu pelo menos o dobro. Pelo gráfico: dia 1, 20 contra 10 (20 ≥ 20, sim); dia 2, 15 contra 20 (não); dia 3, 25 contra 15 (precisaria de 30, não); dia 4, 30 contra 20 (precisaria de 40, não); dia 5, 50 contra 15 (sim); dia 6, 35 contra 25 (não); dia 7, 60 contra 40 (precisaria de 80, não). Os dias pesquisados são 1 e 5. Diferenças: 20 − 10 = 10 e 50 − 15 = 35, total 45 unidades. A alternativa A (10) considera só o dia 1, esquecendo o dia 5. A B (20) não corresponde às diferenças. A C (35) considera só o dia 5, ignorando o dia 1, em que a venda foi exatamente o dobro. A E (90) soma diferenças de outros dias. Gabarito: D.",
+  "hash": "c2f07f08640db0e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q180": {
+  "explicacao": "A questão pede quantos obstáculos o robô toca até sair da sala. Regras: cinza gira 90° no sentido horário, alaranjado 90° no anti-horário e azul 180°. Partindo para cima, o robô toca: 1) obstáculo alaranjado no topo, vira para a esquerda; 2) alaranjado na parede esquerda, vira para baixo; 3) alaranjado no degrau horizontal, vira para a direita; 4) alaranjado na parede da direita, vira para cima; 5) azul no topo, volta para baixo; 6) cinza no piso inferior, vira para a esquerda; 7) azul na parede esquerda inferior, volta para a direita; 8) alaranjado na parede direita inferior, vira para cima; 9) alaranjado no teto do recuo da direita, vira para a esquerda; 10) alaranjado na parede vertical, vira para baixo; 11) alaranjado no obstáculo interno horizontal, vira para a direita e sai pela abertura. São 11 toques. As alternativas B, C e D interrompem a contagem antes da saída, como se o robô encontrasse a abertura mais cedo. A E considera apenas o primeiro toque. Gabarito: A.",
+  "hash": "1447692ced765313",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q91": {
+  "explicacao": "A questão pede o motivo físico pelo qual pintar o telhado de branco melhora o conforto térmico dentro das casas. O ponto central é a interação da radiação solar com a superfície: cores escuras absorvem grande parte da radiação incidente e se aquecem, enquanto superfícies brancas refletem a maior parte dela. Ao pintar o telhado de branco, aumenta-se a refletividade (albedo) e, consequentemente, diminui a fração de energia solar absorvida pelo telhado. Com menos energia absorvida, o telhado esquenta menos, transmite menos calor para o interior da residência e também irradia menos calor para o ambiente urbano. Por isso a alternativa correta é a que fala em redução da absorção de radiação solar. A alternativa A está errada porque a tinta não altera de modo relevante a capacidade térmica do telhado. A B erra porque a convecção abaixo do telhado é consequência, não o mecanismo da pintura. A C inverte o efeito: a tinta branca aumenta a reflexão, não a reduz. A E está errada porque a condução através do material depende do próprio material, e não da cor da superfície. Gabarito: D.",
+  "hash": "94f446e5b5342064",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q92": {
+  "explicacao": "A questão pede a causa comum das enchentes em grandes centros urbanos, a partir do caso do Rio Tietê, cuja vazão aumentou muito ao longo do século XX, mesmo com obras de alargamento e aprofundamento da calha. O dado importante é esse aumento de vazão: mais água chega ao rio em menos tempo. Isso acontece porque, com a urbanização, o solo é coberto por asfalto, concreto e construções, tornando-se impermeável. A água da chuva, que antes infiltraria no solo e abasteceria o lençol freático lentamente, passa a escoar superficialmente e rapidamente para galerias e rios, que transbordam. Assim, a impermeabilização do solo é a causa comum das enchentes em diversas cidades. A alternativa A está errada porque a industrialização, por si só, não explica o aumento do escoamento superficial. A B erra porque transposição de rios não é fenômeno comum às cidades com enchentes. A D trata de poluição química, que não aumenta a vazão. A E descreve excesso de nutrientes na água, problema de qualidade, e não de volume. Gabarito: C.",
+  "hash": "9c90efa708509ea7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q93": {
+  "explicacao": "A questão pede o principal impacto ambiental do descarte de células fotovoltaicas. Embora a energia solar seja limpa durante a operação, os painéis contêm, além do silício, metais e outros componentes potencialmente tóxicos, como chumbo em soldas, cádmio e telúrio em algumas tecnologias, prata e outros elementos. Quando descartados de forma inadequada, em lixões ou aterros comuns, essas substâncias podem ser lixiviadas pela água da chuva e contaminar o solo e, a partir dele, as águas subterrâneas. Por isso o principal impacto do descarte é a contaminação do solo. A alternativa B está errada porque os materiais das placas não são radioativos. A C erra porque as placas descartadas não emitem radiação ultravioleta; elas apenas absorvem luz quando em funcionamento. A D não procede, pois o descarte não provoca aquecimento significativo do solo. A E está errada porque os componentes descartados não liberam gases de efeito estufa de forma relevante. Gabarito: A.",
+  "hash": "cee2d097e98bbb36",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q94": {
+  "explicacao": "A questão pede a vantagem da vacinologia reversa sobre os métodos tradicionais de produção de vacinas. No texto, os pesquisadores rastrearam o genoma do vírus por bioinformática, identificaram uma proteína capaz de induzir resposta imune e a produziram de forma recombinante, junto com DNA. Ou seja, partiram da informação genética, e não do patógeno inteiro. Nos métodos tradicionais, é preciso cultivar o agente infeccioso em laboratório e depois atenuá-lo ou inativá-lo, processo demorado, caro e, no caso do HIV, arriscado e difícil. Na vacinologia reversa, essa etapa é eliminada: basta conhecer o genoma e produzir o antígeno em sistemas recombinantes. A alternativa A descreve a vacina atenuada tradicional, que exige o agente vivo. A C também descreve microrganismos modificados, justamente o que a nova técnica dispensa. A D está errada porque a vacina usa proteínas do agente como antígeno. A E descreve os toxoides, outro tipo tradicional de vacina. Gabarito: B.",
+  "hash": "f207cf651c9a902b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q95": {
+  "explicacao": "A questão pede o nome do conceito biológico descrito no texto: diferenças marcantes entre machos e fêmeas da mesma espécie, como tamanho corporal maior, plumagem mais colorida e ornamentos nos machos de algumas aves. Esse fenômeno é chamado de dimorfismo sexual, isto é, a existência de duas formas distintas de acordo com o sexo. Em geral, ele está relacionado à seleção sexual: características chamativas dos machos aumentam as chances de serem escolhidos pelas fêmeas ou de vencerem disputas com outros machos. A alternativa A está errada porque camuflagem é a semelhança com o ambiente para não ser percebido, o oposto de cores chamativas. A B erra porque metamorfose é a mudança de forma ao longo do desenvolvimento de um indivíduo. A D se refere à diferenciação de populações ao longo da evolução, originando grupos distintos. A E trata de barreiras que impedem o cruzamento entre populações ou espécies, não de diferenças entre sexos. Gabarito: C.",
+  "hash": "0c94441525d51beb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q96": {
+  "explicacao": "A questão pede uma medida preventiva contra a febre maculosa. O texto informa que a doença é causada pela bactéria Rickettsia rickettsii e transmitida pela picada do carrapato Amblyomma, que tem capivaras e cavalos como principais hospedeiros. Portanto, o elo da cadeia de transmissão a ser combatido é o vetor, o carrapato. O controle desse vetor, inclusive por métodos biológicos (uso de inimigos naturais, como fungos e predadores, e manejo dos hospedeiros e do ambiente), reduz a população de carrapatos e, consequentemente, o contato com seres humanos. A alternativa A está errada porque tratar doentes é medida terapêutica, que não impede novas transmissões, já que a doença não passa de pessoa a pessoa. A B se aplica a insetos voadores, como mosquitos, e não a carrapatos. A C é útil contra roedores e baratas, não contra carrapatos. A E é medida contra o Aedes aegypti, cujas larvas se desenvolvem em água parada. Gabarito: D.",
+  "hash": "7a72f4292718451b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q97": {
+  "explicacao": "A questão pede qual agente teria exercido a pressão seletiva que favoreceu o surgimento das ráfides, agulhas de oxalato de cálcio presentes na comigo-ninguém-pode. O dado decisivo é o tempo: o grupo surgiu há cerca de 40 milhões de anos, e as ráfides são liberadas quando as células são danificadas, causando lesões e intoxicação em quem mastiga a planta. Trata-se, portanto, de uma defesa química e mecânica contra herbivoria. Os herbívoros que mais danificavam essas plantas ao longo da história evolutiva foram os insetos, que já existiam e se alimentavam de plantas muito antes desse período; plantas com ráfides sofriam menos ataques e deixavam mais descendentes. A alternativa A e a D não fazem sentido, pois temperatura e solo não danificam células nem explicam uma defesa que fere quem come a planta. A B e a E estão erradas porque animais domésticos e seres humanos surgiram muito depois, sendo vítimas acidentais e não agentes seletivos. Gabarito: C.",
+  "hash": "095afb76a9b51fcb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q98": {
+  "explicacao": "A questão pede medidas de prevenção da leptospirose em áreas urbanas. O texto mostra dois pontos essenciais: a bactéria penetra ativamente pela pele e mucosas em contato com água, solo ou alimentos contaminados com urina de animais infectados, e os principais reservatórios urbanos são os ratos. Assim, a prevenção envolve evitar o contato com água potencialmente contaminada, como a de enchentes e esgotos, e controlar a população de roedores, o que se faz principalmente dando destino adequado ao lixo, que lhes serve de alimento e abrigo. A alternativa C reúne exatamente essas duas medidas. A alternativa A está errada porque a doença não é transmitida pelo ar, e máscara não ajuda. A B traz lavar as mãos e capinar terrenos, medidas parciais que não atacam a principal via de contágio, a água de enchentes. A D foca apenas na ingestão, ignorando a penetração pela pele. A E está errada porque repelentes servem contra insetos vetores, e a leptospirose não tem inseto vetor. Gabarito: C.",
+  "hash": "28e965ff307921b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-segunda-d2-q99": {
+  "explicacao": "A questão pede qual fator de diferenciação gerou células com as características de cardiomiócitos, as fibras musculares estriadas cardíacas. O quadro informa, para cada fator, o número de núcleos e os componentes intracelulares mais abundantes. As células do músculo cardíaco são mononucleadas ou binucleadas, e não multinucleadas como as fibras esqueléticas. Além disso, por contraírem-se continuamente, precisam de muita energia, o que exige grande quantidade de mitocôndrias, e possuem abundantes filamentos de actina (e miosina), responsáveis pela contração. O fator IV produziu células mono ou binucleadas, ricas em mitocôndrias e filamentos de actina, exatamente o perfil procurado. O fator I gera células com muito REG, típico de células secretoras de proteínas, e mononucleadas. O fator II também indica célula secretora, sem destaque para actina. O fator III tem mitocôndrias e REL, mas sem filamentos de actina, insuficiente para contração. O fator V produz células multinucleadas, característica do músculo estriado esquelético. Gabarito: D.",
+  "hash": "1c465c0fd02ffa0a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
