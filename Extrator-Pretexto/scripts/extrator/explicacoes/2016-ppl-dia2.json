@@ -29,6 +29,381 @@
   "hash": "67b808d6ade70acc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2016-ppl-d2-q106": {
+  "explicacao": "A questão pede que se interprete a reação da mãe-professora diante do filho que joga um game em japonês. Ela ia cobrar dele dificuldade de leitura, mas percebe que o garoto lê de outro jeito: usa a “lógica de jogo”, testa ícones, apoia-se no conhecimento prévio da história e assim tudo faz sentido mesmo numa língua que ele não domina. A mãe, “capturada por outros sentidos de leitura”, suspende a conversa porque não se sente pronta para lidar com essa forma de ler. O desafio, portanto, é o de compreender e incorporar as novas práticas de leitura que surgem com a tecnologia, o que corresponde à alternativa C. A alternativa A está errada porque o texto mostra justamente que as formas de ler o impresso não dão conta do digital. A B fala em interpretar informações multimídia, mas quem tem dificuldade não é o filho, que interpreta bem o jogo. A D culpa os jogos pelas dificuldades, ideia que o texto relativiza. A E propõe usar a tecnologia como ferramenta didática, o que o texto não discute. Gabarito: C.",
+  "hash": "0846fa8447dcde27",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q107": {
+  "explicacao": "A questão pede o sentido crítico do cartum Miopia, que imita uma tabela de exame de vista. Na linha de cima, enorme e nítido, está o cifrão; abaixo, em tamanho menor, um homem e uma mulher; depois, cada vez menores e mais borrados, rinoceronte, árvore, panda e vários outros animais, até ficarem ilegíveis. A metáfora da miopia indica uma visão que só enxerga bem o que está em primeiro plano: o dinheiro. Os seres vivos, especialmente animais e plantas, vão perdendo nitidez, ou seja, importância. O cartum denuncia, assim, uma hierarquia de valores que coloca o dinheiro acima da vida, o que corresponde à alternativa C. A alternativa A fala do papel dos animais na produção de riquezas, tema que a imagem não aborda. A B trata de custo de manutenção da vida, ideia ausente. A D menciona distanciamento entre homem e natureza, mas o foco é a escala de valores com o dinheiro no topo. A E inventa um antagonismo entre homens e mulheres, que aparecem lado a lado no mesmo nível. Gabarito: C.",
+  "hash": "0ca0ad1169987a90",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q108": {
+  "explicacao": "A questão pede o traço do estilo de Guimarães Rosa presente no fragmento de O burrinho pedrês. O trecho descreve a boiada em marcha e o trabalho dos vaqueiros, e a linguagem imita esse movimento: há aboios (“Eh, boi lá! Tou! Tou!”), frases longas e ritmadas que lembram o balanço das ancas e das “vagas de dorsos”, a quadrinha popular e, sobretudo, as aliterações (“Boi bem bravo, bate baixo, bota baba, boi berrando”; “Vai, vem, volta, vem na vara”). Os sons em b, d e v reproduzem o tropel e o vaivém do rebanho. Assim, o fluir da boiada e dos peões é expresso por recursos sonoros e lexicais, como diz a alternativa E. A alternativa A está errada porque o efeito buscado é expressivo e poético, não de simples verossimilhança. A B fala em confluência com sons da natureza, mas o que se imita é o gado e o aboio, não a natureza em geral. A C aponta personificação como recurso principal, o que não ocorre. A D reduz o estilo à reprodução da fala regional, quando Rosa a recria artisticamente. Gabarito: E.",
+  "hash": "6ebae206181838cf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q109": {
+  "explicacao": "A questão pede a principal característica da nova linguagem das bulas, segundo o texto. O título já resume a ideia: trocar “parestesia” por “formigamento”, isto é, traduzir o jargão farmacêutico para o português falado pela população. O guia elaborado para a Anvisa defende redação clara, concisa e acessível, manda abolir a linguagem técnica que constrange quem não a entende e pede que o texto não abra margem a interpretações. Tudo isso aponta para a adequação ao leitor não especializado, o paciente comum, como afirma a alternativa C. A alternativa A está errada porque o texto diz que na bula não há espaço para inovações de estilo. A B fala em refinamento da linguagem farmacêutica, quando a proposta é justamente abandoná-la. A D sugere detalhamento, mas a regra é a concisão: não fazer o leitor perder tempo. A E confunde clareza com informalidade; o tom deve ser cordial e educado, com fórmulas repetitivas que dão força institucional. Gabarito: C.",
+  "hash": "4af953549cc11160",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q110": {
+  "explicacao": "A questão pede o que o texto revela sobre a relação entre evolução tecnológica e vida social. O autor mostra que o telefone foi reunindo outras funções, como e-mail, notícias, música e mensagens de texto, e que esta última passou a servir de suporte para uma nova forma de sociabilidade: o flash mob, mobilização relâmpago em que pessoas se encontram para fazer uma encenação na cidade. Ou seja, a sociedade se apropria de uma tecnologia e cria com ela uma prática social nova, o que corresponde à alternativa E. A alternativa A está errada porque não é o acúmulo de informações que gera a sociabilidade, e sim o uso criativo das mensagens. A B inverte a relação de causa descrita no texto. A C exagera ao falar de mobilizações de grandes massas, já que o flash mob é uma encenação pontual. A D afirma que a integração de meios pressupõe desenvolvimento social, ideia que o texto não sustenta. Gabarito: E.",
+  "hash": "b0b91f9d809707df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q111": {
+  "explicacao": "A questão pede a obra que dialoga com os elementos regionais que influenciaram o baião, ritmo nascido no Nordeste a partir do lundu e marcado por manifestações locais, popularizado por Luiz Gonzaga. Entre as opções, a única ligada diretamente ao universo cultural nordestino é a escultura em barro Lampião a cavalo, de Mestre Vitalino, artista de Caruaru (PE). Ela retrata o cangaceiro, figura emblemática do sertão, numa técnica de arte popular típica da região, o figurado de barro. Por isso, a alternativa D é a correta. A alternativa A, de Heitor dos Prazeres, representa o samba carioca, ligado ao Rio de Janeiro. A B mostra uma cena de trabalho urbano sem vínculo específico com o Nordeste. A C retrata a Folia de Reis, festa religiosa difundida em várias regiões, sem relação direta com o baião. A E, de Almeida Júnior, retrata o caipira paulista do interior, outro universo regional. Gabarito: D.",
+  "hash": "bffa70fa4428dc43",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q112": {
+  "explicacao": "A questão pede a função de “entendeu?” e “né?” na fala transcrita de J. L. Esses termos são marcadores conversacionais: o falante os usa para checar se o ouvinte acompanha o raciocínio, buscar sua concordância e manter o canal de comunicação aberto. Eles aparecem ao fim de cada ideia (“o país só cresce através da educação... entendeu?”), como pequenos apelos ao interlocutor. Assim, indicam que o enunciador interpela quem o ouve para manter o fluxo comunicativo, conforme a alternativa C. A alternativa A está errada porque a oralidade tem recursos próprios, como esses marcadores, entonação e pausas. A B considera os termos irrelevantes, quando eles cumprem justamente papel na interação. A D supõe que o tema é complexo e desconhecido do entrevistador, algo que o trecho não indica. A E atribui as ocorrências à insegurança causada pelo gênero entrevista, mas elas são traço comum da fala espontânea em qualquer situação. Gabarito: C.",
+  "hash": "8c438872c87fcabd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q113": {
+  "explicacao": "A questão pede o sentido da expressão “a água está no joelho” no texto. Em linguagem figurada, dizer que a água chegou ao joelho significa que a situação está ficando crítica e exige providência rápida, antes que piore. O texto mostra que as fragilidades em língua portuguesa levaram profissionais de diversas áreas a buscar cursos de reciclagem, porque precisam escrever relatórios, cartas e comunicados e se expressar de forma convincente em reuniões. A expressão, portanto, remete à necessidade imediata de aperfeiçoar as habilidades comunicativas, como afirma a alternativa E. A alternativa A está errada porque o texto diz que o conhecimento técnico já existe; falta saber comunicá-lo. A B restringe o problema a professores e advogados, citados apenas como exemplos de quem escreve mais. A C fala em aprendizado de línguas, mas a procura é por reciclagem em português. A D é genérica e não capta a ideia de urgência contida na expressão. Gabarito: E.",
+  "hash": "36820c98c9ef7423",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q114": {
+  "explicacao": "A questão pede a conclusão a que as perguntas da autora conduzem o leitor. Ela pergunta por que não se reconhece norma nas variedades populares, se isso serve para desqualificá-las e por que só a norma da elite é reconhecida, acrescentando “não por acaso”. As interrogações são retóricas: sugerem que a desvalorização das variedades populares não é natural nem linguística, mas tem motivação social, ligada ao poder das classes dominantes. Essa é a tese defendida, expressa na alternativa E. A alternativa A trata de uma informação secundária do texto, não do ponto a que as perguntas levam. A B aparece no texto como afirmação, mas é argumento de apoio, não a conclusão das interrogações. A C descreve o fato questionado pela autora, sem a crítica sobre seu motivo. A D, como a A, repete uma constatação do último parágrafo, sem relação direta com as perguntas iniciais. Gabarito: E.",
+  "hash": "c9c06f5cc32cca40",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q115": {
+  "explicacao": "A questão pede a atitude da narradora diante do vocabulário da moça de Montes Claros. A princípio, as meninas ficam admiradas com o jeito “correto” de falar da visitante, e Iaiá a elogia e a apresenta como modelo. No jantar, porém, a narradora e as primas passam a repetir a expressão rebuscada em situações banais (“Aprecio sobremaneira as batatas fritas”, “Aprecio sobremaneira uma coxa de galinha”), com a intenção declarada de enfezar Iaiá. Levar o vocabulário formal para o ambiente familiar e cotidiano produz efeito cômico e revela ironia, como diz a alternativa B. A alternativa A fala em descaso e desaprovação, mas a narradora não rejeita a língua formal, ela brinca com o exagero. A C ignora que a admiração inicial se transforma em zombaria. A D atribui à narradora inveja dos elogios, o que o texto não mostra. A E fala em indignação contra as atitudes da moça, que não são contestadas. Gabarito: B.",
+  "hash": "8ccf0ff3c259b828",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q116": {
+  "explicacao": "A questão pede o estilo a que pertence Napoleão cruzando os Alpes, de Jacques-Louis David, pintado em 1801. A tela mostra Napoleão sereno, montado num cavalo empinado, apontando para o alto, com manto esvoaçante e o nome gravado nas pedras ao lado de Aníbal e Carlos Magno. Historicamente, ele atravessou os Alpes numa mula, em condições bem menos heroicas. David, pintor oficial do regime, constrói uma imagem idealizada do líder, a serviço da propaganda do poder. Essa é uma marca da pintura neoclássica de caráter histórico e oficial: idealizar acontecimentos segundo a ótica dos grupos dominantes, o que corresponde à alternativa D. A alternativa A está errada porque a técnica é a tradicional óleo sobre tela, sem inovação de suporte. A B fala da percepção popular, quando a obra expressa a visão do poder. A C sugere caricatura, mas a pintura é solene e grandiosa. A E menciona visão crítica, enquanto a tela é exaltação. Gabarito: D.",
+  "hash": "7ed45ffec80f342b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q117": {
+  "explicacao": "A questão pede a correspondência entre modernização e procedimento estético no poema de Raul Bopp. O texto trata da necessidade de construir rodovias, com vocabulário quase de relatório administrativo, e termina exortando: “Costurar o país com estradas alegres, desligadas de horários. Livres e cheias de sol como um verso moderno!”. A comparação final explicita a relação: as estradas desejadas são livres como o verso modernista, que abandonou métrica e rima fixas. O próprio poema é escrito em versos livres, de tamanhos variados. Assim, a defesa da expansão das estradas corresponde à liberdade formal dos versos, como diz a alternativa E. A alternativa A fala em fragmentação da linguagem, mas o eixo da comparação é a liberdade, não a fragmentação. A B aponta inovação vocabular, que não é o recurso central. A C menciona oposição à realidade rural, mas o poema fala até em “ritmo de ruralização”. A D cita subjetividade, ausente num texto de tom objetivo. Gabarito: E.",
+  "hash": "dda123e69b9d16d7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q118": {
+  "explicacao": "A questão pede a necessidade destacada pelo cartaz sobre mobilidade urbana. A imagem mostra, sobre a silhueta de uma cidade, quatro meios de transporte lado a lado: carro, ônibus, trem ou metrô e bicicleta, acompanhados da frase “A mobilidade precisa de diversidade”. A mensagem é que o deslocamento nas cidades depende da combinação de vários modais, e não da escolha de um só. Por isso, a alternativa A, que fala em incorporar meios de transporte diversos para viabilizar o deslocamento urbano, é a correta. A alternativa B introduz baixo custo e impacto ambiental, temas que o cartaz não menciona. A C restringe a solução ao transporte coletivo, mas o carro e a bicicleta também aparecem. A D propõe privilegiar meios alternativos, quando a ideia é a convivência de todos, sem hierarquia. A E sugere evitar transportes motorizados, o que contraria a presença do carro, do ônibus e do trem na imagem. Gabarito: A.",
+  "hash": "0709357cd5656c41",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q119": {
+  "explicacao": "A questão pede o elemento que caracteriza a função metalinguística no texto Pedra sobre pedra. Metalinguagem é a linguagem voltada para o próprio código, ou seja, quando o texto explica o sentido de palavras. É o que acontece quando o autor define “taipas” como “muros de pedra para cercar o gado” e “mangueirão” como “uma espécie de curral onde os animais ficavam confinados à noite”. Essas definições de termos regionais são o traço metalinguístico, conforme a alternativa D. A alternativa A trata de tempos verbais, recurso ligado à narração e à informação, não ao código. A B aponta frases simples e um suposto ditado, que não esclarecem o sentido de palavras. A C descreve a linguagem impessoal e objetiva, típica da função referencial, e não da metalinguística. A E menciona adjetivos que revelam ponto de vista, o que se aproxima da função emotiva, e não da metalinguagem. Gabarito: D.",
+  "hash": "6df5cff012a7de93",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q120": {
+  "explicacao": "A questão pede o papel das expressões “Até outro dia” e “agora” na progressão do texto. Elas são marcadores temporais que organizam um contraste: “até outro dia”, a crítica literária era exclusividade de um grupo fechado; “agora”, com a revolução digital, leitores conversam, trocam ideias com autores e participam da construção de obras. O texto, portanto, opõe dois momentos, o anterior e o posterior à revolução digital, como diz a alternativa C. A alternativa A está errada porque as expressões indicam tempo, não perfil social. A B fala em limite etário, ideia que não aparece nesses marcadores, ainda que a leitora citada tenha 32 anos. A D menciona urgência e rapidez, mas os termos apenas delimitam épocas. A E trata de alcance territorial, noção espacial, não temporal. Gabarito: C.",
+  "hash": "ca6501bd980e0244",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q121": {
+  "explicacao": "A questão pede o que a história da palavra “brega” mostra sobre a formação do léxico. O texto parte do nome do marechal Schönberg, aportuguesado como Chumbergas, que vira o apelido Chumbregas de um governador de Pernambuco; daí surgem xumbrega, “coisa ruim”, e xumbregar, “embriagar-se” e depois “bolinar”, até chegar à forma reduzida “brega”, usada para lugares de bebida e música cafona. Todas essas mudanças nascem de apelidos, brincadeiras e usos cotidianos, ou seja, da língua falada pelas pessoas no dia a dia. Isso evidencia a interação oral como agente de transformação do léxico, como afirma a alternativa A. A alternativa B fala em compreensão limitada de sons, explicação que o texto não oferece. A C menciona eleição de palavras frequentes, quando a palavra surge de um caso particular. A D atribui papel à documentação histórica, que só registra, não provoca a mudança. A E sugere padronização intencional, oposta à mudança espontânea descrita. Gabarito: A.",
+  "hash": "a101a968ce05d1d0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q122": {
+  "explicacao": "A questão pede o fato em que se apoia a crítica ao uso do outdoor. A notícia relata que uma empresa derrubou uma árvore centenária para instalar placas que, ironicamente, exibiriam uma propaganda sobre preservação ambiental e o Dia da Árvore. A contradição entre a mensagem do anúncio e a destruição necessária para exibi-lo é o centro da crítica, o que gerou revolta na cidade. Por isso, a alternativa D, que aponta a substituição de uma árvore centenária por uma campanha ambiental, é a correta. A alternativa A trata do valor da multa, informação complementar. A B menciona a falta de autorização, dado relevante para a investigação, mas não o núcleo da crítica ao outdoor. A C cita a justificativa da empresa, que é consequência do fato criticado. A E fala da imagem da criança, elemento da peça publicitária que não constitui problema em si. Gabarito: D.",
+  "hash": "c336cf8552802df5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q123": {
+  "explicacao": "A questão pede exemplos, nessa ordem, de luta de contato direto e de luta que mantém o adversário a distância. Pelo texto, na primeira os lutadores permanecem agarrados, tentando empurrar, desequilibrar, projetar ou imobilizar; na segunda, mantêm distância e só fazem contato no momento do golpe. O judô é luta de agarre, com projeções e imobilizações, e o karatê é luta de golpes de mão e pé aplicados a distância. Assim, a alternativa A respeita a classificação e a ordem pedida. A alternativa B traz jiu-jítsu e sumô, ambas de contato direto. A C traz boxe e kung fu, ambas de distância. A D começa pela esgrima, que é de distância, e termina com a luta olímpica, de contato direto, ou seja, ordem invertida. A E traz Muay Thai e tae kwon do, duas lutas de golpes a distância. Gabarito: A.",
+  "hash": "69cca891e315f145",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q124": {
+  "explicacao": "A questão pede como o poema de Murilo Mendes retoma o ideário dos primeiros modernistas. O texto recria a Proclamação da República com tom cômico: Deodoro chega “nos trinques” e fala em linguagem coloquial, quase caipira (“Seu imperadô, dê o fora”), chamando o império de “bugiganga”; Dom Pedro II responde bocejando, pede só para calçar as chinelas e se preocupa apenas com suas obras de Victor Hugo. A dessacralização de um episódio histórico solene, com humor, linguagem coloquial e paródia, é marca da primeira geração modernista, como nos poemas-piada de Oswald de Andrade. Trata-se, portanto, de uma releitura irônica de um fato histórico, conforme a alternativa A. A alternativa B está errada porque não há exaltação patriótica. A C fala em denúncia de autoritarismo, mas a troca de regime ocorre de modo cordial e cômico. A D aponta isenção ideológica, quando a ironia já é uma tomada de posição. A E sugere saudosismo da monarquia, ausente no tom jocoso do poema. Gabarito: A.",
+  "hash": "0fd3d06e63b5bbba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q125": {
+  "explicacao": "A questão pede o principal recurso usado por Mario Quintana para construir a imagem da adolescência. O poema associa essa fase ao medo fascinante de descobrir o mundo e, ao final, atribui à vida características humanas: as folhas contam um segredo e a vida “é nova e anda nua”, “vestida apenas com o teu desejo”. A vida aparece como um ser que caminha, se mostra e se veste, ou seja, é personificada, e é essa figura que traduz o encanto e a novidade que o adolescente encontra. Por isso, a alternativa C é a correta. A alternativa A fala em hipérbole do medo, mas o medo é descrito com nuances, não exagerado. A B cita a estátua, que aparece só para caracterizar o tipo de medo que o poema rejeita. A D aponta antítese entre juventude e velhice, oposição que não estrutura o texto. A E menciona comparação entre desejo e nudez, mas o desejo é a roupa da vida personificada, não termo de comparação. Gabarito: C.",
+  "hash": "8a588547249bda3a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q126": {
+  "explicacao": "A questão pede como o poema marca a resistência de Maria Diamba à escravidão. Observe o papel da fala ao longo do texto: primeiro ela fala para não apanhar, dizendo que sabe fazer bolos, e vira “cozinha”; depois “não falou mais” e foi explorada de todas as formas, até gerar “molecas para a Casa-Grande”. Por fim, ela volta a falar, sozinha, diante da ventania que vem do Sudão, e diz que quer fugir dos senhores e das judiarias para o sumidouro. A retomada da voz coincide com a decisão de escapar da opressão, de tomar o próprio destino nas mãos, mesmo que seja pelo desaparecimento. Essa relação entre a fala e o desejo de decidir o próprio destino é a da alternativa A. A alternativa B cita a exploração sexual, que é parte da opressão, não da resistência. A C fala em ascensão social, mas a cozinha foi apenas estratégia para evitar castigos. A D reduz o vento a prazer e esperança de retorno, o que o poema não afirma. A E introduz o medo da morte, ausente no texto. Gabarito: A.",
+  "hash": "3d6e3e38a750d18f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q127": {
+  "explicacao": "A questão pede o que o dançarino alcança quando atua a partir do “vazio”. Segundo o texto, se a sensação já foi toda preparada, o trabalho está acabado; no momento do vazio, “é o seu corpo que está dizendo algo, não é você”, e é aí que algo chega a quem assiste. A ideia é que o artista deixa de controlar racionalmente a cena e vai além de si mesmo, permitindo que o corpo se expresse livremente. Isso é a transcendência de si, alternativa B. A alternativa A fala em inércia, mas o texto pede que o dançarino continue justamente quando pensa em desistir. A C valoriza o preparo, enquanto o autor diz que a coreografia e o trabalho prévio importam menos. A D afirma ausência de comunicação, contrariando a ideia de que nesse momento algo chega ao público. A E fala em consciência do movimento, mas o corpo age além do controle consciente. Gabarito: B.",
+  "hash": "c0b071f4c89af09b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q128": {
+  "explicacao": "A questão pede a função da charge (Texto II) em relação à notícia (Texto I). A notícia informa que 280 novos veículos chegam por dia às ruas do Espírito Santo e que a frota deve dobrar até 2025. Na charge, uma professora pergunta ao aluno onde dois corpos podem ocupar o mesmo espaço ao mesmo tempo; ele responde mostrando um jornal com a manchete “280 carros a mais por dia no estado”. O humor nasce de um princípio da física, segundo o qual isso é impossível, aplicado ao trânsito: com tantos carros, as ruas ficariam tão saturadas que parece que os veículos disputam o mesmo espaço. É uma crítica satírica às consequências do aumento da frota, como diz a alternativa D. A alternativa A está errada porque a charge não trata de medidas do governo. A B fala em alternativa para resolver o problema, que não aparece. A C fala em dificuldade de solução imediata, ideia não explorada. A E atribui culpa ao transporte coletivo, ponto mencionado só no Texto I. Gabarito: D.",
+  "hash": "621187c532f1ad0f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q129": {
+  "explicacao": "A questão pede o fator que alimenta o comportamento obsessivo mostrado nos quadrinhos de Maitena. Em cada quadro, uma pergunta oferece algo valorizado socialmente: ser linda, jovem, elegante, bem-sucedida, famosa, milionária, encontrar o homem da vida, ser feliz. A resposta das mulheres é sempre a mesma: “Ser magra”. No último quadro, quando perguntam o que é mais importante do que ser magra, a resposta é “não ter celulite!!”. A repetição mostra que o corpo magro se tornou um objetivo superior a qualquer outro, um padrão estético imposto pela sociedade e desejado de forma obsessiva. Isso corresponde à alternativa C. A alternativa A está errada porque a saúde não aparece em nenhum momento; o foco é a aparência. A B fala em controle feminino sobre o ideal estético, quando as personagens são submetidas a ele. A D e a E supõem uma postura crítica ou reflexiva das mulheres, mas os quadrinhos mostram justamente a adesão sem questionamento. Gabarito: C.",
+  "hash": "ae435a57510d74e6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q130": {
+  "explicacao": "A questão pede o objetivo do projeto dos “dicionários falantes”. O linguista explica que a maioria das línguas do mundo é oral, que os projetos tradicionais escrevem gramáticas e dicionários, mas que eles preferem pensar em línguas vivas, faladas pelas pessoas; por isso, o dicionário deve poder ser ouvido. O material serve para ativistas transmitirem a língua aos mais jovens. Ou seja, o projeto reafirma a oralidade como meio de manter essas línguas vivas, o que corresponde à alternativa B. A alternativa A fala em reconstituir línguas extintas, mas o projeto trata de línguas ameaçadas, ainda faladas. A C apenas constata o risco de desaparecimento, sem indicar o objetivo do trabalho. A D aposta em registros escritos, o oposto da proposta. A E fala em estimular gramáticas e dicionários tradicionais, prática da qual os autores se diferenciam. Gabarito: B.",
+  "hash": "cf7b1c631a0f3607",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q131": {
+  "explicacao": "A questão pede a função argumentativa da citação do Inpe no texto. O texto afirma que o Brasil recebe 100 milhões de raios por ano, número superior ao de qualquer outro país e bem acima das estimativas antigas de 30 milhões. Para sustentar um dado tão impressionante, o autor informa que ele foi divulgado por cientistas do Instituto Nacional de Pesquisas Espaciais e conclui: “Agora, sabemos com segurança”. Citar uma instituição especializada é um argumento de autoridade, que dá credibilidade aos resultados da pesquisa, como diz a alternativa D. A alternativa A fala em prevenção de danos, tema ausente do texto. A B confunde a estratégia com o conteúdo: o instituto não traz estimativas, e sim dados que superam as estimativas. A C menciona consequências das descargas, que não são discutidas. A E descreve uma comparação presente no texto, mas que não é a função da citação do instituto. Gabarito: D.",
+  "hash": "0b44b3ef5e74446f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q132": {
+  "explicacao": "A questão pede como o futebol é apresentado na letra da canção. O trecho reúne símbolos afetivos do torcedor, como a bandeira no estádio vista como estandarte, a flâmula no quarto e o distintivo na camisa, e exprime emoções intensas: morrer pelo time, sentir dor e chorar na derrota, berrar na vitória. O futebol aparece como paixão coletiva que mobiliza afetos e símbolos, parte da forma como o brasileiro se reconhece e se expressa. Por isso é tratado como elemento da identidade nacional, alternativa D. A alternativa A está errada porque a letra não fala de técnica. A B menciona controle da violência, tema ausente. A C fala de regras e organização, que não são abordadas. A E vê o futebol como alienação, mas a canção o celebra sem qualquer viés crítico. Gabarito: D.",
+  "hash": "a8dc4541af3ca6b0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q133": {
+  "explicacao": "A questão pede a característica que identifica o texto como divulgação científica. O trecho, publicado na revista Pesquisa Fapesp, apresenta a descoberta de uma nova espécie de crocodiliforme da família Baurusuchidae, mas explica os termos para o leitor comum: diz o que é a Bacia Bauru e onde fica, esclarece que crocodiliformes são um grupo de répteis que inclui crocodilos, jacarés e parentes extintos, e descreve os animais de forma simples. Esse é o traço essencial do gênero: tratar de descobertas da ciência com linguagem acessível ao público em geral, como afirma a alternativa D. A alternativa A está errada porque o texto não exige conhecimento especializado, ele o fornece. A B descreve o público de artigos científicos, não da divulgação. A C cita uma característica presente no trecho, mas que não define o gênero. A E fala em temas destacados em jornais não especializados, o que não caracteriza a divulgação científica. Gabarito: D.",
+  "hash": "0a12357dcdc2c2f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q134": {
+  "explicacao": "A questão pede o objetivo dos jogos teatrais na escola, segundo o texto de Ingrid Koudela. A técnica propõe aprendizagem não verbal, em que o aluno reúne seus próprios dados pela experimentação direta e conquista o conhecimento resolvendo problemas. Ou seja, o estudante é ativo: usa o corpo, os sentidos e o raciocínio para descobrir soluções, o que desenvolve qualidades cognitivas e sensoriais e favorece sua autonomia e o conhecimento de si mesmo. Essa é a alternativa D. A alternativa A está errada porque a proposta não se baseia em cópia e memorização. A B fala em obediência sem criatividade, o oposto da experimentação. A C reduz o jogo à recreação, ignorando seu valor de aprendizagem. A E coloca o professor como responsável pelas escolhas, enquanto o texto destaca o protagonismo do aluno. Gabarito: D.",
+  "hash": "b87cd7c26afdaf12",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q135": {
+  "explicacao": "A questão pede a marca romântica destacada no trecho de O ermitão de Muquém. Na fala de Guaraciaba, o amor é expresso por comparações com elementos da natureza brasileira: os favos da jataí, abelha nativa, o suco do abacaxi, a flor que estremece à brisa, a fonte do deserto entre rochedos e a flor do manacá que se abre ao sol. O uso da natureza local como fonte de imagens, sobretudo em obra de temática indianista, é traço típico do Romantismo, que buscava afirmar a cor local e a identidade nacional. Por isso, a alternativa A é a correta. A alternativa B fala em exaltação de Itajiba, que aparece só de passagem e não é o destaque do trecho. A C menciona cumplicidade entre narrador e paisagem, mas as imagens estão na fala da personagem. A D aponta idealização do cenário, que não é descrito no fragmento. A E fala em desilusão amorosa, quando o amor é correspondido. Gabarito: A.",
+  "hash": "0b838b2f17fd3325",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q136": {
+  "explicacao": "A questão pede qual impressora sai mais barata para exatamente 50 000 cópias, somando o preço da máquina ao gasto com cartuchos. Impressora A: 50 000 ÷ 1 000 = 50 cartuchos; 50 × R$ 80 = R$ 4 000; total 500 + 4 000 = R$ 4 500. Impressora B: 50 000 ÷ 2 000 = 25 cartuchos; 25 × R$ 140 = R$ 3 500; total 1 100 + 3 500 = R$ 4 600. Impressora C: 50 000 ÷ 5 000 = 10 cartuchos; 10 × R$ 250 = R$ 2 500; total 2 000 + 2 500 = R$ 4 500. A e C empatam com o menor custo, R$ 4 500, e B é a mais cara. Portanto deve-se adquirir A ou C, em vez de B, alternativa E. A alternativa A inclui B, que é a mais cara. A B indica justamente a pior opção. A C ignora o empate com C. A D ignora o empate com A. Gabarito: E.",
+  "hash": "79a101d842bc263f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q137": {
+  "explicacao": "A questão pede a escala do mapa, que é a razão entre a distância no mapa e a distância real, ambas na mesma unidade. A distância real é 25 km. Convertendo para centímetros: 1 km = 1 000 m = 100 000 cm, então 25 km = 25 × 100 000 = 2 500 000 cm. No mapa, a distância é 5 cm. Escala = 5 : 2 500 000; dividindo os dois termos por 5, obtém-se 1 : 500 000. Ou seja, cada centímetro no mapa corresponde a 500 000 cm, isto é, 5 km na realidade, o que confere: 5 cm × 5 km = 25 km. Alternativa E. A alternativa A, 1 : 5, compara números em unidades diferentes. A B, 1 : 1 000, e a C, 1 : 5 000, resultam de conversões incompletas. A D, 1 : 100 000, corresponde a apenas 1 km por centímetro, o que daria 5 km no total. Gabarito: E.",
+  "hash": "041f87a2449438b3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q138": {
+  "explicacao": "A questão pede quantas diagonais do hexágono regular IMNKPQ, além de IK, têm o mesmo comprimento de IK. Num hexágono regular há 6 × (6 − 3) ÷ 2 = 9 diagonais, de dois tamanhos: as 3 diagonais maiores ligam vértices opostos, passam pelo centro e medem o dobro do lado; as 6 menores ligam vértices separados por um único vértice e medem lado × √3. Na sequência I, M, N, K, P, Q, de I até K há três passos (I→M→N→K), então I e K são opostos e IK é uma diagonal maior. As outras diagonais maiores são MP e NQ, também ligando vértices opostos. Logo, há 2 diagonais com o mesmo comprimento de IK, alternativa B. A alternativa A esquece uma das diagonais maiores. A C e a D misturam diagonais menores na contagem. A E conta todas as 9 diagonais, que não têm o mesmo comprimento. Gabarito: B.",
+  "hash": "ba3c95c7b33a3f32",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q139": {
+  "explicacao": "A questão pede a vazão antes da reforma, sabendo que vazão = área × velocidade e que a velocidade não mudou. Antes, a seção era um quadrado de lado 2 m, com área 2² = 4 m². Depois, o lado dobrou para 4 m, e a área passou a 4² = 16 m². Como a velocidade é a mesma, a vazão é proporcional à área: a área ficou 16 ÷ 4 = 4 vezes maior, então a vazão também quadruplicou. Se agora é 400 m³/s, antes era 400 ÷ 4 = 100 m³/s. Conferindo: velocidade = 400 ÷ 16 = 25 m/s; antes, 4 × 25 = 100 m³/s. Alternativa C. A alternativa A divide por 16, confundindo o fator. A B considera fator 8. A D supõe que dobrar o lado dobra a área, erro clássico. A E não tem justificativa no cálculo. Gabarito: C.",
+  "hash": "9070169ce9106f07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q140": {
+  "explicacao": "A questão pede os ângulos do triângulo ADE, recortado de um pentágono regular ABCDE. A soma dos ângulos internos de um polígono de n lados é (n − 2) × 180°; para n = 5, (5 − 2) × 180° = 540°, e cada ângulo interno mede 540° ÷ 5 = 108°. No triângulo ADE, o ângulo z = AED é um ângulo interno do pentágono, logo z = 108°. Os lados EA e ED são lados do pentágono, portanto iguais, e o triângulo é isósceles com base AD; assim, x = y. Como a soma dos ângulos do triângulo é 180°, x + y = 180° − 108° = 72°, e x = y = 36°. Resposta: 36, 36 e 108, alternativa C. A alternativa A divide 36 por 2 indevidamente. A B não respeita a simetria do triângulo isósceles. A D usa 72° como ângulo do vértice, que é o ângulo externo do pentágono. A E supõe triângulo equilátero. Gabarito: C.",
+  "hash": "b1946ea146c93a8b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q141": {
+  "explicacao": "A questão pede o número total de hemácias N = V × C em notação científica. Temos V = 5 000 mL = 5 × 10³ mL e C = 5 200 000 hemácias/mL = 5,2 × 10⁶. Multiplicando: N = 5 × 5,2 × 10³ × 10⁶ = 26 × 10⁹. Como em notação científica o coeficiente deve ficar entre 1 e 10, escrevemos 26 = 2,6 × 10, e então N = 2,6 × 10¹ × 10⁹ = 2,6 × 10¹⁰ hemácias. Alternativa D. As alternativas A e B têm expoentes negativos, que representariam números menores que 1, absurdo para uma contagem de células. A C esquece de ajustar o expoente ao passar de 26 para 2,6. A E soma uma potência de 10 a mais. Gabarito: D.",
+  "hash": "3689825e4f11352c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q142": {
+  "explicacao": "A questão pede qual viagem teve o menor custo com combustível. Para cada motorista, identificamos o rendimento pela velocidade média, calculamos os litros (distância ÷ rendimento) e multiplicamos pelo preço. Motorista 1: 84 km/h, 12 km/L; 400 ÷ 12 ≈ 33,33 L; 33,33 × 2,80 ≈ R$ 93,33. Motorista 2: 77 km/h, 16 km/L; 432 ÷ 16 = 27 L; 27 × 2,89 = R$ 78,03. Motorista 3: 86 km/h, 10 km/L; 410 ÷ 10 = 41 L; 41 × 2,65 = R$ 108,65. Motorista 4: 74 km/h, 15 km/L; 415 ÷ 15 ≈ 27,67 L; 27,67 × 2,75 ≈ R$ 76,08. Motorista 5: 72 km/h, 15 km/L; 405 ÷ 15 = 27 L; 27 × 2,90 = R$ 78,30. O menor custo é o do motorista 4, alternativa D. A alternativa A, motorista 1, gasta cerca de R$ 93. A B, motorista 2, tem o melhor rendimento, mas o combustível mais caro o deixa em R$ 78,03. A C, motorista 3, tem o combustível mais barato, porém o pior rendimento e o maior custo. A E, motorista 5, gasta R$ 78,30. Gabarito: D.",
+  "hash": "7352a9d777358ff3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q143": {
+  "explicacao": "A questão pede o comprimento, em metros, de uma haste de 3 jardas, 2 pés e 6 polegadas. Convertendo tudo para pés: 1 jarda = 3 pés, então 3 jardas = 9 pés; 1 pé = 12 polegadas, então 6 polegadas = 6 ÷ 12 = 0,5 pé. Total: 9 + 2 + 0,5 = 11,5 pés. Como 1 pé = 1200/3937 m ≈ 0,3048 m, o comprimento é 11,5 × 1200 ÷ 3937 = 13 800 ÷ 3937 ≈ 3,5 m. Alternativa B. A alternativa A, 1,0 m, subestima muito a medida. A C, 10,0 m, aproxima apenas o número de pés. A D e a E vêm de conversões erradas, como multiplicar pela razão invertida 3937/1200 ≈ 3,28 em vez de dividir. Gabarito: B.",
+  "hash": "087a90da59fae8fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q144": {
+  "explicacao": "A questão pede o aumento percentual, de 2003 a 2008, no volume reciclado e no número de municípios com coleta seletiva, comparando com as metas de 40% e 60%. Volume: 7,1 ÷ 5 = 1,42, ou seja, aumento de 42%, acima da meta de 40%. Municípios: 1 004 ÷ 653 ≈ 1,537, aumento de cerca de 54%, abaixo da meta de 60%. Assim, uma meta foi atingida e a outra não, isto é, os aumentos foram atingidos apenas parcialmente, com 42% e 54%, alternativa E. As alternativas A e B indicam 30% para o volume, valor errado, e concluem que nada foi atingido. A C atribui 42% também aos municípios. A D aponta 35% para os municípios, quando o cálculo dá cerca de 54%. Gabarito: E.",
+  "hash": "0bb31b1b4454ae54",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q145": {
+  "explicacao": "A questão pede o número de homicídios em 2010 se o maior crescimento anual absoluto da série se repetisse de 2009 para 2010. Calculando as variações positivas do gráfico: 2000→2001: 47 943 − 45 360 = 2 583; 2001→2002: 49 695 − 47 943 = 1 752; 2002→2003: 51 043 − 49 695 = 1 348; 2005→2006: 49 145 − 47 578 = 1 567; 2007→2008: 50 113 − 47 707 = 2 406; 2008→2009: 51 434 − 50 113 = 1 321. Os demais períodos tiveram queda. O maior crescimento foi 2 583. Então, em 2010: 51 434 + 2 583 = 54 017, alternativa D. A alternativa A fica abaixo de 2009, o que indicaria queda, e não crescimento. A B repete o último acréscimo (51 434 + 1 321 = 52 755), não o maior. A C soma 2 406, crescimento de 2007→2008, que não é o maior. A E não corresponde a nenhum acréscimo da série. Gabarito: D.",
+  "hash": "4db6c461b62540b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q146": {
+  "explicacao": "A questão pede qual embalagem, comprada em 4 unidades iguais, cobre exatamente o consumo semanal de sabonete. São 5 andares, cada um com 2 banheiros masculinos e 2 femininos, e cada banheiro tem 2 recipientes de 0,2 L. Banheiros masculinos: 5 × 2 = 10 banheiros, 10 × 2 = 20 recipientes, 20 × 0,2 = 4 L por abastecimento; abastecidos 2 vezes por semana, 4 × 2 = 8 L. Banheiros femininos: também 4 L por abastecimento; 3 vezes por semana, 4 × 3 = 12 L. Total semanal: 8 + 12 = 20 L. Com 4 embalagens iguais e sem sobra, cada uma deve ter 20 ÷ 4 = 5 L, que é a embalagem IV, alternativa D. A alternativa A (2 L) daria só 8 L. A B (3 L) daria 12 L. A C (4 L) daria 16 L, insuficiente. A E (6 L) daria 24 L, com sobra de 4 L. Gabarito: D.",
+  "hash": "4a0faf6276f3a5af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q147": {
+  "explicacao": "A questão pede a cidade com maior probabilidade de uma pessoa sorteada estar infectada, ou seja, a maior razão infectados ÷ habitantes. Cidade I: 7 800 ÷ 180 000 ≈ 0,043 (4,3%). Cidade II: 7 500 ÷ 100 000 = 0,075 (7,5%). Cidade III: 9 000 ÷ 110 000 ≈ 0,082 (8,2%). Cidade IV: 6 500 ÷ 165 000 ≈ 0,039 (3,9%). Cidade V: 11 000 ÷ 175 000 ≈ 0,063 (6,3%). A maior probabilidade é a da cidade III, que receberá o maior valor, alternativa C. A alternativa A tem muitos infectados, mas uma população grande, o que reduz a probabilidade. A B tem 7,5%, abaixo de III. A D tem a menor proporção. A E tem o maior número absoluto de infectados, mas não a maior proporção, armadilha comum. Gabarito: C.",
+  "hash": "1a621ad1c57025e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q148": {
+  "explicacao": "A questão pede a distância entre A e B num novo mapa de escala 1 : 20 000. Primeiro, a distância real: na escala 1 : 30 000, cada centímetro do mapa vale 30 000 cm, então 5 cm correspondem a 5 × 30 000 = 150 000 cm (1,5 km). No novo mapa, cada centímetro vale 20 000 cm, logo a distância será 150 000 ÷ 20 000 = 7,5 cm. Faz sentido que aumente: a escala 1 : 20 000 é maior, ou seja, mostra a região mais ampliada. Alternativa E. A alternativa A divide 30 000 por 20 000 sem considerar os 5 cm. A B resulta de inverter a razão (5 × 20 000 ÷ 30 000 ≈ 3,33). A C e a D não correspondem a nenhum cálculo coerente com as escalas. Gabarito: E.",
+  "hash": "69481a58863ab8a1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q149": {
+  "explicacao": "A questão pede a razão entre o número de voltas das rodas de A e de B. Em cada volta, a roda percorre o comprimento da circunferência, π × d. Número de voltas = distância ÷ (π × d). Ciclista A: 10 km = 1 000 000 cm; voltas = 1 000 000 ÷ (π × 60). Ciclista B: 5 km = 500 000 cm; voltas = 500 000 ÷ (π × 40). Razão A/B = [1 000 000 ÷ (60π)] ÷ [500 000 ÷ (40π)] = (1 000 000 × 40) ÷ (500 000 × 60) = 40 000 000 ÷ 30 000 000 = 4/3. O valor de π se cancela, então a aproximação 3,14 nem é necessária. Alternativa D. A alternativa A considera apenas a razão das distâncias invertida. A B considera só a razão dos diâmetros, 40/60. A C é o inverso da resposta correta. A E considera apenas 60/40, ignorando as distâncias. Gabarito: D.",
+  "hash": "1cc7d793b705ca05",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q150": {
+  "explicacao": "A questão pede o atleta com maior aproveitamento no bloqueio, isto é, a maior razão acertos ÷ jogadas. Atleta I: 20 ÷ 30 ≈ 0,67. Atleta II: 10 ÷ 34 ≈ 0,29. Atleta III: 19 ÷ 32 ≈ 0,59. Atleta IV: 3 ÷ 4 = 0,75. Atleta V: 8 ÷ 10 = 0,80. O maior aproveitamento é o do atleta V, com 80%, alternativa E. A alternativa A tem o maior número absoluto de acertos, mas aproveitamento de 67%. A B tem o pior desempenho. A C fica em 59%. A D tem bom índice, 75%, mas inferior ao de V. Gabarito: E.",
+  "hash": "b0281e8da36c6f98",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q151": {
+  "explicacao": "A questão pede os valores dos dados na segunda jogada. Na primeira, saíram 6 (centenas), 8 (dezenas) e 11 (unidades), o que equivale a 600 + 80 + 11 = 691. Na Figura 2, o ábaco mostra 1 bolinha em UM, 1 em C, 2 em D e nenhuma em U, ou seja, o número 1 120. Como a regra do “nunca dez” apenas faz trocas, o ábaco representa a soma das jogadas: segunda jogada = 1 120 − 691 = 429, isto é, 4 centenas, 2 dezenas e 9 unidades. Conferindo com as trocas: unidades 11 + 9 = 20, ficam 0 e sobem 2; dezenas 8 + 2 + 2 = 12, ficam 2 e sobe 1; centenas 6 + 4 + 1 = 11, fica 1 e sobe 1 para UM. Resultado 1 120. Alternativa A. A alternativa B (4, 3, 9) daria 1 130. A C (4, 3, 10) daria 1 131. A D (5, 3, 10) daria 1 231. A E (5, 4, 9) daria 1 240. Gabarito: A.",
+  "hash": "70068f434dfff067",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q152": {
+  "explicacao": "A questão pede a mediana dos pontos da Itália por set. Pela tabela, a Itália fez 16, 20, 26, 27 e 16 pontos. Em ordem crescente: 16, 16, 20, 26, 27. Com 5 valores, a mediana é o termo central, o 3º, que é 20. Alternativa B. A alternativa A, 16, é a moda. A C, 21, é a média: (16 + 16 + 20 + 26 + 27) ÷ 5 = 105 ÷ 5 = 21. A D, 23, seria a média entre 20 e 26. A E, 26, é o valor central da sequência sem ordenar. Gabarito: B.",
+  "hash": "dacec1e061ccfe35",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q153": {
+  "explicacao": "A questão pede a ordenada da bola branca, cuja abscissa é 0,5. Pela figura, a bola branca bate na lateral superior num ponto de abscissa 2, de onde sai em linha reta passando pela bola 9 (3; 3) e indo à caçapa (6; 0). A reta por (3; 3) e (6; 0) tem inclinação m = (0 − 3) ÷ (6 − 3) = −1, logo y = −x + 6. No ponto de rebatida, x = 2, então y = 4: a lateral está em y = 4. A trajetória da tacada forma 90° com essa reta, então tem inclinação +1 (pois (−1) × (+1) = −1). A reta da tacada passa por (2; 4): y − 4 = 1 × (x − 2), ou seja, y = x + 2. Para x = 0,5: y = 0,5 + 2 = 2,5. Alternativa E. As alternativas A, B, C e D não satisfazem a condição de perpendicularidade com a trajetória que leva a bola 9 à caçapa; por exemplo, com y = 1,5 a inclinação até (2; 4) seria 2,5 ÷ 1,5 ≈ 1,67, diferente de 1. Gabarito: E.",
+  "hash": "42e126868061cfba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q154": {
+  "explicacao": "A questão pede a relação entre o raio total R e o raio central r para que a área central seja igual à da faixa. Área central: πr². Área da faixa: área do círculo maior menos a do menor, πR² − πr². Igualando: πR² − πr² = πr², então πR² = 2πr², ou seja, R² = 2r². Tirando a raiz: R = r√2. Alternativa B. A alternativa A, R = 2r, daria R² = 4r², e a faixa teria o triplo da área central. As alternativas C e D misturam r² e r, o que nem é coerente em unidades de comprimento. A E, R = 1,5r, daria R² = 2,25r², e a faixa teria 1,25 vez a área central. Gabarito: B.",
+  "hash": "c5838ef9d76fbba6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q155": {
+  "explicacao": "A questão pede o total guardado de janeiro a junho, começando com R$ 300 e aumentando 20% ao mês. Os valores formam uma progressão geométrica de razão 1,2: janeiro 300; fevereiro 360; março 432; abril 518,40; maio 622,08; junho 746,496. Somando: 300 + 360 = 660; 660 + 432 = 1 092; 1 092 + 518,40 = 1 610,40; 1 610,40 + 622,08 = 2 232,48; 2 232,48 + 746,496 = 2 978,976. Pela fórmula da soma da PG: S = 300 × (1,2⁶ − 1) ÷ (1,2 − 1) = 300 × (2,985984 − 1) ÷ 0,2 = 1 500 × 1,985984 ≈ 2 978,98. Abandonando as casas decimais, R$ 2 978,00. Alternativa D. A alternativa A considera 300 todos os meses, sem aumento. A B equivale a 7 meses de R$ 300, sem aumento. A C aplica 20% uma única vez sobre o total sem aumento (1 800 × 1,2 = 2 160). A E exagera o crescimento, superando a soma correta da PG. Gabarito: D.",
+  "hash": "5ba265c5bb85b15e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q156": {
+  "explicacao": "A questão pede o gráfico compatível com a descrição: a concentração sobe durante 1 hora e meia, depois diminui e atinge o nível permitido, 0,6 g/L, exatamente 3 horas após a ingestão. Precisamos de um gráfico que cresça de t = 0 a t = 1,5 h, a partir daí só decresça e passe por 0,6 g/L em t = 3 h. No gráfico E, a concentração sobe até o pico em 1,5 h, depois cai continuamente e vale 0,6 g/L em t = 3 h, como pedido. Alternativa E. O gráfico A tem pico em t = 3 h, subindo por tempo demais. O B atinge 0,6 g/L apenas em t = 4 h. O C fica estável entre 1,5 h e 4 h e só chega a 0,6 g/L por volta de 5 h. O D desce e volta a subir depois de 3 h, contrariando a diminuição contínua. Gabarito: E.",
+  "hash": "12b548ea2ab3330d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q157": {
+  "explicacao": "A questão pede o número de semáforos em que o carro parou, a partir do gráfico velocidade × tempo. O carro está parado quando a velocidade é zero. No gráfico, a velocidade começa em zero (saída de casa), sobe, fica constante e cai a zero; permanece zerada por um pequeno intervalo; volta a subir e cair, de novo fica zerada por um tempo; sobe novamente e cai a zero no instante 15 min, que é a chegada ao trabalho. Os momentos de velocidade zero no início e no fim correspondem à partida e à chegada, não a semáforos. Restam, portanto, dois intervalos de parada no meio do percurso, ou seja, 2 semáforos. Alternativa A. A alternativa B conta todos os trechos de subida e descida. A C, a D e a E incluem a partida, a chegada ou trechos de velocidade constante, que não são paradas em semáforos. Gabarito: A.",
+  "hash": "84a0a8b4eda8fa9f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q158": {
+  "explicacao": "A questão pede a taxa mínima de remoção para retirar todo o óleo derramado em até 300 dias. O total derramado foi 780 000 m³. Para retirar tudo em 300 dias, a taxa mínima é 780 000 ÷ 300 = 2 600 m³ por dia. Os demais dados do texto, como os 480 m³/dia efetivamente removidos e os 66 705 m³ retirados, servem apenas para mostrar como a remoção real ficou aquém do necessário. Alternativa B. A alternativa A, 1 625, corresponde a 780 000 ÷ 480, que é o número de dias, não a taxa. A C, 3 508, e a D, 5 613, não resultam de nenhuma divisão coerente pelo prazo de 300 dias. A E, 8 966, aproxima 780 000 ÷ 87, que seria a taxa de vazamento, não de remoção. Gabarito: B.",
+  "hash": "f43e7e789c8180e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q159": {
+  "explicacao": "A questão pede como fica o bumbo depois de enrolada a faixa retangular da Figura 1, que cobre exatamente a superfície lateral. Na faixa, Z e X estão nos cantos esquerdos e Y no meio da borda direita; há um segmento de X a Y e outro de Z a Y. Ao enrolar, a borda esquerda encontra a borda direita, formando uma única costura vertical; assim, X (embaixo), Y (no meio) e Z (no alto) ficam alinhados nessa mesma vertical. Cada segmento percorre todo o comprimento da faixa, então dá exatamente uma volta completa no cilindro: o que parte de X sobe meia altura até Y, e o que parte de Z desce meia altura até Y, ambos chegando a Y pelo outro lado da costura. A figura que mostra X, Y e Z na mesma vertical, com cada linha dando uma única volta e chegando a Y de forma contínua, é a da alternativa A. A alternativa B não respeita a inclinação contínua das linhas ao longo da volta. A C não mostra a linha que liga Z a Y. A D coloca Y fora da vertical de X e Z. A E faz as linhas darem mais voltas do que o comprimento da faixa permite. Gabarito: A.",
+  "hash": "f5660f102ca58bd5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q160": {
+  "explicacao": "A questão pede o percentual estimado para 2013, mantendo a taxa de crescimento de 2007 a 2011. Pelo gráfico, o percentual foi de 27% em 2007 para 48% em 2011, um aumento de 48 − 27 = 21 pontos percentuais em 4 anos. O gráfico é uma reta, então o crescimento é linear: 21 ÷ 4 = 5,25 pontos por ano. De 2011 a 2013 são 2 anos: 2 × 5,25 = 10,5. Estimativa para 2013: 48 + 10,5 = 58,5%. Alternativa B. A alternativa A usa um acréscimo anual menor que 5,25. A C também não respeita o crescimento linear do gráfico. A D soma três anos de crescimento (48 + 15,75), como se fosse 2014. A E soma um aumento ainda maior, sem relação com a taxa do período. Gabarito: B.",
+  "hash": "ac22e2fbc13487e1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q161": {
+  "explicacao": "A questão pede o raio da pizza de 10 fatias em que cada fatia tem a mesma área de uma fatia da pizza média de 8 fatias. A pizza média tem diâmetro 30 cm, raio 15 cm e área π × 15² = 225π cm². Cada fatia: 225π ÷ 8. A nova pizza deve ter 10 dessas fatias: área = 10 × 225π ÷ 8 = 2 250π ÷ 8 = 281,25π. Então πR² = 281,25π, R² = 281,25 = 1 125/4, e R = √1 125 ÷ 2 = 15√5 ÷ 2. Com √5 ≈ 2,2: R ≈ 15 × 2,2 ÷ 2 = 33 ÷ 2 = 16,5 cm. Alternativa B. A alternativa A mantém o raio da pizza média. A C multiplica o raio por 10/8, como se a área crescesse linearmente com o raio. A D é o diâmetro, não o raio. A E é o diâmetro calculado pelo erro da alternativa C. Gabarito: B.",
+  "hash": "64343f97f49f42a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q162": {
+  "explicacao": "A questão pede o número mínimo de sacos de terra para a região entre a circunferência e o quadrado inscrito. O jardim tem diâmetro 20 m, raio 10 m; com π = 3, sua área é 3 × 10² = 300 m². O quadrado inscrito tem diagonal igual ao diâmetro, 20 m; a área de um quadrado pela diagonal é d² ÷ 2 = 400 ÷ 2 = 200 m². A região de terra vegetal mede 300 − 200 = 100 m². Usando 15 kg por m²: 100 × 15 = 1 500 kg. Como cada saco tem 15 kg: 1 500 ÷ 15 = 100 sacos. Alternativa A. A alternativa B não corresponde a nenhuma área coerente. A C usa a área do quadrado, 200 m², em vez da região externa. A D e a E vêm de erros de área ou de não converter corretamente quilos em sacos. Gabarito: A.",
+  "hash": "824035dcfc9384da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q163": {
+  "explicacao": "A questão pede quantas folhas A8 cabem numa folha A0. Cada formato é obtido dobrando o anterior ao meio, então cada dobra divide a área por 2 e dobra o número de folhas. A1 é metade de A0: 2 folhas A1 por A0. A2: 2² = 4 folhas. A3: 2³ = 8, e assim por diante. A folha A8 corresponde a 8 dobras, logo uma A0 rende 2⁸ = 256 folhas A8. Alternativa E. A alternativa A, 8, conta apenas o número de dobras. A B, 16, multiplica 8 por 2. A C, 64, corresponde a 2⁶, ou seja, à folha A6. A D, 128, corresponde a 2⁷, a folha A7. Gabarito: E.",
+  "hash": "efdf8fdd8d2a12e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q164": {
+  "explicacao": "A questão pede a substância de maior densidade, ρ = m ÷ V, a partir do gráfico massa × volume. Lendo os pontos: A tem 600 g e 50 cm³, ρ = 12 g/cm³; B tem 600 g e 40 cm³, ρ = 15 g/cm³; C tem 200 g e 10 cm³, ρ = 20 g/cm³; D tem 500 g e 20 cm³, ρ = 25 g/cm³; E tem 100 g e 10 cm³, ρ = 10 g/cm³. A maior densidade é a de D, alternativa D. Graficamente, é o ponto cuja reta até a origem tem maior inclinação. A alternativa A e a B têm as maiores massas, mas também volumes grandes. A C tem densidade 20, menor que a de D. A E tem a menor densidade. Gabarito: D.",
+  "hash": "8cdea56668c4a664",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q165": {
+  "explicacao": "A questão pede as coordenadas das duas formigas após 2 horas. Distância = velocidade × tempo. A primeira anda para a direita, no sentido positivo do eixo x, a 4 km/h: em 2 h percorre 4 × 2 = 8 km e chega a (8; 0). A segunda anda para cima, no sentido positivo do eixo y, a 3 km/h: em 2 h percorre 3 × 2 = 6 km e chega a (0; 6). Alternativa A. A alternativa B esquece de multiplicar a primeira velocidade pelo tempo. A C usa as distâncias de apenas 1 hora. A D troca as coordenadas, pondo a formiga horizontal no eixo y. A E troca os eixos e usa só 1 hora. Gabarito: A.",
+  "hash": "490df526d146a396",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q166": {
+  "explicacao": "A questão pede quem argumentou corretamente, o que exige calcular as áreas dos lotes. Lote 2: retângulo 30 m × 15 m, área 450 m². Lote 1: paralelogramo de lados 30 m e 15 m com ângulo de 60°; a altura é 15 × sen 60° = 15 × √3/2 ≈ 15 × 1,7 ÷ 2 = 12,75 m, e a área é 30 × 12,75 = 382,5 m². Como o projeto precisa de pelo menos 400 m², apenas o Lote 2 serve, exatamente o que diz o Filho 1, alternativa C. O pai erra porque diagonal maior não garante área maior; aliás, o Lote 1 tem área menor. A mãe erra ao supor que mesmo perímetro implica mesma área. O Filho 2 erra ao achar que lados iguais garantem áreas iguais; o ângulo muda a altura. O corretor erra no custo: Lote 2 custa 150 000 ÷ 450 ≈ R$ 333/m², e o Lote 1, 100 000 ÷ 382,5 ≈ R$ 261/m², mais barato por metro quadrado. Gabarito: C.",
+  "hash": "22a9e37a8b2eae93",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q167": {
+  "explicacao": "A questão pede a variância convertida de kg²/ha² para sacas²/ha². A variância é medida no quadrado da unidade dos dados. Como 1 saca = 60 kg, cada valor de produtividade em sacas/ha é o valor em kg/ha dividido por 60. Quando todos os dados são divididos por uma constante k, a variância fica dividida por k². Então: 9 216 ÷ 60² = 9 216 ÷ 3 600 = 2,56 sacas²/ha². Outra forma: o desvio padrão é √9 216 = 96 kg/ha; em sacas, 96 ÷ 60 = 1,6 saca/ha, e a variância é 1,6² = 2,56. Alternativa D. A alternativa A divide por 60 apenas uma vez. A B e a C não correspondem a conversões coerentes. A E, 1,60, é o desvio padrão em sacas/ha, não a variância. Gabarito: D.",
+  "hash": "0d9012f741002307",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q168": {
+  "explicacao": "A questão pede a equação da reta t tangente às duas circunferências. Pela figura, C₁ tem raio 3 e tangencia o eixo y na origem, então O₁ = (3, 0); C₂ tem raio 1 e é tangente externamente a C₁, então O₂ = (3 + 3 + 1, 0) = (7, 0). A reta t corta o eixo x em R = (r, 0). Os triângulos RO₁P e RO₂Q são semelhantes (retos em P e Q): (r − 3) ÷ 3 = (r − 7) ÷ 1, logo r − 3 = 3r − 21 e r = 9. No triângulo RO₂Q, sen θ = 1 ÷ (9 − 7) = ½, então θ = 30° e a inclinação da reta é −tg 30° = −√3/3. A equação é y = −(√3/3)(x − 9) = −(√3/3)x + 3√3, que corresponde à alternativa B (na transcrição, o denominador 3 do coeficiente aparece deslocado). A alternativa A tem inclinação −√3, de 60°. A C, a D e a E têm coeficiente linear 4 e inclinações que não satisfazem a tangência. Gabarito: B.",
+  "hash": "cd775e9d372dc250",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q169": {
+  "explicacao": "A questão pede a cidade com maior razão habitantes ÷ médicos, isto é, mais habitantes por médico. M: 136 000 ÷ 340 = 400. X: 418 000 ÷ 2 650 ≈ 158. Y: 210 000 ÷ 930 ≈ 226. Z: 530 000 ÷ 1 983 ≈ 267. W: 108 000 ÷ 300 = 360. A maior razão é a da cidade M, com 400 habitantes por médico, alternativa A. A alternativa B tem a menor razão, por ter muitos médicos. A C fica em cerca de 226. A D tem a maior população, mas também muitos médicos, cerca de 267. A E tem razão alta, 360, mas menor que a de M. Gabarito: A.",
+  "hash": "4c634f6b4e772f71",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q170": {
+  "explicacao": "A questão pede a área lateral da cobertura, formada por 4 triângulos isósceles de base y, em função de y e da altura x da pirâmide. A altura de cada triângulo (apótema da pirâmide) liga o topo ao ponto médio de um lado da base. Ela é hipotenusa de um triângulo retângulo cujos catetos são a altura x e a distância do centro da base ao meio do lado, y/2. Assim, apótema = √(x² + (y/2)²) = √(x² + y²/4). Área de uma face: y × √(x² + y²/4) ÷ 2. Quatro faces: 4 × y × √(x² + y²/4) ÷ 2 = 2y√(x² + y²/4), alternativa A. A alternativa B usa y²/2, o que corresponde à metade da diagonal ao quadrado, ou seja, à aresta lateral, não ao apótema. A C usa y² inteiro e coeficiente 4y. A D e a E esquecem o fator y da base dos triângulos. Gabarito: A.",
+  "hash": "585407a0db57867c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q171": {
+  "explicacao": "A questão pede o pacote com menor preço por sabonete, ou seja, o menor valor de preço ÷ quantidade. Pacote I: 2,10 ÷ 3 = R$ 0,70. Pacote II: 2,60 ÷ 4 = R$ 0,65. Pacote III: 3,00 ÷ 5 = R$ 0,60. Pacote IV: 3,90 ÷ 6 = R$ 0,65. Pacote V: 9,60 ÷ 12 = R$ 0,80. O menor preço unitário é o do pacote III, alternativa C. A alternativa A custa R$ 0,70 por unidade. A B e a D custam R$ 0,65. A E, apesar de ser o maior pacote, é o mais caro por unidade, R$ 0,80, mostrando que comprar em maior quantidade nem sempre é vantajoso. Gabarito: C.",
+  "hash": "3ae07df97cf42f3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q172": {
+  "explicacao": "A questão pede o carro mais econômico, isto é, o que percorre mais quilômetros por litro. Lendo o gráfico (distância no eixo horizontal e consumo no vertical): A percorre 120 km com 10 L, 12 km/L; B, 200 km com 40 L, 5 km/L; C, 400 km com 20 L, 20 km/L; D, 550 km com 50 L, 11 km/L; E, 600 km com 40 L, 15 km/L. O maior rendimento é o do modelo C, alternativa C. A alternativa A consome pouco, mas também roda pouco. A B é a menos econômica. A D gasta muito combustível para sua distância. A E percorre a maior distância, mas rende 15 km/L, menos que C. Gabarito: C.",
+  "hash": "01a71e8265463722",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q173": {
+  "explicacao": "A questão pede a altura da pirâmide regular de base quadrada com lado 214 m e arestas laterais de 204 m. A altura, a aresta lateral e a metade da diagonal da base formam um triângulo retângulo, com a aresta como hipotenusa. A diagonal da base é 214√2, e a metade é 107√2; seu quadrado é 107² × 2 = 11 449 × 2 = 22 898. Pelo teorema de Pitágoras: h² = 204² − 22 898 = 41 616 − 22 898 = 18 718. Então h = √18 718 ≈ 136,8 m, pois 136,8² ≈ 18 714. Alternativa B. A alternativa A não corresponde a nenhuma relação correta. A C usa metade do lado (107) em vez da metade da diagonal: √(204² − 107²) ≈ 173,7, que é o apótema da face. A D e a E superestimam a altura, que precisa ser menor que o apótema. Gabarito: B.",
+  "hash": "99a246bdbe037ea0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q174": {
+  "explicacao": "A questão pede o número mínimo de bits para representar pelo menos 2 560 informações. Com n bits, representam-se 2ⁿ informações distintas. Precisamos de 2ⁿ ≥ 2 560. Testando potências: 2¹⁰ = 1 024; 2¹¹ = 2 048, ainda menor que 2 560; 2¹² = 4 096, que já basta. Logo, o byte deve passar a ter 12 bits, alternativa B. Note que 2 560 = 10 × 2⁸, então não basta somar bits proporcionalmente. A alternativa A, 10 bits, dá só 1 024 informações. A C, 13 bits, também serve, mas não é o mínimo necessário. A D e a E são exageradas e não são o menor número de bits. Gabarito: B.",
+  "hash": "1978acd4d1019014",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q175": {
+  "explicacao": "A questão pede o desconto total concedido, sabendo que os preços do quadro já têm 20% de desconto. Se o preço com desconto é 80% do original, o original é preço ÷ 0,8, e o desconto é 20% do original, ou seja, preço ÷ 0,8 × 0,2 = preço ÷ 4. Faturamento do dia com os preços promocionais: cama 2 × 450 = 900; mesa 3 × 300 = 900; colchão 4 × 350 = 1 400; pia 1 × 400 = 400; total 3 600 reais. Valor original: 3 600 ÷ 0,8 = 4 500. Desconto: 4 500 − 3 600 = 900 reais, alternativa D. A alternativa A e a B não correspondem a cálculos sobre o total vendido. A C, 720, aplica 20% sobre os preços já descontados (0,2 × 3 600), erro clássico. A E, 1 125, aplica 25% sobre o valor original de 4 500. Gabarito: D.",
+  "hash": "455e1dfb2a548188",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q176": {
+  "explicacao": "A questão pede a relação entre vértices e faces de um sólido de Platão com faces triangulares. Cada face tem 3 arestas, e cada aresta é compartilhada por 2 faces, então 3F = 2A, ou seja, A = 3F/2. Substituindo na relação de Euler, V − A + F = 2: V − 3F/2 + F = 2, logo V − F/2 = 2. Multiplicando por 2: 2V − F = 4. Alternativa C. Conferindo com o tetraedro (V = 4, F = 4): 8 − 4 = 4; com o octaedro (V = 6, F = 8): 12 − 8 = 4. A alternativa A daria 8 − 16 = −8 no tetraedro. A B daria 8 − 8 = 0. A D daria 8 + 4 = 12. A E daria 8 + 20 = 28. Gabarito: C.",
+  "hash": "fe55c0bdc8c82ad6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q177": {
+  "explicacao": "A questão pede o jogador com maior média de gols de 2010 a 2013. Como todos têm 4 anos, basta comparar as somas. I: 21 + 21 + 24 + 21 = 87, média 21,75. II: 20 + 21 + 22 + 22 = 85, média 21,25. III: 26 + 21 + 20 + 21 = 88, média 22. IV: 23 + 23 + 19 + 18 = 83, média 20,75. V: 16 + 21 + 26 + 16 = 79, média 19,75. A maior média é a do jogador III, alternativa C. A alternativa A fica logo atrás, com 21,75. A B tem 21,25. A D tem 20,75. A E tem o maior número de gols num único ano, 26, mas a menor média. Gabarito: C.",
+  "hash": "3c5df7d137a47e5c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q178": {
+  "explicacao": "A questão pede a probabilidade de R ser o único campeão. Os dois têm 68 pontos e não se enfrentam. R fica sozinho na frente em dois casos: R vence e S não vence (empata ou perde), ou R empata e S perde. Probabilidades de S: vitória 40%, empate 20%, derrota 100% − 40% − 20% = 40%. Caso 1: 0,80 × (0,20 + 0,40) = 0,80 × 0,60 = 0,48. Caso 2: 0,15 × 0,40 = 0,06. Total: 0,48 + 0,06 = 0,54, isto é, 54%. Alternativa D. A alternativa A considera só R vencendo e S perdendo (0,8 × 0,4). A B soma esse caso com o do empate de R (0,32 + 0,06). A C considera apenas o caso 1. A E não corresponde à soma correta dos casos favoráveis. Gabarito: D.",
+  "hash": "d15298da33b94af7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q179": {
+  "explicacao": "A questão pede os pontos de um time com 5 vitórias e 7 empates, dos quais 3 sem gols. Pela regra: vitória vale 3, empate com gols vale 2, empate sem gols vale 1. Empates com gols: 7 − 3 = 4. Pontos: 5 × 3 = 15; 4 × 2 = 8; 3 × 1 = 3. Total: 15 + 8 + 3 = 26 pontos, alternativa C. A alternativa A, 22, conta todos os 7 empates como 1 ponto. A B, 25, troca as quantidades de empates (3 com gols e 4 sem). A D, 29, conta os 7 empates como 2 pontos. A E, 36, conta os 12 jogos como vitórias. Gabarito: C.",
+  "hash": "1a2040d910f3bd7a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-ppl-d2-q180": {
+  "explicacao": "A questão pede a máquina com maior produção média por hora, ou seja, a maior razão calças ÷ horas. Máquina 1: 960 ÷ 240 = 4 calças/h. Máquina 2: 1 050 ÷ 210 = 5. Máquina 3: 1 020 ÷ 170 = 6. Máquina 4: 480 ÷ 160 = 3. Máquina 5: 800 ÷ 160 = 5. A maior média é a da máquina 3, alternativa C. A alternativa A trabalhou mais horas, mas rende só 4 por hora. A B produziu o maior total, mas rende 5 por hora. A D tem o pior rendimento. A E empata com a máquina 2, abaixo da 3. Gabarito: C.",
+  "hash": "0666920acb1dbbfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2016-ppl-d2-q91-esp": {
   "explicacao": "A questão pede o que os organizadores e participantes da maratona reivindicavam com o lema e as faixas. O texto é claro: nas faixas se lia “Toda la gente tiene el derecho a correr” (todos têm o direito de correr), e o lema da prova, tirado da Declaração Universal dos Direitos Humanos, era “Toda persona tiene derecho a circular libremente” (toda pessoa tem direito de circular livremente). O próprio grupo organizador se chama Derecho al Movimiento, e o percurso passou diante do muro erguido por Israel e por campos de refugiados, o que reforça a denúncia das restrições de circulação impostas aos palestinos. Juntando faixa e lema, temos a liberdade de ir e vir e o direito de praticar esporte. A alternativa A confunde o reforço policial, citado como mero reflexo do atentado de Boston, com a reivindicação. A alternativa B fala de infraestrutura, tema ausente do texto. A alternativa C não procede, pois a prova reuniu corredores de 28 países e não pedia inclusão em competições internacionais. A alternativa D não aparece: a vigília homenageou as vítimas, sem pedir punição. Gabarito: E.",
   "hash": "b66e39eb73701fc4",
