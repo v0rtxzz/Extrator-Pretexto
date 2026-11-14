@@ -298,5 +298,180 @@
   "explicacao": "A questão pede a consequência, para o solo agrícola, da dinâmica descrita no texto. O autor explica que as colheitas retiram nutrientes e que a água que se infiltra provoca lixiviação, isto é, a lavagem vertical dos nutrientes para camadas profundas. Os nutrientes retirados, principalmente bases como cálcio, magnésio e potássio, quando não repostos, são substituídos por elementos tóxicos como o alumínio. A perda dessas bases e a predominância de alumínio e hidrogênio no solo resultam na elevação da acidez, problema comum nos solos tropicais e corrigido com calagem. A alternativa B erra, pois a salinização ocorre em climas secos, por evaporação, e não por lavagem de nutrientes. A C erra, porque voçorocas resultam de erosão superficial intensa, não do empobrecimento químico. A D erra, já que o texto trata de perda química, não de remoção física da camada superior. A E erra, pois o processo descrito é de infiltração, não de escoamento. Gabarito: A.",
   "hash": "80ad392a74ecc576",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q56": {
+  "explicacao": "A questão pede uma medida que resolva os gargalos logísticos da exportação de soja descritos no texto. O ponto central é que a soja, produto a granel de baixo valor agregado, depende de infraestrutura de grande porte e baixo custo, e o texto denuncia enormes filas de navios, caminhões e trens à espera nos portos. Se o problema é a espera ociosa para embarque, a solução está em ampliar a capacidade portuária, ou seja, construir novos terminais atracadouros, como os do chamado Arco Norte, que reduzem filas e encarecimento do frete. A isenção de impostos de transporte não elimina o congestionamento físico. A diversificação de parceiros comerciais não altera a infraestrutura de escoamento. Contratar trabalhadores portuários não resolve a falta de berços e terminais. Intensificar o policiamento nas rodovias não tem relação com as filas descritas. Gabarito: B.",
+  "hash": "f8d0734ae62ad96e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q57": {
+  "explicacao": "A questão trata da desindustrialização dos países desenvolvidos e da expansão do setor terciário, que, segundo o texto, não faz esses países perderem o comando da economia. Isso ocorre porque eles transferem a produção fabril para países periféricos, mas mantêm sob controle as atividades de maior valor: pesquisa, desenvolvimento, design, finanças, patentes e gestão. Nessa nova divisão internacional do trabalho, o poder deixa de vir da fábrica em si e passa a vir do conhecimento e da inovação, o que consolida o domínio tecnológico das economias centrais. A saturação do setor secundário não é o resultado apontado, pois a indústria apenas se desloca. A ampliação de direitos laborais contraria a tendência de flexibilização associada a esse processo. A bipolarização geopolítica remete à Guerra Fria, não à economia atual. A primarização das exportações atinge países periféricos, não é resultado do comando exercido pelos desenvolvidos. Gabarito: D.",
+  "hash": "c1081809446201b3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q58": {
+  "explicacao": "A questão pede o que uma sociedade multiétnica exige de uma democracia contemporânea. Giddens descreve populações formadas por grupos de diferentes origens, seja por evolução secular, migração ou legado colonial. Numa democracia, isso impõe duas exigências simultâneas: garantir os mesmos direitos de cidadania a todos, independentemente da origem, e reconhecer e respeitar as diferenças culturais, religiosas e linguísticas desses grupos. É exatamente a combinação de universalização de direitos com respeito à diversidade. A defesa do patriotismo com rejeição ao hibridismo nega a pluralidade. A segregação territorial fere a igualdade democrática. A homogeneização do idioma impõe uma cultura sobre as outras. A padronização cultural e a repressão aos particularismos são práticas autoritárias, opostas ao pluralismo democrático. Gabarito: B.",
+  "hash": "2130d3076a458ede",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q59": {
+  "explicacao": "A questão pede que se identifique a cidade a partir do climograma. Observe a linha de temperatura: no inverno do Hemisfério Norte (dezembro a março) as médias ficam abaixo de 0 °C, chegando a cerca de −9 °C em janeiro, e no verão sobem para cerca de 18 °C em julho. A amplitude térmica anual é grande, perto de 27 °C. As chuvas são moderadas, entre cerca de 35 e 90 mm por mês, com máximo no verão. Invernos rigorosos com temperaturas negativas e verões amenos, no Hemisfério Norte, caracterizam o clima continental de alta latitude, típico de Moscou. A Cidade do Cabo fica no Hemisfério Sul e tem pequena amplitude, o oposto do gráfico. Sydney também está no Hemisfério Sul e não tem médias negativas. Mumbai tem chuvas de monção de centenas de milímetros e calor o ano todo. Barcelona, mediterrânea, tem verão seco e inverno ameno, sem temperaturas abaixo de zero. Gabarito: E.",
+  "hash": "46d3e17968229c31",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q60": {
+  "explicacao": "A questão pede o fundamento da concepção de desenvolvimento de Amartya Sen. O texto rejeita reduzir desenvolvimento ao crescimento do PNB ou à industrialização; para Sen, desenvolver é expandir as liberdades reais das pessoas. O crescimento econômico é importante como meio, mas as liberdades também dependem de educação, saúde e direitos civis, isto é, de condições de cidadania. Assim, a concepção une garantia da cidadania e ascensão econômica. Incremento da indústria e mercado financeiro é justamente a visão restrita que o autor critica. Programas assistencialistas e controle de preços não aparecem no texto. Elevação da renda média e arrecadação de impostos ficam no plano puramente econômico. Ajuste de políticas econômicas e incentivos fiscais também ignoram as liberdades e os direitos destacados por Sen. Gabarito: D.",
+  "hash": "22aae84ae810e110",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q61": {
+  "explicacao": "A questão pede um fator que explique a força dos Estados Unidos na era pós-soviética, demonstrada na Guerra do Golfo de 1991 e na reação imediata ao Onze de Setembro, com a invasão do Afeganistão. Com o fim da URSS, os EUA tornaram-se a única superpotência militar, capaz de projetar poder em qualquer ponto do planeta graças a uma extensa rede de bases militares no exterior, na Europa, no Oriente Médio e na Ásia. Essa presença permitiu mobilizar tropas rapidamente nos dois episódios citados. A Rússia não se alinhou geopoliticamente aos EUA. Não houve expansionismo territorial sobre Cuba nesse período. O Irã não era aliado estratégico dos EUA, ao contrário. A China nunca foi incorporada à Otan. Gabarito: A.",
+  "hash": "22677f418b179305",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q62": {
+  "explicacao": "A questão pede o objetivo das medidas do New Deal no contexto do entreguerras. Após a crise de 1929, o liberalismo econômico mostrou-se incapaz de reverter a depressão nos Estados Unidos. O governo Roosevelt passou então a intervir diretamente: controlou preços e produção, valorizou salários e o poder de compra de operários e lavradores e regulamentou o emprego, buscando reativar o mercado interno. A ideia, de inspiração keynesiana, era recompor a capacidade de produzir, vender e lucrar, ou seja, os mecanismos de acumulação capitalista, por meio da ação do Estado. Flexibilizar o mercado financeiro seria o oposto, pois o New Deal aumentou a regulação bancária. A tributação regressiva penaliza os mais pobres e reduziria o consumo. A contenção do crédito agravaria a recessão. A racionalização dos custos da automação com negociação sindical não aparece no texto. Gabarito: E.",
+  "hash": "21792519c8809382",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q63": {
+  "explicacao": "A questão pede o princípio do Futurismo destacado no trecho de Marinetti. O manifesto convoca a incendiar bibliotecas, inundar museus e derrubar cidades veneradas, ou seja, destruir os símbolos da tradição e da memória. Para os futuristas, e para várias vanguardas do início do século XX, a modernidade, marcada pela máquina, pela velocidade e pela técnica, exigia romper radicalmente com o passado. Assim, a modernidade é vista como superação decisiva da história. Dizer que a tradição é incontornável contradiz o desejo de destruí-la. A arte como expressão da memória coletiva é o oposto do ataque aos museus. A determinação econômica da cultura é tese marxista, não futurista. Valorizar a memória como elemento da identidade também contraria a proposta destrutiva do texto. Gabarito: C.",
+  "hash": "afbd56a171c10d46",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q64": {
+  "explicacao": "A questão pede a que aspecto do pensamento moderno se liga a visão de John Rawls. O texto descreve a sociedade como associação de pessoas que reconhecem regras de conduta obrigatórias e aceitam publicamente um mesmo princípio de justiça. Isso retoma a tradição liberal e contratualista: indivíduos livres e autônomos, por acordo racional, estabelecem as regras que os governam, e a legitimidade vem desse consentimento. É a relação entre liberdade e autonomia do Liberalismo, de Locke a Kant, que Rawls atualiza no século XX. A independência entre poder e moral lembra Maquiavel, enquanto Rawls une justiça e ordem política. A convenção com um soberano absoluto, de Hobbes, não corresponde à aceitação mútua entre iguais. Um governo autocrata é estranho à ideia de concepção pública de justiça. A oposição entre bondade e condição selvagem remete a Rousseau e não ao texto. Gabarito: A.",
+  "hash": "24592a1076815770",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q65": {
+  "explicacao": "A questão pede qual era, para Demócrito, o princípio constitutivo das coisas. Hegel compara Demócrito a Anaxágoras porque ambos partem de um infinitamente múltiplo como origem: a realidade é formada pela concentração de inúmeras partículas. Em Demócrito, essas partículas são os átomos, unidades indivisíveis que, combinando-se no vazio, dão origem a todos os entes que percebemos. O número como fundamento é tese pitagórica. O devir e o movimento constante são associados a Heráclito. A água como origem do universo é a resposta de Tales de Mileto. A imobilidade do ser é a posição de Parmênides e da escola eleata. Gabarito: E.",
+  "hash": "c0bc654e5243750d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q66": {
+  "explicacao": "A questão pede em que se baseava o modo de vida socrático descrito por Bréhier. O texto mostra que a conversa com Sócrates transforma o ouvinte, paralisa, embaraça e o leva a refletir sobre si mesmo e a se censurar. Isso descreve o método dialético socrático: por meio de perguntas, Sócrates expõe as contradições do interlocutor (ironia) e o conduz a buscar por si o conhecimento verdadeiro (maiêutica), seguindo o lema conhece-te a ti mesmo. A contemplação da tradição mítica é contrária ao questionamento racional. Sócrates não relativizava a verdade; quem fazia isso eram os sofistas. A argumentação retórica, voltada a persuadir, também era a marca sofista que ele criticava. A investigação da natureza era o foco dos pré-socráticos, enquanto Sócrates voltou-se ao ser humano e à ética. Gabarito: B.",
+  "hash": "75bd7e99a5f8a776",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q67": {
+  "explicacao": "A questão pede a consequência, no Brasil, da inclusão dos tribunais constitucionais no jogo político. O texto explica que o Judiciário passou a controlar os demais poderes e a participar dos processos decisórios, pois o governo precisa evitar infringir a Constituição. No Brasil, isso se manifesta na atuação do Supremo Tribunal Federal sobre temas que caberiam ao Congresso, como decisões sobre união homoafetiva, pesquisas com células-tronco ou financiamento de campanhas. É a chamada judicialização da política, ou seja, de questões próprias da esfera legislativa. Não existem eleições para a alta magistratura no Brasil. A redução de tensões federativas não decorre desse processo. O controle constitucional reforça, e não suspende, os freios e contrapesos. A profissionalização dos servidores não tem relação com a mudança descrita. Gabarito: D.",
+  "hash": "56bf1b307082f2cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q68": {
+  "explicacao": "A questão pede a vegetação e o clima da área descrita por Haesbaert. As pistas são árvores de troncos retorcidos, folhas e arbustos ásperos, solos ácidos, muitas vezes laterizados, e cupinzeiros. Essa é a paisagem do Cerrado, que vem sendo destruída pela modernização agrícola, sobretudo pela soja no oeste baiano, ocupado por agricultores gaúchos. O Cerrado tem vegetação tropófila, adaptada à alternância entre estação chuvosa e estação seca, e clima tropical típico, com verão úmido e inverno seco. A vegetação xerófila com clima semiárido corresponde à Caatinga. A hidrófila com clima equatorial é típica da Amazônia. A aciculifoliada com clima subtropical refere-se à Mata de Araucárias. A semidecídua com clima tropical úmido descreve trechos da Mata Atlântica. Gabarito: A.",
+  "hash": "a12c4d0defcfc838",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q69": {
+  "explicacao": "A questão pede o fator locacional determinante para instalar refinarias, segundo o texto. Murta afirma que a refinaria deve ficar próxima tanto dos centros de consumo quanto das áreas de produção, e que processa petróleo nacional ou importado. Para ligar a matéria-prima à refinaria e os derivados ao mercado, é indispensável uma boa rede de transportes: portos, oleodutos, rodovias e ferrovias. Por isso, o fator decisivo é a proximidade de espaços com infraestrutura de circulação. Sedes de empresas petroquímicas não são citadas como critério. Zonas de importação de derivados não fazem sentido, pois a refinaria produz derivados. Polos tecnológicos não aparecem no texto. A aglomeração de mão de obra também não é mencionada como fator. Gabarito: E.",
+  "hash": "6152ff4acf6c35b3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q70": {
+  "explicacao": "A questão relaciona o aperfeiçoamento da criação de ovelhas na Europa feudal a um processo histórico mais amplo. Duby mostra que compradores vindos de Flandres e da Itália procuravam lã por toda parte, o que estimulou o melhoramento das raças, com destaque para as abadias cistercienses. Esses compradores abasteciam a indústria têxtil das cidades flamengas e italianas, que cresceram com o renascimento comercial e urbano da Baixa Idade Média, entre os séculos XI e XIII. A demanda urbana por matéria-prima puxou o avanço técnico no campo, ligando-se ao desenvolvimento da vida urbana. O trabalho escravo não cresceu; predominava a servidão. Os impostos eram fragmentados e locais, não padronizados. A produção feudal não foi uniformizada. A estrutura fundiária seguiu concentrada nas mãos de nobres e da Igreja. Gabarito: B.",
+  "hash": "773e95154f2ada48",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q71": {
+  "explicacao": "A questão pede uma característica territorial positiva de Belo Monte a partir do infográfico, que compara área alagada e potência das dez maiores usinas do país. Belo Monte alaga apenas 0,5 mil km² e tem potência de 11,2 mil MW, a segunda maior. Calculando a potência por área alagada: Belo Monte, 11,2 ÷ 0,5 ≈ 22,4 MW por km²; Itaipu, 14 ÷ 1,4 = 10; Tucuruí, 8,7 ÷ 3,5 ≈ 2,5; Sobradinho, 1,1 ÷ 4,1 ≈ 0,27. Ou seja, Belo Monte gera muita energia inundando relativamente pouco espaço, o que a coloca no topo do ranking de eficiência. O acentuado desnível do relevo não é informado no gráfico e a usina é a fio d'água em área de planície. O Pará não tem elevada urbanização regional. Não há grandes parques industriais próximos. Belo Monte, no Xingu, não fica perto de fronteiras internacionais. Gabarito: A.",
+  "hash": "0a3a8755122706f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q72": {
+  "explicacao": "A questão pede o processo ambiental descrito por Conti. O texto fala em perda progressiva da produtividade de biomas em áreas subúmidas e semiáridas das regiões quentes, causada por desmatamento, superpastoreio e mineração descontrolada, até o solo perder a capacidade de sustentar qualquer vegetação, natural ou cultivada. Essa é a definição de desertificação, processo que no Brasil afeta núcleos do semiárido nordestino, como Gilbués, no Piauí. A inversão térmica é um fenômeno atmosférico urbano ligado à poluição do ar. A poluição atmosférica não explica a perda de produtividade dos solos. A eutrofização ocorre em corpos d'água pelo excesso de nutrientes. A contaminação dos solos por substâncias tóxicas é diferente da degradação por uso excessivo descrita. Gabarito: E.",
+  "hash": "0bb980fd5d135d3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q73": {
+  "explicacao": "A questão pede a causa da mudança nos fluxos migratórios internos do Brasil desde o fim do século XX. O texto aponta o redirecionamento dos migrantes para as cidades médias, em vez das metrópoles, deslocamentos mais curtos e movimentos pendulares. Isso se explica pela desconcentração industrial: muitas indústrias saíram da região metropolitana de São Paulo e se instalaram no interior paulista e em outros estados, atraídas por incentivos fiscais, mão de obra mais barata e menores custos, gerando empregos em cidades médias. A descapitalização do setor primário não explica a atração das cidades médias; o agronegócio se capitalizou. A economia informal não muda o destino dos fluxos. A tributação residencial urbana não é fator migratório relevante. A saturação do terciário não é a causa apontada para essa redistribuição. Gabarito: D.",
+  "hash": "4584e8610beed720",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q74": {
+  "explicacao": "A questão pede a medida estatal adotada no Legislativo brasileiro para enfrentar a sub-representação feminina descrita por Tabak. A resposta é a política de cotas de gênero: a lei eleitoral exige que cada partido ou coligação preencha no mínimo 30% e no máximo 70% das candidaturas para cada sexo nas eleições proporcionais. É uma ação afirmativa voltada diretamente ao acesso das mulheres aos cargos legislativos. As leis contra a violência doméstica, como a Lei Maria da Penha, são importantes, mas não tratam de representação política. Programas de mobilização nas escolas não são a política adotada. Propagandas de voto consciente não se dirigem especificamente às mulheres. Apoio financeiro a lideranças femininas não é a medida principal implementada pelo Estado nesse âmbito. Gabarito: B.",
+  "hash": "13a75155731c901a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q75": {
+  "explicacao": "A questão pede o que a resolução da ONU de 2012 referendou. A Assembleia-Geral aprovou, por 138 dos 193 votos, a elevação da Palestina a Estado observador não membro, o que os palestinos comemoraram como o nascimento ao menos formal de seu Estado. O significado é político e simbólico: a ampla maioria da comunidade internacional manifestou apoio à reivindicação palestina por um Estado nacional próprio. A resolução não delimitou fronteiras territoriais, que seguem em disputa. Não houve impacto direto na qualidade de vida da população. Não se implementou nenhum tratado de paz com Israel. E o status de observador não membro não equipara a Palestina aos Estados-membros plenos, pois ela não vota na Assembleia. Gabarito: D.",
+  "hash": "2562294a423d659a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q76": {
+  "explicacao": "A questão pede o que Luiz Gama ressalta ao descrever sua mãe, Luiza Mahin. Os detalhes são decisivos: africana livre, nagô, pagã que sempre recusou o batismo e a doutrina cristã, altiva e geniosa, quitandeira e suspeita de participar de planos de insurreição escrava na Bahia. Recusar a religião do senhor, manter a identidade africana, conquistar autonomia econômica pelo comércio e envolver-se em revoltas são formas de resistir à dominação escravista, inclusive no plano cultural. Por isso o trecho destaca estratégias de resistência cultural. Os laços de solidariedade familiar não são o foco da descrição. Hierarquias tribais não aparecem no texto. A dominação religiosa é justamente o que Luiza rejeita, e não algo valorizado. Os limites da alforria não são discutidos, já que ela é apresentada como livre. Gabarito: B.",
+  "hash": "3bd897122b08de5b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q77": {
+  "explicacao": "A questão pede a causa da formação das brisas litorâneas mostradas nas imagens. Terra e água têm calores específicos diferentes: a terra aquece e esfria rapidamente, enquanto o mar varia de temperatura lentamente. Durante o dia, o continente fica mais quente que o oceano; o ar sobre a terra se aquece, sobe e forma uma área de baixa pressão, e o ar mais frio do mar, de alta pressão, desloca-se para o continente: é a brisa marítima. À noite, a terra perde calor mais depressa e fica mais fria que o mar, invertendo o sentido: surge a brisa terrestre, do continente para o oceano. Tudo nasce, portanto, do aquecimento diferencial da superfície. Um gradiente de pressão uniforme não geraria vento algum. Quedas acentuadas de médias térmicas não explicam o ciclo diário. A umidade relativa não é o motor do processo. Variações altimétricas explicam brisas de vale e montanha, não as litorâneas. Gabarito: B.",
+  "hash": "a0e33c278f773ea2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q78": {
+  "explicacao": "A questão pede a finalidade do controle dos meios de comunicação no Estado Novo (1937-1945). O texto mostra que a propaganda buscava empolgar e envolver as multidões, pouco importando o conteúdo das palavras, à maneira de Goebbels, ministro da propaganda nazista. Por meio do Departamento de Imprensa e Propaganda (DIP), Vargas censurava jornais e rádios e difundia a imagem do líder protetor dos trabalhadores, buscando adesão popular a um regime instaurado por golpe, ou seja, legitimar o novo governo. Ampliar o envolvimento nas decisões políticas é falso, pois a ditadura fechou o Congresso e os partidos. Aumentar a oferta de informações contradiz a censura. A participação democrática dos meios de comunicação era impossível sob controle estatal. Alargar o entendimento das intenções do governo também não era o objetivo, já que o texto diz que o significado das palavras importava pouco. Gabarito: A.",
+  "hash": "0bc754d479d9a845",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q79": {
+  "explicacao": "A questão pede o ponto comum entre as reformas de Sólon em Atenas e a Lei das Doze Tábuas em Roma. No Texto I, Sólon recebe poderes para atender às exigências de redistribuição de terras e cancelamento de dívidas, bloqueadas pela oligarquia; ele aboliu a escravidão por dívidas. No Texto II, a publicação das leis romanas tornou as regras conhecidas e limitou o arbítrio dos poderosos, favorecendo o homem comum, isto é, os plebeus. Nos dois casos, normas escritas e válidas para a coletividade reduziram a desigualdade de tratamento entre grupos sociais. A democracia ateniense não foi estabelecida por Sólon, mas depois, com Clístenes. Os códigos não desarticularam as aristocracias, que mantiveram poder. As sociedades já existiam antes desses regulamentos. Os conflitos de interesses não se encerraram, apenas foram mediados. Gabarito: E.",
+  "hash": "ffc20d11d96064f2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q80": {
+  "explicacao": "A questão pede que processo foi acentuado pela Lei de Terras de 1850. Antes dela, era possível obter terras por posse e ocupação; com a lei, o acesso passou a depender exclusivamente da compra em dinheiro. Isso excluía escravizados libertos, imigrantes pobres e trabalhadores livres sem recursos, que não podiam pagar, enquanto os grandes fazendeiros, que tinham capital, ampliavam e legalizavam seus domínios. O resultado foi o reforço da concentração fundiária, que marca o Brasil até hoje. Reforma agrária seria a distribuição de terras, o oposto do efeito da lei. Expansão mercantil não é o foco do texto. A elite não se desruralizou; ao contrário, consolidou seu poder no campo. A mecanização da produção não tem relação com a lei, aprovada num período de agricultura escravista. Gabarito: C.",
+  "hash": "c73dba9b31a686b8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q81": {
+  "explicacao": "A questão pede a característica do movimento citado, o queremismo, de 1945. Com o fim da Segunda Guerra e o desgaste do Estado Novo, Vargas convocou eleições, e surgiram as candidaturas de Eduardo Gomes e Eurico Dutra. Os queremistas, com o lema queremos Getúlio, defendiam que a redemocratização e uma nova Constituinte ocorressem com Vargas no poder, ou seja, uma transição constitucional conduzida e influenciada pelo próprio governante. O texto mostra o apelo popular de Vargas, ainda que sua identidade política fosse ambígua. Reclamar a participação dos partidos não era o centro do movimento. Apoiar a permanência da ditadura não é exato, pois o movimento aceitava a transição democrática, desde que com Vargas. Os direitos trabalhistas já estavam assegurados pela CLT. A representatividade sindical sob controle social não foi bandeira do queremismo. Gabarito: D.",
+  "hash": "fae0bda2829b96cc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q82": {
+  "explicacao": "A questão pede o que a crônica de Machado de Assis associa ao falar da Inconfidência Mineira no início da República. Machado descreve Tiradentes como aquele que se ofereceu a carregar com os pecadores de Israel e pagou por todos, imagem que remete ao sacrifício de Cristo. Ao mesmo tempo, isso ocorre quando a República, recém-proclamada, buscava heróis nacionais e transformava Tiradentes em mártir cívico. A narrativa une, portanto, a redenção cristã à construção de uma cultura cívica republicana. Não há veneração aos santos nem radicalismo militar no texto. Não se faz apologia aos protestantes. Não há tradição messiânica nem tendência regionalista, pois o herói é apresentado como nacional. A representação eclesiástica e o dogmatismo ideológico também não aparecem na crônica. Gabarito: A.",
+  "hash": "e2b1eed265891cf3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q83": {
+  "explicacao": "A questão pede o entendimento da hierarquia católica que explica seu apoio ao golpe de 1964. Segundo o texto, os bispos acreditavam que o desenvolvimento capitalista, com justa distribuição da riqueza, resolveria a miséria rural e assim suprimiria o proselitismo comunista entre camponeses. O raciocínio é que a pobreza tornava os camponeses vulneráveis à propaganda comunista; logo, a privação material favoreceria a manipulação ideológica. Combater a miséria e apoiar um governo anticomunista seriam formas de afastar esse risco. A ideia de que o livre mercado estimula a luta de classes contraria o texto, que defende o desenvolvimento capitalista. A limitação do poder oligárquico pelo Exército não é mencionada. O atraso do interior é visto como problema, não como benefício à doutrina cristã. O domínio empresarial do espaço político não é o argumento da Igreja. Gabarito: E.",
+  "hash": "fb5c0cc63e13a2e3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q84": {
+  "explicacao": "A questão pede uma condição para que a democracia de Habermas favoreça a inclusão social. O texto define sua democracia como deliberativa e procedimental: a legitimidade das decisões depende de uma ampla discussão pública anterior, um processo coletivo de ponderação baseado no discurso. Isso exige um espaço de debate livre e racional em que cidadãos e Estado troquem argumentos antes de decidir, permitindo que diferentes grupos sejam ouvidos. A participação direta periódica do cidadão descreve votação, não deliberação. A interlocução entre os poderes deixa os cidadãos de fora. A eleição de lideranças com mandatos temporários é um procedimento da democracia representativa, mas não o núcleo discursivo de Habermas. O controle por cidadãos mais esclarecidos é elitista e exclui, contrariando a inclusão. Gabarito: B.",
+  "hash": "8e8749caec7985c7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q85": {
+  "explicacao": "A questão pede como a moral kantiana avalia a falsa promessa de pagamento. Para Kant, uma ação é moral quando sua máxima pode ser universalizada: age apenas segundo uma máxima que possas querer que se torne lei universal, o imperativo categórico. Se todos prometessem pagar sabendo que não pagariam, ninguém mais acreditaria em promessas, e a própria prática de prometer deixaria de existir. A máxima se autodestrói ao ser universalizada, por isso a falsa promessa é imoral. Ela se opõe, portanto, ao princípio de que a ação possa valer como norma universal. A livre discussão participativa remete a Habermas. A preservação da vida futura na Terra é a ética da responsabilidade de Hans Jonas. A ideia de que os fins justificam os meios é associada a Maquiavel e é rejeitada por Kant. A maior felicidade para os envolvidos é o critério utilitarista. Gabarito: C.",
+  "hash": "6b2b4a5ac8232ec2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q86": {
+  "explicacao": "A questão pede onde se concentram eventos como o terremoto de 8,8 no Chile, que deslocou cidades como Concepción e Santiago. Os terremotos resultam da liberação de energia acumulada no encontro das placas tectônicas. No Chile, a placa de Nazca mergulha sob a placa Sul-Americana, formando uma zona de subducção que também originou os Andes, um dobramento moderno. Por isso os sismos se concentram em estreitas faixas de intensa atividade, no contato entre placas e próximas a cordilheiras jovens, como o Círculo de Fogo do Pacífico. Áreas vulcânicas existem, mas o vulcanismo não é a causa dos terremotos descritos. Os sedimentos do assoalho oceânico não provocam tsunamis. Escudos cristalinos são áreas antigas e estáveis, e intemperismo não gera sismos. Bacias sedimentares no centro das placas são áreas de baixa sismicidade. Gabarito: C.",
+  "hash": "347f3ef6e50164b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q87": {
+  "explicacao": "A questão pede o fator climático que explica a umidade nas regiões Nordeste e Sul no dia 28/08/2014. A tabela mostra umidade relativa de 90 a 100% justamente no Nordeste e no Sul, enquanto as demais regiões ficam entre 55 e 75%. O mapa de mínimas mostra temperaturas muito baixas no Sul, como 4 °C em Santa Catarina e no Rio Grande do Sul, e cerca de 22 °C no litoral nordestino. Esse quadro indica a atuação de massas de ar: no Sul, a chegada da massa Polar Atlântica, com frente fria, trouxe chuva e queda de temperatura; no litoral do Nordeste, a umidade da massa Tropical Atlântica e os ventos alísios provocaram precipitação no fim do inverno. A altitude não explica uma situação de um único dia nessas duas regiões. A vegetação não determina a umidade de forma tão pontual. Correntes marítimas não mudam de um dia para outro. A continentalidade afetaria o interior, não essas duas regiões em particular. Gabarito: C.",
+  "hash": "4032de32f8435de8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q88": {
+  "explicacao": "A questão pede o que Aristóteles pressupõe ao relacionar o sumo bem e a organização da pólis. O texto afirma que o sumo bem é o fim desejado por si mesmo e que o seu estudo cabe à arte mestra, a política. Ela determina quais ciências serão estudadas na cidade e por quem, subordina até a estratégia, a economia e a retórica, e legisla sobre o que devemos fazer; por isso sua finalidade abrange a das outras e é o bem humano. Assim, a política é a ciência que precede e organiza todas as demais na cidade. A busca de interesses individuais contraria a ideia de um bem comum orientado pela política. A fé nos deuses não aparece como fundamento do sumo bem. A educação é citada, mas como algo determinado pela política, não como o pressuposto central. A democracia não é defendida no trecho como regime garantidor do bem comum. Gabarito: C.",
+  "hash": "6404ef2cd8e6db97",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q89": {
+  "explicacao": "A questão pede a que se associa, do ponto de vista comercial, o avanço tecnológico descrito por Santaella. O texto diz que o comércio aproveitou a interatividade dos meios digitais para traçar com precisão o perfil de interesses de cada usuário e usar a oferta como isca para o desejo de consumo. Com os dados coletados na navegação, as empresas passam a enviar anúncios sob medida para cada pessoa, ou seja, há uma individualização das mensagens publicitárias. A fiscalização da produção pelos consumidores não é mencionada. A exigência de consumidores conscientes de seus direitos é outro tema. A relação direta entre fabricantes e consumidores não é o ponto do texto, que fala de perfil e publicidade. A manutenção das preferências não é o foco; a ideia é estimular novos desejos de consumo. Gabarito: D.",
+  "hash": "943a3394e81924b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2017-regular-d1-q90": {
+  "explicacao": "A questão pede o que revela a releitura da figura de Maria Bonita feita por Zuzu Angel em 1969. A Figura 1 mostra a cangaceira na década de 1930; a Figura 2, um traje de coleção da estilista inspirado no cangaço. Zuzu Angel criou uma moda com referências brasileiras e populares, e sua trajetória ficou marcada pela denúncia da ditadura militar, sobretudo depois do desaparecimento de seu filho, Stuart Angel, militante assassinado pelo regime. O cangaço, símbolo de rebeldia contra a ordem estabelecida, foi apropriado em plena ditadura, após o AI-5, como afirmação de uma estética de resistência. Não há valorização de uma imagem tradicional e submissa da mulher; Maria Bonita é símbolo de ousadia. O folclore nordestino não é descaracterizado, mas valorizado. A ideia não é adaptar o Brasil à moda europeia. Também não se trata de massificar o consumo de arte local. Gabarito: E.",
+  "hash": "2599e35b980839e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  }
 }
