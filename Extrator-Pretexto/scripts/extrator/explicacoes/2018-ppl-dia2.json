@@ -1,0 +1,452 @@
+{
+ "enem-2018-ppl-d2-q100": {
+  "explicacao": "A questão mostra o gráfico da posição em função do tempo e pede os pontos de menor e maior velocidade. Nesse tipo de gráfico, a velocidade em cada instante é a inclinação da reta tangente à curva naquele ponto. No ponto M, topo da curva, a tangente é horizontal: a velocidade é nula, o carro está parando para inverter o sentido. Esse é o ponto de menor velocidade (em módulo). No ponto L, a curva está em seu trecho mais íngreme, quase vertical, o que indica a maior inclinação e, portanto, a maior velocidade. Logo, a resposta é M e L, alternativa C. Na alternativa A, K tem inclinação pequena, mas não nula, e M não é o ponto de maior velocidade. Na alternativa B, em N a tangente ainda é inclinada, e K não é o trecho mais íngreme. Na alternativa D, N não tem velocidade nula como M. Na alternativa E, M tem velocidade zero, não máxima. Gabarito: C.",
+  "hash": "ade5cd63718a84a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q101": {
+  "explicacao": "A questão pede as características do sinal produzido pelo fone com cancelamento ativo de ruído. O fenômeno envolvido é a interferência destrutiva: quando duas ondas se superpõem, suas amplitudes se somam ponto a ponto. Para que a soma seja zero em todos os instantes, o sinal gerado precisa ter a mesma frequência (para acompanhar o ruído o tempo todo), a mesma amplitude (para anular exatamente) e estar em oposição de fase, isto é, com diferença de fase de 180°: onde o ruído tem crista, o sinal do fone tem vale. Assim, a alternativa B está correta. A alternativa A, com defasagem de 90°, produz uma onda resultante de amplitude √2 vezes maior, sem cancelamento. A alternativa C, com 45°, também gera interferência parcialmente construtiva. A alternativa D tem amplitude maior e defasagem de 90°, sem anular o ruído. A alternativa E, com a mesma fase, dobraria a amplitude, por interferência construtiva. Gabarito: B.",
+  "hash": "717eed241ea49dfb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q102": {
+  "explicacao": "A questão pede o rendimento do micro-ondas: a fração da energia elétrica consumida que vira calor na água e na tigela. Calor absorvido, com ΔT = 40 − 6 = 34 °C. Água: Q = m·c·ΔT = 500 × 1,0 × 34 = 17 000 cal. Vidro: Q = 300 × 0,2 × 34 = 2 040 cal. Total: 19 040 cal. Em joules: 19 040 × 4,2 ≈ 79 968 J. Energia fornecida pelo forno: E = P·Δt = 800 W × 2,5 × 60 s = 800 × 150 = 120 000 J. Rendimento: 79 968 ÷ 120 000 ≈ 0,667, ou seja, cerca de 66,7%, alternativa D. A alternativa A (11,8%) aparece ao considerar só o calor da tigela ou trocar unidades. A alternativa B (45,0%) não corresponde a nenhuma combinação correta dos dados. A alternativa C (57,1%) surge ao esquecer o aquecimento do vidro e usar só a água. A alternativa E (78,4%) resulta de erro na conversão de calorias para joules ou do tempo. Gabarito: D.",
+  "hash": "24a4ead93637e845",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q103": {
+  "explicacao": "A questão pede qual autofecundação sustenta a ideia de Mendel de que fatores \"escondidos\" em híbridos reaparecem nas gerações seguintes. Uma planta híbrida resulta do cruzamento de linhagens puras lisa (RR) e rugosa (rr), sendo Rr. Como o alelo liso é dominante, ela tem fenótipo liso, mas carrega o fator rugoso sem manifestá-lo. Ao autofecundar essa planta (Rr × Rr), obtêm-se RR, Rr e rr na proporção 1 : 2 : 1, ou seja, 3 lisas para 1 rugosa. O reaparecimento das sementes rugosas prova que o fator recessivo estava presente, embora oculto. Assim, a alternativa B está correta. A alternativa A contradiz a genética, pois híbridos autofecundados não geram só sementes lisas. A alternativa C, com linhagem pura RR, só produz lisas e não revela nenhum fator oculto. A alternativa D é impossível: linhagem pura recessiva (rr) não gera sementes lisas. A alternativa E é verdadeira como fato, mas não demonstra fatores escondidos. Gabarito: B.",
+  "hash": "d361b2b3b3e4ba73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q104": {
+  "explicacao": "A questão apresenta a escala de cores do suco de repolho-roxo e pede as cores na saliva e no suco gástrico. Pela escala: pH 1 a 3 vermelho, 4 a 6 rosa, 7 a 9 roxo, 9 a 11 azul, 11 a 13 verde e 13 a 14 amarelo. É preciso lembrar os valores de pH dessas secreções. A saliva humana é praticamente neutra, com pH próximo de 6,8 a 7,2, ficando na faixa do roxo. O suco gástrico é fortemente ácido por causa do HCl, com pH entre 1 e 3, ficando na faixa do vermelho. Assim, as cores são roxa e vermelha, alternativa E. A alternativa A atribui à saliva a cor vermelha, como se fosse muito ácida. A alternativa B inverte o caráter, colocando o suco gástrico como básico (azul). A alternativa C considera a saliva levemente ácida e o suco gástrico neutro. A alternativa D atribui ao suco gástrico a cor amarela, de meio fortemente básico. Gabarito: E.",
+  "hash": "604b55ddb761aa02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q105": {
+  "explicacao": "A questão mostra o encanamento ligado a uma caixa-d'água e pede o registro sob maior pressão hidrostática. Pela lei de Stevin, a pressão da água depende apenas da altura da coluna de líquido acima do ponto: p = p₀ + d·g·h, em que h é o desnível entre a superfície da água na caixa e o registro. O formato e o comprimento do cano não importam. Observando a figura, o registro I fica logo abaixo da caixa; o IV e o V estão no alto, perto do telhado; o III está mais embaixo, mas o II é o ponto mais baixo de toda a tubulação. Como II tem a maior profundidade em relação ao nível da água, ele suporta a maior pressão, alternativa B. A alternativa A (I) tem desnível pequeno, logo pressão baixa. A alternativa C (III) está um pouco acima do II. A alternativa D (IV) e a alternativa E (V) estão em pontos altos, com coluna de água pequena. Gabarito: B.",
+  "hash": "89d7d0d52c751f0c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q106": {
+  "explicacao": "A questão pede o tipo de isomeria entre as moléculas representadas. A figura mostra o ácido láctico (ácido 2-hidroxipropanoico), com a hidroxila representada em cunha, indicando a orientação espacial, e a outra estrutura é sua imagem especular. O carbono 2 está ligado a quatro grupos diferentes: H, CH₃, OH e COOH. Esse é um carbono quiral (assimétrico), o que gera dois enantiômeros, moléculas que são imagens especulares não sobreponíveis e que desviam a luz polarizada em sentidos opostos. Esse fenômeno é a isomeria ótica, alternativa A. A alternativa B está errada, pois ambas têm as mesmas funções (ácido carboxílico e álcool). A alternativa C não se aplica, porque a cadeia carbônica é idêntica nas duas estruturas. A alternativa D exige dupla ligação ou ciclo com ligantes diferentes, o que não ocorre. A alternativa E (metameria) exige mudança da posição de um heteroátomo, o que também não acontece. Gabarito: A.",
+  "hash": "6160a70b8999a587",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q107": {
+  "explicacao": "A questão pede a forma mais segura de se proteger dos raios durante uma tempestade. O conceito envolvido é a blindagem eletrostática (gaiola de Faraday): em um condutor metálico eletrizado, as cargas se distribuem na superfície externa e o campo elétrico no interior é nulo. A carroceria metálica do carro funciona como essa gaiola: se um raio atingir o veículo, a corrente percorre a parte externa e escoa para o solo, protegendo quem está dentro. Por isso, entrar no carro é a melhor opção, alternativa A. A alternativa B não protege, pois a barraca de tecido não é condutora nem blinda. A alternativa C, o quiosque de madeira, também não oferece blindagem e pode pegar fogo. A alternativa D é perigosa, pois o guarda-chuva, muitas vezes com haste metálica, torna a pessoa ponto alto e atrativo. A alternativa E é das piores, já que árvores altas e isoladas são alvo frequente de descargas. Gabarito: A.",
+  "hash": "932056d0395e24ac",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q108": {
+  "explicacao": "A questão pede qual substância é liberada quando o ácido acetilsalicílico se degrada sob calor e umidade, produzindo odor característico. O AAS possui um grupo éster, formado na esterificação do ácido salicílico com o grupo acetila. Em presença de água e calor, ocorre a hidrólise desse éster, a reação inversa da esterificação: o AAS reage com H₂O e forma ácido salicílico e ácido acético. O ácido acético, cujo nome oficial é ácido etanoico (CH₃COOH), é volátil e tem o cheiro de vinagre que se percebe em comprimidos velhos. Por isso a alternativa C está correta. A alternativa A (etanol) não se forma, pois não há grupo etila ligado ao oxigênio. A alternativa B (etanal) é um aldeído e não resulta de hidrólise de éster. A alternativa D (etanoato de etila) é outro éster, não um produto de hidrólise. A alternativa E (benzoato de etila) também é um éster sem relação com essa decomposição. Gabarito: C.",
+  "hash": "fda4dfaf12021fe8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q109": {
+  "explicacao": "A questão pede a explicação científica para o resfriamento mais rápido de bebidas no gelo com sal. O ponto central é uma propriedade coligativa: a crioscopia. Ao dissolver sal na água que envolve o gelo, as partículas do soluto dificultam a organização das moléculas de água em cristais, abaixando a temperatura de fusão (solidificação) do sistema. Assim, o gelo passa a derreter mesmo abaixo de 0 °C. Para fundir, ele retira calor do ambiente, incluindo as bebidas, e a mistura de água, sal e gelo atinge temperaturas bem inferiores a 0 °C, resfriando as latas mais depressa. Por isso a alternativa E está correta, e a ideia de que o sal \"remove calor\" é o equívoco citado. A alternativa A não explica o efeito, pois a solubilidade do sal não é o fator decisivo. A alternativa B é incorreta, já que a polaridade da água não muda. A alternativa C cita uma alteração secundária, sem relação com o resfriamento. A alternativa D também não explica o abaixamento de temperatura. Gabarito: E.",
+  "hash": "2261be08c97ed79b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q110": {
+  "explicacao": "A questão pede qual partícula é emitida no decaimento do tório e pode ser bloqueada por uma caixa de aço inoxidável. A equação é ²³⁰₉₀Th → ²²⁶₈₈Ra + partícula + energia. Fazendo o balanço: número de massa, 230 = 226 + A, logo A = 4; número atômico, 90 = 88 + Z, logo Z = 2. Uma partícula com A = 4 e Z = 2 é um núcleo de hélio, ⁴₂He, isto é, a partícula alfa. Ela é pesada, tem carga +2 e baixo poder de penetração, sendo barrada até por uma folha de papel, de modo que uma caixa de aço a bloqueia com facilidade. Alternativa A. A alternativa B (beta) tem massa praticamente nula e carga −1, o que não fecha o balanço. A alternativa C (próton) teria A = 1 e Z = 1. A alternativa D (nêutron) teria A = 1 e Z = 0. A alternativa E (pósitron) tem massa desprezível e carga +1, também incompatível com a equação. Gabarito: A.",
+  "hash": "3cd7d626dd29ef53",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q111": {
+  "explicacao": "A questão mostra as etapas de um processo de produção de etanol a partir do bagaço e das folhas da cana e pergunta em qual etapa o combustível é efetivamente sintetizado. Seguindo a figura: na etapa 1 a cana é moída; na 2 o bagaço é lavado; na 3 ocorre a hidrólise da celulose, que quebra esse polissacarídeo em glicose; na 4 acontece a fermentação do caldo; e na 5 a mistura é destilada. O etanol é produzido na fermentação alcoólica, quando leveduras convertem a glicose em etanol e gás carbônico: C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂. Portanto, a síntese ocorre na etapa 4, alternativa D. A alternativa A (1) é apenas a moagem, um processo mecânico. A alternativa B (2) é a lavagem, que só prepara o bagaço. A alternativa C (3) produz glicose, a matéria-prima, e não o etanol. A alternativa E (5) apenas separa o etanol já formado da água, por destilação. Gabarito: D.",
+  "hash": "cfbeddba799ba3ef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q112": {
+  "explicacao": "A questão pede qual tipo de reação deve ser evitado para reduzir a formação de gorduras trans na hidrogenação parcial de óleos. O texto diz que, paralelamente à hidrogenação, ocorre a conversão de gorduras cis em trans. Gorduras cis e trans têm a mesma fórmula molecular e diferem apenas na disposição espacial dos grupos em torno da dupla ligação; ou seja, são isômeros geométricos. A transformação de uma forma na outra é, portanto, uma reação de isomerização. Para minimizar os subprodutos trans, a indústria precisa evitar condições que favoreçam essa isomerização, alternativa E. A alternativa A é a própria hidrogenação (adição de H₂ à dupla), que é o processo desejado, não o que gera o trans. A alternativa B não tem relação com a mudança de configuração cis/trans. A alternativa C não descreve o fenômeno, já que nenhum grupo é trocado por outro. A alternativa D é genérica; a conversão cis → trans não envolve, em si, transferência de elétrons. Gabarito: E.",
+  "hash": "0b85df0ee411b494",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q113": {
+  "explicacao": "A questão pede a classificação da alteração cromossômica no astrocitoma pilocítico. O texto diz que o gene BRAF se quebra e parte dele se funde ao gene KIAA1549, que normalmente fica em outra região do genoma. Isso mostra que o número de cromossomos não muda; o que muda é a estrutura, já que um segmento de material genético é deslocado de seu lugar original e passa a se ligar a outra região. Esse tipo de alteração estrutural, em que um fragmento muda de posição e se une a outro local, é chamado translocação. A sonda fluorescente comprova isso, pois as cores, antes separadas, aparecem sobrepostas. Assim, a alternativa E está correta. A alternativa A (deleção) seria apenas perda de um segmento, sem fusão com outro gene. A alternativa B (euploidia) envolve alteração de lotes cromossômicos inteiros. A alternativa C (duplicação) seria a repetição de um trecho, não sua fusão a outro gene. A alternativa D (aneuploidia) envolve ganho ou perda de cromossomos inteiros. Gabarito: E.",
+  "hash": "c3485ccd45ebf02f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q114": {
+  "explicacao": "A questão pede a força de atrito entre a parede e a moeda de R$ 1,00, sabendo que as duas moedas estão em repouso, pressionadas pelo dedo. A melhor estratégia é considerar o conjunto das duas moedas como um único corpo. Na vertical atuam sobre ele o peso total, para baixo, e a força de atrito da parede, para cima (o dedo pressiona horizontalmente). Como o sistema está em equilíbrio, a resultante é nula: F_at = P_total = 0,05 + 0,09 = 0,14 N. Note que a parede só toca a moeda de R$ 1,00, então é sobre ela que esse atrito atua, sustentando as duas moedas. Alternativa E. A alternativa A (0,04 N) é a diferença entre os pesos, sem sentido físico aqui. A alternativa B (0,05 N) é apenas o peso da moeda de R$ 0,10. A alternativa C (0,07 N) é a média dos pesos. A alternativa D (0,09 N) considera só o peso da moeda de R$ 1,00, esquecendo a outra. Gabarito: E.",
+  "hash": "1c6a41cc53671f54",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q115": {
+  "explicacao": "A questão pede o fenômeno evolutivo que explica por que espécies que coexistem apresentam diferenças de comportamento, fisiologia ou morfologia que reduzem a competição. O texto descreve espécies derivadas de ancestrais que disputavam os mesmos recursos. Os indivíduos que, por variação, exploravam recursos ligeiramente diferentes sofriam menos competição, sobreviviam mais e deixavam mais descendentes. Ao longo de gerações, essas características foram favorecidas e mantidas, levando à diferenciação de nichos. Esse mecanismo, em que o ambiente favorece as variações mais vantajosas, é a seleção natural, alternativa C. A alternativa A (mutação) gera variação, mas não explica por que certas diferenças são mantidas. A alternativa B (fluxo gênico) tende a homogeneizar populações, e não a diferenciá-las. A alternativa D (deriva genética) é aleatória e não produz adaptações direcionadas à redução da competição. A alternativa E (Hardy-Weinberg) descreve justamente uma população que não evolui. Gabarito: C.",
+  "hash": "10a1bebad67aa868",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q116": {
+  "explicacao": "A questão pede por que se deve verter o ácido sulfúrico na água, e não o contrário, como diz Primo Levi. O ponto central é que a dissolução do H₂SO₄ concentrado em água é fortemente exotérmica, liberando grande quantidade de calor. Se a água for adicionada ao ácido, as primeiras porções de água ficam em contato com muito ácido; o calor liberado é suficiente para ferver essa pequena quantidade de água instantaneamente, causando respingos violentos de ácido concentrado. Quando o ácido é adicionado aos poucos à água, a grande massa de água absorve o calor e a temperatura sobe de forma controlada. Por isso a alternativa A está correta. A alternativa B exagera: a mistura não é explosiva, o problema são os respingos por aquecimento. A alternativa C está errada, pois água não neutraliza ácido. A alternativa D é falsa, já que água e ácido sulfúrico são miscíveis. A alternativa E não explica o perigo descrito, que é térmico. Gabarito: A.",
+  "hash": "a8cd80b57fffe8e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q117": {
+  "explicacao": "A questão pede o teor de sílica na argila depois que a água é removida na secagem. Use uma base de 100 g de argila úmida. Nela há 45 g de SiO₂ e 10 g de H₂O; o restante, 45 g, são outros componentes. Na secagem, só a água sai, então a massa de argila seca é 100 − 10 = 90 g, e a massa de sílica continua 45 g. O novo teor é 45 ÷ 90 = 0,5, ou seja, 50%. Alternativa B. A alternativa A (45%) mantém o teor original, ignorando que a massa total diminuiu. A alternativa C (55%) soma 45% e 10%, como se a água virasse sílica. A alternativa D (90%) confunde o teor com a massa restante após a secagem. A alternativa E (100%) supõe que só sobraria sílica, o que é falso, pois há outros componentes. Gabarito: B.",
+  "hash": "f547478fb3d21548",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q118": {
+  "explicacao": "A questão pede qual síntese é inibida diretamente pela ricina. O texto informa que a ricina entra na célula por endocitose e destrói os ribossomos. Os ribossomos são as organelas responsáveis pela tradução, ou seja, a leitura do RNA mensageiro e a montagem das cadeias de aminoácidos que formam as proteínas. Sem ribossomos funcionais, a célula não produz enzimas, proteínas estruturais e outras proteínas vitais, e morre rapidamente. Assim, o efeito direto é a inibição da síntese de proteínas, alternativa D. A alternativa A está errada, pois o RNA é sintetizado por transcrição no núcleo, sem participação dos ribossomos. A alternativa B também não procede, já que a replicação do DNA depende de DNA polimerase, não de ribossomos. A alternativa C não se aplica, pois lipídios são sintetizados principalmente no retículo endoplasmático liso. A alternativa E também não depende diretamente de ribossomos; carboidratos são produzidos por outras vias. Gabarito: D.",
+  "hash": "65cc72bcaa376332",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q119": {
+  "explicacao": "A questão pede a massa de prata regenerada a partir de 2,48 g de Ag₂S. Primeiro, balanceie a reação: 3 Ag₂S + 2 Al → Al₂S₃ + 6 Ag. A relação importante é que cada 1 mol de Ag₂S fornece 2 mol de Ag, pois cada fórmula contém dois átomos de prata. Massa molar do Ag₂S: 2 × 108 + 32 = 248 g/mol. Quantidade de Ag₂S: 2,48 ÷ 248 = 0,01 mol. Quantidade de Ag: 2 × 0,01 = 0,02 mol. Massa de prata: 0,02 × 108 = 2,16 g. Alternativa D. Outra forma: a fração de prata no Ag₂S é 216/248, e 2,48 × 216/248 = 2,16 g. A alternativa A (0,54 g) divide a prata por quatro sem justificativa. A alternativa B (1,08 g) considera apenas 1 mol de Ag por mol de Ag₂S. A alternativa C (1,91 g) não corresponde a uma proporção correta. A alternativa E (3,82 g) supera a massa da amostra, o que é impossível. Gabarito: D.",
+  "hash": "e418e61ea9693cf5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q120": {
+  "explicacao": "A questão pede o par de estruturas mais facilmente diferenciável no ultrassom, ou seja, o de maior diferença de impedância acústica Z = ρ·v. Calculando com a tabela: cérebro, 1 020 × 1 530 ≈ 1,56 × 10⁶; músculo, 1 040 × 1 580 ≈ 1,64 × 10⁶; gordura, 920 × 1 450 ≈ 1,33 × 10⁶; osso, 1 900 × 4 040 ≈ 7,68 × 10⁶ (em kg/(m²·s)). O osso tem impedância muito maior que os demais, e a gordura, a menor. Logo, a maior diferença é entre osso e gordura: cerca de 7,68 − 1,33 = 6,35 × 10⁶. Alternativa A. A alternativa B (cérebro e osso) tem diferença grande, cerca de 6,12 × 10⁶, mas menor que a do par osso-gordura. A alternativa C (gordura e cérebro) tem diferença de apenas 0,23 × 10⁶. A alternativa D (músculo e cérebro) tem diferença ainda menor, de 0,08 × 10⁶. A alternativa E (gordura e músculo) difere cerca de 0,31 × 10⁶, pouco. Gabarito: A.",
+  "hash": "230de6a81040bf07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q121": {
+  "explicacao": "A questão pede em quais circuitos o equipamento está ligado de forma adequada, ou seja, com corrente de funcionamento que não ultrapassa o disjuntor. Usamos P = U·i, logo i = P ÷ U. Circuito 1: 4 200 W em 110 V, i = 4 200 ÷ 110 ≈ 38,2 A, maior que os 20 A do disjuntor, portanto inadequado. Circuito 2: 4 200 W em 220 V, i = 4 200 ÷ 220 ≈ 19,1 A, abaixo de 20 A, adequado. Circuito 3: 6 600 W em 220 V, i = 6 600 ÷ 220 = 30 A, abaixo de 35 A, adequado; a bitola de 6,0 mm² também é compatível com essa corrente. Assim, apenas os circuitos 2 e 3 estão corretos, alternativa E. A alternativa A inclui só o circuito 1, justamente o que desarmaria o disjuntor. A alternativa B esquece o circuito 3, que também está adequado. A alternativa C esquece o circuito 2. A alternativa D inclui o circuito 1, inadequado. Gabarito: E.",
+  "hash": "21753394a68af320",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q122": {
+  "explicacao": "A questão pede a principal fonte de monóxido de carbono com a qual grande parte da população convive diariamente. O CO é tóxico porque se liga à hemoglobina com afinidade muito maior que o O₂, formando carboxiemoglobina e reduzindo o transporte de oxigênio. Ele se forma na combustão incompleta, quando há pouco oxigênio disponível para oxidar totalmente o carbono a CO₂. A fonte mais presente no cotidiano urbano é a queima de combustíveis fósseis, como gasolina e diesel, em motores de veículos, onde a combustão frequentemente é incompleta. Por isso a alternativa D está correta. A alternativa A até produz CO, mas queimadas não são o contato diário da maior parte da população. A alternativa B gera principalmente metano e CO₂, não CO em grande quantidade. A alternativa C produz metano, pela fermentação no rúmen. A alternativa E é uma fonte localizada e não explica a exposição diária generalizada. Gabarito: D.",
+  "hash": "090687dc894a57c0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q123": {
+  "explicacao": "A questão pede qual região terá maior prejuízo com grãos, ou seja, onde a população de roedores mais cresce. O crescimento é dado por entradas menos saídas: (n + i) − (m + e). Calculando com o quadro: I, (65 + 5) − (40 + 23) = 70 − 63 = 7; II, (27 + 2) − (8 + 18) = 29 − 26 = 3; III, (54 + 16) − (28 + 15) = 70 − 43 = 27; IV, (52 + 40) − (25 + 12) = 92 − 37 = 55; V, (12 + 4) − (9 + 6) = 16 − 15 = 1. A população IV tem o maior saldo positivo, crescendo 55 indivíduos por período, e portanto causará mais danos à produção e armazenagem de grãos. Alternativa D. A alternativa A (I) tem a maior natalidade, mas também alta mortalidade e emigração, com saldo de apenas 7. A alternativa B (II) cresce só 3. A alternativa C (III) cresce 27, metade de IV. A alternativa E (V) praticamente estabilizou, com saldo 1. Gabarito: D.",
+  "hash": "1ba5dbb5acb1a6da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q124": {
+  "explicacao": "A questão pede o pH de uma solução de ácido sulfúrico diluída 2 000 vezes, com dissociação total. Passo 1, concentração molar inicial: massa molar do H₂SO₄ = 2 × 1 + 32 + 4 × 16 = 98 g/mol; logo 98 g/L ÷ 98 g/mol = 1 mol/L. Passo 2, diluição: 1 ÷ 2 000 = 5 × 10⁻⁴ mol/L. Passo 3, cada H₂SO₄ libera 2 H⁺: [H⁺] = 2 × 5 × 10⁻⁴ = 1 × 10⁻³ mol/L. Passo 4, pH = −log[H⁺] = −log(10⁻³) = 3,0. Alternativa B. A alternativa A (2,6) não corresponde a nenhum cálculo coerente com os dados. A alternativa C (3,2) não sai de nenhuma combinação correta da tabela de logaritmos. A alternativa D (3,3) resulta de esquecer que o ácido é diprótico: [H⁺] = 5 × 10⁻⁴ dá pH = 4 − 0,7 = 3,3. A alternativa E (3,6) também não segue da estequiometria correta. Gabarito: B.",
+  "hash": "149caafe80b5c19f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q125": {
+  "explicacao": "A questão pede o nome do processo pelo qual as larvas do bicho-da-farinha reduzem o acúmulo de isopor. O texto diz que as larvas se alimentam do poliestireno expandido e o transformam em dióxido de carbono e outros componentes. Isso é a decomposição de um material por ação de seres vivos, que quebram suas moléculas em substâncias mais simples. Esse processo recebe o nome de biodegradação, alternativa C. A alternativa A (bioindicação) é o uso de organismos para indicar a qualidade do ambiente, sem degradar poluentes. A alternativa B (biomarcação) refere-se a marcadores biológicos que sinalizam exposição ou estado de saúde. A alternativa D (bioacumulação) é o acúmulo de substâncias nos tecidos do organismo, o oposto de transformá-las. A alternativa E (biomonitoramento) é o acompanhamento da qualidade ambiental por meio de organismos, sem ação sobre o isopor. Gabarito: C.",
+  "hash": "e855959156aafd36",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q126": {
+  "explicacao": "A questão compara jarras branca e preta, com água fria (8 °C) e depois quente (90 °C), e pergunta qual chega mais rápido à temperatura ambiente. O conceito é a troca de calor por radiação térmica: superfícies escuras são boas absorvedoras e também boas emissoras de radiação, enquanto superfícies brancas refletem mais e emitem menos (lei de Kirchhoff da radiação). Na primeira situação, a água fria precisa receber calor do ambiente; a jarra preta absorve melhor a radiação e esquenta mais rápido. Na segunda, a água quente precisa perder calor; a jarra preta emite radiação com mais eficiência e esfria mais rápido. Assim, a preta demora menos nas duas situações, alternativa A. A alternativa B inverte o comportamento das cores. A alternativa C ignora que a cor da superfície altera a troca por radiação. A alternativa D erra ao supor que a branca emite melhor. A alternativa E erra ao supor que a branca absorve melhor. Gabarito: A.",
+  "hash": "1cbd4bc31f703034",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q127": {
+  "explicacao": "A questão pede por que o médico recomendou alimentos ricos em carotenoides para tratar a cegueira noturna. Os carotenoides, como o β-caroteno da cenoura, são precursores da vitamina A (retinol). No organismo, o retinol é convertido em retinal, que se combina com a proteína opsina para formar a rodopsina, pigmento fotossensível dos bastonetes, as células da retina responsáveis pela visão em baixa luminosidade. A deficiência de vitamina A reduz a rodopsina e causa justamente dificuldade de enxergar no escuro, a nictalopia. Assim, a alternativa C está correta. A alternativa A está errada, pois carotenoides não são precursores de hormônios de regeneração da retina. A alternativa B não procede, já que eles não originam enzimas da respiração celular. A alternativa D confunde com a vitamina E (tocoferol), que não deriva de carotenoides. A alternativa E erra, pois a vitamina C não é produzida a partir de carotenoides. Gabarito: C.",
+  "hash": "d34eeef4f09f4913",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q128": {
+  "explicacao": "A questão pergunta qual força de atrito converte a energia elástica da mola em energia cinética quando o carrinho anda sem deslizar. Quando a roda rola sem escorregar, o ponto da roda em contato com o chão está instantaneamente parado em relação à superfície; por isso o atrito é estático, não dinâmico. A mola faz a roda girar e a roda tende a empurrar o chão para trás; pela terceira lei de Newton, a superfície rugosa exerce sobre a roda uma força de atrito para frente. É essa força, aplicada na roda pela superfície, que acelera o carrinho. Logo, alternativa B: atrito estático na roda, devido à superfície rugosa. A alternativa A fala em atrito dinâmico com o eixo, que é interno e não impulsiona o carrinho. A alternativa C descreve a força que a roda faz no chão, que não age sobre o carrinho. A alternativa D e a alternativa E tratam o atrito como dinâmico, o que só ocorreria se houvesse deslizamento. Gabarito: B.",
+  "hash": "559fe98fe45cbc37",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q129": {
+  "explicacao": "A questão pede o que é essencial para a fase da fotossíntese que produz ATP e NADPH, isto é, a fase clara (fotoquímica). Ela ocorre nos tilacoides do cloroplasto. A luz excita a clorofila, e os elétrons energizados percorrem uma cadeia transportadora, gerando ATP (fotofosforilação) e reduzindo NADP⁺ a NADPH. Os elétrons perdidos pela clorofila são repostos pela fotólise da água, que libera O₂ como subproduto. Portanto, radiação luminosa e água são indispensáveis, alternativa C. A alternativa A inclui o oxigênio, que é produto da fase clara, não reagente. A alternativa B traz glicose e oxigênio, ambos produtos da fotossíntese. A alternativa D inclui a glicose, que é formada na fase de fixação do carbono. A alternativa E traz o CO₂, usado na fase de fixação (ciclo de Calvin), e o O₂, que é produto. Gabarito: C.",
+  "hash": "f105ee9456300752",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q130": {
+  "explicacao": "A questão pede qual ligação, entre átomos diferentes do hidrogênio, absorve radiação infravermelha de maior frequência na 2-amino-6-cianopiridina. O texto dá o critério: quanto mais forte a ligação e mais leves os átomos envolvidos, maior a frequência de vibração. A força cresce com a multiplicidade: ligação tripla > dupla > simples. Na molécula há ligações C―C e C=C no anel, C―N e C=N no anel e no grupo amino, e a ligação tripla C≡N do grupo ciano (nitrila). A tripla é a mais forte de todas, e C e N são átomos leves, com massas semelhantes. Assim, a ligação C≡N vibra com maior frequência, alternativa E. A alternativa A (C―C) é simples, a mais fraca. A alternativa B (C―N) também é simples. A alternativa C (C=C) é dupla, mais fraca que uma tripla. A alternativa D (C=N) é dupla e, portanto, também mais fraca que a C≡N. Gabarito: E.",
+  "hash": "7e7d9c6b9e2d85a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q131": {
+  "explicacao": "A questão pede qual grandeza é igual para o martelo (1,32 kg) e a pena (30 g) durante a queda no vácuo da Lua. Sem resistência do ar, a única força relevante é o peso, P = m·g. Pela segunda lei de Newton, a = P ÷ m = m·g ÷ m = g. A massa se cancela, e os dois corpos caem com a mesma aceleração, a gravidade lunar, por isso chegam juntos ao solo, como previu Galileu. Alternativa D. A alternativa A está errada, pois inércia está ligada à massa, e as massas são muito diferentes. A alternativa B não procede, já que o impulso do peso, I = P·Δt, depende da massa. A alternativa C também depende da massa, pois o trabalho do peso é m·g·h. A alternativa E é falsa pelo mesmo motivo: a energia potencial m·g·h é muito maior para o martelo. Gabarito: D.",
+  "hash": "cbb650f4bdf32064",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q132": {
+  "explicacao": "A questão pede o que há em comum entre três ações da reciclagem de latas: catação manual, separação por jato de ar e retirada de objetos de ferro com ímã. Em todas elas, os objetos são deslocados por ação de uma força: na catação, a força muscular de quem recolhe e separa as latas; no jato de ar, a força exercida pelo ar em movimento, que arrasta as latas mais leves; na separação magnética, a força magnética, que atrai e desloca os objetos com ferro. Quando uma força atua e há deslocamento na direção dela, há realização de trabalho. Por isso a alternativa E está correta. A alternativa A não se aplica, pois nenhuma das etapas envolve aquecimento. A alternativa B está errada, já que não se usa luz em nenhuma delas. A alternativa C falha porque o jato de ar e o ímã podem operar sem ação humana direta. A alternativa D não vale para a catação e pode não valer para um ímã permanente. Gabarito: E.",
+  "hash": "3591f741289cdb8c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q133": {
+  "explicacao": "A questão pede a economia, por bombona de 50 kg, ao comparar o preço por quilograma de cloro ativo. Fornecedor 1: balde de 10 kg com 65% de cloro, ou seja, 6,5 kg de cloro por R$ 65,00; preço = 65 ÷ 6,5 = R$ 10,00 por kg de cloro. Fornecedor 2: bombona de 50 kg com 10% de cloro, ou seja, 5 kg de cloro por R$ 20,00; preço = 20 ÷ 5 = R$ 4,00 por kg de cloro. Uma bombona tem 5 kg de cloro ativo. Comprar essa mesma quantidade do fornecedor 1 custaria 5 × 10 = R$ 50,00, contra R$ 20,00 da bombona. Economia: 50 − 20 = R$ 30,00, alternativa D. A alternativa A (R$ 4,00) é apenas o preço por kg de cloro na bombona. A alternativa B (R$ 6,00) é a diferença de preço por kg, sem multiplicar pelos 5 kg. A alternativa C (R$ 10,00) é o preço por kg do fornecedor 1. A alternativa E (R$ 45,00) compara valores sem considerar o teor de cloro. Gabarito: D.",
+  "hash": "5ffcf1fde2689596",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q134": {
+  "explicacao": "A questão pede qual material caseiro imita a ação de um dispersante de petróleo, que reduz a tensão superficial do óleo e o fragmenta em gotículas dispersas na água. O detergente é um tensoativo (surfactante): suas moléculas têm uma parte apolar, que interage com o óleo, e uma parte polar ou iônica, que interage com a água. Elas se posicionam na interface óleo-água, diminuem a tensão superficial e envolvem o óleo em micelas, permitindo que ele se espalhe em gotículas pela água. É exatamente o efeito do dispersante, alternativa C. A alternativa A é errada, pois azeite é outro óleo apolar e apenas se juntaria às gotas. A alternativa B (vinagre) é solução aquosa de ácido acético, sem ação tensoativa relevante. A alternativa D (água sanitária) é oxidante e alvejante, não emulsificante. A alternativa E (sal) dissolve-se na água e não interage com o óleo de modo a dispersá-lo. Gabarito: C.",
+  "hash": "3c78cd93ed127df0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q135": {
+  "explicacao": "A questão pede qual bateria de 12 células tem maior capacidade de carga, a de 10,8 V ou a de 14,4 V. Lembre: em série, as tensões se somam e a capacidade (mAh) é a de uma célula; em paralelo, a tensão é a de uma célula e as capacidades se somam. Bateria de 10,8 V: 10,8 ÷ 3,6 = 3 células em série por conjunto; com 12 células, há 12 ÷ 3 = 4 conjuntos ligados em paralelo, somando 4 vezes a capacidade de uma célula. Bateria de 14,4 V: 14,4 ÷ 3,6 = 4 células em série; 12 ÷ 4 = 3 conjuntos em paralelo, ou 3 vezes a capacidade. Logo a de 10,8 V tem maior capacidade, alternativa A. A alternativa B descreve corretamente a de 14,4 V, mas ela tem capacidade menor. A alternativa C erra a montagem e a conclusão. A alternativa D inverte série e paralelo, o que daria 4 × 3,6 V = 14,4 V. A alternativa E colocaria todas as 12 células em série, resultando em 43,2 V. Gabarito: A.",
+  "hash": "8cc9ac2d5d8bde0f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q136": {
+  "explicacao": "A questão pede a mediana dos valores mensais de IMC mostrados no gráfico. Lendo cada mês: jan 29,5; fev 27,7; mar 27,1; abr 27,4; mai 28,3; jun 28,6; jul 27,7; ago 27,4; set 26,5; out 26,2; nov 27,1; dez 27,4. Colocando em ordem crescente: 26,2; 26,5; 27,1; 27,1; 27,4; 27,4; 27,4; 27,7; 27,7; 28,3; 28,6; 29,5. Como são 12 valores (quantidade par), a mediana é a média dos 6º e 7º termos: (27,4 + 27,4) ÷ 2 = 27,40. Alternativa A. A alternativa B (27,55) é a média entre 27,4 e 27,7, resultado de contar errado as posições. A alternativa C (27,70) corresponde ao 8º ou 9º termo. A alternativa D (28,15) não é termo central em nenhuma ordenação correta. A alternativa E (28,45) é a média entre 28,3 e 28,6, valores próximos ao topo da lista ordenada. Gabarito: A.",
+  "hash": "f90761c544fd79e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q137": {
+  "explicacao": "A questão pede a lei da função afim representada pelo segmento de reta no gráfico. Os pontos de destaque são (0, 50), início com tanque cheio, e (500, 0), quando o combustível acaba. A forma geral é y = a·x + b. O coeficiente linear b é o valor de y quando x = 0, logo b = 50. O coeficiente angular é a = Δy ÷ Δx = (0 − 50) ÷ (500 − 0) = −50 ÷ 500 = −1/10. Assim, y = −x/10 + 50, alternativa B. Conferindo: para x = 100 km, y = −10 + 50 = 40 L, como no gráfico. A alternativa A troca os eixos, com inclinação −10 e intercepto 500. A alternativa C usa 500 como valor inicial, mas o tanque começa com 50 L. A alternativa D tem inclinação positiva, indicando aumento de combustível. A alternativa E combina inclinação positiva e intercepto errado. Gabarito: B.",
+  "hash": "613e0ad77223197e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q138": {
+  "explicacao": "A questão pede o gráfico de R em função de S sabendo que a resistência é inversamente proporcional à área da seção transversal. Grandezas inversamente proporcionais obedecem a R = k ÷ S, com k constante positiva (pela segunda lei de Ohm, k = ρ·L). O produto R·S é constante: ao dobrar S, R cai pela metade; ao triplicar, cai para um terço. O gráfico dessa relação é um ramo de hipérbole: decrescente, curvado, com R muito grande para S pequeno e tendendo a zero, sem tocá-lo, quando S cresce. É exatamente a curva mostrada na alternativa C. As alternativas restantes não têm esse formato. Uma reta crescente indicaria proporcionalidade direta. Uma reta decrescente representaria uma função afim, em que R zeraria para certo valor de S, o que não acontece. Uma curva crescente indicaria que a resistência aumenta com a área. Uma linha horizontal significaria R independente de S. Gabarito: C.",
+  "hash": "ecd6bf60d1cbe6ad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q139": {
+  "explicacao": "[REVISAR] As alternativas estão com as frações corrompidas na extração; a explicação usa a versão original da prova. A questão pede a duração de cada figura musical, sabendo que a semibreve vale 1 unidade e que cada figura vale a metade da anterior. Basta dividir sucessivamente por 2: mínima = 1/2; semínima = 1/4; colcheia = 1/8; semicolcheia = 1/16; fusa = 1/32; semifusa = 1/64. A sequência é uma progressão geométrica de razão ½, que corresponde à alternativa E: 1/2, 1/4, 1/8, 1/16, 1/32, 1/64. A alternativa A dobra os valores em vez de dividi-los. A alternativa B também cresce e começa em 1, que é o valor da semibreve, não da mínima. A alternativa C começa em 1 e para em 1/32, deslocando todos os termos em uma posição. A alternativa D traz frações acumuladas (como 3/4 e 63/64), que são somas de durações, e não a duração de cada figura. Gabarito: E.",
+  "hash": "7d2fddeb6f1f986f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q140": {
+  "explicacao": "A questão pede a posição final do coração após cinco isometrias. Na figura inicial, o coração está no 1º quadrante, com a ponta A embaixo e os lóbulos para cima. Uma forma prática é acompanhar o ponto A e a direção \"de A para os lóbulos\", que começa apontando para cima, (0, 1). Rotações em torno de A não movem A. 1ª, reflexão no eixo x: A vai ao 4º quadrante e a direção vira (0, −1), para baixo. 2ª, rotação de 90° anti-horária: (0, −1) vira (1, 0), para a direita. 3ª, reflexão no eixo y: A vai ao 3º quadrante e a direção vira (−1, 0), para a esquerda. 4ª, rotação de 45° horária: a direção passa a apontar para cima e para a esquerda, a 135°. 5ª, reflexão no eixo x: A vai ao 2º quadrante e a direção vira para baixo e para a esquerda, a 225°. Resultado: o coração tem a ponta A no alto, à direita, e o corpo inclinado para baixo e para a esquerda, como na alternativa C. As alternativas restantes mostram o coração com inclinações que não respeitam essa sequência de transformações. Gabarito: C.",
+  "hash": "d228d357b1be12e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q141": {
+  "explicacao": "A questão envolve duas mudanças de escala: a foto está na escala 1 : 5 em relação ao vaso real, e a cópia impressa triplica as dimensões da foto. Na cópia, o vaso mede 30 cm. Desfazendo as etapas: primeiro, voltamos da cópia para a foto dividindo por 3: 30 ÷ 3 = 10 cm na foto. Depois, como cada 1 cm da foto corresponde a 5 cm do objeto real, multiplicamos por 5: 10 × 5 = 50 cm. A altura real do vaso é 50 cm, alternativa C. Também é possível ver a escala total da cópia: 3 × (1/5) = 3/5, e 30 ÷ (3/5) = 50 cm. A alternativa A (2) divide 30 por 15, invertendo a escala. A alternativa B (18) multiplica 30 por 3/5, aplicando a escala no sentido errado. A alternativa D (60) não corresponde a nenhuma combinação correta. A alternativa E (90) multiplica 30 por 3, ignorando a escala 1 : 5. Gabarito: C.",
+  "hash": "543b9eb4c66ec482",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q142": {
+  "explicacao": "A questão pede o ângulo GÎF em um octógono regular, com o triângulo IGH equilátero. Passo 1: o ângulo interno de um octógono regular é (8 − 2) × 180° ÷ 8 = 1 080° ÷ 8 = 135°. Logo, o ângulo FĜH mede 135°. Passo 2: como IGH é equilátero, o ângulo IĜH = 60°. Portanto FĜI = 135° − 60° = 75°. Passo 3: os lados do octógono são iguais e o triângulo é equilátero, então GF = GH = GI. O triângulo FGI é isósceles de base FI, com ângulo do vértice G igual a 75°. Os ângulos da base são iguais: GÎF = (180° − 75°) ÷ 2 = 105° ÷ 2 = 52,5°. Alternativa E. A alternativa A (120°) mistura o ângulo do equilátero com outros valores sem justificativa. A alternativa B (75°) é o ângulo em G, não em I. A alternativa C (67,5°) é metade do ângulo interno do octógono. A alternativa D (60°) é o ângulo do triângulo equilátero. Gabarito: E.",
+  "hash": "d464a88289f8c2bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q143": {
+  "explicacao": "A questão pede o carro mais econômico, ou seja, o de maior razão km/L. Calculando cada um: Carro I, 195 ÷ 20 = 9,75 km/L. Carro II, 96 ÷ 12 = 8 km/L. Carro III, 145 ÷ 16 ≈ 9,06 km/L. Carro IV, 225 ÷ 24 ≈ 9,38 km/L. Carro V, 65 ÷ 8 ≈ 8,13 km/L. O maior rendimento é o do carro I, com 9,75 km/L, alternativa A. A alternativa B (II) tem o pior rendimento, 8 km/L. A alternativa C (III) faz cerca de 9,06 km/L, menos que o I. A alternativa D (IV) percorreu a maior distância, mas consumiu mais, ficando com 9,38 km/L. A alternativa E (V) tem rendimento baixo, cerca de 8,13 km/L. Gabarito: A.",
+  "hash": "67346219c607ebca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q144": {
+  "explicacao": "A questão pede quantas vezes o dispositivo alertou o motorista, ou seja, quantas vezes a velocidade ultrapassou a linha tracejada v_máx no gráfico. Observando a curva: ela sobe desde zero e, no primeiro pico, passa acima de v_máx, gerando o primeiro alerta. Depois cai bastante, sobe de novo até um pico menor, que chega apenas ao nível da linha, sem ultrapassá-la, e volta a cair. Por fim, sobe até o pico mais alto, bem acima de v_máx, gerando o segundo alerta, e então desce até parar. Portanto, houve dois trechos de velocidade acima do limite e o dispositivo alertou 2 vezes, alternativa B. A alternativa A considera só um dos picos. A alternativa C conta o pico central, que não excede v_máx. A alternativa D conta cruzamentos da linha em vez de trechos acima do limite. A alternativa E conta todos os picos e cruzamentos indiscriminadamente. Gabarito: B.",
+  "hash": "911d317bd7e2b1f9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q145": {
+  "explicacao": "A questão pede o menor valor total que o rapaz desembolsará, comparando três lojas com juros simples por um ano. Em cada loja: valor financiado = preço do carro novo − valor pago pelo usado; total = financiado × (1 + taxa). Loja A: 28 500 − 13 500 = 15 000; 15 000 × 1,18 = 17 700. Loja B: 27 000 − 13 000 = 14 000; 14 000 × 1,20 = 16 800. Loja C: 26 500 − 12 000 = 14 500; 14 500 × 1,19 = 17 255. O menor total é o da loja B, R$ 16 800, alternativa C. Note que a loja de maior taxa acabou sendo a mais vantajosa, porque o valor financiado é menor. A alternativa A (14 000) é só o valor financiado na loja B, sem juros. A alternativa B (15 000) é o valor financiado na loja A, sem juros. A alternativa D (17 255) é o total da loja C. A alternativa E (17 700) é o total da loja A. Gabarito: C.",
+  "hash": "7f1bc7f433520be9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q146": {
+  "explicacao": "A questão pede o lago com maior população inicial de peixes. Das fórmulas, C = E·P e E = 2 × 10⁻⁷·B·H, temos P = C ÷ (2 × 10⁻⁷·B·H). Como o fator 2 × 10⁻⁷ é igual para todos, basta comparar C ÷ (B·H). Lago I: 250 ÷ (5 × 5) = 250 ÷ 25 = 10. Lago II: 300 ÷ (6 × 10) = 300 ÷ 60 = 5. Lago III: 180 ÷ (4 × 5) = 180 ÷ 20 = 9. Lago IV: 215 ÷ (3 × 7) = 215 ÷ 21 ≈ 10,24. Lago V: 220 ÷ (3 × 10) = 220 ÷ 30 ≈ 7,33. O maior valor é o do lago IV, alternativa D. A alternativa A (I) chega perto, com 10, mas fica abaixo de 10,24. A alternativa B (II) tem a maior captura, porém com esforço de pesca alto, resultando no menor valor. A alternativa C (III) dá 9. A alternativa E (V) dá cerca de 7,33. Gabarito: D.",
+  "hash": "b63fe1d7dac68c2e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q147": {
+  "explicacao": "A questão pede a distância percorrida pelo carro B até o instante em que o carro A completa as dez voltas. Passo 1, comprimento da volta: B, a 14 m/s, leva 288 s para 8 voltas, então 8 voltas = 14 × 288 = 4 032 m, e uma volta = 4 032 ÷ 8 = 504 m. Passo 2, distância de A: 10 voltas = 10 × 504 = 5 040 m. Passo 3, tempo de A: t = 5 040 ÷ 18 = 280 s. Passo 4, distância de B nesse tempo: d = 14 × 280 = 3 920 m. Alternativa E. Confere com o enunciado: 3 920 m é menos que 4 032 m, ou seja, B ainda não tinha terminado a oitava volta. A alternativa A (6 480) é 18 × 360, sem relação com os dados. A alternativa B (5 184) é 18 × 288, a distância de A em 288 s. A alternativa C (5 040) é a distância total de A. A alternativa D (4 032) é a distância de B em 288 s, não em 280 s. Gabarito: E.",
+  "hash": "40f1db524413ec95",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q148": {
+  "explicacao": "A questão pede o valor pago por duas televisões e um sofá, com 5% de desconto. Sejam T, S e E os preços de televisão, sofá e estante. Temos: T + S = 3 800; S + E = 3 400; T + E = 4 200. Somando as três: 2T + 2S + 2E = 11 400, logo T + S + E = 5 700. Então E = 5 700 − 3 800 = 1 900; T = 5 700 − 3 400 = 2 300; S = 5 700 − 4 200 = 1 500. Compra: 2T + S = 2 × 2 300 + 1 500 = 6 100. Com 5% de desconto: 6 100 × 0,95 = 5 795. Alternativa D. A alternativa A (3 610) é 3 800 com desconto, só uma TV e um sofá. A alternativa B (5 035) não corresponde a uma combinação correta. A alternativa C (5 415) é 5 700 com desconto, os três produtos. A alternativa E (6 100) esquece o desconto de 5%. Gabarito: D.",
+  "hash": "5a044e03fd8b8a45",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q149": {
+  "explicacao": "A questão pede a probabilidade de, em quadrigêmeos, nascerem exatamente dois meninos e duas meninas, considerando cada bebê com chance ½ de ser menino ou menina, de forma independente. O total de sequências possíveis é 2⁴ = 16. As sequências favoráveis são as que têm exatamente 2 meninos entre 4 posições: C(4, 2) = 4! ÷ (2!·2!) = 6 (MMFF, MFMF, MFFM, FMMF, FMFM, FFMM). Assim, P = 6 ÷ 16 = 3/8. Alternativa D. A alternativa A (1/16) considera apenas uma ordem específica, como MMFF. A alternativa B (3/16) conta só metade das combinações. A alternativa C (1/4) não corresponde ao número correto de casos favoráveis. A alternativa E (1/2) supõe, sem base, que dois meninos e duas meninas seria metade dos casos. Gabarito: D.",
+  "hash": "cf8e7c12132b598b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q150": {
+  "explicacao": "A questão pede quantas peças precisam ser produzidas para um faturamento de R$ 10 000,00, usando dois gráficos em função das horas t. No gráfico de peças, x passa por (1, 20) e (3, 60), logo x = 20t, em milhares de peças. No gráfico de faturamento, y passa por (1, 4) e (2, 8), logo y = 4t, em milhares de reais. Faturamento de R$ 10 000 significa y = 10: 4t = 10, então t = 2,5 h. Nesse tempo, x = 20 × 2,5 = 50 milhares, ou seja, 50 000 peças. Alternativa D. Outra forma: x/y = 20/4 = 5, então x = 5 × 10 = 50 mil. A alternativa A (2 000) confunde a unidade e usa só a razão entre os gráficos. A alternativa B (2 500) toma o valor de t como número de peças. A alternativa C (40 000) usa t = 2 h, que corresponde a R$ 8 000. A alternativa E (200 000) multiplica as taxas em vez de dividir. Gabarito: D.",
+  "hash": "d35fa8a290d26400",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q151": {
+  "explicacao": "A questão pede a duração mínima total do regime para a pessoa sair de 167 kg e chegar a 71 kg, com perdas mensais sempre inferiores a 5 kg. Passo 1, perda total necessária: 167 − 71 = 96 kg. Passo 2, o que já foi perdido: 3 meses × 4 kg = 12 kg e 4 meses × 3 kg = 12 kg, total 24 kg em 7 meses. Passo 3, falta perder 96 − 24 = 72 kg, com perda mensal fixa menor que 5 kg. Se forem n meses, 72 ÷ n < 5, logo n > 14,4, e o menor inteiro é n = 15 (perda de 4,8 kg por mês). Passo 4, duração total: 7 + 15 = 22 meses. Alternativa D. A alternativa A (15) conta só a fase final, esquecendo os 7 meses iniciais. A alternativa B (20) não respeita a soma das etapas. A alternativa C (21) usaria 14 meses finais, exigindo perda de cerca de 5,14 kg por mês, acima do limite. A alternativa E (25) não é a duração mínima. Gabarito: D.",
+  "hash": "bf457dd078fc9fc5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q152": {
+  "explicacao": "A questão pede o município com a menor média aritmética dos IDHM de 1990, 2000 e 2010. Como todas as médias dividem por 3, basta comparar as somas. São Caetano do Sul: 0,77 + 0,77 + 0,92 = 2,46. Águas de São Pedro: 0,67 + 0,76 + 0,85 = 2,28. Florianópolis: 0,65 + 0,80 + 0,80 = 2,25. Balneário Camboriú: 0,79 + 0,79 + 0,79 = 2,37. Vitória: 0,73 + 0,78 + 0,77 = 2,28. A menor soma é a de Florianópolis, com média 2,25 ÷ 3 = 0,75. Alternativa A. A alternativa B (Águas de São Pedro) tem média 0,76, um pouco maior. A alternativa C (Balneário Camboriú) tem média 0,79, constante. A alternativa D (São Caetano do Sul) tem a maior média, 0,82. A alternativa E (Vitória) também tem média 0,76. Gabarito: A.",
+  "hash": "c42b6ebf92326461",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q153": {
+  "explicacao": "A questão pede a classificação do leitor, em que o resultado x é a média das notas de sorte menos a média das notas de azar. Pelo Quadro 1, as notas de sorte são 1, 3, 9, 7 e 7, com soma 27 e média 27 ÷ 5 = 5,4. As notas de azar são 8, 5, 5, 5 e 9, com soma 32 e média 32 ÷ 5 = 6,4. Assim, x = 5,4 − 6,4 = −1. Pelo Quadro 2, a faixa −1 ≤ x ≤ 1 corresponde a \"Você está na média\". Como o intervalo inclui o −1, a classificação é a da alternativa E. A alternativa A (azarado) exige −4 < x < −1, estritamente menor que −1. A alternativa B (sortudo) exige x maior que 1. A alternativa C (muito azarado) exige x ≤ −4. A alternativa D (muito sortudo) exige x ≥ 4. Gabarito: E.",
+  "hash": "45bf42b95be227cc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q154": {
+  "explicacao": "A questão pede a caixa cujas medidas externas atendem exatamente às exigências. O televisor mede 67,5 cm de comprimento, 49,5 cm de altura e 18 cm de largura. Passo 1, folga de 5 cm em cada dimensão (para o isopor): medidas internas 72,5 × 54,5 × 23,0. Passo 2, o papelão tem 0,5 cm de espessura e aparece nos dois lados de cada dimensão, acrescentando 2 × 0,5 = 1 cm: medidas externas 73,5 × 55,5 × 24,0. Isso corresponde à caixa 5, alternativa E. A alternativa A (caixa 1) só soma 0,5 cm ao televisor, sem folga. A alternativa B (caixa 2) soma apenas 1 cm, a espessura, sem a folga. A alternativa C (caixa 3) tem a folga, mas ignora a espessura do papelão. A alternativa D (caixa 4) considera a espessura de apenas um lado. Gabarito: E.",
+  "hash": "ae258bab60e00610",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q155": {
+  "explicacao": "A questão pede o intervalo do parâmetro B para que a água seja neutra, sabendo que H = A ÷ B e A = 10⁻⁷. Pelo quadro, a água é neutra quando 6 ≤ pH < 7,5. Calculando o pH: pH = log(1/H) = log(B/A) = log B − log 10⁻⁷ = log B + 7. Impondo a condição: 6 ≤ log B + 7 < 7,5, ou seja, −1 ≤ log B < 0,5. Voltando para potências de 10: 10⁻¹ ≤ B < 10^(½). Portanto B pertence ao intervalo [10⁻¹, 10^(½)[, fechado à esquerda e aberto à direita, como na alternativa C. As alternativas restantes mostram intervalos com extremos errados, como os que correspondem a log B entre −7 e −6 (confundindo B com H) ou intervalos com a abertura nos lados trocados, o que não respeita as desigualdades 6 ≤ pH e pH < 7,5 do quadro. Gabarito: C.",
+  "hash": "8503fe61ca56d4b6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q156": {
+  "explicacao": "A questão pede o tempo total gasto até a pessoa ativar o rádio na quarta tentativa. Cada digitação leva 30 s. Após cada erro há uma espera que começa em 60 s e dobra a cada novo erro. Sequência: 1ª tentativa, 30 s, erro e espera de 60 s; 2ª tentativa, 30 s, erro e espera de 120 s; 3ª tentativa, 30 s, erro e espera de 240 s; 4ª tentativa, 30 s, acerto. Digitação: 4 × 30 = 120 s. Esperas: 60 + 120 + 240 = 420 s. Total: 120 + 420 = 540 s, alternativa C. A alternativa A (300) não inclui todas as esperas. A alternativa B (420) soma apenas as esperas, sem as digitações. A alternativa D (660) acrescenta uma digitação ou espera a mais. A alternativa E (1 020) considera uma quarta espera de 480 s, que não ocorre, pois a quarta tentativa foi certa. Gabarito: C.",
+  "hash": "7b71e71961c7e967",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q157": {
+  "explicacao": "A questão pede o volume de madeira de uma caixa com dimensões externas de 20 cm × 20 cm × 8 cm e espessura de 0,5 cm em todas as faces. O volume de madeira é o volume externo menos o volume interno (o espaço vazio). Volume externo: 20 × 20 × 8 = 3 200 cm³. Cada dimensão interna perde 0,5 cm de cada lado, ou seja, 1 cm no total: 19 × 19 × 7. Volume interno: 19 × 19 × 7 = 361 × 7 = 2 527 cm³. Volume de madeira: 3 200 − 2 527 = 673 cm³. Alternativa C. A alternativa A (654) desconta espessura demais em alguma dimensão. A alternativa B (666) e a alternativa D (681) resultam de descontos inconsistentes nas medidas. A alternativa E (693) desconta apenas 0,5 cm em cada dimensão, como se a madeira estivesse só de um lado. Gabarito: C.",
+  "hash": "a7719f8df159467c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q158": {
+  "explicacao": "A questão pede a equação da parábola que passa por (0, 0) e (150, 0), com altura máxima de 25 m. Como as raízes são x = 0 e x = 150, a forma fatorada é y = a·x·(x − 150). O vértice fica no ponto médio das raízes, x = 75, onde y = 25. Substituindo: 25 = a·75·(75 − 150) = a·75·(−75) = −5 625a, logo a = −25 ÷ 5 625 = −1/225. Então y = −(1/225)·(x² − 150x), ou seja, 225y = 150x − x². Alternativa E. Conferindo: x = 75 dá 225y = 11 250 − 5 625 = 5 625, y = 25. A alternativa A dá altura máxima 5 625 m. A alternativa B tem raízes 0 e 150, mas altura muito maior. A alternativa C tem raízes 0 e 150, mas altura máxima 150. A alternativa D tem raízes 0 e 150, mas altura 135. Gabarito: E.",
+  "hash": "492676cdbc8ef976",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q159": {
+  "explicacao": "A questão pede a área do hexágono regular cujo círculo inscrito tem área 3π m². O raio do círculo inscrito é o apótema do hexágono. Passo 1: π·r² = 3π, então r² = 3 e r = √3 m. Passo 2: o hexágono regular é formado por 6 triângulos equiláteros de lado L, e o apótema é a altura de cada triângulo: L·√3/2 = √3, logo L = 2 m. Passo 3: área de cada triângulo = L²·√3/4 = 4·√3/4 = √3. Área do hexágono = 6·√3 m². Alternativa B. A alternativa A (9) não envolve o fator √3 característico do hexágono. A alternativa C (9√2) usa uma relação geométrica incorreta. A alternativa D (12) não corresponde ao cálculo correto. A alternativa E (12√3) dobra a área, como se o lado fosse maior ou o raio fosse o circunscrito. Gabarito: B.",
+  "hash": "a52b494b868adc35",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q160": {
+  "explicacao": "A questão pede a expressão que relaciona n e k, sabendo que k é a soma dos quadrados de n − 1, n e n + 1. Desenvolvendo: (n − 1)² + n² + (n + 1)² = (n² − 2n + 1) + n² + (n² + 2n + 1). Os termos −2n e +2n se cancelam e sobra 3n² + 2. Então 3n² + 2 = k, isto é, 3n² = k − 2. Alternativa D. A alternativa A mantém um termo −4n, que não existe, pois os termos lineares se anulam. A alternativa B mantém um termo +4n, pelo mesmo erro. A alternativa C troca o sinal da constante. A alternativa E esquece as constantes 1 + 1 = 2 dos produtos notáveis. Gabarito: D.",
+  "hash": "485deab1c76512b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q161": {
+  "explicacao": "A questão pede o custo da estratégia que permite percorrer a maior distância. Pelo quadro, o combustível A rende 18 km/L e o B, 12 km/L; o tanque tem T litros. Estratégia 1: meio tanque de A e um quarto de B. Distância: (T/2)·18 + (T/4)·12 = 9T + 3T = 12T km. Estratégia 2: meio tanque de B e um quarto de A. Distância: (T/2)·12 + (T/4)·18 = 6T + 4,5T = 10,5T km. A estratégia 1 vai mais longe, pois usa a maior quantidade do combustível de maior rendimento. Seu custo é C = (T/2)·P_A + (T/4)·P_B, como na alternativa A. As alternativas restantes trazem o custo da estratégia 2, que percorre menos, ou expressões com as frações de tanque trocadas ou somadas de forma incorreta. Gabarito: A.",
+  "hash": "a1761329e5dd01e3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q162": {
+  "explicacao": "A questão pede a classificação dos jogadores pelo total de pontos. Primeiro, o valor de cada ficha em pontos: vermelha = 1; azul = 3 vermelhas = 3; branca = 3 azuis = 9; verde = 3 brancas = 27. Jogador A: 3 × 27 + 1 × 9 + 1 × 3 + 4 × 1 = 81 + 9 + 3 + 4 = 97 pontos. Jogador B: 2 × 27 + 4 × 9 + 0 × 3 + 9 × 1 = 54 + 36 + 0 + 9 = 99 pontos. Jogador C: 1 × 27 + 5 × 9 + 8 × 3 + 2 × 1 = 27 + 45 + 24 + 2 = 98 pontos. Ordem: B (99), C (98), A (97). Alternativa D. A alternativa A coloca A em primeiro, talvez por ter mais fichas verdes. A alternativa B coloca A em segundo, mas A tem a menor pontuação. A alternativa C inverte as duas primeiras posições. A alternativa E coloca C em primeiro e B em último. Gabarito: D.",
+  "hash": "b4b13c7f69dcfeaf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q163": {
+  "explicacao": "A questão pede a razão entre as amplitudes dos terremotos do Japão (9,0) e da Argentina (7,0), com R = log(A/A₀). Para o Japão: 9 = log(A_J/A₀), logo A_J = A₀·10⁹. Para a Argentina: 7 = log(A_A/A₀), logo A_A = A₀·10⁷. Razão: A_J ÷ A_A = 10⁹ ÷ 10⁷ = 10² = 100. Outra forma: a diferença das magnitudes é log(A_J/A_A) = 9 − 7 = 2. Alternativa D. A alternativa A (1,28) é a razão 9 ÷ 7, como se a escala fosse linear. A alternativa B (2,0) é só a diferença das magnitudes, sem voltar do logaritmo. A alternativa C (10⁹⁷) junta os expoentes sem sentido matemático. A alternativa E (10⁹ − 10⁷) é a diferença, não a razão. Gabarito: D.",
+  "hash": "2b52793cb645b2f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q164": {
+  "explicacao": "A questão pede a figura plana que, girada em torno do eixo, gera a anticlepsidra: um cilindro equilátero do qual se retiram dois cones com vértices no centro e bases coincidindo com as bases do cilindro. Pense no corte do sólido por um plano que contém o eixo, tomando só um lado. O cilindro gera um retângulo de altura igual à do cilindro e largura igual ao raio. Os dois cones removidos, nesse corte, são dois triângulos com vértice no ponto médio do eixo e bases nas bases do cilindro. O que sobra é um triângulo com um vértice no ponto médio do eixo e o lado oposto vertical, paralelo ao eixo, a uma distância igual ao raio, com a altura total do cilindro. Girando esse triângulo em torno do eixo obtém-se a anticlepsidra, como na alternativa B. As alternativas restantes geram sólidos diferentes, como cilindros inteiros, cones simples ou a clepsidra, que é o sólido formado pelos próprios cones. Gabarito: B.",
+  "hash": "5e6d913e428166e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q165": {
+  "explicacao": "A questão pede o produto com maior índice de aumento percentual das vendas de agosto para setembro. Calcula-se o aumento relativo (setembro − agosto) ÷ agosto. Produto I: 50 ÷ 400 = 12,5%. Produto II: 85 ÷ 210 ≈ 40,5%. Produto III: 20 ÷ 200 = 10%. Produto IV: 90 ÷ 300 = 30%. Produto V: 60 ÷ 180 ≈ 33,3%. O maior índice é o do produto II, alternativa B. A alternativa A (I) tem as maiores vendas absolutas, mas aumento relativo pequeno. A alternativa C (III) tem o menor aumento, 10%. A alternativa D (IV) tem o maior aumento absoluto, 90 unidades, mas só 30% em termos relativos. A alternativa E (V) cresceu cerca de 33,3%, menos que o II. Gabarito: B.",
+  "hash": "556018ebfe9cfaa3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q166": {
+  "explicacao": "A questão pede o diâmetro real da praça, que na planta mede 8 cm, com escala 1 : 1 000. A escala significa que cada 1 cm no desenho corresponde a 1 000 cm na realidade. Assim, o diâmetro real é 8 × 1 000 = 8 000 cm. Convertendo para metros (1 m = 100 cm): 8 000 ÷ 100 = 80 m. Alternativa D. A alternativa A (1 250) resulta de dividir 10 000 por 8, invertendo a relação. A alternativa B (800) erra a conversão, dividindo por 10 em vez de 100. A alternativa C (125) também inverte a escala. A alternativa E (8) erra a conversão de unidades por um fator 10. Gabarito: D.",
+  "hash": "fb5f9ce3d01781aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q167": {
+  "explicacao": "A questão é de probabilidade condicional: sabendo que o funcionário é fumante, qual a chance de ser mulher? Suponha 100 funcionários: 70 homens e 30 mulheres. Fumantes: 5% de 70 = 3,5 homens e 5% de 30 = 1,5 mulheres, total de 5 fumantes. Probabilidade de ser mulher dado que é fumante: 1,5 ÷ 5 = 0,3 = 30%. Note que, como a taxa de fumantes é igual nos dois sexos, a proporção de mulheres entre os fumantes é a mesma da empresa, 30%. Alternativa B. A alternativa A (50%) supõe sexos igualmente prováveis. A alternativa C (16,7%) não corresponde ao cálculo correto. A alternativa D (5%) é a taxa de fumantes, não a probabilidade pedida. A alternativa E (1,5%) é a probabilidade de ser mulher e fumante ao mesmo tempo, sem a condição. Gabarito: B.",
+  "hash": "cc626f4047bb35be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q168": {
+  "explicacao": "A questão pede quantos milheiros de telhas comprar respeitando a inclinação de 40%. Passo 1, altura: i = h × 100 ÷ b, então 40 = h × 100 ÷ 10, e h = 4 m. Passo 2, o triângulo BOC é retângulo em O, com catetos b = 10 e h = 4, então BC = √(10² + 4²) = √116 m. Passo 3, como ABCD é um quadrado, d = AB = BC, logo d² = 116. Passo 4, N = d² × 10,5 = 116 × 10,5 = 1 218 telhas. Como as telhas são vendidas em milheiros, um milheiro (1 000) não basta, e são necessários dois milheiros. Alternativa B. A alternativa A (um milheiro) usaria d = b = 10, ignorando a inclinação: 100 × 10,5 = 1 050, ainda acima de 1 000. A alternativa C (três) excede o necessário. A alternativa D (seis) e a alternativa E (oito) também superestimam muito a quantidade. Gabarito: B.",
+  "hash": "46493b235c59df02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q169": {
+  "explicacao": "A questão pede a média anual do lucro nos cinco anos, sendo lucro = receita − custo. Ano 1: 325 − 250 = 75. Ano 2: 355 − 270 = 85. Ano 3: 350 − 290 = 60. Ano 4: 365 − 280 = 85. Ano 5: 305 − 260 = 45. Soma: 75 + 85 + 60 + 85 + 45 = 350. Média: 350 ÷ 5 = 70 mil reais. Alternativa B. A alternativa A (60) é o lucro do terceiro ano. A alternativa C (75) é o lucro do primeiro ano, citado no enunciado. A alternativa D (80) não corresponde a nenhum cálculo correto. A alternativa E (85) é a moda, o valor que aparece duas vezes, e não a média. Gabarito: B.",
+  "hash": "9709aa3833052844",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q170": {
+  "explicacao": "A questão pede quantos litros de tinta azul comprar para que a mistura tenha 40% de azul, usando todos os 6 litros de tinta branca. Se o azul é 40% da mistura, o branco é 60%. Então 60% do total = 6 L, e o total é 6 ÷ 0,6 = 10 L. A quantidade de azul é 40% de 10 = 4,0 L, ou simplesmente 10 − 6 = 4 L. Outra forma: azul ÷ branco = 40 ÷ 60 = 2/3, logo azul = 2/3 × 6 = 4 L. Alternativa C. A alternativa A (2,4) calcula 40% de 6, como se o branco fosse a mistura toda. A alternativa B (3,6) calcula 60% de 6, sem sentido aqui. A alternativa D (9,0) inverte a proporção, fazendo 6 × 3/2. A alternativa E (10,0) é o volume total da mistura, não só o azul. Gabarito: C.",
+  "hash": "e7787e92306be2a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q171": {
+  "explicacao": "A questão pede a área do terreno pentagonal ABCDE. A diagonal AD divide o pentágono em duas partes: o quadrilátero ABCD e o triângulo ADE. Como AD (50 m) é paralela a BC (29 m), o quadrilátero ABCD é um trapézio, cuja altura é a distância de B até AD, 8 m. Área do trapézio: (base maior + base menor) × altura ÷ 2 = (50 + 29) × 8 ÷ 2 = 79 × 4 = 316 m². O triângulo ADE tem base AD = 50 m e altura igual à distância de E até AD, 20 m. Área do triângulo: 50 × 20 ÷ 2 = 500 m². Área total: 316 + 500 = 816 m². Alternativa C. A alternativa A (658) não corresponde a uma decomposição correta. A alternativa B (700) usa apenas uma das bases do trapézio. A alternativa D (1 132) esquece de dividir por 2 a área do trapézio. A alternativa E (1 632) dobra a resposta correta, esquecendo as divisões por 2. Gabarito: C.",
+  "hash": "bb585bad112973a4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q172": {
+  "explicacao": "A questão pede sobre qual satélite a Terra exerce maior força gravitacional, sabendo que todos têm a mesma massa e que A é o mais distante e E o mais próximo. Pela lei de Newton, F = G·m₁·m₂ ÷ d². Como as massas da Terra e dos satélites são fixas, a força depende apenas da distância, e de forma inversa ao quadrado: quanto menor d, maior F. Por exemplo, se a distância cai à metade, a força fica quatro vezes maior. Assim, a maior força atua sobre o satélite mais próximo, E. Alternativa E. A alternativa A (A) indica o satélite mais distante, que sofre a menor força. As alternativas B, C e D indicam satélites a distâncias intermediárias, todos mais afastados que E e, portanto, submetidos a forças menores. Gabarito: E.",
+  "hash": "3454119e84fc9dc9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q173": {
+  "explicacao": "A questão pede quantas vezes foi preciso colocar a proteção de ouvido, ou seja, quantas vezes a intensidade sonora ultrapassou 65 dB no gráfico. Analisando a curva: entre t₁ e t₂ ela fica acima de 65 dB, primeira vez. Em t₃ a curva apenas toca a linha de 65 dB, sem ultrapassá-la, então não dispara o alarme. Entre t₄ e t₅ sobe até 95 dB, segunda vez. Entre t₆ e t₇ sobe de novo até 95 dB, terceira vez. Logo, a proteção foi necessária 3 vezes, alternativa D. A alternativa A (7) conta todos os instantes marcados no eixo. A alternativa B (6) conta os cruzamentos da linha de 65 dB, e não os intervalos acima dela. A alternativa C (4) inclui o pico em t₃, que não ultrapassa o limite. A alternativa E (2) considera só os picos de 95 dB. Gabarito: D.",
+  "hash": "d8c0981ede723d99",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q174": {
+  "explicacao": "A questão pede o número máximo de latas de areia que completam a carga do caminhão junto com 15 sacos de cimento e 30 sacos de cal. Cada tipo de carga ocupa uma fração da capacidade: um saco de cimento vale 1/60, um saco de cal 1/90 e uma lata de areia 1/120 da capacidade. Cimento: 15 ÷ 60 = 1/4. Cal: 30 ÷ 90 = 1/3. Juntos: 1/4 + 1/3 = 3/12 + 4/12 = 7/12. Resta 1 − 7/12 = 5/12 da capacidade. Em latas de areia: 5/12 × 120 = 50 latas. Alternativa C. A alternativa A (30) usaria fração errada da capacidade restante. A alternativa B (40) corresponde a 1/3 da capacidade, ignorando parte do cálculo. A alternativa D (80) desconta apenas o cimento ou a cal. A alternativa E (90) desconta só o cimento, esquecendo a cal. Gabarito: C.",
+  "hash": "15efabd76b0fd4dd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q175": {
+  "explicacao": "A questão pede os três assuntos mais pesquisados, em ordem decrescente, numa nuvem de palavras em que o tamanho da letra indica o número de pesquisas. Observando a figura, a palavra com as maiores letras é AMOR, que ocupa uma grande faixa no centro. Em seguida vem BALADAS, também em letras grandes na parte de baixo. A terceira é MÚSICA, no alto à direita, com letras um pouco menores que BALADAS, mas maiores que RELIGIÃO e as demais. Assim, a ordem é AMOR, BALADAS, MÚSICA, alternativa E. A alternativa A traz palavras com letras pequenas (HQ, FÉ, PAZ). A alternativa B também cita termos de letras pequenas (MANGÁS, FÉ, LIVROS). A alternativa C coloca MÚSICA à frente de AMOR, que é a maior palavra. A alternativa D acerta o primeiro, mas inverte MÚSICA e BALADAS. Gabarito: E.",
+  "hash": "d67665919c485b14",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q176": {
+  "explicacao": "A questão pede o maior lucro entre três projetos de loteamento de um terreno de 90 m × 240 m, comprado por R$ 700 000. Projeto 1: lotes de 45 × 10 sem ruas; cabem (90 ÷ 45) × (240 ÷ 10) = 2 × 24 = 48 lotes; receita 48 × 23 000 = 1 104 000; lucro 1 104 000 − 700 000 = 404 000. Projeto 2: com ruas de 10 m entre as fileiras de lotes ao longo dos 240 m, na largura de 90 m cabem três fileiras de 20 m separadas por ruas (20 + 10 + 20 + 10 + 20 = 80), cada uma com 240 ÷ 30 = 8 lotes: 24 lotes × 35 000 = 840 000, lucro 140 000. Projeto 3: 35 + 20 + 35 = 90, duas fileiras com 240 ÷ 20 = 12 lotes cada: 24 × 45 000 = 1 080 000, lucro 380 000. O maior lucro é o do projeto 1, R$ 404 000, alternativa B. A alternativa A é o lucro do projeto 3. A alternativa C é a receita do projeto 1, sem descontar o terreno. A alternativa D não corresponde ao lucro de nenhum projeto pela divisão descrita. A alternativa E soma valores sem descontar a compra. Gabarito: B.",
+  "hash": "79b9da38e4e04943",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q177": {
+  "explicacao": "A questão pede a projeção ortogonal, na parede, da trajetória do ponto preto na ponta da haste quando o registro é aberto. A haste gira 1/4 de volta, ou seja, 90°, em torno de seu eixo de rotação, e o ponto preto, na extremidade, descreve um arco de circunferência correspondente a um quarto de volta. Como o enunciado informa que a haste está paralela ao plano da parede durante o movimento, o arco está contido em um plano paralelo à parede. A projeção ortogonal de uma figura num plano paralelo preserva forma e tamanho, então a projeção é o próprio arco de 90°, um quarto de circunferência. Isso corresponde à alternativa A. As alternativas restantes mostram formas que não correspondem a esse arco: segmentos de reta, que seriam a projeção num plano perpendicular ao do giro, semicircunferências, que exigiriam meia volta, ou arcos de amplitude diferente de 90°. Gabarito: A.",
+  "hash": "23ba7a7c1f6b562c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q178": {
+  "explicacao": "A questão pede o preço de venda de cada embalagem de 1 kg de café torrado para obter lucro de 200% sobre o custo. Passo 1, massa vendável: a saca de 60 kg perde 10 kg na torrefação, restando 50 kg, ou seja, 50 embalagens. Passo 2, custo por embalagem: 400 ÷ 50 = R$ 8,00. Passo 3, lucro de 200% significa ganhar 2 vezes o custo: lucro = 2 × 8 = R$ 16,00. Passo 4, preço = custo + lucro = 8 + 16 = R$ 24,00. Alternativa B. A alternativa A (R$ 32,00) aplica 300% de lucro. A alternativa C (R$ 20,00) calcula com 60 kg, ignorando a perda: 400 ÷ 60 × 3 ≈ 20. A alternativa D (R$ 16,00) é apenas o valor do lucro, sem somar o custo. A alternativa E (R$ 8,00) é só o custo, sem lucro algum. Gabarito: B.",
+  "hash": "b9dacb951e432849",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q179": {
+  "explicacao": "A questão pede o plano mais barato para a esposa (30 min) e para o marido (90 min). No gráfico, o plano A é a linha contínua (começa em R$ 20), o B é a tracejada (começa em R$ 35) e o C é a pontilhada (começa em zero). As três se cruzam em 50 min, R$ 60. Antes de 50 min, a reta de menor valor é a do C, que parte de zero; depois de 50 min, a de menor valor é a do B, que tem a menor inclinação. Lendo os valores: em 30 min, C ≈ R$ 36, A ≈ R$ 44 e B ≈ R$ 50, então o C é o melhor para a esposa. Em 90 min, B ≈ R$ 80, A ≈ R$ 92 e C ≈ R$ 108, então o B é o melhor para o marido. Alternativa E. A alternativa A (A para ambos) nunca é o mais barato, exceto no cruzamento. A alternativa B erra para a esposa. A alternativa C erra para o marido. A alternativa D inverte os planos. Gabarito: E.",
+  "hash": "af2021c47665a061",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q180": {
+  "explicacao": "A questão pede os tipos de vinho cujo lucro total superou a média dos lucros totais. Lucro total = unidades × lucro unitário. I: 120 × 6 = 720. II: 50 × 12 = 600. III: 71 × 10 = 710. IV: 47 × 20 = 940. V: 70 × 5 = 350. VI: 90 × 12 = 1 080. Soma: 720 + 600 + 710 + 940 + 350 + 1 080 = 4 400. Média: 4 400 ÷ 6 ≈ 733,33. Ficam acima da média apenas IV (940) e VI (1 080). Alternativa B. A alternativa A inclui o I, com 720, abaixo da média por pouco. A alternativa C também inclui o I. A alternativa D inclui o II, com 600. A alternativa E inclui II e III, ambos abaixo da média. Gabarito: B.",
+  "hash": "67fbabc05c809ae4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q91": {
+  "explicacao": "A questão pede para converter a carga da bateria, dada em mAh (miliampère-hora), para coulomb, a unidade do Sistema Internacional. Lembre que carga é corrente vezes tempo: Q = i × Δt, e que 1 C = 1 A × 1 s. Então basta passar a corrente para ampère e o tempo para segundo. Passo a passo: 1 500 mAh = 1 500 × 10⁻³ A × 1 h = 1,5 A × 1 h. Como 1 h = 3 600 s, temos Q = 1,5 × 3 600 = 5 400 C. Portanto a bateria fornece 5 400 coulomb, como indica a alternativa C. A alternativa A (90) resulta de usar 60 s em vez de 3 600 s. A alternativa B (1 500) apenas repete o número do manual, sem converter unidades. A alternativa D (90 000) mistura minutos com miliampère sem a conversão correta. A alternativa E (5 400 000) esquece de transformar mA em A, multiplicando 1 500 por 3 600 diretamente. Gabarito: C.",
+  "hash": "cde9d356f43a41c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q92": {
+  "explicacao": "A questão trata de meia-vida, o tempo para que metade da massa de um radioisótopo se desintegre. O iodo-131 tem meia-vida de 8 dias, e o enunciado pergunta quanto tempo leva para restar 1/16 da massa inicial (o texto aparece com a fração quebrada, mas o valor é 1/16). Cada meia-vida divide a massa por 2: m → m/2 → m/4 → m/8 → m/16. Foram necessárias 4 meias-vidas, pois (½)⁴ = 1/16. Tempo total: 4 × 8 = 32 dias, alternativa D. A alternativa A (8 dias) corresponde a apenas uma meia-vida, restando ½ da massa. A alternativa B (16 dias) são duas meias-vidas, restando ¼. A alternativa C (24 dias) são três meias-vidas, restando ⅛. A alternativa E (128 dias) vem de multiplicar 8 por 16, como se a queda fosse linear, o que não ocorre no decaimento radioativo. Gabarito: D.",
+  "hash": "1b85d106663e9863",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q93": {
+  "explicacao": "A questão pede a forma correta de prevenção da filariose linfática (elefantíase), doença descrita pelo edema crônico nos membros e seios. Ela é causada pelo verme nematódeo Wuchereria bancrofti, cujas larvas (microfilárias) são transmitidas pela picada de mosquitos, principalmente o Culex (pernilongo comum). Os vermes adultos se alojam nos vasos linfáticos, obstruindo a drenagem da linfa e provocando o inchaço característico. Assim, a prevenção consiste em evitar o contato com o vetor: usar repelentes, telas em janelas e mosquiteiros, além de eliminar criadouros. Por isso a alternativa A está correta. A alternativa B descreve a esquistossomose, adquirida em águas contaminadas. A alternativa C está errada porque a filariose não é zoonose de grandes mamíferos; o ser humano é o hospedeiro definitivo. A alternativa D erra ao chamar a doença de hereditária; ela é infecciosa. A alternativa E associa a doença ao sedentarismo, o que não tem relação com uma parasitose transmitida por mosquito. Gabarito: A.",
+  "hash": "49cca02719cbce6b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q94": {
+  "explicacao": "A questão pede o número de cromossomos da oosfera, do zigoto e do endosperma da goiabeira, cujas células somáticas têm 2n = 22. O texto lembra que gametas são haploides, células somáticas são diploides e o tecido de reserva da semente (endosperma) é triploide. A oosfera é o gameta feminino, portanto n = 11. O zigoto surge da fusão da oosfera (n) com um núcleo espermático (n), resultando em 2n = 22. O endosperma secundário das angiospermas forma-se na dupla fecundação: o segundo núcleo espermático (n) une-se aos dois núcleos polares (n + n), originando um tecido 3n = 33. Logo, a sequência é 11, 22, 33, alternativa B. A alternativa A dá à oosfera 22 cromossomos, como se ela fosse diploide. A alternativa C considera a oosfera diploide e o zigoto tetraploide. A alternativa D trata o endosperma como tetraploide. A alternativa E trata o endosperma como diploide, ignorando a dupla fecundação. Gabarito: B.",
+  "hash": "a2eb975b9f9a6c8e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q95": {
+  "explicacao": "A questão pede o efeito de adicionar a enzima fitase a rações ricas em cereais. O texto informa que o fitato se associa a minerais, proteínas e carboidratos, formando complexos insolúveis que animais monogástricos não conseguem digerir. Ou seja, o fitato \"prende\" nutrientes e impede seu aproveitamento. A fitase é uma enzima que hidrolisa o fitato, liberando fosfato e desfazendo esses complexos. Com isso, minerais (como cálcio, ferro, zinco e o próprio fósforo), proteínas e carboidratos voltam a ficar livres e podem ser absorvidos no intestino. O resultado é um aumento da disponibilidade de nutrientes, alternativa B. A alternativa A não se sustenta, pois a enzima não atua na excreção de compostos nitrogenados. A alternativa C está errada porque a fitase não desnatura proteínas; ela as libera dos complexos. A alternativa D é o oposto do efeito: o fitato é degradado, não assimilado. A alternativa E é restrita demais; o efeito central é liberar vários nutrientes, não especificamente o amido. Gabarito: B.",
+  "hash": "ad0f6c02d5e3453c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q96": {
+  "explicacao": "A questão é de estequiometria com rendimento. O texto diz que a síntese parte do éster C₇H₁₂O₃ (144 g/mol) e produz a atorvastatina cálcica (1 154 g/mol) na proporção 1 : 1, com rendimento global de 20%. Pede-se a massa de produto obtida com 100 g de éster. Passo 1, quantidade de éster: n = 100 ÷ 144 ≈ 0,694 mol. Passo 2, pela proporção 1 : 1, o rendimento teórico seria 0,694 mol de atorvastatina cálcica. Passo 3, aplicando 20%: 0,694 × 0,20 ≈ 0,139 mol. Passo 4, massa: 0,139 × 1 154 ≈ 160 g. Outra forma: (100 × 1 154 ÷ 144) × 0,2 ≈ 801 × 0,2 ≈ 160 g. Alternativa C. A alternativa A (20) aplica 20% à massa do éster, ignorando a mudança de massa molar. A alternativa B (29) resulta de inverter a razão entre as massas molares. A alternativa D (202) não corresponde a nenhuma etapa coerente do cálculo. A alternativa E (231) usa 20% de 1 154, esquecendo que só há cerca de 0,69 mol de éster. Gabarito: C.",
+  "hash": "ec4200a0bf33f8e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q97": {
+  "explicacao": "A questão pede qual ideia do senso comum o experimento de van Helmont contraria. Ele plantou um salgueiro de 2,5 kg em 100 kg de terra seca, regou só com água e, cinco anos depois, a planta pesava 80 kg enquanto a terra continuava com praticamente 100 kg. Se a planta \"comesse\" a terra, retirando dela a matéria orgânica que forma seu corpo, a massa de solo deveria ter diminuído na mesma proporção, cerca de 77,5 kg. Como isso não aconteceu, o experimento derruba a crença de que as plantas absorvem matéria orgânica do solo, alternativa C. Hoje sabemos que a maior parte dessa massa vem do CO₂ do ar e da água, fixados na fotossíntese. A alternativa A é verdadeira, não um equívoco, e nem foi testada por ele. A alternativa B também é correta e não foi investigada no experimento. A alternativa D foi justamente a conclusão de van Helmont, não um erro do senso comum que ele refutou. A alternativa E é fato verdadeiro e fora do alcance do experimento. Gabarito: C.",
+  "hash": "7b1b9e00e7f42f2d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q98": {
+  "explicacao": "A questão pede como preparar a suspensão de BaSO₄ para reduzir ao máximo a presença de Ba²⁺ dissolvido, que é tóxico. O ponto central é o equilíbrio de solubilidade BaSO₄(s) ⇌ Ba²⁺(aq) + SO₄²⁻(aq) e o efeito do íon comum. Pelo princípio de Le Chatelier, ao acrescentar um íon que já participa do equilíbrio, ele se desloca no sentido de consumi-lo, ou seja, para a formação do sólido. Se a suspensão for preparada em solução de sulfato de potássio, K₂SO₄, que é solúvel e fornece muitos íons SO₄²⁻, o equilíbrio se desloca para a esquerda e a concentração de Ba²⁺ livre diminui, aumentando a segurança. Alternativa E. A alternativa A (água destilada) não desloca o equilíbrio, mantendo o Ba²⁺ dissolvido. A alternativa B (soro fisiológico) não tem íon comum relevante. A alternativa C seria perigosa, pois o BaCl₂ adiciona ainda mais Ba²⁺. A alternativa D não funciona, já que o BaSO₄ é pouco solúvel e quase não acrescenta SO₄²⁻. Gabarito: E.",
+  "hash": "cbdac2a126e006c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2018-ppl-d2-q99": {
+  "explicacao": "A questão pergunta por que um revestimento de queratina, vantajoso para os répteis, seria prejudicial aos anfíbios. O ponto-chave é que os anfíbios dependem muito da respiração cutânea: sua pele é fina, úmida, permeável e bem vascularizada, permitindo trocas gasosas diretas com o ambiente. Seus pulmões são simples, com pouca superfície interna, e não dão conta sozinhos de toda a demanda de oxigênio. Uma camada de queratina tornaria a pele impermeável, bloqueando essas trocas e sobrecarregando pulmões pouco eficientes. Por isso os problemas seriam respiratórios, alternativa E. A alternativa A está errada porque a pele queratinizada não afeta diretamente a força do coração. A alternativa B não procede, já que impermeabilizar a pele reduziria perda de água, sem exigir maior produção de urina. A alternativa C não tem relação com o tegumento, e sim com o sistema digestório. A alternativa D é incorreta, pois a queratina não aumenta significativamente o peso do animal. Gabarito: E.",
+  "hash": "8ed5e5dce0f9ab61",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
