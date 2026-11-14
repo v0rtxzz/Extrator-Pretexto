@@ -1,0 +1,452 @@
+{
+ "enem-2024-ppl-d2-q100": {
+  "explicacao": "Compare os dois espectros. No gráfico A, do LED branco comum, há um pico intenso na faixa do azul (em torno de 450 nm) e uma banda larga do verde ao vermelho. No gráfico B, com o material de cobertura, o pico azul desaparece completamente e surge um único pico intenso entre o amarelo e o laranja (cerca de 600 nm), com intensidade máxima igual à do original. Como o texto diz que a intensidade total da lâmpada é mantida, a energia da luz azul não foi simplesmente bloqueada: ela foi absorvida pelo material e reemitida em comprimentos de onda maiores, na região amarelo-alaranjada. É o fenômeno da fotoluminescência, como em um fósforo. Se o material refletisse a luz azul, ela voltaria para a lâmpada e haveria perda de intensidade, sem o novo pico. Difração apenas desvia a luz, sem eliminar o azul do espectro. Não há emissão no ultravioleta no gráfico B, que começa no verde. Polarizar a luz não removeria o pico azul do espectro. Gabarito: C.",
+  "hash": "b349e50c90bc16e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q101": {
+  "explicacao": "O objetivo é encontrar a área de angico-branco capaz de fixar todo o carbono emitido pelo carro em um ano. Passo 1: massa de carbono contida em 3 000 kg de CO₂. Em 44 g de CO₂ há 12 g de C, logo m(C) = 3 000 × 12 ÷ 44 ≈ 818 kg. Passo 2: carbono fixado por área plantada. Cada 1 000 m² têm 3 520 kg de massa arbórea, metade carbono: 3 520 × 0,5 = 1 760 kg de C por 1 000 m². Passo 3: regra de três. 1 760 kg → 1 000 m²; 818 kg → x. x = 818 × 1 000 ÷ 1 760 ≈ 465 m². A alternativa de 230 m² corresponde a cerca de metade do necessário, como se se esquecesse de algum fator. 850 m² se aproxima da massa de carbono em kg, confundindo massa com área. 1 700 m² e 2 000 m² superestimam a área, como se fosse usada a massa de CO₂ em vez da de carbono. Gabarito: B.",
+  "hash": "559419b697235605",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q102": {
+  "explicacao": "O solvente ideal, segundo o texto, deve dissolver manchas lipofílicas (óleos, ceras e gorduras), que são apolares, e evaporar facilmente. Pela regra \"semelhante dissolve semelhante\", procuramos a molécula mais apolar e volátil. A alternativa B é o tetracloroeteno (C₂Cl₄), o percloroetileno, solvente clássico das lavanderias a seco. Os quatro átomos de cloro estão distribuídos simetricamente em torno da dupla ligação, de modo que os vetores de polaridade das ligações C–Cl se anulam: a molécula é apolar, dissolvendo bem gorduras, e é volátil. A alternativa A, o cis-1,2-dicloroeteno, tem os dois cloros do mesmo lado, o que gera momento dipolar resultante. A alternativa C, o clorofórmio (CHCl₃), é polar por ter um H no lugar de um Cl. A alternativa D, o tricloroeteno, também é assimétrico e polar. A alternativa E, o etanol, é polar e faz ligações de hidrogênio pelo grupo OH, sendo pouco eficiente para gorduras. Gabarito: B.",
+  "hash": "84e3a96d3cabf139",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q103": {
+  "explicacao": "O cronômetro mede o tempo contando ciclos da tensão da rede e foi calibrado para 50 Hz, isto é, ele entende que cada 50 ciclos contados equivalem a 1 segundo. No laboratório, porém, a rede opera a 60 Hz. Passo 1: número de ciclos que ocorrem durante o evento real de 60 s. N = 60 ciclos/s × 60 s = 3 600 ciclos. Passo 2: tempo que o aparelho mostra, dividindo esses ciclos pela frequência de calibração. t = 3 600 ÷ 50 = 72 s. Ou seja, como a rede é mais rápida que a esperada, o cronômetro \"adianta\", indicando 72 s para um evento de 60 s (fator 60/50 = 1,2). O valor 10 resulta de subtrair as frequências. 50 seria o resultado de inverter a proporção (60 × 50 ÷ 60). 60 é o valor real, que só apareceria com o aparelho calibrado. 132 vem de somar valores sem sentido físico. Gabarito: D.",
+  "hash": "047fd8b0c84b46f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q104": {
+  "explicacao": "A suspensão foi projetada para w₀ = b, o amortecimento crítico, em que o carro volta rápido sem oscilar. O proprietário corta as molas pela metade e mantém a massa total m. O ponto-chave é como a constante elástica depende do comprimento: uma mola pode ser vista como várias molas menores em série; ao cortá-la ao meio, cada metade se deforma metade do que a mola inteira se deformaria sob a mesma força, então a constante dobra: k' = 2k. Com isso, a nova frequência é w₀' = √(2k/m) = √2 × w₀ ≈ 1,41 w₀. Como originalmente w₀ = b, agora w₀' > b, que é justamente a condição em que o sistema oscila algumas vezes até parar (subamortecido). As alternativas que dizem que a constante elástica diminui estão erradas, pois encurtar a mola a torna mais rígida. A alternativa que combina aumento de k com retorno lento descreve w₀ < b, o oposto do que ocorre. Gabarito: B.",
+  "hash": "434368666ddfc25b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q105": {
+  "explicacao": "O balão deve estourar a 20 000 m, ou seja, a 20 km de altitude. Precisamos comparar o volume do gás nessa altitude com o volume no solo, usando a lei geral dos gases: P₁V₁/T₁ = P₂V₂/T₂. Leitura dos gráficos: no solo, T₁ = 300 K e P₁ = 100 kPa; a 20 km, a temperatura está no mínimo da troposfera, T₂ = 240 K, e a pressão é P₂ = 10 kPa. Então V₂/V₁ = (P₁/P₂) × (T₂/T₁) = (100/10) × (240/300) = 10 × 0,8 = 8. O volume aumenta 8 vezes. Como o balão é esférico, V = (4/3)πr³, e o volume é proporcional ao cubo do raio: (r₂/r₁)³ = 8 → r₂/r₁ = ∛8 = 2. O valor 10,00 considera só a pressão e esquece a temperatura. 8,00 é a razão entre os volumes, não entre os raios. 2,83 equivale a √8, usando raiz quadrada em vez de cúbica. 1,25 é o inverso da razão de temperaturas, sem relação com o raio. Gabarito: D.",
+  "hash": "3fea4a6bb99773a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q106": {
+  "explicacao": "Os brasileiros consomem 12 g de sal por dia; o máximo recomendado é 5 g de NaCl. Se todo o consumo for de sal light, metade da massa é NaCl: 12 × 0,5 = 6 g de NaCl. O excesso em relação ao recomendado é 6 − 5 = 1 g de NaCl. Agora calculamos quanto sódio há nesse 1 g. Massa molar do NaCl = 23 + 35,5 = 58,5 g/mol, e a fração de sódio é 23/58,5 ≈ 0,39. Logo, massa de Na em excesso ≈ 1 × 0,39 ≈ 0,4 g. Repare que o KCl não interessa, pois não contém sódio. 1,0 g é o excesso de NaCl, não de sódio. 1,4 g não corresponde a nenhum cálculo coerente com os dados. 2,8 g seria o sódio do excesso de 7 g de sal comum (12 − 5), ignorando o sal light. 3,5 g aproxima-se do sódio em 9 g de NaCl, também sem considerar corretamente a composição do sal light. Gabarito: A.",
+  "hash": "fa9a090687f970b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q107": {
+  "explicacao": "As três frutas partem do repouso, da mesma altura de 50,0 cm, no mesmo instante, e as forças dissipativas, como a resistência do ar, são desprezadas. Nessa condição, a única força relevante é o peso, e a aceleração de qualquer corpo é a da gravidade, g, independentemente de massa, tamanho ou formato, pois a = P/m = mg/m = g. O tempo de queda livre a partir do repouso vem de h = gt²/2, ou seja, t = √(2h/g), que depende apenas da altura e de g. Como h e g são os mesmos para as três frutas, os tempos são iguais: t₁ = t₂ = t₃, e as frutas chegam juntas ao chão. As alternativas que colocam a melancia caindo mais devagar ou mais rápido que as demais, ou que estabelecem qualquer ordem entre os tempos, carregam a ideia aristotélica errada de que a massa altera o tempo de queda. Gabarito: A.",
+  "hash": "aec2321c3d7d2bce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q108": {
+  "explicacao": "Na figura, o eletrodo de bismuto está ligado ao polo positivo (+) e o de NaTi₂(PO₄)₃ ao polo negativo (−). Na eletrólise, o polo positivo é o ânodo, onde ocorre oxidação, e o negativo é o cátodo, onde ocorre redução. Os íons Cl⁻ migram para o eletrodo de Bi, que se oxida e incorpora o cloreto, formando BiOCl, como mostra a etapa final do esquema. Os íons Na⁺ migram para o outro eletrodo, que se reduz e os incorpora, formando Na₃Ti₂(PO₄)₃. Assim o sal sai da água. Portanto, BiOCl se forma no ânodo. Não há formação de H₂ no cátodo: o cátodo forma Na₃Ti₂(PO₄)₃. O Bi não é formado no polo positivo; ao contrário, é consumido. O esquema não mostra formação de O₂, muito menos no polo negativo, onde ocorre redução. Na₃Ti₂(PO₄)₃ se forma no cátodo, não no ânodo. Gabarito: A.",
+  "hash": "f97462ad02aa98ce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q109": {
+  "explicacao": "A pergunta é em qual etapa o enxofre chega ao seu maior estado de oxidação, que é +6. Vamos calcular o Nox do S ao longo do esquema. Etapa 1: S (s), Nox 0, é queimado e vira SO₂, onde S + 2(−2) = 0 → S = +4. Etapa 2: SO₂ é convertido em SO₃, onde S + 3(−2) = 0 → S = +6. É aqui que o enxofre atinge o Nox máximo. Nas etapas seguintes, ele permanece em +6: no H₂SO₄, 2(+1) + S + 4(−2) = 0 → S = +6; no H₂S₂O₇, 2(+1) + 2S + 7(−2) = 0 → S = +6. A etapa 1 leva o enxofre apenas a +4. As etapas 3, 4 e 5 só transformam espécies em que o S já está em +6, sem mudar seu estado de oxidação. Gabarito: B.",
+  "hash": "1c4ba6d091837585",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q110": {
+  "explicacao": "A questão pede o procedimento mais adequado, do ponto de vista ambiental, para resolver o acúmulo de resíduos plásticos, e cada alternativa traz uma justificativa que precisa estar correta. A reciclagem reaproveita o plástico descartado para fabricar novos objetos, retirando-o do ambiente e reduzindo a necessidade de produzir matéria-prima nova, derivada do petróleo. Ela ataca diretamente o acúmulo e ainda poupa recursos. Incinerar reduz o volume, mas libera gases poluentes, como CO₂, dioxinas e outros tóxicos, então a justificativa é falsa. Os plásticos biodegradáveis não são, em geral, simples e baratos de produzir, nem toda matéria-prima é renovável, e eles não resolvem os resíduos já existentes. Os aterros sanitários têm capacidade limitada e se esgotam, apenas acumulando o problema em outro lugar. Os oxibiodegradáveis fragmentam-se em microplásticos, que não são rapidamente assimilados e continuam no ambiente. Gabarito: B.",
+  "hash": "58ac20943bf23d7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q111": {
+  "explicacao": "A questão trata da adaptação das lhamas à altitude, onde o ar é rarefeito e a pressão parcial de O₂ é baixa. Nessas condições, uma hemoglobina comum teria dificuldade de se saturar de oxigênio nos pulmões. A hemoglobina geneticamente diferenciada das lhamas tem maior afinidade pelo O₂, ou seja, liga-se ao oxigênio mesmo quando ele está pouco disponível. Na curva de dissociação, isso aparece como um deslocamento para a esquerda: a hemoglobina fica saturada com pressões de O₂ menores. Assim, o animal maximiza a captação do gás nos pulmões e garante o suprimento dos tecidos. A capacidade de tamponamento do sangue não é o problema imposto pelo ar rarefeito. Maior afinidade pelo CO₂ não resolve a falta de oxigênio, que é o desafio da altitude. A velocidade do transporte de gases depende da circulação, não da diferença genética da hemoglobina. A solubilidade dos gases no plasma é uma propriedade física, não alterada pela hemoglobina. Gabarito: A.",
+  "hash": "1b55e1e1187dd5fe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q112": {
+  "explicacao": "O texto mostra que uma pessoa infectada libera gotículas e aerossóis carregados de partículas virais ao falar, tossir ou espirrar, e que as máscaras ajudam a reduzir a transmissão. O mecanismo é físico: a máscara funciona como barreira, retendo boa parte das gotículas e aerossóis que saem de quem está infectado e dificultando que essas partículas cheguem às vias respiratórias de quem está por perto. Por isso, ela protege tanto o usuário quanto as outras pessoas. A máscara comum não neutraliza nem inativa o vírus; ela apenas retém as partículas. Ela não altera a quantidade de vírus dentro das gotículas produzidas pelo organismo. A ideia de que o infectado passa a inspirar e expirar menos vírus não descreve o papel de barreira e confunde o mecanismo. Manter pessoas afastadas é a função do distanciamento social, não da máscara. Gabarito: B.",
+  "hash": "0858c2a29c79fdd9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q113": {
+  "explicacao": "A figura representa a formação de diferentes raças com fenótipos distintos a partir de uma população ancestral, por meio da reprodução diferencial de genótipos. O ponto central é quem decide quais indivíduos se reproduzem. Quando é o ser humano que escolhe, cruzando apenas os indivíduos com características de seu interesse, ao longo de gerações, temos a seleção artificial, o mesmo princípio da seleção natural de Darwin, mas com o critério definido pelo criador. É assim que surgiram as raças de cães, de gado e de muitas plantas cultivadas. Deriva genética é a mudança aleatória de frequências gênicas, sem direção, especialmente em populações pequenas. Formação de híbridos envolve o cruzamento entre espécies ou linhagens diferentes, o que não caracteriza a criação dirigida de raças. Especiação alopátrica exige isolamento geográfico e leva a novas espécies, não a raças. Divergência adaptativa é guiada por pressões do ambiente natural, não pela escolha humana. Gabarito: B.",
+  "hash": "ea12dbf894dec401",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q114": {
+  "explicacao": "O experimento compara ervilhas em solo rico em nutrientes, um esterilizado pelo calor e outro não. As plantas do solo esterilizado cresceram menos. O que mudou foi a eliminação dos microrganismos do solo. Ervilhas são leguminosas e dependem de bactérias fixadoras, como as do gênero Rhizobium, que vivem em nódulos nas raízes e convertem o N₂ do ar em formas utilizáveis, além de microrganismos decompositores que mineralizam o nitrogênio orgânico, transformando-o em amônio e nitrato. Sem esses seres, o nitrogênio orgânico do solo e o do ar ficam inacessíveis à planta, e o nitrogênio é o nutriente cuja disponibilidade cai. A água não depende de microrganismos e foi mantida em condições ideais. Cálcio, fosfato e potássio já estão presentes em formas minerais e não dependem da ação de bactérias para serem absorvidos. Gabarito: E.",
+  "hash": "734c9d75da051a4f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q115": {
+  "explicacao": "O satélite passa por três órbitas: a circular interna R₁, a elíptica E e a circular geoestacionária R₂, mais afastada. Para ir de uma órbita à outra, ele recebe dois impulsos tangenciais no sentido do movimento, em A e em B. Cada impulso aumenta a velocidade e, portanto, a energia cinética, enquanto a energia potencial no ponto do impulso não muda. Logo, cada impulso aumenta a energia mecânica. Fora dos impulsos, só a gravidade atua e a energia se conserva em cada órbita. Outra forma de ver: a energia mecânica de uma órbita vale E = −GMm/(2a), em que a é o semieixo maior. Como R₁ < a_E < R₂, a energia é menos negativa quanto maior a órbita: E₁ < E_E < E₂. A alternativa com a ordem invertida ignora que os impulsos fornecem energia. As que igualam E₁ a E_E ou E_E a E₂ desconsideram que cada impulso altera a energia mecânica. Gabarito: A.",
+  "hash": "55b909b185024728",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q116": {
+  "explicacao": "Como as mitocôndrias vêm só do óvulo, o DNA mitocondrial passa apenas pela linhagem materna: todos os filhos e filhas de uma mulher têm o mesmo mtDNA que ela, mas só as filhas o transmitem adiante. No heredograma, W é filho de uma mulher que é filha do casal formado pelo indivíduo 2 e sua esposa. O mtDNA de W, portanto, é o da avó materna (esposa de 2), que por sua vez o recebeu da mãe dela, a mulher do casal da primeira geração, passando pela filha desse casal. A irmã da esposa de 2 também é filha da mesma mulher e transmitiu esse mtDNA aos três filhos homens, entre eles o indivíduo 3. Logo, 3 e W compartilham o mesmo DNA mitocondrial. O indivíduo 1 é filha de um homem da família com uma mulher de fora. O indivíduo 2 entrou na família pelo casamento. Os indivíduos 4 e 5 são filhos de homens da família com mulheres de fora, herdando o mtDNA das mães. Gabarito: C.",
+  "hash": "1f2afa8a60148d68",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q117": {
+  "explicacao": "No circuito original, um resistor de 40 Ω é percorrido por 4 A. Pela lei de Ohm, a tensão original é V = R × i = 40 × 4 = 160 V. A ideia é passar a usar 250 V mantendo a mesma corrente de 4 A, para que o resistor do aquecedor dissipe a mesma potência (P = R·i² = 40 × 16 = 640 W) e aqueça a mesma água no mesmo tempo. A resistência total necessária é R_total = 250 ÷ 4 = 62,5 Ω. Como precisamos aumentar a resistência equivalente, o resistor extra deve ser ligado em série: 62,5 − 40 = 22,5 Ω. Esse resistor fica com os 90 V excedentes. Um resistor de 22,5 Ω em paralelo reduziria a resistência equivalente e aumentaria a corrente. 71,1 Ω não resulta de nenhum cálculo coerente com os dados, em série ou em paralelo. 101,1 Ω em paralelo também diminuiria a resistência total, aumentando a corrente. Gabarito: B.",
+  "hash": "fa7b7bf602aae802",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q118": {
+  "explicacao": "Os alunos coletaram musgo, cogumelo, samambaia, alga e ramos de pinheiro e goiabeira. O professor lembra que nem todos são vegetais: o cogumelo pertence ao reino Fungi. A característica que separa o cogumelo de todos os demais da coleção é a nutrição. Musgo, samambaia, alga, pinheiro e goiabeira têm clorofila e fazem fotossíntese, sendo autótrofos. O cogumelo é heterótrofo: não fabrica seu alimento e obtém matéria orgânica por absorção, decompondo restos ou vivendo associado a outros seres. Ser talófito não é exclusivo do cogumelo, pois as algas também não têm corpo dividido em órgãos. Ser criptógamo também vale para musgos, samambaias e algas. Fungos se reproduzem sexuadamente, e a haploidia não é o critério que os diferencia. Ser avascular também se aplica ao musgo e à alga. Gabarito: C.",
+  "hash": "8cf6356680b40f75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q119": {
+  "explicacao": "É uma questão de estequiometria em duas etapas. Primeiro, ligamos o Ti ao TiCl₄ e depois o TiCl₄ ao Cl₂. Etapa de redução: 2 Mg + TiCl₄ → 2 MgCl₂ + Ti, logo 1 mol de TiCl₄ gera 1 mol de Ti. Etapa de cloração: TiO₂ + 2 Cl₂ + 2 CO → TiCl₄ + 2 CO₂, logo 2 mol de Cl₂ geram 1 mol de TiCl₄. Juntando: 2 mol de Cl₂ → 1 mol de Ti. Quantidade de titânio: 480 kg ÷ 48 g/mol = 480 000 g ÷ 48 = 10 000 mol. Cloro necessário: 2 × 10 000 = 20 000 mol de Cl₂. Massa molar do Cl₂ = 2 × 35,5 = 71 g/mol. Massa = 20 000 × 71 = 1 420 000 g = 1 420 kg. 179 kg e 359 kg resultam de erros de proporção ou de usar Cl em vez de Cl₂ com divisões indevidas. 480 kg apenas repete a massa de titânio. 710 kg considera 1 mol de Cl₂ por mol de Ti, esquecendo o coeficiente 2. Gabarito: E.",
+  "hash": "cba2f5caea469bd1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q120": {
+  "explicacao": "O texto define doenças negligenciadas como enfermidades tropicais endêmicas, comuns em regiões pobres, que atingem populações sem recursos para pagar tratamentos e, por isso, recebem pouco investimento da indústria farmacêutica. Entre as opções, a única que se encaixa é a leishmaniose, doença causada por protozoários do gênero Leishmania, transmitida pelo mosquito-palha, típica de regiões tropicais e associada à pobreza; ela integra a lista de doenças negligenciadas da OMS, ao lado de doença de Chagas, esquistossomose e dengue. Infarto é uma doença cardiovascular de distribuição mundial, alvo de grandes investimentos. Câncer também é amplamente pesquisado e atinge todas as regiões e classes sociais. Alzheimer é uma doença neurodegenerativa associada ao envelhecimento, com muitos estudos em países ricos. Influenza A é uma gripe de distribuição global, com vacinas produzidas anualmente. Gabarito: E.",
+  "hash": "1ba4026d9fde958f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q121": {
+  "explicacao": "A questão pede o menor nível de intensidade sonora, em dB, para ouvir um som de 90 Hz. Esse mínimo é dado pela curva de 0 fon, o limiar de audibilidade, a mais baixa do gráfico. Localize 90 Hz no eixo horizontal, logo antes da marca de 100 Hz (lembre que a escala é logarítmica), suba até a curva de 0 fon e leia o valor no eixo vertical: cerca de 40 dB. Isso mostra que o ouvido humano é pouco sensível a sons graves: para frequências baixas, é preciso uma intensidade bem maior do que em torno de 3 000 a 4 000 Hz, onde o limiar fica abaixo de 0 dB. O valor −20 dB não aparece na curva de 0 fon nessa região. 0 dB corresponde ao limiar apenas para frequências médias, perto de 1 000 Hz. 30 dB é a leitura de uma frequência um pouco maior, perto de 150 Hz. 4 000 é uma frequência, não um nível em dB. Gabarito: D.",
+  "hash": "851d76f2a6a4ef12",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q122": {
+  "explicacao": "O texto descreve o estudo clássico de Robert Paine: a estrela-do-mar Pisaster se alimenta do mexilhão Mytilus, molusco dominante que compete por espaço com outros invertebrados e algas. Os dados do gráfico mostram que, onde a Pisaster é retirada, a diversidade de espécies cai, enquanto onde ela permanece, a diversidade se mantém. A explicação é que, sem o predador, o mexilhão se multiplica, ocupa todo o espaço disponível nas rochas e exclui competitivamente as outras espécies. Com a Pisaster presente, a predação mantém a população de moluscos sob controle, liberando espaço e permitindo a coexistência de muitas espécies. Por isso ela é chamada de espécie-chave. A estrela não fragmenta hábitats. Ela é predadora, não presa, nesse contexto. Não há isolamento geográfico nem relação com taxa de especiação. Ela não libera substâncias inibidoras, e o efeito é justamente reduzir os moluscos, não aumentá-los. Gabarito: D.",
+  "hash": "99c868f5263ccf20",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q123": {
+  "explicacao": "O texto mostra que a adubação da cana fornece nitrogênio nas formas NH₄⁺ e NO₃⁻, e que esses íons são lixiviados, chegando a rios e lagos. O excesso de nutrientes nitrogenados (e também fosfatados) nos corpos d'água provoca a eutrofização: as algas e cianobactérias, que tinham crescimento limitado pela falta desses nutrientes, proliferam intensamente. Isso turva a água, e a decomposição posterior dessa biomassa consome o oxigênio dissolvido, causando morte de peixes. Portanto, uma consequência direta é a proliferação de grandes quantidades de algas. O NH₄⁺ tem caráter ácido, e a nitrificação também acidifica, então não há elevação da alcalinidade. Ocorre aumento, e não redução, de nutrientes. Nitrato e amônio são muito solúveis e justamente por isso são lixiviados, não retidos. A eutrofização desequilibra o ecossistema, favorecendo poucas espécies, e não as nativas. Gabarito: C.",
+  "hash": "4e440e46a0687eca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q124": {
+  "explicacao": "Os dois copos têm a mesma água quente e são iguais, exceto pela superfície externa: um é preto, o outro espelhado. O enunciado lembra que bons absorvedores de radiação também são bons emissores. A superfície preta absorve muito bem a radiação e, por isso, também emite muito bem; já a superfície espelhada reflete a maior parte da radiação, sendo má absorvedora e, portanto, má emissora. Como a água está mais quente que o ambiente, o copo preto perde energia por radiação com mais eficiência, e sua temperatura cai mais rápido. O copo espelhado também esfria, por condução e convecção e um pouco por radiação, mas mais devagar. É o mesmo princípio das garrafas térmicas com paredes espelhadas. Dizer que os dois esfriam igualmente ignora a diferença de emissividade. Nenhum dos copos mantém a temperatura, já que ambos trocam calor. O copo espelhado não esfria mais rápido, pois é o pior emissor. Gabarito: D.",
+  "hash": "593f041f712bb2db",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q125": {
+  "explicacao": "Precisamos de um gráfico em que o Animal A, osmorregulador, mantenha a pressão osmótica interna quase constante qualquer que seja a do meio, e o Animal B, osmoconformador, tenha a pressão interna acompanhando a externa. No gráfico da alternativa B, a linha do Animal A fica praticamente horizontal, variando só de cerca de 600 para 770 mOsm enquanto o meio vai de 200 a 1 600 mOsm, e a linha do Animal B sobe junto com a externa, de 200 a 1 600 mOsm, na diagonal em que interno = externo. É exatamente o comportamento esperado. Na alternativa A, os papéis estão trocados: é o A que acompanha o meio. Na alternativa C, o B varia ao contrário do meio, o que nenhum osmoconformador faz. Na alternativa D, o A diminui com o aumento externo e o B não acompanha o meio. Na alternativa E, o B também cai enquanto o meio aumenta, e o A varia bastante. Gabarito: B.",
+  "hash": "a8aaaddc53bb4fd7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q126": {
+  "explicacao": "O objetivo do moderador é frear os nêutrons. Na colisão frontal e elástica com um alvo em repouso, a velocidade final do nêutron é dada por υ_nf = [(mₙ − mₛ)/(mₙ + mₛ)] × υ₀. A redução é máxima quando essa fração é a menor possível em módulo, o que acontece quando a massa do alvo é próxima da massa do nêutron (no limite de massas iguais, o nêutron pararia). Tomando mₙ ≈ 1 u: para o deutério (m = 2), |υ_nf| = (1/3)υ₀ ≈ 0,33υ₀. Para o hélio-4, (3/5)υ₀ = 0,60υ₀. Para o carbono-12, (11/13)υ₀ ≈ 0,85υ₀. Para o nitrogênio-14, (13/15)υ₀ ≈ 0,87υ₀. Para o estrôncio-94, (93/95)υ₀ ≈ 0,98υ₀, ou seja, o nêutron quase só ricocheteia. Assim, o deutério, presente na água pesada usada em reatores, é o que mais reduz a velocidade. Os núcleos mais pesados, como He, C, N e Sr, retiram cada vez menos energia por colisão. Gabarito: A.",
+  "hash": "61a8fe800f54e456",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q127": {
+  "explicacao": "A questão pede a fonte primária que gera energia elétrica por meio de processos químicos, ou seja, por reações que quebram e formam ligações entre átomos. A biomassa (bagaço de cana, lenha, resíduos agrícolas, biogás) produz energia pela combustão da matéria orgânica, uma reação química de oxidação que libera calor; esse calor gera vapor que movimenta turbinas. No caso do biogás, há ainda a decomposição anaeróbia por microrganismos, também química. A energia eólica aproveita a energia cinética dos ventos, um processo mecânico. A nuclear vem da fissão de núcleos atômicos, um processo físico-nuclear, não químico, pois altera os núcleos e não as ligações. A maremotriz usa o movimento das marés, também mecânico. A geotérmica aproveita o calor do interior da Terra, sem reação química. Gabarito: C.",
+  "hash": "1bea6a1a07eb9703",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q128": {
+  "explicacao": "Com n lâmpadas iguais de resistência R em paralelo, a resistência equivalente é R/n. Somando a resistência interna r da fonte, a corrente total é i = ε/(R/n + r). Para 20 lâmpadas: i₂₀ = ε/(R/20 + r). Para 40 lâmpadas: i₄₀ = ε/(R/40 + r). Como i₄₀ = a · i₂₀, temos a = i₄₀/i₂₀ = (R/20 + r)/(R/40 + r). Note que a é maior que 1, pois a resistência equivalente diminui e a corrente total aumenta; porém essa corrente se divide entre o dobro de lâmpadas, e cada uma recebe a·i₂₀/40 em vez de i₂₀/20, ou seja, a/2 vezes a corrente anterior. Como a potência de cada lâmpada é proporcional ao quadrado da corrente, o brilho cai pelo fator (a/2)², menor que 1 enquanto r > 0. As alternativas 1/2 e 1/20 não dependem de R e r, o que é impossível. A fração invertida, (R/40 + r)/(R/20 + r), corresponde a i₂₀/i₄₀. A expressão (R/40) + r é uma resistência, não uma razão de correntes. Gabarito: C.",
+  "hash": "96e7e1fe93461396",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q129": {
+  "explicacao": "O HIV é um retrovírus: seu material genético é RNA, e ele usa a enzima transcriptase reversa para produzir, a partir desse RNA, uma molécula de DNA, que passa a fita dupla e se integra ao DNA da célula hospedeira com a ajuda da integrase. A partir daí, a célula passa a fabricar novos vírus. O fármaco descrito inibe a transcriptase reversa, então bloqueia justamente a conversão do RNA viral em DNA de fita dupla, impedindo sua integração ao genoma celular e a multiplicação do vírus. A transcriptase reversa não transcreve DNA viral em RNA; faz o inverso. O HIV não duplica seu RNA diretamente; ele passa pelo DNA. A enzima não participa da duplicação do DNA celular. Ela também não atua na formação de RNA transportador. Gabarito: B.",
+  "hash": "cfd798675821f5b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q130": {
+  "explicacao": "A vacina imunizou 100% dos ratos no primeiro teste, mas, com novas cobaias, semanas e meses depois, a proteção caiu muito: 40% morreram após quatro semanas e só 15% sobreviveram após três meses. Repare que são novas cobaias em cada experimento, logo não se trata de perda de memória dos mesmos animais. O que mudou ao longo do tempo foi o próprio vírus. Vírus, especialmente os de RNA, têm elevada taxa de mutação; novas variantes surgem com antígenos alterados, e os anticorpos induzidos pela vacina, feita com base na forma antiga, deixam de reconhecê-las. É o que acontece com a gripe, cuja vacina precisa ser atualizada todo ano. Diminuir a carga viral favoreceria a sobrevivência, não o contrário. Não há indício de supressão imune nas novas cobaias. Perda de memória imunológica não explica, pois os animais eram novos a cada teste. Janela imunológica é o período até a produção de anticorpos detectáveis, sem relação com a perda de eficácia. Gabarito: C.",
+  "hash": "82c2c55f342930d9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q131": {
+  "explicacao": "A questão pede outra adaptação que, assim como a polinização pelo vento, favorece a reprodução das gramíneas do Pampa. O ponto-chave do texto é que a anemofilia é pouco eficiente: o pólen é levado ao acaso e só uma fração mínima chega ao estigma de outra flor. A estratégia evolutiva que compensa esse desperdício é produzir enorme quantidade de grãos de pólen, aumentando a probabilidade estatística de que alguns encontrem o estigma. Por isso, plantas polinizadas pelo vento costumam ter flores pequenas, discretas, sem cor, sem cheiro e sem néctar, mas com anteras expostas e muito pólen leve. As alternativas A, B, C e D descrevem atrativos para animais polinizadores. Pétalas atrativas servem para chamar insetos e aves visualmente, o que não tem utilidade para o vento. Néctar açucarado é recompensa alimentar a polinizadores, também inútil na anemofilia. Odor desagradável atrai moscas e besouros, típico de flores polinizadas por esses insetos. Tamanho pronunciado é característica de flores que precisam ser vistas por animais; flores de gramíneas são pequenas. Assim, apenas a produção de pólen numeroso se relaciona ao sucesso reprodutivo com polinização pelo vento. Gabarito: E.",
+  "hash": "f30aa80197ee915c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q132": {
+  "explicacao": "A questão pede qual problema é prevenido pela recomposição da mata ciliar nos rios do sistema Cantareira. A mata ciliar é a vegetação que margeia rios e reservatórios. Suas raízes fixam o solo das margens e a cobertura vegetal reduz o impacto da chuva e o escoamento superficial. Sem ela, a água da chuva arrasta terra, areia e detritos diretamente para o leito, que vai se acumulando no fundo dos rios e represas. Esse acúmulo de sedimentos é o assoreamento, que diminui a profundidade e a capacidade de armazenamento de água, exatamente o que o texto associa ao esgotamento do sistema. Replantar mudas nas margens ataca diretamente essa causa. A salinização da água está ligada a irrigação excessiva e evaporação em regiões secas, não à mata ciliar. A compactação do solo decorre de pisoteio e máquinas, e não é o foco do texto. A contaminação das margens envolve poluentes como esgoto e agrotóxicos, que o plantio não impede diretamente. A eutrofização resulta do excesso de nutrientes, como fósforo e nitrogênio de esgotos; a mata ajuda indiretamente, mas a relação direta é com o assoreamento. Gabarito: B.",
+  "hash": "7c3ba0d5187114e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q133": {
+  "explicacao": "A questão pede em qual frase a palavra força tem o sentido científico da física. Em física, força é uma grandeza vetorial que descreve a interação entre corpos, capaz de alterar o estado de movimento ou deformar um corpo, medida em newtons. Na frase 5, a força da gravidade é exatamente isso: a interação gravitacional entre a Terra e os corpos, que os atrai para o centro do planeta, conforme a lei da gravitação de Newton. Por isso é a única abordagem científica. Na frase 1, Forças Armadas designa instituições militares, sentido institucional. Na frase 2, força maior é expressão jurídica e cotidiana para um imprevisto inevitável. Na frase 3, força do pensamento é uso figurado, ligado a poder de influência. Na frase 4, a bola voltar com mais força é uso cotidiano que confunde força com velocidade ou energia; fisicamente, após o choque a bola não carrega força consigo, ela tem velocidade e energia cinética, e a força só atua durante o contato com a trave. Assim, apenas a frase 5 emprega o termo de modo compatível com a física. Gabarito: E.",
+  "hash": "da58a6d159b9cc00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q134": {
+  "explicacao": "A questão pede o nome da técnica descrita no texto para corrigir a perda auditiva de origem genética em camundongos. O texto diz que um vírus geneticamente modificado foi injetado nos embriões e corrigiu parte do problema. Isso descreve a terapia gênica: o uso de um vetor, frequentemente um vírus modificado e sem capacidade de causar doença, para introduzir nas células uma cópia funcional de um gene defeituoso ou corrigir sua expressão. O vírus funciona como um entregador de material genético, e a célula passa a produzir a proteína que faltava, restaurando parcialmente a função auditiva. A marcação molecular serve para identificar sequências ou genes, sem corrigi-los. A clonagem terapêutica produz células-tronco a partir da transferência de núcleo para gerar tecidos, sem uso de vírus para corrigir genes. A hibridização genômica é técnica de pareamento de fitas de DNA usada em análises e diagnósticos. O sequenciamento gênico determina a ordem dos nucleotídeos de um DNA, ajudando a descobrir a mutação, mas não a corrigindo. Portanto, a técnica de correção é a terapia gênica. Gabarito: A.",
+  "hash": "ecd5cdcabca03e9c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q135": {
+  "explicacao": "A questão pede o papel ecológico do cágado-de-barbelas, que vive em águas poluídas com esgoto, metais e pouco oxigênio e é usado em estudos de ecotoxicologia. O ponto central é esse uso: os pesquisadores analisam esses animais para avaliar o efeito dos poluentes no ambiente. Organismos cuja presença, ausência, saúde ou acúmulo de substâncias revelam as condições de um ecossistema são chamados bioindicadores. Ao medir, por exemplo, metais pesados nos tecidos dos cágados ou alterações fisiológicas, é possível diagnosticar a qualidade da água do Rio Preto. Biorremediadores são organismos que removem ou degradam poluentes, como bactérias que decompõem petróleo; o texto não diz que os cágados limpam a água. Organismos invasores são espécies exóticas introduzidas que se espalham, o que não se aplica a uma espécie nativa. Anaeróbios facultativos são microrganismos que vivem com ou sem oxigênio; um réptil respira ar e depende de oxigênio. Decompositores são fungos e bactérias que degradam matéria orgânica; o cágado é atraído pela matéria orgânica, mas não é decompositor. Assim, a classificação correta é bioindicador. Gabarito: A.",
+  "hash": "7d37030954ad4171",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q136": {
+  "explicacao": "A questão pede o número do lote da família Costa, sabendo que cada lado da rua segue uma progressão aritmética. Na figura, o lado de cima tem, em ordem: Costa, Pereira, 139, Dias e 183. O lado de baixo tem 84, 106, Teixeira, Guimarães e 172. Pelo lado de baixo, a razão é 106 − 84 = 22, o que confere com 172 = 84 + 4 × 22. No lado de cima, o 139 ocupa a 3ª posição e o 183 a 5ª. Entre elas há dois passos: 183 − 139 = 44, logo a razão é r = 44 ÷ 2 = 22. O lote Costa é o 1º termo, dois passos antes do 139: a₁ = 139 − 2 × 22 = 139 − 44 = 95. Conferindo: 95, 117, 139, 161, 183. A alternativa A, 51, não pertence à sequência. A B, 73, seria um termo antes do Costa. A D, 117, é o número do lote Pereira. A E, 161, é o número do lote Dias. Gabarito: C.",
+  "hash": "5411cc90c22ca292",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q137": {
+  "explicacao": "A questão pede o cantor com a maior média aritmética das três frequências. Basta somar e dividir por 3. Cantor I: 380 + 410 + 470 = 1 260, média 420 Hz. Cantor II: 330 + 350 + 490 = 1 170, média 390 Hz. Cantor III: 420 + 420 + 390 = 1 230, média 410 Hz. Cantor IV: 407 + 410 + 404 = 1 221, média 407 Hz. Cantor V: 310 + 380 + 480 = 1 170, média 390 Hz. A maior média é a do cantor I, com 420 Hz. Repare que, como todos fizeram três testes, comparar as somas já bastaria: 1 260 é a maior. O cantor II tem média 390 Hz, apesar de ter atingido a maior nota isolada, 490 Hz. O cantor III, com notas altas e regulares, fica com 410 Hz. O cantor IV é o mais regular, mas tem média 407 Hz. O cantor V empata com o II em 390 Hz. Gabarito: A.",
+  "hash": "9f4ad12d7ff802b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q138": {
+  "explicacao": "A questão pede quantos funcionários novos, cada um com um computador, cabem sem ultrapassar os 24 600 BTUh do aparelho. Regras: 600 BTUh por m² (já incluindo uma pessoa), mais 600 por pessoa adicional e mais 600 por aparelho ligado. Situação atual: área 6 × 4 = 24 m², logo 24 × 600 = 14 400 BTUh. Há 5 pessoas, ou seja, 4 a mais: 4 × 600 = 2 400 BTUh. Há 5 computadores: 5 × 600 = 3 000 BTUh. Total atual: 14 400 + 2 400 + 3 000 = 19 800 BTUh. Folga disponível: 24 600 − 19 800 = 4 800 BTUh. Cada novo funcionário traz uma pessoa e um computador: 600 + 600 = 1 200 BTUh. Número máximo: 4 800 ÷ 1 200 = 4. A alternativa A, 3, deixa folga não aproveitada. A C, 6, ultrapassaria a capacidade. A D, 7, também excede os 24 600 BTUh. A E, 8, resulta de dividir a folga por 600, esquecendo que cada contratação soma duas demandas. Gabarito: B.",
+  "hash": "eecae70dc09b360e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q139": {
+  "explicacao": "A questão pede a escrita em algarismos de um milhão, cento e setenta e seis. Vamos separar por classes. Um milhão corresponde a 1 000 000. Cento e setenta e seis corresponde a 176, que fica na classe das unidades simples. Como não há milhares mencionados, a classe dos milhares é 000. Somando: 1 000 000 + 176 = 1 000 176. Note que a leitura não diz cento e setenta e seis mil, o que mudaria o valor. A alternativa B, 1 176 000, seria um milhão, cento e setenta e seis mil. A C, 100 000 176, seria cem milhões e cento e setenta e seis. A D, 176 000 000, seria cento e setenta e seis milhões. A E, 1 000 000 176, seria um bilhão e cento e setenta e seis. Gabarito: A.",
+  "hash": "e74517eb878d6d00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q140": {
+  "explicacao": "A questão pede qual promoção dá o maior desconto percentual e qual é esse percentual. O desconto percentual é a fração das unidades levadas que não é paga. Opção 1: leva 9 e paga 8, então ganha 1 de 9 unidades. Desconto = 1/9 ≈ 0,1111 = 11,11%. Opção 2: leva 8 e paga 7, então ganha 1 de 8. Desconto = 1/8 = 0,125 = 12,50%. Como 1/8 > 1/9, a opção 2 é mais vantajosa, com 12,50%. A alternativa A, 8,88%, não corresponde a nenhuma das razões. A B indica corretamente o desconto da opção 1, mas ela não é a melhor. A C atribui à opção 1 o percentual que pertence à opção 2. A E, 14,28%, vem de 1/7, dividindo pelo número de unidades pagas em vez das levadas. Gabarito: D.",
+  "hash": "1c71b529306e7f9f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q141": {
+  "explicacao": "A questão pede o novo preço de venda de cada lata no segundo mês. Primeiro mês: foram 20 caixas a R$ 18,00, custo de 20 × 18 = R$ 360,00, com 20 × 12 = 240 latas. O lucro foi de R$ 600,00, então a receita foi 360 + 600 = R$ 960,00, e o preço por lata era 960 ÷ 240 = R$ 4,00. Segundo mês: mesmo custo, R$ 360,00, e mesmas 240 latas. O lucro deve aumentar R$ 360,00, ficando 600 + 360 = R$ 960,00. A receita necessária é 360 + 960 = R$ 1 320,00. Novo preço: 1 320 ÷ 240 = R$ 5,50. A alternativa A, 1,50, é o custo de cada lata (18 ÷ 12). A B, 2,40, não cobre sequer o custo somado ao lucro original. A C, 3,00, não gera o lucro pedido. A D, 4,00, é o preço do primeiro mês. Gabarito: E.",
+  "hash": "df3cd5a695267a8d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q142": {
+  "explicacao": "A questão pede as projeções ortogonais da trajetória do ponto M nos planos yOz (vista frontal, estudante I) e xOz (vista lateral, estudante II). Como as cordas ficam esticadas, com comprimento constante e presas à haste, o ponto M se mantém sempre à mesma distância do eixo da haste: ele descreve um arco de circunferência num plano perpendicular à haste. Pela configuração da figura, esse plano de oscilação é paralelo a xOz, pois o balanço vai e volta na direção x, subindo e descendo em z, sem variar y. Na vista frontal (plano yOz), a coordenada y é fixa e só z varia; o arco, visto de frente, se reduz a um segmento de reta vertical. Na vista lateral (plano xOz), o plano do movimento aparece em verdadeira grandeza e o estudante vê o próprio arco de circunferência. A alternativa A troca o arco por um segmento horizontal. A B fala em parábola, mas a trajetória é circular. A C e a D invertem as vistas. Gabarito: E.",
+  "hash": "0b87983ab3219377",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q143": {
+  "explicacao": "A questão pede quantos funcionários a mais podem ser treinados com a empresa especializada, com investimento de R$ 2 520 000,00. Opção própria: custa R$ 9 000,00 por funcionário, mas a venda das peças abate R$ 1 500,00, então o custo líquido é 9 000 − 1 500 = R$ 7 500,00. Número de treinados: 2 520 000 ÷ 7 500 = 336. Empresa especializada: R$ 4 000,00 por funcionário, sem abatimento. Número: 2 520 000 ÷ 4 000 = 630. Diferença: 630 − 336 = 294 funcionários a mais. A alternativa B, 336, é a quantidade treinada pela própria confecção. A C, 390, e a D, 504, não correspondem à diferença entre 630 e 336. A E, 630, é o total treinado pela empresa, e não a diferença. Gabarito: A.",
+  "hash": "7e5eb8211d98fc69",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q144": {
+  "explicacao": "A questão pede a unidade do parâmetro de qualidade de imagem descrito na pesquisa. O texto define a resolução como a quantidade de pixels em cada quadradinho de 1 cm de lado. Um quadrado de 1 cm de lado tem área de 1 cm², então o parâmetro é uma densidade superficial: número de pixels dividido pela área. Logo, a unidade é pixel por centímetro quadrado, ou pixel/cm². Quanto mais pixels por cm², mais detalhada fica a impressão, o que explica a perda de qualidade ao ampliar a foto: os mesmos pixels se espalham por uma área maior. A alternativa A, cm² ⋅ pixel, multiplica em vez de dividir. A B, cm ⋅ pixel, além de multiplicar, usa comprimento em vez de área. A C, apresentada em imagem, não expressa pixels por unidade de área. A D, pixel/cm, seria densidade linear, pixels por comprimento, e não por quadradinho de área. Gabarito: E.",
+  "hash": "cffd99146e7a28a5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q145": {
+  "explicacao": "A questão pede o local com a maior razão gasolina/etanol, usando o quadro de preços. Calculando: Distrito Federal: 3,18 ÷ 2,28 ≈ 1,39. Goiás: 2,93 ÷ 1,95 ≈ 1,50. Mato Grosso: 3,17 ÷ 2,17 ≈ 1,46. Rio de Janeiro: 3,14 ÷ 2,35 ≈ 1,34. São Paulo: 2,70 ÷ 1,90 ≈ 1,42. A maior razão é a de Goiás, cerca de 1,50, ou seja, ali a gasolina custa aproximadamente 50% a mais que o etanol. Um atalho útil: em Goiás, 1,95 × 1,5 ≈ 2,93, enquanto nos demais o preço da gasolina fica abaixo de 1,5 vez o do etanol. O Distrito Federal tem a gasolina mais cara, mas o etanol também é caro, e a razão é só 1,39. Mato Grosso tem razão alta, 1,46, mas menor que a de Goiás. O Rio de Janeiro tem a menor razão, 1,34. São Paulo, com os menores preços absolutos, tem razão 1,42. Gabarito: B.",
+  "hash": "505c616e91203505",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q146": {
+  "explicacao": "A questão pede o preço de cada prato. O total de R$ 82,50 já inclui 10% de taxa sobre todos os gastos, então ele equivale a 110% do consumo. Consumo sem taxa: 82,50 ÷ 1,10 = R$ 75,00. Desse valor, R$ 16,50 foram de sucos, restando 75,00 − 16,50 = R$ 58,50 para os três pratos. Como cada prato custa o mesmo: 58,50 ÷ 3 = R$ 19,50. Conferindo: 58,50 + 16,50 = 75,00, e 75,00 × 1,1 = 82,50. A alternativa A, 19,25, resulta de calcular a taxa de forma incorreta, subtraindo 10% do total (82,50 − 8,25 = 74,25) antes de descontar os sucos. A C, 19,80, e a D, 20,00, não fecham o total de R$ 82,50. A E, 24,20, aplica a taxa sobre o prato depois de já descontar os sucos do total com taxa, contando os 10% duas vezes. Gabarito: B.",
+  "hash": "5442f58c6fab6959",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q147": {
+  "explicacao": "A questão pede quantos m² a equipe II construiu a mais que a equipe I, considerando que todos os pedreiros têm o mesmo rendimento por hora. Equipe I: 3 pedreiros × 2 dias × 6 h/dia = 36 horas-pedreiro, que produziram 36 m². Logo, cada hora-pedreiro rende 36 ÷ 36 = 1 m². Equipe II: 5 pedreiros × 6 dias × 8 h/dia = 240 horas-pedreiro, produzindo 240 × 1 = 240 m². Diferença: 240 − 36 = 204 m². A alternativa A, 144, não corresponde à diferença correta. A B, 180, aparece ao errar a contagem de horas da equipe II. A D, 240, é o total produzido pela equipe II, e não a diferença pedida. A E, 276, soma as duas produções em vez de subtrair. Gabarito: C.",
+  "hash": "f7417ca23296fd3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q148": {
+  "explicacao": "A questão pede como mudam o número de estandes na situação I e o número de voluntários na situação II, quando o prazo dobra de uma para duas semanas. Raciocinamos com grandezas proporcionais: a quantidade de estandes é diretamente proporcional ao número de voluntários e ao tempo de trabalho. Na primeira edição, 10 voluntários montaram 5 estandes em 1 semana. Situação I: voluntários iguais (10) e tempo dobrado. Mais tempo com a mesma equipe permite montar mais estandes; o número passa a 10, ou seja, maior. Situação II: estandes iguais (5) e tempo dobrado. Para fazer o mesmo trabalho em tempo maior, basta menos gente; voluntários e tempo são inversamente proporcionais, e o número cai para 5, ou seja, menor. A alternativa A erra a situação II, pois mais tempo não exige mais pessoas. A C e a D ignoram o efeito do prazo maior na situação I. A E erra a situação I, já que mais tempo não reduz a produção. Gabarito: B.",
+  "hash": "4c667a92243b0e8d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q149": {
+  "explicacao": "A questão pede qual reta do gráfico representa a relação entre as escalas Celsius (eixo horizontal) e X (eixo vertical). Os pontos que a reta precisa conter são os pares correspondentes: fusão da água, (0 °C, −10 °X), e ebulição, (100 °C, 140 °X). Na figura, a reta II corta o eixo vertical em −10, quando T(°C) = 0, e passa pela altura 140 exatamente sobre a marca de 100 °C. É a única que contém os dois pontos. A inclinação é (140 − (−10)) ÷ (100 − 0) = 1,5, e a equação é X = 1,5C − 10. A reta I passa por (−10, −10) e (140, 100), trocando os papéis dos eixos. A reta III é decrescente, o que não faz sentido, pois as duas escalas aumentam juntas. A reta IV também é decrescente. A reta V passa por (0, 0) e (140, 140), como se as escalas fossem iguais. Gabarito: B.",
+  "hash": "5c545f0e096428b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q150": {
+  "explicacao": "A questão pede o gráfico da altura h da água em função do tempo t, com vazão constante, no garrafão invertido cuja vista frontal mostra, de cima para baixo: um cilindro estreito, um cilindro largo, uma zona esférica que se estreita e um cilindro estreito na saída. Com vazão constante, a altura cai mais rápido onde a seção é menor. Num cilindro a seção não muda, então h cai em linha reta. Primeiro trecho, cilindro estreito do topo: reta descendente bem inclinada e curta. Segundo, cilindro largo: reta descendente pouco inclinada e longa, pois sai muito volume para cada centímetro. Terceiro, zona esférica: a seção diminui conforme a água desce, então a queda de h fica cada vez mais rápida, formando uma curva cada vez mais íngreme. Quarto, cilindro estreito da saída: nova reta muito inclinada até h = 0. O gráfico A mostra exatamente essa sequência: reta íngreme curta, reta suave longa, curva que se acentua e trecho final quase vertical. As alternativas B, C, D e E apresentam trechos com inclinações ou curvaturas incompatíveis com essa ordem de seções, por exemplo curva no lugar dos cilindros ou concavidade invertida na zona esférica. Gabarito: A.",
+  "hash": "4f9e8926d47cee25",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q151": {
+  "explicacao": "A questão pede a classificação do triângulo NPQ quanto aos ângulos e aos lados. Depois da primeira dobra, DCNM é um retângulo, então o ângulo em N, entre NC e NM, é reto (90°). Na segunda dobra, N fica fixo e o lado CN é levado a coincidir com uma parte de MN. Dobrar uma reta sobre outra que forma 90° com ela significa que o vinco é a bissetriz desse ângulo; assim, o vinco NQ forma 45° com NM. No triângulo NPQ, o ponto P é a nova posição de C sobre MN, e Q é a nova posição do vértice sobre DC. Como QC era perpendicular a CN, a imagem QP fica perpendicular a NP, ou seja, o ângulo em P é reto. Com um ângulo de 90° em P e 45° em N, o ângulo em Q também mede 45°. Dois ângulos iguais implicam dois lados iguais: NP = PQ. Portanto, o triângulo é retângulo e isósceles, mas não equilátero, pois um equilátero tem ângulos de 60°. As alternativas A, B e C erram ao dizer que o triângulo é acutângulo. A D erra ao dizê-lo escaleno, já que tem dois lados iguais. Gabarito: E.",
+  "hash": "e62aa346a7b36cd6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q152": {
+  "explicacao": "A questão pede a pressão sonora P correspondente a um nível de 80 dB, usando a relação entre nível e pressão, n = 20 · log(P/P₀), com P₀ = 2 × 10⁻⁵ N/m². Substituindo: 80 = 20 · log(P/P₀). Dividindo por 20: log(P/P₀) = 4. Pela definição de logaritmo na base 10: P/P₀ = 10⁴. Então P = 10⁴ × 2 × 10⁻⁵ = 2 × 10⁻¹ N/m², ou seja, 0,2 N/m². A alternativa A, 8 × 10⁻⁵, multiplica 4 por P₀, tratando o logaritmo como se não fosse expoente. A B, 5 × 10⁻², não decorre da relação. A D, 1 × 10³, ignora o fator P₀ e erra o expoente. A E, 2 × 10⁹, resulta de elevar 10 a 80 dividido de forma incorreta ou usar 10¹⁴ em vez de 10⁴. Gabarito: C.",
+  "hash": "c3ab9146971393ad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q153": {
+  "explicacao": "A questão pede a área da pipa ABCD. Como E é ponto médio de BD e pertence a AC, a pipa é um quadrilátero cujas diagonais se cruzam em E, com AC perpendicular a BD (formato típico de pipa, ou deltoide). Assim, os triângulos AEB e CEB são retângulos em E. No triângulo CEB: BC = 34 e CE = 30, logo BE² = 34² − 30² = 1 156 − 900 = 256, e BE = 16 cm. No triângulo AEB: AB = 20 e BE = 16, logo AE² = 20² − 16² = 400 − 256 = 144, e AE = 12 cm. Diagonais: AC = AE + EC = 12 + 30 = 42 cm; BD = 2 × BE = 32 cm. A área de um quadrilátero com diagonais perpendiculares é o semiproduto delas: (42 × 32) ÷ 2 = 1 344 ÷ 2 = 672 cm². A alternativa A, 58, é soma de medidas, não área. A B, 96, é a área de um só triângulo AEB (12 × 16 ÷ 2). A C, 108, não corresponde a nenhuma parte da figura. A D, 184, também não resulta do cálculo correto. Gabarito: E.",
+  "hash": "1c1f4b9be6188168",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q154": {
+  "explicacao": "A questão pede a distância Sol-Terra em km, sabendo que ela vale 8 minutos-luz e que 1 segundo-luz equivale a 300 000 km. Primeiro, convertemos minutos em segundos: 8 min = 8 × 60 = 480 s. Então a distância é 480 segundos-luz. Multiplicando: 480 × 300 000 km = 480 × 3 × 10⁵ = 1 440 × 10⁵ km. Reescrevendo: 1 440 × 10⁵ = 144 × 10⁶ km, ou seja, 144 milhões de quilômetros, valor próximo da distância média real de cerca de 150 milhões de km. A alternativa A, 24 × 10⁵, multiplica 8 por 3 × 10⁵ sem converter minutos em segundos. A B, 144 × 10⁵, faz a conta certa, mas erra a potência de 10. A C, 18 × 10⁶, não vem do produto correto. A D, 24 × 10⁶, também esquece a conversão de minutos para segundos e ajusta a potência de forma errada. Gabarito: E.",
+  "hash": "d5033f34d5376e13",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q155": {
+  "explicacao": "A questão pede a probabilidade de a bicicleta sair para alguém com exatamente dois filhos. O detalhe essencial é o espaço amostral: só participam do sorteio os funcionários com pelo menos um filho. Total de funcionários: 425; sem filhos: 68. Participantes: 425 − 68 = 357. Funcionários com exatamente dois filhos: 119. Probabilidade = casos favoráveis ÷ casos possíveis = 119/357, que simplificada dá 1/3. A alternativa A, 357/425, é a probabilidade de um funcionário qualquer ter filhos. A B, 238/425, não corresponde ao evento pedido. A C, 119/425, usa todos os funcionários como espaço amostral, incluindo quem não concorre. A E, 1/119, seria a chance de um funcionário específico entre os de dois filhos ganhar, se só eles concorressem. Gabarito: D.",
+  "hash": "6d33f1373bc69ee1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q156": {
+  "explicacao": "A questão pede o número de vértices do octaedro regular depois do truncamento. O octaedro regular tem 6 vértices, 12 arestas e 8 faces triangulares, e em cada vértice concorrem 4 arestas. Ao cortar uma pirâmide em cada vértice, o vértice original desaparece e no lugar surge uma nova face, cujo contorno tem um novo vértice em cada aresta que chegava ali. Como em cada vértice chegam 4 arestas, cada corte cria uma face quadrada com 4 vértices novos. Como os cortes não se intersectam, os vértices de cortes diferentes são todos distintos. Total: 6 × 4 = 24 vértices. Conferindo por Euler: o sólido tem 8 + 6 = 14 faces e 12 + 6 × 4 = 36 arestas; V − A + F = 24 − 36 + 14 = 2. A alternativa A, 6, é o número de vértices do octaedro original. A B, 8, é o número de faces do octaedro. A C, 14, é o número de faces do octaedro truncado. A E, 30, não satisfaz a relação de Euler. Gabarito: D.",
+  "hash": "ed89fb58bbaff4b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q157": {
+  "explicacao": "A questão pede a medida interna do lado da base da menor caixa de base quadrada que comporta o cilindro. Visto de cima, o cilindro é um círculo, e a base da caixa é um quadrado. O menor quadrado que contém um círculo é aquele circunscrito a ele, cujo lado é igual ao diâmetro. O raio externo da base é 25 cm, então o diâmetro é 2 × 25 = 50 cm. Logo, o lado interno da base da caixa deve medir 50 cm, e a altura acompanha a do cilindro, 1 m. A alternativa A, 25, usa o raio no lugar do diâmetro, e o cilindro não caberia. A B, 35, e a C, 39, são menores que o diâmetro e também não comportam o cilindro. A E, 157, aproxima o comprimento da circunferência (2π × 25 ≈ 157), que não é a medida do lado. Gabarito: D.",
+  "hash": "5fe50a8a334a330f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q158": {
+  "explicacao": "A questão pede quantos kWh a pessoa ainda pode consumir, já tendo usado 180 kWh, para a conta não passar de R$ 220,00. Primeiro, testamos o limite de 200 kWh: 100 × 0,90 + 100 × 1,00 + 10 (Cosip) = 90 + 100 + 10 = R$ 200,00. Ainda sobra margem, então ela pode passar de 200 kWh. Acima de 200 kWh, a Cosip vira R$ 12,00 e o excedente custa R$ 1,20 por kWh. Seja c o consumo total: 90 + 100 + 1,20 × (c − 200) + 12 ≤ 220. Daí 202 + 1,20 × (c − 200) ≤ 220, logo 1,20 × (c − 200) ≤ 18, e c − 200 ≤ 15. Consumo total máximo: 215 kWh. Como já usou 180 kWh, o limite adicional é 215 − 180 = 35 kWh. A alternativa A, 30, é inferior ao máximo permitido. A C, 40, levaria a 220 kWh e conta de R$ 226,00. A D, 42, e a E, 50, ultrapassam ainda mais a meta. Gabarito: B.",
+  "hash": "d6693e0b583b5124",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q159": {
+  "explicacao": "A questão pede o reservatório com a maior razão entre volume de chuva (mm) e número de dias de precipitação. Calculando cada razão: I: 350 ÷ 29 ≈ 12,07 mm/dia. II: 382 ÷ 30 ≈ 12,73 mm/dia. III: 390 ÷ 31 ≈ 12,58 mm/dia. IV: 389 ÷ 33 ≈ 11,79 mm/dia. V: 338 ÷ 29 ≈ 11,66 mm/dia. A maior razão é a do reservatório II, cerca de 12,73 mm por dia. Um cuidado: o III tem o maior volume absoluto, mas distribuído em mais dias. O reservatório I tem razão 12,07, menor que a do II. O III, com 12,58, fica próximo, mas abaixo. O IV tem muitos dias de chuva, o que reduz a razão para 11,79. O V tem a menor razão, 11,66. Gabarito: B.",
+  "hash": "ed4272e687b7e414",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q160": {
+  "explicacao": "A questão pede a média das diferenças salariais entre homens e mulheres nos anos do gráfico. Calculamos a diferença em cada ano: 2003: 883 − 826 = 57. 2005: 957 − 874 = 83. 2007: 1 048 − 953 = 95. 2009: 1 107 − 987 = 120. 2011: 1 201 − 1 043 = 158. 2013: 1 292 − 1 117 = 175. 2015: 1 306 − 1 142 = 164. Somando: 57 + 83 + 95 + 120 + 158 + 175 + 164 = 852. Média: 852 ÷ 7 ≈ 121,7. A alternativa B, 120,0, é a diferença de 2009, possivelmente confundida com a mediana. A C, 110,5, surge ao dividir por um número errado de anos ou omitir valores. A D, 82,0, e a E, 65,5, ficam muito abaixo da média das diferenças, parecendo vir de cálculos com apenas alguns anos iniciais. Gabarito: A.",
+  "hash": "703aad21d3f721b9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q161": {
+  "explicacao": "A questão pede a cidade com a maior média de temperatura máxima em dois meses consecutivos, entre abril, maio, junho e julho. Os pares possíveis são abril-maio, maio-junho e junho-julho. Calculando a maior média de cada cidade pela tabela: X: (17 + 27)/2 = 22; (27 + 20)/2 = 23,5; (20 + 25)/2 = 22,5; melhor 23,5. Y: (24 + 22)/2 = 23; (22 + 21)/2 = 21,5; (21 + 25)/2 = 23; melhor 23. Z: (20 + 20)/2 = 20; (20 + 28)/2 = 24; (28 + 20)/2 = 24; melhor 24. W: (23 + 24)/2 = 23,5; (24 + 20)/2 = 22; (20 + 19)/2 = 19,5; melhor 23,5. K: (19 + 25)/2 = 22; (25 + 26)/2 = 25,5; (26 + 19)/2 = 22,5; melhor 25,5. A maior média é a de K, 25,5 °C, em maio e junho. X chega só a 23,5, apesar do pico de 27 em maio. Y fica em 23. Z atinge 24, com o pico isolado de 28 em junho. W alcança 23,5. Gabarito: E.",
+  "hash": "240785ad62923e3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q162": {
+  "explicacao": "A questão pede o pacote com menor preço por metro linear de papel. Calculamos a metragem total e o custo por metro. Tipo I: 4 × 60 = 240 m; 4,90 ÷ 240 ≈ R$ 0,0204/m. Tipo II: 12 × 20 = 240 m; 4,50 ÷ 240 = R$ 0,01875/m. Tipo III: 16 × 30 = 480 m; 8,60 ÷ 480 ≈ R$ 0,01792/m. Tipo IV: 20 × 30 = 600 m; 11,00 ÷ 600 ≈ R$ 0,01833/m. Tipo V: 24 × 20 = 480 m; 8,70 ÷ 480 ≈ R$ 0,01813/m. O menor custo por metro é o do tipo III. Comparando III e V, que têm 480 m, basta ver que 8,60 < 8,70. O tipo I é o mais caro por metro. O tipo II é barato no preço do pacote, mas tem pouca metragem. O tipo IV fica um pouco acima do III. O tipo V empata em metragem com o III, mas custa mais. Gabarito: C.",
+  "hash": "6ba7df355adff7e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q163": {
+  "explicacao": "A questão pede a empresa com menor custo mensal para 12 000 cópias. Basta substituir x = 12 000 em cada expressão. Empresa I: 500 + 0,40 × 12 000 = 500 + 4 800 = R$ 5 300. Empresa II: 800 + 0,50 × 12 000 = 800 + 6 000 = R$ 6 800. Empresa III: 2 000 + 0,20 × 12 000 = 2 000 + 2 400 = R$ 4 400. Empresa IV: 1 100 + 0,25 × 12 000 = 1 100 + 3 000 = R$ 4 100. Empresa V: 600 + 0,30 × 12 000 = 600 + 3 600 = R$ 4 200. O menor custo é o da empresa IV. Note que nem a menor taxa fixa (I) nem o menor custo por cópia (III) garantem o menor total. A empresa I fica cara pelo custo por cópia alto. A II é a mais cara de todas. A III é prejudicada pela taxa fixa elevada. A V fica próxima, mas R$ 100 acima da IV. Gabarito: D.",
+  "hash": "07f0894e9872fff7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q164": {
+  "explicacao": "A questão pede o consumo para levar 10 300 kg por 75 km. Com carga de 10 000 kg, o caminhão gasta 60 L em 90 km, e o consumo é proporcional à distância. Para 75 km com 10 000 kg: 60 × 75 ÷ 90 = 4 500 ÷ 90 = 50 L. Com 10 300 kg, a carga excede o limite em 300 kg, e o consumo aumenta 2%: 50 × 1,02 = 51,0 L. A alternativa A, 49,0, aplica o percentual como redução em vez de aumento. A B, 50,0, ignora o acréscimo de 2% pela carga excedente. A D, 58,8, aplica uma redução de 2% sobre os 60 L sem ajustar a distância. A E, 61,2, aplica o aumento de 2% sobre os 60 L, mas esquece de ajustar para 75 km. Gabarito: C.",
+  "hash": "6cfab1233a1362ab",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q165": {
+  "explicacao": "A questão pede as quantidades mínima e máxima de tijolos na parede de 8 m × 3 m com janela. A face aparente de cada tijolo mede 0,2 m × 0,05 m = 0,01 m². Parede inteira: 8 × 3 = 24 m², o que daria 24 ÷ 0,01 = 2 400 tijolos sem janela. Limites da janela: ela deve ser maior que a área de 100 tijolos, 100 × 0,01 = 1 m², e menor que 1/6 da parede, 24 ÷ 6 = 4 m², equivalente a 400 tijolos. Quanto maior a janela, menos tijolos. Mínimo de tijolos, com a janela no limite de 4 m²: 2 400 − 400 = 2 000. Máximo, com a janela no limite de 1 m²: 2 400 − 100 = 2 300. Os limites são valores de referência, já que a janela não pode atingi-los exatamente. A alternativa A, 100 e 400, dá os tijolos equivalentes à janela, não à parede. A B, 100 e 2 400, mistura a janela mínima com a parede inteira. A D, 733 e 2 396, não decorre das áreas. A E, 2 500 e 2 800, soma em vez de subtrair a janela. Gabarito: C.",
+  "hash": "713d05d97ea7e5bf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q166": {
+  "explicacao": "A questão pede o maior valor da energia potencial Eₚ entre 0 e 8 h, sabendo que a energia mecânica é constante e igual a 12 kJ. Como E_c + Eₚ = 12, temos Eₚ = 12 − E_c. Assim, Eₚ é máxima quando a energia cinética é mínima. No gráfico, E_c começa em 7 kJ, cai até o mínimo de 3 kJ em t = 2 h, sobe até 11 kJ perto de t = 4 h e depois desce até 7 kJ em t = 8 h. O menor valor de E_c no intervalo é 3 kJ. Logo, Eₚ máxima = 12 − 3 = 9 kJ. A alternativa A, 12, exigiria energia cinética nula, o que não ocorre no gráfico. A C, 5, é Eₚ quando E_c = 7 kJ, no início e no fim. A D, 3, é o próprio valor mínimo de E_c, não de Eₚ. A E, 1, é Eₚ no momento de E_c máxima, ou seja, a energia potencial mínima. Gabarito: B.",
+  "hash": "1406aa497709de7d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q167": {
+  "explicacao": "A questão pede a expressão da área reflorestada ao final de n anos. No primeiro ano, a área é 500 hectares. A cada ano, a área total aumenta 50% em relação ao ano anterior, isto é, é multiplicada por 1 + 0,5 = 1,5. Isso caracteriza uma progressão geométrica de primeiro termo 500 e razão 1,5: A₁ = 500, A₂ = 500 × 1,5 = 750, A₃ = 500 × 1,5² = 1 125, e assim por diante. O termo geral da PG é Aₙ = A₁ · qⁿ⁻¹ = 500 · 1,5ⁿ⁻¹. A alternativa A usa razão 0,5, o que representaria redução da área pela metade a cada ano. A C e a E descrevem crescimento linear, somando sempre 250 hectares, o que só valeria para aumentos de 50% sobre o valor inicial, não sobre o ano anterior; além disso, a C não dá 500 em n = 1. A D não representa multiplicação sucessiva por 1,5. Gabarito: B.",
+  "hash": "bc7ee9ca5dd7d26f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q168": {
+  "explicacao": "A questão pede o valor do carro, em milhares de reais, ao final de 6 anos, no modelo V(n) = V₀ · qⁿ. Com V₀ = 30 000, encontramos q: 27 000 ÷ 30 000 = 0,9; conferindo, 24 300 ÷ 27 000 = 0,9 e 21 870 ÷ 24 300 = 0,9. Logo V(n) = 30 000 · 0,9ⁿ. Para n = 6: 0,9² = 0,81; 0,9³ = 0,729; 0,9⁶ = 0,729² = 0,531441. Então V(6) = 30 000 × 0,531441 ≈ 15 943, ou seja, cerca de 15,9 mil reais. Outro caminho: V(6) = V(3) × 0,9³ = 21 870 × 0,729 ≈ 15 943. A alternativa A, 13,7, corresponde a um tempo maior que 6 anos. A B, 14,3, e a C, 14,6, resultam de erros de potência ou arredondamento. A E, 17,7, é próxima do valor ao final de 5 anos (19 683) ou de uma desvalorização linear mal calculada, e não do sexto ano. Gabarito: D.",
+  "hash": "a567b0b2bdaec166",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q169": {
+  "explicacao": "A questão pede o menor gasto diário para repor 100% das vitaminas X e Y usando os alimentos Z (R$ 3,00/kg) e W (R$ 8,00/kg). Pelo quadro, cada 100 g de Z fornece 25% de X e 0% de Y; cada 100 g de W fornece 8% de X e 16% de Y. Como só W tem vitamina Y, ele é obrigatório: 100% ÷ 16% = 6,25 porções de 100 g, ou seja, 625 g de W. Essa quantidade também fornece 6,25 × 8% = 50% de X. Faltam 50% de X, que vêm de Z, mais barato: 50% ÷ 25% = 2 porções, ou 200 g de Z. Custos: W: 0,625 kg × 8 = R$ 5,00. Z: 0,2 kg × 3 = R$ 0,60. Total: R$ 5,60. Usar mais W para cobrir X sairia mais caro, pois Z fornece X a custo menor. A alternativa A, 5,00, considera só o alimento W e deixa X incompleta. A C, 6,10, e a D, 6,20, usam combinações com excesso de alimento. A E, 10,00, cobre tudo apenas com W (1 250 g para 100% de X). Gabarito: B.",
+  "hash": "dc5f9f64cf68d63f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q170": {
+  "explicacao": "A questão pede quanto y₂ aumentou no mesmo intervalo em que y₁ aumentou 20 °C. As duas semirretas partem de A(0, 10). Taxa de y₁, passando por B(20, 50): (50 − 10) ÷ (20 − 0) = 40 ÷ 20 = 2 °C/s. Taxa de y₂, passando por C(40, 30): (30 − 10) ÷ (40 − 0) = 20 ÷ 40 = 0,5 °C/s. Como as funções são afins, o aumento depende apenas da duração do intervalo. Se y₁ subiu 20 °C, o intervalo durou 20 ÷ 2 = 10 s. Nesse tempo, y₂ sobe 0,5 × 10 = 5 °C. Outra forma: a razão entre as taxas é 0,5 ÷ 2 = ¼, então y₂ sobe ¼ de 20 = 5 °C. A alternativa B, 10, usa razão ½. A C, 15, não decorre das inclinações. A D, 20, supõe taxas iguais. A E, 50, é a ordenada do ponto B. Gabarito: A.",
+  "hash": "959f13491fc9372f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q171": {
+  "explicacao": "A questão pede a altura aproximada da nova embalagem em forma de prisma de base quadrada com lado 16 cm, cuja capacidade deve superar em pelo menos 400 mL a do cilindro atual. Volume do cilindro: raio = 16 ÷ 2 = 8 cm, então V = π · r² · h = 3 × 8² × 20 = 3 × 64 × 20 = 3 840 cm³, ou seja, 3 840 mL. Capacidade mínima da nova embalagem: 3 840 + 400 = 4 240 cm³. Área da base quadrada: 16² = 256 cm². Altura: h = 4 240 ÷ 256 ≈ 16,6 cm, que arredondamos para cerca de 17 cm, garantindo a capacidade mínima. A alternativa A, 11, não alcança nem o volume atual. A B, 15, dá 3 840 cm³, apenas o volume atual, sem os 400 mL a mais. A D, 62, e a E, 66, surgem ao usar o diâmetro como raio ou esquecer de elevar ao quadrado, e são exageradas. Gabarito: C.",
+  "hash": "f38c134628a93f52",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q172": {
+  "explicacao": "A questão pede a opção de lata com pelo menos o triplo do volume atual e com o menor custo, sabendo que o preço é proporcional ao volume. Então queremos o volume o mais próximo possível do triplo, sem ficar abaixo. O volume do cilindro é V = π · r² · h. Opção I: raio × 6 multiplica r² por 36; volume × 36. Opção II: área da base × 3 e altura × 3; volume × 9. Opção III: raio × 3 multiplica r² por 9; volume × 9. Opção IV: raio mantido e altura × 3; volume × 3, exatamente o triplo. Opção V: raio × 3 e altura × 3; volume × 9 × 3 = 27. A opção IV atende à exigência mínima com o menor volume e, portanto, o menor preço. A opção I gera volume 36 vezes maior, muito mais cara. A II e a III geram volume 9 vezes maior. A V gera volume 27 vezes maior. Gabarito: D.",
+  "hash": "c586b2a9a1d569ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q173": {
+  "explicacao": "A questão pede o mínimo de gasolina a abastecer no posto para chegar ao destino com pelo menos 25 litros. Trecho até o posto: 560 − 80 = 480 km, com rendimento de 12 km/L, consumindo 480 ÷ 12 = 40 L. Saiu com 50 L, então chegou ao posto com 50 − 40 = 10 L. Trecho final: 80 km a 16 km/L, consumindo 80 ÷ 16 = 5 L. Para chegar com 25 L, precisa sair do posto com 25 + 5 = 30 L. Como tem 10 L, deve abastecer 30 − 10 = 20 L. A alternativa A, 5, é só o consumo do trecho final. A B, 10, é a gasolina que restava ao chegar ao posto. A C, 15, esquece de somar o consumo do trecho final ou desconta o que havia de forma errada. A E, 55, soma tudo sem descontar o que já estava no tanque. Gabarito: D.",
+  "hash": "59b70cfb3e37011a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q174": {
+  "explicacao": "A questão pede, no gráfico radial, os locais com a menor distância média preferida para estranhos, conhecidos e amigos, nessa ordem. Em gráficos desse tipo, quanto mais perto do centro está o ponto, menor a distância. Na linha vermelha, de estranhos, o ponto mais próximo do centro é o da Argentina, por volta de 75 a 80 cm, enquanto China, Índia e Nigéria passam de 100 cm. Na linha laranja, de conhecidos, o menor valor também é o da Argentina, por volta de 55 cm. Na linha azul, de amigos, o ponto mais próximo do centro é o da Noruega, por volta de 25 a 30 cm, abaixo de Argentina e Alemanha. A sequência é, portanto, Argentina, Argentina e Noruega. A alternativa A aponta China e Índia, que têm algumas das maiores distâncias. A C inverte a ordem, colocando a Noruega em estranhos. A D aponta Nigéria, que tem distâncias grandes para estranhos e conhecidos. A E repete países com valores altos. Gabarito: B.",
+  "hash": "d415b5174b2281cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q175": {
+  "explicacao": "A questão pede a compra que gera o maior lucro com R$ 1 000 000,00. Lucro por unidade: 2 quartos: 220 000 × 5% = R$ 11 000. 3 quartos sem varanda: 300 000 × 4% = R$ 12 000. 3 quartos com varanda: preço 300 000 × 1,15 = R$ 345 000; lucro 345 000 × 4% = R$ 13 800. Analisando as opções: A) 4 × 220 000 = 880 000; lucro 4 × 11 000 = 44 000. B) 3 × 300 000 = 900 000; lucro 36 000. C) 3 × 345 000 = 1 035 000, acima do orçamento, inviável. D) 3 × 220 000 + 300 000 = 960 000; lucro 33 000 + 12 000 = 45 000. E) 220 000 + 300 000 + 345 000 = 865 000; lucro 11 000 + 12 000 + 13 800 = 36 800. O maior lucro, R$ 45 000, é o da opção D. Repare que os de 2 quartos rendem mais por real investido (5%), mas a sobra de dinheiro permite incluir um de 3 quartos. A A rende R$ 1 000 a menos. A B e a E rendem bem menos. A C ultrapassa o valor disponível. Gabarito: D.",
+  "hash": "afce52f6d17eb0b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q176": {
+  "explicacao": "A questão pede a idade humana equivalente a 38 anos de um gato, mantendo o padrão da tabela. Pela tabela, aos 15 anos o gato equivale a 76 anos humanos, e cada ano a mais do gato soma 4 anos humanos: 80, 84, 88, até 116 aos 25 anos. É uma progressão aritmética de razão 4. Fórmula: idade humana = 76 + 4 × (idade do gato − 15). Para 38 anos: 76 + 4 × (38 − 15) = 76 + 4 × 23 = 76 + 92 = 168 anos. Conferindo a partir do último dado: 116 + 4 × (38 − 25) = 116 + 52 = 168. A alternativa A, 129, e a B, 133, somam poucos anos ao último valor da tabela. A C, 158, erra a contagem de termos da progressão. A E, 176, usa 4 × 38 + 24 ou conta dois termos a mais. Gabarito: D.",
+  "hash": "6b97c6c648e9a352",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q177": {
+  "explicacao": "A questão pede a escala da planta, sabendo que um quarto de 24 m² aparece como um retângulo de 0,10 m por 0,15 m. Área no desenho: 0,10 × 0,15 = 0,015 m². A razão entre as áreas real e desenhada é 24 ÷ 0,015 = 1 600. Mas a escala é uma razão entre comprimentos, e a razão entre áreas é o quadrado da razão linear. Então a razão linear é √1 600 = 40, e a escala é 1 : 40. Conferindo: 0,10 × 40 = 4 m e 0,15 × 40 = 6 m, e 4 × 6 = 24 m². A alternativa A, 1 : 24, confunde a área real com o fator de escala. A C, 1 : 60, não reproduz a área de 24 m². A D, 1 : 1 600, é a razão entre áreas, não entre comprimentos. A E, 1 : 16 000, erra a conversão das unidades. Gabarito: B.",
+  "hash": "f184fc72b571618c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q178": {
+  "explicacao": "[REVISAR] O quadro de preços e promoções foi extraído embaralhado; a leitura abaixo reconstitui a associação mais provável. A questão pede o petshop com o menor preço total para o banho do shitzu e do poodle. Petshop I: shitzu R$ 29,00 e banho do poodle em promoção a R$ 15,00; total 29 + 15 = R$ 44,00. Petshop II: shitzu R$ 23,00 e poodle R$ 20,00 com 10% de desconto, ou seja, R$ 18,00; total R$ 41,00. Petshop III: shitzu R$ 25,00 e poodle R$ 20,00, somando R$ 45,00, com R$ 5,00 de desconto no total por levar dois cães; total R$ 40,00. Petshop IV: R$ 22,00 + R$ 28,00 = R$ 50,00, com 10% de desconto no total; total R$ 45,00. Petshop V: shitzu R$ 30,00 com 20% de desconto, ou seja, R$ 24,00, mais poodle R$ 24,00; total R$ 48,00. O menor valor é R$ 40,00, no petshop III. O I sai R$ 4,00 mais caro. O II fica a R$ 1,00 do III. O IV, mesmo com desconto, custa R$ 45,00. O V é o mais caro. Gabarito: C.",
+  "hash": "60c6c73d4d9bcd6f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q179": {
+  "explicacao": "A questão pede a altura h do líquido em função do tempo, num tanque em forma de pirâmide de base quadrada com o vértice para baixo, como mostra a figura, com 240 L e 2 m de altura. Volume total: 240 L = 0,24 m³. Como o líquido ocupa uma pirâmide semelhante ao tanque, com o mesmo vértice, os volumes guardam a razão do cubo das alturas: V(h) = 0,24 × (h/2)³ = 0,24 × h³/8 = 0,03 h³. Com vazão de 0,015 m³/s, após t segundos o volume despejado é 0,015 t. Igualando: 0,03 h³ = 0,015 t, logo h³ = t/2, e h = ∛(t/2). Conferindo: o tanque enche quando 0,015 t = 0,24, ou seja, t = 16 s, e então h = ∛8 = 2 m, a altura total. A expressão da alternativa A é exatamente ∛(t/2). As outras alternativas não satisfazem h³ = t/2: usam raiz quadrada, relação linear ou constantes que não levam a h = 2 m em t = 16 s. Gabarito: A.",
+  "hash": "a44563d43c91e91c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q180": {
+  "explicacao": "A questão pede a escala para reproduzir Guernica, de 3,6 m × 7,8 m, numa tela de 20 cm × 30 cm, mantendo a proporção e ocupando a maior área possível. Convertendo: 3,6 m = 360 cm e 7,8 m = 780 cm. Para caber na altura: 360 ÷ 20 = 18, escala de pelo menos 1 : 18. Para caber no comprimento: 780 ÷ 30 = 26, escala de pelo menos 1 : 26. Como a mesma escala vale para as duas dimensões, é preciso usar a mais restritiva, 1 : 26, senão o comprimento não cabe. Com ela, a reprodução fica 360 ÷ 26 ≈ 13,8 cm por 780 ÷ 26 = 30 cm, preenchendo todo o comprimento da tela. A alternativa A, 1 : 12, deixaria a reprodução maior que a tela. A B, 1 : 18, cabe na altura, mas daria 780 ÷ 18 ≈ 43 cm de comprimento. A C, 1 : 21, e a D, 1 : 23, também resultam em comprimentos maiores que 30 cm. Gabarito: E.",
+  "hash": "8c7aa0e63b7a0e7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q91": {
+  "explicacao": "A questão pede a cidade onde o climatizador é mais eficiente, ou seja, onde ele produz a maior redução de temperatura em setembro. Basta cruzar, na Tabela 1, a temperatura média e a umidade relativa de cada cidade da Tabela 2. Repare que a umidade pesa muito mais que a temperatura: quanto mais seco o ar, mais água evapora no painel e mais calor é retirado do ar. Fazendo a leitura: Barbalha (26,0 °C; 58%) → faixa 50 a 59 → 5,7 °C. Belém (27,5 °C; 75%) → faixa 70 a 80 → 2,6 °C. Cáceres (28,5 °C; 51%) → faixa 50 a 59 → 6,2 °C. Corumbá (27,0 °C; 52%) → faixa 50 a 59 → 5,9 °C. Janaúba (25,5 °C; 40%) → faixa 40 a 49 → 7,1 °C. A maior redução é a de Janaúba, a cidade de ar mais seco, mesmo sendo a de menor temperatura. Barbalha reduz só 5,7 °C. Belém, muito úmida, tem o pior desempenho. Cáceres, apesar de mais quente, reduz 6,2 °C. Corumbá reduz 5,9 °C. Gabarito: E.",
+  "hash": "96b224f76e3423be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q92": {
+  "explicacao": "O texto mostra que a pavimentação impermeabiliza o solo: a água da chuva não infiltra, escoa pela superfície e arrasta dejetos e impurezas direto para rios e córregos. A pergunta é qual ação reduziria esse efeito. A saída é recuperar áreas permeáveis, onde a água possa infiltrar e o solo e a vegetação funcionem como filtro, retendo parte dos poluentes e diminuindo o volume e a velocidade da enxurrada. Parques e espaços arborizados fazem exatamente isso, em escala relevante para a cidade. Reciclar lixo seco é positivo, mas não altera a infiltração nem o escoamento superficial. Fossas sépticas tratam esgoto doméstico, um problema diferente do arraste pela chuva. Vasos de plantas têm área de solo insignificante e não aumentam a infiltração nas vias. Expandir a canalização dos rios acelera o escoamento e leva os poluentes ainda mais rápido aos cursos de água. Gabarito: D.",
+  "hash": "9aa1c95ad4942658",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q93": {
+  "explicacao": "O experimento de Griffith é clássico: ele injetou em camundongos pneumococos virulentos (cepa S, com cápsula), que matavam; não virulentos (cepa R), que não matavam; virulentos mortos pelo calor, que também não matavam; e, por fim, uma mistura de virulentos mortos pelo calor com não virulentos vivos. Esse último grupo matou os camundongos, e deles foram isoladas bactérias S vivas. A conclusão é que algum fator das bactérias mortas transformou as bactérias R, transferindo a elas a capacidade de causar doença. Mais tarde, Avery mostrou que esse \"princípio transformante\" era o DNA. Logo, a hipótese testada é a de que a virulência pode passar de uma bactéria para outra. O experimento não investiga mutações causadas pelo calor. O calor serve apenas como ferramenta para matar as bactérias S, não é o objeto do teste. As bactérias virulentas aquecidas morrem, então não se trata de verificar se o calor as altera. A quantidade de bactérias injetadas não é variável no experimento. Gabarito: D.",
+  "hash": "74bb0debf73c880e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q94": {
+  "explicacao": "O texto descreve nanocápsulas biodegradáveis, de parede semipermeável e núcleo oleoso com prilocaína e lidocaína, que transportam e entregam os princípios ativos à região desejada. A ideia central da nanotecnologia aqui é: por serem minúsculas, as cápsulas atravessam as camadas da pele e liberam o fármaco aos poucos, conforme o polímero se degrada. Assim, o anestésico chega mais fundo, à derme, onde estão as terminações nervosas, e é absorvido de forma mais eficiente. É isso que afirma a alternativa correta: aumento do transporte e da absorção dos princípios ativos à medida que as cápsulas se degradam ao migrar da epiderme para a derme. O texto não fala em diminuição do tempo de vida do fármaco nem em migração para a hipoderme. A absorção na epiderme pela interação com gordura não é o mecanismo descrito; o objetivo é atravessá-la. Concentrar o fármaco na epiderme seria o contrário de transportá-lo às camadas mais profundas. A miniaturização torna a entrega mais eficiente, logo não exige mais creme. Gabarito: E.",
+  "hash": "7d8a52c32d51e640",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q95": {
+  "explicacao": "No esquema, o PET, um poliéster, reage com H₂O na presença de catalisador. A ligação éster (–CO–O–) é quebrada: de um lado forma-se o grupo ácido carboxílico (–COOH) do ácido tereftálico, e do outro o grupo álcool (HO–CH₂–) do etilenoglicol. Uma reação em que a água quebra uma ligação, com o H indo para um fragmento e o OH para o outro, é uma hidrólise; neste caso, a hidrólise de um éster, o inverso da esterificação. Eterificação forma éteres, o que não acontece aqui. Esterificação é justamente a reação oposta, ácido + álcool formando éster e água. Neutralização é a reação entre ácido e base formando sal e água. Transesterificação seria a troca do grupo alcóxi do éster por reação com um álcool, não com água. Gabarito: A.",
+  "hash": "8d4dd06e3f620dc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q96": {
+  "explicacao": "A proprietária quer provar que o cavalo já estava infectado no momento da compra, poucos dias antes. Então o exame precisa indicar uma infecção antiga, anterior à chegada ao haras. Pelo texto, a IgM é o primeiro anticorpo produzido e indica infecção recente; a IgG aparece depois e indica infecção mais antiga. Se o resultado for IgM negativo e IgG positivo, a fase aguda inicial já passou e o animal convive com o vírus há mais tempo do que os poucos dias na nova propriedade. Nesse cenário, a avidez nem precisa ser considerada, pois a ausência de IgM já afasta a infecção recente. IgM e IgG positivos com baixa avidez indicam infecção recente, favorecendo o vendedor. Ambos negativos indicam que não há infecção detectável. IgM e IgG positivos mantêm a possibilidade de infecção recente. IgM positivo com IgG negativo é o quadro típico de infecção muito recente, o que prejudicaria a compradora. Gabarito: C.",
+  "hash": "cb157ebf838a4789",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q97": {
+  "explicacao": "O texto diz que os polímeros biodegradáveis possuem grupos ésteres hidrolisáveis, que os microrganismos conseguem quebrar. Então basta procurar, entre as unidades monoméricas, aquela que contém o grupo éster, isto é, uma carbonila ligada a um oxigênio que continua a cadeia (–CO–O–). Na alternativa B, a unidade repetitiva tem exatamente isso: CH₂–CH₂–C(=O)–O–, um poliéster alifático, do tipo dos polímeros biodegradáveis usados em embalagens e suturas. A alternativa A é uma cadeia só de carbonos e hidrogênios, como o polietileno, muito resistente à degradação. A alternativa C tem C=O ligado a nitrogênio, ou seja, uma amida (poliamida), não um éster. A alternativa D tem apenas oxigênio entre carbonos, um poliéter, sem carbonila. A alternativa E é uma cadeia carbônica com cloro, semelhante ao PVC, também pouco biodegradável. Gabarito: B.",
+  "hash": "83b27c679bc1cf4c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q98": {
+  "explicacao": "O fusível deve derreter e abrir o circuito quando a corrente atinge o limite de 1 000 A, mas não antes, em operação normal. Pelo enunciado, cada 4 A elevam a temperatura em 1 °C. Assim, com 1 000 A, a elevação é ΔT = 1 000 ÷ 4 = 250 °C. Precisamos de um material que funda pouco abaixo dessa temperatura, para que o fio se rompa quando a corrente se aproximar do limite. O estanho funde a 232 °C, o que corresponde a uma corrente de 232 × 4 = 928 A, logo abaixo de 1 000 A: ele protege o equipamento sem romper com correntes muito menores. O frâncio funde a 27 °C, o que corresponderia a apenas 108 A, e o fusível queimaria em operação normal. Prata (960 °C) exigiria 3 840 A para fundir, deixando passar correntes perigosas. Silício (1 400 °C) exigiria 5 600 A. Zinco (420 °C) só fundiria com 1 680 A, acima do limite. Gabarito: A.",
+  "hash": "71b7283f13d7d27e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2024-ppl-d2-q99": {
+  "explicacao": "O texto compara duas abelhas que visitam a flor do maracujazeiro: a mamangava, grande, que poliniza com eficiência, e a abelha europeia, pequena, que coleta o pólen sem alcançar o estigma, ou seja, sem fecundar a flor. A pergunta é sobre a relação entre os dois insetos, e não entre inseto e planta. Ambas exploram o mesmo recurso, o pólen da flor do maracujá. Quando a abelha europeia retira o pólen, sobra menos para a mamangava, que é prejudicada; a disputa pelo mesmo recurso limitado entre espécies diferentes é competição interespecífica. Predação exigiria que uma abelha se alimentasse da outra. Mutualismo pressupõe benefício mútuo, o que não ocorre entre as duas abelhas. Inquilinismo é quando uma espécie usa a outra como abrigo. Comensalismo é quando uma espécie aproveita restos da outra sem prejudicá-la, mas aqui há prejuízo pelo uso do mesmo recurso. Gabarito: C.",
+  "hash": "d639e76122d68534",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
