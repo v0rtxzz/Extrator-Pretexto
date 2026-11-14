@@ -154,6 +154,251 @@
   "hash": "f66b06d12d924eef",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2021-digital-d2-q131": {
+  "explicacao": "A questão pede a frequência cardíaca, em batimentos por minuto, a partir do eletrocardiograma. O que importa é medir o intervalo entre dois picos consecutivos (os picos altos, chamados complexo QRS), que corresponde ao período de um batimento. A escala indicada no gráfico mostra que um quadradinho da malha horizontal vale 0,2 s. O retângulo tracejado vai exatamente de um pico ao seguinte e ocupa 5 quadradinhos. Assim, o período é T = 5 × 0,2 = 1,0 s, ou seja, ocorre um batimento a cada segundo. Em um minuto há 60 s, logo a frequência é 60 ÷ 1,0 = 60 batimentos por minuto, valor típico de um adulto saudável em repouso. A alternativa A (30) corresponderia a um período de 2 s, o dobro do medido. A alternativa C (100) exigiria período de 0,6 s, ou seja, três quadradinhos. A alternativa D (120) surge de quem toma meio período, confundindo a onda menor com um batimento. A alternativa E (180) exigiria um período de apenas 0,33 s, incompatível com o traçado. Gabarito: B.",
+  "hash": "2b7ba613ff914dc5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q132": {
+  "explicacao": "A questão pede o padrão de herança da deficiência de lipase ácida lisossômica. As pistas do texto são decisivas: os pais podem não saber que são portadores até nascer um filho afetado, ou seja, carregam o gene mas não manifestam a doença; e, quando ambos são portadores, a chance de um filho afetado é de uma em quatro. Isso é exatamente o que ocorre na herança autossômica recessiva: cada pai é heterozigoto (Aa), e o cruzamento Aa × Aa gera AA, Aa, Aa e aa, sendo apenas aa (¼) afetado. Os heterozigotos são portadores saudáveis, o que explica por que a doença aparece de surpresa na família. A alternativa B não serve porque, na herança dominante, quem tem o alelo já manifesta a doença. Na codominância (C), os dois alelos se expressam no heterozigoto, que teria fenótipo próprio. A herança poligênica (D) envolve vários genes, e o texto cita um único gene no cromossomo 10. A polialelia (E) trata de mais de dois alelos para um gene, o que não explica a proporção de ¼. Gabarito: A.",
+  "hash": "5d5c5529d924f6f2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q133": {
+  "explicacao": "A questão pede qual dispositivo funciona com uma bateria de três pilhas de lítio-iodo em série. Primeiro calculamos a força eletromotriz de uma pilha. O iodo tem maior potencial de redução (+0,54 V), então sofre redução no cátodo; o lítio, com −3,05 V, se oxida no ânodo. A ddp padrão é ΔE° = E°(cátodo) − E°(ânodo) = 0,54 − (−3,05) = 3,59 V. Em série, as tensões se somam: 3 × 3,59 = 10,77 V. Consultando o quadro, a faixa de 10,5 a 10,9 V corresponde ao carrinho de controle remoto, dispositivo IV. O relógio de parede (I) precisa de apenas 1,2 a 1,5 V, muito abaixo. O celular (II), de 3,5 a 3,8 V, seria atendido por uma única pilha, não por três. A câmera digital (III), de 7,5 a 7,8 V, fica abaixo dos 10,77 V obtidos. O notebook (V) exige 19,5 a 20,0 V, quase o dobro do obtido. Gabarito: D.",
+  "hash": "b317226f78de86c9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q134": {
+  "explicacao": "A questão pergunta por que a leitura do alcoolômetro precisa ser corrigida quando a temperatura da solução difere de 20 °C. O instrumento funciona como um densímetro: flutua mais ou menos afundado conforme a densidade da mistura, e a escala converte essa densidade em °GL. Como densidade é massa dividida por volume, qualquer variação de volume altera a leitura. Ao aquecer a solução, água e álcool sofrem dilatação térmica: a massa permanece a mesma, mas o volume aumenta, a densidade diminui e o instrumento afunda mais, indicando um teor alcoólico aparente diferente do real. Por isso a tabela de correção é necessária. A alternativa A é irrelevante, pois a autoionização da água é desprezível e não altera a densidade de forma mensurável. A B está errada porque o aquecimento diminui, e não aumenta, a densidade. A D é falsa: a concentração real não muda, só a leitura. A E erra porque a dilatação é fenômeno físico, sem mudança nas propriedades químicas da mistura. Gabarito: C.",
+  "hash": "4166fa171db2d750",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q135": {
+  "explicacao": "A questão pede a estrutura de um polímero condutor, cuja característica-chave, segundo o texto, é ter ligações duplas conjugadas ao longo da cadeia principal. Conjugação significa alternância regular entre ligações simples e duplas, o que permite a deslocalização de elétrons π por toda a cadeia e, assim, a condução elétrica. Na alternativa D, a unidade repetitiva tem dois carbonos unidos por dupla ligação e ligados por simples à unidade seguinte: a cadeia fica …C=C−C=C−C=C…, com alternância perfeita. Esse é o poliacetileno, justamente o material premiado com o Nobel de 2000. Na A (poliestireno), as duplas estão no anel aromático lateral, não na cadeia principal, que é toda saturada. Na B, há apenas uma carbonila (C=O) isolada, fora da cadeia e sem alternância. Na C, cada dupla é separada por duas ligações simples (unidades de polibutadieno), o que interrompe a conjugação. Na E, o carbono quaternário com o grupo éster é saturado e quebra a alternância entre as duplas. Gabarito: D.",
+  "hash": "c642618cc731c602",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q136": {
+  "explicacao": "A questão pede φ⁷ na forma aφ + b, usando a relação φ² = φ + 1. A estratégia é multiplicar por φ sucessivamente e, sempre que surgir φ², substituí-lo por φ + 1. Partindo de φ² = φ + 1: φ³ = φ·φ² = φ² + φ = (φ + 1) + φ = 2φ + 1. φ⁴ = 2φ² + φ = 2(φ + 1) + φ = 3φ + 2. φ⁵ = 3φ² + 2φ = 3φ + 3 + 2φ = 5φ + 3. φ⁶ = 5φ² + 3φ = 5φ + 5 + 3φ = 8φ + 5. φ⁷ = 8φ² + 5φ = 8φ + 8 + 5φ = 13φ + 8. Note que os coeficientes seguem a sequência de Fibonacci (1, 1, 2, 3, 5, 8, 13…): φⁿ = Fₙφ + Fₙ₋₁. Com n = 7, temos F₇ = 13 e F₆ = 8. A alternativa A (5φ + 3) é φ⁵. A B (7φ + 2) usa o expoente como coeficiente, sem fundamento. A C (9φ + 6) não segue a recorrência. A D (11φ + 7) também não pertence à sequência de Fibonacci. Gabarito: E.",
+  "hash": "8cd0df11ccc8e40d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q137": {
+  "explicacao": "A questão pede a projeção ortogonal, sobre o solo, do trajeto que percorre todas as arestas e todas as diagonais do cubo. O ponto-chave é que o cubo está apoiado num vértice, com a diagonal desse vértice perpendicular ao solo. Projetar ortogonalmente no solo equivale, então, a olhar o cubo de cima, ao longo de uma diagonal principal. Nessa vista, os vértices superior e inferior (e a esfera central) caem no mesmo ponto, o centro da figura, e os outros seis vértices formam um hexágono regular. As 12 arestas viram: 6 lados do hexágono e 6 segmentos ligando o centro aos seis vértices (as três arestas que saem do vértice de cima e as três que saem do vértice de baixo). A diagonal vertical vira um ponto, e as outras três diagonais coincidem com os diâmetros do hexágono. Resultado: hexágono com três diagonais passando pelo centro, como na alternativa E. A alternativa A é uma vista em perspectiva, não projeção ortogonal. A B é um losango, que não mostra os seis vértices laterais. As alternativas C e D correspondem a vistas paralelas a uma face, incompatíveis com o cubo apoiado num vértice. Gabarito: E.",
+  "hash": "9b2c9d90b2b001ef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q139": {
+  "explicacao": "A questão pede o lanche com maior média de vendas por franquia, segundo a tabela. Basta somar as vendas de cada lanche nas três franquias e dividir por 3. Lanche I: 415 + 415 + 415 = 1 245, média 415. Lanche II: 395 + 445 + 390 = 1 230, média 410. Lanche III: 425 + 370 + 425 = 1 220, média ≈ 406,7. Lanche IV: 430 + 370 + 433 = 1 233, média 411. Lanche V: 435 + 425 + 420 = 1 280, média ≈ 426,7. Como todas as médias têm o mesmo divisor, bastaria comparar as somas: a maior é 1 280, do lanche V. O lanche I (A) é constante, mas sua média, 415, é menor. O lanche II (B) tem o maior valor isolado (445), mas a média é 410. O lanche III (C) tem a menor média. O lanche IV (D) tem bons valores em duas franquias, mas cai para 370 na segunda, ficando com 411. Gabarito: E.",
+  "hash": "e3f30661b35c1ac5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q140": {
+  "explicacao": "A questão pede o tipo de comissão, que depende da média de faturamento mensal M do ano. A segunda tabela traz faturamentos com suas frequências, então calculamos uma média ponderada. Produtos: 3,5 × 3 = 10,5; 2,5 × 2 = 5; 5 × 2 = 10; 3 × 4 = 12; 7,5 × 1 = 7,5. Soma: 10,5 + 5 + 10 + 12 + 7,5 = 45 milhões. Número de meses: 3 + 2 + 2 + 4 + 1 = 12. Média: M = 45 ÷ 12 = 3,75 milhões. Pelo primeiro quadro, 2 ≤ 3,75 < 4 corresponde à comissão II. A alternativa A exigiria média abaixo de 2. A C surge de quem faz a média simples dos cinco valores (21,5 ÷ 5 = 4,3), ignorando os pesos. A D e a E exigiriam médias de pelo menos 5 e 6, respectivamente, bem acima do obtido. Gabarito: B.",
+  "hash": "ef29770654d22d60",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q141": {
+  "explicacao": "A questão pede a expressão do preço P de uma hospedagem de n diárias. Vamos montar por partes. O valor total das diárias é d·n. A taxa de limpeza é fixa: L, independentemente do número de dias. A taxa de serviço é um percentual s aplicado sobre o total das diárias, isto é, s·(d·n) = d·n·s. Somando tudo: P = d·n + L + d·n·s. Esse cuidado é essencial: a taxa de serviço não incide sobre a limpeza, apenas sobre as diárias, como diz o enunciado. A alternativa B aplica o percentual a uma só diária (d·s), ignorando que incide sobre o total. A C esquece de multiplicar a diária por n e soma o percentual s como se fosse valor em reais. A D omite o valor das próprias diárias, cobrando apenas a taxa e a limpeza. A E soma s diretamente, tratando um percentual como quantia fixa. Gabarito: A.",
+  "hash": "d2357466489288c9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q142": {
+  "explicacao": "A questão pede o menor número de dardos para que a probabilidade de pontuar (acertar pelo menos um) seja de pelo menos 9/10, com probabilidade ½ de acerto em cada lançamento. O caminho mais simples é o evento complementar: não pontuar significa errar todos. Com n lançamentos independentes, P(errar todos) = (½)ⁿ, então P(pontuar) = 1 − (½)ⁿ. Queremos 1 − (½)ⁿ ≥ 9/10, ou seja, (½)ⁿ ≤ 1/10, o que equivale a 2ⁿ ≥ 10. Testando: 2³ = 8 não basta (dá 1 − 1/8 = 0,875) e 2⁴ = 16 funciona (dá 1 − 1/16 = 0,9375 ≥ 0,9). Portanto, o mínimo é 4 dardos. A alternativa A (2) daria apenas 0,75, menos que as regras atuais. A C (6) e a D (9) funcionam, mas não são o mínimo. A E (10) vem de quem confunde 2ⁿ ≥ 10 com n ≥ 10. Gabarito: B.",
+  "hash": "e5dc824b43da8716",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q143": {
+  "explicacao": "A questão pede o reservatório com maior volume de água, não o de maior porcentagem. O gráfico dá o nível de ocupação (%) e, no topo, a capacidade de cada um em bilhões de litros; o volume é capacidade × porcentagem. I: 105 × 0,20 = 21. II: 100 × 0,30 = 30. III: 20 × 0,50 = 10. IV: 80 × 0,40 = 32. V: 40 × 0,60 = 24. O maior volume é 32 bilhões de litros, do reservatório IV. A armadilha está em olhar só a altura das barras. O reservatório I (A) tem a maior capacidade, mas só 20% ocupados. O II (B) chega perto, com 30 bilhões, mas fica abaixo de 32. O III (C) tem 50% de ocupação, porém capacidade muito pequena. O V (E) tem a maior porcentagem (60%), mas sua capacidade de 40 bilhões resulta em só 24 bilhões de litros. Gabarito: D.",
+  "hash": "d53e1eec26a19d9b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q144": {
+  "explicacao": "A questão pede a média das idades a partir do gráfico de frequências. Lendo as barras: 6 alunos têm 9 anos, 12 têm 18 anos e 9 têm 27 anos. A média é ponderada pelas frequências. Soma das idades: 9 × 6 + 18 × 12 + 27 × 9 = 54 + 216 + 243 = 513. Total de alunos: 6 + 12 + 9 = 27. Média: 513 ÷ 27 = 19 anos. Outra forma rápida: como as idades são múltiplos de 9, a média é 9 × (1·6 + 2·12 + 3·9) ÷ 27 = 9 × 57 ÷ 27 = 19. A alternativa A (9) e a E (27) são apenas as idades extremas. A B (12) é a maior frequência, confundida com idade. A C (18) é a moda e também a média simples das três idades sem pesos, (9 + 18 + 27) ÷ 3, que ignora que há mais alunos de 27 do que de 9 anos. Gabarito: D.",
+  "hash": "f4315e81bb7af142",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q145": {
+  "explicacao": "A questão pede os percentuais x e y das faixas etárias, sabendo que a média geral de leitura é 6 minutos e as médias por faixa são 3, 5 e 12 minutos. A média geral é a média ponderada das faixas pelos percentuais. Montamos duas equações. Total de percentuais: x + y + x = 100, ou seja, 2x + y = 100. Média ponderada: (3x + 5y + 12x) ÷ 100 = 6, ou seja, 15x + 5y = 600, que simplificada dá 3x + y = 120. Subtraindo a primeira da segunda: (3x + y) − (2x + y) = 120 − 100, logo x = 20. Substituindo: y = 100 − 40 = 60. Conferindo: 3·20 + 5·60 + 12·20 = 60 + 300 + 240 = 600, e 600 ÷ 100 = 6. As alternativas A (10 e 80) e E (25 e 50) somam 100 mas dão médias de 5,5 e 6,25. As alternativas B (10 e 90) e D (20 e 80) nem fecham 100% no total. Gabarito: C.",
+  "hash": "c83a0dc3541928f3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q146": {
+  "explicacao": "A questão pede a média mínima da nova ração para que seu coeficiente de variação seja menor que o da ração atual. CV = s ÷ x̄. Ração atual: CV = 1 ÷ 10 = 0,1. Nova ração: CV = 1,5 ÷ x̄. A substituição ocorre se 1,5 ÷ x̄ < 0,1. Como x̄ é positivo, multiplicamos: 1,5 < 0,1·x̄, logo x̄ > 15. Assim, a média das massas com a nova ração precisa ser superior a 15,0 kg. A intuição: o desvio padrão aumentou 50% (de 1 para 1,5), então a média também precisa aumentar mais de 50% (de 10 para mais de 15) para a dispersão relativa diminuir. A alternativa A (5,0) inverte a razão. A B (9,5) e a D (10,5) resultam de somar ou subtrair o meio quilo de diferença entre os desvios, sem usar proporcionalidade. A C (10,0) apenas repete a média atual, que daria CV de 0,15, maior que 0,1. Gabarito: E.",
+  "hash": "a9aa64f4e5250c4a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q147": {
+  "explicacao": "A questão pede as quatro letras mais frequentes do texto de O guarani depois de codificado pela Cifra de César com deslocamento de três posições. A ideia central é que a codificação troca cada letra por outra, mas preserva as frequências: a letra que era mais comum continua aparecendo o mesmo número de vezes, só que com outro símbolo. No gráfico de frequências do romance, como é típico do português, as letras mais frequentes, em ordem decrescente, são A, E, O e S. Avançando três posições no alfabeto: A → D, E → H, O → R e S → V. Logo, no texto codificado, as mais frequentes são D, H, R e V, nessa ordem. A alternativa A dá as letras originais, esquecendo a codificação. A B desloca apenas o A e lista letras seguidas, sem relação com as frequências. A D não corresponde a nenhum deslocamento fixo aplicado a A, E, O e S. A E aplica o deslocamento no sentido contrário (A → X, E → B, O → L, S → P). Gabarito: C.",
+  "hash": "5619a8bb8714d707",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q148": {
+  "explicacao": "A questão pede a mediana do número anual de terremotos de 2000 a 2011. São 12 valores: 15, 16, 13, 15, 16, 11, 11, 18, 12, 17, 24, 20. Primeiro, ordenamos: 11, 11, 12, 13, 15, 15, 16, 16, 17, 18, 20, 24. Com 12 dados (quantidade par), a mediana é a média dos dois termos centrais, o 6º e o 7º: 15 e 16. Mediana = (15 + 16) ÷ 2 = 15,5. A alternativa A (11) é apenas o menor valor. A B (15) é só o 6º termo, esquecendo que, com quantidade par, se tira a média dos dois centrais. A D (15,7) é a média aritmética, 188 ÷ 12 ≈ 15,7, e não a mediana. A E (17,5) é a média entre o menor e o maior valor, (11 + 24) ÷ 2. Gabarito: C.",
+  "hash": "5d5fada0864796dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q149": {
+  "explicacao": "A questão pede o mês com maior lucro até maio, sendo lucro = receita − despesa. Lendo o gráfico (linha cheia = receita, tracejada = despesa), em milhões de reais: janeiro: 10 − 5 = 5. Fevereiro: 20 − 10 = 10. Março: 15 − 10 = 5. Abril: 20 − 15 = 5. Maio: 28 − 25 = 3. O maior lucro é 10 milhões, em fevereiro, e a previsão é que o lucro dos próximos meses não seja inferior a ele. A armadilha é olhar só a receita: maio (E) tem a maior receita, mas também a maior despesa, gerando o menor lucro. Janeiro (A), março (C) e abril (D) empatam com lucro de 5 milhões, metade do de fevereiro; abril, aliás, tem a mesma receita de fevereiro, mas despesa maior. Gabarito: B.",
+  "hash": "4fa1d79d8d99936b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q150": {
+  "explicacao": "A questão pede o aumento percentual no volume de vendas de 2005 a 2009. Do gráfico: 2005 = 236 milhões e 2009 = 519,2 milhões. O aumento absoluto é 519,2 − 236 = 283,2 milhões. O aumento percentual é a variação dividida pelo valor inicial: 283,2 ÷ 236 = 1,2, ou seja, 120%. Conferindo: 236 × 2,2 = 519,2. A alternativa A (45,4) é a razão 236 ÷ 519,2 ≈ 0,454, que compara inicial com final e não mede aumento. A B (54,5) corresponde a 283,2 ÷ 519,2, usando o valor final como referência. A D (220) é a razão final ÷ inicial (2,2) em porcentagem, sem descontar os 100% iniciais. A E (283,2) é o aumento absoluto em milhões, não percentual. Gabarito: C.",
+  "hash": "557298d29bb2b72f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q151": {
+  "explicacao": "A questão pede o menor preço p para o qual pelo menos 50% dos 105 apartamentos custam menos que p. Metade de 105 é 52,5, então precisamos de pelo menos 53 imóveis abaixo de p. Lendo o histograma (faixas de 100 mil reais): ]300, 400]: 5; ]400, 500]: 10; ]500, 600]: 5; ]600, 700]: 15; ]700, 800]: 20; ]800, 900]: 15; ]900, 1 000]: 15; ]1 000, 1 100]: 10; ]1 100, 1 200]: 5; ]1 200, 1 300]: 5. Total: 105. Frequências acumuladas: até 400: 5; até 500: 15; até 600: 20; até 700: 35; até 800: 55. Até 700 mil há só 35 imóveis (cerca de 33%), insuficiente; até 800 mil há 55, cerca de 52%, que já supera a metade. Logo, p = 800 mil reais, o que mostra que o anúncio de 50% abaixo de 550 mil é incompatível (até 600 mil há só 20 imóveis, ≈ 19%). As alternativas A (600) e B (700) acumulam menos da metade. As alternativas D (900) e E (1 000) satisfazem a condição, mas não são o menor valor. Gabarito: C.",
+  "hash": "53cf09e19847740c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q152": {
+  "explicacao": "A questão pede a soma das duas maiores soluções (em a) da equação (a Δ b) ∗ (b Δ a) = 0, com b = 1. Primeiro aplicamos a operação triângulo: a Δ 1 = a² + a − 1 e 1 Δ a = 1 + a − a². Chamando u = a² + a − 1 e v = 1 + a − a², a estrela dá u ∗ v = uv + u = u(v + 1). Para o produto ser zero: u = 0 ou v + 1 = 0. Caso 1: a² + a − 1 = 0, cujas raízes são a = (−1 ± √5)/2, ou seja, ≈ 0,618 e ≈ −1,618. Caso 2: 1 + a − a² = −1, isto é, a² − a − 2 = 0, com raízes a = 2 e a = −1. As quatro soluções, em ordem decrescente: 2; (−1 + √5)/2; −1; (−1 − √5)/2. Somando as duas maiores: 2 + (−1 + √5)/2 = (4 − 1 + √5)/2 = (3 + √5)/2. As alternativas A, B e C não correspondem a nenhuma soma de soluções obtidas. A D é apenas a segunda maior solução, esquecendo de somar o 2, que vem do fator v + 1 = 0. Gabarito: E.",
+  "hash": "1c68b2270a31686b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q153": {
+  "explicacao": "A questão pede a escala da réplica, isto é, a razão entre a medida na miniatura e a medida real, na mesma unidade. Convertendo a ponte real para centímetros: comprimento 38,4 m = 3 840 cm e largura 1,68 m = 168 cm. Agora dividimos real por réplica: 3 840 ÷ 160 = 24 e 168 ÷ 7 = 24. As duas medidas confirmam o mesmo fator, então cada 1 cm da réplica corresponde a 24 cm do original: escala 1 : 24. A alternativa A (1 : 576) é 24², a razão entre áreas, não entre comprimentos. A B (1 : 240) resulta de um erro de conversão, como tratar metros como decímetros. As alternativas D (1 : 4,2) e E (1 : 2,4) vêm de comparar números sem converter as unidades, por exemplo 168 ÷ 40 ou 38,4 ÷ 16. Gabarito: C.",
+  "hash": "014bc19220edd19b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q154": {
+  "explicacao": "A questão pede o número de médicos por mil habitantes em 2020, projetando as variações pela média das duas décadas anteriores. Médicos: de 1990 a 2000, 292 000 − 219 000 = 73 000; de 2000 a 2010, 365 000 − 292 000 = 73 000. Média: 73 000, logo 2020 terá 365 000 + 73 000 = 438 000 médicos. População (em milhar): de 1990 a 2000, 170 000 − 147 000 = 23 000; de 2000 a 2010, 191 000 − 170 000 = 21 000. Média: 22 000, logo 2020 terá 191 000 + 22 000 = 213 000 mil habitantes. Como a população já está em milhares, médicos por mil habitantes = 438 000 ÷ 213 000 ≈ 2,056, que arredonda para 2,06. A alternativa A (0,17) mistura variações com totais. A B (0,49) inverte a razão (213 ÷ 438). A C (1,71) usa os médicos de 2010 (365 000 ÷ 213 000), sem projetá-los. A E (3,32) resulta de dividir a variação de médicos pela de população (73 ÷ 22). Gabarito: D.",
+  "hash": "7178ce1908eb7122",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q155": {
+  "explicacao": "A questão pede a redução percentual da quantidade de frango para manter o custo de R$ 10,00 após a batata-doce subir 50%. Custo atual: frango 0,4 kg × 12,50 = R$ 5,00; batata 0,6 kg × 5,00 = R$ 3,00; hortaliça R$ 2,00; total R$ 10,00. Com o aumento, o quilo da batata passa a 5,00 × 1,5 = R$ 7,50, e os 600 g custam 0,6 × 7,50 = R$ 4,50, ou seja, R$ 1,50 a mais. Para manter os R$ 10,00, o gasto com frango cai de R$ 5,00 para R$ 3,50. Quantidade nova: 3,50 ÷ 12,50 = 0,28 kg = 280 g. Redução: 400 − 280 = 120 g, e 120 ÷ 400 = 0,30, ou seja, 30%. Outra forma: o frango precisa ficar R$ 1,50 mais barato, e 1,50 ÷ 5,00 = 30%. A alternativa A (12,5) confunde com o preço do frango. A B (28,0) é a nova quantidade em centenas de gramas, não a redução. A D (50,0) repete o aumento da batata. A E (70,0) é a fração que sobra de frango. Gabarito: C.",
+  "hash": "d53fee8c5638f248",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q156": {
+  "explicacao": "A questão pede a expressão de P(t) que corresponde ao gráfico. Três informações bastam. Amplitude: a posição oscila entre −3 e 3, então A = 3. Período: o gráfico tem máximos em π/2 e 3π/2, logo T = π, e ω = 2π/T = 2π/π = 2. Valor inicial: em t = 0, P = −3, o que é coerente com a mola solta da posição distendida (abaixo do equilíbrio). Como cos(0) = 1 e sen(0) = 0, a função que começa em −3 é P(t) = −3 cos(2t). Conferindo: em t = π/2, −3 cos(π) = −3·(−1) = 3, o máximo do gráfico. A alternativa B (−3 sen 2t) começaria em zero. A C (3 cos 2t) começaria no máximo, +3. A D (−6 cos 2t) usa a distância entre máximo e mínimo como amplitude. A E (6 sen 2t) erra amplitude e valor inicial. Gabarito: A.",
+  "hash": "5498b9ff13b96305",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q157": {
+  "explicacao": "A questão pede a região que foi destino do maior número de famílias, sem descontar as que saíram. Como aᵢⱼ é o número de famílias que foram da região i para a região j, as famílias que chegaram a uma região j estão na coluna j. Basta somar cada coluna (em dezenas): coluna 1: 0 + 0 + 2 + 1 + 1 = 4; coluna 2: 4 + 0 + 2 + 0 + 2 = 8; coluna 3: 2 + 6 + 0 + 2 + 0 = 10; coluna 4: 2 + 2 + 3 + 0 + 4 = 11; coluna 5: 5 + 3 + 0 + 4 + 0 = 12. A maior soma é a da coluna 5, com 120 famílias recebidas. A alternativa A (região 1) surge de quem soma as linhas: a linha 1 tem a maior soma (13), mas isso mede famílias que saíram da região. As regiões 2, 3 e 4 (B, C e D) receberam 80, 100 e 110 famílias, menos que a região 5. Gabarito: E.",
+  "hash": "9f339167faa358b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q158": {
+  "explicacao": "A questão compara o combustível gasto pelos aviões A e B em um voo lotado de 2 000 km. Modelo A: 200 passageiros × 0,02 L/(km·passageiro) × 2 000 km = 8 000 L. Modelo B: leva 10% a mais de passageiros, 200 × 1,1 = 220, e consome 10% a menos por quilômetro e passageiro, 0,02 × 0,9 = 0,018. Então: 220 × 0,018 × 2 000 = 7 920 L. Razão: 7 920 ÷ 8 000 = 0,99, ou seja, 1% a menos. Em termos de fatores: 1,1 × 0,9 = 0,99, o que mostra que aumento e redução de mesmo percentual não se cancelam. A alternativa A (10% menor) considera só a redução por passageiro, esquecendo os passageiros a mais. A C (igual) supõe que +10% e −10% se anulam. A D (1% maior) inverte o sinal do resultado. A E (11% maior) não tem base no cálculo. Gabarito: B.",
+  "hash": "d01c3adecbfcd867",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q159": {
+  "explicacao": "A questão pede o tempo total de troca dos quatro pneus quando um dos grupos fica com uma pessoa a menos. Os grupos trabalham ao mesmo tempo, então o tempo total é o do grupo mais lento. Com 3 pessoas, um pneu leva 4 s. Como o tempo é inversamente proporcional ao número de pessoas, o produto pessoas × tempo é constante: 3 × 4 = 12. Para o grupo reduzido, com 2 pessoas: 2 × t = 12, logo t = 6 s. Os outros três grupos terminam em 4 s, mas a troca só se completa quando o último pneu estiver pronto, aos 6,0 s. A alternativa B (5,7) e a E (4,4) parecem médias ponderadas de tempos, que não fazem sentido para trabalhos simultâneos. A C (5,0) apenas soma 1 s por pessoa faltante. A D (4,5) média os tempos dos grupos, quando o que importa é o mais lento. Gabarito: A.",
+  "hash": "24d225fa43711772",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q160": {
+  "explicacao": "A questão pede o suplemento que supre 800 mg de A, 1 000 mg de B e 1 200 mg de C com menor gasto, comprando sachês de um único tipo. Para cada suplemento, calculamos quantos sachês cobrem cada mineral (arredondando para cima) e ficamos com o maior número. I: A 800 ÷ 50 = 16; B 10; C 6; precisa 16 sachês, custo 16 × 2 = R$ 32. II: A 1; B 1 000 ÷ 250 = 4; C 1 200 ÷ 200 = 6; precisa 6, custo 6 × 3 = R$ 18. III: A 800 ÷ 250 = 3,2 → 4; B 1; C 1 200 ÷ 300 = 4; precisa 4, custo 4 × 5 = R$ 20. IV: A 800 ÷ 600 → 2; B 1 000 ÷ 500 = 2; C 1 200 ÷ 1 000 → 2; precisa 2, custo 2 × 6 = R$ 12. V: A 800 ÷ 400 = 2; B 1 000 ÷ 800 → 2; C 1; precisa 2, custo 2 × 8 = R$ 16. O menor gasto é R$ 12,00, com o suplemento IV. O I (A) é o mais barato por sachê, mas exige 16 unidades. O II (B) cobre A com um sachê, mas precisa de 6 por causa de C. O III (C) custa R$ 20. O V (E) também usa 2 sachês, mas custa R$ 16. Gabarito: D.",
+  "hash": "9f90a7fadb816ce9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q161": {
+  "explicacao": "A questão pede o gráfico da arrecadação em função do desconto no ingresso. Com desconto de x reais, o preço é 20 − x e o público é 200 + 40x. A arrecadação é R(x) = (20 − x)(200 + 40x) = 4 000 + 600x − 40x², uma função quadrática com concavidade para baixo. Pontos importantes: R(0) = 4 000; vértice em x = −600 ÷ (2·(−40)) = 7,5, com R(7) = R(8) = 13 × 480 = 6 240; e R(20) = 0, quando o ingresso fica de graça. Mas atenção: o enunciado diz que só se admitem valores inteiros para os ingressos, então o desconto só assume valores inteiros e o gráfico deve ser formado por pontos isolados sobre uma parábola, subindo de 4 000 até cerca de 6 240 e caindo até zero em x = 20. É o gráfico da alternativa E. As alternativas A e B mostram crescimento linear, e a C, queda linear, incompatíveis com uma função de segundo grau. A D tem o formato certo, mas é uma curva contínua, admitindo descontos não inteiros. Gabarito: E.",
+  "hash": "31f43919d55deb8a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q162": {
+  "explicacao": "A questão pede o gráfico do imposto I em função do preço R, definido por faixas no quadro. Até R = 5 000, o produto é isento: I = 0, um segmento sobre o eixo horizontal. De 5 000 a 10 000, I = 10% de (R − 5 000): em 5 000 vale 0 e em 10 000 vale 0,1 × 5 000 = 500, um segmento crescente. De 10 000 a 15 000, I = 500 + 30% de (R − 10 000): em 10 000 vale 500 e em 15 000 vale 500 + 0,3 × 5 000 = 2 000, um segmento mais inclinado (taxa de 30% contra 10%). O gráfico é contínuo, com três trechos lineares ligando (0, 0), (5 000, 0), (10 000, 500) e (15 000, 2 000), exatamente a alternativa A. A B termina em 1 000, como se a última faixa também fosse de 10%. A C não mostra a faixa de isenção. A D representa valores constantes por faixa, em degraus, ignorando que o imposto cresce com R. A E começa em R = 5 000, omite a isenção e também termina em 1 000. Gabarito: A.",
+  "hash": "ba05eb0274ab7c30",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q163": {
+  "explicacao": "A questão pede a unidade do módulo volumétrico K, que é proporcional a ρ·v², com constante adimensional. Como a constante não tem unidade, a unidade de K é a de ρ·v². Densidade: kg/m³ = kg·m⁻³. Velocidade ao quadrado: (m/s)² = m²·s⁻². Multiplicando: kg·m⁻³ · m²·s⁻² = kg·m⁻¹·s⁻². Essa é, aliás, a unidade de pressão (pascal = N/m² = kg·m·s⁻²/m² = kg·m⁻¹·s⁻²), coerente com o significado físico do módulo volumétrico. A alternativa A usa a velocidade sem elevar ao quadrado e erra o expoente do metro. A C divide a densidade pela velocidade ao quadrado. A D e a E invertem a densidade, colocando kg com expoente negativo. Gabarito: B.",
+  "hash": "9de8c9e640113e1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q164": {
+  "explicacao": "A questão pede o número máximo de camisetas que cabem com duas calças e um sapato, mantendo 10 kg, considerando a massa M da mala. Sejam c, p e s as massas de camiseta, calça e sapato. Pelas viagens: M + 12c + 4p + 3s = 10 e M + 18c + 3p + 2s = 10. Subtraindo a primeira da segunda: 6c − p − s = 0, ou seja, p + s = 6c: uma calça e um sapato juntos pesam o mesmo que 6 camisetas. Agora reescrevemos a primeira viagem destacando 2 calças e 1 sapato: M + 2p + s + 12c + 2p + 2s = 10, isto é, M + 2p + s + 12c + 2(p + s) = 10. Como 2(p + s) = 12c, fica M + 2p + s + 24c = 10. Logo, com duas calças e um sapato, cabem exatamente 24 camisetas. A alternativa A (22) e a C (26) erram a substituição por 2 camisetas. A D (33) e a E (39) supõem relações que não decorrem do sistema, como trocar cada item por número fixo de camisetas sem usar os dados. Gabarito: B.",
+  "hash": "99825e8984a0741d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q165": {
+  "explicacao": "A questão pede o novo desempenho, em km/L, de um carro que fazia 16 km/L e passa a economizar 0,1 L a cada 20 km. Com o motor antigo, para rodar 20 km gastam-se 20 ÷ 16 = 1,25 L. Com o novo motor, gastam-se 1,25 − 0,1 = 1,15 L para os mesmos 20 km. Novo desempenho: 20 ÷ 1,15 ≈ 17,39 km/L, que com uma casa decimal fica 17,4 km/L. A ideia central é que a economia é em litros por distância, então precisamos calcular o consumo antes de converter de volta para km/L. A alternativa A (15,9) subtrai 0,1 do desempenho. A B (16,1) soma 0,1 ao desempenho, tratando litros como quilômetros. A C (16,4) também ajusta o desempenho diretamente, sem refazer a razão. A E (18,0) superestima o ganho, como se a economia fosse de cerca de 0,14 L a cada 20 km. Gabarito: D.",
+  "hash": "8d83882a52309c41",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q166": {
+  "explicacao": "A questão pede como mudam as quantidades de tinta quando comprimento c e largura l dobram e a altura h se mantém. A quantidade de tinta é proporcional à área pintada. Paredes: a área lateral (de um lado) é 2ch + 2lh = 2h(c + l); pintando os dois lados, 4h(c + l). Com as novas medidas, 4h(2c + 2l) = 2 × 4h(c + l): a área das paredes dobra, porque cada parede só cresce em uma dimensão. Piso: área c·l, que passa a (2c)(2l) = 4cl, ou seja, quatro vezes maior, porque cresce nas duas dimensões. Portanto, o fornecedor correto diz o dobro para as paredes e quatro vezes para o piso: fornecedor II. O I erra o piso, que não apenas dobra. O III erra as paredes, como se crescessem nas duas dimensões. O IV inverte os fatores. O V usa fatores de volume (8) e confunde áreas com o espaço interno. Gabarito: B.",
+  "hash": "e85631fab951cd48",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q167": {
+  "explicacao": "A questão pede a altura mínima do reservatório cilíndrico que atende 100 habitantes por 7 dias, com 120 L por pessoa por dia. Volume necessário: 100 × 120 × 7 = 84 000 L. Como 1 m³ = 1 000 L, isso dá 84 m³. Área da base: o diâmetro é 5 m, então o raio é 2,5 m, e A = π r² = 3 × 2,5² = 3 × 6,25 = 18,75 m². Altura: h = V ÷ A = 84 ÷ 18,75 = 4,48 m. A alternativa A (1,12) usa o diâmetro como raio (3 × 25 = 75 e 84 ÷ 75 = 1,12). A B (3,10) e a C (4,35) resultam de erros no número de dias ou no arredondamento da área. A E (5,60) usa uma área de base de 15 m², incompatível com o raio de 2,5 m. Gabarito: D.",
+  "hash": "1cba0589d359eddc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q168": {
+  "explicacao": "A questão pede a face oposta à face cinza no octaedro montado a partir da planificação. Uma estratégia segura: no octaedro, cada vértice é cercado por exatamente 4 faces, e duas faces que compartilham uma aresta são vizinhas. Na planificação, observe o vértice comum às faces 2, 3, 4 e à face sem número logo à direita de 4: essas quatro faces se reúnem em torno de um mesmo vértice do sólido. Em seguida, o vértice inferior da face 4 é compartilhado por 4, pela face à sua direita, pela face invertida da linha de baixo e pela face inferior esquerda: outro vértice. A face cinza toca apenas a face invertida da linha inferior e não compartilha vértice com 2, 3 ou 1 em torno dos vértices já fechados. Rotulando as faces por octantes (sinais ±, ±, ±), com 2 = (+,+,+), 3 = (+,−,+) e 4 = (+,+,−), a vizinhança obriga a face à direita de 4 a ser (+,−,−), a invertida de baixo a ser (−,−,−) e a cinza a ser (−,−,+). A oposta tem todos os sinais trocados: (+,+,−), que é a face 4. A alternativa A é impossível, pois cada face tem só uma oposta. As faces 1, 2 e 3 (B, C, D) compartilham vértice com a cinza no sólido montado. Gabarito: E.",
+  "hash": "622dfa49ad8fcc74",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q169": {
+  "explicacao": "A questão pede o comprimento da barra, igual ao perímetro de um triângulo equilátero de altura h = 8 cm. Num triângulo equilátero de lado l, a altura é h = l√3/2. Então l = 2h/√3 = 16/√3. Racionalizando: l = 16√3/3 ≈ 16 × 1,7 ÷ 3 ≈ 9,07 cm. O perímetro é 3l = 16√3 ≈ 16 × 1,7 = 27,2 cm. O valor 27,18 da alternativa D corresponde a 3 × 9,06, isto é, ao mesmo cálculo com o lado arredondado; é o valor mais próximo de 27,2 entre as opções. A alternativa A (9,07) é só o lado, esquecendo de multiplicar por 3. A B (13,60) é 8 × 1,7, ou seja, h√3, que corresponde à metade do perímetro. A C (20,40) usa 12 × 1,7, sem relação correta com a altura. A E (36,24) corresponde a quatro lados, como se a figura fosse um quadrado. Gabarito: D.",
+  "hash": "38b08f2fcec18952",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q170": {
+  "explicacao": "A questão pede a capacidade da caneca, que tem forma de tronco de cone, com raio maior R = 5 cm (topo), raio menor r = 4 cm (base) e altura h = 12 cm. O volume do tronco de cone é V = (πh/3)·(R² + R·r + r²). Substituindo, com π = 3: V = (3 × 12 ÷ 3) × (25 + 20 + 16) = 12 × 61 = 732 cm³. Como 1 cm³ = 1 mL, a capacidade é 732 mL. A alternativa A (216) e a B (408) vêm de fórmulas incompletas, usando só parte dos termos ou só um dos raios. A D (2 196) é o triplo do correto, de quem esquece de dividir por 3 na fórmula. A E (2 928) usa os diâmetros no lugar dos raios: 12 × (100 + 80 + 64) = 2 928. Gabarito: C.",
+  "hash": "ec740f11e5597a1f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q171": {
+  "explicacao": "A questão pede o modelo de maior área cujo custo não passe de R$ 0,80. Como o custo é R$ 0,01 por cm², o limite é 0,80 ÷ 0,01 = 80 cm². Calculamos as áreas com π = 3 e √3 = 1,7. Triângulo equilátero de lado 12: l²√3/4 = 144 × 1,7 ÷ 4 = 61,2 cm². Quadrado de lado 8: 64 cm². Retângulo 11 × 8: 88 cm², acima do limite. Hexágono regular de lado 6: seis triângulos equiláteros, 6 × 36 × 1,7 ÷ 4 = 91,8 cm², acima do limite. Círculo de diâmetro 10 (raio 5): 3 × 25 = 75 cm². Dentro do limite de 80 cm², a maior área é a do círculo, 75 cm², custando R$ 0,75. O triângulo (A) e o quadrado (B) cabem no orçamento, mas têm áreas menores. O retângulo (C) e o hexágono (D) têm áreas maiores, mas custariam R$ 0,88 e R$ 0,92, acima do que o dono aceita pagar. Gabarito: E.",
+  "hash": "61da605b219ee91b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q172": {
+  "explicacao": "A questão pede em quais trechos a frequência cardíaca do ciclista de 61 anos fica na faixa aeróbica ideal, entre 65% e 85% da frequência máxima. Primeiro: Fc máx. = 220 − 61 = 159 bpm. Limite inferior: 0,65 × 159 = 103,35 bpm. Limite superior: 0,85 × 159 = 135,15 bpm. Agora comparamos com a tabela. Leve no plano: 90 bpm, abaixo de 103,35, fora da faixa. Forte no plano: 120 bpm, dentro. Subida moderada: 130 bpm, dentro. Subida forte: 140 bpm, acima de 135,15, fora da faixa. Portanto, só os trechos forte no plano e subida moderada estão na faixa ideal. A alternativa A inclui todos os trechos, inclusive os que ficam fora. A B inclui o leve no plano, abaixo do limite inferior. A C inclui a subida forte, acima do limite superior. A E traz justamente os dois trechos que estão fora da faixa. Gabarito: D.",
+  "hash": "2677ddddc5565dfa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q173": {
+  "explicacao": "A questão pede o menor número de lavagens diárias para atingir uma receita de pelo menos R$ 300,00. Para usar o mínimo de lavagens, convém fazer as mais caras, as completas, de R$ 35,00. Com n lavagens, a receita máxima possível é 35n. Precisamos de 35n ≥ 300, ou seja, n ≥ 300 ÷ 35 ≈ 8,57. Como n é inteiro, n = 9. Conferindo: com 8 lavagens, mesmo todas completas, a receita seria no máximo 8 × 35 = 280 reais, insuficiente; com 9 completas, 9 × 35 = 315 reais, o que basta (e até combinações como 8 completas e 1 simples, 280 + 20 = 300, funcionam). A alternativa A (6) daria no máximo 210 reais. A B (8) chega a no máximo 280 reais. A D (15) é o número necessário fazendo só lavagens simples (300 ÷ 20), não o mínimo. A E (20) não tem relação com o cálculo, apenas repete o preço da lavagem simples. Gabarito: C.",
+  "hash": "8d2c22e6766223d1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q174": {
+  "explicacao": "A questão pede a forma mais barata de comprar X, Y e Z, considerando os descontos. Farmácia 2: comprando X e Y juntos, 20% de desconto em ambos: (50 + 50) × 0,8 = R$ 80,00. Farmácia 3: comprando os três, 20% no total: (65 + 45 + 35) × 0,8 = 145 × 0,8 = R$ 116,00. Agora comparamos as opções. A: tudo na Farmácia 1, 45 + 40 + 50 = R$ 135,00. B: X e Y na Farmácia 1 (85) e Z na Farmácia 3 (35, sem desconto, pois não compra os três ali) = R$ 120,00. C: X e Y na Farmácia 2 com desconto (80) e Z na Farmácia 3 (35) = R$ 115,00. D: X na Farmácia 2 sem desconto (50), Y e Z na Farmácia 3 sem desconto (45 + 35) = R$ 130,00. E: tudo na Farmácia 3 com desconto = R$ 116,00. A menor despesa é R$ 115,00, na opção C. A alternativa E é a armadilha, pois o desconto total parece vantajoso, mas fica R$ 1,00 mais cara. Gabarito: C.",
+  "hash": "d46ebed0a7e947d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q175": {
+  "explicacao": "A questão pede quantas figuras planas de cada tipo são formadas pelas hastes. A figura mostra um cubo menor (hastes pretas) dentro de um cubo maior (hastes claras), com cada vértice do cubo interno ligado ao vértice correspondente do externo por hastes cinza congruentes. Quadrados: cada cubo tem 6 faces quadradas, então são 6 + 6 = 12 quadrados. Trapézios: cada aresta do cubo interno, a aresta paralela correspondente do cubo externo e as duas hastes cinza que ligam suas extremidades formam um quadrilátero com dois lados paralelos de tamanhos diferentes e dois lados não paralelos congruentes: um trapézio isósceles. Como cada cubo tem 12 arestas, formam-se 12 trapézios isósceles. A alternativa B conta cada trapézio duas vezes. A C chama de paralelogramos figuras cujas bases têm medidas diferentes. A D usa 8, o número de vértices, no lugar do de arestas. A E erra o tipo: os lados oblíquos são congruentes, então os trapézios não são escalenos, e as faces são quadrados, não apenas retângulos. Gabarito: A.",
+  "hash": "18361437302fefa3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q176": {
+  "explicacao": "A questão pede quantos anos de fundação a cidade completará em 2050, sendo o ano de fundação MCDLXIX. Vamos ler o número da esquerda para a direita, aplicando as regras de subtração e adição. M = 1 000. CD: C (100) à esquerda de D (500) indica subtração, 500 − 100 = 400. L = 50. X = 10. IX: I à esquerda de X, 10 − 1 = 9. Somando: 1 000 + 400 + 50 + 10 + 9 = 1 469. Em 2050, a cidade completará 2050 − 1469 = 581 anos. A alternativa A (379) e a B (381) vêm de ler CD como 600 (somando em vez de subtrair), o que daria 1 669 ou 1 671. A C (579) resulta de ler IX como 11 (fundação em 1 471). A E (601) corresponde a errar a leitura de LXIX, obtendo 1 449. Gabarito: D.",
+  "hash": "a7a5970845075bec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q177": {
+  "explicacao": "A questão pede 9 + 12 na base binária. O caminho mais direto: 9 + 12 = 21 e convertemos 21 para binário. 21 = 16 + 4 + 1 = 1·2⁴ + 0·2³ + 1·2² + 0·2¹ + 1·2⁰, ou seja, 10101. Também dá para somar direto em binário, como sugere o texto: 1001 + 1100. Da direita para a esquerda: 1 + 0 = 1; 0 + 0 = 0; 0 + 1 = 1; 1 + 1 = 10 (escreve 0 e vai 1); o 1 que sobe fica à esquerda. Resultado: 10101, confirmando. A alternativa A (101) vale 5, o que surge de esquecer o vai-um e as casas mais altas. A B (1101) vale 13, como se 1 + 1 desse 1 sem transporte. A C (1111) vale 15, de quem trata 1 + 1 como 1. A E (11001) vale 25, um erro de posição das casas. Gabarito: D.",
+  "hash": "42372d7e91ba9214",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q178": {
+  "explicacao": "A questão pede o valor total da venda de todos os terrenos. Área total: 3 hectares = 30 000 m². Ruas e calçadas: 0,9 hectare = 9 000 m². Área para terrenos: 30 000 − 9 000 = 21 000 m². Número de terrenos: 21 000 ÷ 300 = 70. Os 20 primeiros saem por R$ 20 000,00: 20 × 20 000 = R$ 400 000,00. Os outros 50 saem por R$ 30 000,00: 50 × 30 000 = R$ 1 500 000,00. Total: 400 000 + 1 500 000 = R$ 1 900 000,00. A alternativa A (700 000) é muito baixa e não corresponde à venda de todos os terrenos. A B (1 600 000) resulta de erros no número de terrenos ou de contar só parte deles a preço cheio. A D (2 200 000) usa os 3 hectares inteiros (100 terrenos) de forma inconsistente com os preços. A E (2 800 000) também desconsidera a área das ruas e calçadas. Gabarito: C.",
+  "hash": "0df9d2dda05996f3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q179": {
+  "explicacao": "A questão pede o número de fantasias diferentes escolhendo 2 tecidos entre 6 e 5 pedras entre 15. Em ambos os casos a ordem de escolha não importa (o mesmo par de tecidos, em qualquer ordem, dá a mesma fantasia), então usamos combinações. Tecidos: C(6, 2) = 6!/(4!·2!) = 15. Pedras: C(15, 5) = 15!/(10!·5!) = 3 003. Como cada escolha de tecidos pode ser combinada com cada escolha de pedras, pelo princípio multiplicativo o total é o produto: 6!/(4!2!) · 15!/(10!5!). A alternativa B soma as possibilidades, como se a fantasia usasse só tecidos ou só pedras. As alternativas C e D usam arranjos (6!/2! não corresponde nem a eles corretamente), contando a ordem, que não importa aqui. A E mistura tecidos e pedras num só grupo de 21 itens, escolhendo 7 quaisquer, sem garantir 2 tecidos e 5 pedras. Gabarito: A.",
+  "hash": "263f531b279f62fb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-digital-d2-q180": {
+  "explicacao": "A questão pede a economia por usuário, em 4 anos, ao escolher o laboratório B em vez do A. Precisamos do custo total de cada um em 4 anos e dividir pela capacidade. Laboratório A: 180 + 4 × 60 = 180 + 240 = 420 mil reais; por usuário, 420 ÷ 100 = 4,20 mil reais. Laboratório B: 120 + 4 × 16 = 120 + 64 = 184 mil reais; por usuário, 184 ÷ 80 = 2,30 mil reais. Economia por usuário: 4,20 − 2,30 = 1,90 mil reais. Note que a comparação precisa ser por usuário, já que os laboratórios têm capacidades diferentes. A alternativa A (1,31) e a D (2,36) resultam de dividir a diferença total de custos (420 − 184 = 236 mil) por uma capacidade só, como 236 ÷ 100 = 2,36. A C (2,30) é o custo por usuário do laboratório B, não a economia. A E (2,95) divide a diferença total por 80 (236 ÷ 80). Gabarito: B.",
+  "hash": "ee98f59f5a6878df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2021-digital-d2-q91": {
   "explicacao": "A questão pede qual solução o produtor deve usar para corrigir o pH da solução nutritiva que preparou. Na tabela, a solução de referência tem pH entre 5,5 e 6,5, mas a solução preparada está com pH = 4,3, ou seja, ácida demais. Para elevar o pH, é preciso adicionar uma base. O hidróxido de potássio, KOH, é uma base forte: libera OH⁻, que neutraliza o excesso de H⁺ e eleva o pH. Além disso, ele traz K⁺, um macronutriente que já está em falta na solução preparada (3,5 mmol/L contra 6,0 mmol/L na referência), então não introduz nenhum elemento nocivo e ainda ajuda a completar a composição. O ácido fosfórico, H₃PO₄, abaixaria ainda mais o pH. O sulfato de calcio, CaSO₄, é um sal neutro e praticamente não altera o pH. O óxido de alumínio, Al₂O₃, é insolúvel e o alumínio é tóxico para as plantas. O cloreto de ferro(II), FeCl₂, sofre hidrólise ácida e tenderia a baixar o pH. Gabarito: E.",
   "hash": "bc494db6ab34e8b7",
