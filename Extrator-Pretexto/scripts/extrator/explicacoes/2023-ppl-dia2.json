@@ -1,0 +1,402 @@
+{
+ "enem-2023-ppl-d2-q100": {
+  "explicacao": "A questão pede a vantagem técnica que a microgeração distribuída traz para as concessionárias. O ponto-chave é que a energia gerada pelas microgeradoras (painéis solares, pequenos aerogeradores) é produzida junto ao local de consumo, e o excedente é injetado na rede de distribuição local, abastecendo vizinhos próximos. Na geração centralizada, a eletricidade percorre centenas de quilômetros em linhas de transmissão, onde parte se perde por efeito Joule (aquecimento dos cabos). Com a geração próxima do consumo, a quantidade de energia que precisa ser transportada a longa distância diminui, reduzindo essas perdas, como diz a alternativa A. A B é falsa, pois a geração solar tem pico ao meio-dia, enquanto a demanda costuma ter pico no início da noite. A C não descreve uma vantagem à concessionária e é irreal, já que a rede continua suprindo a diferença. A D erra ao falar de termoelétricas, que não são as microgeradoras do texto. A E não é a vantagem técnica central e não decorre do fluxograma. Gabarito: A.",
+  "hash": "91f59e9e8fa9abf0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q101": {
+  "explicacao": "A questão pede que se identifique o alimento a partir do calor liberado na queima de 0,5 g dele, usando o quadro de calores de combustão (I: 15; II: 120; III: 160; IV: 240; V: 400 cal/g). Todo o calor da combustão foi absorvido pela água. A massa de água é 4 mL × 1 g/mL = 4 g, e a variação de temperatura é 50 − 20 = 30 °C. Pela equação do calor sensível, Q = m · c · ΔT = 4 × 1 × 30 = 120 cal. Esse calor veio de 0,5 g de alimento, então o calor de combustão por grama é 120 ÷ 0,5 = 240 cal/g, valor que corresponde ao alimento IV. A alternativa A (15 cal/g) não tem relação com os dados. A B (120 cal/g) resulta de esquecer de dividir pela massa de 0,5 g. A C (160 cal/g) não corresponde a nenhum cálculo correto. A E (400 cal/g) superestima a energia liberada. Gabarito: D.",
+  "hash": "51eb8ad38b33ebd8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q102": {
+  "explicacao": "A questão pede a potência total do refrigerador, sabendo que só 21% dela é usada para resfriar o refrigerante. Primeiro, a massa: duas latas de 350 mL com densidade 1,0 g/mL dão 700 g. O calor retirado é Q = m · c · ΔT = 700 × 1,0 × 15 = 10 500 cal. Convertendo: 10 500 × 4,2 = 44 100 J. O tempo é 7 min = 420 s, então a potência útil é 44 100 ÷ 420 = 105 W. Essa potência útil é 21% da total: P_total = 105 ÷ 0,21 = 500 W. A alternativa A (105 W) é apenas a potência útil, sem considerar os 21%. A B (120 W) não sai do cálculo correto. A C (315 W) mistura etapas, como se o rendimento fosse diferente. A E (1 500 W) superestima o valor, como se o tempo ou a energia estivessem errados por um fator. Gabarito: D.",
+  "hash": "6a139aeb3a7b05db",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q103": {
+  "explicacao": "A questão pede o mecanismo químico do escurecimento das lentes fotocrômicas. O texto diz que, sob radiação UVA, uma ligação química do corante (Estrutura 1) é quebrada e a molécula se rearranja numa espécie que absorve comprimentos de onda maiores (Estrutura 2), ou seja, luz visível, escurecendo a lente. Na Estrutura 1, o anel pirano contém um oxigênio ligado a dois carbonos, um grupo éter cíclico. A luz UVA rompe a ligação C–O desse anel; o anel se abre e esse oxigênio passa a formar uma dupla ligação com o carbono, originando uma carbonila (C=O) conjugada. Como o carbono ligado ao oxigênio passa a ter mais ligações com ele, há aumento de seu número de oxidação, o que a banca descreve como oxidação pela conversão do grupo éter em carbonila. A alternativa A erra porque não ocorre polimerização. A B erra porque não há grupo enol reagindo. A C confunde absorção com polarização da luz. A E erra porque a molécula absorve, e não dispersa, a luz. Gabarito: D.",
+  "hash": "8fc5b9b2153dc69b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q104": {
+  "explicacao": "A questão pergunta por que o ar que sai do turbo (caixa fria) está quente. O rotor da caixa fria comprime rapidamente o ar admitido. Como esse processo é muito rápido, praticamente não há tempo para troca de calor com o ambiente, então a compressão é aproximadamente adiabática (Q ≈ 0). Pela primeira lei da termodinâmica, ΔU = Q − W; com Q = 0 e trabalho realizado sobre o gás (W negativo), a energia interna aumenta, e com ela a temperatura do ar. Por isso se usa o intercooler, para resfriar esse ar antes da admissão. A alternativa A é incoerente, pois compressão implica redução de volume, impossível numa transformação isocórica. A C erra porque, numa transformação isotérmica, a temperatura não muda. A D erra porque os gases do escape ficam na caixa quente e não se misturam com o ar admitido; eles só giram o rotor. A E também erra, pois o aquecimento não vem do contato direto com o motor, mas da própria compressão. Gabarito: B.",
+  "hash": "45095639cc538986",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q105": {
+  "explicacao": "A questão pede o volume de bateria de lítio que entregue ao carro elétrico a mesma energia útil (de movimento) que o tanque de 40 L de etanol. Energia química do etanol: 40 L × 6 300 Wh/L = 252 000 Wh. Com eficiência de 30%, a energia útil é 0,30 × 252 000 = 75 600 Wh. O motor elétrico tem eficiência três vezes maior: 3 × 30% = 90%. A energia que a bateria precisa armazenar é 75 600 ÷ 0,90 = 84 000 Wh. Como cada litro de bateria armazena 700 Wh, o volume é 84 000 ÷ 700 = 120 L. A alternativa A (36 L) aplica as eficiências de forma invertida ou em excesso. A C (360 L) considera a energia total do etanol sem as eficiências: 252 000 ÷ 700. A D (400 L) não corresponde a um raciocínio coerente. A E (1 080 L) multiplica a energia pela razão das eficiências no sentido errado. Gabarito: B.",
+  "hash": "724240614f95b0fe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q106": {
+  "explicacao": "A questão pede a distância percorrida pela pessoa mais rápida (velocidade 2v) até o primeiro encontro com a mais lenta (velocidade v). Elas partem juntas no mesmo sentido; a mais rápida chega ao fim da pista, volta e encontra a outra, que ainda está indo. Até o encontro, somando o que as duas percorreram, temos exatamente uma ida e uma volta parcial que se completam: d₁ + d₂ = 2D, pois a rápida percorre D mais um trecho de volta, e a lenta percorre o restante até o ponto de encontro. Com o mesmo tempo t: v·t + 2v·t = 2D, logo 3v·t = 2D e t = 2D/(3v). A distância da segunda pessoa é 2v · t = 2v · 2D/(3v) = 4D/3. Confira: a lenta andou 2D/3, e a rápida andou D e voltou D/3, chegando também ao ponto 2D/3. A alternativa A (2D/3) é a distância da pessoa lenta. As alternativas B (5D/4), D (5D/3) e E (7D/4) não satisfazem d₁ + d₂ = 2D com a razão de velocidades 2 : 1. Gabarito: C.",
+  "hash": "c9925169b80df537",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q107": {
+  "explicacao": "A questão pede os sentidos das forças de atrito que a rampa exerce na pedra (B) e nos pés dos operários (A e C). Na pedra, que desliza rampa acima, o atrito cinético se opõe ao movimento relativo, então f_B aponta para baixo da rampa. Para os operários, pense na tendência de escorregamento dos pés. O que puxa a corda é puxado de volta pela corda (terceira lei de Newton) no sentido da pedra, ou seja, rampa abaixo; o que empurra recebe da pedra uma reação também rampa abaixo. Além disso, o peso de cada um tem componente rampa abaixo. Assim, os pés de ambos tendem a escorregar para baixo, e o atrito estático que os mantém parados aponta para cima da rampa. Resultado: f_A e f_C para cima da rampa, f_B para baixo, exatamente o diagrama da alternativa C. A alternativa A inverte os três sentidos. As alternativas B, D e E trazem pelo menos uma das três forças com sentido trocado em relação a essa análise. Gabarito: C.",
+  "hash": "2361d7fa8c1067ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q108": {
+  "explicacao": "A questão pede o sal capaz de reagir com a cloroacetofenona (C₆H₅COCH₂Cl) e descontaminar a pele, segundo a reação dada. Observe o produto: o cloro do grupo CH₂Cl foi substituído por um grupo –O–C(=O)–OH, e forma-se também NaCl. Esse grupo é exatamente o íon hidrogenocarbonato (HCO₃⁻, bicarbonato) ligado ao carbono pelo oxigênio. Trata-se de uma substituição nucleofílica: o bicarbonato ataca o carbono ligado ao cloro, que sai como Cl⁻ e se combina com o Na⁺. Logo, o sal é o bicarbonato de sódio, NaHCO₃, que ainda é seguro para a pele. A alternativa A, acetato de sódio, introduziria um grupo –O–CO–CH₃, diferente do produto. A C, NaHSO₃, geraria um grupo com enxofre. A D, Na₂SO₄, também levaria enxofre e não forma o grupo mostrado. A E, NaOH, formaria um álcool (–OH) e é corrosivo para a pele. Gabarito: B.",
+  "hash": "c3d6e116757427c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q109": {
+  "explicacao": "A questão pergunta qual substância, além do etanol, precisa ser removida continuamente da dorna fechada para evitar que ela se rompa por pressão. Na produção do etanol de segunda geração, o bagaço é pré-tratado e hidrolisado para liberar glicose, que é então fermentada por leveduras. A fermentação alcoólica segue a equação C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂. O dióxido de carbono é um gás; num sistema fechado, seu acúmulo aumenta a pressão interna até poder romper o recipiente. Por isso, ele deve ser retirado continuamente. A alternativa A já é o combustível citado no enunciado, que pede outra substância. A B, glicose, é o reagente que alimenta o processo, não algo a ser removido. A C, ácido lático, é produto da fermentação lática, que não é o processo usado. A D, ácido pirúvico, é intermediário metabólico dentro das células e não se acumula como gás. Gabarito: E.",
+  "hash": "9cebb4b256f9b257",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q110": {
+  "explicacao": "A questão pede a conclusão correta sobre a relação entre o número n de oitavas e a frequência da nota Lá. Partindo de 440 Hz, cada oitava acima dobra a frequência e cada oitava abaixo a reduz pela metade: n = −2 → 110 Hz; n = −1 → 220 Hz; n = 0 → 440 Hz; n = 1 → 880 Hz; n = 2 → 1 760 Hz. Isso corresponde a f(n) = 440 · 2ⁿ, uma função exponencial crescente, como mostra o gráfico: a curva sobe cada vez mais rapidamente. A alternativa A erra porque o que é constante é a razão (2), não a variação. A C erra porque a variação não é fixa: de 0 para 1 aumenta 440 Hz, de 1 para 2 aumenta 880 Hz. A D erra porque a função é crescente em todo o domínio, inclusive entre −2 e 0. A E também erra ao dizer que ela é decrescente para oitavas abaixo; mesmo para n negativo, a frequência aumenta quando n aumenta. Gabarito: B.",
+  "hash": "69d63a1ae6521d58",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q111": {
+  "explicacao": "A questão pede qual solvente de lavagem a seco era seguro por não ser inflamável, e o próprio texto dá a pista: o seguro é o que tem menor quantidade de ligações C–H. A combustão de compostos orgânicos depende da oxidação dos carbonos e hidrogênios; quanto mais ligações C–H, mais combustível é a molécula. O hexano (C₆H₁₄) tem 14 ligações C–H, o iso-octano (C₈H₁₈) tem 18, o canfeno (C₁₀H₁₆) tem 16 e o benzeno (C₆H₆) tem 6. Já o tricloroetileno (C₂HCl₃, Cl₂C=CHCl) tem apenas uma ligação C–H, pois três dos hidrogênios do eteno foram substituídos por cloro. Além disso, os átomos de cloro dificultam a combustão, característica de vários organoclorados usados como solventes não inflamáveis. A alternativa A, hexano, é um alcano muito inflamável. A B, canfeno, é um hidrocarboneto com muitas ligações C–H. A C, benzeno, é inflamável e ainda tóxico. A D, iso-octano, é componente da gasolina, altamente inflamável. Gabarito: E.",
+  "hash": "e2233414aeb8e41b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q112": {
+  "explicacao": "A questão pede uma afirmação correta sobre a desertificação na Caatinga, um ambiente frágil. O texto relaciona o avanço da desertificação ao avanço da agricultura, que substitui a vegetação natural; 59% dela já foi modificada. A vegetação nativa protege o solo: as raízes o seguram, a cobertura reduz a erosão causada pelas chuvas concentradas, diminui a evaporação e mantém matéria orgânica. Quando ela é retirada, o solo raso e exposto se degrada rapidamente, processo que leva à desertificação. Assim, conservar a vegetação nativa é a forma de evitar o fenômeno, como afirma a alternativa E, e por isso os cientistas pedem mais unidades de conservação. A alternativa A erra ao dizer que os solos são ricos em nutrientes como causa. A B inventa um lençol freático extenso, que não é característica da região semiárida. A C contraria o texto, que mostra o problema aumentando. A D também contraria o texto, que fala em urgência e risco ao bioma. Gabarito: E.",
+  "hash": "b15df055d44f90a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q113": {
+  "explicacao": "A questão pede o padrão de herança da tritanomalia. Duas informações do enunciado resolvem o problema. Primeiro, o gene está no cromossomo 7, que é um autossomo (cromossomo não sexual), e por isso homens e mulheres são afetados na mesma proporção. Isso já descarta herança ligada ao X ou ao Y. Segundo, casais sem tritanomalia podem ter filhos afetados. Se a característica fosse dominante, pelo menos um dos pais teria de manifestá-la para transmitir o alelo. Pais normais com filho afetado indicam que ambos são heterozigotos (Aa) portadores de um alelo recessivo, e o filho afetado é aa. Assim, a herança é autossômica recessiva. As alternativas A e C, ligadas ao X, contrariam a localização no cromossomo 7 e a igual frequência entre os sexos. A B, ligada ao Y, afetaria apenas homens. A E, autossômica dominante, não explicaria filhos afetados de pais não afetados. Gabarito: D.",
+  "hash": "5da02b85f4c17554",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q114": {
+  "explicacao": "A questão pede por que a vasectomia funciona como contraceptivo. Na cirurgia, os ductos deferentes, que levam os espermatozoides do epidídimo até a uretra, são cortados e amarrados. Os testículos continuam produzindo espermatozoides e hormônios normalmente, e as glândulas acessórias (vesículas seminais e próstata) continuam produzindo o líquido seminal. A diferença é que os espermatozoides não conseguem mais chegar à uretra para se juntar ao sêmen; eles são reabsorvidos pelo organismo. O homem ejacula normalmente, mas o sêmen não contém espermatozoides, impedindo a fecundação. É o que diz a alternativa D. A alternativa A erra porque o sêmen continua sendo liberado na ejaculação. A B erra porque a produção de espermatozoides nos testículos não cessa. A C erra porque a produção de testosterona não é afetada. A E erra porque as glândulas produtoras do líquido seminal não sofrem alteração. Gabarito: D.",
+  "hash": "438247eeea68d4de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q115": {
+  "explicacao": "A questão pede qual organela não está ativa no cultivo B, com base no quadro: o cultivo A recebe glicose + O₂ e rende 219 kcal/mol; o cultivo B recebe só glicose e rende 29 kcal/mol. Sem oxigênio, as células de B não fazem respiração aeróbica e obtêm energia apenas pela via anaeróbica (glicólise seguida de fermentação), que ocorre no citosol e tem baixo rendimento. Já em A, a glicose é totalmente oxidada a CO₂ e H₂O com uso de O₂, o que exige o ciclo de Krebs e a cadeia respiratória, etapas que ocorrem nas mitocôndrias. A grande diferença no rendimento energético mostra que, em B, as mitocôndrias não estão atuando. O núcleo (A) continua controlando a célula em ambos os cultivos. Os lisossomos (B) atuam na digestão intracelular, não na obtenção de energia da glicose. O complexo de Golgi (D) e o retículo endoplasmático (E) participam da síntese e do processamento de moléculas, sem relação direta com a falta de O₂. Gabarito: C.",
+  "hash": "9047c231716a6473",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q116": {
+  "explicacao": "A questão pede a vantagem adaptativa da larva de um inseto endoparasitoide, que se desenvolve dentro do corpo de um hospedeiro e acaba por matá-lo. O ponto essencial é que o hospedeiro serve de fonte de alimento: a larva consome os tecidos dele ao longo de todo o seu desenvolvimento, até completar a fase larval. Por isso o texto compara o parasitoidismo a um misto de parasitismo (vive no hospedeiro e se alimenta dele) e predação (leva à morte). Ter alimento garantido durante o desenvolvimento é a vantagem central, como diz a alternativa C. A alternativa A exagera, pois o hospedeiro ainda pode ser predado com a larva dentro. A B erra porque a larva é fase imatura e não se reproduz. A D não é garantida, já que existem até hiperparasitoides que atacam essas larvas. A E é falsa para insetos hospedeiros, que geralmente são ectotérmicos e não mantêm temperatura constante. Gabarito: C.",
+  "hash": "92f27f341e570ccc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q117": {
+  "explicacao": "A questão pede o motivo de os peixes nadarem na superfície de um lago muito eutrofizado. O texto descreve o processo: excesso de nutrientes provoca proliferação de algas; a água fica turva e a luz não penetra, reduzindo a fotossíntese nas camadas mais profundas; depois as algas morrem e os decompositores aeróbicos proliferam. Esses decompositores consomem grande quantidade de oxigênio dissolvido. Com menos fotossíntese produzindo O₂ e mais decomposição consumindo-o, a água fica pobre em oxigênio. Os peixes, então, sobem à superfície, onde a água está em contato com o ar e há um pouco mais de O₂ dissolvido, tentando respirar, como afirma a alternativa D. A alternativa A não explica o comportamento, pois o problema descrito não é de patógenos. A B erra porque os nutrientes alimentam algas, não facilitam a alimentação dos peixes. A C inventa uma alteração de densidade que não ocorre. A E erra porque os peixes não sobem por falta de visão. Gabarito: D.",
+  "hash": "5d04474b4c3b524f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q118": {
+  "explicacao": "A questão pede o que dificulta o desenvolvimento de uma vacina contra a dengue. O texto destaca dois fatos: circulam quatro sorotipos do vírus, e muitos casos graves ocorrem quando a pessoa é infectada pela segunda vez por um sorotipo diferente daquele contra o qual já tem anticorpos. Isso significa que a imunidade contra um sorotipo não protege contra os outros e pode até agravar uma nova infecção. Uma vacina eficaz e segura precisa, portanto, induzir proteção equilibrada contra os quatro sorotipos ao mesmo tempo; caso contrário, poderia deixar a pessoa vulnerável e com maior risco de dengue grave. A dificuldade está em obter antígenos que representem os quatro sorotipos, como diz a alternativa C. A alternativa A não faz sentido biológico. A B erra porque o ser humano produz anticorpos contra o vírus. A D erra porque o problema é entre sorotipos do mesmo vírus, não contra outros vírus. A E contraria o texto, que fala em anticorpos produzidos após a primeira infecção. Gabarito: C.",
+  "hash": "54c5e493adb79c1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q119": {
+  "explicacao": "A questão pede como reduzir a quantidade do subproduto NO na produção de ácido nítrico. O NO é formado na etapa 1 e também na etapa 3, mas é consumido na etapa 2: 2 NO + O₂ → 2 NO₂. Pelo princípio de Le Chatelier e pela lei da ação das massas, aumentar a quantidade de oxigênio na etapa 2 favorece o consumo de NO e a formação de NO₂, que segue para a etapa 3 gerando HNO₃. Assim, menos NO sobra no processo, como afirma a alternativa D. A alternativa A aumentaria a formação de NO na etapa 1, pois favorece seus produtos. A B, aumentar NO₂ na etapa 3, produz mais HNO₃, mas também mais NO, já que ele é produto dessa etapa. A C, mais amônia na etapa 1, também gera mais NO. A E é inadequada, porque as etapas são exotérmicas e o aquecimento não reduz a formação do NO; além disso, a etapa 1 já o produz como produto principal. Gabarito: D.",
+  "hash": "a8cb4c6450459d3a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q120": {
+  "explicacao": "A questão pede o processo adequado para purificar o para-xileno, separando-o dos isômeros orto e meta. Compare os dados do quadro. As temperaturas de ebulição são muito próximas: orto 144 °C, meta 139,3 °C e para 137,5 °C; a diferença entre para e meta é inferior a 2 °C, o que torna a destilação pouco eficiente. Já as temperaturas de fusão são bem diferentes: para-xileno 13,5 °C, orto −25 °C e meta −47,4 °C. Resfriando a mistura abaixo de 13,5 °C (mas acima de −25 °C), apenas o para-xileno solidifica, enquanto os outros continuam líquidos e podem ser separados. Esse é o princípio da solidificação fracionada. A alternativa A, destilação simples, só separa líquidos de sólidos dissolvidos ou líquidos com pontos de ebulição muito diferentes. A B, cristalização simples, serve para obter um sólido dissolvido num solvente por evaporação. A C, destilação fracionada, seria ineficiente pela proximidade dos pontos de ebulição. A D exigiria diferença de solubilidade em solventes imiscíveis, o que não ocorre entre esses isômeros apolares. Gabarito: E.",
+  "hash": "dadc385da8a22d63",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q121": {
+  "explicacao": "A questão pede o que as bactérias fazem na primeira etapa do tratamento, no exterior da espuma, onde ocorre a nitrificação. A nitrificação é realizada por bactérias quimiossintetizantes aeróbicas: primeiro as nitrosomonas oxidam a amônia (NH₃ ou NH₄⁺) a nitrito (NO₂⁻), depois as nitrobacter oxidam o nitrito a nitrato (NO₃⁻), utilizando O₂. Faz sentido que ela ocorra do lado de fora da espuma, onde há maior contato com o oxigênio, enquanto a desnitrificação, anaeróbica, ocorre no interior. É isso que descreve a alternativa E. A alternativa A não corresponde a nenhuma etapa do processo descrito. A B descreve a desnitrificação, que ocorre no interior da espuma, e ainda o faz de modo impreciso. A C descreve a amonificação, realizada por decompositores, e não a nitrificação. A D descreve a fixação biológica do nitrogênio, feita por bactérias como as do gênero Rhizobium. Gabarito: E.",
+  "hash": "911143fafc9f1cc7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q122": {
+  "explicacao": "A questão pede a base da preocupação dos astrônomos com as megaconstelações de satélites. Satélites não produzem luz própria visível; eles brilham porque refletem a luz do Sol, e o texto diz que são altamente refletores. Por estarem a algumas centenas de quilômetros de altitude, mesmo quando já é noite no solo eles ainda podem estar iluminados pelo Sol, sobretudo nas horas após o pôr do sol e antes do amanhecer. Assim, aparecem como pontos brilhantes cruzando o céu noturno, atrapalhando a observação e ofuscando as estrelas, como afirma a alternativa A. A alternativa B erra ao dizer que os satélites emitem a radiação luminosa, quando apenas refletem. A C confunde reflexão com refração da luz das estrelas. A D erra porque, durante o dia, a luz do Sol já impede a observação das estrelas, e não haveria preocupação nesse período. A E também não descreve o fenômeno, pois o problema é o brilho refletido do Sol. Gabarito: A.",
+  "hash": "50937d01cbb95945",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q123": {
+  "explicacao": "A questão pede o agente redutor que repõe os elétrons perdidos pela clorofila P₆₈₀ do fotossistema II. Na etapa fotoquímica, a luz excita a clorofila do fotossistema II, que perde elétrons para a cadeia transportadora. Para voltar ao estado original, ela precisa receber elétrons de outra substância, que então atua como redutora. Essa substância é a água, que sofre fotólise: 2 H₂O → 4 H⁺ + 4 e⁻ + O₂. Os elétrons da água repõem os da P₆₈₀, os íons H⁺ contribuem para o gradiente usado na síntese de ATP e o O₂ é liberado; por isso o oxigênio da fotossíntese vem da água. A alternativa A erra, pois o fotossistema I recebe elétrons vindos do fotossistema II, e não o contrário. A B erra porque o complexo de citocromo transporta elétrons entre os fotossistemas. A D erra porque o ADP é fosforilado a ATP, não doa elétrons. A E erra porque a luz fornece energia, não elétrons. Gabarito: C.",
+  "hash": "88bea71aa3bf3121",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q124": {
+  "explicacao": "A questão pede por que o uso excessivo de sacolas plásticas é considerado risco ambiental. O texto mostra números enormes: 1,5 bilhão de sacolas por mês, 18 bilhões por ano, muitas usadas para carregar apenas um ou dois produtos. Essas sacolas são feitas de polímeros sintéticos, como o polietileno, que os microrganismos decompositores praticamente não conseguem degradar; elas podem permanecer centenas de anos no ambiente. O resultado é o acúmulo de lixo em aterros, rios e oceanos, entupimento de bueiros e morte de animais que as ingerem. Essa é a ideia da alternativa C. A alternativa A trata de comportamento de consumo, não do risco ambiental direto das sacolas. A B tem fundamento, mas o petróleo não é o foco do texto, que destaca o descarte massivo. A D erra porque o problema principal das sacolas não é a emissão de gases tóxicos no solo. A E não tem relação com o texto. Gabarito: C.",
+  "hash": "0e73eecd29142496",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q125": {
+  "explicacao": "A questão pede o esquema de ligação que forneça 3 V ao controle remoto usando duas pilhas de 1,5 V. Como o texto explica, apenas a associação em série soma as tensões: 1,5 V + 1,5 V = 3 V. Na associação em série, o polo positivo de uma pilha é ligado ao polo negativo da outra, e os terminais livres (o negativo da primeira e o positivo da segunda) são conectados ao aparelho. No esquema da alternativa B, o polo positivo da pilha da esquerda está ligado ao polo negativo da pilha da direita, e os dois terminais de saída são o negativo da primeira e o positivo da segunda, configurando corretamente a série. As demais alternativas apresentam ou a ligação em paralelo, que mantém a tensão em 1,5 V e só aumenta a energia disponível, ou conexões entre polos iguais, que anulam as tensões ou provocam curto-circuito, não fornecendo os 3 V necessários. Gabarito: B.",
+  "hash": "1c3214a1ee928f00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q126": {
+  "explicacao": "A questão pede qual filamento escolher para obter o maior brilho com a mesma tensão elétrica. O brilho está ligado à potência dissipada: P = U²/R. Com U fixo, a potência é maior quanto menor a resistência. Pela segunda lei de Ohm, R = ρ · L / A; como todos os filamentos são de tungstênio (mesma resistividade ρ), com mesma área de seção, a resistência é proporcional ao comprimento L. Logo, o filamento mais curto tem menor resistência, deixa passar maior corrente e dissipa maior potência, gerando mais brilho. É o que diz a alternativa A. A alternativa B erra, pois filamento comprido tem maior resistência e menor potência. A C erra porque a resistividade é propriedade do material, igual para todos os filamentos de tungstênio. A D erra porque menor resistência implica maior corrente, não menor. A E erra em dois pontos: o comprimento e a ideia de resistividade variável. Gabarito: A.",
+  "hash": "27bc9b78610bb9e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q127": {
+  "explicacao": "A questão pede a substância capaz de eliminar o odor de peixe neutralizando a metilamina, CH₃NH₂, uma base (K_b = 5,5 × 10⁻⁴). Para neutralizar uma base, precisamos de um ácido, que doará H⁺ ao grupo amino e formará o íon metilamônio, um sal não volátil e sem cheiro: CH₃NH₂ + CH₃COOH → CH₃NH₃⁺ + CH₃COO⁻. Entre as opções, o ácido acético (CH₃COOH, presente no vinagre) é a espécie de caráter ácido; por isso, na cozinha, se usa vinagre ou limão no preparo de peixes. A alternativa A, hipoclorito de sódio, tem caráter básico, pois o ClO⁻ sofre hidrólise, e não serve para uso em alimentos. A B, bicarbonato de sódio, também gera solução levemente básica, não neutralizando a amina. A D, NaCl, é sal neutro, sem efeito sobre a basicidade. A E, etanol, é praticamente neutro e não reage com a amina. Gabarito: C.",
+  "hash": "556f338c23cbb77e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q128": {
+  "explicacao": "A questão pede a alteração fisiológica causada pelo excesso de adrenalina estimulado pelo uso indevido de anfetaminas. A adrenalina é o hormônio da resposta de luta ou fuga e tem ação catabólica, como diz o texto: mobiliza reservas energéticas. No fígado, estimula a quebra do glicogênio (glicogenólise) e a gliconeogênese, liberando glicose no sangue, o que eleva a glicemia para fornecer energia aos músculos. Por isso a alternativa E está correta. A adrenalina também aumenta a frequência cardíaca e a pressão arterial, dilata os brônquios e reduz a atividade digestiva. A alternativa A erra porque a pressão arterial aumenta. A B erra porque a frequência cardíaca aumenta. A C erra porque a adrenalina provoca broncodilatação, e não contração dos brônquios. A D erra porque as secreções gastrointestinais diminuem, já que a digestão não é prioridade numa situação de alerta. Gabarito: E.",
+  "hash": "8745ee2c6844efbc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q129": {
+  "explicacao": "A questão pede uma medida efetiva para reduzir a perda de biodiversidade causada por espécies exóticas, destruição de hábitats e caça predatória. O plantio de espécies nativas recompõe hábitats degradados, recupera a vegetação original, oferece abrigo e alimento à fauna local e pode reconectar fragmentos, favorecendo a manutenção das populações e da diversidade. É, por isso, uma ação de restauração ecológica eficaz, como afirma a alternativa A. A alternativa B erra porque endocruzamentos (entre parentes) reduzem a variabilidade genética e aumentam doenças hereditárias. A C ajuda espécies específicas, mas não resolve a perda de hábitats nem conserva a biodiversidade como um todo. A D é prejudicial: isolar fragmentos impede o fluxo gênico e agrava a perda de diversidade. A E não faz sentido, pois espécies com o mesmo nicho competem entre si, e manter essa sobreposição não protege a biodiversidade. Gabarito: A.",
+  "hash": "5cca822741d3d41a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q130": {
+  "explicacao": "A questão pede a estratégia de manejo mais eficiente para o marsupial Caluromys philander, a partir da comparação da variabilidade genética entre a paisagem contínua e a fragmentada pelo plantio de soja. O quadro mostra que, na paisagem contínua, os indivíduos apresentam mais alelos diferentes e mais heterozigotos, enquanto nos fragmentos a diversidade genética é menor, com predomínio de homozigotos. Isso ocorre porque a fragmentação isola as populações, reduz o fluxo gênico, aumenta o cruzamento entre aparentados e favorece a perda de alelos por deriva genética. Para conservar a espécie, é preciso permitir o deslocamento de indivíduos entre fragmentos, por exemplo com corredores ecológicos, mantendo a conectividade, como diz a alternativa C. A alternativa A propõe justamente a causa do problema. A B reduziria ainda mais o fluxo gênico. A D, diminuir a dispersão, também agrava o isolamento. A E, acasalamento entre aparentados, aumenta a endogamia e a perda de variabilidade. Gabarito: C.",
+  "hash": "d4df2e3f89a06fc3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q131": {
+  "explicacao": "A questão pede o comprimento ocupado por um bit no par trançado e na rede 5G. A ideia é: a informação viaja com velocidade v, e cada bit dura um intervalo de tempo igual ao inverso da taxa de transmissão. O comprimento de um bit é, então, L = v ÷ taxa. A velocidade é 2/3 de c: v = (2/3) × 3 × 10⁸ = 2 × 10⁸ m/s. No par trançado, a taxa é 56 kbps = 5,6 × 10⁴ bits/s: L = 2 × 10⁸ ÷ 5,6 × 10⁴ ≈ 3,57 × 10³ m, ou seja, cerca de 3,6 × 10³ m. Na 5G, a taxa é 10 Gbps = 10¹⁰ bits/s: L = 2 × 10⁸ ÷ 10¹⁰ = 2,0 × 10⁻² m. Note que a frequência da portadora (3,5 GHz) não entra no cálculo, pois o que importa é a taxa de bits. A alternativa B usa o comprimento de onda da portadora de 3,5 GHz no segundo valor. As alternativas C, D e E erram a ordem de grandeza do primeiro valor, que deve ser de milhares de metros. Gabarito: A.",
+  "hash": "bb9283c8aee8760e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q132": {
+  "explicacao": "A questão pede o que o cintilador precisa fazer para que uma pessoa perceba a incidência de raios X. O olho humano só detecta radiação na faixa do visível, entre o infravermelho e o ultravioleta. O texto diz que o cintilador emite luz quando o feixe incide sobre ele. Isso significa que a placa absorve a energia dos raios X, que excita seus átomos, e depois os átomos voltam ao estado fundamental reemitindo parte dessa energia como fótons de menor energia, na região visível, um fenômeno de luminescência. Assim, a pessoa vê a luz emitida, e não o raio X diretamente, como afirma a alternativa C. As alternativas A e B erram porque refletir ou transmitir o feixe, mesmo alterando a polarização, não muda sua frequência, que continua invisível. A D erra porque o ultravioleta também é invisível ao olho humano. A E erra pelo mesmo motivo: o infravermelho não é percebido pela visão. Gabarito: C.",
+  "hash": "6e27e8191411aad3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q133": {
+  "explicacao": "A questão pede as correntes na entrada e na saída do inversor. Primeiro, a energia captada por dia: 15 placas × 150 W = 2 250 W, durante 8 h, resultam em 2 250 × 8 = 18 000 Wh. Essa energia é armazenada e consumida ao longo das 12 h de trabalho, então a potência média que entra no inversor é 18 000 ÷ 12 = 1 500 W. Na entrada, a tensão é 12 V: i = P ÷ U = 1 500 ÷ 12 = 125 A. Com eficiência de 80%, a potência de saída é 0,8 × 1 500 = 1 200 W, com tensão de 120 V: i = 1 200 ÷ 120 = 10 A. A alternativa A usa 1 200 W também na entrada, esquecendo que as perdas ocorrem no inversor. A B mantém o erro de 100 A na entrada. A D ignora a eficiência na saída (1 500 ÷ 120 = 12,5 A). A E confunde unidades e não considera a distribuição da energia nas 12 h. Gabarito: C.",
+  "hash": "9da9557dffb78eed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q134": {
+  "explicacao": "A questão pede o que a gestante deve fazer, ao descobrir sífilis no primeiro mês de gravidez, para diminuir o risco de infectar o feto. O texto explica que a sífilis congênita resulta da presença do Treponema pallidum no sangue da gestante e que a transmissão ocorre pela placenta quando não há tratamento ou ele é inadequado. Logo, a medida correta é tratar a mãe o quanto antes, com antibiótico (penicilina), eliminando a bactéria de seu sangue e impedindo que ela atravesse a placenta. É o que diz a alternativa D. A alternativa A é inviável e sem sentido, pois não se transplanta placenta. A B inverte a lógica: o objetivo é tratar a mãe, fonte da bactéria, e não o embrião por via placentária. A C é importante para diagnóstico e acompanhamento, mas exames sozinhos não impedem a transmissão. A E chega tarde demais, pois a infecção pode ocorrer durante toda a gestação. Gabarito: D.",
+  "hash": "657b26c10521df3f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q135": {
+  "explicacao": "A questão pede o que aumenta no gás hélio dentro do balão enquanto ele sobe. Conforme a altitude aumenta, a pressão atmosférica externa diminui, pois há menos ar acima do balão. A membrana elástica tende a equilibrar a pressão interna com a externa; assim, o gás interno se expande e o volume do balão aumenta, até que ele estoure. Pela equação dos gases, pV = nRT: com n constante e pressão menor, o volume cresce, mesmo que a temperatura caia um pouco com a altitude. A alternativa B erra porque a pressão do gás diminui acompanhando a pressão externa. A C erra porque, com a mesma massa ocupando maior volume, a densidade diminui. A D erra porque a temperatura da atmosfera e do gás em expansão tende a cair. A E erra porque a massa molar é uma característica do hélio (4 g/mol) e não muda. Gabarito: A.",
+  "hash": "9ddde5362628a1e1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q136": {
+  "explicacao": "A questão pede a probabilidade de os 5 computadores escolhidos entre 10 (3 defeituosos e 7 perfeitos) incluírem todos os 3 defeituosos. Número total de escolhas: C(10, 5) = 10!/(5! · 5!) = 252. Casos favoráveis: os 3 defeituosos precisam estar na compra, ou seja, C(3, 3) = 1 forma, e os outros 2 computadores saem dos 7 perfeitos: C(7, 2) = 21. Total favorável: 1 × 21 = 21. Probabilidade: 21/252 = 1/12. Outra forma de pensar: a chance de um computador específico estar entre os 5 é 5/10; para os três, (5/10) × (4/9) × (3/8) = 60/720 = 1/12. A alternativa A (1/72) considera só a ordem de retirada sem ajustar as combinações. A C (1/4) e a D (3/10) não correspondem a nenhuma contagem correta. A E (3/7) confunde a proporção de defeituosos com a probabilidade pedida. Gabarito: B.",
+  "hash": "b1d71979b64d6dcd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q137": {
+  "explicacao": "A questão pede o lucro total de 2005 a 2014, mantido o padrão da tabela: 3, 5, 9, 17, 33 (em milhares de reais). Observe que as diferenças são 2, 4, 8, 16, que dobram a cada ano. Na verdade, cada termo é uma potência de 2 mais 1: 3 = 2¹ + 1, 5 = 2² + 1, 9 = 2³ + 1, 17 = 2⁴ + 1, 33 = 2⁵ + 1. Assim, o lucro do ano n (n = 1 para 2005) é 2ⁿ + 1. De 2005 a 2014 há 10 anos, então o total é (2¹ + 2² + ... + 2¹⁰) + 10. A soma da progressão geométrica é 2 × (2¹⁰ − 1)/(2 − 1) = 2 × 1 023 = 2 046. Somando os 10: 2 046 + 10 = 2 056 milhares de reais. A alternativa A e a B consideram só parte do período ou do padrão. A C (1 025) é apenas o lucro de 2014, 2¹⁰ + 1. A E (2 074) erra na soma das parcelas constantes. Gabarito: D.",
+  "hash": "d9cd4dc37024d8d7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q138": {
+  "explicacao": "A questão pede a expressão matemática que traduz mil trilhões vezes infinito. Primeiro, o número: um trilhão é 10¹² e mil é 10³; logo, mil trilhões = 10³ × 10¹² = 10¹⁵. Depois, o símbolo: infinito é representado por ∞, enquanto ∅ representa o conjunto vazio, que nada tem a ver com o verso. Portanto, a expressão correta é 10¹⁵ × ∞, a resposta 5. A resposta 1 usa 10⁹, que é um bilhão. A resposta 2 usa 10¹², que é só um trilhão, e ainda troca infinito por conjunto vazio. A resposta 3 tem o símbolo certo, mas o número corresponde a apenas um trilhão. A resposta 4 tem o número certo, mas usa o símbolo de conjunto vazio. Gabarito: E.",
+  "hash": "53f0cfb38fc4f304",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q139": {
+  "explicacao": "A questão pede qual ajuste deve ser feito no primeiro visor aos 25 minutos para que o líquido chegue a 0 °C aos 30 minutos. Vamos acompanhar a temperatura. Do minuto 1 ao 5, o visor marca 1,4 °C: queda de 5 × 1,4 = 7 °C, e a temperatura vai de 30 para 23 °C. Aos 5 minutos, o visor é diminuído em 0,5, passando a 0,9 °C; do minuto 6 ao 15 (10 minutos), a queda é 10 × 0,9 = 9 °C, chegando a 14 °C. Aos 15 minutos, o visor aumenta 0,3, passando a 1,2 °C; do minuto 16 ao 25, a queda é 10 × 1,2 = 12 °C, chegando a 2 °C. Restam 5 minutos para descer 2 °C, ou seja, 2 ÷ 5 = 0,4 °C por minuto. O visor deve passar de 1,2 para 0,4: diminuir 0,8 °C. As alternativas A, B e C sugerem aumentar o resfriamento, o que levaria a temperatura abaixo de 0 °C. A E (diminuir 3,0) daria valor negativo no visor, sem sentido. Gabarito: D.",
+  "hash": "59e62eb1387b6bf8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q140": {
+  "explicacao": "A questão pede o aumento mínimo no parâmetro do reservatório V para que a média dos cinco seja pelo menos 60. Para média 60 com cinco valores, a soma deve ser, no mínimo, 5 × 60 = 300. A soma dos quatro primeiros é 64 + 53 + 63 + 64 = 244. Logo, o reservatório V precisa atingir pelo menos 300 − 244 = 56 pontos. Como hoje ele tem 20 pontos, o aumento mínimo é 56 − 20 = 36 pontos. A alternativa B (40) corresponderia a levar o reservatório V a 60, como se cada reservatório precisasse ter 60. A C (41), a D (43) e a E (44) superam o mínimo necessário ou resultam de erros na soma dos valores dos outros reservatórios. Gabarito: A.",
+  "hash": "39cccceb0c37c8d1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q141": {
+  "explicacao": "A questão pede o número mínimo de duchas para que a probabilidade de pelo menos uma funcionar regularmente seja de, no mínimo, 99/100. Use o evento complementar: o contrário de pelo menos uma funcionar regularmente é todas funcionarem irregularmente. Com n duchas independentes, P(todas irregulares) = (1/10)ⁿ. Então, P(pelo menos uma regular) = 1 − (1/10)ⁿ ≥ 99/100, o que exige (1/10)ⁿ ≤ 1/100. Para n = 1: 1/10, maior que 1/100, não serve. Para n = 2: 1/100, que satisfaz a condição. Logo, bastam 2 duchas. As alternativas B, C, D e E confundem o pedido, como se fosse necessário que todas funcionassem regularmente, ou calculam outra probabilidade; com 2 duchas a meta já é atingida. Gabarito: A.",
+  "hash": "f13945c6f1a9981e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q142": {
+  "explicacao": "A questão pede quantas vezes a temperatura T(x) = 20 − 10 · sen(πx/4) atinge o valor mínimo para 0 ≤ x ≤ 24. Como o seno é subtraído, T é mínima quando sen(πx/4) é máximo, isto é, igual a 1; aí T = 20 − 10 = 10 °C. O seno vale 1 quando o ângulo é π/2 + 2kπ, com k inteiro. Então πx/4 = π/2 + 2kπ, o que dá x = 2 + 8k. Para k = 0, x = 2; k = 1, x = 10; k = 2, x = 18; k = 3, x = 26, fora do intervalo. Logo, o mínimo ocorre 3 vezes. Uma verificação: o período é 2π ÷ (π/4) = 8 h, e em 24 h há exatamente 3 períodos, com um mínimo em cada. A alternativa A considera apenas um período. As alternativas C, D e E contam também máximos ou zeros do seno, ou erram o período. Gabarito: B.",
+  "hash": "72961255d49be382",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q143": {
+  "explicacao": "A questão pede quais estudantes calcularam corretamente a mediana de suas quatro notas. Com quatro valores, a mediana é a média dos dois centrais após ordenar. Estudante I: 45, 45, 85, 90; mediana (45 + 85)/2 = 65, e ele informou 77, errado. Estudante II: 70, 70, 75, 80; mediana (70 + 75)/2 = 72,5, e ele informou 70, errado. Estudante III: 55, 75, 75, 75; mediana 75, e ele informou 70, errado. Estudante IV: 35, 35, 85, 90; mediana (35 + 85)/2 = 60, correto. Estudante V: 60, 70, 70, 75; mediana 70, correto. Portanto, acertaram IV e V. A alternativa A cita I, que aparentemente calculou outra medida, não a mediana. A B cita III, que errou. A C cita II e III, ambos errados. A D inclui II, que deveria ter obtido 72,5. Gabarito: E.",
+  "hash": "53e7aca0e3c2503a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q144": {
+  "explicacao": "A questão pede o nome do sólido que modela o tachão. O texto descreve: duas faces retangulares paralelas (uma base maior, apoiada no asfalto, e uma base menor, no topo), quatro faces laterais trapezoidais e arestas laterais que, prolongadas, se encontram num mesmo ponto. Esse ponto seria o vértice de uma pirâmide de base retangular (quadrangular, por ter quatro lados). Quando cortamos uma pirâmide por um plano paralelo à base e retiramos a parte de cima, obtemos um tronco de pirâmide, com duas bases semelhantes e paralelas e faces laterais trapezoidais. Como as bases são quadriláteros, trata-se de um tronco de pirâmide quadrangular. As alternativas A e B erram porque paralelepípedos têm todas as faces paralelogramos e arestas laterais paralelas, que nunca se encontram. A C erra porque a pirâmide tem vértice e faces laterais triangulares. A D erra porque as bases são quadriláteros, não hexágonos. Gabarito: E.",
+  "hash": "dbb66b4b314468b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q145": {
+  "explicacao": "A questão pede a matriz das notas finais, obtida multiplicando a matriz das notas (3 × 3) pela matriz coluna dos pesos (3 × 1). Pelas tabelas, as notas em Matemática, Português e Geografia são: A: 9, 6, 7; B: 8, 7, 8; C: 9, 5, 6. Os pesos são 3, 2 e 1. Cada nota final é a soma dos produtos de cada nota pelo respectivo peso. Candidato A: 9 × 3 + 6 × 2 + 7 × 1 = 27 + 12 + 7 = 46. Candidato B: 8 × 3 + 7 × 2 + 8 × 1 = 24 + 14 + 8 = 46. Candidato C: 9 × 3 + 5 × 2 + 6 × 1 = 27 + 10 + 6 = 43. O resultado é uma matriz coluna 3 × 1 com os valores 46, 46 e 43, que é a apresentada na alternativa B. As demais alternativas trazem valores que não correspondem a esses produtos, seja por associar os pesos às matérias erradas, seja por somar notas sem ponderação, ou têm dimensão incompatível com a multiplicação de uma matriz 3 × 3 por uma 3 × 1. Gabarito: B.",
+  "hash": "a36e8935871280cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q146": {
+  "explicacao": "A questão pede o apartamento com menor preço por metro quadrado. Basta dividir o preço pela área de cada um (valores em milhares de reais por m²). I: 350 ÷ 80 = 4,375. II: 450 ÷ 90 = 5,0. III: 480 ÷ 120 = 4,0. IV: 580 ÷ 130 ≈ 4,46. V: 620 ÷ 135 ≈ 4,59. O menor valor é o do apartamento III, R$ 4 000,00 por m². A alternativa A (I) tem o menor preço absoluto, mas custa cerca de R$ 4 375,00 por m². A B (II) é o mais caro por metro quadrado. A D (IV) e a E (V) são maiores, porém o preço por metro quadrado delas supera o do III. Gabarito: C.",
+  "hash": "5202d3633d7e3c24",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q147": {
+  "explicacao": "A questão pede a distância EF entre as extremidades do arco da meia-lua, que tem centro no ponto penal P e raio 9 m. O ponto P está a 11 m do lado AD (a linha de fundo), e a área penal tem profundidade AB = 16 m; logo, a distância de P até o lado BC, onde o arco encontra a linha da área, é 16 − 11 = 5 m. Os pontos E e F estão sobre BC e a 9 m de P. Formamos um triângulo retângulo com hipotenusa 9 (raio), um cateto 5 (distância de P a BC) e o outro cateto igual a metade de EF. Pelo teorema de Pitágoras: (EF/2)² = 9² − 5² = 81 − 25 = 56, então EF/2 = √56 ≈ 7,48 m. Assim, EF ≈ 14,97 m, entre 14 m e 19 m. A alternativa A e a B encontram só metade da corda ou erram a distância de P a BC. A D e a E superestimam a corda, que nunca passa do diâmetro de 18 m. Gabarito: C.",
+  "hash": "d52f4929e162d763",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q148": {
+  "explicacao": "A questão pede o preço de venda de cada celular no segundo semestre para obter lucro 10% maior. No primeiro semestre: investimento total de 5 × 45 = 225 milhões de reais e 5 × 30 000 = 150 000 aparelhos vendidos. Como o lucro foi 30 milhões, a receita foi 225 + 30 = 255 milhões, ou seja, cada aparelho custou 255 000 000 ÷ 150 000 = R$ 1 700,00. No segundo semestre, o investimento e a quantidade são os mesmos, e o lucro desejado é 30 × 1,1 = 33 milhões. A receita necessária é 225 + 33 = 258 milhões, e o preço por aparelho fica 258 000 000 ÷ 150 000 = R$ 1 720,00. A alternativa A não acompanha o aumento de lucro, ficando abaixo do preço anterior. A C aplica os 10% sobre o preço inteiro (1 700 × 1,1 = 1 870), e não sobre o lucro. As alternativas D e E consideram apenas uma região ou erram a divisão do investimento. Gabarito: B.",
+  "hash": "0416dd1b118cca6a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q149": {
+  "explicacao": "A questão pede qual lote tem maior amplitude, que é a diferença entre o maior e o menor valor de cada amostra. Lote I: 10,30 − 9,80 = 0,50 cm. Lote II: 10,60 − 10,55 = 0,05 cm. Lote III: 10,20 − 9,80 = 0,40 cm. Lote IV: 10,20 − 9,90 = 0,30 cm. Lote V: 9,50 − 9,30 = 0,20 cm. A maior amplitude é a do lote I, que será descartado. Repare que o critério é a variabilidade, e não a distância em relação aos 10 cm do projeto: o lote V está todo abaixo do ideal e o lote II todo acima, mas ambos têm pouca dispersão. A alternativa B (II) tem a menor amplitude. A C (III) tem 0,40 cm, menor que o lote I. A D (IV) tem 0,30 cm. A E (V) tem 0,20 cm, apesar de suas peças estarem mais longe dos 10 cm. Gabarito: A.",
+  "hash": "9c390b0e4bd5d303",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q150": {
+  "explicacao": "A questão pede em quantos dias 6 funcionários (10 − 4) produzem as mesmas 200 calças que 10 funcionários fazem em 5 dias. Com a produção fixa, número de funcionários e número de dias são grandezas inversamente proporcionais: menos pessoas precisam de mais dias. O trabalho total é 10 funcionários × 5 dias = 50 funcionário-dias. Com 6 funcionários: 6 × d = 50, então d = 50 ÷ 6 ≈ 8,3 dias. A alternativa A (2,0) e a B (3,0) tratam as grandezas como diretamente proporcionais, reduzindo os dias. A C (3,3) também usa proporção direta, 5 × 6/10 = 3, com arredondamento distorcido. A E (12,0) considera erradamente os 4 demitidos como base do cálculo, 50 ÷ 4 = 12,5, ou superestima o tempo. Gabarito: D.",
+  "hash": "ed67255b9be4e853",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q151": {
+  "explicacao": "A questão pede o tamanho do fêmur do astronauta ao completar quatro meses no espaço, mantida a tendência linear do gráfico. Pelo gráfico, o fêmur mede 50 cm no início, 49,25 cm após 1 mês, 48,5 cm após 2 meses e 47,75 cm após 3 meses. A cada mês, há uma redução constante de 0,75 cm, o que caracteriza uma função afim: T(t) = 50 − 0,75t. Para t = 4 meses: T(4) = 50 − 0,75 × 4 = 50 − 3 = 47,0 cm. Também se pode partir do valor do terceiro mês: 47,75 − 0,75 = 47,0 cm. A alternativa A (44,8) supõe uma queda muito maior que a do gráfico. A B (46,0) corresponderia a cinco meses e pouco, com taxa errada. A C (46,8) desconta 1 cm a partir do terceiro mês, superestimando a perda mensal. A E (47,8) praticamente repete o valor do terceiro mês, sem a perda do quarto. Gabarito: D.",
+  "hash": "23461a98e2fe9327",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q152": {
+  "explicacao": "A questão pede o tempo de coleta da vazão do Rio Amazonas necessário para abastecer 20 milhões de pessoas por um ano. Água necessária: 20 000 000 pessoas × 1 000 m³ = 2 × 10¹⁰ m³. Com vazão de 200 000 m³/s = 2 × 10⁵ m³/s, o tempo é t = 2 × 10¹⁰ ÷ 2 × 10⁵ = 10⁵ s = 100 000 s. Convertendo: 100 000 ÷ 3 600 = 27 horas, com resto 100 000 − 97 200 = 2 800 s. Esses 2 800 s equivalem a 46 minutos (2 760 s) e 40 segundos. Assim, 27 h 46 min 40 s = 1 dia, 3 horas, 46 minutos e 40 segundos. A alternativa A (16 min 40 s = 1 000 s) e a B (2 h 46 min 40 s = 10 000 s) erram por potências de 10. A D e a E superestimam o tempo, também por erro de ordem de grandeza ou de conversão. Gabarito: C.",
+  "hash": "b998d46c05faeeee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q153": {
+  "explicacao": "A questão pede quanto Mariana paga por uma hora e meia de uso na lan house, que cobra R$ 0,12 por minuto mais uma taxa fixa de R$ 2,00. Primeiro, converta o tempo: uma hora e meia = 60 + 30 = 90 minutos. O valor pelo tempo é 90 × 0,12 = R$ 10,80. Somando a taxa de utilização: 10,80 + 2,00 = R$ 12,80. A alternativa A (R$ 0,18) usa 1,5 como se fossem minutos: 1,5 × 0,12. A B (R$ 2,18) soma a taxa a esse valor errado. A C (R$ 3,08) considera 1 hora e 30 minutos como 9 unidades ou outro erro de conversão. A D (R$ 3,18) também não converte o tempo corretamente para minutos. Gabarito: E.",
+  "hash": "ec6ebeb5b672bafd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q154": {
+  "explicacao": "A questão pede a ordem de adição dos ingredientes medidos em xícara, da menor para a maior quantidade. A receita indica: farinha de trigo 9/4, chocolate em pó 4/3, açúcar 1 ¾ e leite 5/6 de xícara. Convertendo em decimais: leite 5/6 ≈ 0,83; chocolate 4/3 ≈ 1,33; açúcar 1 ¾ = 1,75; farinha 9/4 = 2,25. Também é possível usar o denominador comum 12: leite 10/12, chocolate 16/12, açúcar 21/12, farinha 27/12. Em ordem crescente: leite, chocolate, açúcar, farinha de trigo. A alternativa A coloca o chocolate antes do leite, mas 4/3 > 5/6. A C inverte farinha e açúcar, mas 9/4 > 7/4. A D apresenta a ordem decrescente. A E coloca a farinha em segundo lugar, quando ela é a maior quantidade. Gabarito: B.",
+  "hash": "d8cf2cd7cfdd4d85",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q155": {
+  "explicacao": "A questão pede a nova altura do salão para que a área lateral (as quatro paredes) continue igual à original. A área lateral de um paralelepípedo é o perímetro da base vezes a altura. Projeto original: perímetro 2 × (10 + 6) = 32 m; área lateral 32 × 2,5 = 80 m². Novo projeto: perímetro 2 × (12 + 5) = 34 m. Igualando: 34 × h = 80, logo h = 80 ÷ 34 ≈ 2,3529 m, ou 2,35 m com duas casas decimais. Como a porta e a janela mantêm as dimensões e a área delas foi incluída nos dois cálculos, elas não alteram a conta. A alternativa A (3,25) e a B (3,00) aumentam a altura, como se o perímetro tivesse diminuído. A C (2,50) mantém a altura antiga, ignorando o aumento do perímetro. A E (2,00) reduz demais a altura, resultando em apenas 68 m². Gabarito: D.",
+  "hash": "614099cd3c5ead8f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q156": {
+  "explicacao": "A questão pede a unidade da potência radiante por unidade de área. Pelo texto, a potência radiante é diretamente proporcional à energia (J) e inversamente proporcional ao tempo (s), ou seja, P = E/Δt, com unidade J/s (o watt). Dividindo pela área, cuja unidade é m², obtemos (J/s)/m² = J/(s · m²), equivalente a W/m². É a expressão da alternativa E, com J no numerador e s · m² no denominador. A alternativa A multiplica a energia pelo tempo e pela área, quando ambos deveriam dividir. A B, além de multiplicar, usa metro em vez de metro quadrado. A C divide pelo tempo, mas usa m (comprimento) em vez de m² (área). A D não apresenta a divisão simultânea pelo tempo e pela área na forma correta. Gabarito: E.",
+  "hash": "c4929f2794d5d8f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q157": {
+  "explicacao": "[REVISAR] As figuras I a V vieram corrompidas no texto extraído e não puderam ser conferidas. A questão pede qual representação é compatível com um voo de origem O diferente do destino D e com exatamente três pontos de controle, sabendo que a trajetória vista pelo controlador é uma linha poligonal plana em que três pontos de controle sucessivos nunca podem estar alinhados. Para escolher, verificamos em cada figura três condições: O e D devem ser pontos distintos; devem aparecer exatamente três pontos de controle entre a origem e o destino; e, ao percorrer a poligonal, nenhum trio de pontos consecutivos pode ficar sobre uma mesma reta. Segundo o gabarito oficial, a figura I é a única que satisfaz simultaneamente essas exigências. As demais representações falham em pelo menos um critério: ou têm origem coincidindo com o destino, ou apresentam número de pontos de controle diferente de três, ou mostram três pontos sucessivos colineares, o que o texto proíbe. Gabarito: A.",
+  "hash": "5174f74a18ce7990",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q158": {
+  "explicacao": "A questão pede o terreno de menor área que comporte a quadra de 40 m × 20 m com pelo menos 2 m de folga em cada lado, com o lado maior paralelo à rua. Somando as folgas, o retângulo mínimo necessário é (40 + 2 + 2) × (20 + 2 + 2) = 44 m × 24 m, com os 44 m paralelos à rua. Terreno 1: trapézio com 44 m junto à calçada, mas 22 m no fundo e um lado inclinado; a 24 m de profundidade a largura já é bem menor que 44 m, então não comporta. Terreno 2 (40 × 20) e terreno 3 (42 × 22) são menores que 44 × 24. Terreno 4: trapézio com 60 m na frente e 20 m no fundo, profundidade 48 m; a largura diminui 40 m ao longo de 48 m, e a 24 m de profundidade resta 60 − 20 = 40 m, menos que 44 m, então também não serve. Terreno 5: retângulo de 50 m × 40 m, que comporta 44 × 24 com folga. Sendo o único viável, é o escolhido. Gabarito: E.",
+  "hash": "937303f4cb58b396",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q159": {
+  "explicacao": "A questão pede a massa de chocolate da bola oca, com diâmetro externo de 20 cm e espessura de 1 cm. O raio externo é R = 10 cm e o raio interno é r = 10 − 1 = 9 cm. O volume de chocolate é a diferença entre os volumes das esferas: V = (4/3)π(R³ − r³) = (4/3)π(1 000 − 729) = (4/3)π × 271 = 1 084π/3 cm³. Como 1 g de chocolate ocupa 0,75 cm³, a massa é m = V ÷ 0,75 = (1 084π/3) × (4/3) = 4 336π/9 g, que corresponde à alternativa C. As demais alternativas resultam de erros comuns: usar o diâmetro no lugar do raio, subtrair os raios antes de elevar ao cubo, considerar a espessura de 2 cm, ou multiplicar por 0,75 em vez de dividir, invertendo a relação entre massa e volume. Gabarito: C.",
+  "hash": "80370160527be5dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q160": {
+  "explicacao": "A questão pede o maior valor por hora que a empresa Y pode cobrar para que seu preço seja menor ou igual ao da empresa X em trabalhos de até duas horas. Custo de X: C_X(t) = 60 + 18t. Custo de Y: C_Y(t) = 24 + pt. Como Y tem valor fixo menor, ela é mais barata no início; para ser mais barata ou igual até t = 2, basta que isso valha em t = 2, já que a diferença entre as funções é afim. Em t = 2: C_X = 60 + 36 = 96. Então 24 + 2p ≤ 96, ou seja, 2p ≤ 72 e p ≤ 36. O valor máximo é R$ 36,00 por hora. A alternativa A (18) iguala a tarifa de X, o que atende mas não é o máximo. A C (48), a D (54) e a E (78) fariam Y ficar mais cara que X em t = 2: por exemplo, com 48 o custo seria 24 + 96 = 120 > 96. Gabarito: B.",
+  "hash": "ad7c95557e821d81",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q161": {
+  "explicacao": "[REVISAR] As alternativas estão corrompidas no texto extraído (frações misturadas), mas a resposta pode ser deduzida. A questão pede o volume restante após a 7ª, a 8ª e a 9ª medições. Na 1ª medição resta ½ de V. Na 2ª, retira-se ⅓ do que restou, sobrando ⅔: ½ × ⅔ = ⅓ V. Na 3ª, sobram ¾: ⅓ × ¾ = ¼ V. Na 4ª, sobram ⅘: ¼ × ⅘ = ⅕ V. Percebe-se o padrão: na n-ésima medição sobra n/(n + 1) do que havia, e o produto se simplifica em cadeia (produto telescópico): ½ × ⅔ × ¾ × ... × n/(n + 1) = 1/(n + 1). Assim, após a 7ª medição resta V/8, após a 8ª resta V/9 e após a 9ª resta V/10. A alternativa E traz 1/8 V, 1/9 V e 1/10 V. As alternativas A e B confundem a fração que resta numa única etapa com o total restante. A C usa denominadores e numeradores sem o padrão correto. A D desloca os índices em uma unidade. Gabarito: E.",
+  "hash": "3db15a24aee948f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q162": {
+  "explicacao": "A questão pede a unidade adequada para a grandeza monitorada: volume de água que passa pela tubulação num período de tempo, ou seja, a vazão. Vazão é volume dividido por tempo. Volume, em centímetros, tem unidade cm³ (comprimento ao cubo), e tempo, s. Logo, a unidade é cm³/s, que aparece no rascunho III. O rascunho I (cm²/s) usa área no lugar de volume. O rascunho II (cm/s) é unidade de velocidade. O rascunho IV (s/cm³) inverte a razão, indicando tempo por volume. O rascunho V (s/cm²) inverte a razão e ainda usa área. Gabarito: C.",
+  "hash": "e44de52fe50fc3a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q163": {
+  "explicacao": "A questão pede o preço de venda de cada bombom. A caixa custou R$ 5,00 e o lucro foi de 20% sobre esse valor: 0,20 × 5 = R$ 1,00. Logo, a receita total com as vendas foi 5 + 1 = R$ 6,00. Como a pessoa comeu 5 dos 25 bombons, vendeu 20. O preço de cada um foi 6,00 ÷ 20 = R$ 0,30. A alternativa A (0,20) é o custo de cada bombom, 5 ÷ 25, sem lucro. A B (0,24) aplica os 20% ao custo unitário, mas ignora os 5 bombons comidos. A D (0,35) e a E (0,40) gerariam receitas de R$ 7,00 e R$ 8,00, lucros maiores que os 20% informados. Gabarito: C.",
+  "hash": "4a7ddd14bd146e36",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q164": {
+  "explicacao": "A questão pede o preço máximo por comprimido do medicamento Z para que ele seja o mais barato por comprimido. Calcule o preço unitário de cada um: I: 50 ÷ 25 = R$ 2,00. II: 48 ÷ 30 = R$ 1,60. III: 60 ÷ 40 = R$ 1,50. IV: 100 ÷ 60 ≈ R$ 1,67. O menor valor atual é R$ 1,50 (medicamento III). Para ser estritamente mais barato, Z precisa custar menos que R$ 1,50; entre as opções, o maior valor possível é R$ 1,49. A alternativa A (R$ 1,40) atende, mas não é o máximo. A C (R$ 1,59) e a D (R$ 1,60) ficam acima do medicamento III. A E (R$ 1,99) só seria mais barata que o medicamento I. Gabarito: B.",
+  "hash": "3a3cefb1ba668045",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q165": {
+  "explicacao": "A questão pede quantos tapetes de 10 cm × 50 cm podem ser feitos com um retalho de 10 × 20 (preto liso) e três retalhos de 10 × 10, escolhidos entre as três estampas quadradas disponíveis, sem que retalhos de mesma estampa fiquem lado a lado. São 4 peças em fila; o retalho grande pode ocupar a 1ª, 2ª, 3ª ou 4ª posição. Caso 1: grande numa extremidade (2 possibilidades). Os três quadrados ficam consecutivos: 3 escolhas para o primeiro, 2 para o segundo (diferente do anterior) e 2 para o terceiro (diferente do segundo): 3 × 2 × 2 = 12. Total: 2 × 12 = 24. Caso 2: grande numa posição interna (2 possibilidades). Os quadrados ficam separados em um isolado e uma dupla: 3 escolhas para o isolado e 3 × 2 = 6 para a dupla, totalizando 18. Total: 2 × 18 = 36. Somando: 24 + 36 = 60 modelos. A alternativa A (12) considera só uma posição do retalho grande. A B (24) conta apenas o caso das extremidades. A C (34) e a D (48) erram a contagem de um dos casos. Gabarito: E.",
+  "hash": "48b1c5ce306c4725",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q166": {
+  "explicacao": "A questão pede a moda das quantidades de clientes nos 10 primeiros dias. A moda é o valor que mais se repete. Pelo gráfico, os valores são: 80, 90, 94, 100, 94, 100, 92, 94, 80 e 86. Contando: 80 aparece 2 vezes, 90 uma vez, 94 aparece 3 vezes (dias 3, 5 e 8), 100 aparece 2 vezes, 92 uma vez e 86 uma vez. Logo, a moda é 94. A alternativa A (90) aparece apenas uma vez. A B (91) é próxima da média, que é (80 + 90 + 94 + 100 + 94 + 100 + 92 + 94 + 80 + 86) ÷ 10 = 91. A C (93) é a mediana, média de 92 e 94. A E (97) não corresponde a nenhuma medida da distribuição. Gabarito: D.",
+  "hash": "01c15d721e691da5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q167": {
+  "explicacao": "A questão pede a altura do prédio na maquete, com escala 1 : 50. A escala significa que cada 1 unidade na maquete corresponde a 50 unidades na realidade. Assim, a medida na maquete é a real dividida por 50: 32 m ÷ 50 = 0,64 m, ou 64 cm. A alternativa A (0,32 m) divide por 100, como se a escala fosse 1 : 100. A B (0,50 m) apenas transforma o número da escala em medida. A D (1,00 m) não tem relação com a conta. A E (1,32 m) soma valores sem sentido. Gabarito: C.",
+  "hash": "73061d9908f68369",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q168": {
+  "explicacao": "A questão pede a idade humana equivalente a um cão de pequeno porte com 6 anos. Pelas relações dadas: com 2 anos, o cão corresponde a um humano de 24 anos. A partir daí, cada ano do cão equivale a 4 anos humanos. De 2 até 6 anos, passam-se 4 anos de cão, que correspondem a 4 × 4 = 16 anos humanos. Então, a idade equivalente é 24 + 16 = 40 anos. A alternativa A (90) multiplica 6 por 15, aplicando a relação do primeiro ano a todos. A B (60) também extrapola indevidamente a relação inicial. A C (44) conta 5 anos após os 2 anos. A E (35) não segue as regras dadas. Gabarito: D.",
+  "hash": "58f69f8a03ea6a50",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q169": {
+  "explicacao": "A questão pede a marca com menor preço por quilograma de sabão em pó. Divida o preço pelo conteúdo de cada embalagem: I: 18,00 ÷ 3,0 = R$ 6,00/kg. II: 10,00 ÷ 2,5 = R$ 4,00/kg. III: 8,00 ÷ 0,5 = R$ 16,00/kg. IV: 7,00 ÷ 1,0 = R$ 7,00/kg. V: 34,00 ÷ 2,0 = R$ 17,00/kg. O menor valor é o da marca II. A alternativa A (I) tem a maior embalagem, mas custa R$ 6,00/kg. A C (III) parece barata pelo preço da embalagem, mas o quilo sai por R$ 16,00. A D (IV) tem a embalagem mais barata, com R$ 7,00/kg. A E (V) é a mais cara por quilograma. Gabarito: B.",
+  "hash": "9ef09f981b722b6a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q170": {
+  "explicacao": "A questão pede as duas piscinas de formatos diferentes com volumes iguais ou mais próximos do da piscina atual. Volume atual: 50 × 25 × 3 = 3 750 m³. Cilindros, com π ≈ 3 e V = π r² h: C₁: raio 25, 3 × 625 × 2 = 3 750 m³. C₂: raio 20, 3 × 400 × 3 = 3 600 m³. C₃: raio 23, 3 × 529 × 2,5 = 3 967,5 m³. Paralelepípedos: P₁: 62 × 24 × 2 = 2 976 m³. P₂: 64 × 30 × 2 = 3 840 m³. Entre os cilindros, C₁ tem exatamente 3 750 m³. Entre os paralelepípedos, P₂ difere 90 m³ e P₁ difere 774 m³, então P₂ é o mais próximo. Como as piscinas devem ter formatos diferentes, a escolha é C₁ e P₂. A alternativa B reúne dois cilindros, contrariando a exigência. A C escolhe C₂ (diferença de 150) e P₁ (diferença de 774). A D troca C₁ por C₃, que difere 217,5 m³. A E reúne dois paralelepípedos. Gabarito: A.",
+  "hash": "d070204422d48503",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q91": {
+  "explicacao": "A questão pede qual substância, liberada pela digestão dos vermes, é absorvida pela planta Philcoxia minensis. A pista central está no texto: a planta vive num solo pobre, usa os vermes como suplemento alimentar e a digestão é feita por fosfatases. Fosfatases são enzimas que removem grupos fosfato de moléculas orgânicas, liberando fosfato inorgânico. Lembre que plantas são autotróficas: produzem sua própria matéria orgânica pela fotossíntese, que o texto diz ocorrer normalmente mesmo com as folhas enterradas. O que falta num solo pobre são nutrientes minerais, como fósforo e nitrogênio, e é justamente isso que as plantas carnívoras e semicarnívoras obtêm das presas. Assim, a planta absorve sais minerais, especialmente fosfatos. A glicose a planta já produz na fotossíntese. Aminoácidos não são o produto da ação das fosfatases nem a carência principal. Fosfolipídeos são moléculas grandes que seriam quebradas, não absorvidas inteiras. Ácidos nucleicos também são macromoléculas digeridas, e não o que é absorvido. Gabarito: C.",
+  "hash": "a69d1ed8db04ce99",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q92": {
+  "explicacao": "A questão pergunta por que é importante produzir glóbulos vermelhos a partir de células-tronco e injetá-los numa pessoa. O texto destaca que a notícia traz esperança a pessoas com certos tipos sanguíneos, ou seja, àquelas que têm dificuldade de encontrar doadores compatíveis (tipos raros). Se as hemácias podem ser obtidas em laboratório a partir de células-tronco do próprio indivíduo, o sangue produzido é idêntico ao do paciente, eliminando o problema da compatibilidade e a dependência de transfusões de doadores. Por isso a alternativa B descreve corretamente o avanço: produção in vitro de glóbulos vermelhos do próprio indivíduo, evitando transfusões. A alternativa A erra porque hemácias não estancam hemorragias; quem participa da coagulação são plaquetas e fatores de coagulação. A C ainda fala em doador e receptor, justamente o que a técnica busca dispensar. A D é absurda: as hemácias não seriam trocadas por células-tronco circulantes. A E exagera, pois o texto não trata de evitar a manifestação de doenças nem de reduzir mortes. Gabarito: B.",
+  "hash": "d498ac4d448bb42a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q93": {
+  "explicacao": "A questão pede uma vantagem do café orgânico, apesar do custo mais alto. O texto afirma que a cafeicultura orgânica aproveita resíduos orgânicos, o que reduz gastos com insumos, e que apresenta alta eficiência relacionada ao estado nutricional do produto e à fertilidade do solo das lavouras. Ou seja, as técnicas do cultivo orgânico (adubação com matéria orgânica, ausência de agroquímicos sintéticos) mantêm e melhoram o solo, favorecendo sua conservação, como diz a alternativa A. A alternativa B inverte o texto: os resíduos são aproveitados, não eliminados. A C contraria o texto, que fala em período de conversão longo, de até três anos. A D erra ao dizer que se perde valor nutricional, quando o texto destaca o bom estado nutricional. A E também contraria o texto, que aponta risco de contaminação nas fases de beneficiamento e comercialização. Gabarito: A.",
+  "hash": "3536b5cfc95da752",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q94": {
+  "explicacao": "A questão pede o motivo de o dodecilbenzenossulfonato de sódio funcionar como tensoativo (surfactante). Um tensoativo é uma molécula anfifílica: tem uma parte polar, que interage com a água, e uma parte apolar, que interage com gorduras. Nesse composto, o grupo sulfonato (–SO₃⁻), carregado negativamente, é a cabeça polar, hidrofílica. Já a longa cadeia de 12 carbonos ligada ao anel benzênico (o dodecilbenzeno) é apolar, lipofílica. É essa combinação que permite formar micelas: a parte apolar envolve a gordura e a parte polar fica voltada para a água, que então remove a sujeira. Isso é exatamente o que afirma a alternativa B. A alternativa A inverte o papel do sulfonato, que é hidrofílico, e o Na⁺ é só o contraíon. A C atribui caráter lipofílico ao benzenossulfonato, ignorando o grupo iônico. A D erra porque o íon Na⁺ é apenas hidrofílico. A E erra porque o dodecilbenzeno é só lipofílico. Gabarito: B.",
+  "hash": "6248146bc64bf9d4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q95": {
+  "explicacao": "A questão pede a massa de bauxita necessária para obter 200 kg de alumínio, sabendo que a bauxita tem 50% em massa de Al₂O₃. Primeiro, a massa molar do óxido: Al₂O₃ = 2 × 27 + 3 × 16 = 54 + 48 = 102 g/mol. Em 102 g de Al₂O₃ há 54 g de alumínio. Montando a proporção: 54 g de Al vêm de 102 g de Al₂O₃, então 200 kg de Al vêm de x. Logo x = 200 × 102 ÷ 54 ≈ 377,8 kg de Al₂O₃. Como a bauxita tem apenas 50% de Al₂O₃, a massa de minério é o dobro: 2 × 377,8 ≈ 755,6 kg, ou seja, cerca de 756 kg. A alternativa A (378 kg) corresponde só à massa de Al₂O₃, esquecendo a pureza de 50%. A B (400 kg) seria o dobro de 200 kg, como se a bauxita fosse alumínio puro a 50%. A C (637 kg) não sai de nenhuma relação correta. A E (1 512 kg) dobra o valor duas vezes, aplicando a pureza em excesso. Gabarito: D.",
+  "hash": "c304199780bda79f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q96": {
+  "explicacao": "A questão pede impactos socioambientais típicos da extração e do processamento de minérios, a exemplo da Serra do Navio. O texto mostra que a lavra atingiu uma grande área, da qual só pouco mais de 50% foi recuperada, o que evidencia a alteração da paisagem (desmatamento, cavas, pilhas de rejeito). Além disso, a mineração e principalmente o processamento do minério (britagem, transporte, beneficiamento e metalurgia) consomem grande quantidade de energia. Por isso a alternativa B reúne dois impactos corretos. A alternativa A erra ao dizer que a mineração renova recursos naturais, pois minérios são não renováveis e a jazida se esgotou. A C contraria o texto, que mostra exploração lucrativa até a exaustão do minério. A D cita contaminação por mercúrio, característica do garimpo de ouro, não da lavra de manganês. A E erra ao falar em pequena demanda, quando o texto diz que se lavrou para atender às exigências do mercado. Gabarito: B.",
+  "hash": "2ba264bf7fe948ae",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q97": {
+  "explicacao": "A questão pergunta qual impacto ambiental decorre das emissões apresentadas no ciclo do enxofre. As fontes naturais (vulcões), biogênicas e antropogênicas (queima de combustíveis fósseis e carvão, indústrias) lançam compostos de enxofre na atmosfera, principalmente o SO₂. Esse gás é oxidado a SO₃, que reage com a água atmosférica formando ácido sulfúrico: SO₂ + ½ O₂ → SO₃ e SO₃ + H₂O → H₂SO₄. O ácido retorna à superfície pela precipitação, caracterizando a chuva ácida, que corrói construções, acidifica lagos e solos e danifica a vegetação. A alternativa A não se aplica, pois o efeito estufa está ligado a CO₂, CH₄ e N₂O. A B se relaciona com urbanização e impermeabilização do solo, não com enxofre. A D, o smog fotoquímico, depende de óxidos de nitrogênio e hidrocarbonetos sob luz solar. A E está associada aos CFCs, não aos compostos de enxofre. Gabarito: C.",
+  "hash": "aaae7363cfe2f745",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q98": {
+  "explicacao": "A questão descreve um solo alcalino que precisa ter o pH reduzido para perto de 6, e pede o composto adequado para isso. Precisamos, portanto, de uma substância de caráter ácido. O sulfato de amônio, (NH₄)₂SO₄, é um sal de ácido forte (H₂SO₄) e base fraca (NH₃). Em água, o íon amônio sofre hidrólise: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, liberando íons H₃O⁺ e acidificando o meio. Além disso, no solo o amônio é nitrificado por bactérias, processo que também libera H⁺, e ainda fornece nitrogênio às plantas, aumentando a fertilidade. A alternativa A, KNO₃, é um sal neutro e não altera o pH. A B, CaCO₃, é o calcário, usado justamente para corrigir solos ácidos, pois eleva o pH. A C, Na₃PO₄, é um sal básico, que aumentaria ainda mais o pH. A D, Al₂(SO₄)₃, acidifica, mas introduz alumínio, elemento tóxico cujo efeito o texto manda minimizar. Gabarito: E.",
+  "hash": "9df1b2506715110b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2023-ppl-d2-q99": {
+  "explicacao": "A questão pede uma inferência correta sobre a conservação de alimentos por radiação ionizante. O texto informa que o tratamento mata insetos, bactérias patogênicas, fungos e leveduras, aumenta o tempo de conservação, pode retardar a maturação de frutas e legumes e não torna o alimento radioativo. A alternativa E resume essa ideia: eliminando os agentes que deterioram o alimento, a radiação contribui para sua melhor conservação. A alternativa A contraria o texto, que fala em retardo da maturação, ou seja, os alimentos demoram mais a se deteriorar. A B contraria a afirmação de que o processo não aumenta o nível de radioatividade, pois a radiação atravessa o alimento sem deixá-lo radioativo. A C erra porque o texto diz que o tratamento vale para alimentos embalados ou a granel. A D é o oposto do que ocorre: os microrganismos e insetos são eliminados, e não favorecidos. Gabarito: E.",
+  "hash": "e00310e6daeae721",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
