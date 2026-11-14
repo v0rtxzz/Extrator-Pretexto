@@ -1,0 +1,447 @@
+{
+ "enem-2022-regular-d2-q100": {
+  "explicacao": "A questão pede a altura máxima que o jato alcançaria na vertical, a partir de um lançamento horizontal. A ideia é que a velocidade de saída da água é a mesma nas duas posições. Primeiro, no lançamento horizontal a 1 m de altura: a queda é livre na vertical, h = g·t²/2, então 1 = 10·t²/2, t² = 0,2 s². Na horizontal o movimento é uniforme: x = v·t, com x = 3 m, logo v = 3/t e v² = 9/t² = 9/0,2 = 45 m²/s². Agora, com a mangueira na vertical, a altura máxima é dada por Torricelli: v² = 2·g·H, então H = v²/(2g) = 45/20 = 2,25 m. A alternativa 1,50 m resulta de confundir relações entre alcance e altura. A de 4,00 m e a de 4,50 m vêm de erros como esquecer o fator 2 (H = v²/g = 4,5 m). A de 5,00 m não corresponde a nenhuma relação correta entre os dados. Gabarito: B.",
+  "hash": "e14b8073b693a915",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q101": {
+  "explicacao": "A questão pede a cana que terá maior teor de sacarose 10 horas após o corte. Pelo texto, a perda de sacarose é de cerca de 50% para cada 1,0 mg/L de microrganismos, ou seja, a fração perdida é 0,5 × (concentração de microrganismos). Calculando a sacarose restante: RB72: perde 0,5 × 0,7 = 35%, restam 13,0 × 0,65 = 8,45 g/L. RB84: perde 40%, restam 18,0 × 0,60 = 10,8 g/L. RB92: perde 30%, restam 16,0 × 0,70 = 11,2 g/L. SP79: perde 25%, restam 14,0 × 0,75 = 10,5 g/L. SP80: perde 45%, restam 17,0 × 0,55 = 9,35 g/L. O maior valor é o da RB92, com 11,2 g/L, que produzirá mais etanol. A RB72 tem a menor concentração inicial e termina com o pior resultado. A RB84 tem a maior concentração inicial, mas perde 40% e fica com 10,8 g/L. A SP79 tem a menor contaminação, mas parte de pouca sacarose. A SP80 é a mais contaminada e perde quase metade. Gabarito: C.",
+  "hash": "9ad85fd7cecf99be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q102": {
+  "explicacao": "A questão pede a etapa que precisa anteceder a PCR no diagnóstico da covid-19. O detalhe decisivo do texto é que o SARS-CoV-2 é um vírus de RNA, enquanto a PCR usa uma DNA polimerase, que só copia moldes de DNA. Por isso, antes da amplificação, é preciso converter o RNA viral em DNA complementar (cDNA) com a enzima transcriptase reversa. Esse procedimento é a transcrição reversa, e o exame completo recebe o nome de RT-PCR. Depois disso, o cDNA pode ser amplificado e detectado. A alternativa A não resolve o problema, pois concentrar RNA não o torna molde para a DNA polimerase. A B descreve um teste sorológico, que procura anticorpos, e não um teste genético. A C é inviável e desnecessária, já que a PCR amplifica o material genético sem cultivar o vírus. A D cita purificação, que até pode ocorrer, mas não é a etapa que permite a ação da enzima sobre material de RNA. Gabarito: E.",
+  "hash": "ea4e7675345fd326",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q103": {
+  "explicacao": "A questão pede o diagrama correto das forças sobre a muleta no ângulo crítico, logo antes de escorregar. Devem aparecer quatro forças: o peso P, vertical para baixo, aplicado no centro de massa CM; a força F, aplicada no topo, paralela à muleta e dirigida para baixo, ao longo dela; a normal N, aplicada na ponta que toca o piso, perpendicular ao chão, portanto vertical para cima; e a força de atrito, também aplicada na ponta, paralela ao piso. Como F inclinada empurra a base da muleta para deslizar para fora, o atrito estático aponta no sentido contrário a essa tendência, horizontal e voltado para dentro. No ângulo crítico, esse atrito atinge seu valor máximo, μ·N, e é por isso que o ângulo pode ser calculado. O esquema da alternativa E reúne corretamente pontos de aplicação, direções e sentidos. As demais alternativas apresentam erros como normal perpendicular à muleta em vez do piso, atrito no sentido errado ou ausente, peso aplicado fora do centro de massa ou F fora da direção da muleta. Gabarito: E.",
+  "hash": "75e585ce87832bed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q104": {
+  "explicacao": "A questão pede o efeito do doping com eritropoietina (EPO). O texto informa que a EPO regula a eritropoiese, isto é, a produção de hemácias na medula óssea. Ao receber doses acima do normal, o atleta passa a fabricar mais hemácias, elevando o hematócrito e a quantidade de hemoglobina no sangue. Como a hemoglobina é a proteína que transporta oxigênio, o sangue passa a levar mais O₂ aos músculos, favorecendo a respiração celular aeróbica e a resistência a esforços prolongados. Por isso, o doping está ligado ao aumento da taxa de transporte de oxigênio pelo sangue. A frequência cardíaca não é o alvo da EPO; com mais oxigênio disponível, ela pode até ficar menor para o mesmo esforço. A capacidade pulmonar depende do volume dos pulmões, que não muda. A massa muscular aumenta com anabolizantes, não com EPO. A atividade anaeróbica tende a diminuir, já que há mais oxigênio para a via aeróbica. Gabarito: E.",
+  "hash": "6a01ef4fcaba90cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q105": {
+  "explicacao": "A questão compara força média e energia dissipada em duas colisões de mesma duração. Pelo teorema do impulso, F·Δt = Δp = m·Δv. Na barreira de pneus, o carro chega com velocidade v e volta com velocidade reduzida, no sentido oposto; a variação de velocidade é v + v', maior que v. Na barreira de blocos, o carro apenas para: a variação é v. Como o tempo de colisão é o mesmo, a força média é maior na colisão com os pneus, já que ali a variação de momento é maior. Quanto à energia: nos blocos, o carro para e toda a energia cinética inicial é dissipada na deformação. Nos pneus, parte da energia é devolvida ao carro como energia cinética de retorno, logo a energia dissipada é menor. Assim, força maior nos pneus e energia dissipada maior nos blocos. A alternativa B inverte as duas conclusões. A C erra a força e diz que a energia é igual. A D erra a energia. A E erra a força. Gabarito: A.",
+  "hash": "3322a6484efb57c5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q106": {
+  "explicacao": "A questão pede a forma da penicilamina que predomina na urina, com pH entre 5 e 7. A regra é comparar o pH com o pKₐ de cada grupo: se pH > pKₐ, predomina a forma desprotonada; se pH < pKₐ, predomina a forma protonada. Carboxila (pKₐ = 1,8): o pH de 5 a 7 é bem maior, então o grupo está desprotonado, como carboxilato, —COO⁻. Amínio (pKₐ = 7,9): o pH é menor, então o grupo permanece protonado, como —NH₃⁺. Tiol (pKₐ = 10,5): o pH é muito menor, então permanece como —SH, não ionizado. A estrutura predominante é, portanto, o íon dipolar (zwitterion) com —COO⁻, —NH₃⁺ e —SH, representada na alternativa C. As outras estruturas trazem combinações incompatíveis com esse pH: carboxila ainda protonada (—COOH), grupo amino neutro (—NH₂), tiol desprotonado (—S⁻), ou mais de um desses erros ao mesmo tempo. Gabarito: C.",
+  "hash": "bc60f816bba2daca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q107": {
+  "explicacao": "A questão pede a função do H⁺ na conversão de polissacarídeos em mono e dissacarídeos. Trata-se de hidrólise ácida: o H⁺ protona o oxigênio da ligação glicosídica, tornando-a mais fácil de ser rompida pela água. Ao final do mecanismo, o H⁺ é regenerado, ou seja, participa da reação mas não é consumido. Esse é o comportamento típico de um catalisador: oferece um caminho de reação com menor energia de ativação e, por isso, aumenta a velocidade da reação. O H⁺ não dissolve os reagentes; a celulose, aliás, continua pouco solúvel. Também não desloca o equilíbrio, pois um catalisador acelera igualmente as reações direta e inversa, fazendo o sistema atingir o equilíbrio mais depressa sem mudar sua posição. Pelo mesmo motivo, não altera a constante de equilíbrio, que só depende da temperatura. Formar ligações de hidrogênio com o polissacarídeo não descreve o papel do íon no mecanismo de quebra da ligação glicosídica. Gabarito: C.",
+  "hash": "f9987d68570a9021",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q108": {
+  "explicacao": "A questão pede a concentração, em g/L, de ácido tartárico no vinho a partir de uma titulação. O ácido tartárico (C₄H₆O₆, massa molar 150 g/mol) é diprótico: cada molécula reage com 2 NaOH, como mostra a equação da titulação. Passo 1, mols de base: n(NaOH) = 0,10 mol/L × 0,0080 L = 8,0 × 10⁻⁴ mol. Passo 2, proporção 1 ácido : 2 base: n(ácido) = 8,0 × 10⁻⁴ / 2 = 4,0 × 10⁻⁴ mol. Passo 3, concentração em quantidade de matéria na alíquota de 25,0 mL: 4,0 × 10⁻⁴ / 0,025 L = 0,016 mol/L. Passo 4, concentração em massa: 0,016 mol/L × 150 g/mol = 2,4 g/L. A alternativa 1,8 g/L vem de erros de massa molar. A de 3,6 g/L não corresponde a uma relação correta. A de 4,8 g/L surge ao esquecer a proporção 1 : 2, tratando o ácido como monoprótico. A de 9,6 g/L multiplica pelo fator 2 em vez de dividir. Gabarito: B.",
+  "hash": "77f10521ee2917f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q109": {
+  "explicacao": "A questão pede a massa restante de ¹³¹I após 40 dias, partindo de 12 µg. O quadro de monitoramento permite identificar a meia-vida do isótopo: a massa cai à metade a cada 8 dias, aproximadamente (a meia-vida conhecida do iodo-131 é cerca de 8 dias). Em 40 dias cabem 40/8 = 5 meias-vidas. A cada meia-vida a massa se reduz à metade: 12 → 6 → 3 → 1,5 → 0,75 → 0,375 µg. Ou, de forma direta, m = 12/2⁵ = 12/32 = 0,375 µg, que é mais próximo de 0,4 µg. A alternativa 2,4 µg corresponde a dividir 12 por 5, tratando o decaimento como linear. A de 1,5 µg corresponde a apenas três meias-vidas (24 dias). A de 0,8 µg está próxima de quatro meias-vidas (32 dias). A de 0,2 µg corresponderia a seis meias-vidas (48 dias). Gabarito: D.",
+  "hash": "4fd8d58d1932f9e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q110": {
+  "explicacao": "A questão pede a conclusão geral que se tira de quatro padrões reprodutivos de anuros. O que importa é comparar número de gametas e cuidado com a prole. A espécie 1 produz cerca de 5 000 gametas e não cuida dos filhotes: aposta na quantidade, pois a maioria morre. As espécies 2, 3 e 4 produzem cada vez menos gametas, mas aumentam a proteção aos embriões, seja pela vigilância do macho, pela postura sobre folhas longe de predadores aquáticos, seja pelo desenvolvimento dentro do saco vocal do pai. Todas essas espécies existem e se reproduzem com sucesso, o que mostra que o sucesso reprodutivo pode ser garantido por estratégias diferentes, ora muitos descendentes sem cuidado, ora poucos com muito cuidado. A alternativa A não tem apoio no texto. A B é contrariada pela espécie 1, que não tem cuidado parental. A C supõe uma hierarquia de evolução entre espécies atuais, ideia equivocada. A E traz visão lamarckista, de que o ambiente induz a mudança. Gabarito: D.",
+  "hash": "d92e97df25bf7225",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q111": {
+  "explicacao": "A questão pede a região onde está a residência, a partir da energia gerada pela placa em quatro datas. O gráfico mostra produção máxima em 10/01, valores intermediários e parecidos em 10/04 e 10/10, e mínima em 10/07, mas ainda bem diferente de zero. Como a inclinação do eixo terrestre faz os dias serem mais longos e o Sol mais alto no verão, a placa produz mais no verão e menos no inverno. Produção máxima em janeiro e mínima em julho indica verão em dezembro e janeiro, ou seja, Hemisfério Sul. Além disso, há produção razoável em julho, o que exclui regiões polares, e há variação sazonal clara, o que exclui o Equador. Assim, a residência fica próxima ao Trópico de Capricórnio. O Trópico de Câncer está no Hemisfério Norte, onde o máximo seria em julho. No Polo Norte, a produção em janeiro seria nula, por causa da noite polar. No Polo Sul, a produção em julho seria nula, o que contradiz o gráfico. No Equador, a energia seria quase constante ao longo do ano. Gabarito: A.",
+  "hash": "e4cf25b8d1bbd6bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q112": {
+  "explicacao": "A questão pede a tensão de ruptura de cada segmento de corda, com 25% de margem. A tensão máxima ocorre no ponto mais baixo da trajetória, onde a velocidade é máxima. Passo 1, velocidade no ponto mais baixo: soltando de 90°, a criança desce uma altura igual ao comprimento L da corda. Pela conservação da energia, m·g·L = m·v²/2, logo v² = 2·g·L. Passo 2, resultante centrípeta no ponto mais baixo: T total − m·g = m·v²/L = m·2gL/L = 2·m·g. Assim, T total = 3·m·g = 3 × 24 × 10 = 720 N. Passo 3, como são dois segmentos iguais e paralelos, cada um suporta 720/2 = 360 N. Passo 4, margem de segurança: 360 × 1,25 = 450 N. A alternativa 120 N tem apenas metade do peso, sem dinâmica nem margem. A de 300 N aplica a margem ao peso dividido entre as cordas. A de 360 N é a tensão máxima sem os 25% de segurança. A de 900 N aplica a margem à tensão total, sem dividir entre os dois segmentos. Gabarito: D.",
+  "hash": "93b157cbb4f923f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q113": {
+  "explicacao": "A questão pede o princípio de proteção dos filmes nanocerâmicos de ZrO₂ e Al₂O₃. Pela equação, o ferro só se corrói na presença de água e oxigênio. Os filmes de zircônia e alumina são materiais cerâmicos, já oxidados, quimicamente estáveis e isolantes, que recobrem a superfície do metal. Eles funcionam como barreira física: impedem que a umidade e o O₂, agentes oxidantes, cheguem ao ferro, bloqueando a corrosão. Esse é o efeito de barreira. A proteção catódica com metal fortemente redutor exige um metal ligado ao ferro, que ceda elétrons, o que não é o caso de óxidos cerâmicos. O metal de sacrifício também precisa ser um metal mais reativo que se oxide no lugar do ferro; zircônia e alumina já estão oxidadas. A passivação do ferro envolveria uma camada do próprio óxido de ferro, e não de outros óxidos depositados. A galvanização é o revestimento com zinco metálico, outro tipo de proteção. Gabarito: D.",
+  "hash": "ec0319446738c6d0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q114": {
+  "explicacao": "A questão pede o que se observa ao microscópio em células da epiderme de trapoeraba-roxa colocadas em meio hipotônico. Em meio hipotônico, a concentração de solutos fora da célula é menor que dentro dela; por osmose, a água entra na célula e, principalmente, no vacúolo, onde está o pigmento arroxeado. O vacúolo aumenta de volume e o pigmento fica mais diluído, deixando a cor mais clara. A célula vegetal fica túrgida, mas não se rompe, pois a parede celular de celulose é resistente e limita a expansão. Portanto, observa-se o aumento do vacúolo com diluição do pigmento. A alternativa A fala em fragmentação da organela, o que não ocorre. A B descreve lise celular, típica de células animais, que não têm parede. A D erra porque a parede celular não se quebra nessas condições. A E descreve plasmólise, que acontece em meio hipertônico, com saída de água. Gabarito: C.",
+  "hash": "1cd7b2e5c2ad5fff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q115": {
+  "explicacao": "A questão pede a razão entre as variações de temperatura da área concretada e da área alagada, para o mesmo volume e a mesma energia absorvida. Pela calorimetria, Q = m·c·ΔT, com m = d·V. Logo ΔT = Q/(d·V·c). Como Q e V são iguais nas duas situações, a razão é ΔT concreto / ΔT água = (d água · c água)/(d concreto · c concreto). Pelos dados: água, d = 1 000 kg/m³ e c = 4,2 J/(g·°C); concreto, d = 2 500 kg/m³ e c = 0,8 J/(g·°C). Então: (1 000 × 4,2)/(2 500 × 0,8) = 4 200/2 000 = 2,1. O concreto esquenta cerca de duas vezes mais que a água. A alternativa 1,0 ignora as diferenças entre os materiais. A de 2,5 considera só a razão de densidades, invertida. A de 5,3 usa só os calores específicos (4,2/0,8 ≈ 5,25), esquecendo que as massas são diferentes. A de 13,1 multiplica as razões em vez de dividir (5,25 × 2,5). Gabarito: B.",
+  "hash": "f153d0e250bb4b33",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q116": {
+  "explicacao": "A questão pede o disjuntor adequado, ou seja, o múltiplo de 5 A logo acima da corrente máxima. A corrente máxima ocorre na maior potência. Pela tabela, no nível superquente, a 3 L/min a água aquece 30 °C e a 6 L/min aquece 15 °C; os produtos vazão × ΔT são iguais (90), então a potência é a mesma e é a maior entre os níveis. Passo 1, massa de água por segundo: 3 L/min = 3 kg/min = 0,05 kg/s. Passo 2, potência: P = (m/t)·c·ΔT = 0,05 kg/s × 4 200 J/(kg·°C) × 30 °C = 6 300 W. Passo 3, corrente: i = P/U = 6 300/220 ≈ 28,6 A. O múltiplo de 5 A imediatamente superior é 30 A. A alternativa 60 A está muito acima do necessário, deixando o circuito desprotegido. A de 20 A desarmaria no nível superquente. As de 10 A e 5 A seriam ainda menores que a corrente dos níveis morno e quente. Gabarito: B.",
+  "hash": "a47465736350a7c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q117": {
+  "explicacao": "A questão pede o gás liberado quando o mármore (CaCO₃) reage com ácido clorídrico. Carbonatos reagem com ácidos formando ácido carbônico, que é instável e se decompõe em água e gás carbônico. A equação é: CaCO₃(s) + 2 HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g). A efervescência observada é a saída de CO₂, e o aumento de temperatura mostra que a reação é exotérmica. O H₂ é liberado quando ácidos reagem com metais reativos, como zinco ou magnésio, e não com carbonatos. O O₂ não se forma, pois não há oxidação de oxigênio nessa reação. O CO não aparece, porque o carbono do carbonato mantém número de oxidação +4, o mesmo do CO₂; não há redução para +2. O Cl₂ exigiria oxidação do cloreto por um oxidante forte, ausente no experimento. Gabarito: C.",
+  "hash": "1823b413b75a6707",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q118": {
+  "explicacao": "A questão pede qual hormônio está representado na figura que compara machos expostos à atrazina com machos e fêmeas controle. O texto informa que os machos expostos tiveram hermafroditismo e desmasculinização da laringe, ou seja, perderam características masculinas. Isso indica queda no hormônio sexual masculino. Na figura, os machos controle têm a maior concentração do hormônio, as fêmeas têm concentração baixa e os machos expostos apresentam valores reduzidos, próximos aos das fêmeas. Esse padrão corresponde à testosterona, principal andrógeno, responsável pelos caracteres sexuais masculinos primários e secundários. O estrogênio seria mais alto nas fêmeas, o padrão oposto. Feromônios são sinais químicos liberados no ambiente para comunicação entre indivíduos, não hormônios dosados no sangue para esse fim. A somatotrofina é o hormônio do crescimento, sem relação direta com a masculinização. O hormônio folículo estimulante atua na gametogênese e não explica a desmasculinização descrita. Gabarito: C.",
+  "hash": "72c1d5d39ece894b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q119": {
+  "explicacao": "A questão pede a corrente na lâmpada quando uma das três pilhas é inserida invertida. Passo 1, resistência da lâmpada: R = U²/P = 4,5²/4,5 = 4,5 Ω. Passo 2, força eletromotriz resultante: duas pilhas corretas somam 3,0 V, e a invertida subtrai 1,5 V, logo ε resultante = 1,5 + 1,5 − 1,5 = 1,5 V. Passo 3, resistência total: as resistências internas continuam em série, independentemente da posição, então r total = 3 × 0,5 = 1,5 Ω. Somando a lâmpada: R eq = 4,5 + 1,5 = 6,0 Ω. Passo 4, lei de Pouillet: i = ε/R eq = 1,5/6,0 = 0,25 A. A alternativa 0,33 A ignora as resistências internas (1,5/4,5). A de 0,75 A usa 4,5 V com as resistências internas (4,5/6,0), como se as pilhas estivessem corretas. A de 1,00 A é a corrente nominal da lâmpada. A de 1,33 A resulta de somar as tensões de forma errada ou ignorar resistências. Gabarito: A.",
+  "hash": "6276e16c3997b109",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q120": {
+  "explicacao": "A questão pede a explicação para os diferentes resultados da catalase em temperaturas distintas, já que todas as outras condições foram mantidas. O quadro mostra que a atividade varia com a temperatura: cresce até uma faixa ótima e cai nas temperaturas mais altas. Enzimas são proteínas cuja função depende de sua forma tridimensional, especialmente do sítio ativo, onde o substrato se encaixa. Temperaturas muito altas rompem ligações que mantêm essa estrutura, provocando desnaturação; a enzima perde a forma e a atividade. Temperaturas baixas reduzem a agitação molecular e a frequência de encontros com o substrato. O fator decisivo para a queda acentuada é, portanto, a modificação da estrutura tridimensional da enzima. A variação do pH não ocorreu, pois só a temperatura mudou. A enzima não aumenta a energia de ativação; ao contrário, ela a diminui. Enzimas não são consumidas na reação. A concentração de substrato foi a mesma em todos os ensaios, então não explica as diferenças. Gabarito: E.",
+  "hash": "a2e9360557f8f811",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q121": {
+  "explicacao": "A questão pede o antimicrobiano que mata fungos sem afetar as bactérias da microbiota. A chave é procurar uma estrutura presente em fungos (eucariontes) e ausente em bactérias (procariontes). O antimicrobiano 2 se liga aos microtúbulos e impede a segregação das cromátides, ou seja, bloqueia a divisão celular por mitose. Bactérias não têm microtúbulos nem fazem mitose; elas se dividem por fissão binária. Assim, o antimicrobiano 2 afeta apenas o fungo. O antimicrobiano 1 atua em ribossomos, presentes nos dois grupos, e afetaria as bactérias. O 3 se liga a fosfolipídios da membrana plasmática, que todas as células possuem. O 4 interfere na síntese de timina e inibe a síntese de DNA, processo comum a fungos e bactérias. O 5 interfere na síntese de uracila e impede a síntese de RNA, também presente em ambos. Gabarito: B.",
+  "hash": "0ccb9e5f3594ae65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q122": {
+  "explicacao": "A questão pede a aplicação potencial de um fármaco derivado de proteína do veneno da cascavel. O texto diz que o veneno causa hemorragia, isto é, dificulta a coagulação, e que a molécula desenvolvida é capaz de modular a coagulação sanguínea. Uma substância com ação anticoagulante pode ser usada para impedir a formação de trombos, coágulos que obstruem vasos e causam, por exemplo, acidentes vasculares cerebrais isquêmicos, infartos e tromboses. Por isso, a aplicação coerente é impedir trombos típicos de alguns casos de AVC. A anemia profunda por perda de sangue exige reposição de sangue ou estímulo à produção de hemácias, e um anticoagulante até agravaria a hemorragia. Urticárias são reações alérgicas tratadas com anti-histamínicos. O inchaço de linfonodos faz parte da resposta imune e não depende da coagulação. A hipertensão está ligada à regulação da pressão nos vasos, não ao processo de coagulação descrito. Gabarito: A.",
+  "hash": "95aac4e1f5c91640",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q123": {
+  "explicacao": "A questão pede o que aconteceria aos planetas se o Sol fosse trocado por um buraco negro de mesma massa. Pela lei da gravitação universal, F = G·M·m/d², a força sobre cada planeta depende apenas da massa do corpo central e da distância até seu centro. O buraco negro tem a mesma massa do Sol, e os planetas continuam às mesmas distâncias, muito maiores que o horizonte de eventos de 3 km. Portanto, a força gravitacional sobre cada planeta seria exatamente a mesma, e as órbitas permaneceriam inalteradas. O buraco negro só exerce atração extrema muito perto dele, porque ali a distância ao centro é pequena; de longe, ele se comporta como qualquer massa igual. Obviamente, os planetas ficariam sem luz e calor, mas a pergunta trata do movimento orbital. As órbitas em espiral ou a queda em direção ao centro exigiriam força maior ou perda de energia, o que não ocorre. Oscilações aleatórias não têm causa física. A precessão mais rápida também exigiria alteração no campo gravitacional nas órbitas planetárias. Gabarito: E.",
+  "hash": "87eb87b57417b2ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q124": {
+  "explicacao": "A questão pede a propriedade química do ozônio responsável pelo risco de seu uso indiscriminado. O ozônio (O₃) é uma forma alotrópica do oxigênio e um oxidante muito poderoso. É justamente essa capacidade de retirar elétrons de outras substâncias que o torna eficaz para destruir microrganismos: ele oxida lipídios, proteínas e ácidos nucleicos das membranas e do material genético. O problema é que ele não distingue vírus de tecidos humanos; ao ser pulverizado sobre pessoas, oxida células das vias respiratórias, olhos e pele, causando irritação e lesões, além de gerar subprodutos de oxidação potencialmente tóxicos. Por isso o risco se deve à sua ação como oxidante. Catalisador é uma substância que acelera reações sem ser consumida, o que não descreve o O₃. Redutor seria uma espécie que doa elétrons, o comportamento oposto. O ozônio também não atua como ácido nem como base nesse contexto. Gabarito: B.",
+  "hash": "ac95cc181bd487c0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q125": {
+  "explicacao": "A questão pede a consequência da inativação aleatória do cromossomo X em mulheres heterozigotas para doenças recessivas ligadas ao X. Em cada célula feminina, no início do desenvolvimento, um dos dois X é inativado ao acaso, formando o corpúsculo de Barr. As células-filhas mantêm a mesma escolha, o que gera um mosaico: algumas regiões expressam o X materno e outras, o paterno. Numa heterozigota, umas células expressam o alelo normal e outras, o alelo recessivo. Dependendo da proporção de cada tipo em cada tecido, a mulher pode ser completamente normal, ter sintomas leves ou até apresentar sintomas mais evidentes. Essa variação no grau de manifestação do fenótipo entre portadoras do mesmo genótipo é a expressividade variável. Pleiotropia é um único gene afetando várias características. Mutação gênica é alteração no DNA, o que não ocorre na inativação. Interação gênica envolve vários genes atuando numa mesma característica. Penetrância incompleta é quando parte dos portadores simplesmente não manifesta o fenótipo, não a variação de grau. Gabarito: E.",
+  "hash": "a567b4190b836ad7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q126": {
+  "explicacao": "A questão pede a etapa do tratamento de água que retira a maior parte dos sólidos suspensos. Na coagulação, adicionam-se substâncias como sulfato de alumínio e cal, que formam hidróxido de alumínio, um material gelatinoso que agrega as partículas finas em flocos maiores e mais pesados; ainda não há remoção. Na decantação, a água fica em repouso em grandes tanques e esses flocos, mais densos, depositam-se no fundo pela ação da gravidade. É nessa etapa que a maior parte dos sólidos é retirada. A filtração vem depois e remove apenas as partículas menores que não decantaram, fazendo um acabamento. A coagulação apenas prepara a separação, agrupando as partículas. A desinfecção, geralmente com cloro, elimina microrganismos, não sólidos. A fluoretação adiciona flúor para prevenir cáries, sem relação com sólidos em suspensão. Gabarito: B.",
+  "hash": "088543520621ed8b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q127": {
+  "explicacao": "A questão pede a etapa do metabolismo energético afetada pela termogenina. O texto informa que essa proteína mitocondrial impede que os prótons cheguem à ATP sintetase, gerando calor. Na cadeia respiratória, na membrana interna da mitocôndria, o transporte de elétrons bombeia prótons H⁺ para o espaço intermembranas, criando um gradiente. Normalmente, esses prótons retornam à matriz através da ATP sintetase, e a energia desse fluxo é usada para produzir ATP; esse processo é a fosforilação oxidativa. A termogenina cria um caminho alternativo para os prótons voltarem, desacoplando o gradiente da síntese de ATP, e a energia é liberada como calor, que aquece o urso. A glicólise ocorre no citosol e não depende de gradiente de prótons. A fermentação lática também é citosólica e anaeróbia. O ciclo do ácido cítrico ocorre na matriz e gera NADH e FADH₂, mas não usa a ATP sintetase. A oxidação do piruvato converte piruvato em acetil-CoA, sem envolver esse gradiente. Gabarito: E.",
+  "hash": "ed1f71ccc2701cca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q128": {
+  "explicacao": "A questão pede a ordem das rotas da menor para a maior resistência, usando o modelo análogo à lei de Ohm, R = U/i. Pela tabela: rota 1, d.d.p. 510 e corrente 4 carros/s; rota 2, d.d.p. 608 e corrente 4; rota 3, d.d.p. 575 e corrente 3. Calculando: R₁ = 510/4 = 127,5. R₂ = 608/4 = 152. R₃ = 575/3 ≈ 191,7. Em ordem crescente: rota 1 (127,5), rota 2 (152) e rota 3 (191,7), logo 1, 2, 3. A rota 3 é a mais congestionada porque, apesar de d.d.p. intermediária, tem a menor corrente. A alternativa B coloca a rota 3 antes da 2, olhando apenas a d.d.p. A C inverte as rotas 1 e 2. A D põe a rota 3 primeiro, como se a menor corrente indicasse menor resistência. A E é a ordem decrescente, da mais para a menos congestionada. Gabarito: A.",
+  "hash": "2652aa17c30f683b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q129": {
+  "explicacao": "A questão pede qual espécie nitrogenada é favorecida em solo de pH mais baixo, ou seja, mais ácido, como ocorre com a chuva ácida. Um meio ácido tem alta concentração de íons H⁺. A amônia (NH₃) é uma base: em contato com H⁺ ela recebe um próton e se transforma em íon amônio, segundo NH₃ + H⁺ ⇌ NH₄⁺. Pelo princípio de Le Chatelier, aumentar a concentração de H⁺ desloca esse equilíbrio para a direita, favorecendo a formação de NH₄⁺. Além disso, a acidez prejudica as bactérias nitrificantes, que convertem amônio em nitrito e nitrato, o que também favorece o acúmulo de amônio. O N₂ é produzido pela desnitrificação, processo que não é favorecido diretamente pela acidez. O NH₃ é justamente consumido pelo H⁺. O nitrito (NO₂⁻) e o nitrato (NO₃⁻) dependem da nitrificação, inibida em solos ácidos, e são bases conjugadas que não são favorecidas por excesso de H⁺. Gabarito: C.",
+  "hash": "96a36a822e93e099",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q130": {
+  "explicacao": "A questão pede a consequência de um animal ter bastonetes mais sensíveis. O texto explica que os cones respondem à energia dos fótons, isto é, à frequência da luz, sendo responsáveis pela percepção de cores. Já os bastonetes respondem à quantidade de fótons, ou seja, à intensidade luminosa. Bastonetes mais sensíveis conseguem ser estimulados por um número menor de fótons, o que permite ao animal formar imagens mesmo com pouca luz. Portanto, ele enxergará bem em ambientes mal iluminados, como acontece com animais noturnos, a exemplo de corujas e gatos. O daltonismo está ligado a falhas nos cones, não nos bastonetes. Perceber cores fora do visível dependeria de cones sensíveis a outras frequências, como o ultravioleta. Necessitar de mais luminosidade é o oposto do efeito de bastonetes sensíveis. A distinção de cores, em qualquer ambiente, é função dos cones, e não dos bastonetes. Gabarito: C.",
+  "hash": "ab095910b5a58284",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q131": {
+  "explicacao": "A questão pede a característica estrutural comum aos compostos chamados aromáticos, como benzaldeído, salicilato de metila, anetol, vanilina, eugenol e cinamaldeído. O texto diz que esses compostos foram agrupados não pelo cheiro, mas por terem uma unidade estrutural específica relacionada à sua estrutura eletrônica. Observando as fórmulas, todas apresentam um anel de seis carbonos com ligações duplas alternadas, ou seja, elétrons π deslocalizados em ressonância: o anel benzênico. É essa estrutura que define a família dos compostos aromáticos na química orgânica. Ramificações não definem aromaticidade e aparecem em muitos compostos alifáticos. Insaturações existem em todos eles, mas também em alcenos e alcinos, que não são aromáticos; o que importa é o anel conjugado. Átomos de oxigênio estão presentes nesses exemplos, mas há aromáticos sem oxigênio, como o benzeno e o tolueno. Carbonos assimétricos não aparecem nessas estruturas e não têm relação com aromaticidade. Gabarito: C.",
+  "hash": "effda6c9d6b3fced",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q132": {
+  "explicacao": "A questão pede o princípio do Método Wolbachia no combate à dengue. O texto traz a pista central: a bactéria é intracelular, o vírus também precisa entrar nas células do mosquito para se reproduzir, e ambos necessitarão de recursos comuns. Quando dois organismos disputam os mesmos recursos limitados no mesmo hospedeiro, a relação ecológica é de competição. Com a Wolbachia ocupando as células e consumindo recursos, o vírus da dengue se multiplica menos no mosquito, a carga viral cai e a transmissão para humanos diminui. A predação não ocorre, pois a bactéria não se alimenta do vírus. A esterilização não é o mecanismo descrito; o texto inclusive diz que a bactéria é repassada pelo cruzamento entre os insetos, o que exige reprodução. A alteração no genótipo do mosquito não é mencionada: a bactéria é um organismo à parte, não modifica os genes do inseto. Inserir material genético do vírus na bactéria também não faz parte da técnica. Gabarito: D.",
+  "hash": "65343b5274720cfa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q133": {
+  "explicacao": "A questão pede o mecanismo usado para fazer o sistema imune atacar o tumor. O T. cruzi não patogênico foi modificado geneticamente para produzir também uma molécula típica das células tumorais. Ao combater o protozoário, o sistema imune entra em contato com essa molécula, que passa a ser reconhecida como antígeno. Células apresentadoras de antígeno exibem essa molécula aos linfócitos, que são ativados e produzem uma resposta específica, com memória imunológica. Depois disso, qualquer célula que carregue a molécula tumoral é atacada. Trata-se, portanto, da apresentação de um antígeno específico, princípio das vacinas. Autoimunidade é o ataque espontâneo do sistema imune a componentes normais do próprio corpo, não algo induzido contra um antígeno escolhido. Hipersensibilidade é uma resposta exagerada, como nas alergias. A resposta inata é inespecífica e não explicaria o reconhecimento da molécula tumoral em particular. Um processo anti-inflamatório reduziria a resposta de defesa, o contrário do desejado. Gabarito: D.",
+  "hash": "e0db2ad3c7156d78",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q134": {
+  "explicacao": "A questão pede a distância L entre o barco e a geleira, usando a diferença entre os tempos de chegada do som pela água e pelo ar. Os gráficos mostram que o sinal chega primeiro ao detector A, na água, e cerca de 12 s depois ao detector B, no ar (o sinal em B começa por volta de 226 s, e em A por volta de 214 s). Como o som percorre a mesma distância L nos dois meios: t ar − t água = Δt, ou seja, L/340 − L/1 540 = 12. Passo a passo: L × (1/340 − 1/1 540) = 12. O termo entre parênteses é (1 540 − 340)/(340 × 1 540) = 1 200/523 600 ≈ 0,002 29 s/m. Logo L ≈ 12/0,002 29 ≈ 5 240 m. A alternativa 339 000 m resulta de usar o instante absoluto do sinal em vez da diferença. A de 78 900 m também usa tempos absolutos, com a velocidade na água. A de 14 400 m corresponde a erros como multiplicar Δt por uma das velocidades de forma indevida. A de 100 m é pequena demais para atrasos de vários segundos. Gabarito: D.",
+  "hash": "f2a8defd3ae010b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q135": {
+  "explicacao": "A questão pede o fenômeno óptico que explica a luz engarrafada. A garrafa PET cheia de água fica presa no telhado, com uma parte exposta ao Sol e outra dentro da casa. A luz solar entra na garrafa pela parte de cima, passando do ar para o plástico e para a água; ao mudar de meio, ela muda de velocidade e de direção, isto é, sofre refração. A água funciona como uma espécie de lente que desvia os raios e os espalha para baixo e para os lados, levando luz para dentro do cômodo em várias direções, como uma lâmpada. O cloro serve apenas para evitar o crescimento de algas, mantendo a água transparente. A difração não é relevante, pois o texto destaca que o buraco é muito maior que o comprimento de onda da luz. A absorção reduziria a luz transmitida, o oposto da finalidade. A polarização não muda a quantidade de luz que chega ao ambiente. A reflexão devolveria a luz para cima, e não explica a passagem da luz através da água para dentro da casa. Gabarito: E.",
+  "hash": "931d2067aa9e14e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q136": {
+  "explicacao": "A questão pede quantas vezes a velocidade do pistão se anulou em 10 horas. A velocidade é V = T² − 4. Ela se anula quando T² − 4 = 0, isto é, T² = 4, logo T = 2 °C ou T = −2 °C. Basta então contar, no gráfico, quantas vezes a temperatura assume esses valores. Para T = 2: a curva começa em torno de 3, sobe a 4 e desce, cruzando 2 uma vez; mais adiante, sobe de valores negativos até cerca de 3,4, cruzando 2 de novo. São 2 vezes. Para T = −2: a curva oscila abaixo de zero e toca o valor −2 em três mínimos distintos. São 3 vezes. Total: 2 + 3 = 5 vezes. A alternativa 1 considera apenas um ponto isolado. A de 2 conta apenas T = 2, esquecendo a raiz negativa. A de 3 conta apenas T = −2. A de 4 resulta de esquecer um dos cruzamentos ou um dos mínimos. Gabarito: E.",
+  "hash": "7b76d8d28c7a2e95",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q137": {
+  "explicacao": "A questão pede a probabilidade de o campeão ser o time que venceu a primeira partida. Suponha que o time A venceu o jogo 1. Ele agora precisa de mais 3 vitórias antes que o time B consiga 4. Um truque útil: imagine que todas as 7 partidas fossem disputadas mesmo após haver campeão; isso não altera quem é campeão. Restam 6 partidas, e A será campeão se vencer pelo menos 3 delas (com 3, A totaliza 4 e B fica com no máximo 3). Cada partida tem probabilidade ½, então cada sequência de 6 jogos tem probabilidade 1/64. Número de sequências com pelo menos 3 vitórias de A: C(6,3) + C(6,4) + C(6,5) + C(6,6) = 20 + 15 + 6 + 1 = 42. Logo P = 42/64. A alternativa 35/64 não corresponde a nenhuma contagem correta. A de 40/64 surge de erros de soma das combinações. A de 44/64 também. A de 52/64 resulta de exigir apenas 2 vitórias ou contar sequências demais. Gabarito: C.",
+  "hash": "7b2c3c7627417691",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q138": {
+  "explicacao": "A questão pede a mediana dos lucros, ou seja, apenas dos meses em que a receita superou a despesa. Pelo gráfico, calculando receita menos despesa: janeiro 6 − 3 = 3; fevereiro 4 − 5 = −1 (prejuízo); março 3 − 2 = 1; abril 5 − 6 = −1 (prejuízo); maio 6 − 1 = 5; junho 5 − 2 = 3; julho 6 − 4 = 2; agosto 2 − 4 = −2 (prejuízo); setembro 7 − 3 = 4; outubro 2 − 4 = −2 (prejuízo); novembro 8 − 7 = 1; dezembro 6 − 2 = 4. Os lucros são: 3, 1, 5, 3, 2, 4, 1, 4. Em ordem: 1, 1, 2, 3, 3, 4, 4, 5. São 8 valores, então a mediana é a média dos dois centrais (4º e 5º): (3 + 3)/2 = 3,0. A alternativa 1,5 pode surgir ao incluir os prejuízos na lista. A de 2,0 também vem de misturar valores negativos. A de 2,9 é próxima da média dos lucros, não da mediana. A de 5,5 corresponde a tomar a mediana das receitas, sem subtrair as despesas. Gabarito: D.",
+  "hash": "0cc556d879c28501",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q139": {
+  "explicacao": "A questão pede a altura e a largura máximas do refrigerador, em metros. Primeiro, convertemos as medidas da planta pela escala 1 : 50, em que 1 cm no desenho equivale a 50 cm reais. Altura do espaço: 3,8 × 50 = 190 cm. Largura do espaço: 1,6 × 50 = 80 cm. Agora aplicamos as folgas exigidas pelo fabricante: 10 cm na parte superior e 10 cm em cada lateral. Altura máxima: 190 − 10 = 180 cm = 1,80 m (só há folga em cima, já que o aparelho fica apoiado no chão). Largura máxima: 80 − 10 − 10 = 60 cm = 0,60 m. A alternativa B desconta apenas uma lateral na largura. A C não desconta nenhuma folga. A D e a E acrescentam as folgas em vez de subtraí-las, ou fazem a conversão de escala de forma errada. Gabarito: A.",
+  "hash": "8f11547d88ba697c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q140": {
+  "explicacao": "A questão pede o número mínimo de dias para todo o torneio, com descanso de pelo menos 3 dias entre jogos de uma mesma equipe; ou seja, se um time joga no dia d, só volta a jogar no dia d + 4. Fase de grupos: em cada grupo de 4 equipes, cada uma joga 3 partidas. Organizando duas partidas simultâneas por rodada no grupo, todos os times jogam nos dias 1, 5 e 9. A fase de grupos termina no dia 9. Oitavas de final: os classificados jogaram no dia 9, então jogam no dia 13. Quartas: dia 17. Semifinais: dia 21. Final: dia 25. Assim, são necessários no mínimo 25 dias. A alternativa 22 não respeita o intervalo em alguma fase. A de 28 acrescenta um intervalo a mais do que o necessário. A de 48 e a de 64 correspondem a contar partidas ou realizar uma partida por dia, sem jogos simultâneos. Gabarito: B.",
+  "hash": "b5499c8851013cfb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q141": {
+  "explicacao": "A questão pede a probabilidade de Pedro ganhar em uma das duas próximas rodadas. Na cartela, ele tem marcados 03, 48 e 27 na primeira linha, faltando apenas o 12; também tem 27 e 07 na quarta coluna, faltando 05 e 45; e 03 e 07 na diagonal principal, faltando 11 e 19. Restam 46 números. Quinta rodada: ele ganha se sair o 12, com probabilidade 1/46. Sexta rodada (sem ter ganhado na quinta, restam 45 números): se na quinta saiu 05 ou 45 (2/46), ele vence com o 12 ou com o outro número da coluna, 2/45 de chance; se saiu 11 ou 19 (2/46), vence com o 12 ou o outro da diagonal, 2/45; se saiu qualquer um dos outros 41 números (41/46), só vence com o 12, 1/45. Somando: 1/46 + (4/46)(2/45) + (41/46)(1/45) = 1/46 + (8 + 41)/(46 × 45) = 1/46 + 49/(46 × 45). A alternativa A ignora que a sexta rodada depende do resultado da quinta e as possibilidades de coluna e diagonal. As demais alternativas contabilizam de modo incompleto ou excessivo esses casos. Gabarito: E.",
+  "hash": "2df95c2ba3c9d80c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q142": {
+  "explicacao": "A questão pede o menor número de cores para que existam mais de 1 000 configurações. Pelo princípio multiplicativo, contamos cada escolha: modelos, 7; motores, 2; opcionais, cada um dos 3 itens pode ser incluído ou não, então 2 × 2 × 2 = 2³ = 8 possibilidades (incluindo nenhum e todos). Sem as cores, são 7 × 2 × 8 = 112 configurações. Com c cores, o total é 112·c, e precisamos de 112·c > 1 000, ou seja, c > 8,93. Com 8 cores: 112 × 8 = 896, insuficiente. Com 9 cores: 112 × 9 = 1 008, que supera 1 000. Logo, o mínimo é 9 cores. A alternativa 8 dá apenas 896 configurações. A de 11 resulta de contar os opcionais como 7 (esquecendo o caso de nenhum) e arredondar. A de 18 e a de 24 surgem de contar os opcionais apenas como 3 ou 4 possibilidades, o que exigiria mais cores. Gabarito: B.",
+  "hash": "6b3de585b802a708",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q143": {
+  "explicacao": "A questão pede qual planificação, do mesmo tipo da Figura 1, corresponde ao cubo da Figura 2, em que três faces têm um quadrado cinza ocupando um quarto da face, e esses três quadrados compartilham um mesmo vértice do cubo. A ideia é que as três faces pintadas são exatamente as três que se encontram nesse vértice, e em cada uma delas o quadrado cinza fica no canto que toca esse vértice. Ao planificar, é preciso identificar quais faces da Figura 1 são adjacentes duas a duas e quais arestas se unem ao montar o cubo. Os três quadrados cinza devem ficar em cantos que, depois de dobrada a planificação, coincidam num único ponto. A alternativa D posiciona os três quadrados nas faces corretas e nos cantos que se juntam no mesmo vértice. Nas demais alternativas, algum quadrado está em uma face que não toca esse vértice, ou está num canto que, ao montar o cubo, ficaria afastado dos outros dois, ou ainda há faces opostas pintadas, o que impossibilita um vértice comum. Gabarito: D.",
+  "hash": "b27ade0475bd06dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q144": {
+  "explicacao": "A questão pede o dígito verificador da agência 0100. Aplicando a regra: N₁ = 0, N₂ = 1, N₃ = 0, N₄ = 0. S = 5·N₁ + 4·N₂ + 3·N₃ + 2·N₄ = 5·0 + 4·1 + 3·0 + 2·0 = 4. Agora, o resto da divisão de 4 por 11: como 4 é menor que 11, o quociente é 0 e o resto R = 4. Por fim, N₅ = 11 − R = 11 − 4 = 7. A alternativa 0 resultaria de um resto igual a 11, impossível, ou de confundir a regra. A de 6 vem de usar um peso errado, por exemplo 5 para N₂ (S = 5). A de 8 vem de usar peso 3 para N₂ (S = 3). A de 9 vem de usar peso 2 para N₂ (S = 2), invertendo a ordem dos pesos. Gabarito: C.",
+  "hash": "79cb609c77b7bd79",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q145": {
+  "explicacao": "[REVISAR] Pela leitura direta, o pacote especial teria 500 000 moedas no total; o gabarito 400 000 só aparece comparando com um único pacote básico. A questão pede a quantidade de moedas do pacote especial mantendo a proporção do básico. No pacote básico, a razão é 2 000 gemas para 100 000 moedas, ou seja, 1 gema para cada 50 moedas. Com R$ 100,00, o cliente compraria dois pacotes básicos, com 4 000 gemas; o pacote especial tem 6 000 gemas a mais, totalizando 4 000 + 6 000 = 10 000 gemas. Mantendo a proporção de 50 moedas por gema: 10 000 × 50 = 500 000 moedas no pacote especial. Em relação ao conteúdo de moedas de um pacote básico (100 000), isso representa 500 000 − 100 000 = 400 000 moedas a mais, valor que corresponde à alternativa oficial. A alternativa 50 000 e a de 100 000 não acompanham o aumento de gemas. A de 200 000 é o total de dois pacotes básicos, sem o bônus. A de 300 000 corresponde ao acréscimo em relação a dois pacotes básicos. Gabarito: E.",
+  "hash": "d895c6b2c75596a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q146": {
+  "explicacao": "A questão pede o maior número total de voltas para percorrer exatamente 5 000 m. Primeiro, descobrimos o tamanho dos circuitos. Seja a o circuito maior e b o menor: 3a + 2b = 1 800 e 2a + b = 1 100. Da segunda, b = 1 100 − 2a. Substituindo: 3a + 2(1 100 − 2a) = 1 800, 3a + 2 200 − 4a = 1 800, logo a = 400 m e b = 1 100 − 800 = 300 m. No segundo dia: 400x + 300y = 5 000, ou seja, 4x + 3y = 50, com x e y inteiros não negativos. Para maximizar x + y, usamos ao máximo o circuito menor. Com x = 0, y = 50/3, não inteiro. Com x = 1, y = 46/3, não inteiro. Com x = 2, y = 42/3 = 14. Total: 2 + 14 = 16 voltas. Outras soluções têm menos voltas: x = 5, y = 10 dá 15; x = 8, y = 6 dá 14; x = 11, y = 2 dá 13. As alternativas 10, 13, 14 e 15 correspondem a soluções que não maximizam o número de voltas ou a erros de cálculo. Gabarito: E.",
+  "hash": "e57db695db00b91c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q147": {
+  "explicacao": "A questão pede a classificação do aumento percentual de compradores. Primeira divulgação: rede A, 3 000 visualizações, 10% clicaram (300), 3% compraram: 9 compradores. Rede B, 1 000 visualizações, 30% clicaram (300), 2% compraram: 6 compradores. Total: 15. Segunda divulgação, com R$ 300,00 a mais em cada rede, e novas visualizações proporcionais ao investimento. Rede A: o investimento original de R$ 100,00 gerou 3 000 visualizações; R$ 300,00 gera 9 000 novas, com 900 cliques e 3% de compras: 27 compradores. Rede B: R$ 200,00 gerou 1 000; R$ 300,00 gera 1 500 novas, com 450 cliques e 2% de compras: 9 compradores. Total da segunda divulgação: 36 compradores. Aumento em relação à primeira: (36 − 15)/15 = 21/15 = 1,4 = 140%. Pelo critério, 100% < 140% ≤ 150% é bom. A alternativa A e a B correspondem a aumentos de até 100%, abaixo do obtido. A D exigiria acima de 150%. A E seria o caso de comparar 36 com 15 diretamente como 240%, mas isso não é o aumento. Gabarito: C.",
+  "hash": "cb1240556d5ca021",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q148": {
+  "explicacao": "A questão pede a relação entre as luminosidades de E e F pela lei L = c·R²·T⁴. Dados: R_E = R_F/2 e T_E = 2·T_F. Substituindo na expressão de E: L_E = c·(R_F/2)²·(2T_F)⁴. Calculando cada parte: (R_F/2)² = R_F²/4 e (2T_F)⁴ = 16·T_F⁴. Logo L_E = c·R_F²·T_F⁴ × 16/4 = 4·c·R_F²·T_F⁴ = 4·L_F. O dobro da temperatura multiplica a luminosidade por 16, e a metade do raio a divide por 4, resultando em fator 4. A alternativa L_F/2 trata as grandezas como lineares e inverte o efeito. A de L_F/4 considera só o efeito do raio. A L_E = L_F supõe que os efeitos se compensam. A de 8L_F usa expoente errado em alguma das grandezas, como T³ ou R¹. Gabarito: D.",
+  "hash": "d5f136a5abf36789",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q149": {
+  "explicacao": "A questão pede a mediana do número de crianças por família. Pela tabela, as frequências são: 0 criança, 100 famílias; 1 criança, 400; 2 crianças, 200; 3 crianças, 150; 4 crianças, 100; 5 crianças, 50. Total: 100 + 400 + 200 + 150 + 100 + 50 = 1 000 famílias. Com 1 000 valores (número par), a mediana é a média do 500º e do 501º valores, em ordem crescente. Frequências acumuladas: até 0 crianças, 100; até 1 criança, 500; até 2 crianças, 700. Assim, o 500º valor é 1 e o 501º já é 2. Mediana = (1 + 2)/2 = 1,5. A alternativa 1,0 considera apenas o 500º valor ou a moda. A de 1,9 e a de 2,1 estão próximas da média, que é 1 900/1 000 = 1,9, e não da mediana. A de 2,5 é a mediana dos valores 0 a 5, sem considerar as frequências. Gabarito: B.",
+  "hash": "75d5ca20aaec62df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q150": {
+  "explicacao": "A questão pede em quais ginásios o saque bateria no teto. A trajetória é y = −x²/6 − 7x/3 + 12, com y medido a partir de um eixo situado 1,5 m acima do piso. Precisamos da altura máxima, o y do vértice. Com a = −1/6 e b = −7/3: x do vértice = −b/(2a) = (7/3)/(−1/3) = −7. Substituindo: y = −(49)/6 − (7 × (−7))/3 + 12 = −49/6 + 49/3 + 12 = −49/6 + 98/6 + 12 = 49/6 + 12 ≈ 8,17 + 12 = 20,17 m. Somando 1,5 m do eixo ao piso: altura máxima ≈ 21,67 m. O saque é invalidado onde o teto é menor que isso: ginásios I (17 m), II (18 m), III (19 m) e IV (21 m). No ginásio V (40 m), a bola não toca o teto. A alternativa A, a B e a C deixam de fora ginásios com teto abaixo de 21,67 m, o que acontece ao usar só o termo independente (12) ou esquecer os 1,5 m. A E inclui o ginásio V, cujo teto está bem acima da altura máxima. Gabarito: D.",
+  "hash": "5f25bda7d692205c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q151": {
+  "explicacao": "A questão pede quanto tempo durou a atividade de quem ingeriu 1,7 L de água seguindo a recomendação. A perda de massa é de 1,5 kg por hora, e a água recomendada é 40% a mais que a massa perdida, ou seja, 1,4 vez essa massa. Como 1 L de água tem 1 kg, para t horas de atividade a água recomendada é 1,4 × 1,5 × t = 2,1·t litros. Igualando a 1,7 L: 2,1·t = 1,7, logo t = 1,7/2,1 ≈ 0,81 h. Convertendo para minutos: 0,81 × 60 ≈ 48,6 minutos. Esse valor está entre 45 e 55 minutos. A alternativa A corresponderia a, no máximo, 1,05 L de água. A B daria entre cerca de 1,2 L e 1,6 L, menos que o ingerido. A D e a E exigiriam mais de 2,1 L e mais de 2,45 L, respectivamente. Gabarito: C.",
+  "hash": "68f8aabab4396d86",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q152": {
+  "explicacao": "A questão pede quantas fileiras caberão após ampliar a sala ao máximo para os fundos, dentro do limite aceitável da ABNT. Com tela de largura L = 12 m: a distância mínima até a primeira fileira é 60% de L, 0,6 × 12 = 7,2 m, posição em que está a primeira fileira na sala montada conforme a norma. O limite aceitável para a última fileira é 2,9 × L = 2,9 × 12 = 34,8 m. As fileiras ficam a 1 m umas das outras. Assim, as posições possíveis são 7,2 m; 8,2 m; 9,2 m; e assim por diante, até não ultrapassar 34,8 m. O espaço disponível entre a primeira e a última é 34,8 − 7,2 = 27,6 m, que comporta 27 intervalos inteiros de 1 m. Com 27 intervalos, temos 27 + 1 = 28 fileiras, a última a 34,2 m. A alternativa 26 e a 27 esquecem de contar a primeira fileira ou usam um limite menor. A de 29 ultrapassaria 34,8 m. A de 35 desconsidera a distância mínima da primeira fileira. Gabarito: C.",
+  "hash": "f9b2b0aa2afa9e51",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q153": {
+  "explicacao": "A questão pede o novo raio do cone de chocolate com volume 19% menor e mesma altura. O volume do cone é V = (1/3)·π·r²·h. O cone original tem diâmetro 8 cm, então r = 4 cm, e altura 10 cm. O novo volume é 81% do original: V' = 0,81·V. Como a altura não muda, o volume é proporcional a r²: r'² = 0,81·r². Tirando a raiz: r' = √0,81 · r = 0,9 × 4 = 3,6 cm. A alternativa 1,52 não corresponde a uma relação correta. A de 3,24 aplica o fator 0,81 diretamente ao raio (0,81 × 4), esquecendo que o volume depende do quadrado do raio. A de 6,48 aplica 0,81 ao diâmetro, 8 × 0,81. A de 7,20 aplica 0,9 ao diâmetro, dando a medida do novo diâmetro e não do raio. Gabarito: C.",
+  "hash": "c78078fc7f2d3b21",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q154": {
+  "explicacao": "A questão pede o número de vagas criadas em janeiro de 2012. Em janeiro de 2013 foram criadas 28 900 vagas, e esse número representa uma queda de 75% em relação a 2012. Se x é o número de 2012, uma queda de 75% significa que restaram 25% de x. Logo, 0,25·x = 28 900, e x = 28 900/0,25 = 28 900 × 4 = 115 600 vagas. A alternativa 16 514 não corresponde a uma relação coerente. A de 86 700 calcula 75% de 115 600, ou seja, só a queda. A de 441 343 e a de 448 568 são da ordem de grandeza das admissões e desligamentos, e não das vagas líquidas criadas. Uma armadilha comum seria calcular 28 900 × 1,75 = 50 575, aplicando 75% sobre o valor de 2013, o que não é a mesma coisa. Gabarito: C.",
+  "hash": "710e9386dc363b78",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q155": {
+  "explicacao": "A questão pede de quantas maneiras se podem escolher 2 apartamentos de um mesmo andar em que ambos tenham pelo menos um quarto com sol da manhã. Pelas regras, os apartamentos terminados em 1 ou 2 têm os dois quartos com sol da manhã, e os terminados em 3, 4, 5 ou 6 têm um quarto com sol da manhã; os terminados em 7 ou 8 só têm sol à tarde e ficam excluídos. Assim, em cada andar há 6 apartamentos válidos (finais 1 a 6). A ordem de escolha não importa, então usamos combinação: C(6,2) = 6!/((6 − 2)!·2!) = 15 maneiras por andar. Como há 9 andares e os dois apartamentos devem estar no mesmo andar, multiplicamos: 9 × 6!/((6 − 2)!·2!) = 9 × 15 = 135. As demais alternativas usam arranjo em vez de combinação (contando a ordem), incluem apartamentos de finais 7 e 8, consideram apenas os de final 1 e 2, ou combinam apartamentos de andares diferentes. Gabarito: B.",
+  "hash": "5ba685f719d0550b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q156": {
+  "explicacao": "A questão pede a figura obtida ao desdobrar o papel recortado. Ao dobrar o quadrado duas vezes, obtemos quatro camadas sobrepostas, e o ponto O corresponde ao centro do quadrado original. O arco tem centro em R, sobre OM, a ¼ de OM a partir de O, e raio ½ de OM. Assim, o círculo cobre o ponto O e vai até ¾ de OM em direção a M, não chegando à borda. Ao recortar e retirar o setor, retiramos de todas as camadas a mesma região. Quando desdobramos, cada dobra funciona como um eixo de simetria, e a região retirada é refletida nos quatro quartos do quadrado. Resultado: um furo central formado pela união de quatro arcos de circunferência iguais, dispostos simetricamente em torno do centro, dando uma forma de quatro lobos arredondados, com pequenas reentrâncias onde os arcos se encontram, sem tocar as bordas do papel. É a figura da alternativa C. As outras mostram um furo circular perfeito, furos separados, cortes que alcançam as bordas ou apenas dois lobos, que não respeitam a simetria das duas dobras. Gabarito: C.",
+  "hash": "6ef4e1c5ebeed311",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q158": {
+  "explicacao": "A questão pede qual proposta engloba o mês com mais infectados segundo p(t) = −t² + 10t + 24. É uma função quadrática com coeficiente de t² negativo, então o gráfico é uma parábola voltada para baixo, com máximo no vértice. O t do vértice é t = −b/(2a) = −10/(2 × (−1)) = 5. No mês 5, p(5) = −25 + 50 + 24 = 49 infectados, o maior valor do ano. Conferindo vizinhos: p(4) = −16 + 40 + 24 = 48 e p(6) = −36 + 60 + 24 = 48, menores que 49. A proposta que inclui t = 5 é a III, com 5 ≤ t ≤ 6. A proposta I cobre os meses 1 e 2, com poucos infectados. A II cobre os meses 3 e 4, próximos mas sem o máximo. A IV cobre os meses 7 a 9, já em queda. A V cobre os meses 10 a 12, quando o número de casos é o mais baixo. Gabarito: C.",
+  "hash": "32cf0312c7966e65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q159": {
+  "explicacao": "A questão pede a sequência de treinos da 24ª semana. A sequência completa tem 13 dias: T₁ R R T₂ R R T₃ R T₄ R R T₅ R, e depois recomeça. A 24ª semana vai do dia 23 × 7 + 1 = 162 ao dia 168. Dividindo por 13: 161 = 13 × 12 + 5, então o dia 161 ocupa a 5ª posição do ciclo. Assim, os dias 162 a 168 ocupam as posições 6 a 12. Pela sequência: posição 6, R; 7, T₃; 8, R; 9, T₄; 10, R; 11, R; 12, T₅. Logo, a 24ª semana é R T₃ R T₄ R R T₅. A alternativa A começa uma posição adiante, no 7º dia do ciclo. A C e a D estão deslocadas mais adiante na sequência. A E corresponde a outro trecho do ciclo, que inclui o recomeço em T₁. Gabarito: B.",
+  "hash": "4fced52212cb1756",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q160": {
+  "explicacao": "A questão pede a projeção ortogonal, sobre o plano da base, do trajeto fechado do robô. O robô sai do centro P da face superior, passa pelo ponto médio de uma aresta e chega ao centro de uma face lateral; alternando conversões à esquerda e à direita, ele percorre seis faces e volta a P, formando um circuito fechado sobre a superfície do cubo. Na projeção sobre a base: os centros das faces superior e inferior caem no centro do quadrado da base; os centros das faces laterais caem nos pontos médios das arestas da base; os pontos médios de arestas verticais caem nos vértices da base; e os pontos médios das arestas horizontais caem nos pontos médios dos lados da base. Ligando esses pontos na ordem do trajeto, obtemos dois pequenos quadrados, cada um ocupando um quarto da base, em quadrantes opostos, tocando-se apenas no centro. Em perspectiva, eles aparecem como dois paralelogramos diagonalmente opostos, como na alternativa A. As demais alternativas mostram quadrados em quadrantes vizinhos, um único quadrado, ou trajetos que não correspondem à alternância de conversões. Gabarito: A.",
+  "hash": "10bb8bca894921b8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q161": {
+  "explicacao": "A questão pede a área real da varanda em L. Na planta, em escala 1 : 50, a varanda pode ser dividida em dois retângulos. Retângulo superior: 16 cm por 5 cm, área 80 cm². Faixa lateral esquerda, abaixo desse retângulo: largura 4 cm e altura 18,4 − 5 = 13,4 cm, área 4 × 13,4 = 53,6 cm². Área total na planta: 80 + 53,6 = 133,6 cm². Na escala 1 : 50, as medidas lineares são multiplicadas por 50 e as áreas por 50² = 2 500. Área real: 133,6 × 2 500 = 334 000 cm². Como 1 m² = 10 000 cm², a área é 33,40 m². A alternativa 66,80 usa um fator errado ou duplica a faixa. A de 89,24 soma 16 × 5 com 4 × 18,4 sem descontar a sobreposição e erra a conversão. A de 133,60 é a área do desenho em cm², sem conversão. A de 534,40 resulta de erros na conversão da escala. Gabarito: A.",
+  "hash": "f7d272d6c1c69cec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q162": {
+  "explicacao": "A questão pede quanto faltará para a meta de R$ 77 000,00 ao final do mês. O gráfico mostra o volume de vendas em blocos de dez dias. Setor adulto: 18 000 nos dez primeiros dias e 15 000 entre os dias 10 e 20, queda de 3 000 a cada dez dias; mantida a tendência linear, no terceiro período serão 12 000. Setor infantil: 8 000 e 7 000, queda de 1 000; no terceiro período, 6 000. Total do mês: adulto 18 000 + 15 000 + 12 000 = 45 000; infantil 8 000 + 7 000 + 6 000 = 21 000. Soma: 66 000. Faltarão 77 000 − 66 000 = 11 000 reais. A alternativa 5 000 e a de 7 000 resultam de supor vendas maiores no terceiro período, como manter os valores constantes ou somar errado. A de 18 000 considera apenas o último período de vendas como total. A de 29 000 compara a meta com dois períodos apenas, sem a projeção. Gabarito: C.",
+  "hash": "5cdd6b7f089dd9c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q163": {
+  "explicacao": "A questão pede o maior reajuste possível para os doutores, de modo que o salário médio não passe de R$ 12 240,00. Com 100 professores, a folha total deve ser no máximo 100 × 12 240 = 1 224 000 reais. Mestres: com 25% de aumento, cada um passa a receber 8 000 × 1,25 = 10 000; os 60 mestres somam 600 000 reais. Sobram para os doutores: 1 224 000 − 600 000 = 624 000 reais. Dividindo pelos 40 doutores: 624 000/40 = 15 600 reais cada. O reajuste é 15 600/12 000 = 1,30, ou seja, 30%. A alternativa 14,4 e a de 20,7 vêm de cálculos que não consideram a média ponderada pelo número de professores. A de 22,0 corresponde a calcular sobre a média simples dos dois salários. A de 37,5 decorre de não aplicar o aumento dos mestres ou de dividir o excedente apenas por parte do grupo. Gabarito: D.",
+  "hash": "590eecf16db7dd97",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q164": {
+  "explicacao": "A questão pede o volume liberado em cada acionamento. Os 360 mL duram 60 dias com acionamentos a cada 48 minutos. Passo 1, tempo total em minutos: 60 dias × 24 h × 60 min = 86 400 minutos. Passo 2, número de acionamentos: 86 400/48 = 1 800. Passo 3, volume por acionamento: 360/1 800 = 0,2 mL. A alternativa 0,125 resulta de erros na contagem de acionamentos, como usar 2 880. A de 4,800 confunde com 48 minutos dividido por 10 ou erra a conversão de tempo. A de 6,000 é o consumo diário em mL (360/60). A de 12,000 não corresponde a nenhuma etapa correta do cálculo. Gabarito: B.",
+  "hash": "0e4f99bb474f3c94",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q165": {
+  "explicacao": "A questão pede quantos dias do planeta Z cabem em um ano de Z. Dados: 1 dia de Z = 73 dias terrestres; 2 anos de Z = 1 ano terrestre = 365 dias terrestres. Então, 1 ano de Z = 365/2 = 182,5 dias terrestres. Para converter para dias de Z, dividimos pela duração do dia de Z: 182,5/73 = 2,5 dias de Z. Ou seja, o planeta gira tão devagar que, enquanto completa uma volta ao redor de seu Sol, gira apenas duas vezes e meia em torno de si mesmo. A alternativa 10,0 não corresponde a uma conta coerente. A de 730,0 é o dobro de 365, como se um ano de Z fossem dois terrestres. A de 13 322,5 multiplica 182,5 por 73 em vez de dividir. A de 53 290,0 multiplica 730 por 73. Gabarito: A.",
+  "hash": "7a85df584c03ced3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q166": {
+  "explicacao": "A questão pede quantas ultrapassagens fez o carro que chegou em último. No gráfico distância × tempo, chega em último quem atinge 100 m no maior tempo: é a reta que chega a 100 m em 15 s, representando movimento com velocidade constante. Uma ultrapassagem feita por esse carro ocorreria se sua reta, estando abaixo de outra curva, passasse a ficar acima dela. Logo no início, as duas curvas que começam bem achatadas (carros que aceleram a partir do repouso) ficam abaixo da reta: o carro de velocidade constante está à frente delas. Depois, essas curvas cruzam a reta de baixo para cima, ou seja, são esses carros que ultrapassam o último colocado. As outras duas curvas ficam acima da reta o tempo todo. Em nenhum momento a reta passa de baixo para cima de outra curva, então o último colocado não fez ultrapassagem alguma. As alternativas de 1 a 4 contam como ultrapassagens os cruzamentos em que ele foi ultrapassado, ou consideram outro carro. Gabarito: A.",
+  "hash": "c1aba067232db4c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q167": {
+  "explicacao": "A questão pede a diferença entre o valor cobrado pela loja e o calculado pela cliente. Preço promocional: R$ 1 000,00. Preço normal: 10% maior, 1 000 × 1,10 = R$ 1 100,00. No cartão da loja, há 2% de desconto sobre o preço normal: 1 100 × 0,98 = R$ 1 078,00, valor apresentado pela loja. A cliente pensou que +10% e −2% equivaleriam a +8% sobre o promocional: 1 000 × 1,08 = R$ 1 080,00. O erro está em somar porcentagens que incidem sobre bases diferentes; o correto é multiplicar os fatores, 1,10 × 0,98 = 1,078, ou seja, aumento de 7,8%. Assim, o valor da loja foi 1 080 − 1 078 = R$ 2,00 menor. A alternativa B confunde com os 10% de diferença entre preços. A C não corresponde a nenhum cálculo coerente. A D e a E indicam valor maior, mas o da loja é menor. Gabarito: A.",
+  "hash": "87dffbce577ca54a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q168": {
+  "explicacao": "A questão pede a sequência de comandos (E, F, D) que descreve o caminho destacado, sempre em relação ao sentido do carro. O carro sai de P subindo, como indica a seta. Primeiro cruzamento: o caminho vira para leste, à direita, D. Segue em frente por um cruzamento, F, e no seguinte vira para o norte, à esquerda, E. Subindo, passa por um cruzamento, F, e no próximo vira para leste, à direita, D. Anda um quarteirão e vira para o sul, outra vez à direita, D. Desce um quarteirão e vira para leste; indo para o sul, virar para leste é virar à esquerda, E. Anda um quarteirão e vira para o norte, à esquerda, E. Sobe passando por dois cruzamentos, F e F, e no último vira para leste, à direita, D, chegando a Q. Sequência: D F E F D D E E F F D. A alternativa A troca o segundo comando por D. A B troca uma das conversões da parte central. A D e a E trocam direita por esquerda, como se o carro descesse. Gabarito: C.",
+  "hash": "4185edb7727b5e4a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q169": {
+  "explicacao": "A questão pede o modelo de caixa-d'água com maior volume. O volume de um cilindro é V = A_b × P, e a área da base é π·r². Tomando o modelo I como referência, V_I = A_b·P. Modelo II: 2P e A_b/2, V = 2 × ½ = 1 vez V_I. Modelo III: 2P e raio r/2; a área fica (r/2)² = r²/4, ou seja, A_b/4; V = 2 × ¼ = ½ de V_I. Modelo IV: P/2 e 2A_b, V = ½ × 2 = 1 vez V_I. Modelo V: P/2 e raio 2r; a área fica (2r)² = 4r², ou seja, 4A_b; V = ½ × 4 = 2 vezes V_I. O maior volume é o do modelo V, o dobro do modelo I. O modelo I tem volume de referência. O II e o IV têm o mesmo volume do I. O III tem metade do volume, pois reduzir o raio pela metade divide a área por 4. Gabarito: E.",
+  "hash": "5f4623b8ce2d1ea9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q170": {
+  "explicacao": "A questão pede o ano de maior rentabilidade, isto é, a maior razão entre aluguel mensal e valor de mercado. Atenção à unidade: o valor do imóvel está em milhar de reais. 2005: 630/90 000 = 0,0070 = 0,70%. 2007: 960/120 000 = 0,0080 = 0,80%. 2009: 1 350/270 000 = 0,0050 = 0,50%. 2011: 1 800/450 000 = 0,0040 = 0,40%. 2013: 3 240/540 000 = 0,0060 = 0,60%. A maior rentabilidade ocorreu em 2007, com 0,80%. Em 2005, o imóvel era barato, mas o aluguel também, rendendo 0,70%. Em 2009 e 2011, o valor do imóvel subiu mais rápido que o aluguel, derrubando a rentabilidade. Em 2013, o aluguel é o maior em valor absoluto, mas a razão é só 0,60%; olhar apenas o maior aluguel é a armadilha dessa alternativa. Gabarito: B.",
+  "hash": "2a37f1d09cab0a40",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q171": {
+  "explicacao": "A questão pede qual jogador precisa de menos pontos no quinto jogo para atingir média 18 em cinco jogos. Média 18 em 5 jogos exige um total de 18 × 5 = 90 pontos. Somando os quatro primeiros jogos pelo quadro: I: 12 + 25 + 20 + 20 = 77, precisa de 90 − 77 = 13. II: 12 + 12 + 27 + 20 = 71, precisa de 19. III: 14 + 14 + 17 + 26 = 71, precisa de 19. IV: 15 + 18 + 21 + 21 = 75, precisa de 15. V: 22 + 15 + 23 + 15 = 75, precisa de 15. O jogador I precisa de apenas 13 pontos, a menor quantidade. Os jogadores II e III precisam de 19 pontos. Os jogadores IV e V precisam de 15 pontos, mais que o jogador I. Gabarito: A.",
+  "hash": "293bf3a11905e298",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q172": {
+  "explicacao": "A questão pede o projeto de piscina com menor área de revestimento, somando fundo e quatro paredes. Para profundidade p, largura l e comprimento c: área = l·c (fundo) + 2·p·l + 2·p·c (paredes) = l·c + 2p(l + c). Todos os projetos têm volume 90 m³ (90 000 L). Projeto I: 2 × 25 = 50; paredes 2 × 1,8 × 27 = 97,2; total 147,2 m². Projeto II: 5 × 9 = 45; paredes 2 × 2 × 14 = 56; total 101 m². Projeto III: 6 × 15 = 90; paredes 2 × 1 × 21 = 42; total 132 m². Projeto IV: 15 × 4 = 60; paredes 2 × 1,5 × 19 = 57; total 117 m². Projeto V: 3 × 12 = 36; paredes 2 × 2,5 × 15 = 75; total 111 m². A menor área é a do projeto II, com 101 m². O projeto I é o mais alongado, com paredes muito extensas. O III tem o maior fundo. O IV e o V ficam acima de 110 m². Gabarito: B.",
+  "hash": "323ec6e60ec85fc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q173": {
+  "explicacao": "A questão pede o total de candidatos inscritos. Em cada curso, o número de candidatos é o número de vagas multiplicado pela relação candidatos por vaga. Administração: 30 × 6 = 180. Ciências Contábeis: 40 × 6 = 240. Engenharia Elétrica: 50 × 7 = 350. História: 30 × 8 = 240. Letras: 25 × 4 = 100. Pedagogia: 25 × 5 = 125. Total: 180 + 240 + 350 + 240 + 100 + 125 = 1 235 candidatos. A alternativa 200 é o total de vagas. A de 400 não corresponde a uma conta coerente. A de 1 200 resulta de multiplicar o total de vagas (200) pela média simples das relações (6), o que ignora que cada curso tem um número diferente de vagas. A de 7 200 multiplica o total de vagas pela soma das relações (36). Gabarito: D.",
+  "hash": "443aa892bacc57f9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q174": {
+  "explicacao": "A questão pede quantas esferas de 1 cm de diâmetro podem ser feitas com o metal de um cilindro de raio 4 cm e altura 50 cm. Volume do cilindro: V = π·r²·h = π × 4² × 50 = 800π cm³. Volume de cada esfera, com raio 0,5 cm: V = (4/3)·π·r³ = (4/3)·π × 0,125 = π/6 cm³. Número de esferas: 800π ÷ (π/6) = 800 × 6 = 4 800. A alternativa 800 compara com uma esfera de volume π, esquecendo o fator 4/3 e o raio. A de 1 200 e a de 2 400 surgem de erros na fórmula da esfera, como usar o diâmetro no lugar do raio ou esquecer frações. A de 6 400 usa a área da base com diâmetro ou erro de potência. Gabarito: D.",
+  "hash": "d753509ac408f3ca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q175": {
+  "explicacao": "A questão pede a escrita completa de R$ 1,35 bilhão. Um bilhão corresponde a 1 000 000 000, ou seja, 10⁹, com nove zeros. Então 1,35 bilhão = 1,35 × 1 000 000 000 = 1 350 000 000. Com os centavos, o número fica 1 350 000 000,00. Uma forma prática: deslocar a vírgula nove casas para a direita a partir de 1,35, completando com zeros. A alternativa A corresponde a 135 mil. A B corresponde a 1,35 milhão. A C corresponde a 13,5 milhões. A D corresponde a 135 milhões, ou seja, 0,135 bilhão. Gabarito: E.",
+  "hash": "5f06f3916f125b4c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q176": {
+  "explicacao": "A questão pede o ponto de conexão na Rodovia 003 (eixo x) que minimiza a soma das distâncias até as cidades A(20, 40) e B(50, 20). A técnica é refletir uma das cidades em relação ao eixo x: B' = (50, −20). O caminho A → P → B tem o mesmo comprimento de A → P → B', e o menor caminho entre A e B' é o segmento de reta; o ponto P ótimo é onde esse segmento corta o eixo x. Inclinação da reta AB': (−20 − 40)/(50 − 20) = −60/30 = −2. Equação: y − 40 = −2(x − 20). Para y = 0: −40 = −2(x − 20), x − 20 = 20, x = 40. O ponto (40, 0) é a localização IV. Conferindo: em IV, AP = √(20² + 40²) ≈ 44,7 e PB = √(10² + 20²) ≈ 22,4, total ≈ 67,1 km; em III (x = 35), ≈ 42,7 + 25 = 67,7 km; em V, ≈ 50 + 20 = 70 km. A localização I fica sob A, II e III ficam à esquerda do ótimo, e V fica sob B; todas dão percursos maiores. Gabarito: D.",
+  "hash": "4b8ec0ad9e5d8cf9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q177": {
+  "explicacao": "A questão pede o operário mais barato, considerando preço por hora, tempo de serviço e transporte. O custo da mão de obra é preço por hora × horas. Operário I: 120 × 8 = 960, sem transporte, total R$ 960,00. Operário II: 180 × 6 = 1 080, total R$ 1 080,00. Operário III: 170 × 6 = 1 020, mais o transporte diário de R$ 20,00, pelo menos R$ 1 040,00. Operário IV: 110 × 9 = 990, mais R$ 10,00 por dia de transporte, pelo menos R$ 1 000,00. Operário V: 110 × 10 = 1 100, total R$ 1 100,00. Mesmo sem saber exatamente quantos dias cada serviço leva, o operário I já é o mais barato, pois os demais superam R$ 960,00 só com a mão de obra ou com um único dia de transporte. Os operários IV e V têm o menor preço por hora, armadilha de quem olha só essa coluna, mas demoram mais. Os operários II e III cobram caro por hora. Gabarito: A.",
+  "hash": "9cf6e5fa0cacf0c0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q178": {
+  "explicacao": "A questão pede quantas porções de massa são necessárias para 150 docinhos de 4 cm de diâmetro, sabendo que uma porção rende 50 docinhos de 2 cm. Ao dobrar o diâmetro de uma esfera, o raio dobra e o volume, proporcional a r³, fica multiplicado por 2³ = 8. Assim, cada docinho grande equivale, em massa, a 8 docinhos pequenos. Os 150 docinhos grandes equivalem a 150 × 8 = 1 200 docinhos pequenos. Como cada porção rende 50 pequenos: 1 200/50 = 24 porções. A alternativa 2 não corresponde a relação coerente. A de 3 considera apenas o número de docinhos (150/50), ignorando o tamanho. A de 6 multiplica por 2, como se o volume fosse proporcional ao diâmetro. A de 12 multiplica por 4, como se o volume dependesse do quadrado do raio. Gabarito: E.",
+  "hash": "eb081d42b0c70a5b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q179": {
+  "explicacao": "A questão pede a esperança de vida em 2014, supondo que a de 2013 seja a média entre 2012 e 2014. Pelo gráfico, 2012 tem 73,95 anos e 2013 tem 74,23 anos. A condição é: 74,23 = (73,95 + x)/2. Multiplicando por 2: 148,46 = 73,95 + x. Logo, x = 148,46 − 73,95 = 74,51 anos. Perceba que, se cada ano é a média do anterior com o seguinte, os valores formam uma progressão aritmética, com aumento de 0,28 por ano: 74,23 + 0,28 = 74,51. A alternativa 74,23 repete o valor de 2013. A de 75,07 e a de 75,23 aplicam aumentos maiores, sem seguir a condição da média. A de 78,49 soma valores sem dividir corretamente. Gabarito: B.",
+  "hash": "f75884c191f31ccf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q180": {
+  "explicacao": "A questão pede a vista superior da projeção ortogonal das duas trajetórias sobre um plano paralelo ao do Equador. A ideia é perceber como cada tipo de linha se projeta. A Linha do Equador está num plano paralelo a α, então seus trechos se projetam em tamanho verdadeiro, como arcos de circunferência. Os meridianos estão em planos perpendiculares ao Equador, que passam pelo eixo da Terra; vistos de cima, cada trecho de meridiano se projeta como um segmento de reta radial, ligando o centro (projeção do polo) à circunferência. Como os meridianos 1 e 2 estão em planos perpendiculares entre si, esses segmentos formam ângulos retos, dividindo a vista em quadrantes. Cada trajetória, formada por trechos de meridiano e um quarto do Equador, aparece como um setor de um quarto de círculo; as duas ficam em quadrantes opostos, unidas pelo centro, como na alternativa E. As demais alternativas mostram meridianos projetados como curvas, arcos do Equador com raio errado ou setores em quadrantes adjacentes. Gabarito: E.",
+  "hash": "e876e72bdd868a33",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q91": {
+  "explicacao": "A questão pede o tipo de reação em que se baseia a remediação do TCE com persulfato. O ponto-chave do texto é que o íon persulfato (S₂O₈²⁻) é convertido, por minerais com Fe(III), no radical •SO₄⁻, uma espécie extremamente oxidante. Esse radical ataca o tricloroeteno, que perde elétrons e é degradado até produtos mais simples, como CO₂ e íons cloreto, enquanto o radical sulfato é reduzido a íon sulfato (SO₄²⁻). Há, portanto, transferência de elétrons entre espécies, com variação de números de oxidação: o ferro alterna entre Fe(III) e Fe(II), o enxofre do persulfato é reduzido e o carbono do TCE é oxidado. Isso caracteriza reações de oxirredução, base dos chamados processos oxidativos avançados. Substituição seria troca de um átomo ou grupo por outro numa molécula orgânica, sem ser o mecanismo central descrito. Precipitação exige formação de sólido insolúvel, o que não é o objetivo do processo. Desidratação envolve perda de água, que não aparece no esquema. Neutralização é reação entre ácido e base, também ausente aqui. Gabarito: A.",
+  "hash": "6d63080293d5095f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q92": {
+  "explicacao": "A questão pede uma medida preventiva comum à filariose e à leishmaniose. O que liga as duas doenças é a forma de transmissão: ambas dependem de insetos vetores. A filariose (elefantíase) é causada pelo verme Wuchereria bancrofti e transmitida pela picada do mosquito Culex; a leishmaniose é causada por protozoários do gênero Leishmania e transmitida pela picada do mosquito-palha (flebotomíneo). Como o agente só chega ao ser humano por meio do inseto, controlar as populações desses vetores, eliminando criadouros, usando inseticidas, telas e repelentes, interrompe o ciclo de transmissão das duas doenças ao mesmo tempo. A incineração do lixo orgânico pode ajudar pontualmente contra o flebotomíneo, mas não é a medida geral comum. A rede de esgoto previne doenças de transmissão fecal-oral, não as transmitidas por picada. O vermífugo comum não atua contra protozoários e não impede a infecção. Comer carne bem cozida previne teníase e toxoplasmose, sem relação com essas doenças. Gabarito: D.",
+  "hash": "f9f4cd1f2aeb44f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q93": {
+  "explicacao": "A questão pede a área total de painéis do parque. Os dados importantes são a potência instalada (150 MW), a irradiância solar (1 500 W/m²) e a eficiência dos painéis (20%). A potência elétrica útil é a fração da potência solar que incide sobre a área A: P útil = η × I × A. Substituindo: 150 × 10⁶ W = 0,20 × 1 500 W/m² × A. Assim, 0,20 × 1 500 = 300 W/m², ou seja, cada metro quadrado entrega 300 W de potência elétrica. Logo, A = 150 × 10⁶ / 300 = 5 × 10⁵ m² = 500 000 m². O dado de 300 GWh por ano é energia, não potência, e não precisa ser usado no cálculo. A alternativa de 1 000 000 m² surge de usar eficiência de 10% ou dividir errado. A de 250 000 m² corresponde a considerar apenas uma das usinas com o dobro de rendimento ou erro similar. As de 100 000 m² e 20 000 m² resultam de ignorar a eficiência ou errar potências de dez. Gabarito: B.",
+  "hash": "c8980bf01218943a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q94": {
+  "explicacao": "A questão pede o resultado do descarte de dois pares de substâncias incompatíveis. No conjunto (1), ácido clorídrico concentrado reage com cianeto de potássio: HCl + KCN → KCl + HCN. O ácido forte desloca o ácido fraco HCN, que é volátil e se desprende como gás cianídrico, altamente tóxico, pois bloqueia a respiração celular. No conjunto (2), o ácido nítrico concentrado é um oxidante muito forte e a sacarose é um composto orgânico facilmente oxidável; o contato provoca uma reação oxidativa vigorosa, exotérmica, que degrada o açúcar e pode gerar calor intenso e até fogo. Assim, a sequência correta é liberação de gás tóxico e reação oxidativa forte. A alternativa B inverte a ordem dos fenômenos. A C fala em sal tóxico, mas o KCl formado não é o problema; o perigo é o HCN gasoso. A D chama o resultado do conjunto (2) de liberação de gás oxidante, quando o essencial é a oxidação da sacarose. A E erra os dois conjuntos. Gabarito: A.",
+  "hash": "1909ca1e1165a3e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q95": {
+  "explicacao": "A questão pede a orientação das bússolas em torno de um fio retilíneo com corrente para cima. Pela experiência de Oersted, a corrente gera um campo magnético cujas linhas são circunferências concêntricas ao fio, contidas em planos perpendiculares a ele. O sentido é dado pela regra da mão direita: polegar no sentido da corrente (para cima) e os demais dedos curvados indicam o campo, que, visto de cima, circula no sentido anti-horário. Em cada ponto A, B e C, equidistantes do fio, o campo tem mesma intensidade e é tangente à circunferência, perpendicular ao raio que liga o ponto ao fio. A agulha da bússola se alinha com o campo, com o polo norte apontando no sentido das linhas. Portanto, as três agulhas ficam tangentes ao círculo, todas acompanhando o giro anti-horário (visto de cima), configuração representada na alternativa D. As demais alternativas mostram agulhas apontando radialmente (para o fio ou para fora), todas paralelas entre si como num campo uniforme, ou girando no sentido horário, o que corresponderia a corrente para baixo. Gabarito: D.",
+  "hash": "4217eda9bdbf393a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q96": {
+  "explicacao": "A questão pede qual associação de duas baterias de 12 V provocou parada respiratória em alguém com a pele molhada. O quadro mostra que a parada respiratória ocorre para correntes entre 20 mA e 100 mA. Com a pele molhada, a resistência do corpo é cerca de 1 kΩ = 1 000 Ω. Pela lei de Ohm, i = U/R. Se a pessoa tocar uma única bateria (ou duas em paralelo), U = 12 V e i = 12/1 000 = 0,012 A = 12 mA, que só provoca aumento das contrações musculares. Se as baterias estiverem em série, com polos opostos ligados, as tensões se somam: U = 24 V e i = 24/1 000 = 24 mA, valor dentro da faixa de 20 a 100 mA, compatível com parada respiratória. Assim, a associação responsável é aquela em que os pontos A e B ficam nos extremos de duas baterias em série com tensões somadas, mostrada na alternativa A. As outras configurações (paralelo, baterias em oposição, que anulam a tensão, ou pontos que abrangem só uma bateria) fornecem 12 V ou 0 V, insuficientes. Gabarito: A.",
+  "hash": "dab35899ba09c0c1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q97": {
+  "explicacao": "A questão pede um processo alternativo à efusão que aproveite a diferença de massa entre ²³⁵UF₆ e ²³⁸UF₆. Os dois hexafluoretos são quimicamente idênticos, pois os isótopos têm o mesmo número de prótons e elétrons; diferem apenas na massa (três nêutrons a mais no urânio-238). Logo, só métodos físicos sensíveis à massa funcionam. Na centrifugação, o gás UF₆ é girado em altíssima velocidade: as moléculas mais pesadas, com ²³⁸U, tendem a se concentrar na periferia, enquanto as mais leves, com ²³⁵U, ficam mais próximas do eixo, permitindo o enriquecimento. De fato, as ultracentrífugas são o método usado hoje, inclusive no Brasil. A peneiração separa sólidos de tamanhos diferentes, e as moléculas têm praticamente o mesmo tamanho. A extração por solvente depende de diferenças de solubilidade, inexistentes entre isótopos. A destilação fracionada exige temperaturas de ebulição distintas, praticamente iguais para os dois compostos. A separação magnética exige que um componente seja atraído por ímã, o que não diferencia esses isótopos. Gabarito: B.",
+  "hash": "640a4d9f30378413",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q98": {
+  "explicacao": "A questão pede o motivo do sucesso da terapia gênica contra a distrofia de retina causada por mutação no gene RPE65. O texto diz que o produto é um vírus modificado que carrega uma cópia normal do gene humano RPE65 até as células da retina. O vírus funciona como vetor: entrega o gene funcional, que passa a ser transcrito em RNA mensageiro e traduzido na proteína correta, uma enzima essencial ao ciclo visual. Com isso, as células voltam a produzir a enzima normal, compensando o gene mutado, que continua presente. O sucesso, portanto, vem da expressão do gene responsável pela produção da enzima normal. A alternativa A erra ao falar em correção do código genético, que é universal e não é alterado. A B fala em alterar RNA ribossômico, o que não ocorre. A C é incoerente, pois a terapia não induz mutações. A D erra porque o vírus não libera a proteína pronta; ele leva o gene, e a proteína é fabricada pelas próprias células. Gabarito: E.",
+  "hash": "fd7d69576b55a7e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2022-regular-d2-q99": {
+  "explicacao": "A questão pede por que espécies exóticas como a jaqueira reduzem a biodiversidade. A jaqueira veio da Ásia, adaptou-se muito bem ao Brasil e se tornou invasora, sobretudo na Mata Atlântica. Por produzir muitos frutos, crescer rápido, sombrear o sub-bosque e não ter inimigos naturais que controlem sua população, ela se espalha e ocupa áreas antes cobertas por vegetação nativa, impedindo o desenvolvimento de plântulas de espécies locais. Assim, substitui parcialmente a flora original e reduz a diversidade. A alternativa B erra ao dizer que a competição pelos frutos elimina animais nativos, o que não é o mecanismo principal. A C descreve aumento de possibilidades de relações, o que indicaria mais diversidade, contrariando a pergunta. A D é impossível, pois nenhuma população se mantém acima da capacidade de suporte de forma estável. A E descreve efeitos positivos para espécies nativas, o oposto do que se pergunta. Gabarito: A.",
+  "hash": "6be3cf49dc2ed1d2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
