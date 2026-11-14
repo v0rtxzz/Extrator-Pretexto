@@ -1,0 +1,452 @@
+{
+ "enem-2025-ppl-d2-q100": {
+  "explicacao": "A questão pede o motivo pelo qual as viroses emergentes causam tanto prejuízo ao ser humano. O texto explica que vírus latentes em florestas passam a infectar pessoas quando o ambiente é destruído. Antes disso, os humanos não eram hospedeiros habituais desses vírus. Em relações parasitárias antigas, a coevolução tende a selecionar parasitas menos agressivos e hospedeiros mais resistentes, já que matar rapidamente o hospedeiro prejudica o próprio parasita. Em uma relação nova, ainda não houve tempo para essa adaptação recíproca. Por isso, o vírus costuma ser muito virulento, e o sistema imune humano não está preparado para ele. Por essa razão, o prejuízo está ligado ao pouco tempo de relação entre o vírus e o hospedeiro. A baixa imunidade do hospedeiro é uma condição individual e não explica o padrão geral das viroses emergentes. A alta capacidade de mutação existe, mas não é a ideia central do texto. Vírus não acumulam substâncias tóxicas. Uma especificidade elevada com o hospedeiro indicaria uma relação antiga e ajustada, o oposto do caso descrito. Gabarito: C.",
+  "hash": "debb1bbe75b5c98f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q101": {
+  "explicacao": "A questão pede o agente comum às duas notícias. O texto I fala de florestas do Hemisfério Norte crescendo mais rápido, e o texto II fala da acidez maior dos oceanos, que prejudica os corais. O dióxido de carbono (CO₂) liga os dois fenômenos. O aumento da concentração de CO₂ na atmosfera, causado pela queima de combustíveis fósseis, intensifica a fotossíntese, porque o CO₂ é a matéria-prima da fixação de carbono, e isso acelera o crescimento das árvores. Parte desse CO₂ se dissolve na água do mar: CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻. Essa reação baixa o pH e reduz a disponibilidade de carbonato, de que os corais precisam para formar o esqueleto de CaCO₃. O petróleo é a origem de parte do CO₂, mas não age diretamente nos dois eventos. Agrotóxicos e fertilizantes não explicam o crescimento das florestas nem a acidificação dos oceanos. O carbonato de cálcio é o material atacado pela acidez, e não o seu agente causador. Gabarito: E.",
+  "hash": "fcf01f5852980df2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q102": {
+  "explicacao": "A questão pede o radionuclídeo cujo tempo de meia-vida seja cerca de uma vez e meia a duração do exame. O exame dura 4 horas, então o tempo procurado é 1,5 × 4 h = 6 h. No quadro, o ⁹⁹Tc tem meia-vida de 6,0 h, exatamente o valor calculado. Esse tempo é suficiente para o radionuclídeo se acumular no órgão e emitir radiação durante todo o exame, sem permanecer por tempo excessivo no organismo do paciente. Não por acaso, o tecnécio-99m é o radionuclídeo mais usado em medicina nuclear. O ¹³N tem meia-vida de 10 min e decairia antes de o exame avançar. O ¹⁸F tem meia-vida de 110 min, menos de 2 h, abaixo do necessário. O ⁶⁴Cu tem meia-vida de 13 h, mais que o dobro do ideal, o que prolonga a exposição do paciente. O ¹²⁴I tem meia-vida de 4,2 dias, longa demais para um exame de 4 horas. Gabarito: D.",
+  "hash": "423091dfcaa27adb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q103": {
+  "explicacao": "A questão pede o processo metabólico da própria planta que consome parte da energia química fixada na fotossíntese. A energia luminosa é convertida em energia química na matéria orgânica, mas nem toda essa matéria fica disponível aos herbívoros. A planta usa parte dos compostos orgânicos que produz na respiração celular, para obter ATP e manter suas atividades vitais, como crescimento, transporte e síntese de substâncias. Essa energia é liberada e, em boa parte, dissipada como calor, então não passa para o nível trófico seguinte. É por isso que a produtividade líquida, disponível aos consumidores primários, é igual à produtividade bruta menos o gasto com a respiração. A transpiração é a perda de vapor de água e não consome energia química armazenada. A fermentação não é o processo energético predominante em plantas com oxigênio disponível. A quimiossíntese é feita por certas bactérias a partir de compostos inorgânicos. A fixação do carbono produz matéria orgânica, em vez de consumi-la. Gabarito: D.",
+  "hash": "383ca6ed1465211a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q104": {
+  "explicacao": "A questão pede o fenômeno ondulatório que explica o funcionamento da nanoantena. O trecho decisivo compara as cargas da nanoantena a um sistema massa-mola que absorve o máximo de energia quando o agente externo oscila em frequência igual à sua frequência natural. Essa é a definição de ressonância. Quando a frequência da onda eletromagnética incidente coincide com a frequência natural de oscilação dos portadores de carga, a transferência de energia é máxima e a amplitude das oscilações cresce. Por isso as dimensões da nanoantena precisam ser da ordem do comprimento de onda da luz visível, centenas de nanômetros, e não metros como nas antenas de rádio. A reflexão é o retorno da onda ao meio de origem e não explica a absorção de energia. A refração é a mudança de velocidade da onda ao trocar de meio. A difração é o contorno de obstáculos ou fendas pela onda. A interferência é a superposição de ondas e também não é o mecanismo descrito no texto. Gabarito: D.",
+  "hash": "598d7efa5ffae63d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q105": {
+  "explicacao": "A questão pede o efeito de uma mosturação feita a 68 °C sobre o produto final. Pelo texto, a alfa-amilase atua entre 67 °C e 72 °C e gera carboidratos de cadeia curta. A beta-amilase atua entre 55 °C e 65 °C e gera carboidratos de cadeia longa. A 68 °C, só a alfa-amilase está na sua faixa de atuação, então o amido do malte é quebrado principalmente em carboidratos de cadeia curta. Na fermentação, as leveduras usam de preferência os carboidratos de cadeia curta. Portanto, haverá mais açúcar fermentável, e as leveduras vão convertê-lo em etanol e CO₂, o que gera um produto com maior teor alcoólico. O amargor vem do lúpulo, e não da ação das amilases. Maior densidade e maior viscosidade estariam associadas a carboidratos de cadeia longa, que sobram sem fermentar. O teor de açúcares diminui, porque os açúcares curtos são consumidos na fermentação. Gabarito: D.",
+  "hash": "3f54757f602a7517",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q106": {
+  "explicacao": "A questão pede a temperatura T₂ do gás no dissipador de calor de um freezer, com COP = 5,0 e T₁ = −10 °C. A fórmula dada é COP = T₁ / (T₂ − T₁), com as temperaturas em kelvin. Primeiro, convertemos a temperatura da fonte fria: T₁ = −10 + 273 = 263 K. Em seguida, substituímos os valores na fórmula: 5,0 = 263 / (T₂ − 263). Isolando a diferença, temos T₂ − 263 = 263 / 5,0 = 52,6. Então T₂ = 263 + 52,6 = 315,6 K, o que dá aproximadamente 316 K, ou cerca de 43 °C. Esse valor é coerente com o aquecimento da grade traseira de uma geladeira. A alternativa 658 K resulta de um erro algébrico na fórmula. A alternativa 261 K seria mais fria que a fonte fria, o que é impossível para o reservatório quente. A alternativa 53 K é apenas a diferença T₂ − T₁. A alternativa −12 K é um valor negativo, que não existe na escala absoluta. Gabarito: B.",
+  "hash": "b57dc839c254575e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q107": {
+  "explicacao": "A questão pede a velocidade linear de rotação da Terra em Brasília, a 16° de latitude, com π = 3 e cos 16° = 0,9. No esboço, o raio da Terra é 6 400 km, e o ponto na latitude 16° descreve uma circunferência menor, cujo raio é a distância até o eixo de rotação. Esse raio vale r = R × cos 16° = 6 400 × 0,9 = 5 760 km. Em um dia, que tem 24 h, o ponto percorre o comprimento dessa circunferência: 2πr = 2 × 3 × 5 760 = 34 560 km. A velocidade linear é v = 34 560 km / 24 h = 1 440 km/h. A alternativa 720 km/h corresponde à metade do valor, como se o comprimento fosse πr. A alternativa 800 km/h e a de 1 600 km/h usam o raio do equador, sem o cosseno, ou fazem outro erro de fator. A alternativa 2 880 km/h dobra o resultado correto. Gabarito: C.",
+  "hash": "7971100dde396ff3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q108": {
+  "explicacao": "A questão pede a massa de biodiesel que seria obtida se toda a vinhaça produzida no Brasil em um ano fosse usada. Vamos por etapas. São produzidos 30 bilhões de litros de etanol por ano, ou seja, 3 × 10¹⁰ L. Cada litro de etanol gera 10 L de vinhaça, então o total de vinhaça é 3 × 10¹¹ L. A cada 1 000 L de vinhaça, obtêm-se 2,8 L de óleo. O volume de óleo é (3 × 10¹¹ / 10³) × 2,8 = 3 × 10⁸ × 2,8 = 8,4 × 10⁸ L. Com densidade de 0,9 kg/L, a massa de óleo é 8,4 × 10⁸ × 0,9 = 7,56 × 10⁸ kg. Como a proporção em massa entre óleo e biodiesel é 1 : 1, a massa de biodiesel é cerca de 7,6 × 10⁸ kg. A alternativa 3,0 × 10¹¹ kg é o volume de vinhaça tratado como massa. A alternativa 8,4 × 10⁸ kg é o volume de óleo sem a densidade. As alternativas 8,4 × 10⁷ e 7,6 × 10⁷ kg erram a potência de 10. Gabarito: C.",
+  "hash": "8c895864d0a1323c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q109": {
+  "explicacao": "A questão pede o risco do tratamento do diabetes com células-tronco do próprio paciente. Uma etapa do procedimento é decisiva: antes do transplante, o paciente passa por imunossupressão com quimioterapia. Isso é feito porque o diabetes tipo 1 é autoimune, e a ideia é interromper o ataque do sistema imune às células produtoras de insulina. O efeito colateral é que o organismo fica com as defesas muito reduzidas e mais suscetível a infecções oportunistas, causadas por microrganismos que normalmente não afetariam uma pessoa saudável. O conflito ético se aplica sobretudo às células-tronco embrionárias, e aqui as células são do próprio paciente. A rejeição não é esperada, porque o transplante é autólogo. A resistência dos receptores de insulina caracteriza o diabetes tipo 2, e não os jovens com baixa produção de insulina descritos no texto. Testes de compatibilidade genética são desnecessários quando doador e receptor são a mesma pessoa. Gabarito: D.",
+  "hash": "17c9102dccdd6909",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q110": {
+  "explicacao": "A questão pede como deve variar a concentração de H⁺ para corrigir a água de pH 4 para a concentração de 10⁻⁶ mol/L. Pela definição, pH = −log[H⁺]. Com pH 4, temos [H⁺] = 10⁻⁴ mol/L. A meta é [H⁺] = 10⁻⁶ mol/L, o que corresponde a pH 6, uma água menos ácida. Para comparar, dividimos uma concentração pela outra: 10⁻⁴ / 10⁻⁶ = 10² = 100. Portanto, a concentração de íons H⁺ precisa ser reduzida cem vezes. Na escala logarítmica, cada unidade de pH equivale a um fator 10, e duas unidades equivalem a 10 × 10 = 100. A redução de duas vezes confunde a variação de duas unidades de pH com um fator 2. A redução de vinte vezes multiplica a diferença por 10, em vez de usar a potência. Aumentar a concentração de H⁺, seja duas ou duzentas vezes, deixaria a água ainda mais ácida, o oposto do desejado. Gabarito: C.",
+  "hash": "6d9b68fda4b3f2af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q111": {
+  "explicacao": "A questão pede a consequência, dentro da célula, de uma falha na cadeia respiratória mitocondrial dos espermatozoides. A cadeia respiratória, ou cadeia transportadora de elétrons, fica na membrana interna da mitocôndria. Ela recebe elétrons do NADH e do FADH₂ e os passa até o oxigênio, o aceptor final, que forma água. A energia dessa transferência bombeia prótons para o espaço intermembranas, e o gradiente formado alimenta a ATP sintase, que produz a maior parte do ATP da célula. Se o cádmio prejudica essa cadeia, a fosforilação oxidativa cai, e os níveis de ATP diminuem. Os espermatozoides dependem muito desse ATP para movimentar o flagelo, o que explica a menor fertilidade observada. O aumento de CO₂ não acontece, porque o CO₂ vem do ciclo de Krebs, que também fica mais lento quando a cadeia falha. O consumo de oxigênio diminui, em vez de aumentar, já que o O₂ é usado justamente na cadeia. A glicólise ocorre no citosol e tende a se manter ou até aumentar para compensar a falta de energia. O acúmulo de glicogênio não decorre do defeito mitocondrial. Gabarito: A.",
+  "hash": "be21660d32a3a5ae",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q112": {
+  "explicacao": "A questão pede a razão entre a velocidade do feixe de elétrons do Sirius e a de um carro de 960 kg com a mesma energia cinética. Primeiro, calculamos a velocidade do feixe: ele percorre 520 m em 1,7 × 10⁻⁶ s, então v = 520 / (1,7 × 10⁻⁶) ≈ 3,06 × 10⁸ m/s, praticamente a velocidade da luz, cerca de 3 × 10⁸ m/s. Em seguida, convertemos a energia para joules: E = 3,0 × 10⁹ × 1,6 × 10⁻¹⁹ = 4,8 × 10⁻¹⁰ J. Para o carro, usamos E = mv²/2, de onde v² = 2E/m = (2 × 4,8 × 10⁻¹⁰) / 960 = 9,6 × 10⁻¹⁰ / 960 = 10⁻¹². Logo, a velocidade do carro é v = 10⁻⁶ m/s. A razão entre as velocidades é 3 × 10⁸ / 10⁻⁶ = 3 × 10¹⁴. A alternativa 6 × 10²⁰ compara grandezas incorretas, sem extrair a raiz. A alternativa 3√2 × 10¹⁴ esquece o fator 2 da energia cinética. A alternativa 12 × 10¹⁴ erra a conversão da energia. A alternativa 3√(1,6) × 10³ não converte eV em joule corretamente. Gabarito: C.",
+  "hash": "1c6907e0d5fa78a5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q113": {
+  "explicacao": "A questão pede o que, no sangue do paciente, torna positivo o teste para HIV representado no esquema. O teste é um ELISA indireto, o método clássico de triagem. Na placa ficam fixados antígenos do vírus. O soro ou plasma do paciente é adicionado, e, se ele foi infectado, terá anticorpos anti-HIV, que se ligam a esses antígenos. Depois, adiciona-se um anticorpo secundário ligado a uma enzima, que reconhece os anticorpos humanos, e um substrato que muda de cor na presença da enzima. A cor indica que havia anticorpos específicos no plasma do paciente. Os antígenos do vírus já estão na placa, como reagente do teste, e não vêm da amostra. Leucócitos infectados não são detectados nesse ensaio. A enzima pertence ao anticorpo secundário fornecido pelo kit, e não ao sangue do paciente. Hemácias não são infectadas pelo HIV, que ataca linfócitos T CD4. Gabarito: D.",
+  "hash": "5a620a2ec052cfed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q114": {
+  "explicacao": "A questão pede a explicação para a sobrevida da pilha seca colocada no congelador. O texto aponta o problema: a redução no cátodo produz gás amônia (NH₃), e o acúmulo desse gás dificulta a passagem de corrente dentro da pilha. A solubilidade dos gases em líquidos aumenta quando a temperatura diminui. No congelador, a amônia se dissolve melhor na pasta úmida do eletrólito, e menos gás fica acumulado ao redor do eletrodo. Com o contato restabelecido, a corrente volta a circular por mais algum tempo. O efeito é temporário, porque os reagentes continuam se esgotando. O congelador não inverte as reações de oxidação e de redução, e a pilha seca não é recarregável. Um gás não se expande ao ser resfriado, ele se contrai. A produção de gás não cessa no frio, apenas fica mais lenta. Mais bolhas de gás atrapalhariam ainda mais a corrente, em vez de restabelecê-la. Gabarito: A.",
+  "hash": "28b2e9ba0d6d83e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q115": {
+  "explicacao": "A questão pede a energia dissipada pelo resistor de apoio para aquecer o reservatório cheio de 25 °C a 35 °C, em watt-hora. Pela tabela do manual, o reservatório tem 400 L. Com densidade de 1 kg/L, isso equivale a 400 kg de água. Pela equação do calor sensível, Q = m × c × ΔT = 400 × 1 000 × (35 − 25) = 4 × 10⁶ cal. Convertendo para joules: 4 × 10⁶ × 4,2 = 1,68 × 10⁷ J. Como 1 Wh = 3 600 J, a energia é 1,68 × 10⁷ / 3 600 ≈ 4 667 Wh, cerca de 4,7 × 10³ Wh. Com 2 000 W de potência, o resistor ficaria ligado por aproximadamente 2,3 h. A alternativa 1,1 × 10³ Wh não converte calorias em joules antes de dividir por 3 600. A alternativa 2,0 × 10³ Wh é a potência do resistor, e não a energia. A alternativa 4,2 × 10⁴ Wh erra a conversão de unidades. A alternativa 1,7 × 10⁷ é o valor em joules, e não em watt-hora. Gabarito: C.",
+  "hash": "68b2271f26830102",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q116": {
+  "explicacao": "A questão pede o volume de etanol obtido de 45 kg de sacarose, com rendimento de 85%. Considerando a equação global, 1 mol de sacarose (C₁₂H₂₂O₁₁) mais água forma 4 mol de etanol (C₂H₅OH) e 4 mol de CO₂. Primeiro, calculamos a quantidade de sacarose: n = 45 000 g / 342 g/mol ≈ 131,6 mol. A quantidade teórica de etanol é 4 × 131,6 ≈ 526,3 mol. A massa teórica de etanol é 526,3 × 46 ≈ 24 210 g, ou seja, 24,2 kg. Com o rendimento de 85%: 24,2 × 0,85 ≈ 20,6 kg. Por fim, o volume: V = 20 580 g / 0,8 g/mL ≈ 25 700 mL, cerca de 26 L. A massa total de biomassa (85 kg) não entra no cálculo, porque só a sacarose é fermentada. A alternativa 16 L e a de 20 L confundem massa com volume ou erram a proporção entre os mols. A alternativa 24 L corresponde à massa teórica em kg, sem a densidade e sem o rendimento. A alternativa 30 L é o volume sem aplicar o rendimento de 85%. Gabarito: D.",
+  "hash": "aefcdf4226eae646",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q117": {
+  "explicacao": "[REVISAR] O dado de densidade da água aparece como 1 g/mol, provavelmente no lugar de 1 g/mL. A questão pede a massa de SO₂ emitida, sabendo que a chuva de 1 000 t de água ficou com pH 4,0. Primeiro, a quantidade de H⁺: pH 4 significa [H⁺] = 10⁻⁴ mol/L. Com densidade de 1 g/mL, 1 000 t = 10⁹ g = 10⁶ L de água. O total de H⁺ é 10⁻⁴ × 10⁶ = 100 mol. O H₂SO₄ totalmente ionizado libera 2 H⁺ por molécula, então a quantidade de H₂SO₄ é 100 / 2 = 50 mol. Pela sequência de reações (SO₂ → SO₃ → H₂SO₄), cada mol de SO₂ gera 1 mol de H₂SO₄, logo havia 50 mol de SO₂. Com massa molar do SO₂ = 32 + 2 × 16 = 64 g/mol, a massa é 50 × 64 = 3 200 g = 3,2 kg. A alternativa 1,6 kg corresponde a 25 mol, contando 4 H⁺ por ácido. A alternativa 4,0 kg usa a massa molar do SO₃ (80 g/mol). A alternativa 4,9 kg é a massa de H₂SO₄ (98 g/mol). A alternativa 6,4 kg ignora que cada H₂SO₄ libera dois H⁺. Gabarito: B.",
+  "hash": "99cf2e9f737f14a8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q118": {
+  "explicacao": "A questão pede por que o lançamento de esgoto doméstico nos rios, denunciado pela charge, acaba matando peixes e outros organismos aquáticos. O esgoto doméstico é rico em matéria orgânica e em nutrientes, como nitrogênio e fósforo. A matéria orgânica serve de alimento para bactérias decompositoras aeróbias, que se multiplicam e consomem grande quantidade de oxigênio dissolvido na água. Os nutrientes também favorecem a proliferação de algas, num processo chamado eutrofização. Quando essas algas morrem, a decomposição aumenta ainda mais. O resultado é a queda do oxigênio dissolvido, e os peixes e outros seres aeróbios morrem por falta de O₂. A concentração de nutrientes aumenta com o esgoto, em vez de diminuir. A matéria orgânica também aumenta. O aumento de alimento para decompositores existe, mas é a causa do problema, e não o que mata os peixes. O volume de água do rio não muda de forma relevante. Gabarito: B.",
+  "hash": "54eab911d631d7a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q119": {
+  "explicacao": "A questão pede o tipo de isomeria envolvido na visão. O esquema mostra o retinal ligado à opsina passando da forma 11-cis para a forma all-trans quando absorve luz. A cadeia carbônica e a posição dos grupos continuam as mesmas. O que muda é a disposição espacial dos substituintes em torno de uma dupla ligação C=C, que não permite rotação livre. Essa diferença entre os arranjos cis e trans caracteriza a isomeria geométrica, também chamada cis-trans. A mudança de forma do retinal altera a conformação da opsina e dispara o impulso nervoso. A isomeria óptica exige um carbono quiral e diferencia moléculas pela rotação da luz polarizada, o que não é o caso aqui. A isomeria de cadeia envolveria um esqueleto carbônico diferente. A isomeria de posição envolveria mudar o lugar de um grupo ou de uma insaturação. A isomeria de compensação, ou metameria, refere-se à posição de um heteroátomo, que não muda no retinal. Gabarito: D.",
+  "hash": "5b0e5df4c2340f72",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q120": {
+  "explicacao": "A questão pede uma ação eficiente para reduzir a teníase por Taenia saginata em uma região de criação de gado. No ciclo dessa tênia, o ser humano é o hospedeiro definitivo e elimina os ovos nas fezes. O boi é o hospedeiro intermediário: ele ingere os ovos em pastos ou águas contaminados por fezes humanas, e desenvolve cisticercos na musculatura. A pessoa se infecta ao comer carne bovina crua ou malpassada com cisticercos. Construir redes de saneamento básico impede que as fezes humanas cheguem ao pasto e à água dos animais e interrompe o ciclo na sua origem. Não existe vacinação do gado como medida usual contra a teníase. A tênia não tem vetor, e a transmissão acontece pela ingestão da carne. O tratamento da água com hipoclorito protege as pessoas de outras doenças, mas o ser humano não adquire teníase bebendo água. Evitar contato com solo contaminado vale para ancilostomose e estrongiloidíase, que penetram pela pele, e não para a teníase. Gabarito: D.",
+  "hash": "70b234acb1bcda2b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q121": {
+  "explicacao": "[REVISAR] A imagem do circuito e do gráfico está anexada à alternativa A, em vez de aparecer como apoio da questão. A questão pede a resistência de proteção R_P em série com o LED, para que ele opere com 3 V, num ramo ligado em paralelo a um dispositivo alimentado com 12 V. No gráfico corrente × tensão do LED, a tensão de 3 V corresponde a uma corrente de 10 mA, ou seja, 0,01 A. Como o ramo do LED está em paralelo com R, o ramo todo também fica submetido a 12 V. O resistor de proteção recebe a diferença entre essa tensão e a do LED: U = 12 − 3 = 9 V. Pela lei de Ohm, R_P = U / i = 9 / 0,01 = 900 Ω. A alternativa 1 200 Ω usa os 12 V inteiros sobre o resistor. A alternativa 300 Ω usa só a tensão do LED, ou copia o valor de R. A alternativa 0,9 Ω e a de 0,3 Ω esquecem de converter miliampère para ampère. Gabarito: B.",
+  "hash": "d074166841457b7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q122": {
+  "explicacao": "A questão pede outro dispositivo que usa a piezoeletricidade, a mesma propriedade que permite o funcionamento dos relógios de quartzo. O texto define essa propriedade: o cristal gera pulsos elétricos quando submetido a pressão mecânica, e vibra quando recebe corrente elétrica. É, portanto, uma conversão entre energia mecânica e energia elétrica. No microfone piezoelétrico, as ondas sonoras são variações de pressão que deformam um cristal, e o cristal gera um sinal elétrico proporcional ao som. É exatamente o efeito piezoelétrico direto. A bateria de celular funciona por reações eletroquímicas de oxirredução. O forno de micro-ondas aquece os alimentos com ondas eletromagnéticas geradas por um magnetron, que agitam as moléculas de água. A lâmpada de LED emite luz pela recombinação de elétrons e lacunas em um semicondutor, um processo chamado eletroluminescência. O ventilador transforma energia elétrica em movimento por meio de um motor eletromagnético. Gabarito: D.",
+  "hash": "1c04f338d1b48f76",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q123": {
+  "explicacao": "A questão pede que tipo de dado tabelado, sobre reagentes e produto, permite calcular o ΔH da reação H₂ + Cl₂ → 2 HCl. Uma das formas clássicas de estimar a entalpia de reação usa as energias de ligação. Para quebrar as ligações dos reagentes, o sistema absorve energia (H–H e Cl–Cl). Na formação das ligações dos produtos, libera energia (2 ligações H–Cl). O cálculo é ΔH = Σ energias das ligações rompidas − Σ energias das ligações formadas. Como as duas ligações H–Cl liberam mais energia do que se gasta para romper H–H e Cl–Cl, o saldo é negativo, de −43 kcal, ou −21,5 kcal por mol de HCl. A densidade relaciona massa e volume e não informa energia de reação. O calor latente se refere a mudanças de estado físico, e não a reações químicas. O volume molar é uma propriedade dos gases, sem relação com a energia da reação. O calor específico mede a energia para variar a temperatura de uma substância, sem transformação química. Gabarito: E.",
+  "hash": "4b397846f46067ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q124": {
+  "explicacao": "A questão pede qual amostra de leite tem acidez titulável dentro do padrão de 14 °D a 18 °D. A regra do texto vale para amostras de 10 mL: 0,1 mL de titulante equivale a 1 °D. Como cada amostra analisada tem só 5 mL, metade do volume de referência, o mesmo gasto de titulante representa o dobro de acidez. Assim, para 5 mL, 0,1 mL de titulante corresponde a 2 °D, e o grau Dornic é o volume gasto em mL multiplicado por 20. Aplicando a regra à tabela: A1 gastou 0,90 mL, o que dá 0,90 × 20 = 18 °D, dentro da faixa. A2 gastou 0,65 mL e tem 13 °D, abaixo do mínimo, o que pode indicar adição de água ou de neutralizantes. A3 gastou 1,40 mL e tem 28 °D, ácido demais, sinal de fermentação bacteriana. A4 gastou 1,00 mL e tem 20 °D, acima do limite. A5 gastou 0,10 mL e tem 2 °D, muito abaixo do padrão. Gabarito: A.",
+  "hash": "cf1d9d8102d6303f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q125": {
+  "explicacao": "A questão pede quantos cromossomos tem o gameta anormal que, na fecundação, originou um indivíduo com síndrome de Down. Na espécie humana, as células somáticas têm 46 cromossomos (2n), e os gametas normais têm 23 (n). Se o par de homólogos do cromossomo 21 não se separa na anáfase I, isso é uma não disjunção, e os gametas resultantes ficam com 24 cromossomos (n + 1, com dois cromossomos 21) ou com 22 (n − 1). Na síndrome de Down, o indivíduo tem trissomia do 21, ou seja, 47 cromossomos. Esse total resulta da união de um gameta com 24 cromossomos e de um gameta normal com 23: 24 + 23 = 47. O gameta com 22 cromossomos geraria uma monossomia, com 45 cromossomos. O gameta com 23 cromossomos é o normal. Os valores 45 e 47 são números de células somáticas do zigoto, e não de gametas. Gabarito: C.",
+  "hash": "ec07a0d240764c84",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q126": {
+  "explicacao": "A questão pede qual espécie de vaga-lume foi mais afetada pela poluição luminosa. O critério é a população final de cada espécie, começando de 2 000 indivíduos. A população final é calculada como inicial + natalidade − mortalidade + imigração − emigração. Espécie 1: 2 000 + 400 − 1 000 + 100 − 200 = 1 300. Espécie 2: 2 000 + 300 − 400 + 200 − 700 = 1 400. Espécie 3: 2 000 + 300 − 900 + 70 − 160 = 1 310. Espécie 4: 2 000 + 100 − 300 + 100 − 200 = 1 700. Espécie 5: 2 000 + 300 − 750 + 200 − 650 = 1 100. A espécie 5, que teve a localização prejudicada pela luz, ficou com a menor população e perdeu 900 indivíduos. A espécie 1 tem a maior mortalidade, mas a natalidade compensa parte dessa perda, e ela fica com 1 300. A espécie 2 tem a maior emigração, mas termina com 1 400. A espécie 3 fica com 1 310, acima da 5. A espécie 4 é a menos afetada, com 1 700 indivíduos. Gabarito: E.",
+  "hash": "5ee00000e3ca3005",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q127": {
+  "explicacao": "A questão pede o mecanismo pelo qual o feijão transgênico fica protegido do vírus do mosaico dourado. O texto informa que foi inserida no DNA da planta uma sequência que codifica uma proteína Rep não funcional, parecida com a proteína viral Rep, que é essencial para a replicação do vírus. Quando o vírus infecta a planta, encontra a versão defeituosa da proteína, que interfere no processo de replicação. A proteína não funcional ocupa o papel da original sem cumprir sua função, e o vírus não consegue se multiplicar. Assim, a doença não se instala. Na engenharia genética desse feijão, ainda atua o silenciamento gênico por RNA de interferência, que reforça o mesmo efeito. Não se trata de proteínas de resistência genéricas, mas de uma versão defeituosa da Rep. O processo não inibe a síntese da Rep não funcional, pelo contrário, ele a promove. A proteína não repele a mosca-branca. Também não há uma resposta de defesa contra o inseto, porque o alvo é o vírus. Gabarito: E.",
+  "hash": "f00872cc5521450c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q128": {
+  "explicacao": "A questão pede o mecanismo da reprodução assexuada que permite ao escorpião-amarelo se multiplicar tão depressa. O escorpião-amarelo (Tityus serrulatus) se reproduz por partenogênese: as fêmeas produzem óvulos que se desenvolvem em embriões sem fecundação por espermatozoides. Como toda a população é formada por fêmeas que geram descendentes sozinhas, não é preciso encontrar parceiros. Isso, somado à abundância de alimento e abrigo nas cidades e à falta de predadores, explica a rápida expansão da espécie em áreas urbanas. A fragmentação ocorre em organismos simples, como planárias e estrelas-do-mar, e não em artrópodes. A formação de esporos é típica de fungos, algas e plantas. A divisão em duas partes iguais é a cissiparidade, encontrada em seres unicelulares. A formação de vários núcleos e depois de várias células descreve a esquizogonia, de protozoários como o plasmódio. Gabarito: B.",
+  "hash": "fac939b2ac645818",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q129": {
+  "explicacao": "A questão pede o tempo para ferver a água usando um único aquecedor, sabendo que dois aquecedores idênticos em série levam um tempo t. Cada aquecedor tem resistência R e é ligado à mesma tensão U da rede. Em série, a resistência equivalente é 2R, e a potência total é P_série = U² / 2R. Com um único aquecedor, a resistência é R e a potência é P = U² / R, o dobro da potência do arranjo em série. A energia necessária para ferver o mesmo volume de água é a mesma nos dois casos, e E = P × t. Com o dobro da potência, o tempo cai pela metade: t' = t / 2. O tempo 4t corresponderia a uma potência quatro vezes menor. O tempo 2t inverte a relação entre potência e tempo. O tempo t ignora que a associação em série muda a potência. O tempo t/4 confunde a relação, como se a potência fosse quatro vezes maior. Gabarito: D.",
+  "hash": "d71b58f5d7b33bd0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q130": {
+  "explicacao": "A questão pede o que acontece na usina se a bomba I parar. O texto explica que a bomba I faz circular a água aquecida pela fissão, levando calor do reator até o gerador de vapor, e devolvendo água mais fria ao reator. É o circuito primário de refrigeração. Se essa bomba para, o calor gerado pela fissão deixa de ser retirado do núcleo. A água do circuito primário fica parada e o reator aquece, o que pode levar a superaquecimento e até à fusão do núcleo se o sistema de segurança não agir. A atividade da turbina diminui, em vez de aumentar, porque menos vapor é gerado. O ambiente aquático não é resfriado, já que ele depende da bomba III e recebe menos calor do condensador. Não há inundação no condensador, porque o fluxo para ele vem do circuito secundário e da bomba III. O consumo de combustível depende da reação de fissão, que não acelera por falta de circulação da água. Gabarito: A.",
+  "hash": "ea30987a6a1046a2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q131": {
+  "explicacao": "A questão pede, a partir do cladograma, o grupo evolutivamente mais próximo das aves. Num cladograma, o parentesco é dado pelo ancestral comum mais recente: os grupos que se separam no ramo mais próximo das pontas são os mais aparentados. Na figura, os ramos das aves e dos outros dinossauros saem de um mesmo nó, o último antes das pontas. Esse nó representa um ancestral exclusivo dos dois grupos, compartilhado com nenhum outro. Por isso, as aves são consideradas dinossauros terópodes atuais e são mais aparentadas com os outros dinossauros. Os anfíbios se separaram no nó mais antigo do cladograma, então são os parentes mais distantes. Os mamíferos divergiram logo depois dos anfíbios. As tartarugas compartilham com as aves um ancestral mais antigo que o das aves com os dinossauros. Lagartos e cobras se ligam ao grupo das aves e dinossauros por um nó anterior, e não pelo ancestral comum mais recente. Gabarito: D.",
+  "hash": "a308d6b156807430",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q132": {
+  "explicacao": "A questão pede o que o Programa Nacional de Plantas Medicinais e Fitoterápicos tende a reduzir. O texto diz que o programa apoia o cultivo e o beneficiamento de plantas medicinais no país e amplia a oferta de fitoterápicos no SUS. Também diz que ele fortalece o desenvolvimento ambiental, social e econômico. Se o país produz seus próprios medicamentos a partir da biodiversidade nacional, com cultivo local e participação de comunidades, diminui a necessidade de comprar remédios de grandes indústrias farmacêuticas, muitas vezes estrangeiras. Assim, o programa tende a reduzir a dependência dessas empresas. A participação popular aumenta, porque o programa valoriza o conhecimento tradicional e envolve as comunidades no cultivo. A geração de emprego e renda cresce com a cadeia produtiva das plantas medicinais. As opções terapêuticas oferecidas pelo SUS se ampliam com os fitoterápicos. O uso sustentável da biodiversidade é estimulado pelo programa, e não reduzido. Gabarito: E.",
+  "hash": "beb578f42108653b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q133": {
+  "explicacao": "A questão pede a relação ecológica entre os cupins e os microrganismos do seu tubo digestório. O texto informa que os microrganismos produzem celulase, a enzima que degrada a celulose da madeira. Os cupins não produzem essa enzima em quantidade suficiente, então dependem dos microrganismos para aproveitar o alimento. Os microrganismos, por sua vez, recebem abrigo e um suprimento constante de alimento dentro do intestino do inseto. As duas espécies se beneficiam, e a associação é obrigatória, porque nenhum dos dois sobreviveria bem sem o outro. Uma relação assim é chamada de mutualismo. A cooperação, ou protocooperação, também beneficia os dois lados, mas é facultativa, o que não é o caso dos cupins. A competição prejudicaria ambos ao disputarem o mesmo recurso, e aqui eles atuam juntos. O comensalismo beneficia só uma espécie, e no caso os microrganismos também ganham. O parasitismo exigiria prejuízo ao cupim, que na verdade depende desses microrganismos. Gabarito: A.",
+  "hash": "8149a2bd5825d44e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q134": {
+  "explicacao": "A questão pede um procedimento da vinificação que reduza o risco de ocratoxina A (OTA) no vinho. O texto destaca que os fungos Aspergillus produtores da toxina se desenvolvem principalmente nas bagas danificadas das uvas, durante o amadurecimento. Se as uvas machucadas ou mofadas são a principal fonte da micotoxina, a medida mais direta é selecionar os cachos antes do processamento. Assim, descartam-se os cachos com frutos danificados ou com sinais de fungos, e a OTA não chega ao mosto. Inseticidas combatem insetos, e não fungos, embora insetos possam ferir as bagas. Por isso, a ação é indireta e não está entre os princípios da técnica descrita. A maceração dos frutos favorece a passagem da toxina das cascas para o vinho, o que aumentaria o risco. Medir a infrutescência não tem relação com a contaminação. A escolha da variedade de uva não impede que bagas danificadas sejam contaminadas. Gabarito: A.",
+  "hash": "b57222338675627b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q135": {
+  "explicacao": "A questão pede quais linhagens de planárias guardam memória fora dos gânglios cerebrais. O raciocínio é o seguinte: se, depois de perder a cabeça e regenerar novos gânglios, a planária ainda encontra o alimento rapidamente no dia 21, a informação aprendida estava armazenada em outra parte do corpo. Na tabela, todas as linhagens aprenderam ao longo da semana, e o tempo caiu de cerca de 90 s no dia 1 para cerca de 26 a 27 s no dia 7. No dia 21, a linhagem 1 levou 27 s e a linhagem 2 levou 29 s, praticamente o mesmo desempenho do fim do treino. Essas duas mantiveram a memória. As linhagens 3 e 4 levaram 91 s e 90 s, tempos semelhantes aos do primeiro dia, ou seja, perderam o aprendizado com a cabeça. A combinação 3 e 4 corresponde justamente às que esqueceram. A combinação 1 e 4 e a combinação 2 e 3 misturam uma linhagem que lembrou com uma que esqueceu. A combinação 1, 3 e 4 inclui duas linhagens sem memória. Gabarito: A.",
+  "hash": "a9b67eca084bafce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q136": {
+  "explicacao": "A questão pede a caixa que se ajusta perfeitamente à escultura, formada por uma esfera de raio 5 cm apoiada sobre um pedestal de base quadrada de 8 cm × 8 cm e altura de 15 cm. Primeiro, a altura total: a esfera toca o pedestal no centro da face superior, então fica inteira acima dele. A altura é 15 + 2 × 5 = 15 + 10 = 25 cm. Agora, a base: o pedestal mede 8 cm de lado, mas a esfera tem 10 cm de diâmetro e é mais larga que ele. Logo, a base da caixa precisa ter 10 cm × 10 cm. A caixa perfeitamente ajustada mede 10 × 10 × 25 cm, que é a caixa 4. A caixa 1 tem base de 8 cm, onde a esfera não cabe. A caixa 2 tem altura de apenas 20 cm e base folgada. A caixa 3 tem a base certa, mas é baixa demais, com 20 cm. A caixa 5 comporta a escultura, mas sobra espaço nas laterais. Gabarito: D.",
+  "hash": "db98a5e247026952",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q137": {
+  "explicacao": "A questão pede a lâmina cuja espessura é mais próxima de 2 mm. Basta calcular a diferença, em valor absoluto, entre cada espessura e 2 mm. O tipo I tem 1,97 mm, e a diferença é 2 − 1,97 = 0,03 mm. O tipo II tem 2,10 mm, e a diferença é 0,10 mm. O tipo III tem 1,098 mm, e a diferença é 0,902 mm. O tipo IV tem 2,06 mm, e a diferença é 0,06 mm. O tipo V tem 2,025 mm, e a diferença é 0,025 mm. A menor diferença é 0,025 mm, do tipo V. O cuidado está nas casas decimais: 0,025 é menor que 0,030. O tipo I fica muito perto, mas 0,03 é maior que 0,025. O tipo II está a 0,10 mm de distância. O tipo III é a pegadinha da leitura apressada, porque 1,098 parece próximo de 2 sem estar. O tipo IV está a 0,06 mm. Gabarito: E.",
+  "hash": "ff383559d0cfa85f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q138": {
+  "explicacao": "A questão pede a razão entre as taxas de variação das funções lineares p₁ e p₂, nessa ordem. A taxa de variação de uma função afim é a inclinação da reta: Δp/Δt. No gráfico, as duas retas partem de 100 animais em t = 0. Para p₁, a reta passa por (5; 125), então a taxa é (125 − 100) / (5 − 0) = 25/5 = 5 animais por semana. Para p₂, a reta passa por (12; 103), então a taxa é (103 − 100) / 12 = 3/12 = ¼ = 0,25 animal por semana. A razão é 5 ÷ ¼ = 5 × 4 = 20, ou seja, o rebanho com inseminação cresce 20 vezes mais rápido. A alternativa 15 não corresponde a nenhuma combinação correta dos dados. A alternativa 25/3 divide as variações (25 e 3) sem considerar os intervalos de tempo diferentes. A alternativa 22/7 não sai dos dados do gráfico. A alternativa 5/4 divide 125 por 100, sem calcular a variação. Gabarito: A.",
+  "hash": "bbbb36557b427f59",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q139": {
+  "explicacao": "A questão pede o número de bactérias, dois trilhões e quatrocentos e cinquenta bilhões, escrito em notação científica. Primeiro, as potências de 10: um bilhão é 10⁹, e um trilhão é 10¹². O número vale 2 × 10¹² + 450 × 10⁹. Escrevendo tudo em trilhões, 450 bilhões equivalem a 0,45 trilhão. O total é 2,45 trilhões, ou seja, 2,45 × 10¹², o mesmo que 2 450 000 000 000. Na notação científica, o coeficiente deve estar entre 1 e 10, e 2,45 cumpre essa condição. A alternativa 2,45 × 10⁶ corresponde a 2,45 milhões. A alternativa 2,45 × 10⁷ corresponde a 24,5 milhões. A alternativa 2,45 × 10⁹ corresponde a 2,45 bilhões, como se trilhão valesse bilhão. A alternativa 2,45 × 10¹⁵ corresponde a 2,45 quatrilhões. Gabarito: D.",
+  "hash": "07427e9ee1885918",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q140": {
+  "explicacao": "A questão pede a representação de 2 030 no sistema egípcio. O sistema egípcio é aditivo e não posicional: cada símbolo tem um valor fixo, e ele se repete quantas vezes for preciso. Pelo quadro, a barra vale 1, o arco vale 10, a espiral vale 100, a flor de lótus vale 1 000 e o dedo vale 10 000. Decompondo o número: 2 030 = 2 × 1 000 + 3 × 10. Basta escrever duas flores de lótus e três arcos, sem nenhuma espiral e nenhuma barra, já que não há centenas nem unidades. É isso que aparece na alternativa A. A alternativa B mostra duas flores e três espirais, que valem 2 300. A alternativa C mostra duas espirais e três barras, que valem 203. A alternativa D mostra dois dedos e três espirais, que valem 20 300. A alternativa E mostra dois dedos e três flores, que valem 23 000. Gabarito: A.",
+  "hash": "547753da1a25667c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q141": {
+  "explicacao": "A questão pede quanto a loja gastará a mais com televisores ao aumentar o pedido para reduzir em 60% o frete por unidade. O frete custa R$ 12 000,00 para até 120 aparelhos. No plano inicial, com 40 unidades, o frete por televisor é 12 000 / 40 = R$ 300,00. Com redução de 60%, o novo frete unitário deve ser 40% de 300, ou seja, 0,4 × 300 = R$ 120,00. A quantidade necessária é 12 000 / 120 = 100 televisores, dentro do limite de 120. A loja passa a comprar 100 − 40 = 60 aparelhos a mais. O gasto adicional é 60 × 1 200 = R$ 72 000,00. A alternativa 19 200 corresponde a 16 aparelhos a mais. A alternativa 28 800 corresponde a 24 aparelhos, o que reduziria o frete em 60% de outro modo, por engano. A alternativa 32 400 não segue a proporção do frete. A alternativa 96 000 corresponde a 80 aparelhos a mais, como se o pedido fosse de 120. Gabarito: D.",
+  "hash": "0524e3606d83744f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q142": {
+  "explicacao": "A questão pede o valor da conta com a medida de contenção. A família aumentou o consumo em 25% em relação ao mesmo mês do ano anterior. As regras da medida são estas: acréscimos de até 20% geram aumento de 50% na conta, e acréscimos acima de 20% geram aumento de 100%. Como 25% é maior que 20%, aplica-se o aumento de 100%. Sem a medida, a conta seria de R$ 120,00. Com aumento de 100%, o valor dobra: 120 + 120 = R$ 240,00. A alternativa 60,00 aplica uma redução, e não um aumento. A alternativa 80,00 também reduz o valor. A alternativa 150,00 aplica 25%, que é o acréscimo de consumo, e não a faixa da tarifa. A alternativa 180,00 aplica 50%, que vale só para acréscimos de até 20%. Gabarito: E.",
+  "hash": "b4fa3ebbd171be8e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q143": {
+  "explicacao": "A questão pede a escala da miniatura do Megalossauro. O dinossauro real tinha cerca de 900 cm de comprimento, e a imagem mostra que o brinquedo mede 36 cm. A escala é a razão entre a medida da miniatura e a medida real, nas mesmas unidades: 36 : 900. Dividindo os dois termos por 36, temos 1 : 25, porque 900 / 36 = 25. Ou seja, cada 1 cm do brinquedo corresponde a 25 cm do animal real. A alternativa 1 : 36 usa o tamanho do brinquedo como fator de redução. A alternativa 1 : 864 resulta da subtração 900 − 36, que não é a operação de escala. A alternativa 1 : 900 usa o tamanho real como fator, desconsiderando o brinquedo. A alternativa 1 : 936 resulta da soma 900 + 36. Gabarito: A.",
+  "hash": "35aed17fb492f2ad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q144": {
+  "explicacao": "A questão pede o número mínimo de funcionários a mais para terminar a instalação no prazo de 14 dias. A unidade de trabalho é o homem-hora. Nos primeiros 10 dias, trabalharam 4 funcionários por 8 horas diárias: 4 × 8 × 10 = 320 homens-hora, que correspondem a 2/5 da obra. A obra inteira exige 320 × 5/2 = 800 homens-hora. Faltam 3/5 da obra, ou seja, 800 − 320 = 480 homens-hora. Restam 14 − 10 = 4 dias, com jornadas de 10 horas, e cada funcionário contribui com 4 × 10 = 40 horas. São necessários 480 / 40 = 12 funcionários. Como já há 4, é preciso contratar 12 − 4 = 8. Com 1 ou 2 funcionários a mais, a equipe não alcança as horas necessárias. Com 5 a mais, a equipe teria 9 funcionários e faria só 360 homens-hora, menos que os 480. Com 9 a mais, a obra fica pronta, mas o número não é o mínimo. Gabarito: D.",
+  "hash": "3ae3497eabbf8ca0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q145": {
+  "explicacao": "A questão pede o menor número de fichas brancas a acrescentar para que a probabilidade de tirar branca seja maior que 50%. Hoje a urna tem 20 brancas, 30 azuis e 50 vermelhas, um total de 100 fichas. Acrescentando x fichas brancas, ficam 20 + x brancas num total de 100 + x. A condição é (20 + x) / (100 + x) > ½. Multiplicando os dois lados: 2(20 + x) > 100 + x, então 40 + 2x > 100 + x, e daí x > 60. O menor inteiro que satisfaz a condição é 61. Conferindo: 81 brancas em 161 fichas dá cerca de 50,3%. Com x = 60, a probabilidade seria exatamente 80/160 = 50%, que não é superior a 50%. A alternativa 81 resolve uma conta errada e exagera o número. As alternativas 41, 31 e 21 dão menos da metade de brancas. Gabarito: B.",
+  "hash": "bcd4e09712030895",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q146": {
+  "explicacao": "A questão pede o maior lance possível da Empresa 2 para manta asfáltica que ainda a torne a única vencedora. Vence a empresa com a menor soma dos lances. As notas do quadro não entram no critério. Somando os lances das outras empresas: Empresa 1: 10 000 + 5 500 + 12 000 = 27 500. Empresa 3: 11 500 + 6 000 + 11 000 = 28 500. Empresa 4: 12 000 + 5 000 + 11 500 = 28 500. Empresa 5: 11 000 + 5 000 + 12 500 = 28 500. A Empresa 2 já tem 11 000 + 7 000 = 18 000, e o total dela é 18 000 + x. Se ela empatasse com a Empresa 1 em 27 500, perderia no desempate, porque o lance da Empresa 1 em maquinário (10 000) é menor que o dela (11 000). Então é preciso que 18 000 + x < 27 500, ou seja, x < 9 500. O maior múltiplo de 500 nessa condição é 9 000. Os lances de 4 500 e de 6 500 garantem a vitória, mas não são o maior valor possível. O lance de 9 500 empata com a Empresa 1 e perde no desempate. O de 10 500 deixa a soma acima da Empresa 1. Gabarito: C.",
+  "hash": "180e091909bb3764",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q147": {
+  "explicacao": "A questão pede a dose de fertilizante que maximiza a produtividade, modelada por uma função quadrática P(Q). Pela região 1, P(0) = 1 000, então P(Q) = aQ² + bQ + 1 000. Pela região 2: 10 000a + 100b = 5 000. Pela região 3: 40 000a + 200b = 8 000. Multiplicando a primeira equação por 2, temos 20 000a + 200b = 10 000. Subtraindo da terceira: 20 000a = −2 000, logo a = −0,1, e daí b = 60. O máximo fica no vértice: Q = −b / 2a = −60 / (−0,2) = 300 kg/ha. Há um atalho: P(100) = P(500) = 6 000, e pela simetria da parábola o vértice está no ponto médio, (100 + 500)/2 = 300. Os valores 200 e 250 estão no trecho em que a produção ainda cresce. O valor 350 já passou do ponto de máximo. O valor 500 dá apenas 6 000 kg/ha. Gabarito: C.",
+  "hash": "9b4d64d2030b0d21",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q148": {
+  "explicacao": "A questão pede as espessuras do laminado após a 1ª, 2ª, 3ª, 4ª e 5ª dobras, partindo de uma chapa de 1 mm. Cada dobra ao meio coloca uma camada sobre a outra, e o número de camadas dobra. Começando com 1 mm, a espessura fica 2 mm após a 1ª dobra, 4 mm após a 2ª, 8 mm após a 3ª, 16 mm após a 4ª e 32 mm após a 5ª. É uma progressão geométrica de razão 2, e a espessura após n dobras é 2ⁿ mm: 2, 2², 2³, 2⁴ e 2⁵. A sequência 2, 4, 6, 8 e 10 é aritmética, como se cada dobra somasse 2 mm. As sequências com frações confundem espessura com comprimento: o comprimento da chapa é que se reduz à metade, enquanto a espessura aumenta. As frações 1/2, 1/4, 1/6, 1/8 e 1/10 ainda misturam padrões. A sequência 1, 1/2, 1/2², 1/2³ e 1/2⁴, além disso, começa pela chapa antes da primeira dobra. Gabarito: B.",
+  "hash": "6ce91198ed3a0698",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q149": {
+  "explicacao": "A questão pede o tipo de rolo e o custo total da cerca com cinco voltas de arame. O perímetro do terreno é 2 × (60 + 70) = 260 m. Com cinco voltas, são necessários 5 × 260 = 1 300 m de arame. Com o tipo I, de 100 m por rolo, são precisos 1 300 / 100 = 13 rolos, e o custo é 13 × 300 = R$ 3 900,00. Com o tipo II, de 150 m por rolo, 1 300 / 150 ≈ 8,67, então são precisos 9 rolos, ao custo de 9 × 440 = R$ 3 960,00. O tipo I é mais barato, com custo de R$ 3 900,00. A alternativa com o tipo I e R$ 2 100,00 considera 7 rolos, ou uma volta mal calculada. A alternativa com o tipo II e R$ 2 200,00 usa poucos rolos. A alternativa com o tipo II e R$ 3 520,00 usa 8 rolos, que somam só 1 200 m. A alternativa com o tipo II e R$ 3 960,00 tem a conta certa para esse tipo, mas ele custa mais que o tipo I. Gabarito: B.",
+  "hash": "072ab3665ba73818",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q150": {
+  "explicacao": "A questão pede o mês em que o produto II deixou de ser fabricado. O critério é parar no mês seguinte àquele em que as vendas de I superarem as de II. Pelo quadro, o produto I vendeu 80, 90 e 100 unidades de abril a junho, um aumento de 10 por mês. O produto II vendeu 190, 170 e 150, uma queda de 20 por mês. Mantendo o padrão: em julho, I vende 110 e II vende 130, então I ainda é menor. Em agosto, I vende 120 e II vende 110, e I supera II pela primeira vez. A fabricação de II termina no mês seguinte, setembro. Também se pode resolver com a diferença entre os produtos, que em junho é 50 e cai 30 por mês: 20 em julho e −10 em agosto. Em junho, II ainda vende 150 contra 100 de I. Julho é o mês em que II ainda vende mais. Agosto é o mês da ultrapassagem, e não o da parada. Outubro passa um mês do ponto certo. Gabarito: D.",
+  "hash": "a4019594d8d25105",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q151": {
+  "explicacao": "A questão pede a altura mínima do reservatório cilíndrico, com 3 m de diâmetro, que armazena a chuva de um dia captada pela laje. A chuva foi de 60 mm, o que equivale a 60 L por m². Sobre a laje de 450 m², o volume captado é 450 × 60 = 27 000 L. Como 1 m³ = 1 000 L, isso dá 27 m³. O raio do reservatório é 3/2 = 1,5 m, e a área da base é π r² = 3 × 1,5² = 3 × 2,25 = 6,75 m². Pelo volume do cilindro, V = área da base × h, então h = 27 / 6,75 = 4,00 m. A altura de 1,00 m daria um volume de apenas 6,75 m³. A de 1,50 m não comporta a chuva captada. A de 2,25 m usa o raio ao quadrado como se fosse a altura, ou outra confusão. A de 3,00 m confunde a altura com o diâmetro ou usa o raio errado. Gabarito: E.",
+  "hash": "5a113c0db5184abf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q152": {
+  "explicacao": "A questão pede o número total de deslocamentos possíveis da nave, que só pode ir de um vértice do cubo para outro vértice não adjacente a ele. O cubo tem 8 vértices. Fixando um vértice V, sobram 7 outros vértices. Destes, 3 são adjacentes a V, porque estão ligados a ele por uma aresta, e ficam proibidos. Sobram 7 − 3 = 4 vértices permitidos: os 3 das diagonais das faces que contêm V e o vértice oposto pela diagonal do cubo. Como isso vale para cada um dos 8 vértices, e o deslocamento tem sentido, já que ir de A para B é diferente de ir de B para A, o total é 8 × 4 = 32 deslocamentos. O total de 16 conta cada par de vértices uma só vez, ignorando o sentido. O de 24 considera só 3 destinos por vértice, esquecendo a diagonal do cubo ou as das faces. O de 26 não corresponde a nenhuma contagem coerente. O de 56 conta todos os pares ordenados de vértices distintos (8 × 7), incluindo os adjacentes. Gabarito: D.",
+  "hash": "ccebef6d2511cb44",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q153": {
+  "explicacao": "A questão pede a mediana das 12 médias mensais de chuva do quadro. O primeiro passo é colocar os valores em ordem crescente: 40, 44, 50, 71, 71, 73, 127, 143, 161, 201, 222, 237. Com 12 valores, a quantidade é par, e a mediana é a média dos dois valores centrais, o 6º e o 7º. Esses valores são 73 e 127, então a mediana é (73 + 127) / 2 = 200 / 2 = 100 mm. O valor 120 não corresponde aos termos centrais e pode vir de uma estimativa da média. O valor 73 é apenas o 6º termo, sem fazer a média com o 7º. O valor 50 é o 3º termo da lista ordenada. O valor 47 não sai da ordenação correta e pode surgir de uma tabela não ordenada. Gabarito: B.",
+  "hash": "e0e3508a48d9c3ee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q154": {
+  "explicacao": "A questão pede quantos decímetros representa o algarismo 7 em 428,97 km. A posição do 7 determina o seu valor: ele está na segunda casa depois da vírgula, a casa dos centésimos. Assim, o 7 vale 0,07 km. Agora, convertemos para decímetros. Como 1 km = 1 000 m e 1 m = 10 dm, temos 1 km = 10 000 dm. Então 0,07 km = 0,07 × 10 000 = 700 dm. Em outras palavras, 0,07 km = 70 m = 700 dm. O valor 0,07 mantém a resposta em quilômetros. O valor 0,7 é a conversão para hectômetros. O valor 7 confunde o algarismo com o valor que ele representa. O valor 70 000 multiplica por um fator de conversão grande demais. Gabarito: D.",
+  "hash": "a5d9d08c5a801255",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q155": {
+  "explicacao": "A questão pede a escola que aumentou o Ideb de 2015 para 2017 e atingiu ou superou a meta de 2017, tanto nos anos iniciais quanto nos finais. Analisando a tabela, a escola II subiu de 5,1 para 5,4 nos anos iniciais, acima da meta de 5,3. Nos anos finais, subiu de 4,2 para 4,3 e igualou a meta de 4,3, o que conta como meta atingida. Todas as condições se cumprem. A escola I subiu nos anos iniciais, mas o Ideb de 5,9 ficou abaixo da meta de 6,0. A escola III atingiu a meta nos anos iniciais, mas nos anos finais caiu de 6,1 para 5,9 e não alcançou a meta. A escola IV caiu nos anos iniciais, de 6,4 para 6,2, e ficou estável nos finais. A escola V não aumentou em nenhuma etapa e ficou abaixo das duas metas. Gabarito: B.",
+  "hash": "d2ac567e6946ad91",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q156": {
+  "explicacao": "A questão pede a probabilidade de Paulo acertar a senha em até quatro tentativas diferentes. A senha é um anagrama de DETETIVE que começa com D. Fixando o D, sobram 7 letras para permutar: E, T, E, T, I, V, E, com o E repetido três vezes e o T duas vezes. O número de permutações com repetição é 7! / (3! × 2!) = 5 040 / (6 × 2) = 5 040 / 12 = 420 senhas possíveis. Como Paulo faz 4 tentativas distintas, a probabilidade de acertar é 4 / 420 = 1/105. A probabilidade 1/420 considera uma única tentativa. A de 1/840 ignora a repetição do T. A de 1/1 260 ignora a repetição do E e considera 4 tentativas, ou combina os erros de outro modo. A de 1/10 080 trata todas as letras como distintas e não fixa nada corretamente. Gabarito: A.",
+  "hash": "815260d8c0a6aab6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q157": {
+  "explicacao": "A questão pede o valor total da locação por 3 dias e três quartos de dia, somando o aluguel e o seguro. Primeiro, o aluguel: 3 dias e ¾ de dia são 3 × 24 + 18 = 90 horas. São 90 / 6 = 15 períodos de 6 horas, e o aluguel custa 15 × 50 = R$ 750,00. Agora, o seguro pelo gráfico: entre 3 dias (R$ 40,00) e 4 dias (R$ 80,00), o gráfico é um segmento de reta, que sobe R$ 40,00 em um dia. Em ¾ de dia, o aumento é ¾ × 40 = 30. O seguro em 3,75 dias é 40 + 30 = R$ 70,00. O total é 750 + 70 = R$ 820,00. O valor de 640,00 erra a contagem de períodos de 6 horas. O de 670,00 também conta períodos a menos. O de 790,00 usa o seguro de 3 dias, de R$ 40,00. O de 830,00 usa o seguro de 4 dias, de R$ 80,00. Gabarito: D.",
+  "hash": "efa1bc0e61252709",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q158": {
+  "explicacao": "A questão pede as quantidades mínima e máxima do alimento a consumir por dia. Há duas condições: as proteínas devem aumentar 80% em relação ao consumo atual, e o sódio não pode passar de 36% do valor diário. Pelo rótulo, 60 g fornecem 9% do valor diário de proteínas e 12% do de sódio. Para as proteínas, aumentar 80% significa consumir 1,8 vez a quantidade atual: 1,8 × 60 = 108 g. Esse é o mínimo, e corresponde a 16,2% do valor diário. Para o sódio, o limite é 36%, que é o triplo dos 12% fornecidos por 60 g. A quantidade máxima é 3 × 60 = 180 g. A atleta deve consumir entre 108,0 g e 180,0 g. O par 48,0 e 89,0 aplica as porcentagens de forma invertida. O par 74,4 e 102,6 erra o cálculo das duas condições. O par 81,6 e 108,0 usa os 108 g como máximo. O par 88,8 e 113,4 também calcula mal os aumentos. Gabarito: E.",
+  "hash": "ec91dd07c211a516",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q159": {
+  "explicacao": "A questão pede a probabilidade de Paula tirar exatamente R$ 10,75 com uma cédula e duas moedas tiradas ao acaso. Ela tem 8 cédulas: uma de 2, duas de 5, duas de 10, uma de 20 e duas de 50. Tem 4 moedas, de 0,10, 0,25, 0,50 e 1,00. A única forma de compor R$ 10,75 é usar uma cédula de R$ 10,00 com as moedas de R$ 0,25 e R$ 0,50. Para a cédula, há 2 cédulas de 10 entre 8, e a probabilidade é 2/8 = ¼. Para as moedas, o número de pares possíveis é C(4,2) = 6, e só o par 0,25 + 0,50 serve, então a probabilidade é 1/6. Como os eventos são independentes, a probabilidade total é ¼ × 1/6 = 1/24. A probabilidade 1/48 considera só uma cédula de 10. A de 1/16 conta mal os pares de moedas. A de 5/12 soma probabilidades em vez de multiplicar. A de ¼ considera só a escolha da cédula. Gabarito: B.",
+  "hash": "e2a207f09dab33c5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q160": {
+  "explicacao": "A questão pede a média de salários mínimos por funcionário, a partir do gráfico de barras. Pelo gráfico, há 10 funcionários que ganham 1 salário mínimo, 30 que ganham 2, 30 que ganham 4, 50 que ganham 5 e 40 que ganham 7. Ninguém ganha 3 ou 6 salários. O total de funcionários é 10 + 30 + 30 + 50 + 40 = 160. A soma dos salários é 1 × 10 + 2 × 30 + 4 × 30 + 5 × 50 + 7 × 40 = 10 + 60 + 120 + 250 + 280 = 720. A média ponderada é 720 / 160 = 4,5 salários mínimos. A média 2,7 não pondera corretamente as frequências. A de 3,8 resulta de outra combinação errada dos dados. A de 4,0 é a média simples dos valores 1 a 7, sem considerar quantos funcionários há em cada faixa. A de 5,0 é a moda, o valor mais frequente, e não a média. Gabarito: D.",
+  "hash": "eb78e55b676952db",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q161": {
+  "explicacao": "A questão pede a relação entre as intensidades I₁ e I₂, sabendo que a intensidade é inversamente proporcional ao quadrado da distância e que d₂ = 2d₁. A relação é I = k / d². Para o receptor 1, I₁ = k / d₁². Para o receptor 2, I₂ = k / (2d₁)² = k / (4d₁²) = I₁ / 4. Logo, I₁ = 4I₂. Ao dobrar a distância, a intensidade cai para um quarto, porque o sinal se espalha por uma área quatro vezes maior. A relação I₁ = 2I₂ trata a proporção como inversa simples, sem o quadrado. A relação I₁ = I₂ ignora a dependência com a distância. A relação I₁ = ½I₂ inverte e esquece o quadrado. A relação I₁ = ¼I₂ inverte a relação, como se o receptor mais distante recebesse sinal mais forte. Gabarito: A.",
+  "hash": "95c0a2b0ea45e159",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q162": {
+  "explicacao": "A questão pede a área de papelão de cada caixa, em função do diâmetro d dos potes. A figura mostra os potes em 4 fileiras de 6, ou seja, 24 por camada. Como a caixa leva 48 potes, são 2 camadas. Cada pote tem altura 2d. As dimensões internas da caixa ficam: comprimento 6d, largura 4d e altura 2 × 2d = 4d. A base mede 6d × 4d = 24d². As laterais medem 2 × (6d × 4d) + 2 × (4d × 4d) = 48d² + 32d² = 80d². A face superior também tem 24d². As duas abas grandes cobrem metade cada uma: 2 × 12d² = 24d². As duas abas pequenas cobrem um terço cada uma: 2 × 8d² = 16d². O total é 24 + 80 + 24 + 16 = 144d². A expressão 80d² considera só as laterais. A de 104d² soma base e laterais, mas esquece as abas. A de 128d² usa a tampa simples, sem as abas extras. A de 152d² superestima as abas pequenas. Gabarito: D.",
+  "hash": "a1fb86098a2fb39f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q163": {
+  "explicacao": "A questão pede a opção de contratação que mantém o prazo usando o menor número de profissionais. Para terminar no prazo, a equipe precisa voltar ao rendimento original de 24r. Restaram 24 − 18 = 6 profissionais, com rendimento total de 6r, então os contratados devem somar pelo menos 18r. Opção I: 6 × 2r = 12r, insuficiente. Opção II: 8 × 2,2r = 17,6r, insuficiente por pouco. Opção III: 9 × 1,5r = 13,5r, insuficiente. Opção IV: 12 × 1,5r = 18r, exatamente o necessário. Opção V: 15 × 2r = 30r, suficiente, mas com mais profissionais. Entre as opções que garantem o prazo, a IV usa menos gente, 12 contra 15. A opção I não repõe o rendimento perdido. A opção II fica abaixo de 18r. A opção III também é insuficiente. A opção V contrata mais profissionais que o necessário. Gabarito: D.",
+  "hash": "cc930ea6ee23951b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q164": {
+  "explicacao": "A questão pede a loja a que o aplicativo leva, sabendo que a distância da 2ª para a 3ª rotatória do trajeto é o dobro da distância da 1ª para a 2ª. Pelo quadro, a única distância que é o dobro de outra é 400 m, entre as rotatórias 2 e 4, contra 200 m. Então o trajeto passa por uma rotatória a 200 m da 2 (pode ser a 1, a 5 ou a 6), depois pela 2 e por fim pela 4. Na rotatória 2, percorrida no sentido anti-horário, é preciso que a segunda saída seja a Rua 8, que leva à rotatória 4. Isso só acontece entrando pela Rua 3, vindo da rotatória 5: a primeira saída é a Rua 7, e a segunda é a Rua 8. Na rotatória 4, entrando pela Rua 8, a primeira saída é a Rua 9 e a segunda é a Rua 10, onde fica a loja I. A loja II fica na Rua 9, que é a primeira saída da rotatória 4. A loja III fica na Rua 13, ligada à rotatória 1. As lojas IV e V ficam junto à rotatória 3, a 100 m da 2, o que não respeita a relação de dobro. Gabarito: A.",
+  "hash": "8bfc76323c28a5e5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q165": {
+  "explicacao": "A questão pede o nível de investimento da cidade, que depende da idade média da população obesa. A média geral é ponderada pelas proporções: 70% de homens com média de 50 anos e 30% de mulheres com média de 30 anos. O cálculo é M = 0,7 × 50 + 0,3 × 30 = 35 + 9 = 44 anos. Pelo quadro, o nível II vale para 42 < M < 50, e 44 está nesse intervalo. O nível I exige M ≥ 50, que seria a média só dos homens. O nível III corresponde a 37 < M ≤ 42 e não inclui 44. O nível III também seria o resultado de quem fizesse a média simples, (50 + 30)/2 = 40. O nível IV vai de 30 a 37, abaixo do valor calculado. O nível V exige M ≤ 30, que seria a média só das mulheres. Gabarito: B.",
+  "hash": "394af5d92a34f91e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q166": {
+  "explicacao": "A questão pede a expressão do valor arrecadado V em função do número n de exames. O exame custa R$ 150,00. Dois terços dos clientes têm desconto de 30% e pagam 0,7 × 150 = R$ 105,00. O outro terço paga R$ 150,00. O valor médio por exame é (2/3) × 105 + (1/3) × 150 = 70 + 50 = R$ 120,00. Assim, V = 120n. Por outro caminho, o desconto médio é (2/3) × 30% = 20%, e 0,8 × 150 = 120. A expressão V = 135n aplica 30% de desconto a apenas um terço dos clientes. A expressão V = 150n ignora o desconto. A expressão V = 155n soma, em vez de subtrair. A expressão V = 180n aplica o percentual como acréscimo. Gabarito: A.",
+  "hash": "9de08fcdc0d89d05",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q167": {
+  "explicacao": "A questão pede o modelo de piscina de menor volume, todos com 2 m de profundidade. Como a altura é igual para todos, basta comparar as áreas das bases. Modelo I: 5, 12 e 13 formam um triângulo retângulo, porque 5² + 12² = 13². A área é (5 × 12)/2 = 30 m², e o volume é 60 m³. Modelo II: triângulo equilátero de lado 10, com área (√3/4) × 100 = 25 × 1,7 = 42,5 m² e volume de 85 m³. Modelo III: quadrado de lado 6, com área de 36 m² e volume de 72 m³. Modelo IV: hexágono regular de lado 6, com área 6 × (√3/4) × 36 = 54 × 1,7 = 91,8 m² e volume de 183,6 m³. Modelo V: círculo de raio 5, com área 3 × 25 = 75 m² e volume de 150 m³. O menor volume é o do modelo I, com 60 m³. O modelo II tem 85 m³. O modelo III tem 72 m³. O modelo IV, com 183,6 m³, é o maior de todos. O modelo V tem 150 m³. Gabarito: A.",
+  "hash": "37b2da061fb9c394",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q168": {
+  "explicacao": "A questão pede o total de vendas previsto para a 2ª semana, de acordo com a reta de tendência, e não pelos pontos reais. No gráfico, a reta passa por 11 no domingo, 12 na segunda, 13 na terça e 14 na quarta, e chega a 17 no sábado. Ela cresce 1 ventilador por dia. Continuando a reta, a 2ª semana teria 18, 19, 20, 21, 22, 23 e 24 vendas. A soma é uma progressão aritmética: (18 + 24) × 7 / 2 = 42 × 7 / 2 = 147. O total de 104 é a soma dos pontos reais da 1ª semana. O de 140 é a soma dos valores da reta na 1ª semana mais um ajuste incorreto, ou 7 × 20, sem a progressão. O de 168 usa 24 por dia, o valor do último dia. O de 175 também superestima o crescimento. Gabarito: C.",
+  "hash": "fdda5621d0838382",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q169": {
+  "explicacao": "A questão pede quanto deve diminuir a capacidade da nova garrafa em relação à de 2 L. Antes, a fábrica envasava 200 000 × 2 = 400 000 L de suco. Com aumento de 20%, a produção passa a 1,2 × 400 000 = 480 000 L. O número de garrafas aumenta 60%: 1,6 × 200 000 = 320 000 garrafas. Para envasar todo o suco, cada garrafa deve ter pelo menos 480 000 / 320 000 = 1,5 L. A redução máxima é 2 − 1,5 = 0,5 L. Também é possível pensar em fatores: a nova capacidade é 2 × 1,2 / 1,6 = 1,5 L. A redução de 0,4 L corresponde aos 20% de 2 L. A de 0,6 L não sai da razão correta. A de 0,8 L subtrai diretamente 60% − 20% = 40% de 2 L. A de 1,2 L é a diferença entre os percentuais aplicada de forma errada, ou 60% de 2 L. Gabarito: B.",
+  "hash": "f21eb102632814bf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q170": {
+  "explicacao": "A questão pede o investimento em 2013 caso se aplicasse o maior aumento percentual entre dois anos consecutivos de 2007 a 2012. Os valores do gráfico estão em milhares de reais, e as alternativas seguem essa mesma escala. Calculando as variações ano a ano: de 2007 para 2008, 824/713 ≈ 1,156, ou 15,6%. De 2008 para 2009, 990/824 ≈ 1,201, ou 20,1%. De 2009 para 2010, 1 100/990 ≈ 1,111, ou 11,1%. De 2010 para 2011, 1 300/1 100 ≈ 1,182, ou 18,2%. De 2011 para 2012, 1 400/1 300 ≈ 1,077, ou 7,7%. O maior aumento foi de cerca de 20%, entre 2008 e 2009. Aplicado a 2012: 1 400 × 1,201 ≈ 1 682, que é o valor mais próximo de 1 680. O valor 1 498 aplica o menor aumento, de 7%. O valor 1 600 soma a diferença absoluta de 200 de 2010 para 2011. O valor 2 087 aplica um percentual de cerca de 49%. O valor 2 744 corresponde a quase dobrar o investimento. Gabarito: C.",
+  "hash": "d8e29a425a581440",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q171": {
+  "explicacao": "A questão pede o tipo de lata que permite pintar a parede pelo menor custo, comprando só latas de um mesmo tipo e em quantidade inteira. A parede tem 320 m², e cada litro cobre 10 m², então são necessários 32 L de tinta. Lata I, de 0,6 L: 32/0,6 ≈ 53,3, então são 54 latas, a 54 × 18 = R$ 972,00. Lata II, de 0,8 L: 32/0,8 = 40 latas exatas, a 40 × 23 = R$ 920,00. Lata III, de 1 L: 32 latas, a 32 × 29 = R$ 928,00. Lata IV, de 3 L: 32/3 ≈ 10,7, então são 11 latas, a 11 × 85 = R$ 935,00. Lata V, de 5 L: 32/5 = 6,4, então são 7 latas, a 7 × 150 = R$ 1 050,00. O menor custo é o da lata II, que ainda não deixa sobra de tinta. A lata I custa mais. A lata III tem o menor preço por litro entre as menores, mas o total fica R$ 8,00 acima. A lata IV tem o menor preço por litro, mas o arredondamento para 11 latas encarece a compra. A lata V é a mais cara. Gabarito: B.",
+  "hash": "7afe3adc5d67e882",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q172": {
+  "explicacao": "A questão pede a menor distância entre o fio e o solo. O fio é modelado por y = 0,02x² − 0,16x, com a origem no topo do poste A, a 6 m do chão. A parábola tem concavidade para cima, porque a = 0,02 > 0. O ponto mais baixo é o vértice. A abscissa do vértice é x = −b / 2a = 0,16 / 0,04 = 4 m, exatamente no meio entre os postes, que estão a 8 m um do outro. A ordenada do vértice é y = 0,02 × 16 − 0,16 × 4 = 0,32 − 0,64 = −0,32 m. Ou seja, o fio desce 0,32 m abaixo do topo dos postes. A distância ao solo é 6 − 0,32 = 5,68 m. O valor 5,36 desconta duas vezes 0,32 m. O valor 5,84 desconta só metade, 0,16 m. O valor 5,98 desconta apenas 0,02. O valor 5,99 usa coeficientes errados no cálculo. Gabarito: B.",
+  "hash": "09ef380d865466a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q173": {
+  "explicacao": "A questão pede a unidade de uma grandeza que é diretamente proporcional à massa (kg) e à área (m²) do tecido. Se uma grandeza G é diretamente proporcional a duas outras, ela é proporcional ao produto delas: G = k × massa × área. A unidade fica kg × m², ou kg ⋅ m². A unidade m ⋅ kg⁻¹ indicaria proporção inversa com a massa e usaria metro, não metro quadrado. A unidade m² ⋅ kg⁻¹ seria inversamente proporcional à massa. A unidade kg ⋅ m⁻² é a da gramatura, ou densidade superficial, que é inversamente proporcional à área. A unidade kg ⋅ m usa comprimento, e não área. Gabarito: E.",
+  "hash": "963ce0dcd05812ea",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q174": {
+  "explicacao": "A questão pede a escala da maquete de Artur em relação à escola real. A maquete de Pedro está na escala 1 : 100: cada 1 cm da maquete representa 100 cm da escola. Artur fez uma maquete menor a partir da de Pedro, com a relação 4 : 1, ou seja, 4 cm da maquete de Pedro correspondem a 1 cm da de Artur. Assim, cada medida de Artur é ¼ da medida de Pedro. Compondo as escalas: 1 cm de Artur equivale a 4 cm de Pedro, que equivalem a 4 × 100 = 400 cm da escola. A escala final é 1 : 400, o mesmo que (1/100) × (1/4) = 1/400. A escala 1 : 25 divide 100 por 4, como se a maquete tivesse aumentado. A escala 1 : 60 não corresponde a nenhuma composição correta. A escala 1 : 140 soma em vez de multiplicar. A escala 1 : 250 também combina mal os fatores. Gabarito: E.",
+  "hash": "c54e294468ec75ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q175": {
+  "explicacao": "A questão pede a vazão σ₁ em função do volume final V_T, comum às duas aeronaves. Para A₂, V₂ = 2t + 100. No instante final, V_T = 2t + 100, de onde t = (V_T − 100)/2. Para A₁, V₁ = σ₁t, e no mesmo instante V_T = σ₁t. Substituindo t: σ₁ = V_T / t = V_T / [(V_T − 100)/2] = 2V_T / (V_T − 100). Conferindo com os 10 minutos (600 s): V_T = 2 × 600 + 100 = 1 300 L, e σ₁ = 2 600 / 1 200 = 1 300 / 600 ≈ 2,17 L/s, coerente com V_T / 600. A alternativa A multiplica V_T por t, em vez de dividir, e ainda erra o sinal. A alternativa B também multiplica V_T pelo tempo. A alternativa D usa V_T + 100, como se A₂ tivesse começado com menos combustível. A alternativa E esquece o fator 2 da vazão de A₂ ao isolar t. Gabarito: C.",
+  "hash": "a3307ff37d54ea88",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q176": {
+  "explicacao": "A questão pede quantos códigos de barras diferentes podem existir no país, pelo princípio fundamental da contagem. Analisando posição a posição: os dígitos 1 a 3 são fixos (7, 8 e 9), então há 1 possibilidade. Os dígitos 4 a 9 são seis posições, cada uma com 4 opções (4, 5, 6 ou 7), o que dá 4⁶. Os dígitos 10 a 12 são três posições, cada uma com 10 opções (0 a 9), o que dá 10³. O dígito 13 é o verificador, calculado a partir dos anteriores, e não acrescenta possibilidades. O total é 1 × 4⁶ × 10³ = 4⁶ × 10³. A expressão 4⁶ × 9³ exclui um algarismo dos dígitos do produto. A expressão 10⁶ × 10³ permite qualquer algarismo na identificação da empresa. A expressão 3! × 4⁶ × 10³ permuta os dígitos do país, que têm ordem fixa. A expressão (6 × 4) × (10 × 3) multiplica as posições pelas opções, em vez de elevar a potência. Gabarito: B.",
+  "hash": "a2ef5189774616a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q177": {
+  "explicacao": "A questão pede o porcelanato mais barato para revestir a sala de 8 m × 4 m, comprando caixas fechadas. A área da sala é 32 m² = 320 000 cm². No tipo 1, cada peça de 40 × 40 cm tem 1 600 cm². São necessárias 320 000 / 1 600 = 200 peças. Com 2 peças por caixa, são 100 caixas, a 100 × 6 = R$ 600,00. No tipo 2, cada peça de 80 × 80 cm tem 6 400 cm². São necessárias 320 000 / 6 400 = 50 peças. Com 5 peças por caixa, são 10 caixas, a 10 × 70 = R$ 700,00. O tipo 1 sai R$ 100,00 mais barato. A justificativa pelo valor por peça é falsa: no tipo 1 a peça custa R$ 3,00 e no tipo 2 custa R$ 14,00, mas o que decide é o custo total. A justificativa de usar menos caixas do tipo 2 não considera o preço de cada caixa. Precisar de menos peças do tipo 2 não significa gastar menos. Ter peças e caixas maiores também não garante o menor custo. Gabarito: C.",
+  "hash": "bebf7e53ca1e4a8b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q178": {
+  "explicacao": "A questão pede a expressão que traduz o risco de doença coronariana: a razão entre triglicerídeos (T) e colesterol HDL (C), nessa ordem, é maior que 4. A tradução direta é T/C > 4. Como T e C são positivos, podemos inverter os dois lados da desigualdade, e o sentido se inverte: C/T < ¼. Por exemplo, com T = 200 e C = 40, a razão T/C = 5, que é maior que 4, e indica risco. A razão C/T = 0,2, que é menor que 0,25, e confirma a equivalência. A expressão T ⋅ C < 4 usa um produto, e não uma razão. A expressão T ⋅ C > 4 também usa um produto. A expressão T − C > 4 usa uma diferença. A expressão C/T > ¼ inverte a razão sem inverter o sinal da desigualdade e descreve justamente a ausência de risco. Gabarito: E.",
+  "hash": "db7b5649f065d6e5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q179": {
+  "explicacao": "A questão pede qual percentual da frota das regiões Sul e Norte deve ser transferido para o Sudeste chegar a 40% do total. A distribuição atual é: Nordeste 18%, Centro-Oeste 12% e Sul + Norte 3/8 = 37,5%. O Sudeste tem hoje 100 − 18 − 12 − 37,5 = 32,5%. Para chegar a 40%, faltam 40 − 32,5 = 7,5% da frota total. Esses 7,5% saem do Sul e do Norte, que juntos têm 37,5% da frota. Em relação à frota dessas regiões, a transferência é 7,5 / 37,5 = 0,2 = 20%. O valor de 4% não corresponde a nenhuma etapa correta. O de 7,5% é o percentual sobre a frota total, mas a pergunta é sobre a frota do Sul e do Norte. O de 14% subtrai percentuais de forma errada. O de 23% também não segue o raciocínio. Gabarito: D.",
+  "hash": "8ec3fe53f6bc7266",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q180": {
+  "explicacao": "A questão pede a razão k entre a altura da folha A1 e a altura da folha A4. Cada folha é obtida dobrando a anterior ao meio pela altura. Assim, a altura da folha seguinte é igual à largura da anterior. Como largura/altura = 1/√2, a largura é a altura dividida por √2. Então, a cada passo (A1 → A2 → A3 → A4), a altura fica dividida por √2. De A1 para A4 são três passos, e a altura de A4 é a altura de A1 dividida por (√2)³. Logo, k = (√2)³ = 2√2 ≈ 2,83. Por exemplo, na prática, a altura da A1 é 841 mm e a da A4 é 297 mm, e 841/297 ≈ 2,83. O valor 3√2 multiplica o número de passos por √2, em vez de elevar à potência. O valor 3/√2 também usa 3 como fator. O valor 1/√2 corresponde a um único passo e está invertido. O valor 1/(2√2) é a razão inversa, a altura de A4 sobre a de A1. Gabarito: B.",
+  "hash": "9ad8add255d9c5e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q91": {
+  "explicacao": "A questão pede a interação ecológica que explica por que não existe o time dos casados no futebol das aranhas da tirinha. O primeiro quadrinho dá a pista: logo após as núpcias, a viúva-negra come o marido. No segundo quadrinho, um jogo entre machos solteiros e a pergunta sobre o time dos casados completam o humor: não há casados porque todos foram devorados pelas fêmeas. Quando um indivíduo mata e come outro da mesma espécie, a relação é intraespecífica e desarmônica e recebe o nome de canibalismo. Na viúva-negra, a fêmea, maior que o macho, pode devorá-lo depois da cópula, o que ainda lhe fornece nutrientes para a produção de ovos. Predatismo é o termo usado entre espécies diferentes, e aqui predadora e presa são da mesma espécie. No parasitismo, o parasita vive à custa do hospedeiro sem consumi-lo de uma vez. Competição é a disputa por recursos, e não a ingestão do parceiro. Comensalismo beneficia uma espécie sem prejudicar a outra, o que não combina com o macho devorado. Gabarito: B.",
+  "hash": "e62cd1ca3b84636a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q92": {
+  "explicacao": "A questão pede a idade de uma amostra de granito a partir da proporção entre o potássio-40 restante e os produtos do seu decaimento, consultando a tabela. A amostra tem 2,5 g de ⁴⁰K e 17,5 g de produtos de decaimento. Dividindo os dois valores por 2,5, a proporção fica 2,5 : 17,5 = 1 : 7. Pela tabela, a proporção 1 : 7 corresponde a 3,9 × 10⁹ anos. O resultado é coerente com a ideia de meia-vida. A massa inicial era 2,5 + 17,5 = 20 g, e restaram 2,5 g, ou seja, ⅛ do inicial. Como ⅛ = (½)³, passaram-se três meias-vidas: 3 × 1,3 × 10⁹ = 3,9 × 10⁹ anos. A alternativa 1,3 × 10⁹ corresponde à proporção 1 : 1, isto é, uma única meia-vida. A alternativa 2,6 × 10⁹ corresponde à proporção 1 : 3, ou duas meias-vidas. A alternativa 1,7 × 10¹⁰ é a idade da proporção 1 : 19. A alternativa 2,1 × 10¹⁰ é a idade da proporção 1 : 40. Gabarito: C.",
+  "hash": "d6858762e3d0c193",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q93": {
+  "explicacao": "A questão pede o tema da campanha a partir dos benefícios listados no cartaz. Os pontos que decidem são estes: o cartaz fala em diminuir a poluição do solo, da água e do ar, em prolongar a vida útil dos aterros sanitários, em gerar empregos e em melhorar a limpeza da cidade. Prolongar a vida útil dos aterros só acontece quando parte do lixo deixa de ir para eles. Isso ocorre quando os resíduos são separados na origem e encaminhados à reciclagem. A coleta seletiva também gera empregos, por exemplo para catadores e cooperativas, e estimula a consciência ecológica. Por isso, o cartaz trata do descarte seletivo de resíduos sólidos para reciclagem. O uso de transporte coletivo reduz a poluição do ar, mas não tem relação com aterros. O consumo responsável de eletricidade e biocombustíveis não interfere na limpeza urbana nem nos aterros. A troca de sacolas plásticas é uma ação pontual, que não explica todos os benefícios listados. A substituição de eletrodomésticos antigos chega a gerar mais resíduos no curto prazo. Gabarito: A.",
+  "hash": "8ae2e1842fe9d778",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q94": {
+  "explicacao": "A questão pede a classificação do material chamado de metal no ferro-velho. Os dados importantes são três: as amostras têm aspecto homogêneo a olho nu, são formadas apenas por zinco e cobre e têm propriedades de metal. Uma mistura homogênea de dois ou mais metais, obtida pela fusão e solidificação conjunta, é uma liga metálica. A liga de cobre e zinco é o latão, muito usado em torneiras, registros e peças decorativas, o que explica sua presença comum na sucata. Emulsão é a dispersão de um líquido em outro líquido imiscível, como água e óleo, e não serve para sólidos metálicos. Suspensão é uma mistura heterogênea com partículas sólidas dispersas num fluido, o que contraria a homogeneidade observada. Amálgama é a liga que contém mercúrio, e as análises indicaram apenas cobre e zinco. Composto salino exige ligação iônica entre metal e ametal, e cobre e zinco são dois metais. Gabarito: B.",
+  "hash": "7a61dcd7a1a55f8c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q95": {
+  "explicacao": "A questão pede uma medida de controle da população de javalis que não interfira na dinâmica do ambiente. O texto informa que o javali é uma espécie invasora, que causa prejuízos a lavouras e à suinocultura, ameaça espécies nativas e transmite vírus. O texto também diz que ele é o único animal cujo abate em ambientes naturais é permitido no país. A caça excepcional e controlada retira apenas os indivíduos da espécie exótica. Assim, ela reduz a população invasora sem atingir outras espécies nem alterar o restante do ecossistema. É, inclusive, a estratégia que a legislação já autoriza. A aplicação de veneno em adubos e sementes contaminaria o solo e mataria outros animais. A pecuária intensiva de porcos não controla os javalis e ainda aumentaria o risco de transmissão de doenças. Substituir os milharais apenas desloca o problema, porque os javalis consomem outras culturas e espécies nativas. Plantar eucaliptos no lugar de espécies nativas destruiria o ecossistema original. Gabarito: A.",
+  "hash": "2208edf32f5e87fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q96": {
+  "explicacao": "A questão pede como minimizar o escurecimento da salada de frutas. O texto diz que o escurecimento vem de uma reação catalisada por enzimas, as polifenoloxidases, que oxidam compostos fenólicos em pH próximo da neutralidade. As enzimas têm um pH ótimo de atuação. Se o meio fica mais ácido, a enzima perde atividade, e a oxidação fica mais lenta. O suco de limão é rico em ácido cítrico, que baixa o pH, e em ácido ascórbico (vitamina C), um antioxidante que também reduz os produtos da oxidação. Por isso, esse é o recurso usado na cozinha para manter as frutas claras. A água potável tem pH próximo de 7 e não altera significativamente as condições da enzima. O mel de abelha é basicamente açúcar e não acidifica o meio de forma eficaz. O sal de cozinha não modifica o pH, e não é esse o seu uso para conservar frutas. O açúcar refinado é neutro e não inibe a enzima. Gabarito: B.",
+  "hash": "9b3306a01fbe5212",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q97": {
+  "explicacao": "A questão pede como deslocar o equilíbrio CHCl₃(g) + Cl₂(g) ⇌ CCl₄(g) + HCl(g) no sentido de formar mais CCl₄. Pelo princípio de Le Chatelier, quando se perturba um sistema em equilíbrio, ele se desloca para atenuar a perturbação. Se aumentarmos a concentração de um reagente, como o CHCl₃, o sistema passa a consumir esse excesso e desloca o equilíbrio para a direita, produzindo mais CCl₄ e HCl. A elevação da temperatura favorece o sentido endotérmico, e a cloração é exotérmica, então esse aumento favorece os reagentes. A redução do volume não desloca o equilíbrio, porque há 2 mol de gás de cada lado da equação. Aumentar a concentração de HCl, que é produto, desloca o equilíbrio para a esquerda e diminui o rendimento. Reduzir a pressão parcial de Cl₂, um reagente, também desloca o equilíbrio para a esquerda. Gabarito: D.",
+  "hash": "efabba080163ff1e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q98": {
+  "explicacao": "A questão pede o tipo de evidência evolutiva que a tirinha explora. Na tirinha, um dinossauro deixa pegadas na lama e, no último quadrinho, se pergunta por que os paleontólogos gostam mais da lama que ele pisa do que dele próprio. Microrganismos e um trilobita, observados numa lupa, respondem que são indicadores da existência do petróleo. Pegadas preservadas em rochas sedimentares e restos de organismos antigos são exemplos de fósseis. Os fósseis são testemunhos diretos de seres que viveram no passado e permitem reconstruir a história da vida na Terra, inclusive as mudanças ao longo do tempo geológico. É esse o tipo de evidência que interessa aos paleontólogos da tirinha. Órgãos homólogos são estruturas com a mesma origem embrionária em espécies atuais, o que não aparece na tirinha. Estruturas vestigiais são órgãos reduzidos e sem função aparente, também ausentes da história. Vestígios moleculares envolvem comparar DNA e proteínas, e não pegadas na lama. Semelhanças anatômicas exigem comparar corpos de espécies diferentes, o que a tirinha não faz. Gabarito: C.",
+  "hash": "8a556256d7d51681",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2025-ppl-d2-q99": {
+  "explicacao": "A questão pede a condição ambiental à qual se adaptaram as plantas descritas no enunciado. O texto descreve o metabolismo CAM, sigla em inglês para metabolismo ácido das crassuláceas. Durante o dia, quando o calor e a evaporação são maiores, essas plantas mantêm os estômatos fechados. Assim, evitam a perda de água por transpiração. À noite, abrem os estômatos, captam CO₂ e o armazenam na forma de ácidos orgânicos, como o ácido málico. Durante o dia, esses ácidos são descarboxilados, liberando CO₂ para o ciclo de Calvin sem que a planta precise abrir os estômatos. É uma adaptação típica de cactos, bromélias e orquídeas epífitas, que vivem em ambientes secos ou com pouca disponibilidade de água. A alteração de pH acontece dentro das células, mas é consequência do processo, e não a sua causa ambiental. A falta de oxigênio não está relacionada ao controle dos estômatos. A variação de temperatura e a mudança de luminosidade não são o problema que o mecanismo resolve, que é economizar água. Gabarito: C.",
+  "hash": "39cc14c587d5b32f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
