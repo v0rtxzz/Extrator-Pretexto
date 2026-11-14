@@ -1,0 +1,452 @@
+{
+ "enem-2021-ppl-d2-q100": {
+  "explicacao": "A questão pede o gráfico de energia potencial versus caminho da reação para a combustão do etanol ou da gasolina. Dois dados do texto definem o formato. Primeiro, ∆H < 0: a reação é exotérmica, então a energia dos produtos (gases como CO₂ e H₂O) deve ficar abaixo da energia dos reagentes. Segundo, a reação precisa de energia de ativação fornecida pela centelha: o gráfico deve mostrar uma barreira, um pico (complexo ativado) acima do nível dos reagentes antes de a energia cair até o nível dos produtos. O gráfico correto, portanto, começa no nível dos reagentes, sobe até um máximo e desce até um patamar final mais baixo que o inicial, como na alternativa E. As demais alternativas falham em pelo menos um desses critérios: mostram produtos com energia maior que os reagentes (reação endotérmica, ∆H > 0), não apresentam a barreira de ativação ou têm um formato que não corresponde à passagem de reagentes a produtos com liberação de energia. Gabarito: E.",
+  "hash": "42e713c417e6547b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q101": {
+  "explicacao": "A questão pede qual radiação ionizante tem o menor poder de penetração nos tecidos, para a mesma intensidade. O fator decisivo é a natureza da radiação: partículas com carga e massa grandes interagem fortemente com a matéria e perdem energia rapidamente. A radiação alfa é formada por núcleos de hélio (2 prótons e 2 nêutrons): é a mais pesada e tem carga +2, por isso ioniza intensamente os átomos no caminho e é freada em poucos micrômetros de tecido; uma folha de papel ou a camada externa da pele já a bloqueiam. Por isso tem o menor alcance, embora seja muito danosa se a fonte for ingerida ou inalada. Na alternativa B, a radiação gama é eletromagnética, sem carga e sem massa, e é a mais penetrante. Na C, os raios X também são ondas eletromagnéticas e atravessam o corpo, por isso são usados em radiografias. Na D, os elétrons têm carga menor e massa muito menor que a alfa, penetrando mais. Na E, os nêutrons não têm carga e atravessam grandes espessuras de tecido. Gabarito: A.",
+  "hash": "949f0e709aead2c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q102": {
+  "explicacao": "A questão pede, a partir do cladograma, quais animais têm maior semelhança genética. Em um cladograma, o parentesco é medido pelo ancestral comum mais recente: quanto mais próximo das pontas está o ponto de ramificação que une dois grupos, mais recente é a separação e maior a semelhança genética. Entre os vertebrados apresentados (sardinha, sapo, jacaré, pardal e coelho), jacaré e pardal compartilham o ancestral comum mais recente: répteis crocodilianos e aves formam o grupo dos arcossauros, e as aves surgiram dentro da linhagem dos répteis. Por isso, eles aparecem como grupos-irmãos no cladograma. Na alternativa A, sapo e jacaré se separaram antes, já que os anfíbios divergiram antes do surgimento dos amniotas. Na C, o coelho (mamífero) separou-se da linhagem de répteis e aves antes da divergência entre jacaré e pardal. Na D, a sardinha (peixe) é o grupo mais basal, de divergência mais antiga. Na E, coelho e sardinha estão em extremos opostos do cladograma, com parentesco distante. Gabarito: B.",
+  "hash": "3d41ae834426026f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q103": {
+  "explicacao": "A questão pede a densidade de uma amostra de 27,8 g cujo volume foi medido por deslocamento de água em uma proveta. Pelo princípio do deslocamento, o volume da amostra é a diferença entre o volume final (água + amostra) e o volume inicial (só água). Na figura, o nível inicial da água fica em 35 mL e, após a imersão da amostra, o nível sobe para 45 mL. Assim: V = 45 mL − 35 mL = 10 mL. A densidade é d = m ÷ V = 27,8 g ÷ 10 mL = 2,78 g/mL. O valor maior que 1 g/mL é coerente com o fato de a amostra ter afundado na água. Na alternativa A, 0,36 g/mL corresponderia a inverter a razão (V ÷ m). Na B, 0,56 g/mL e, na C, 0,62 g/mL resultam de dividir a massa pelo volume total lido na proveta, e não pela variação de volume. Na D, 0,79 g/mL também usa um volume errado; além disso, qualquer valor menor que 1 g/mL é incompatível com uma amostra que afunda. Gabarito: E.",
+  "hash": "b1e72e273e47a287",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q104": {
+  "explicacao": "A questão pede o material que mantém o alimento aquecido por mais tempo, considerando recipientes de mesma espessura. Para conservar o calor, o recipiente deve dificultar a transferência de energia térmica do alimento para o ambiente, ou seja, deve ser um bom isolante. Pela lei de Fourier, o fluxo de calor por condução é proporcional à condutividade térmica k; quanto menor k, menor a perda de calor. O quadro traz: I, cobre, 332,0; II, alumínio, 175,0; III, ferro, 40,0; IV, vidro, 0,65; V, cerâmica, 0,40 (em kcal/h·m·°C). A cerâmica tem o menor valor de k, logo é o melhor isolante entre os materiais listados e mantém o alimento quente por mais tempo. Na alternativa A, o cobre é o melhor condutor da lista e perderia calor mais rápido. Na B, o alumínio também conduz muito bem o calor. Na C, o ferro, embora conduza menos que cobre e alumínio, ainda é um metal com k alto. Na D, o vidro é bom isolante, mas sua condutividade (0,65) é maior que a da cerâmica. Gabarito: E.",
+  "hash": "1bf8fa15f4fb47fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q105": {
+  "explicacao": "A questão pede qual produto industrial é obtido na eletrólise da salmoura, é corrosivo, reage com gorduras e absorve CO₂ do ar formando um sal. Na eletrólise da solução aquosa de NaCl, formam-se gás cloro (Cl₂) no ânodo, gás hidrogênio (H₂) no cátodo e hidróxido de sódio (NaOH) na solução: 2 NaCl + 2 H₂O → 2 NaOH + H₂ + Cl₂. O NaOH, a soda cáustica, é uma base forte usada na fabricação de papel, tecidos e sabões; reage com gorduras por saponificação, por isso desentope canos; e é muito corrosivo para a pele. Exposto ao ar, reage com o gás carbônico: 2 NaOH + CO₂ → Na₂CO₃ + H₂O, convertendo-se em carbonato de sódio, um sal. Na alternativa A, o cloro também vem da eletrólise, mas é um gás e não saponifica gorduras. Na B, o HCl é um ácido e não reage com CO₂. Na C, o ácido sulfúrico não é produto da eletrólise de NaCl. Na E, o carbonato de sódio é justamente o sal formado depois, não o produto original. Gabarito: D.",
+  "hash": "7d6c2361ad5deb0d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q106": {
+  "explicacao": "A questão pede por que o desmatamento compromete a função da floresta de bomba de água, que lança umidade na atmosfera e a faz circular pela América do Sul, formando os chamados rios voadores. As árvores absorvem água do solo pelas raízes e a liberam para a atmosfera na forma de vapor, principalmente pelos estômatos das folhas, no processo de transpiração. A Amazônia, com sua enorme área foliar, devolve ao ar uma quantidade gigantesca de vapor, que é transportada pelos ventos e causa chuvas em regiões distantes, como o Sudeste. Sem as árvores, diminui a superfície total de transpiração e, portanto, a quantidade de vapor lançada no ar e as chuvas decorrentes. Na alternativa A, o armazenamento de água nos caules não é o mecanismo que faz a água circular pelo continente. Na B, o volume de solo ocupado por raízes não explica, por si só, o envio de umidade para a atmosfera. Na D, sem árvores a evapotranspiração total diminui, não aumenta. Na E, o assoreamento é um impacto real do desmatamento, mas não se relaciona à função de bomba de umidade. Gabarito: C.",
+  "hash": "f114336f778cb65f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q107": {
+  "explicacao": "A questão pede qual impacto ambiental os produtos da degradação do tetracloroeteno causam. Pela equação, os produtos são HCl, Cl₂, CO e CO₂. O cloreto de hidrogênio (HCl) dissolve-se na água da chuva formando ácido clorídrico, um ácido forte. O Cl₂ reage com a água formando HCl e HClO, também ácidos. O CO₂ dissolve-se formando ácido carbônico (CO₂ + H₂O ⇌ H₂CO₃). Assim, esses gases acidificam a água da chuva, contribuindo para a formação de chuva ácida. Na alternativa A, os produtos são ácidos e diminuiriam o pH do solo, em vez de elevá-lo. Na C, a eutrofização é causada por excesso de nutrientes como nitrogênio e fósforo, ausentes nos produtos. Na D, compostos clorados contribuem para a destruição do ozônio, e não para elevar seus níveis. Na E, não há enxofre no reagente nem nos produtos, então não se formam óxidos de enxofre. Gabarito: B.",
+  "hash": "eb0f048762b0b63f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q108": {
+  "explicacao": "A questão pede de onde podem ser retirados os fragmentos de DNA, como o gene da insulina humana, para inserção em vetores de clonagem. Em células eucarióticas, como as humanas, o material genético está organizado em cromossomos dentro do núcleo; é ali que ficam os genes nucleares, incluindo o gene da insulina. Por isso, para obter esse fragmento de DNA, ele deve ser retirado do núcleo, onde também ocorre a transcrição desse gene em RNA mensageiro. Na alternativa B, o ribossomo é formado por RNA ribossômico e proteínas e realiza a tradução, mas não contém DNA. Na C, o citoplasma abriga organelas e o RNA mensageiro durante a síntese proteica, mas os genes nucleares, como o da insulina, não ficam nele. Na D, o complexo golgiense modifica e empacota proteínas, sem material genético. Na E, o retículo endoplasmático rugoso participa da síntese de proteínas com seus ribossomos aderidos, mas também não possui DNA. Gabarito: A.",
+  "hash": "d31d22afc867e0d2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q109": {
+  "explicacao": "A questão pede qual processo o lago está sofrendo, a partir das observações dos alunos. Os sinais formam a sequência clássica da eutrofização. O esgoto doméstico (III) lança grande quantidade de nutrientes, como fosfatos e nitratos, que provocam a proliferação excessiva de algas (II). A camada de algas na superfície impede a passagem de luz, e as algas e plantas do fundo morrem. A decomposição dessa matéria orgânica por bactérias aeróbicas consome o oxigênio dissolvido, causando a morte dos peixes (I). Com o oxigênio esgotado, ocorre decomposição anaeróbica, que libera gases como metano e gás sulfídrico, vistos como bolhas emergindo do fundo (IV). O isolamento do lago (V) dificulta a renovação da água e agrava o quadro. Na alternativa A, a autodepuração é a recuperação natural do corpo d'água, o oposto do que se observa. Na B, potabilização é o tratamento da água para consumo humano. Na D, o lago está perdendo oxigênio, não ganhando. Na E, nenhuma observação indica aumento da concentração de sais. Gabarito: C.",
+  "hash": "e1c69e5cd9036632",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q110": {
+  "explicacao": "A questão pede a conclusão correta do experimento que testou o efeito do calor sobre E. coli (ensaio A) e B. subtilis (ensaio B). O quadro de resultados mostra: tubo 1 (controle), crescimento positivo nos dois ensaios; tubo 2 (fervura por 5 min), positivo nos dois; tubo 3 (fervura por 20 min), negativo para E. coli e positivo para B. subtilis; tubo 4 (autoclavação), negativo nos dois. Como houve crescimento das duas espécies após 5 minutos de fervura, ambas resistiram a esse tratamento. A resistência de B. subtilis à fervura prolongada se explica pela formação de endósporos, estruturas muito resistentes ao calor, destruídas apenas na autoclave. Na alternativa A, nenhuma bactéria cresceu após a autoclavação, então ambas são sensíveis a ela. Na C, B. subtilis (citada como E. subtilis) cresceu mesmo após 20 minutos de fervura, logo não é sensível. Na D, é o contrário: B. subtilis é mais resistente que E. coli. Na E, B. subtilis sobreviveu à fervura de 20 minutos. Gabarito: B.",
+  "hash": "4793463c4c5f493f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q111": {
+  "explicacao": "A questão pede o consumo mensal de energia de um ferro elétrico, em kWh. Na figura, a placa do aparelho indica 115 VCA e 750 W; a informação importante é a potência, P = 750 W = 0,75 kW. O tempo de uso é de 30 minutos por dia durante 30 dias: Δt = 0,5 h × 30 = 15 h. A energia consumida é E = P × Δt = 0,75 kW × 15 h = 11,25 kWh, valor mais próximo de 11,3 kWh. A tensão de 115 V não entra no cálculo, pois a potência já foi dada. Na alternativa A, 0,87 kWh não corresponde a nenhuma combinação correta dos dados e subestima muito o consumo. Na B, 1,73 kWh também é muito pequeno, como se o tempo de uso fosse bem menor. Na C, 3,45 kWh resulta de usar a tensão (115 × 30 h ÷ 1 000), e não a potência. Na E, 22,5 kWh considera 1 hora por dia, o dobro do tempo real. Gabarito: D.",
+  "hash": "60d93c96e1154e53",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q112": {
+  "explicacao": "A questão pede a montagem correta para medir a corrente i que passa pela resistência-teste R e a tensão efetiva V fornecida pela bateria real, que tem resistência interna r. As regras de uso dos instrumentos são: o amperímetro mede corrente e deve ser ligado em série com o elemento cuja corrente se quer medir, pois tem resistência interna praticamente nula; o voltímetro mede diferença de potencial e deve ser ligado em paralelo, pois tem resistência muito alta. Na configuração da alternativa A, o amperímetro está em série com R, no mesmo ramo, medindo a corrente que a bateria fornece ao circuito, e o voltímetro está ligado em paralelo diretamente aos terminais da bateria, medindo a tensão efetiva V = ε − r·i. Com V e i conhecidos, é possível determinar r e avaliar a carga. Nas demais alternativas, algum instrumento está mal posicionado: voltímetro em série (que praticamente interrompe a corrente), amperímetro em paralelo (que provoca curto-circuito) ou instrumentos que não medem a tensão nos terminais da bateria nem a corrente em R. Gabarito: A.",
+  "hash": "5436ac8587863cfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q113": {
+  "explicacao": "A questão pede a potência nominal de cada uma das 30 lâmpadas idênticas. A potência total do conjunto, ligado a 120 V com corrente de 4,5 A, é P = U × i = 120 V × 4,5 A = 540 W. Como as lâmpadas são idênticas e cada uma opera nas condições nominais do conjunto, a potência se divide igualmente: 540 W ÷ 30 = 18 W por lâmpada. A observação de que, ao retirar uma lâmpada, um terço das demais se apaga indica a associação: três ramos em paralelo, cada um com 10 lâmpadas em série. Conferindo: cada ramo recebe 120 V, então cada lâmpada fica com 12 V; a corrente em cada ramo é 4,5 ÷ 3 = 1,5 A; logo P = 12 V × 1,5 A = 18 W, o mesmo resultado. Na alternativa A, 4 W não decorre dos dados. Na C, 55 W não corresponde a nenhuma divisão correta. Na D, 180 W é a potência de um ramo inteiro (10 lâmpadas). Na E, 540 W é a potência total do conjunto. Gabarito: B.",
+  "hash": "5dbc11b116d8e46e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q114": {
+  "explicacao": "A questão pede, na ordem, um processo físico e um processo químico presentes na produção do vinho de laranja. O processo físico aparece quando a mistura de caldo de açúcar com suco de laranja é passada em panos para reter as impurezas: o pano funciona como filtro, separando sólidos do líquido, o que caracteriza uma filtração. O processo químico ocorre durante o repouso nos garrafões: leveduras transformam os açúcares em etanol e gás carbônico (C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂), o que é a fermentação alcoólica. A troca das rolhas por cilindros de bambu permite a saída do CO₂ produzido. Na alternativa A, não há decantação descrita como etapa principal, e a fervura é processo físico, não químico. Na B, a decantação é física, então não cumpre o papel de processo químico. Na D, nenhum dos dois é o processo químico que forma o álcool. Na E, a precipitação não é o processo físico descrito; o que se faz com os panos é filtrar. Gabarito: C.",
+  "hash": "96044ac3dff2e127",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q115": {
+  "explicacao": "A questão pede a fórmula da principal substância dos sambaquis, formados por conchas de moluscos. As pistas: a decomposição térmica gera apenas dois compostos, um óxido sólido que com água forma Ca(OH)₂ e um óxido gasoso que com água forma H₂CO₃. O óxido que forma Ca(OH)₂ é o óxido de cálcio: CaO + H₂O → Ca(OH)₂. O óxido gasoso que forma ácido carbônico é o gás carbônico: CO₂ + H₂O → H₂CO₃. Logo, a substância original é composta de CaO e CO₂ juntos, ou seja, carbonato de cálcio: CaCO₃ → CaO + CO₂ (calcinação). Isso é coerente com as conchas, ricas em carbonato de cálcio, e com a produção de cal para argamassas. Na alternativa A, o CaO é o produto da decomposição, não a substância original. Na B, o carbeto de cálcio não gera CaO e CO₂ apenas. Na D, o bicarbonato de cálcio se decompõe gerando também água, ou seja, mais de dois compostos. Na E, essa substância também liberaria água, além de não ser o constituinte das conchas. Gabarito: C.",
+  "hash": "074f1b73a96cf264",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q116": {
+  "explicacao": "A questão pede a massa de ferrugem (Fe₂O₃·H₂O) formada quando metade de um prego de 5,6 g se oxida. Passo 1: massa de ferro oxidada: 50% de 5,6 g = 2,8 g. Passo 2: quantidade de ferro: n = 2,8 g ÷ 56 g/mol = 0,05 mol. Passo 3: proporção da equação: 2 Fe + 3/2 O₂ + H₂O → Fe₂O₃·H₂O, ou seja, 2 mol de Fe formam 1 mol de ferrugem. Assim, 0,05 mol de Fe formam 0,025 mol de ferrugem. Passo 4: massa molar da ferrugem: Fe₂O₃·H₂O = 2 × 56 + 3 × 16 + 2 × 1 + 16 = 112 + 48 + 18 = 178 g/mol. Passo 5: massa formada: 0,025 mol × 178 g/mol = 4,45 g. Na alternativa B, 8,90 g corresponde à oxidação do prego inteiro, sem considerar a metade. Na C, 17,80 g ignora a proporção de 2 Fe para 1 ferrugem e a metade. Na D, 72,00 g e, na E, 144,00 g não decorrem da estequiometria correta, resultando de erros nas proporções ou nas massas molares. Gabarito: A.",
+  "hash": "dc420e806609990f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q117": {
+  "explicacao": "A questão pede o efeito de eliminar a etapa de adição de hipoclorito de sódio no tratamento de água. No esquema da estação, a água passa por etapas como coagulação, floculação, decantação e filtração, que removem partículas em suspensão e reduzem a turbidez, e depois por cloração, feita com hipoclorito de sódio (NaClO) ou cloro. A função do hipoclorito é a desinfecção: ele é um forte agente oxidante que mata bactérias e outros microrganismos patogênicos que ainda permanecem após a filtração, além de manter um residual de cloro que protege a água na rede de distribuição. Sem essa etapa, a principal mudança seria o aumento do teor de bactérias na água que chega às casas, com risco de doenças como cólera e diarreias. Na alternativa A e na B, gosto e cheiro não são o problema principal; o próprio cloro pode até conferir gosto e cheiro. Na C, a turbidez é controlada pela floculação, decantação e filtração, que continuariam ocorrendo. Na D, retirar o hipoclorito, que é levemente básico, não reduziria significativamente o pH. Gabarito: E.",
+  "hash": "7777647fba4d6d37",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q118": {
+  "explicacao": "A questão pede qual substância pode neutralizar um resíduo de ácido sulfúrico. Neutralizar um ácido exige uma base ou um óxido básico, que consuma os íons H⁺. Entre as opções, o CaO (óxido de cálcio, cal virgem) é um óxido básico: reage com o ácido formando sal e água, CaO + H₂SO₄ → CaSO₄ + H₂O. Além disso, o sulfato de cálcio formado é pouco solúvel e pouco agressivo ao ambiente, e a cal é barata, por isso é usada em tratamentos desse tipo. Na alternativa B, o K₂SO₄ é um sal neutro, derivado de ácido forte e base forte, sem capacidade de neutralizar ácido. Na C, o NaHSO₄ é um sal ácido (hidrogenossulfato), que libera H⁺ e aumentaria a acidez. Na D, o etanol (CH₃CH₂OH) é praticamente neutro e não reage como base com o ácido. Na E, a amida C₅H₉CONH₂ tem caráter básico desprezível, não servindo para neutralizar o resíduo. Gabarito: A.",
+  "hash": "75ba318e61c7cba1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q119": {
+  "explicacao": "A questão pede os valores lidos pelas balanças A e B na Lua e num elevador acelerando para cima, em comparação com os 5,0 kg da calibração. A balança A, de braços iguais, compara o corpo com massas de referência: a gravidade (ou a aceleração do elevador) atua igualmente nos dois pratos, então o equilíbrio não muda e ela sempre indica a massa verdadeira. Logo, m₁ = 5,0 kg e m₃ = 5,0 kg. A balança B mede a força de compressão (normal) e converte em massa usando o g terrestre. Na Lua, com g = 1,6 m/s², a força é menor, então ela indica menos: m₂ < 5,0 kg (cerca de 5,0 × 1,6 ÷ 9,8 ≈ 0,8 kg). No elevador subindo com aceleração a = 2 m/s², a normal vale N = m(g + a), maior que o peso, então ela indica mais: m₄ > 5,0 kg (cerca de 6,0 kg). Na alternativa B, ignora-se que a balança de plataforma depende da força. Na C, a balança A não muda na Lua. Na D, nenhuma das balanças indica menos no elevador acelerando para cima. Na E, inverte-se o comportamento das balanças A e B. Gabarito: A.",
+  "hash": "79a640d028436d01",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q120": {
+  "explicacao": "A questão pede a velocidade do carro antes da colisão, sabendo que a van tem o dobro da massa do carro, andava a 40 km/h, as direções eram perpendiculares e, após a colisão totalmente inelástica, o conjunto saiu a 45° com as direções iniciais. Em colisões, a quantidade de movimento total se conserva, e como ela é vetorial podemos analisar cada direção. Sejam m a massa do carro e 2m a da van. Quantidade de movimento da van: Q_van = 2m × 40 = 80m. Quantidade de movimento do carro: Q_carro = m × v. Após a colisão, o vetor quantidade de movimento total forma 45° com as duas direções; isso só acontece se as duas componentes forem iguais, pois tg 45° = 1. Então m × v = 80m, de onde v = 80 km/h. Na alternativa A, 20 km/h dividiria em vez de multiplicar pela razão das massas. Na B, 20√2 confunde componentes com o módulo resultante. Na C, 40 km/h ignora que a van tem o dobro da massa. Na D, 40√2 km/h seria um módulo resultante, não a velocidade do carro. Gabarito: E.",
+  "hash": "0f6fe560b961a11d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q121": {
+  "explicacao": "A questão pede a frequência da onda que aquece o alimento e a energia entregue a ele em 15 minutos na potência máxima. No quadro, há duas frequências: 60 Hz é a frequência da rede elétrica que alimenta o aparelho, e 2 450 MHz é a frequência operacional das micro-ondas, que agitam as moléculas de água do alimento. Portanto, a onda que aquece o alimento tem 2 450 MHz. Quanto à energia, o quadro também distingue o consumo do aparelho (1 200 W) da potência máxima fornecida ao alimento (700 W). A energia que efetivamente aquece o alimento é E = P × Δt = 700 W × (15 × 60 s) = 700 × 900 = 630 000 J = 630 kJ. Na alternativa B, 114 kJ não corresponde aos dados. Na C, 2 390 MHz não é a frequência informada no quadro. Na D, 60 Hz é a frequência da rede, e 114 kJ está errado. Na E, além da frequência errada, 127 kJ confunde o valor da tensão com energia. Gabarito: A.",
+  "hash": "b2811927e1e1b048",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q122": {
+  "explicacao": "A questão pede a redução, em mol, da quantidade de sódio ingerida em 30 dias por quem troca o sal tradicional pelo sal rosa, mantendo o consumo de 12 g por dia. Passo 1: diferença de sódio por grama de sal: 400 mg − 230 mg = 170 mg. Passo 2: massa de sal em 30 dias: 12 g/dia × 30 dias = 360 g. Passo 3: redução de sódio em massa: 360 × 170 mg = 61 200 mg = 61,2 g. Passo 4: conversão para mol com massa molar 23 g/mol: n = 61,2 g ÷ 23 g/mol ≈ 2,66 mol, ou seja, aproximadamente 2,7 mol. Na alternativa A, 1,1 mol não considera corretamente os 30 dias ou a diferença de sódio. Na C, 3,6 mol corresponde a usar 230 mg em vez da diferença (360 × 0,23 ÷ 23). Na D, 6,3 mol corresponde ao sódio total do sal tradicional (360 × 0,4 ÷ 23). Na E, 9,9 mol não decorre de nenhuma conta coerente com os dados. Gabarito: B.",
+  "hash": "dc273e18c69a8bfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q123": {
+  "explicacao": "A questão pede qual grupamento causa a acidez de Brönsted que atrapalha a produção de biodiesel a partir de óleo de fritura. Ácido de Brönsted é toda espécie capaz de doar íons H⁺. O esquema mostra a degradação de um triacilglicerol por dois caminhos. Na rancidez hidrolítica, a água quebra as ligações éster, liberando diglicerídeos e ácidos graxos livres, R–COOH. Na rancidez oxidativa, o O₂ ataca as ligações duplas, gerando aldeídos, cetonas, hidrocarbonetos e também ácidos carboxílicos. O grupo que doa H⁺ é a carboxila (–COOH) dos ácidos carboxílicos, mostrada na alternativa A. Esses ácidos graxos livres reagem com o catalisador básico da transesterificação, formando sabão (saponificação) e consumindo o catalisador, o que prejudica o processo. Nas demais alternativas, os grupamentos representados (como éster, aldeído, cetona, álcool ou cadeia hidrocarbônica) não têm hidrogênio ácido capaz de ser doado de forma significativa, por isso não explicam a acidez de Brönsted descrita. Gabarito: A.",
+  "hash": "2311e968c6d637df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q124": {
+  "explicacao": "A questão pede em qual etapa foi preciso adicionar água. O quadro de etapas mostra: 1, grãos de feijão por catação; 2, limalha de ferro por imantação; 3, bolinhas de isopor por flotação; 4, areia por filtração; 5, cloreto de sódio por evaporação. Depois de retirar o feijão à mão e o ferro com ímã, restam areia, sal e isopor, todos sólidos. A flotação separa materiais pela diferença de densidade em relação a um líquido: ao adicionar água, o isopor, muito menos denso, flutua e é retirado. Ao mesmo tempo, o sal se dissolve na água e a areia fica no fundo. Essa água é que permite as etapas seguintes: a filtração separa a areia (insolúvel) da solução salina, e a evaporação da água recupera o NaCl. Portanto, a água foi adicionada na etapa 3. Na alternativa A, a catação é manual e dispensa líquidos. Na B, a imantação usa apenas um ímã. Na D, a filtração já pressupõe a água adicionada antes. Na E, a evaporação remove a água, não a adiciona. Gabarito: C.",
+  "hash": "263b3ad0e71f76aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q125": {
+  "explicacao": "A questão pede quantos milhões de residências seriam abastecidas por painéis instalados no cinturão solar brasileiro, com a mesma área (170 km²) e a mesma eficiência (15%) dos alemães. Passo 1: converter a área: 170 km² = 170 × 10⁶ m² = 1,7 × 10⁸ m². Passo 2: energia solar incidente por ano: 2 200 kWh/m² × 1,7 × 10⁸ m² = 3,74 × 10¹¹ kWh. Passo 3: energia elétrica gerada, com 15% de eficiência: 0,15 × 3,74 × 10¹¹ = 5,61 × 10¹⁰ kWh. Passo 4: número de residências, com consumo de 2 000 kWh por ano: 5,61 × 10¹⁰ ÷ 2 × 10³ = 2,805 × 10⁷, ou seja, cerca de 28 milhões. O dado da produção alemã (30 000 GWh) serve apenas de comparação. Na alternativa A, 2,3 milhões não considera corretamente a área. Na B, 15 milhões corresponde a usar a geração da Alemanha (3 × 10¹⁰ kWh ÷ 2 000). Na D, 56,1 milhões esquece de dividir por 2 000 corretamente (usa 1 000). Na E, 187 milhões ignora a eficiência de 15%. Gabarito: C.",
+  "hash": "817fc304e0924e64",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q126": {
+  "explicacao": "A questão pede o cabo mais barato que suporte a corrente total de dois chuveiros de 5,5 kW ligados juntos em 220 V. Passo 1: potência total: P = 2 × 5 500 W = 11 000 W. Passo 2: corrente total: i = P ÷ U = 11 000 W ÷ 220 V = 50 A. Passo 3: consultar o quadro, que relaciona área de seção reta e corrente máxima: 0,5 mm², 12 A; 1,5 mm², 23 A; 2,5 mm², 31 A; 6,0 mm², 54 A; 16,0 mm², 100 A. O menor cabo cuja corrente máxima é pelo menos 50 A é o de 6,0 mm², que suporta 54 A. Como cabos mais grossos são mais caros, ele é a escolha de menor custo que atende à instalação. Na alternativa A, 0,5 mm² suporta só 12 A. Na B, 1,5 mm² suporta 23 A, menos da metade do necessário. Na C, 2,5 mm² suporta 31 A, o que bastaria para um único chuveiro (25 A), mas não para os dois. Na E, 16,0 mm² suporta a corrente, mas é mais caro que o necessário. Gabarito: D.",
+  "hash": "a352b802d786212e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q127": {
+  "explicacao": "A questão pede qual grandeza física deve ser priorizada ao escolher um rio para uma usina a fio-d'água. Pelo texto, esse tipo de usina não acumula água em grandes reservatórios nem depende de grandes quedas; ela gera energia aproveitando diretamente o fluxo do rio. A energia disponível vem então principalmente da energia cinética da água que passa pelas turbinas, que é proporcional ao quadrado da velocidade (Ec = m·v²/2). Assim, um rio com correnteza de maior velocidade fornece mais energia por unidade de tempo às turbinas, sendo o mais indicado. Na alternativa B, o grande desnível do relevo é característica das usinas de acumulação, não das de fio-d'água. Na C, uma seção transversal menor não é critério de escolha e, mantida a velocidade, reduziria a vazão. Na D, menor volume de água por unidade de tempo significa menor vazão, o que reduz a energia disponível. Na E, menor massa de água por unidade de tempo também diminui a energia que pode ser gerada. Gabarito: A.",
+  "hash": "1a4cd993692ca1c7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q128": {
+  "explicacao": "A questão pede, do ponto de vista da energia de rede, por que o CaCO₃ é muito menos solúvel que o NaCl. A energia de rede é a energia necessária para separar completamente os íons do cristal, e ela depende da força de atração eletrostática entre os íons, dada pela lei de Coulomb: F ∝ q₁·q₂ ÷ d². No NaCl, os íons têm cargas +1 e −1 (Na⁺ e Cl⁻). No CaCO₃, os íons têm cargas +2 e −2 (Ca²⁺ e CO₃²⁻); o produto das cargas é 4 vezes maior, o que torna a atração entre os íons muito mais intensa. Com isso, a energia de rede do carbonato de cálcio é bem maior, e a hidratação dos íons não compensa o custo de desmontar o retículo, resultando em baixa solubilidade. Na alternativa B, a densidade do sólido não define a energia de rede. Na C, a energia de ionização refere-se à formação do cátion isolado, não à separação dos íons do cristal. Na D, eletronegatividade é propriedade de átomos em ligações, não explica a energia de rede aqui. Na E, a polarizabilidade do carbonato não é o fator principal. Gabarito: A.",
+  "hash": "8271d19f83329180",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q129": {
+  "explicacao": "A questão pede a relação ecológica entre as larvas de vaga-lume e os insetos alados. Pelo texto, as larvas vivem nos cupinzeiros e emitem luz esverdeada para atrair insetos alados, dos quais se alimentam. Quando um organismo captura, mata e come outro de espécie diferente, temos predação: as larvas são as predadoras e os insetos alados, as presas. A bioluminescência funciona como estratégia de caça, atraindo as presas até as larvas. É uma relação interespecífica desarmônica, pois uma espécie se beneficia e a outra é prejudicada (morta). Na alternativa B, o inquilinismo descreve uma espécie que vive abrigada em outra sem prejudicá-la, o que se aproxima da relação entre as larvas e o cupinzeiro, não com os insetos alados. Na C, no mutualismo as duas espécies se beneficiam, o que não ocorre com as presas. Na D, o parasita vive à custa do hospedeiro sem, em geral, matá-lo de imediato, e não é o que acontece. Na E, competição exige disputa pelo mesmo recurso, o que não é descrito. Gabarito: A.",
+  "hash": "224417d72226f64e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q130": {
+  "explicacao": "A questão pede qual glândula produz os hormônios T4 e T3, cuja conversão é bloqueada pelo bisfenol A ao inibir as desiodases. T4 (tiroxina ou tetraiodotironina) e T3 (tri-iodotironina) são os hormônios tireoidianos, produzidos pela tireoide a partir do iodo e do aminoácido tirosina. O T4 é liberado em maior quantidade, e as desiodases retiram um átomo de iodo, convertendo-o em T3, forma mais ativa, que regula o metabolismo basal, a produção de calor e o desenvolvimento. Por isso, a glândula produtora é a tireoide. Na alternativa A, as paratireoides produzem o paratormônio, que regula o cálcio no sangue. Na B, o pâncreas produz insulina e glucagon, ligados ao controle da glicemia. Na D, a hipófise produz o TSH, que estimula a tireoide, mas não produz T3 e T4. Na E, as adrenais produzem adrenalina, cortisol e aldosterona. Gabarito: C.",
+  "hash": "ef16a57f101874d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q131": {
+  "explicacao": "A questão pede qual amostra tem o maior número de esferócitos. O texto informa que esferócitos se rompem mais facilmente em soluções hipotônicas e que a fragilidade osmótica é proporcional ao número deles. Logo, a amostra com mais esferócitos é a que começa a sofrer hemólise em concentrações de NaCl mais altas, ou seja, mais próximas da isotônica (0,85%). Na tabela, a amostra 3 já apresenta 4% de hemólise em 0,85% de NaCl, 42% em 0,75% e 88% em 0,65%, chegando a 100% em 0,55%. Nenhuma outra amostra se rompe tão cedo. Na alternativa A, a amostra 1 só começa a se romper em 0,40% de NaCl, sendo a mais resistente, compatível com hemácias normais. Na B, a amostra 2 começa a hemolisar em 0,65% (8%), menos frágil que a 3. Na D, a amostra 4 só começa em 0,55% (5%). Na E, a amostra 5 começa em 0,60% (3%), ainda bem menos frágil que a amostra 3. Gabarito: C.",
+  "hash": "684eb7344459c7ec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q132": {
+  "explicacao": "A questão pede quais grandezas são iguais nas três componentes harmônicas do som. Na figura, desenhada na mesma escala, as três senoides A, B e C ocupam a mesma altura entre as linhas de referência, ou seja, têm a mesma amplitude; o que muda é a quantidade de oscilações no mesmo intervalo: A tem poucas, B mais e C muitas, então suas frequências são diferentes (são harmônicos, múltiplos da fundamental). Quanto à velocidade, todas as componentes são ondas sonoras propagando-se no mesmo meio, o ar, e a velocidade do som depende só do meio, não da frequência. Portanto, amplitude e velocidade são iguais. Na alternativa B, as frequências claramente diferem. Na C, a velocidade é igual, mas as frequências não. Na D, a amplitude é igual, mas o comprimento de onda varia, pois λ = v ÷ f e as frequências são diferentes. Na E, tanto frequência quanto comprimento de onda variam entre as componentes. Gabarito: A.",
+  "hash": "bd8ab0a3186b221e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q133": {
+  "explicacao": "A questão pede por que a embalagem a vácuo impede a proliferação dos principais microrganismos decompositores dos vegetais. Ao fazer o vácuo, retira-se o ar de dentro da embalagem e, com ele, o gás oxigênio. A maioria dos fungos (bolores) e muitas bactérias responsáveis pela deterioração dos alimentos são aeróbios, ou seja, dependem do O₂ para a respiração celular e para obter energia. Sem oxigênio, esses microrganismos não conseguem se multiplicar, e reações de oxidação do próprio alimento também são reduzidas, prolongando a vida útil do produto. Na alternativa A, reter água não impede o crescimento microbiano; ao contrário, a umidade costuma favorecê-lo. Na B, a embalagem a vácuo não altera nem controla o pH do alimento. Na C, evitar a perda de nutrientes não explica a inibição dos microrganismos. Na D, a embalagem não mantém a temperatura; isso depende de refrigeração. Gabarito: E.",
+  "hash": "86e3b0a4d1142790",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q134": {
+  "explicacao": "A questão pede qual seria a vantagem de substituir surfactantes sintéticos por biossurfactantes na lavagem das toalhas. O contexto é o impacto ambiental de milhões de toneladas de detergentes lançados na natureza. Surfactantes sintéticos, derivados do petróleo, podem ser pouco biodegradáveis, formar espumas nos rios, prejudicar a oxigenação da água e ser tóxicos para organismos aquáticos. Biossurfactantes são produzidos por microrganismos e têm como principais vantagens a alta biodegradabilidade e a baixa toxicidade; ao serem lançados no ambiente, são decompostos mais rapidamente, reduzindo a contaminação por resíduos de limpeza. Isso está alinhado ao objetivo do projeto de reduzir os impactos ambientais. Na alternativa A, maciez e durabilidade das toalhas não são o foco nem a vantagem ambiental. Na B, a troca do tipo de surfactante não reduz por si só o volume de água. Na C, biossurfactantes em geral não são mais baratos, e economia não é a questão. Na D, surfactantes atuam na remoção de sujeira, não na desinfecção. Gabarito: E.",
+  "hash": "001b4c9f7fc9bb7c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q135": {
+  "explicacao": "A questão pede por que é ecologicamente importante favorecer a proliferação de algas nos recifes artificiais. As algas são organismos fotossintetizantes, ou seja, autótrofos: produzem matéria orgânica a partir de CO₂, água e luz. Por isso, ocupam a posição de produtores, a base da cadeia alimentar marinha. A energia e a matéria orgânica que fabricam sustentam herbívoros, como peixes e invertebrados, que por sua vez alimentam os carnívoros. Com algas estabelecidas nos recifes, a teia alimentar pode se reconstituir, atraindo e mantendo as espécies que dependem dos recifes para se alimentar e procriar, como diz o texto. Na alternativa B, algas não são consumidoras, e sim produtoras. Na C, a diversidade de pigmentos e cores não é a razão ecológica da importância das algas. Na D, a produção de substâncias gelatinosas para manter ninhos não é a função ecológica central. Na E, algas não são decompositoras, papel exercido por bactérias e fungos. Gabarito: A.",
+  "hash": "17ed6baa3fb375bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q136": {
+  "explicacao": "A questão pede a projeção ortogonal, sobre o plano da base ABCD, da trajetória A–X–Y–G–F–E–X–G–E do inseto no prisma reto. Na figura, a base inferior é ABCD e a superior é EFGH, com E sobre A, F sobre B, G sobre C e H sobre D; o ponto X está na aresta BF e o ponto Y na aresta CG. Projetar ortogonalmente sobre a base é descer cada ponto verticalmente. Assim: A → A; X → B; Y → C; G → C; F → B; E → A. A sequência projetada fica A–B–C–C–B–A–B–C–A. Os segmentos obtidos são AB, BC, (C–C é um ponto), CB, BA, AB, BC e CA. Repetições se sobrepõem, então a projeção é formada apenas pelos segmentos AB, BC e CA, isto é, o triângulo ABC, com ângulo reto em B, já que a base é retangular. É exatamente a figura da alternativa D. As demais alternativas incluem segmentos que não aparecem na projeção, como lados envolvendo o ponto D, ou omitem algum dos lados AB, BC ou da diagonal AC, que vem dos trechos E–X–G e G–E. Gabarito: D.",
+  "hash": "0393b1c60deec4e5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q137": {
+  "explicacao": "A questão pede a ordenada do ponto que representa o hotel no plano cartesiano do mapa. Pelo enunciado, o eixo das abscissas (x) coincide com a Avenida A e o eixo das ordenadas (y) coincide com a Rua 1, com a origem no cruzamento onde o carro está. A ordenada de um ponto indica sua distância até o eixo x, ou seja, até a Avenida A, com sinal conforme o lado em que está. O hotel fica a exatos 40 m da Avenida A, contados no sentido da Avenida B. No mapa, a Avenida B fica do lado das ordenadas negativas em relação à Avenida A, de modo que deslocar-se da Avenida A para a Avenida B é descer no eixo y. Logo, a ordenada do hotel é −40. A posição na Rua 3 define apenas a abscissa, que não é pedida. Na alternativa A e na E, ±60 seria a distância até a Avenida B (100 − 40), não até a Avenida A. Na C, 0 indicaria um ponto sobre a Avenida A. Na D, 40 tem o módulo certo, mas o sinal errado. Gabarito: B.",
+  "hash": "40b78ebdac0a4ee3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q138": {
+  "explicacao": "A questão pede o tempo total marcado no cronômetro ao final das 20 voltas de 800 m, divididas em três etapas. Usamos t = d ÷ v em cada etapa. Etapa 1: 5 voltas = 5 × 800 = 4 000 m, a 4 m/s: t₁ = 4 000 ÷ 4 = 1 000 s. Etapa 2: mais 5 voltas = 4 000 m, com velocidade 25% maior: v = 4 × 1,25 = 5 m/s; t₂ = 4 000 ÷ 5 = 800 s. Etapa 3: as voltas restantes são 20 − 10 = 10 voltas = 8 000 m, de novo a 4 m/s: t₃ = 8 000 ÷ 4 = 2 000 s. Total: 1 000 + 800 + 2 000 = 3 800 s. Na alternativa A, 2 600 s considera só 5 voltas na última etapa. Na B, 2 800 s também erra o número de voltas finais. Na C, 3 000 s aplica a velocidade de 5 m/s nas duas últimas etapas. Na E, 4 000 s ignora o aumento de velocidade na etapa 2, usando 4 m/s o tempo todo. Gabarito: D.",
+  "hash": "6df5742ebcdcf598",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q139": {
+  "explicacao": "A questão pede a expressão do desgaste D de um pneu de diâmetro L metros em uma viagem de x quilômetros, sabendo que D é diretamente proporcional ao número de voltas, com constante k. Passo 1: a cada volta completa sem derrapar, o pneu percorre o comprimento da circunferência: C = π·L metros. Passo 2: a distância da viagem em metros é x km = 1 000·x m. Passo 3: o número de voltas é N = 1 000·x ÷ (π·L). Passo 4: como D = k·N, temos D = (1 000·k·x) ÷ (π·L). Na alternativa A, o fator 500 corresponderia a usar o raio no lugar do diâmetro de forma incorreta. Na C, falta o π, ou seja, usa-se o diâmetro como se fosse o perímetro. Na D, L² aparece como se a área importasse, mas o que conta é o perímetro. Na E, 4 000/(π·L²) usa a área do círculo (πL²/4), que não representa a distância percorrida por volta. Gabarito: B.",
+  "hash": "16a4d7d076ddfa30",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q140": {
+  "explicacao": "A questão pede quantas mudas a mais podem ser plantadas no novo terreno, mantendo cada muda numa região de 10 cm por 20 cm. Passo 1: área de cada muda: 0,1 m × 0,2 m = 0,02 m². Passo 2: terreno antigo: 50 m × 240 m = 12 000 m²; número de mudas: 12 000 ÷ 0,02 = 600 000 (ou 500 × 1 200, dividindo as dimensões por 0,1 e 0,2). Passo 3: terreno novo: 100 m × 200 m = 20 000 m²; número de mudas: 20 000 ÷ 0,02 = 1 000 000 (ou 1 000 × 1 000). As divisões são exatas, então não há sobras de espaço. Passo 4: aumento: 1 000 000 − 600 000 = 400 000 mudas. Na alternativa A, 100 000 não decorre das áreas. Na C, 600 000 é a quantidade do terreno antigo. Na D, 1 000 000 é o total do terreno novo, não o acréscimo. Na E, 1 600 000 soma os dois terrenos. Gabarito: B.",
+  "hash": "02d2b5a50c7d456c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q141": {
+  "explicacao": "A questão pede a redução percentual no consumo energético diário ao trocar 2 latas de refrigerante por 2 latas de suco. Passo 1: energia de uma lata de 350 mL de refrigerante, sabendo que 200 mL têm 85 kcal: 85 × 350 ÷ 200 = 148,75 kcal. Passo 2: duas latas: 2 × 148,75 = 297,5 kcal. Passo 3: duas latas de suco: 2 × 25 = 50 kcal. Passo 4: redução diária: 297,5 − 50 = 247,5 kcal. Passo 5: porcentagem em relação à dieta original de 2 800 kcal: 247,5 ÷ 2 800 ≈ 0,0884, ou seja, cerca de 8,8%. Na alternativa A, 2,1% corresponde a considerar só uma lata de 200 mL sem descontar corretamente. Na B, 4,2% considera apenas uma lata. Na C, 4,4% calcula a redução de apenas uma troca. Na E, 10,6% esquece de descontar a energia do suco (297,5 ÷ 2 800). Gabarito: D.",
+  "hash": "fc36fc42e85c5f94",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q142": {
+  "explicacao": "A questão pede o plano mais barato para 75 minutos de chamadas na mesma operadora e 50 minutos para outras operadoras. Custo = V + (minutos excedentes além de M) × T1 + 50 × T2. Plano A: V = 25, M = 20, excede 55 min: 25 + 55 × 1,50 + 50 × 2,00 = 25 + 82,50 + 100 = R$ 207,50. Plano B: V = 60, M = 65, excede 10 min: 60 + 10 × 1,00 + 50 × 1,20 = 60 + 10 + 60 = R$ 130,00. Plano C: V = 60, M = 75, sem excedente: 60 + 50 × 1,50 = 60 + 75 = R$ 135,00. Plano D: V = 120, M = 160, sem excedente: 120 + 50 × 0,90 = 120 + 45 = R$ 165,00. Plano E: V = 120, M = 180: 120 + 50 × 1,20 = R$ 180,00. O menor custo é o do plano B. Na alternativa A, a mensalidade baixa é compensada pelas tarifas altas. Na C, cobrir os 75 minutos não compensa a tarifa T2 maior. Nas alternativas D e E, a mensalidade de R$ 120,00 já torna o plano mais caro. Gabarito: B.",
+  "hash": "807b0103516ee388",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q143": {
+  "explicacao": "A questão pede a classificação do aumento de arrecadação com descontos de R$ 8,00 na inteira e R$ 4,00 na meia. Situação inicial: 100 pessoas, 60 meias e 40 inteiras. Arrecadação: 40 × 30 + 60 × 15 = 1 200 + 900 = R$ 2 100,00. Na promoção, o desconto de R$ 8,00 equivale a 4 vezes R$ 2,00, então as inteiras aumentam 4 × 20% = 80%: 40 × 1,8 = 72 pessoas, pagando 30 − 8 = R$ 22,00. O desconto de R$ 4,00 equivale a 4 vezes R$ 1,00, então as meias aumentam 4 × 10% = 40%: 60 × 1,4 = 84 pessoas, pagando 15 − 4 = R$ 11,00. Total de 156 pessoas, abaixo da capacidade de 180. Nova arrecadação: 72 × 22 + 84 × 11 = 1 584 + 924 = R$ 2 508,00. Aumento: 2 508 − 2 100 = R$ 408,00, que está na faixa até R$ 500,00, classificada como fraco. Na alternativa B, regular exigiria aumento acima de R$ 500,00. Nas alternativas C, D e E, as faixas exigem aumentos ainda maiores, que não ocorrem. Gabarito: A.",
+  "hash": "0b42e860583df6d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q144": {
+  "explicacao": "A questão pede o estacionamento mais barato para quem fica 1 h 50 min e para quem fica 4 h. Pelo quadro: X cobra R$ 4,00 pela 1ª hora e R$ 2,50 por hora subsequente ou fração; Y cobra R$ 3,70 por hora ou fração; Z cobra R$ 5,00 pela 1ª hora e R$ 2,00 por hora subsequente ou fração. Como fração de hora é cobrada como hora inteira, 1 h 50 min conta como 2 horas. Primeira pessoa (2 horas): X = 4,00 + 2,50 = R$ 6,50; Y = 2 × 3,70 = R$ 7,40; Z = 5,00 + 2,00 = R$ 7,00. Mais barato: X. Segunda pessoa (4 horas): X = 4,00 + 3 × 2,50 = R$ 11,50; Y = 4 × 3,70 = R$ 14,80; Z = 5,00 + 3 × 2,00 = R$ 11,00. Mais barato: Z. Na alternativa B, Y é o mais caro nos dois casos. Na C, Y não é o melhor para 2 horas. Na D, as escolhas estão invertidas. Na E, Z custa mais que X para 2 horas. Gabarito: A.",
+  "hash": "d217d2abbe69234e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q145": {
+  "explicacao": "A questão pede em quantos meses o capital de R$ 100 000,00 duplica a 0,8% ao mês em juros compostos. Queremos F = 2C: 2C = C·(1,008)ⁿ, ou seja, (1,008)ⁿ = 2. Aplicando logaritmo dos dois lados: n · log 1,008 = log 2. Pela tabela, log 1,008 = 0,003 e log 2 = 0,30. Logo, n · 0,003 = 0,30, e n = 0,30 ÷ 0,003 = 100 meses. O valor do capital inicial não interfere, pois se cancela na equação. Na alternativa A, 156 meses corresponderia a triplicar com outro log (0,47 ÷ 0,003). Na B, 125 não decorre dos valores da tabela. Na D, 10 meses resulta de usar log 1,08 = 0,03, confundindo 0,8% com 8%. Na E, 1,5 é a razão entre log 3 e log 2 aproximada, sem significado aqui. Gabarito: C.",
+  "hash": "9c819510aab3358c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q146": {
+  "explicacao": "A questão pede o número de acessos esperado ao final das próximas 5 semanas, mantendo o mesmo crescimento semanal. No gráfico, os acessos foram 152, 154, 156, 158 e 160 da 1ª à 5ª semana: crescem 2 acessos por semana, formando uma progressão aritmética de razão 2. Mantido esse padrão, nas próximas 5 semanas teremos 162, 164, 166, 168 e 170. Pela fórmula: a₁₀ = a₅ + 5 × 2 = 160 + 10 = 170 acessos. Atenção para o eixo vertical do gráfico, que começa em 148: as barras parecem crescer muito, mas o aumento real é pequeno. Na alternativa A, 162 é o valor de apenas uma semana depois. Na C, 172 corresponde a 6 semanas a mais. Na D, 312 parece somar valores ou dobrar o crescimento de forma incorreta. Na E, 320 dobra o valor da 5ª semana, como se o crescimento fosse de 100%. Gabarito: B.",
+  "hash": "36b13ff05dd150a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q147": {
+  "explicacao": "A questão pede a mediana dos números de gols marcados pelos sete artilheiros do quadro. Os valores são: Stábile, 8; Ademir, 9; Kocsis, 11; Fontaine, 13; Eusébio, 9; Müller, 10; Ronaldo, 8. Para a mediana, ordenamos os dados: 8, 8, 9, 9, 10, 11, 13. Como são 7 valores (quantidade ímpar), a mediana é o termo central, a 4ª posição: 9. Logo, a mediana é 9,0. Na alternativa B, 9,7 corresponde à média aritmética (68 ÷ 7 ≈ 9,7), não à mediana. Na C, 10,0 seria o termo central sem ordenar os dados corretamente ou a média entre 9 e 11. Na D, 10,2 não corresponde a nenhuma medida correta. Na E, 13,0 é o valor máximo. Gabarito: A.",
+  "hash": "c4fcab11c929c316",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q148": {
+  "explicacao": "A questão pede qual frase é verdadeira ao comparar as porcentagens de germinação dos cooperados com os 90% da empresa. Dados ordenados: 65, 70, 75, 80, 80, 90, 90, 90, 95, 95. Média: soma = 65 + 70 + 75 + 80 + 80 + 90 + 90 + 90 + 95 + 95 = 830; média = 830 ÷ 10 = 83%. Mediana: com 10 valores, é a média dos 5º e 6º termos: (80 + 90) ÷ 2 = 85%. Moda: o valor que mais se repete é 90%, que aparece três vezes. Portanto, a moda é igual ao índice da empresa, e a frase IV é a correta. Na alternativa A, a média de 83% é inferior a 90%. Na B, a mediana de 85% também é inferior a 90%. Na C, a média não é igual a 90%. Na E, a mediana de 85% não é igual a 90%. Gabarito: D.",
+  "hash": "402b4b9aaf60730c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q149": {
+  "explicacao": "A questão pede a probabilidade de uma peça defeituosa ter vindo da máquina M₂, ou seja, uma probabilidade condicional. Passo 1: fração de peças defeituosas de cada máquina sobre o total produzido: M₁: 0,25 × 0,02 = 0,005; M₂: 0,30 × 0,03 = 0,009; M₃: 0,45 × 0,04 = 0,018. Passo 2: total de defeituosas: 0,005 + 0,009 + 0,018 = 0,032. Passo 3: probabilidade condicional: P(M₂ | defeituosa) = 0,009 ÷ 0,032 = 0,28125, ou seja, cerca de 28,1%. Na alternativa A, 15,6% corresponde à máquina M₁ (0,005 ÷ 0,032). Na C, 43,7% é a soma das chances de M₁ e M₂. Na D, 56,2% corresponde à máquina M₃ (0,018 ÷ 0,032). Na E, 71,8% é a chance de a peça não ter vindo de M₂. Gabarito: B.",
+  "hash": "8d32ecbba6e04b47",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q150": {
+  "explicacao": "[REVISAR] As frações das alternativas aparecem embaralhadas no texto extraído; pelo gabarito, a alternativa B corresponde a 1/90. A questão pede a probabilidade de acertar, na primeira tentativa, os dois últimos dígitos da senha, sabendo que eles são distintos. Os dígitos vão de 0 a 9, isto é, 10 possibilidades. Para o penúltimo dígito há 10 escolhas; como o último deve ser diferente, restam 9 escolhas. Pelo princípio multiplicativo, o número de pares possíveis é 10 × 9 = 90, e a ordem importa, pois 3-7 e 7-3 formam senhas diferentes. Só um desses pares é o correto, então a probabilidade é 1/90. As demais alternativas não correspondem ao cálculo: 2/8 não tem relação com o número de casos; 2/90 contaria a senha certa duas vezes, como se a ordem não importasse; 1/100 ignora que os dígitos são distintos, permitindo repetições; e 2/100 combina os dois erros anteriores. Gabarito: B.",
+  "hash": "f531c0d4bb1cbfda",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q151": {
+  "explicacao": "A questão pede o salário do professor, sabendo que os aumentos nos gastos com transporte e alimentação somam R$ 252,00. Seja S o salário. Gasto com transporte: 10% de S = 0,10S; com aumento de 10%, esse gasto cresce 0,10 × 0,10S = 0,01S. Gasto com alimentação: 30% de S = 0,30S; com aumento de 20%, cresce 0,20 × 0,30S = 0,06S. Aumento total: 0,01S + 0,06S = 0,07S. Igualando: 0,07S = 252, logo S = 252 ÷ 0,07 = R$ 3 600,00. Conferindo: transporte passa de 360 para 396 (+36) e alimentação de 1 080 para 1 296 (+216); 36 + 216 = 252. Na alternativa A, R$ 840,00 resulta de dividir 252 por 0,30. Na B, R$ 1 680,00 corresponde a 252 ÷ 0,15, somando os percentuais de forma errada. Na C, R$ 2 100,00 corresponde a 252 ÷ 0,12. Na E, R$ 5 200,00 não decorre de nenhuma conta coerente com os dados. Gabarito: D.",
+  "hash": "c2d9bbbd438fb499",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q152": {
+  "explicacao": "A questão pede quantos litros de tinta verde são necessários para 3,5 L da mesma mistura, na proporção de 5 partes de verde para 2 de branco. Para manter a tonalidade, a proporção deve ser a mesma. Em cada 5 + 2 = 7 partes de mistura, 5 são de verde, ou seja, a fração de verde é 5/7. Para 3,5 L: verde = 5/7 × 3,5 = 5 × 0,5 = 2,5 L, e branco = 2/7 × 3,5 = 1,0 L. Outra forma: 3,5 L é metade dos 7 L da primeira compra, que tinham 5 L de verde e 2 L de branco; a metade é 2,5 L de verde e 1 L de branco. Na alternativa A, 1,4 L não corresponde à proporção. Na B, 1,5 L confunde a quantidade de verde com outra parte da mistura. Na C, 1,7 L não decorre da proporção 5 : 2. Na D, 2,3 L também não mantém a razão entre verde e branco. Gabarito: E.",
+  "hash": "7dbb03899a7c65aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q153": {
+  "explicacao": "[REVISAR] As expressões das alternativas aparecem corrompidas na extração (sinais de raiz trocados por V e /); pelo cálculo, a alternativa C corresponde a √8 − 0,5. A questão pede o comprimento x das correntes do balanço, sabendo que o assento fica a 0,5 m do chão. Na figura, cada lateral da estrutura é um triângulo isósceles com lados de 3 m e base de 2 m, e a barra superior fica na altura desse triângulo. A altura relativa à base divide-a ao meio (1 m de cada lado) e forma um triângulo retângulo com hipotenusa 3 m. Por Pitágoras: h² + 1² = 3², então h² = 9 − 1 = 8 e h = √8 m. Essa altura é a soma do comprimento da corrente com a distância do assento ao chão: x + 0,5 = √8, logo x = √8 − 0,5 m (cerca de 2,33 m). Na alternativa A, √2 − 0,5 erra a conta de Pitágoras. Na B, 1,5 m não vem do triângulo. Na D, √10 − 0,5 soma os quadrados em vez de subtrair. Na E, √8 esquece de descontar os 0,5 m do assento. Gabarito: C.",
+  "hash": "eaad654740351707",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q154": {
+  "explicacao": "A questão pede a soma DB + BE + EC após dobrar o triângulo ABC de modo que B caia sobre AC e DE fique paralelo a AC. Primeiro, identificar os lados: no triângulo, o menor ângulo opõe-se ao menor lado. Como AĈB < CÂB < AB̂C, temos AB (oposto a C) = 12 cm, BC (oposto a A) = 14 cm e AC (oposto a B) = 18 cm. Na dobra, a linha DE é paralela a AC e o vértice B vai parar sobre AC; isso só ocorre se DE estiver na metade da altura relativa a AC, ou seja, DE é a base média do triângulo. Logo, D é ponto médio de AB e E é ponto médio de BC: AD = DB = 6 cm e BE = EC = 7 cm. Na Figura 2, os segmentos DB e BE são as imagens dobradas de DB e EB originais, mantendo 6 cm e 7 cm. Soma: DB + BE + EC = 6 + 7 + 7 = 20 cm. Na alternativa A, 19 troca a atribuição dos lados. Na C, 21 usaria a metade de 14 três vezes. Na D, 23 e, na E, 24 usam a metade de 18 em algum segmento. Gabarito: B.",
+  "hash": "f4a950285e1512f4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q155": {
+  "explicacao": "A questão pede a relação algébrica entre as escalas Delisle (D) e Celsius (C), representada pela reta do gráfico. A reta passa por A = (0, 150), isto é, C = 0 corresponde a D = 150, e por B = (100, 0), isto é, C = 100 corresponde a D = 0. Coeficiente angular: (0 − 150) ÷ (100 − 0) = −1,5. Equação: D = 150 − 1,5C. Multiplicando por 2: 2D = 300 − 3C, ou seja, 2D + 3C = 300. Conferindo: para C = 0, 2D = 300 e D = 150; para C = 100, 2D + 300 = 300 e D = 0. Na alternativa A, 2D + C = 100 daria D = 50 para C = 0. Na B, 2D + 3C = 150 daria D = 75 para C = 0. Na C, 3D + 2C = 300 daria D = 100 para C = 0. Na E, 3D + 2C = 450 daria D = 150 para C = 0, mas C = 225 para D = 0. Gabarito: D.",
+  "hash": "e97caf65e897ea3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q156": {
+  "explicacao": "A questão pede a tradução em linguagem algébrica da nova fórmula do IMC descrita no texto. A frase é: soma do triplo da massa (M) com o quádruplo do percentual de gordura (G), tudo dividido pela altura (H). Montando por partes: o triplo da massa é 3M; o quádruplo do percentual de gordura é 4G; a soma é 3M + 4G; e o termo tudo dividido indica que a soma inteira fica no numerador, sobre H. Assim, IMC = (3M + 4G) ÷ H, expressão apresentada na alternativa B. O cuidado principal é com a palavra tudo: ela indica que a divisão vale para a soma completa, e não apenas para a última parcela. As demais alternativas trocam os coeficientes (por exemplo, 4M e 3G), dividem só uma das parcelas por H, usam H² como no IMC tradicional ou multiplicam em vez de somar, não correspondendo à descrição do texto. Gabarito: B.",
+  "hash": "78790966acfb2acf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q157": {
+  "explicacao": "[REVISAR] As equações das alternativas aparecem corrompidas na extração (expoentes trocados por ? e º); pelo gabarito, a alternativa B corresponde a x² − x = 380. A questão pede a equação que fornece o número x de times num campeonato em turno e returno com 380 partidas. Em turno e returno, cada time enfrenta cada um dos outros duas vezes, uma em casa e outra fora. Assim, cada partida corresponde a um par ordenado de times (mandante, visitante). O mandante pode ser escolhido de x maneiras e o visitante de x − 1 maneiras, pois não joga contra si mesmo. Total de partidas: x·(x − 1) = 380, ou seja, x² − x = 380. Resolvendo, x = 20 times, pois 20 × 19 = 380. As demais equações não representam essa contagem: x = 380 − x² ou x² = 380 ignoram a exclusão do próprio time; 2x − x = 380 e 2x = 380 tratam a contagem como linear, sem considerar os confrontos entre pares. Gabarito: B.",
+  "hash": "60b68f94414d579f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q158": {
+  "explicacao": "A questão pede a cidade com o menor gasto diário de entrega, somando combustível e limpeza. Gasto diário = litros por dia × preço do litro + limpeza. São Paulo: 7,5 × 2,50 + 20,00 = 18,75 + 20,00 = R$ 38,75. Curitiba: 9,5 × 2,40 + 15,50 = 22,80 + 15,50 = R$ 38,30. Belo Horizonte: 8,0 × 2,24 + 16,50 = 17,92 + 16,50 = R$ 34,42. Rio de Janeiro: 14,5 × 2,10 + 18,00 = 30,45 + 18,00 = R$ 48,45. Brasília: 13,0 × 3,00 + 15,00 = 39,00 + 15,00 = R$ 54,00. O menor valor é o de Belo Horizonte. Na alternativa B, Brasília tem o maior gasto, apesar da limpeza mais barata. Na C, Curitiba fica em segundo lugar, com R$ 38,30. Na D, o Rio tem combustível barato, mas consome muitos litros. Na E, São Paulo gasta pouco combustível, mas tem a limpeza mais cara. Gabarito: A.",
+  "hash": "6d52d7c807d17c8c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q159": {
+  "explicacao": "A questão pede a dieta com menor total de calorias após quadruplicar proteínas, triplicar carboidratos e duplicar suplementos. Total = 4P + 3C + 2S. Dieta I: 4 × 66 + 3 × 42 + 2 × 87 = 264 + 126 + 174 = 564 kcal. Dieta II: 4 × 57 + 3 × 42 + 2 × 105 = 228 + 126 + 210 = 564 kcal. Dieta III: 4 × 63 + 3 × 39 + 2 × 96 = 252 + 117 + 192 = 561 kcal. Dieta IV: 4 × 66 + 3 × 48 + 2 × 84 = 264 + 144 + 168 = 576 kcal. Dieta V: 4 × 69 + 3 × 36 + 2 × 93 = 276 + 108 + 186 = 570 kcal. O menor total é o da dieta III, com 561 kcal. Repare que, sem os multiplicadores, a dieta III não seria necessariamente a escolhida; por isso é preciso aplicar os pesos antes de comparar. Na alternativa A e na B, as dietas I e II somam 564 kcal. Na D, a dieta IV soma 576 kcal, a maior. Na E, a dieta V soma 570 kcal. Gabarito: C.",
+  "hash": "e560b9b3afb3c44d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q160": {
+  "explicacao": "A questão pede o suporte de menor área no qual caibam inteiramente as bases de três recipientes circulares de raio 3 cm (diâmetro 6 cm). Primeiro, verificar quais suportes comportam os três círculos. IV (retângulo 3 × 9) tem largura 3 cm, menor que o diâmetro: não cabe nem um círculo. III (quadrado 6 × 6) comporta só um círculo. I (trapézio retângulo de bases 6 e 12 e altura 9) tem o lado inclinado muito próximo; é possível verificar que os centros dos círculos ficariam numa região pequena demais para três círculos sem sobreposição. II (quadrado 12 × 12) comporta os três com folga. V (quarto de círculo de raio 13) também comporta os três: por exemplo, dois círculos encostados nos lados retos e um terceiro na região central próxima ao arco. Agora, comparar as áreas: II: 12 × 12 = 144 cm². V: ¼ × π × 13² = ¼ × 3,14 × 169 ≈ 132,7 cm². O suporte V tem menor área entre os que servem. Na alternativa A, o trapézio I tem área menor (81 cm²), mas não comporta os três recipientes. Na B, o quadrado II funciona, mas é maior que V. Nas alternativas C e D, os suportes III e IV são pequenos demais. Gabarito: E.",
+  "hash": "14fb380256ca1123",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q161": {
+  "explicacao": "[REVISAR] As frações das alternativas aparecem embaralhadas na extração; pelo cálculo, a alternativa B corresponde a 620/1 240. A questão pede a razão entre largura e comprimento da nova folha, construída a partir da A0 (595 mm × 840 mm). Considerando 1 polegada = 2,5 cm = 25 mm: a largura recebe 1 polegada, ficando 595 + 25 = 620 mm; o comprimento recebe 16 polegadas = 16 × 25 = 400 mm, ficando 840 + 400 = 1 240 mm. A razão largura : comprimento é 620/1 240, que simplificada vale 1/2. O cuidado principal é converter polegadas para milímetros antes de somar. As demais alternativas não correspondem a esse cálculo: 1/16 compara apenas os acréscimos em polegadas; 596/856 soma as polegadas como se fossem milímetros; 598/880 usa conversões erradas; e 845/4 840 também não decorre dos dados com a conversão correta. Gabarito: B.",
+  "hash": "9bba394381dd07dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q162": {
+  "explicacao": "A questão pede a produção de fevereiro, supondo crescimento exponencial no quadrimestre. No gráfico, a produção foi de 120 mil unidades em janeiro, 480 mil em março e 960 mil em abril. Em crescimento exponencial com intervalos iguais de tempo, a produção é multiplicada sempre pelo mesmo fator q a cada mês, formando uma progressão geométrica. De março para abril: q = 960 ÷ 480 = 2. Conferindo com janeiro: de janeiro a março passam dois meses, então 120 × q² = 120 × 4 = 480, o que confirma q = 2. Assim, fevereiro = 120 × 2 = 240 mil unidades. Também se pode usar a média geométrica entre janeiro e março: √(120 × 480) = √57 600 = 240. Na alternativa A, 0 ignora que houve produção, apenas não foi registrada. Na B, 120 repete o valor de janeiro. Na D, 300 é a média aritmética entre 120 e 480, adequada a crescimento linear, não exponencial. Na E, 400 não segue o fator constante. Gabarito: C.",
+  "hash": "62772c8352399c4c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q163": {
+  "explicacao": "A questão pede o preço de pintar 150 m², sabendo que o pintor cobra taxa fixa de R$ 25,00 mais um valor proporcional à área. O preço é uma função afim: P = 25 + k·A. Usando um dado do quadro: para A = 5 m², P = 35, então 35 = 25 + 5k, o que dá k = 2 reais por m². Conferindo com outro dado: para A = 40 m², P = 25 + 2 × 40 = 105, como no quadro. Para 150 m²: P = 25 + 2 × 150 = 25 + 300 = R$ 325,00. Na alternativa A, R$ 300,00 esquece a taxa fixa. Na C, R$ 400,00 resulta de supor proporcionalidade direta com o primeiro dado (35 ÷ 5 = 7 por m², sem taxa) ou outro erro de proporção. Na D, R$ 1 050,00 usa 7 reais por m² (150 × 7), tratando o preço total como proporcional à área. Na E, R$ 3 750,00 multiplica a taxa fixa pela área. Gabarito: B.",
+  "hash": "198def353f5dfe77",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q164": {
+  "explicacao": "[REVISAR] A expressão de K(t) aparece corrompida na extração; a leitura coerente com o gráfico é K(t) = 81·3^(t/3) + 2, e as alternativas também estão embaralhadas. A questão pede o valor de m, instante em que K = 6 563, conforme o gráfico. Igualando: 81·3^(m/3) + 2 = 6 563. Subtraindo 2: 81·3^(m/3) = 6 561. Dividindo por 81: 3^(m/3) = 81. Como 81 = 3⁴, temos m/3 = 4, logo m = 12. A dica é perceber que 6 561 = 81 × 81 = 3⁸, o que permite trabalhar só com potências de 3. As demais alternativas não satisfazem a equação: valores fracionários como 4/3, 7/5 ou 24/5 resultam de erros ao isolar o expoente, e 81 confunde o valor da potência com o expoente. Gabarito: D.",
+  "hash": "0c4d91ad099006a1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q165": {
+  "explicacao": "A questão pede o atacante com maior média de gols e o meio-campista com maior média de assistências nas três temporadas. Como todos têm três temporadas, basta comparar as somas, mas vamos calcular as médias. Atacantes: I: (13 + 13 + 24) ÷ 3 = 50 ÷ 3 ≈ 16,7; II: (13 + 16 + 22) ÷ 3 = 51 ÷ 3 = 17; III: (17 + 11 + 20) ÷ 3 = 48 ÷ 3 = 16. Maior média: atacante II. Meio-campistas: IV: (11 + 17 + 20) ÷ 3 = 48 ÷ 3 = 16; V: (7 + 16 + 23) ÷ 3 = 46 ÷ 3 ≈ 15,3. Maior média: meio-campista IV. Escolhidos: II e IV. Na alternativa A, o atacante I tem o maior número de gols em 2015, mas média menor. Na B, I e V são os destaques de 2015, não das médias. Na D, o meio-campista V tem média menor que IV. Na E, o atacante III tem a menor média. Gabarito: C.",
+  "hash": "7abae785ac79b509",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q166": {
+  "explicacao": "A questão pede a média das distâncias percorridas pelos cinco atletas. O quadro mostra: 42,8; 41,6; 41,8; 43,4 e 43,4 km. Soma: 42,8 + 41,6 = 84,4; 84,4 + 41,8 = 126,2; 126,2 + 43,4 = 169,6; 169,6 + 43,4 = 213,0 km. Média: 213,0 ÷ 5 = 42,6 km. Essa é a distância que o sexto atleta deve percorrer. Na alternativa A, 41,8 km é um dos valores do quadro (e a mediana não é ele; seria 42,8). Na B, 42,4 km não corresponde à soma correta dividida por 5. Na D, 42,8 km é a mediana dos dados ordenados (41,6; 41,8; 42,8; 43,4; 43,4), não a média. Na E, 43,4 km é a moda. Gabarito: C.",
+  "hash": "5a1a453ce3819139",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q167": {
+  "explicacao": "A questão pede o aumento mínimo na média de vendas de cada vendedor para que a loja atinja a meta de 605 computadores. Pelo gráfico, as vendas nos últimos 5 anos foram 400 (2016), 440 (2017), 430 (2018), 480 (2019) e 525 (2020). Média: (400 + 440 + 430 + 480 + 525) ÷ 5 = 2 275 ÷ 5 = 455 unidades por ano para a loja. Para atingir 605 unidades, faltam 605 − 455 = 150 unidades. Como a participação de cada um dos 5 vendedores é igual, cada um deve aumentar 150 ÷ 5 = 30 unidades. Na alternativa A, 150 é o aumento total da loja, não por vendedor. Na B, 121 é a meta por vendedor (605 ÷ 5), não o aumento. Na C, 91 é a média atual por vendedor (455 ÷ 5). Na D, 35 parte de outra base, como a diferença em relação ao último ano dividida de forma inadequada. Gabarito: E.",
+  "hash": "6b83d26083a6e080",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q168": {
+  "explicacao": "A questão pede qual loja informou corretamente o valor unitário da lata na compra de dois packs. Primeiro pack: R$ 21,60. Segundo pack, com 40% de desconto: 21,60 × 0,60 = R$ 12,96. Total: 21,60 + 12,96 = R$ 34,56. Quantidade de latas: 2 × 12 = 24. Valor unitário: 34,56 ÷ 24 = R$ 1,44, que é o valor da loja III. Na alternativa A, R$ 1,08 é o valor unitário do segundo pack sozinho (12,96 ÷ 12). Na B, R$ 1,40 não decorre do cálculo correto. Na D, R$ 1,76 não corresponde ao desconto aplicado. Na E, R$ 1,78 também não resulta da divisão correta do total pelas 24 latas; o preço sem desconto seria R$ 1,80. Gabarito: C.",
+  "hash": "166f5eb94cecd881",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q169": {
+  "explicacao": "A questão pede o tipo de enfeite com maior lucro líquido total. Lucro por unidade = venda − (matéria-prima + mão de obra); lucro total = lucro por unidade × quantidade. Tipo I: 5,00 − 2,80 = 2,20; 2,20 × 5 000 = R$ 11 000,00. Tipo II: 5,50 − 3,00 = 2,50; 2,50 × 4 800 = R$ 12 000,00. Tipo III: 5,00 − 2,50 = 2,50; 2,50 × 4 750 = R$ 11 875,00. Tipo IV: 7,00 − 3,50 = 3,50; 3,50 × 4 600 = R$ 16 100,00. Tipo V: 7,50 − 3,70 = 3,80; 3,80 × 4 200 = R$ 15 960,00. O maior lucro é o do tipo IV. Na alternativa A, o tipo I vende mais, mas tem o menor lucro por unidade. Na B e na C, os tipos II e III lucram cerca de 12 mil reais. Na E, o tipo V tem o maior lucro por unidade, mas vende menos, ficando um pouco abaixo do IV. Gabarito: D.",
+  "hash": "9dcdd95f08da4fe7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q170": {
+  "explicacao": "A questão pede quanto ainda falta reduzir no consumo mensal para atingir a meta de 40% de redução sobre 400 kWh. Meta de redução: 40% × 400 = 160 kWh (consumo final de 240 kWh). Economias já obtidas: troca da geladeira, 90 − 54 = 36 kWh; banho, 30 kWh; ferro de passar, 14 kWh; lâmpadas, 10 kWh. Total: 36 + 30 + 14 + 10 = 90 kWh. Ainda falta reduzir: 160 − 90 = 70 kWh. Na alternativa A, 250 kWh não decorre dos dados. Na B, 150 kWh corresponderia a considerar o consumo final de 240 kWh menos as economias de forma errada. Na C, 126 kWh descontaria apenas parte das economias, contando a geladeira nova (54) em vez da diferença. Na D, 90 kWh é o total já economizado, não o que falta. Gabarito: E.",
+  "hash": "0d78376a33706ca5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q171": {
+  "explicacao": "A questão pede o gráfico do paciente sem descenso noturno, isto é, cuja pressão sistólica durante o sono (faixa cinza) caiu menos de 10% em relação à vigília. Em quem tem descenso fisiológico, a curva cai de forma nítida dentro da faixa hachurada, com redução de pelo menos 10% do valor de vigília (por exemplo, de 130 mmHg para 117 mmHg ou menos). No gráfico da alternativa E, a pressão fica em torno de um mesmo patamar durante a vigília e, no período de sono, entre cerca de 11 h e 15 h 30, sofre apenas uma pequena oscilação para baixo, de pouco mais de uma divisão da escala, e logo volta a subir. Essa queda é muito inferior a 10% do valor de vigília, caracterizando a ausência de descenso noturno, situação associada a maior risco de AVC e infarto. Nas alternativas A, B, C e D, a curva mostra queda acentuada da pressão na região cinza, compatível com redução de 10% ou mais, ou seja, descenso fisiológico preservado. Gabarito: E.",
+  "hash": "bbd29dae0090c883",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q172": {
+  "explicacao": "A questão pede o intervalo, entre as datas marcadas no gráfico, com o maior aumento absoluto do preço da gasolina. Valores informados: 15/out, R$ 3,654; 5/nov, R$ 3,676; 3/dez, R$ 3,655; 9/dez, R$ 3,691; 30/dez, R$ 3,755; 13/jan/16, R$ 3,773. Variações: 15/out a 5/nov: 3,676 − 3,654 = +0,022. 5/nov a 3/dez: 3,655 − 3,676 = −0,021 (queda). 3/dez a 9/dez: 3,691 − 3,655 = +0,036. 9/dez a 30/dez: 3,755 − 3,691 = +0,064. 30/dez a 13/jan: 3,773 − 3,755 = +0,018. O maior aumento é de R$ 0,064, entre 9/dez e 30/dez. Na alternativa A, o aumento é de apenas 0,022. Na B, houve queda. Na C, o trecho é o mais inclinado por dia, mas o aumento absoluto (0,036) é menor. Na E, o aumento é de 0,018. Gabarito: D.",
+  "hash": "209bdc28a9c64c80",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q173": {
+  "explicacao": "A questão pede o rendimento médio do carro em todo o percurso de 1 009 km. No gráfico, com 1 litro o carro roda 13 km com gasolina e 9 km com álcool. Atenção: rendimento médio não é a média de 13 e 9; é a distância total dividida pelo total de litros. Trecho com gasolina: 559 km ÷ 13 km/L = 43 L. Trecho com álcool: 1 009 − 559 = 450 km; 450 ÷ 9 = 50 L. Total de combustível: 43 + 50 = 93 L. Rendimento médio: 1 009 km ÷ 93 L ≈ 10,85 km/L, valor mais próximo de 10,84 km/L. Na alternativa A, 9,90 km/L não decorre dos dados. Na B, 10,43 km/L pondera as distâncias de forma incorreta. Na D, 11,00 km/L é a média aritmética simples de 13 e 9, que ignora as quantidades de litros. Na E, 12,11 km/L também não corresponde ao cálculo com o total de litros. Gabarito: C.",
+  "hash": "d78ef2972f9fc01a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q174": {
+  "explicacao": "[REVISAR] A expressão da velocidade aparece corrompida na extração (expoentes trocados por ?); a leitura correta é V(x) = K(R² − x²). A questão pede o valor de x que torna a velocidade máxima. Como K é positivo e R é fixo, V(x) = K·R² − K·x² é uma função quadrática em x com coeficiente de x² negativo, ou seja, uma parábola com concavidade para baixo, cujo máximo está no vértice. O vértice ocorre em x = 0, pois a função não tem termo de primeiro grau. Interpretando: x = 0 é o centro da seção do tubo, onde a partícula está mais longe das paredes e escoa mais rápido, com velocidade máxima K·R². Na alternativa B, x = R corresponde à parede do tubo, onde a velocidade é zero. Na C, 2R está fora do tubo. Na D e na E, KR e KR² misturam a constante com a posição e não anulam o termo −K·x². Gabarito: A.",
+  "hash": "f1b6b458698c5c88",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q175": {
+  "explicacao": "A questão pede a massa do tanque vazio, sabendo que cheio de gasolina tem 33 kg, cheio de etanol tem 37 kg e que a densidade da gasolina é 7/8 da densidade do etanol. Seja m a massa do tanque vazio e E a massa de etanol que enche o tanque. Como o volume é o mesmo, a massa de gasolina que enche o tanque é 7/8 de E. Equações: m + E = 37 e m + (7/8)E = 33. Subtraindo a segunda da primeira: E − (7/8)E = 37 − 33, ou seja, (1/8)E = 4, logo E = 32 kg. Então m = 37 − 32 = 5 kg. Conferindo: gasolina = 7/8 × 32 = 28 kg, e 5 + 28 = 33 kg. Na alternativa A, 1,0 kg não satisfaz as duas equações. Na B, 3,5 kg resulta de multiplicar 4 por 7/8. Na C, 4,0 kg é a diferença entre as massas, não a massa do tanque. Na E, 9,0 kg não decorre do sistema. Gabarito: D.",
+  "hash": "4e60166e1cf3647d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q176": {
+  "explicacao": "A questão pede a ordem cronológica dos quadrinhos. Montando a linha do tempo: às 8 h 00, a pizza vai ao forno e o cachorro sai (quadrinho 5, pessoa no forno e cachorro saindo pela porta). Às 8 h 10, cinco minutos antes do telefone, o vizinho toca a campainha e conversam 3 minutos, até 8 h 13 (quadrinho 4, duas pessoas na porta, sem cachorro). Às 8 h 15, o telefone toca e a conversa dura até 8 h 19 (quadrinho 3, pessoa ao telefone). O vizinho volta 30 minutos após a conversa, às 8 h 43, e a despedida ocorre às 8 h 45; a pizza foi retirada 15 minutos antes, às 8 h 30 (quadrinho 2, pessoa tirando a pizza). Por fim, às 8 h 43, o vizinho chega e o cachorro entra (quadrinho 1, vizinho, cachorro entrando e pizza na mesa). Sequência: 5, 4, 3, 2, 1; a pizza ficou 30 minutos no forno. Nas alternativas A e B, a retirada da pizza aparece no início. Na C, o telefone vem antes da campainha. Na D, a chegada do vizinho com o cachorro vem antes da retirada da pizza. Gabarito: E.",
+  "hash": "c2cac3d6ecd2dfa3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q177": {
+  "explicacao": "A questão pede o aumento mínimo na largura do painel para que ele gere pelo menos 150 MWh, mantendo o comprimento de 6 m. Cada metro quadrado gera 5 MWh. Situação atual: área = 3 × 6 = 18 m²; energia = 18 × 5 = 90 MWh, abaixo do necessário. Área mínima para o selo: 150 ÷ 5 = 30 m². Com comprimento fixo de 6 m, a largura mínima é 30 ÷ 6 = 5 m. O aumento na largura é 5 − 3 = 2 m. Na alternativa B, 4 m daria largura de 7 m, mais que o mínimo. Na C, 5 m é a largura final, não o aumento. Na D, 10 m não decorre do cálculo. Na E, 12 m é o acréscimo de área (30 − 18), não de largura. Gabarito: A.",
+  "hash": "542bfe478f711482",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q178": {
+  "explicacao": "A questão pede por quanto tempo o download ficou travado. No gráfico de volume baixado versus tempo, o download está travado quando o volume não aumenta, ou seja, quando a curva fica horizontal. Há dois trechos horizontais: de 3 s a 6 s, duração de 6 − 3 = 3 s; e de 10 s a 12 s, duração de 12 − 10 = 2 s. Nos demais intervalos (0 a 3, 6 a 10, 12 a 13 e 13 a 16), a curva sobe, indicando transferência de dados. Tempo total travado: 3 + 2 = 5 s. Na alternativa A, 9 s soma intervalos em que o download ocorria. Na C, 3 s considera só o primeiro travamento. Na D, 2 s considera só o segundo. Na E, 0 ignora os trechos horizontais. Gabarito: B.",
+  "hash": "6a9182c6bfc5b7ed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q179": {
+  "explicacao": "[REVISAR] As frações das alternativas aparecem embaralhadas na extração; pelo cálculo, a alternativa B corresponde a 14/25. A questão pede a razão entre os números que o sistema marcará e o total de 50 números da aposta. Contando no cartão os números já marcados pelo jogador, linha a linha: 01, 04, 08, 10 (4); 15 (1); 22, 27, 30 (3); 34 (1); 41, 43, 45, 50 (4); 59 (1); 62, 66, 68 (3); 74 (1); 85, 90 (2); 91, 97 (2). Total: 22 números marcados pelo jogador. O sistema completará 50 − 22 = 28 números. A razão pedida é 28/50, que simplificada dá 14/25. Um erro comum é usar os 22 números do jogador (22/50 = 11/25) em vez dos marcados pelo sistema; outro é inverter a razão (25/14 ou 25/11). As demais alternativas trazem justamente essas trocas. Gabarito: B.",
+  "hash": "a34a4fb96c0f89cc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q180": {
+  "explicacao": "A questão pede a expressão que representa o cálculo feito na calculadora: digitar 8, apertar três vezes a tecla A (elevar ao quadrado) e uma vez a tecla B (raiz cúbica). Primeira vez em A: 8². Segunda vez: (8²)² = 8^(2×2). Terceira vez: ((8²)²)² = 8^(2×2×2) = 8⁸. Pela propriedade de potência de potência, os expoentes se multiplicam, não se somam. Depois, a tecla B extrai a raiz cúbica do resultado: ∛(8^(2×2×2)), que é a expressão da alternativa B. Conferindo o valor: 8⁸ = (2³)⁸ = 2²⁴, e ∛(2²⁴) = 2⁸ = 256. As demais alternativas erram a ordem das operações (aplicando a raiz antes dos quadrados), somam os expoentes em vez de multiplicá-los (8^(2+2+2)) ou trocam o índice da raiz pelo expoente, não representando a sequência de teclas descrita. Gabarito: B.",
+  "hash": "5995ee08ebb65b45",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q91": {
+  "explicacao": "A questão pede o produto da biodegradação anaeróbica que está no estado físico de menor agregação (gasoso) e que pode ser usado diretamente como combustível. Na ausência de oxigênio, microrganismos decompõem a matéria orgânica do polímero gerando, entre outros produtos, gás carbônico, água, resíduo e biomassa, além do metano (CH₄), o principal componente do biogás. O metano é um gás, logo está no estado de menor agregação, e é inflamável: sua combustão (CH₄ + 2 O₂ → CO₂ + 2 H₂O) libera muita energia, por isso é aproveitado em biodigestores e aterros sanitários para gerar energia. Assim, ele atende às duas exigências do enunciado. Na alternativa A, o CO₂ é gasoso, mas é produto de combustão completa e não queima. Na C, a água não é combustível e, nas condições do processo, aparece como líquido. Na D, o carbono residual é sólido e não é usado diretamente como combustível gasoso. Na E, a biomassa microbiana é sólida, não é gás. Gabarito: B.",
+  "hash": "dd9b74e6f494c043",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q92": {
+  "explicacao": "A questão pede qual planta tem adaptação para ambientes com pouca água, ou seja, uma característica de xerófita. O quadro relaciona cada planta a uma adaptação: I, caule carnoso; II, caule tipo rizóforo; III, raízes tuberosas; IV, raízes sugadoras; V, raízes tipo pneumatóforos. O caule carnoso, como o dos cactos, é suculento e armazena água em seus tecidos (parênquima aquífero), permitindo que a planta sobreviva a longos períodos de seca. Essa é a adaptação típica de ambientes áridos, como a Caatinga e os desertos. Na alternativa B, o rizóforo é um caule de sustentação típico do mangue, ambiente encharcado. Na C, raízes tuberosas armazenam principalmente amido (reserva nutritiva), como na mandioca, e não são a adaptação característica de xerófitas. Na D, raízes sugadoras (haustórios) são de plantas parasitas, ligadas à obtenção de seiva, não à economia de água. Na E, pneumatóforos são raízes respiratórias de solos alagados e pobres em oxigênio, como no mangue. Gabarito: A.",
+  "hash": "0e9d0b39fc2af0ad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q93": {
+  "explicacao": "A questão pede o que deve estar presente na solução nutritiva da hidroponia para garantir o crescimento das hortaliças. Plantas são autótrofas: produzem sua própria matéria orgânica pela fotossíntese, usando CO₂, água e luz. O que elas retiram do meio pelas raízes são os nutrientes minerais, como nitrogênio, fósforo, potássio, cálcio, magnésio, enxofre e micronutrientes como ferro e zinco. No cultivo em solo, esses íons vêm da terra; na hidroponia, como não há solo, eles precisam ser fornecidos dissolvidos na solução, em quantidades controladas. Por isso, a solução nutritiva deve conter minerais. Na alternativa A, lipídeos são produzidos pela própria planta e não são absorvidos pelas raízes. Na B, enzimas são proteínas sintetizadas pelas células da planta, não um nutriente a ser fornecido. Na D, vitaminas também são sintetizadas pelas plantas, que são fonte delas para os animais. Na E, carboidratos são produtos da fotossíntese, e a planta não depende de recebê-los pela raiz. Gabarito: C.",
+  "hash": "9b35957de9ca01d9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q94": {
+  "explicacao": "A questão pede a consequência de consumir probióticos bacterianos ao mesmo tempo que antibióticos. Probióticos são bactérias vivas benéficas que repõem a microbiota intestinal, formada por bactérias simbióticas (mutualistas). Antibióticos são substâncias que matam bactérias ou impedem sua multiplicação e, em geral, não distinguem bactérias patogênicas das benéficas. Se os dois forem ingeridos juntos, o antibiótico atinge também as bactérias do probiótico, que morrem antes de colonizar o intestino. O resultado é a redução da densidade de bactérias simbióticas, e o probiótico perde sua função; daí a recomendação de um intervalo entre as ingestões. Na alternativa A, não há relação entre essa combinação e obstrução intestinal. Na B, é o antibiótico que anula o probiótico, e não o contrário. Na C, não há excesso de fármaco, pois o probiótico não é um medicamento que se soma ao antibiótico. Na D, o problema descrito é a morte das bactérias, não uma desorganização do sistema imunológico. Gabarito: E.",
+  "hash": "50c3d9362ac3376b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q95": {
+  "explicacao": "A questão pede a doença cujas medidas de controle incluem eutanásia de cães soropositivos, borrifação de inseticida, remoção de matéria orgânica e poda de árvores nos quintais. Essas pistas apontam para a leishmaniose visceral (calazar). O cão doméstico é o principal reservatório urbano do protozoário Leishmania, por isso cães soropositivos são alvo de controle. O vetor é o mosquito-palha (flebotomíneo), inseto que se reproduz em matéria orgânica úmida e em locais sombreados, como folhas acumuladas e quintais com muita vegetação; daí a remoção de matéria orgânica, a poda de árvores e a borrifação com inseticida. É também uma doença negligenciada no Brasil. Na alternativa A, a raiva é controlada por vacinação de cães, não por inseticida. Na B, a malária é transmitida pelo Anopheles, que se cria em águas limpas, e o cão não é reservatório. Na C, a dengue é combatida eliminando água parada, e cães não participam do ciclo. Na D, a toxoplasmose tem o gato como hospedeiro definitivo e não envolve inseto vetor. Gabarito: E.",
+  "hash": "ec6956acbd12a3aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q96": {
+  "explicacao": "A questão pede a cor final da couve em três béqueres aquecidos por 20 minutos. Pelo texto, a feofitinização (clorofila verde → feofitina amarela) acontece quando o meio está ácido. O quadro mostra: béquer 1, couve e água; béquer 2, couve, água e suco de limão; béquer 3, couve, água e bicarbonato de sódio. No béquer 1, a água é praticamente neutra, então a clorofila é preservada e a couve fica verde. No béquer 2, o suco de limão contém ácido cítrico, que deixa o meio ácido: os íons H⁺ substituem o Mg²⁺ central da clorofila, formando feofitina, e a couve fica amarela. No béquer 3, o bicarbonato de sódio (NaHCO₃) torna o meio levemente básico, o que impede a reação, e a couve continua verde. Sequência: verde, amarela e verde. Na alternativa A, ignora-se a reação no meio ácido do béquer 2. Na B, o béquer 1 não é ácido. Na D, o béquer 1 é neutro e não amarelaria. Na E, o béquer 3 é básico e não favorece a feofitinização. Gabarito: C.",
+  "hash": "f11814f2c52b2f70",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q97": {
+  "explicacao": "A questão pede os coeficientes x (CO₂) e y (H₂O) na equação da fotossíntese que produz o polissacarídeo do esquema e 12n O₂. O polímero mostrado tem como unidade de repetição dois anéis de glicose ligados (como na celulose), ou seja, cada unidade entre parênteses corresponde a 2 × C₆H₁₀O₅ = C₁₂H₂₀O₁₀. Logo, o produto é (C₁₂H₂₀O₁₀)ₙ. Balanceando: carbono: o polímero tem 12n átomos de C, então x = 12n. Hidrogênio: o polímero tem 20n átomos de H e cada água fornece 2, então 2y = 20n e y = 10n. Conferindo o oxigênio: reagentes têm 2 × 12n + 10n = 24n + 10n = 34n; produtos têm 10n (no polímero) + 2 × 12n (no O₂) = 10n + 24n = 34n. A equação fecha: 12n CO₂ + 10n H₂O → (C₁₂H₂₀O₁₀)ₙ + 12n O₂. Na alternativa A, os valores não conservam carbono nem hidrogênio. Na B, 10n CO₂ dariam apenas 10n carbonos. Na C, 14n H₂O dariam 28n hidrogênios. Na E, 14n CO₂ excede os carbonos e 6n H₂O não fornece hidrogênio suficiente. Gabarito: D.",
+  "hash": "8370df68e08d165a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q98": {
+  "explicacao": "A questão pede a massa de calcário com 50% de pureza necessária para neutralizar 1 L de drenagem ácida com 9,8 g/L de H₂SO₄. Passo 1: quantidade de ácido em 1 L: n = 9,8 g ÷ 98 g/mol = 0,1 mol de H₂SO₄. Passo 2: reação de neutralização: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂, proporção 1 : 1. Logo, são necessários 0,1 mol de CaCO₃. Passo 3: massa de CaCO₃ puro: 0,1 mol × 100 g/mol = 10 g. Passo 4: considerando a pureza de 50%, apenas metade da amostra comercial é CaCO₃; então a massa de calcário é 10 g ÷ 0,5 = 20 g. Na alternativa A, 0,2 g resultaria de confundir mol com grama e multiplicar por 2. Na B, 5,0 g aplicaria a pureza ao contrário (multiplicando por 0,5). Na C, 10,0 g é a massa de CaCO₃ puro, sem considerar a pureza de 50%. Na E, 200,0 g erra a ordem de grandeza por um fator de 10. Gabarito: D.",
+  "hash": "bf3af77558a731b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2021-ppl-d2-q99": {
+  "explicacao": "A questão pede o tempo que o sinal leva da sonda, a cerca de 5 bilhões de quilômetros, até a Terra. O sinal de rádio é uma onda eletromagnética e viaja à velocidade da luz, c ≈ 3 × 10⁸ m/s. Convertendo a distância: d = 5 × 10⁹ km = 5 × 10¹² m. Como o movimento é uniforme, t = d ÷ c = (5 × 10¹² m) ÷ (3 × 10⁸ m/s) ≈ 1,67 × 10⁴ s, ou seja, cerca de 1,7 × 10⁴ s (aproximadamente 4 horas e 40 minutos). Isso explica por que as imagens não chegaram instantaneamente. Na alternativa A, 4,6 × 10³ s é cerca de 1,3 hora, valor muito pequeno; corresponde a confundir horas com segundos no resultado. Na B, 9,3 × 10³ s corresponderia a uma distância de cerca de 2,8 bilhões de km. Na C, 1,6 × 10¹ s erra muito a ordem de grandeza. Na E, 3,4 × 10⁴ s é o dobro do correto, como se o sinal fizesse ida e volta. Gabarito: D.",
+  "hash": "2e863527d45fd7e3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
