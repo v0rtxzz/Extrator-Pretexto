@@ -1,0 +1,447 @@
+{
+ "enem-2020-ppl-d2-q100": {
+  "explicacao": "A questão trata da teoria endossimbiótica, segundo a qual mitocôndrias e cloroplastos descendem de procariontes que passaram a viver dentro de outra célula. O enunciado pergunta por que essas organelas conseguem se multiplicar dentro da célula. A resposta está no fato de possuírem DNA próprio, circular e semelhante ao das bactérias. Com seu material genético, elas se duplicam de forma relativamente independente da divisão do núcleo, por um processo parecido com a fissão binária bacteriana: o DNA é replicado e a organela se divide. Sem DNA próprio, não haveria informação para essa autoduplicação. A alternativa B é uma característica real dessas organelas, mas os ribossomos produzem proteínas; o que permite a reprodução é ter o material genético a ser copiado. A alternativa C, a membrana dupla, é evidência da origem endossimbiótica, mas não explica a multiplicação. A alternativa D é inadequada, pois o código genético é praticamente universal. A alternativa E não é o fator que permite a divisão da organela. Gabarito: A.",
+  "hash": "b0008ba8e626f5a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q101": {
+  "explicacao": "O texto diz que um metal pesado fica retido no solo de três formas, entre elas reagindo com hidroxila (OH⁻), sulfeto (S²⁻) ou metil (CH₃) para formar precipitado insolúvel. A questão pede o par de compostos que pode se formar no solo a partir de metais pesados liberados das pilhas. Cádmio e zinco são metais presentes em pilhas. O CdS (sulfeto de cádmio) e o Zn(OH)₂ (hidróxido de zinco) são compostos pouco solúveis, formados exatamente pela reação com sulfeto e hidroxila. Por isso, os dois ficam retidos nas camadas superiores do solo. A alternativa B traz Na₂S, mas o sódio não é metal pesado e esse sulfeto é solúvel. A alternativa C apresenta Cr(C₂H₅)₂, com grupo etil, e não metil, como diz o texto. A alternativa D traz sulfato e acetato, sais solúveis que não correspondem aos grupos citados. A alternativa E inclui Ca(CH₃CO₂)₂, cujo cálcio não é metal pesado e cujo acetato é solúvel. Gabarito: A.",
+  "hash": "d9eff75a2e5dc910",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q102": {
+  "explicacao": "A questão pede em que tipo de área contaminada as bactérias Pseudomonas descritas seriam úteis, o que é um caso de biorremediação. O texto informa que essas bactérias usam hidrocarbonetos como fonte de energia e transformam o octano em moléculas menos tóxicas. O octano é um hidrocarboneto típico da gasolina, e os hidrocarbonetos são os principais constituintes do petróleo e de seus derivados. Portanto, essas bactérias poderiam ser usadas para degradar os resíduos de vazamentos de petróleo, recuperando solos e águas contaminados. A alternativa B não serve porque pesticidas são, em geral, compostos organoclorados ou organofosforados, e o texto só fala em hidrocarbonetos. A alternativa C está incorreta porque a radioatividade não é eliminada por ação metabólica de bactérias. A alternativa D não se aplica, pois o texto não trata de gases tóxicos. A alternativa E erra porque metais pesados são elementos e não podem ser degradados como substrato energético. Gabarito: A.",
+  "hash": "1dc3beb4ae241907",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q103": {
+  "explicacao": "A questão pede o tipo de interação que predomina quando o açúcar (sacarose) se dissolve na água. A sacarose é uma molécula orgânica com muitos grupos hidroxila (–OH). A água também tem ligações O–H fortemente polarizadas. Quando o açúcar é colocado na água, os hidrogênios ligados a oxigênio de uma molécula interagem com os pares de elétrons livres do oxigênio da outra, formando ligações de hidrogênio entre as hidroxilas da sacarose e as moléculas de água. É isso que explica a regra \"semelhante dissolve semelhante\": duas substâncias polares, capazes de fazer ligações de hidrogênio, se misturam bem. O óleo, apolar, não consegue fazer essas interações com a água. A alternativa A erra porque o açúcar é composto molecular, não iônico. A alternativa B erra porque, na dissolução, não se formam novas ligações covalentes. A alternativa C exigiria íons, que a sacarose não forma ao se dissolver. A alternativa E descreve interações entre partes apolares, que não são as responsáveis por essa dissolução. Gabarito: D.",
+  "hash": "d6d6b1ee8ecbca4a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q104": {
+  "explicacao": "A questão pergunta por que os óleos produzidos pelo milho são voláteis, ou seja, passam com facilidade para o estado de vapor. A volatilidade de uma substância molecular depende da intensidade das forças intermoleculares: quanto mais fracas as interações entre as moléculas, menos energia é necessária para separá-las e mais fácil é a evaporação. As estruturas desses óleos são predominantemente formadas por carbono e hidrogênio, com caráter pouco polar, de modo que as moléculas se atraem principalmente por forças de dispersão (dipolo induzido), que são fracas. Por isso, esses compostos evaporam facilmente e se espalham pelo ar. A alternativa A confunde ligação intramolecular com interação intermolecular; o caráter covalente não define a volatilidade. A alternativa B é incorreta, pois compostos pouco polares têm baixa miscibilidade em água, e isso não explica a volatilidade. A alternativa C erra porque volatilidade é um fenômeno físico, não ligado à estabilidade química. A alternativa D trata de superfície de contato, que interfere na velocidade de reações, não nessa propriedade. Gabarito: E.",
+  "hash": "472df30fb4652cdc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q105": {
+  "explicacao": "A questão pede o menor número de pneus para que a pressão de cada um sobre o solo não passe do dobro da pressão atmosférica. Primeiro, a massa total: 5 t + 3 t = 8 t = 8 000 kg. O peso é P = m·g = 8 000 × 10 = 80 000 N. A área de contato de cada pneu é 0,20 m × 0,30 m = 0,06 m². A pressão máxima permitida é 2 × 10⁵ Pa. Assim, a força máxima que cada pneu pode suportar é F = p·A = 2 × 10⁵ × 0,06 = 12 000 N. O número mínimo de pneus é n = 80 000 ÷ 12 000 ≈ 6,67. Como não existe fração de pneu e eles são usados aos pares, é preciso arredondar para cima, chegando a 8 pneus. Conferindo: com 8 pneus, cada um suporta 10 000 N e exerce 10 000 ÷ 0,06 ≈ 1,67 × 10⁵ Pa, abaixo do limite. A alternativa A dá cerca de 3,3 × 10⁵ Pa por pneu, acima do limite. A alternativa B dá cerca de 2,2 × 10⁵ Pa, ainda acima do permitido. As alternativas D e E funcionam, mas não são o menor número possível. Gabarito: C.",
+  "hash": "6d058c2230423906",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q106": {
+  "explicacao": "A questão pede o motivo de preservar o fitoplâncton, formado por organismos fotossintetizantes microscópicos que vivem na coluna d'água. Esses seres são produtores: pela fotossíntese, convertem energia luminosa em matéria orgânica, que alimenta o zooplâncton, pequenos peixes e, em sequência, os demais consumidores. Por isso, o fitoplâncton sustenta a base das cadeias e teias alimentares aquáticas. Reduzir sua população comprometeria toda a comunidade, incluindo os peixes que interessam à atividade pesqueira, o que explica a preocupação da legislação de pesca. A alternativa A erra porque o fitoplâncton produz O₂ pela fotossíntese, não o transfere do ar para a água. A alternativa B é incorreta porque a temperatura da água não depende do fitoplâncton. A alternativa C não corresponde ao papel ecológico citado, e algumas algas tóxicas fazem parte do próprio fitoplâncton. A alternativa D descreve o papel dos decompositores, como bactérias e fungos, e não dos produtores. Gabarito: E.",
+  "hash": "2b82b8853967231f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q107": {
+  "explicacao": "A questão pede o objetivo da recomendação do Protocolo de Montreal de reduzir o uso de CFCs. Os clorofluorcarbonetos são gases estáveis que, ao chegar à estratosfera, sofrem a ação da radiação ultravioleta e liberam átomos de cloro. Esses átomos funcionam como catalisadores na decomposição do ozônio (O₃ → O₂), de modo que um único átomo de cloro pode destruir milhares de moléculas de ozônio. A camada de ozônio filtra boa parte da radiação ultravioleta do Sol, e sua redução aumenta a incidência de câncer de pele, catarata e danos a ecossistemas. Por isso, o protocolo visa preservar a camada de ozônio. A alternativa A erra porque a chuva ácida é causada principalmente por óxidos de enxofre e nitrogênio. A alternativa B erra porque a inversão térmica é um fenômeno meteorológico, não provocado pelos CFCs. A alternativa D cita um efeito real dos CFCs, que também são gases-estufa, mas não é o foco do Protocolo de Montreal. A alternativa E erra porque ilhas de calor resultam da urbanização. Gabarito: C.",
+  "hash": "17c3bd4673a8c6f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q108": {
+  "explicacao": "A questão pede quantos dias o esgoto leva para elevar a concentração de fosfato no lago até 0,030 mg/L. Primeiro, convertemos a concentração de tripolifosfato no esgoto em fosfato. Pela equação, 1 mol de P₃O₁₀⁵⁻ (253 g) gera 3 mol de PO₄³⁻ (3 × 95 = 285 g). Logo, 0,085 mg/L de tripolifosfato gera 0,085 × 285/253 ≈ 0,0958 mg/L de fosfato. Por dia entram 16 m³ = 16 000 L, que levam 16 000 × 0,0958 ≈ 1 532 mg de fosfato. O lago tem 8 000 m³ = 8 000 000 L, e a quantidade máxima de fosfato permitida é 8 000 000 × 0,030 = 240 000 mg. O número de dias é 240 000 ÷ 1 532 ≈ 157, valor mais próximo de 158 (a pequena diferença vem de arredondamentos ou do aumento de volume do lago). A alternativa B não corresponde ao cálculo. A alternativa C resulta de não aplicar a proporção 1 : 3 da equação. As alternativas D e E vêm de erros de conversão entre massas molares ou de esquecer a estequiometria. Gabarito: A.",
+  "hash": "1485c531e2565061",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q109": {
+  "explicacao": "A questão pede por que a malária gera um sério problema socioeconômico na Amazônia. A malária é causada por protozoários do gênero Plasmodium, transmitidos pela picada da fêmea do mosquito Anopheles. No ser humano, o parasita se multiplica no fígado e depois nas hemácias; o rompimento periódico dessas células libera parasitas e toxinas no sangue, o que provoca os acessos febris intermitentes (a cada 48 ou 72 horas, conforme a espécie), acompanhados de calafrios, fadiga, dores de cabeça e anemia. Esses sintomas debilitam o doente e o afastam do trabalho e de outras atividades, reduzindo a capacidade produtiva da população, exatamente como o texto aponta. A alternativa A exagera: alterações neurológicas ocorrem só em casos graves e não são o quadro típico. A alternativa B descreve doenças como cólera, não a malária. A alternativa D erra porque a malária não causa imunossupressão que exija máscaras e luvas. A alternativa E erra duas vezes: a doença não é viral nem é contagiosa de pessoa para pessoa. Gabarito: C.",
+  "hash": "d49b8faceed06ff0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q110": {
+  "explicacao": "A questão pede o motivo pelo qual a expansão adiabática resfria o nitrogênio. Pela primeira lei da termodinâmica, ΔU = Q − W, em que ΔU é a variação de energia interna, Q o calor trocado e W o trabalho realizado pelo gás. Num processo adiabático, por definição, não há troca de calor com o ambiente: Q = 0. Então ΔU = −W. Na expansão, o gás empurra o êmbolo e realiza trabalho positivo (W > 0), de modo que ΔU < 0: a energia interna diminui. Como a energia interna de um gás está ligada à sua temperatura, a temperatura cai. O trabalho está diretamente associado à variação de energia interna, sem troca de calor, e é isso que permite chegar a −196 °C. As alternativas A e B estão erradas porque, no processo adiabático, não há entrada nem saída de calor. A alternativa C descreve o processo isotérmico, em que ΔU = 0 e Q = W. A alternativa D, além de descrever o isotérmico, usa o conceito incorreto de \"entrada de frio\". Gabarito: E.",
+  "hash": "b4a44bab00031ad1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q111": {
+  "explicacao": "A questão pede por que o organismo usa a catalase para decompor o peróxido de hidrogênio. O gráfico compara o caminho da reação 2 H₂O₂ → 2 H₂O + O₂ com e sem a enzima. Em ambos os casos, os reagentes e os produtos estão nos mesmos níveis de energia, de modo que a variação de entalpia é a mesma; o que muda é a altura do pico: com a catalase, a barreira energética é bem menor. Como catalisador biológico, a enzima oferece um caminho alternativo com menor energia de ativação, o que faz a reação ocorrer muito mais rápido e elimina o H₂O₂ antes que ele gere radicais tóxicos. A alternativa B erra porque o catalisador não altera o rendimento nem o equilíbrio, apenas a velocidade. A alternativa C erra porque o ΔH da reação é o mesmo com ou sem enzima. A alternativa D erra porque o oxigênio é produto da reação, e não é consumido. A alternativa E erra porque a enzima não é consumida: ela se regenera ao final de cada ciclo. Gabarito: A.",
+  "hash": "19a88e063d3c4c85",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q112": {
+  "explicacao": "A questão parte de uma informação central: as plantas sequestram grande quantidade de carbono principalmente na fase de crescimento, quando produzem biomassa nova pela fotossíntese. Assim, para aumentar o sequestro de carbono, é preciso ter mais plantas crescendo. O replantio de áreas degradadas faz justamente isso: introduz vegetação jovem em ritmo intenso de crescimento, que retira CO₂ da atmosfera e o incorpora em troncos, raízes e folhas. A alternativa A reduz o corte de árvores, mas não aumenta diretamente a fotossíntese. A alternativa B é importante para manter o carbono estocado, mas uma floresta madura está perto do equilíbrio entre fotossíntese e respiração, sem grande sequestro adicional. A alternativa D evita a emissão de carbono, mas não aumenta sua captura. A alternativa E diminui a demanda por madeira, mas também não acrescenta crescimento vegetal. Gabarito: C.",
+  "hash": "947f4bc083ec9e3a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q113": {
+  "explicacao": "A questão pede a vantagem que a coevolução com os insetos polinizadores trouxe às angiospermas. Ao visitar as flores em busca de alimento (néctar e pólen), os insetos carregam grãos de pólen de uma planta para outra. Isso favorece a polinização cruzada, ou seja, a fecundação entre indivíduos diferentes. A reprodução cruzada combina genes de pais distintos e aumenta a variabilidade genética dos descendentes. Com mais variabilidade, as populações têm mais matéria-prima para a seleção natural, o que ajuda a explicar a grande irradiação e o sucesso evolutivo das angiospermas. A alternativa A erra porque a polinização não está relacionada à defesa contra herbívoros. A alternativa B não decorre da polinização, que não reduz competição entre espécies. A alternativa D erra porque a polinização por insetos permite até produzir menos pólen, por ser mais eficiente que o vento. A alternativa E se refere ao tubo polínico e ao grão de pólen, já presentes nas gimnospermas. Gabarito: C.",
+  "hash": "71e5b60e998720d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q114": {
+  "explicacao": "A questão pede que tipo de receptor sensorial dos tubarões foi afetado pela exposição a campos magnéticos artificiais. Os tubarões têm um órgão sensorial especial, as ampolas de Lorenzini, poros na região da cabeça cheios de um gel condutor, que funcionam como eletrorreceptores. Eles detectam campos elétricos muito fracos, como os produzidos pela contração muscular e pelos batimentos cardíacos das presas, além de variações do campo magnético. Ao gerar campos magnéticos artificiais na água, os pesquisadores interferiram nesse sentido, e os tubarões passaram a ter dificuldade para localizar e capturar as presas. A alternativa A erra porque os fotorreceptores percebem luz, não campos magnéticos. A alternativa B está incorreta porque os mecanorreceptores, como a linha lateral, detectam vibrações e pressão. A alternativa D erra porque os termorreceptores percebem temperatura. A alternativa E erra porque os quimiorreceptores percebem substâncias químicas, como o sangue na água. Gabarito: C.",
+  "hash": "cb53bba292e12d07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q115": {
+  "explicacao": "A questão pede por que a maresia, que leva gotículas de água salgada ao carro, acelera a ferrugem do aço. A corrosão do ferro é um processo eletroquímico: o ferro se oxida (Fe → Fe²⁺ + 2 e⁻) numa região da peça, e o oxigênio se reduz em outra, com a água funcionando como meio de contato entre essas regiões. Para que o processo ocorra, é necessário que íons se movimentem nessa solução, fechando o circuito, como numa pilha. O cloreto de sódio dissolvido libera íons Na⁺ e Cl⁻, que aumentam a condutividade elétrica da água e, portanto, aceleram a corrosão. A alternativa A erra porque, na corrosão, o ferro é oxidado, e não reduzido. A alternativa B está incorreta, pois o NaCl não oxida o carbono do aço. A alternativa C erra porque o sal não dissolve a pintura. A alternativa E erra porque, mesmo que o sal reduza um pouco a solubilidade do O₂, isso desaceleraria, e não aceleraria, a corrosão. Gabarito: D.",
+  "hash": "a0814237817dcbdd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q116": {
+  "explicacao": "A questão pede por que os empanados ficaram encharcados e sem crocância. O texto informa que a crocância depende de uma desidratação rápida da superfície do alimento a cerca de 170 °C. Ao colocar de uma vez todas as unidades congeladas no óleo, a pessoa adicionou uma grande massa a temperatura muito baixa. Ocorre troca de calor entre o óleo quente e os alimentos frios, e a temperatura do óleo cai bastante. Além disso, parte do calor é usada para descongelar e aquecer o gelo dos empanados. Com o óleo mais frio, a água da superfície não evapora rapidamente, a crosta não se forma e o óleo penetra no alimento, deixando-o encharcado. A alternativa A erra porque o óleo não evapora significativamente a 170 °C. A alternativa C diz o contrário do que aconteceu: faltou desidratação. A alternativa D erra porque o empanamento não impede a fritura em condições corretas. A alternativa E contradiz o próprio texto, já que o frango empanado contém proteínas e carboidratos. Gabarito: B.",
+  "hash": "b48d1a60326660fd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q117": {
+  "explicacao": "A questão pede o fenômeno ondulatório em que se baseiam os óculos 3D do cinema. A luz é uma onda transversal, e a luz comum vibra em muitas direções perpendiculares à direção de propagação. O texto informa que, após atravessar cada lente, a luz passa a vibrar apenas na direção vertical ou apenas na horizontal. Esse filtro de direções de vibração é a definição de polarização. No cinema 3D, duas imagens ligeiramente diferentes são projetadas com polarizações distintas, e cada lente deixa passar só uma delas. Assim, cada olho recebe uma imagem diferente, e o cérebro as combina, criando a sensação de profundidade. A alternativa A erra porque a difração é o contorno de obstáculos pela onda. A alternativa B erra porque a dispersão é a separação da luz em cores. A alternativa C descreve o retorno da onda ao meio de origem. A alternativa D trata da mudança de velocidade e direção ao mudar de meio. Gabarito: E.",
+  "hash": "6059eab4a50801cc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q118": {
+  "explicacao": "A questão pede o íon que corrige o pH do solo de 4,6 para a faixa de 5,8 a 6,0. Como o solo está ácido, é preciso elevar o pH, ou seja, aumentar a alcalinidade com um íon que gere OH⁻ ao reagir com a água. O carbonato, ânion de um ácido fraco (o ácido carbônico), sofre hidrólise: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻. Os íons OH⁻ produzidos neutralizam o H⁺ do solo, e o pH sobe. Por isso, o produto com carbonato de cálcio (calcário) é o usado na calagem. A alternativa A erra porque o cálcio, cátion de base forte, praticamente não sofre hidrólise. A alternativa B descreve corretamente a hidrólise do amônio, mas esse íon aumenta a acidez, o oposto do desejado. A alternativa C erra porque o sódio também não sofre hidrólise significativa. A alternativa D erra porque o sulfato, ânion de ácido forte, não gera OH⁻ de forma relevante. Gabarito: E.",
+  "hash": "25dbf480141d80da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q119": {
+  "explicacao": "A questão pede o ambiente em que vive uma planta com as características descritas. A cutícula fina indica que a planta não precisa evitar a perda de água. O aerênquima bem desenvolvido é um tecido com grandes espaços cheios de ar, que ajuda na flutuação e na oxigenação em ambientes encharcados. Os feixes vasculares pouco desenvolvidos mostram que o transporte e a sustentação são menos necessários, pois a água está em todo lugar e ajuda a sustentar a planta. Os estômatos na face superior das folhas são típicos de folhas flutuantes, cuja face inferior fica em contato com a água. Esse conjunto caracteriza plantas aquáticas, como a vitória-régia. As alternativas A, C e E descrevem ambientes secos ou de alta luminosidade, onde se esperariam cutícula espessa e outras adaptações contra a perda de água. A alternativa D descreve um ambiente terrestre, onde a planta precisaria de vasos condutores desenvolvidos e estômatos na face inferior. Gabarito: B.",
+  "hash": "ee8e4a275f8e14dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q120": {
+  "explicacao": "A questão pede o número de massa do núcleo resultante após o rádio-226 emitir duas partículas α. A partícula α é um núcleo de hélio, com 2 prótons e 2 nêutrons, logo tem número de massa 4 e número atômico 2 (⁴₂α). A cada emissão α, o núcleo perde 4 unidades de massa e 2 unidades de número atômico. Com duas emissões, a perda de massa é 2 × 4 = 8. Então, o número de massa do núcleo filho é 226 − 8 = 218. Em relação ao número atômico, o rádio (Z = 88) passaria a Z = 84, que corresponde ao polônio-218. A alternativa A considera que não houve perda de massa. A alternativa B subtrai apenas 2, que seria a perda de prótons de uma emissão. A alternativa C corresponde a uma única emissão α (226 − 4 = 222, o radônio). A alternativa D subtrai 6, sem correspondência com o decaimento α. Gabarito: E.",
+  "hash": "7b92153f8db538a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q121": {
+  "explicacao": "A questão pede a potência mínima do motor para elevar 3 600 L de água por hora a uma altura de 30 m. Desprezando perdas, a potência é a energia potencial gravitacional fornecida à água por unidade de tempo: P = m·g·h/Δt. Como a densidade da água é 1 kg/L, 3 600 L correspondem a 3 600 kg. Em uma hora há 3 600 s, então a vazão é de 1 kg por segundo. Portanto, P = (1 kg/s) × 10 m/s² × 30 m = 300 W = 3,0 × 10² W. Outra forma: em uma hora, a energia é 3 600 × 10 × 30 = 1 080 000 J, e 1 080 000 ÷ 3 600 = 300 W. A alternativa A resulta de dividir a altura por 3. A alternativa B não corresponde ao cálculo. A alternativa D esquece de dividir corretamente pelo tempo, usando minutos. A alternativa E é a energia em uma hora (1,08 × 10⁶ J), sem dividir pelo tempo. Gabarito: C.",
+  "hash": "8ac53ab6dafb9323",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q122": {
+  "explicacao": "A questão pede a justificativa termodinâmica de três recomendações do manual da geladeira. Primeiro, manter a porta aberta o mínimo possível: o calor flui espontaneamente do ambiente, mais quente, para o interior, mais frio, e a porta aberta aumenta esse fluxo; não existe \"saída de frio\", e sim entrada de calor. Segundo, não obstruir a circulação de ar: o resfriamento interno depende da convecção, em que o ar frio desce a partir do congelador e o ar quente sobe, distribuindo a temperatura. Terceiro, deixar espaço atrás do aparelho: a serpentina traseira é o dissipador, que libera para o ambiente o calor retirado do interior, e precisa de ar circulando para fazer essa troca. As alternativas A e B usam o conceito incorreto de \"saída de frio\". A alternativa D fala em \"transmissão do frio\" entre os alimentos, conceito errado. A alternativa E erra ao dizer que o espaço atrás serve para isolamento térmico, quando serve para a troca de calor. Gabarito: C.",
+  "hash": "eec963b65a0bc44b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q123": {
+  "explicacao": "A questão pede a causa imediata da mudança na composição das comunidades de peixes após a construção de uma hidrelétrica. A barragem transforma um rio de água corrente (ambiente lótico) num reservatório de água parada (ambiente lêntico), com maior profundidade, menos oxigenação no fundo, outra temperatura e acúmulo de sedimentos. Além disso, bloqueia rotas de migração de peixes que sobem o rio para se reproduzir. Essas alterações nos hábitats favorecem as espécies adaptadas a águas paradas, que proliferam, e prejudicam as espécies de rio, causando a perda de diversidade descrita. A alternativa B é incorreta porque o funcionamento de uma hidrelétrica não libera, em geral, substâncias poluentes. A alternativa C erra porque o aumento de CO₂ não é a causa principal nem imediata. A alternativa D trata de um impacto atmosférico, não da ictiofauna. A alternativa E erra porque a pressão nas margens não explica a mudança das espécies. Gabarito: A.",
+  "hash": "329a24ddca964ecb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q124": {
+  "explicacao": "A questão pede quanto diminui a distância de frenagem quando o limite cai de 60 km/h para 50 km/h, com desaceleração de 5 m/s². Pela equação de Torricelli, até parar: 0 = v₀² − 2·a·d, logo d = v₀²/(2a). Convertendo as velocidades: 60 km/h ÷ 3,6 ≈ 16,7 m/s e 50 km/h ÷ 3,6 ≈ 13,9 m/s. Para 60 km/h: d₁ = 16,7² ÷ 10 ≈ 277,8 ÷ 10 ≈ 27,8 m. Para 50 km/h: d₂ = 13,9² ÷ 10 ≈ 192,9 ÷ 10 ≈ 19,3 m. A redução é 27,8 − 19,3 ≈ 8,5 m, valor mais próximo de 9 m. A alternativa A seria uma subestimativa, como se a distância variasse pouco com a velocidade. A alternativa C não corresponde ao cálculo. A alternativa D é a distância de frenagem a 50 km/h, e não a redução. A alternativa E resulta de usar as velocidades em km/h sem converter, ou de não usar o fator 2. Gabarito: B.",
+  "hash": "02e0ac7441d5f72e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q125": {
+  "explicacao": "A questão pede qual processo de atenuação natural destrói os contaminantes, em vez de apenas transferi-los ou retê-los. O quadro traz cinco propostas: I, diluição; II, adsorção; III, dispersão; IV, volatilização; V, biodegradação. Na biodegradação, microrganismos usam os contaminantes como fonte de energia ou nutrientes e os transformam em substâncias mais simples e menos tóxicas, como CO₂ e água. Há, portanto, destruição química do poluente. A alternativa A, diluição, apenas reduz a concentração, e o contaminante continua presente. A alternativa B, adsorção, retém o contaminante na superfície das partículas do solo, sem destruí-lo. A alternativa C, dispersão, espalha o contaminante por uma área maior. A alternativa D, volatilização, transfere o contaminante do solo para o ar. Gabarito: E.",
+  "hash": "726c490fbc67f442",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q126": {
+  "explicacao": "A figura mostra um medicamento que inibe a lipase, enzima intestinal que digere as gorduras, e cinco resultados possíveis para gordura nas fezes e triglicerídeos no sangue, antes e depois do tratamento. Se a lipase é inibida, a gordura da dieta deixa de ser quebrada e não pode ser absorvida pelo intestino. Assim, espera-se que a gordura nas fezes aumente, pois é eliminada sem digestão, e que os triglicerídeos no sangue diminuam, já que menos produtos da digestão de gorduras chegam à circulação. No resultado 1, a barra de gordura nas fezes depois é maior que a de antes, e a de triglicerídeos depois é menor que a de antes, o que corresponde ao efeito esperado. O resultado 2 mostra gordura nas fezes diminuindo e triglicerídeos aumentando, o oposto do esperado. O resultado 3 mostra aumento nos dois parâmetros. O resultado 4 mostra menos gordura nas fezes e triglicerídeos inalterados. O resultado 5 mostra aumento da gordura nas fezes, mas triglicerídeos inalterados. Gabarito: A.",
+  "hash": "1b94bcc212bde234",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q127": {
+  "explicacao": "A questão pede o fenômeno físico responsável pela redução do ruído nos fones com cancelamento ativo. O circuito gera uma onda sonora igual ao ruído externo, mas com fase oposta: onde o ruído tem uma crista, a onda gerada tem um vale. Quando as duas ondas se superpõem no ouvido, ocorre interferência destrutiva: as amplitudes se somam com sinais opostos e se anulam, total ou parcialmente. O resultado é uma redução significativa do som percebido. A alternativa A erra porque a difração é a capacidade da onda de contornar obstáculos. A alternativa B erra porque a reflexão é o retorno da onda ao bater numa superfície. A alternativa C erra porque a refração é a mudança de velocidade da onda ao mudar de meio. A alternativa E erra porque o efeito Doppler é a alteração da frequência percebida pelo movimento relativo entre fonte e observador. Gabarito: D.",
+  "hash": "fec08ab0df9e27de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q128": {
+  "explicacao": "A questão pede o chuveiro de maior potência. A potência dissipada num resistor sob tensão U é P = U²/R, então, para cada chuveiro, a potência máxima ocorre com a menor resistência disponível (a primeira posição a partir da esquerda). Calculando: chuveiro A: 127² ÷ 5,0 = 16 129 ÷ 5,0 ≈ 3 226 W. Chuveiro B: 16 129 ÷ 3,2 ≈ 5 040 W. Chuveiro C: 220² ÷ 8,0 = 48 400 ÷ 8,0 = 6 050 W. Chuveiro D: 48 400 ÷ 10,0 = 4 840 W. Chuveiro E: 48 400 ÷ 10,5 ≈ 4 610 W. A maior potência é a do chuveiro C, que combina tensão de 220 V com a menor resistência entre os modelos dessa tensão. A alternativa A tem tensão baixa e resistência relativamente alta. A alternativa B tem a menor resistência do quadro, mas a tensão de 127 V limita a potência. A alternativa D tem resistência mínima maior que a de C. A alternativa E também tem resistência mínima maior que a de C. Gabarito: C.",
+  "hash": "e0d73f8c85c60699",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q129": {
+  "explicacao": "A questão pede a velocidade registrada pelo radar depois de descontada a tolerância. Primeiro, calculamos a velocidade medida: o carro percorre 50 cm = 0,50 m em 20 ms = 0,020 s. Assim, v = 0,50 ÷ 0,020 = 25 m/s. Convertendo para km/h: 25 × 3,6 = 90 km/h. Para vias com limite de até 100 km/h, a tolerância é de 7 km/h, que deve ser descontada do valor medido: 90 − 7 = 83 km/h. Como a via tem limite de 80 km/h, o carro foi registrado acima do permitido. A alternativa A resulta de erro na conversão de unidades. A alternativa B não corresponde ao cálculo. A alternativa D é a velocidade medida, sem o desconto da tolerância. A alternativa E soma a tolerância em vez de subtraí-la. Gabarito: C.",
+  "hash": "914c0b0a4b5aec5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q130": {
+  "explicacao": "A questão envolve a bioacumulação (magnificação trófica): substâncias tóxicas e persistentes como o TBT não são eliminadas pelos organismos e se acumulam a cada nível da cadeia alimentar. Quanto mais alto o nível trófico ocupado pelo molusco, maior a concentração de TBT. No quadro, os moluscos são: na cadeia 1, o mexilhão (2º nível); na cadeia 2, o caracol marinho (4º nível); na cadeia 3, a ostra (3º nível); na cadeia 4, a lula (5º nível); na cadeia 5, o polvo (6º nível, o último da cadeia). Como o polvo ocupa o nível trófico mais alto entre os moluscos, nele se espera a maior concentração de TBT. A alternativa A traz o mexilhão, consumidor primário, com a menor concentração. A alternativa B traz o caracol, no 4º nível. A alternativa C traz a ostra, no 3º nível. A alternativa D traz a lula, no 5º nível, abaixo do polvo. Gabarito: E.",
+  "hash": "7411ef6344912bc0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q131": {
+  "explicacao": "A questão pede qual grupo do propranolol reage com o ácido de Brönsted-Lowry, isto é, qual grupo recebe o próton (H⁺). O texto diz que reage o grupamento de maior basicidade. No propranolol há um anel naftaleno, um oxigênio de éter, uma hidroxila alcoólica e uma amina secundária ligada a um grupo isopropila. Entre esses grupos, a amina é a base mais forte, porque o nitrogênio é menos eletronegativo que o oxigênio e tem um par de elétrons livre mais disponível para receber o próton. Ao ser protonada, a amina forma um íon amônio (R₂NH₂⁺), e o sal resultante, como o cloridrato de propranolol, é solúvel em água. A alternativa A erra porque a hidroxila alcoólica é uma base muito fraca. A alternativa B erra porque os anéis aromáticos não são bases de Brönsted. A alternativa C erra porque as metilas não têm pares de elétrons livres. A alternativa E erra porque o oxigênio do éter é bem menos básico que o nitrogênio da amina. Gabarito: D.",
+  "hash": "dc7fd4a67341c5e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q132": {
+  "explicacao": "A questão pede o motivo econômico que leva as fábricas a usar alumínio reciclado na produção de novas embalagens. A produção de alumínio primário exige extrair a bauxita, purificá-la até alumina e fazer a eletrólise, processo que consome enorme quantidade de energia elétrica. Na reciclagem, as latas apenas são derretidas e moldadas novamente, gastando cerca de 5% da energia necessária para produzir o metal a partir do minério. Além disso, as latas recolhidas são compradas a um preço menor que o do alumínio primário. Assim, o custo com matéria-prima e energia diminui, o que explica o interesse da indústria. A alternativa A exagera: a reciclagem gera renda, mas não resolve o desemprego, e isso não é o interesse da fábrica. A alternativa B não é o motivo central, que é o custo. A alternativa C erra porque o alumínio reciclado tem a mesma qualidade do primário, não melhor. A alternativa D erra porque a compra de matéria-prima continua necessária, só fica mais barata. Gabarito: E.",
+  "hash": "670dff422bb354a4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q133": {
+  "explicacao": "A questão pede por que é necessário transformar os lixões em aterros sanitários. No lixão, os resíduos são jogados a céu aberto, sem nenhum controle: o chorume, líquido escuro e tóxico que resulta da decomposição do lixo, infiltra-se no solo e contamina o lençol freático, e há proliferação de vetores de doenças e emissão descontrolada de gases. O aterro sanitário é uma obra de engenharia em que o solo é impermeabilizado com mantas e argila, o chorume é coletado e tratado, os gases são drenados e o lixo é coberto diariamente com terra. Assim, a poluição é bastante reduzida. A alternativa B erra porque o aterro não tem como objetivo o reaproveitamento da matéria orgânica, que seria feito na compostagem. A alternativa C erra porque os lixões são justamente mais baratos, por não terem infraestrutura. A alternativa D erra porque a separação pode ocorrer nos lixões, ainda que de forma precária. A alternativa E erra porque a área de um lixão desativado fica contaminada e exige recuperação. Gabarito: A.",
+  "hash": "e28c6629e0c44e06",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q134": {
+  "explicacao": "A questão pede a equação que representa a neutralização da drenagem ácida de minas com uma substância básica, pouco solúvel em água e que não gere subprodutos danosos. O resíduo ácido contém H₂SO₄. O óxido de cálcio (CaO, cal virgem) é um óxido básico que reage com o ácido sulfúrico formando sulfato de cálcio e água: CaO + H₂SO₄ → CaSO₄ + H₂O. Os produtos são um sal pouco agressivo e água, sem liberação de gases poluentes. A alternativa A não representa uma neutralização do ácido e ainda libera H₂, gás inflamável, a partir de cálcio metálico, que é muito reativo. A alternativa C neutraliza o ácido, mas libera CO₂, gás de efeito estufa, considerado um subproduto danoso. A alternativa D usa o CaSO₄, que é um sal neutro e não tem caráter básico. A alternativa E representa a decomposição do bicarbonato, sem reagir com o ácido, e também libera CO₂. Gabarito: B.",
+  "hash": "decc99368a4c38bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q135": {
+  "explicacao": "A questão pede a massa de gás de efeito estufa liberada na queima completa de 100 g de antracito, que tem 90% de carbono. Primeiro, a massa de carbono: 90% de 100 g = 90 g. A combustão completa é C + O₂ → CO₂. A massa molar do CO₂ é 12 + 2 × 16 = 44 g/mol, logo 12 g de carbono geram 44 g de CO₂. Montando a proporção: 12 g de C estão para 44 g de CO₂ assim como 90 g de C estão para x. Então x = 90 × 44 ÷ 12 = 3 960 ÷ 12 = 330 g de CO₂. A alternativa A é apenas a massa de carbono, sem considerar o oxigênio incorporado. A alternativa B não corresponde à massa de CO₂ nem à de oxigênio consumido, que seria 330 − 90 = 240 g. A alternativa C não corresponde a uma relação estequiométrica válida. A alternativa E considera 100 g de carbono puro, ignorando o teor de 90%. Gabarito: D.",
+  "hash": "389f4822df9c96e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q136": {
+  "explicacao": "A questão pede quantos gols, no mínimo, a equipe B ainda precisa marcar para que seu total ultrapasse a média de gols da equipe A entre 2007 e 2012. Pelo quadro, os gols da equipe A foram 64, 59, 61, 45, 61 e 58. A soma é 64 + 59 + 61 + 45 + 61 + 58 = 348. A média é 348 ÷ 6 = 58 gols. A equipe B já tem 52 gols e precisa ultrapassar 58, ou seja, chegar a pelo menos 59 gols. Logo, precisa marcar 59 − 52 = 7 gols. A alternativa A deixaria B com 54 gols, abaixo da média. A alternativa B levaria a 58 gols, apenas igualando a média, sem ultrapassá-la. A alternativa D, 9 gols, é suficiente, mas não é o mínimo. A alternativa E, 10 gols, também supera a média, mas não é o mínimo. Gabarito: C.",
+  "hash": "8e132f7eaa9cd511",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q137": {
+  "explicacao": "A questão pede o menor valor por clique que o provedor B deve cobrar para receber, com 100 cliques, pelo menos o mesmo que o provedor A. O provedor A cobra uma taxa de R$ 50,00 mais R$ 0,10 por clique. Com 100 cliques: 50 + 0,10 × 100 = 50 + 10 = R$ 60,00. O provedor B cobra R$ 20,00 de taxa mais x reais por clique. Com 100 cliques, recebe 20 + 100x. A condição é 20 + 100x ≥ 60, então 100x ≥ 40 e x ≥ 0,40. O valor mínimo é R$ 0,40 por clique. A alternativa A, R$ 0,11, daria apenas R$ 31,00. A alternativa B, R$ 0,14, daria R$ 34,00. A alternativa C, R$ 0,30, daria R$ 50,00, ainda abaixo de R$ 60,00. A alternativa E, R$ 0,41, atende à condição, mas não é o valor mínimo. Gabarito: D.",
+  "hash": "26a500504e294f2f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q138": {
+  "explicacao": "A questão pede o índice previsto para julho: o valor de junho somado ao maior acréscimo entre dois meses consecutivos do semestre. Pelo gráfico, os índices são: janeiro 70 mm, fevereiro 50 mm, março 30 mm, abril 70 mm, maio 90 mm e junho 10 mm. As variações entre meses consecutivos são: janeiro para fevereiro, −20; fevereiro para março, −20; março para abril, +40; abril para maio, +20; maio para junho, −80. O maior acréscimo é de 40 mm, de março para abril. Assim, julho terá 10 + 40 = 50 mm. A alternativa A soma ao valor de junho o acréscimo de abril para maio (10 + 20). A alternativa C repete um valor do gráfico ou soma a maior queda em módulo de forma errada. A alternativa D considera a maior variação em módulo (80 mm), que é um decréscimo, não um acréscimo. A alternativa E corresponde ao maior índice do semestre, e não à previsão pedida. Gabarito: B.",
+  "hash": "5ee19d9fe43eb001",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q139": {
+  "explicacao": "A questão pede o consumo mensal de água nos banhos de uma família. Cada uma das 5 pessoas toma 2 banhos de 15 minutos por dia, então cada pessoa gasta 30 minutos por dia. A família toda gasta 5 × 30 = 150 minutos por dia, ou seja, 2,5 horas. Como cada hora de banho consome 540 litros, o consumo diário é 2,5 × 540 = 1 350 litros. Em 30 dias: 1 350 × 30 = 40 500 litros. A alternativa A é o consumo de um só dia. A alternativa B corresponde a dois dias ou à duplicação incorreta do consumo diário. A alternativa C considera apenas um banho por pessoa por dia (metade do valor). A alternativa D não corresponde a uma conta coerente com os dados. Gabarito: E.",
+  "hash": "718817c8537cbb29",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q140": {
+  "explicacao": "A questão pede a representação maia do número 359. No sistema descrito, um número entre 20 e 359 é escrito com duas figuras: a de cima indica quantos grupos de 20 há, e a de baixo, as unidades. Dividindo 359 por 20: 20 × 17 = 340, e 359 − 340 = 19. Então 359 = 17 × 20 + 19. Pela tabela de símbolos, cada barra vale 5 e cada ponto vale 1. O 17 é escrito com 3 barras e 2 pontos (15 + 2), e o 19 com 3 barras e 4 pontos (15 + 4). A alternativa A mostra exatamente isso: em cima, 2 pontos sobre 3 barras (17), e embaixo, 4 pontos sobre 3 barras (19), o que dá 17 × 20 + 19 = 359. As demais alternativas trazem combinações de símbolos que não correspondem a 17 grupos de 20 e 19 unidades, por exemplo invertendo as posições ou usando quantidades erradas de pontos e barras. Gabarito: A.",
+  "hash": "9f1c52c0dc3973da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q141": {
+  "explicacao": "[REVISAR] O texto está corrompido: falta o símbolo π no enunciado e a alternativa A aparece como \"√30 5\", que deve ser √30 − 5. A questão pede o aumento do raio de um tanque cilíndrico de 2 m de profundidade para passar de 750 para 900 peixes, com 5 peixes por metro cúbico e π ≈ 3. O volume atual é 750 ÷ 5 = 150 m³. Pelo volume do cilindro, V = π·r²·h: 150 = 3 × r² × 2, então r² = 25 e r = 5 m. O novo volume é 900 ÷ 5 = 180 m³: 180 = 3 × R² × 2, então R² = 30 e R = √30 m. O aumento do raio é R − r = √30 − 5 metros, aproximadamente 0,48 m. A alternativa C, √5, não corresponde à diferença calculada. A alternativa D, 5/2, e a alternativa E, 15/2, superestimam muito o aumento. A alternativa B traz outra expressão que não resulta da diferença √30 − 5. Gabarito: A.",
+  "hash": "5aab8d6fce1e1e6a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q142": {
+  "explicacao": "[REVISAR] As alternativas D e E estão corrompidas; a E deve ser 2C × 0,0365 + C × 0,0365². A questão pede o total de impostos pago pelo consumidor quando PIS e Cofins (3,65%) incidem de forma cumulativa em duas etapas. Na primeira, o produto de preço C é vendido à loja por C × 1,0365. Na segunda, a loja o vende ao consumidor por esse valor acrescido de 3,65%: C × 1,0365 × 1,0365 = C × 1,0365². O imposto total embutido é o preço final menos o preço inicial: C × 1,0365² − C = C × (1,0365² − 1). Desenvolvendo o quadrado: (1 + 0,0365)² = 1 + 2 × 0,0365 + 0,0365². Assim, o imposto é C × (2 × 0,0365 + 0,0365²) = 2C × 0,0365 + C × 0,0365², o que mostra o efeito do imposto sobre imposto. A alternativa A considera só uma etapa. A alternativa B ignora a incidência do imposto sobre o imposto anterior. A alternativa C é o preço final pago, não o imposto. A alternativa D não corresponde à expressão obtida. Gabarito: E.",
+  "hash": "1dbe4494651af647",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q143": {
+  "explicacao": "A questão pede o número de jogos com vencedor num campeonato de 20 times em dois turnos, sabendo que houve 126 empates. Primeiro, o total de jogos: cada time enfrenta os outros 19 duas vezes. Como cada par de times joga duas partidas (uma em cada turno), o total é dado pelo arranjo 20 × 19 = 380 jogos. Outra forma: há C(20, 2) = 190 pares de times, e cada par joga 2 vezes, totalizando 380 jogos. Cada jogo termina em empate ou com vencedor, então os jogos com vencedor são 380 − 126 = 254. A alternativa A, 64, resulta de usar o total de 190 jogos (um turno) e subtrair 126. A alternativa B não corresponde a nenhum total coerente. A alternativa D resulta de um erro de subtração ou da contagem incorreta de jogos. A alternativa E soma valores sem sentido no contexto. Gabarito: C.",
+  "hash": "426b8980469a5748",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q144": {
+  "explicacao": "A questão pede o lado de uma placa em forma de triângulo equilátero que contém um quadrado de área 1 m² inscrito, com um lado do quadrado apoiado na base do triângulo. Se a área é 1 m², o lado do quadrado é 1 m. Os dois cantos superiores do quadrado tocam os lados inclinados do triângulo. Em cada lateral, sobra um pequeno triângulo retângulo com cateto vertical de 1 m (altura do quadrado) e ângulo de 60° na base. O cateto horizontal x satisfaz tg 60° = 1/x, logo x = 1/√3 = √3/3 ≈ 1,7/3 ≈ 0,57 m. O lado do triângulo é a soma: L = x + 1 + x = 1 + 2√3/3 ≈ 1 + 1,13 ≈ 2,13 m, aproximadamente 2,1 m. A alternativa A seria pequena demais para comportar o quadrado. A alternativa C superestima as sobras laterais. A alternativa D corresponde a erros como usar tg 30° com a altura. A alternativa E é muito maior que o necessário. Gabarito: B.",
+  "hash": "317dacad5fd3dea4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q145": {
+  "explicacao": "A questão pede o local de maior densidade demográfica, que é a razão entre população e área. Pelo quadro, calculamos: Malta, 400 000 ÷ 300 ≈ 1 333 hab/km²; Brasil, 200 000 000 ÷ 9 000 000 ≈ 22 hab/km²; México, 120 000 000 ÷ 2 000 000 = 60 hab/km²; Namíbia, 2 000 000 ÷ 820 000 ≈ 2,4 hab/km²; Ilha Norfolk, 1 841 ÷ 35 ≈ 53 hab/km². A maior densidade é a de Malta, com folga. Isso mostra que um local pequeno em área e população pode ser muito mais densamente povoado que um país grande. A alternativa B tem a maior população, mas uma área enorme. A alternativa C tem densidade de 60 hab/km², bem menor que a de Malta. A alternativa D tem a menor densidade do grupo. A alternativa E tem área pequena, mas também população muito pequena. Gabarito: A.",
+  "hash": "cbbd80455b135bea",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q146": {
+  "explicacao": "A questão pede a área mínima de uma parede retangular capaz de receber a logomarca ampliada na escala de 1 : 25. A figura mostra que todo o desenho está contido no maior círculo, de raio 6 cm, ou seja, diâmetro de 12 cm. Na ampliação, cada medida é multiplicada por 25: o diâmetro passa a 12 × 25 = 300 cm = 3 m. O menor retângulo que contém um círculo de 3 m de diâmetro é um quadrado de 3 m de lado, cuja área é 3 × 3 = 9 m². A alternativa A, 2,25 m², usa o raio ampliado (1,5 m) ao quadrado. A alternativa B não corresponde à área do quadrado nem do círculo. A alternativa C, cerca de 7,06 m², é a área do próprio círculo (π × 1,5²), que não é um retângulo. A alternativa E, 36 m², resulta de usar o raio ampliado como se fosse 3 m e dobrá-lo para 6 m. Gabarito: D.",
+  "hash": "8df9c42eabfa6086",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q147": {
+  "explicacao": "A questão pede o tipo de semente com maior média dos três percentuais de germinação, nos tempos 0, 3 e 6 meses. Pelo quadro, somamos os três valores de cada tipo: tipo 1, 84 + 84 + 79 = 247, média ≈ 82,33%; tipo 2, 85 + 82 + 79 = 246, média 82%; tipo 3, 86 + 80 + 77 = 243, média 81%; tipo 4, 82 + 82 + 80 = 244, média ≈ 81,33%; tipo 5, 85 + 85 + 76 = 246, média 82%. A maior média é a do tipo 1. Como todas as médias têm o mesmo divisor, bastava comparar as somas, e a maior é 247. A alternativa B tem soma 246, um ponto a menos. A alternativa C tem o maior valor inicial, mas cai muito com o tempo. A alternativa D é a mais estável, mas tem soma menor. A alternativa E tem soma 246, por causa da queda no sexto mês. Gabarito: A.",
+  "hash": "9b4417d9b3513031",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q148": {
+  "explicacao": "A questão pede a embalagem que permite comprar, no mínimo, a quantidade desejada de refrigerante gastando menos. A quantidade desejada é 2 fardos × 6 unidades × 0,6 L = 7,2 L. Para cada embalagem, calculamos quantas unidades são necessárias (arredondando para cima) e o custo. 3 L: 3 unidades (9 L), 3 × 4,39 = R$ 13,17. 2,5 L: 3 unidades (7,5 L), 3 × 3,69 = R$ 11,07. 2 L: 4 unidades (8 L), 4 × 2,89 = R$ 11,56. 1,5 L: 5 unidades (7,5 L), 5 × 2,19 = R$ 10,95. 1 L: 8 unidades (8 L), 8 × 1,99 = R$ 15,92. O menor gasto é com a embalagem de 1,5 L. A alternativa A é a mais cara, R$ 15,92. A alternativa C custa R$ 11,56. A alternativa D custa R$ 11,07, pouco acima da de 1,5 L. A alternativa E custa R$ 13,17, por obrigar a comprar 9 L. Gabarito: B.",
+  "hash": "718a86e6c4310cd7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q149": {
+  "explicacao": "A questão pede o número de candidatos reprovados num concurso. Seja v o número de vagas e c o número inicial de candidatos. Antes da prorrogação, c/v = 300, então c = 300v. Depois de mais 4 000 inscrições, (c + 4 000)/v = 400, então c + 4 000 = 400v. Substituindo c: 300v + 4 000 = 400v, o que dá 100v = 4 000 e v = 40 vagas. O total final de candidatos é 400 × 40 = 16 000. Como o número de aprovados é igual ao de vagas, os reprovados são 16 000 − 40 = 15 960. A alternativa A, 11 960, usa o número inicial de candidatos (12 000), esquecendo a prorrogação. A alternativa B comete o mesmo erro e ainda subtrai 30. A alternativa D subtrai 30 em vez de 40. A alternativa E não corresponde ao total de inscritos. Gabarito: C.",
+  "hash": "811c8c50c53dda3a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q150": {
+  "explicacao": "A questão pede a projeção ortogonal, sobre o plano da mesa, do trajeto da formiga de A até E. Projetar sobre a mesa é como olhar o castiçal de cima. O segmento AB sobe pela lateral do cone em direção ao centro; visto de cima, aparece como um segmento de reta de A até B. O arco BCD é a metade frontal da borda circular superior; visto de cima, é uma semicircunferência com C na frente. O arco DE desce pela parte interna, de D até a borda menor, em direção ao centro; visto de cima, aparece como um pequeno segmento indo de D para dentro, até E. A alternativa C mostra exatamente essa sequência: um segmento de A a B, uma semicircunferência passando por C até D e um trecho curto de D até E, voltado para o centro. As demais alternativas trazem a semicircunferência no lado errado, posicionam E fora do círculo ou não representam AB e DE como trechos retos na projeção. Gabarito: C.",
+  "hash": "a00b31120c78e977",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q151": {
+  "explicacao": "A questão pede a loja com menor preço médio por galão, comprando 3 galões de T1, 1 de T2 e 2 de T3, ou seja, 6 galões no total. Como o número de galões é o mesmo em todas, basta achar o menor valor total. Pelo quadro: loja 1, 3 × 82 + 134 + 2 × 202 = 246 + 134 + 404 = R$ 784,00; loja 2, 240 + 122 + 428 = R$ 790,00; loja 3, 255 + 115 + 418 = R$ 788,00; loja 4, 264 + 132 + 398 = R$ 794,00; loja 5, 270 + 116 + 404 = R$ 790,00. O menor total é o da loja 1, com média de 784 ÷ 6 ≈ R$ 130,67 por galão. A alternativa B tem a tinta T1 mais barata, mas a T3 mais cara pesa no total. A alternativa C tem a T2 mais barata, mas o total é R$ 788,00. A alternativa D tem a T3 mais barata, mas o maior total. A alternativa E totaliza R$ 790,00. Gabarito: A.",
+  "hash": "7d3079e6077fe411",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q152": {
+  "explicacao": "A questão pede o novo preço do quilo de amendoim que mantém o custo de uma receita depois do aumento do açúcar. Cada receita usa 4/5 kg de amendoim e 1/5 kg de açúcar. Custo original: 4/5 × 10,00 + 1/5 × 2,00 = 8,00 + 0,40 = R$ 8,40. Com o açúcar a R$ 2,20, o custo do açúcar passa a 1/5 × 2,20 = R$ 0,44. Chamando de x o novo preço do amendoim: 0,8x + 0,44 = 8,40, então 0,8x = 7,96 e x = 7,96 ÷ 0,8 = R$ 9,95. Faz sentido: o açúcar subiu R$ 0,04 por receita, e o amendoim precisa cair R$ 0,04 por receita, isto é, 0,04 ÷ 0,8 = R$ 0,05 por quilo. A alternativa A desconta R$ 0,80, muito além do necessário. A alternativa B não corresponde ao cálculo. A alternativa C desconta R$ 0,20, que é o aumento do açúcar por quilo, sem considerar as proporções. A alternativa D também não mantém o custo de R$ 8,40. Gabarito: E.",
+  "hash": "015c836997461854",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q153": {
+  "explicacao": "A questão pede, para cada produto, a marca com menor custo por litro de rendimento, ou seja, preço dividido pelo rendimento. Pelo quadro: sabão líquido, A: 6,00 ÷ 3 = R$ 2,00 por litro; B: 5,10 ÷ 2,5 = R$ 2,04. Escolhe-se A. Alvejante, A: 4,50 ÷ 12 = R$ 0,375; B: 3,00 ÷ 9 ≈ R$ 0,333. Escolhe-se B. Amaciante, A: 4,50 ÷ 7 ≈ R$ 0,643; B: 5,00 ÷ 6 ≈ R$ 0,833. Escolhe-se A. Detergente, A: 1,60 ÷ 3 ≈ R$ 0,533; B: 2,20 ÷ 4 = R$ 0,55. Escolhe-se A. A sequência é A, B, A, A. A alternativa A erra o alvejante e o detergente. A alternativa C escolhe B para sabão e amaciante, que são mais caros por litro rendido. A alternativa D considera apenas o menor preço de compra em parte dos casos, sem levar em conta o rendimento. A alternativa E erra o sabão líquido, em que a marca A rende mais por real. Gabarito: B.",
+  "hash": "be34b0be314e514d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q154": {
+  "explicacao": "A questão pede a área do pátio, que é a base menor de um tronco de cone com diâmetro da base maior de 50 m, altura de 12 m e, pela Figura 2, geratriz inclinada a 60° em relação à horizontal. O raio da base maior é 25 m. A diferença entre os raios é o cateto horizontal de um triângulo retângulo com cateto vertical 12 m e ângulo de 60°: tg 60° = 12/x, então x = 12/√3 = 4√3 ≈ 4 × 1,7 = 6,8 m. O raio do pátio é r = 25 − 6,8 = 18,2 m. A área é π·r² ≈ 3 × 18,2² = 3 × 331,24 ≈ 993,7 m², que está no intervalo de 900 a 1 000. A alternativa A corresponde a valores muito pequenos, como usar só a diferença de raios. A alternativa B e a alternativa C resultam de erros como usar o diâmetro em vez do raio ou trocar a tangente. A alternativa E fica um pouco acima, o que ocorreria com aproximações diferentes das pedidas. Gabarito: D.",
+  "hash": "80cbbfe74abe3808",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q155": {
+  "explicacao": "A questão pede o fator que converte a velocidade da lesma, de centímetro por minuto para metro por segundo. Para o numerador, 1 cm = 10⁻² m, então multiplicamos por 10⁻². Para o denominador, 1 min = 60 s, então dividimos por 60, ou seja, multiplicamos por 60⁻¹. Assim, 16,5 cm/min = 16,5 × 10⁻² m ÷ 60 s = 16,5 × 10⁻² × 60⁻¹ m/s. O fator é 10⁻² × 60⁻¹, o que dá cerca de 0,00275 m/s. A alternativa A divide por 60², como se a conversão fosse de horas para segundos. A alternativa C multiplica por 60, invertendo a conversão de tempo. A alternativa D usa 10⁻³, que seria a conversão de milímetro para metro. A alternativa E erra nas duas conversões. Gabarito: B.",
+  "hash": "45d11530ad4952a8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q156": {
+  "explicacao": "A questão pede uma probabilidade condicional: a chance de escolher um docente espanhol sabendo que ele trabalha em São Paulo. Quando a condição é dada, o espaço amostral se reduz ao grupo da condição, isto é, apenas aos docentes de São Paulo. Pela tabela, São Paulo tem 239 docentes estrangeiros, dos quais 60 são espanhóis. Portanto, P = 60/239. A alternativa A usa como espaço amostral todos os 402 docentes, ignorando a condição. A alternativa C divide pelo total de espanhóis (100), respondendo a outra pergunta: a probabilidade de trabalhar em São Paulo, sabendo que é espanhol. A alternativa D usa o total de espanhóis sobre os docentes de São Paulo, mistura sem sentido. A alternativa E não se relaciona com os espanhóis. Gabarito: B.",
+  "hash": "b690f37362d79cf1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q157": {
+  "explicacao": "[REVISAR] As alternativas estão corrompidas; a alternativa A deve ser R = L/√π. A questão pede a fórmula do raio R de um tampo circular com a mesma área de um tampo quadrado de lado L. A área do quadrado é L², e a área do círculo é π·R². Igualando: π·R² = L². Isolando R²: R² = L²/π. Tirando a raiz quadrada, com R positivo: R = L/√π. Por exemplo, para L = 1 m, R ≈ 1/1,77 ≈ 0,56 m, e de fato π × 0,56² ≈ 1 m². A alternativa B, L/√2, corresponde à metade da diagonal, isto é, o raio do círculo circunscrito ao quadrado dividido por outra relação, e não iguala as áreas. A alternativa C mistura expressões sem relação com a igualdade de áreas. A alternativa D, √L, não tem nem a unidade correta de comprimento. A alternativa E também não resulta de π·R² = L². Gabarito: A.",
+  "hash": "21b5ddec716a420b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q158": {
+  "explicacao": "A questão pede o gráfico do valor da corrida em função da distância. Até 200 m, cobra-se apenas a bandeirada de R$ 4,50: o gráfico é um segmento horizontal na altura 4,50, de 0 a 200 m. Acima de 200 m, soma-se R$ 0,02 por metro adicional: V(d) = 4,50 + 0,02 × (d − 200), uma reta crescente a partir do ponto (200; 4,50). Na simulação para 600 m: V = 4,50 + 0,02 × 400 = 4,50 + 8,00 = R$ 12,50. O gráfico da alternativa D mostra exatamente isso: trecho constante em 4,50 até 200 m e, depois, uma reta crescente que passa por 12,50 em 600 m. As demais alternativas apresentam erros como começar a cobrança variável desde 0 m, não ter o trecho constante, mostrar outro valor em 600 m (por exemplo, 16,50, cobrando os 600 m inteiros) ou representar a função com saltos. Gabarito: D.",
+  "hash": "5129db29a6550387",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q159": {
+  "explicacao": "A questão pede o gráfico que representa corretamente a conversão de metro cúbico para litro, com os pontos 0, 2 e 4 m³. Como 1 m³ = 1 000 L, a relação é L = 1 000 × V, uma função linear que passa pela origem. Os pontos corretos são (0, 0), (2, 2 000) e (4, 4 000). Assim, o gráfico deve ser uma reta passando pela origem, com 2 m³ correspondendo a 2 000 L e 4 m³ correspondendo a 4 000 L. Esse é o gráfico do aluno V. Os demais alunos cometem erros como usar a relação 1 m³ = 1 L (o gráfico III, que associa 2 m³ a 2 L e 4 m³ a 4 L), usar fatores de 10 ou 100, inverter os eixos ou não fazer a reta passar pela origem, o que não respeita a proporcionalidade direta entre as duas unidades. Gabarito: E.",
+  "hash": "979fca18a67e6826",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q160": {
+  "explicacao": "A questão pede a razão entre o diâmetro de um fio de cabelo e o de um nanofio. Pela imagem, o diâmetro do nanofio é 10⁻⁹ m e o do fio de cabelo é 6 × 10⁻⁵ m. A razão é (6 × 10⁻⁵) ÷ 10⁻⁹. Na divisão de potências de mesma base, subtraem-se os expoentes: 10⁻⁵ ÷ 10⁻⁹ = 10⁻⁵⁻⁽⁻⁹⁾ = 10⁴. Logo, a razão é 6 × 10⁴, ou seja, o fio de cabelo é 60 000 vezes mais espesso que o nanofio. As alternativas em imagem trazem expressões que correspondem a erros comuns, como inverter a razão (nanofio sobre cabelo) ou somar os expoentes em vez de subtraí-los. A alternativa E, 6 × 10⁴⁵, resulta de multiplicar os expoentes, operação sem sentido nessa divisão. Gabarito: D.",
+  "hash": "a07db8bee03ac40c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q161": {
+  "explicacao": "A questão pede quantos zeros seguem o algarismo 5 no número que representa 5 trilhões de dígitos. Na escala numérica usada no Brasil: mil = 10³, milhão = 10⁶, bilhão = 10⁹ e trilhão = 10¹². Portanto, 5 trilhões = 5 × 10¹² = 5 000 000 000 000, que tem 12 zeros depois do 5. A alternativa A corresponde a 5 mil. A alternativa B corresponde a 5 milhões. A alternativa C corresponde a 5 bilhões. A alternativa E corresponde a 5 quatrilhões. Gabarito: D.",
+  "hash": "bc7e03cac1ed0601",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q162": {
+  "explicacao": "A questão pede a mediana das vendas mensais de automóveis de janeiro a dezembro. Para calcular a mediana, os dados precisam ser colocados em ordem. Os valores da tabela são 25, 20, 30, 35, 40, 50, 45, 35, 60, 55, 70 e 65. Em ordem crescente: 20, 25, 30, 35, 35, 40, 45, 50, 55, 60, 65, 70. Como há 12 valores (quantidade par), a mediana é a média dos dois termos centrais, o 6º e o 7º: 40 e 45. Mediana = (40 + 45) ÷ 2 = 42,5. A alternativa A é apenas o 6º termo. A alternativa C é apenas o 7º termo. A alternativa D é a média dos termos centrais sem ordenar os dados (meses de junho e julho: 50 e 45). A alternativa E não corresponde à posição central. Gabarito: B.",
+  "hash": "d4f3b6cc115cac89",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q163": {
+  "explicacao": "A questão pede os intervalos em que o volume do reservatório diminui, nos primeiros 25 minutos. O volume decresce quando a vazão de saída (ralo) é maior que a de entrada (torneira). Pelos gráficos: de 0 a 5 min, a torneira cai de 10 para 5 L/min e o ralo sobe de 0 para 5 L/min; a torneira só iguala o ralo em t = 5, então o volume cresce. De 5 a 10 min, a torneira sobe de 5 para 10 e o ralo fica em 5: o volume cresce. De 10 a 15 min, a torneira cai de 10 para 5 e o ralo continua em 5: ainda cresce. De 15 a 20 min, a torneira fica em 5 e o ralo sobe de 5 para 10: o volume diminui. De 20 a 25 min, a torneira cai de 5 para 0 e o ralo fica em 10: o volume diminui. Logo, o volume decresce entre 15 e 25 minutos. A alternativa A esquece o intervalo de 20 a 25 min. As alternativas C, D e E incluem intervalos em que a torneira supera o ralo e o volume aumenta. Gabarito: B.",
+  "hash": "d6fb781066709ead",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q164": {
+  "explicacao": "A questão pede a razão entre o ângulo P₂ĈP₁ e a diferença L − l. Cada atleta percorre um arco do semicírculo e depois o trecho reto l. Como os dois percorrem a mesma distância L, cada arco mede L − l. Pela relação dada, comprimento do arco = raio × ângulo. Para o atleta 1, no raio R₁, o ângulo do arco até o fim da curva é θ₁ = (L − l)/R₁. Para o atleta 2, no raio R₂, é θ₂ = (L − l)/R₂. Como R₂ < R₁, o atleta 2 precisa de um ângulo maior, e por isso P₂ está mais atrás na curva. O ângulo entre os pontos de partida é a diferença: P₂ĈP₁ = θ₂ − θ₁ = (L − l)·(1/R₂ − 1/R₁). Dividindo por L − l: P₂ĈP₁ ÷ (L − l) = 1/R₂ − 1/R₁, que é a expressão da alternativa C. As outras alternativas invertem a ordem da subtração (resultado negativo), usam a diferença dos raios em vez da diferença dos inversos ou multiplicam pelos raios, o que não corresponde à relação arco = raio × ângulo. Gabarito: C.",
+  "hash": "71e4ce4ae57de9f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q165": {
+  "explicacao": "A questão pede a fração de homens no total de funcionários. Seja H o número de homens e M o de mulheres. Têm ensino médio completo H/4 homens e 2M/3 mulheres. Como metade dos que têm ensino médio são homens, o número de homens e o de mulheres com ensino médio são iguais: H/4 = 2M/3. Multiplicando em cruz: 3H = 8M, então M = 3H/8. O total de funcionários é H + M = H + 3H/8 = 11H/8. A fração de homens é H ÷ (11H/8) = 8/11. A alternativa A não corresponde a nenhuma etapa válida. A alternativa B, 3/11, é a fração de mulheres. A alternativa C mistura frações sem igualar as quantidades. A alternativa D, 2/3, é apenas a fração das mulheres com ensino médio. Gabarito: E.",
+  "hash": "a4e56dabb3f49693",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q166": {
+  "explicacao": "A questão pede o aumento percentual total das despesas por fim de semana. Pela tabela, o total atual é a soma de alimentação e hospedagem nas três cidades: 1 400 + 1 800 + 800 + 2 000 + 1 500 + 3 500 = R$ 11 000. Agora os aumentos: hospedagem em A, 15% de 1 800 = R$ 270; alimentação em B, 20% de 800 = R$ 160; alimentação em C, 5% de 1 500 = R$ 75. O aumento total é 270 + 160 + 75 = R$ 505. Em relação ao total: 505 ÷ 11 000 ≈ 0,0459, ou seja, cerca de 4,6%. A alternativa B é a média simples dos percentuais (15 + 20 + 5) ÷ 3, que ignora o peso de cada despesa. A alternativa C, a alternativa D e a alternativa E resultam de somar percentuais ou de calcular o aumento apenas sobre as despesas reajustadas, e não sobre o orçamento total. Gabarito: A.",
+  "hash": "1b9a8bce069462ea",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q167": {
+  "explicacao": "A questão pede a mesa de menor área que ofereça pelo menos 60 cm de borda para cada uma das 6 pessoas, ou seja, perímetro mínimo de 6 × 60 = 360 cm. Verificando o perímetro: mesa I, hexágono de lado 60: 360 cm; mesa II, 2 × (130 + 60) = 380 cm; mesa III, 2 × (120 + 60) = 360 cm; mesa IV, 4 × 60 = 240 cm, que não atende; mesa V, 3 × 120 = 360 cm. Agora as áreas das que atendem: mesa I, (3√3/2) × 60² ≈ 2,6 × 3 600 ≈ 9 353 cm²; mesa II, 130 × 60 = 7 800 cm²; mesa III, 120 × 60 = 7 200 cm²; mesa V, (√3/4) × 120² ≈ 0,433 × 14 400 ≈ 6 235 cm². A menor área é a do triângulo, mesa V. A alternativa A tem a maior área entre as possíveis. A alternativa B tem perímetro de sobra e área maior. A alternativa C atende ao perímetro, mas tem área maior que a do triângulo. A alternativa D não acomoda as 6 pessoas. Gabarito: E.",
+  "hash": "43124eaac90d4786",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q168": {
+  "explicacao": "A questão pede o tempo real decorrido entre os dois gols de uma partida europeia. O primeiro gol foi aos 17 min 45 s do primeiro tempo, que durou 45 + 2 = 47 minutos com o acréscimo. Do gol até o fim do primeiro tempo: 47 min − 17 min 45 s = 29 min 15 s. Depois, há o intervalo de 15 minutos. No campeonato europeu, o segundo tempo começa com o cronômetro em 45 min, então o gol aos 54 min 32 s ocorreu 54 min 32 s − 45 min = 9 min 32 s após o início do segundo tempo. Somando: 29 min 15 s + 15 min + 9 min 32 s = 53 min 47 s. A alternativa A soma 1 minuto a mais, como se o acréscimo fosse de 3 minutos. A alternativa C ignora o acréscimo de 2 minutos. A alternativa D é a simples diferença entre os horários do cronômetro, sem intervalo nem acréscimo. A alternativa E desconta o acréscimo em vez de somá-lo. Gabarito: B.",
+  "hash": "2a219b3165798d07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q169": {
+  "explicacao": "A questão pede a quantidade inicial de bactérias, sabendo que a população dobra a cada 0,25 hora e chega a 189 440 após 2 horas. Em 2 horas há 2 ÷ 0,25 = 8 períodos de duplicação. Assim, a população final é x × 2⁸ = 256x. Então 256x = 189 440, e x = 189 440 ÷ 256 = 740 bactérias. Conferindo: 740 × 256 = 189 440. A alternativa A, 370, corresponde a 9 duplicações. A alternativa C, 1 480, corresponde a 7 duplicações. A alternativa D, 11 840, corresponde a apenas 4 duplicações, como se o período fosse de 0,5 hora. A alternativa E, 23 680, corresponde a 3 duplicações. Gabarito: B.",
+  "hash": "420f88bccfd1ebd8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q170": {
+  "explicacao": "A questão pede a velocidade média no último trecho da viagem de 100 km, feita em 1 h 30 min. Primeiro trecho: 30 km a 90 km/h, tempo = 30 ÷ 90 = 1/3 h = 20 min. Segundo trecho: 40 km a 80 km/h, tempo = 40 ÷ 80 = 0,5 h = 30 min. Até aí foram 50 minutos, então o último trecho levou 90 − 50 = 40 min = 2/3 h. A distância restante é 100 − 30 − 40 = 30 km. Velocidade média = 30 ÷ (2/3) = 30 × 3/2 = 45 km/h. A alternativa B resulta de usar a velocidade média da viagem inteira (100 ÷ 1,5 ≈ 67 km/h). A alternativa C não corresponde ao cálculo. A alternativa D resulta de fazer média aritmética de velocidades. A alternativa E resulta de erro na conversão do tempo. Gabarito: A.",
+  "hash": "703c616cc8f11cbc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q171": {
+  "explicacao": "A questão pede em que período a taxa de mortalidade infantil ficará abaixo de 10, mantido o decréscimo anual médio de 2009 a 2011. Pelo gráfico, a taxa era 22,5 em 2009 e 18,7 em 2011. A queda no período foi 22,5 − 18,7 = 3,8 em 2 anos, ou seja, 1,9 por ano. Projetando a partir de 2011: 2012, 18,7 − 1,9 = 16,8; 2013, 14,9; 2014, 13,0; 2015, 11,1; 2016, 9,2. Em 2015 a taxa ainda está acima de 10, e em 2016 já está abaixo. Portanto, ela fica inferior a 10 no período de 2015 a 2016. As alternativas A, B e C indicam períodos em que a taxa ainda estaria entre 13 e 17. A alternativa E indica um período em que a taxa já teria ficado abaixo de 10 há dois anos, o que ocorreria com o decréscimo médio de 2000 a 2009, mais lento. Gabarito: D.",
+  "hash": "9f77df7a7da0a196",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q172": {
+  "explicacao": "A questão pede a distância percorrida numa volta completa pelas ruas que formam um hexágono regular, a partir de uma medida no mapa. A escala 1 : 20 000 indica que 1 cm no mapa corresponde a 20 000 cm na realidade. Um lado do hexágono mede 5 cm no mapa, então, na realidade, mede 5 × 20 000 = 100 000 cm. Convertendo: 100 000 cm = 1 000 m = 1 km. Como o hexágono regular tem 6 lados iguais, a volta completa tem 6 × 1 km = 6 km. A alternativa A é o comprimento de apenas um lado. A alternativa B não corresponde a um polígono de 6 lados. A alternativa D usa o fator da escala sem a medida do mapa. A alternativa E resulta de erro na conversão ou na contagem de lados. Gabarito: C.",
+  "hash": "b596ebf681f486f7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q173": {
+  "explicacao": "A questão pede quantos trios diferentes de flores podem ser formados com 5 variedades, escolhendo 3 distintas para cada canteiro. O texto diz que não importa como as flores serão dispostas, ou seja, a ordem não importa: o trio amor-perfeito, cravina e petúnia é o mesmo que petúnia, cravina e amor-perfeito. Quando a ordem não importa, usamos combinação simples: C(5, 3) = 5! / [(5 − 3)! · 3!] = 120 / (2 × 6) = 10 trios. A alternativa E traz exatamente a expressão 5! / [(5 − 3)! 3!]. As demais alternativas trazem expressões de arranjo, como 5!/(5 − 3)!, que contaria a ordem das flores e daria 60, ou de permutação e outros cálculos que não correspondem à escolha de 3 elementos sem ordem entre 5. Gabarito: E.",
+  "hash": "da53f13cd62afaf7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q174": {
+  "explicacao": "A questão pede o sólido que corresponde às três vistas da torre. No desenho técnico, a vista frontal e a de perfil mostram a silhueta do sólido de frente e de lado, e a vista superior o mostra de cima. Quando a vista frontal e a de perfil são trapézios iguais, mais largos embaixo, o sólido tem a mesma forma em todas as direções horizontais, como um tronco de cone. A vista superior com duas circunferências concêntricas indica que a base é circular e que há uma abertura circular no topo, ou seja, um tronco de cone com um furo. A alternativa E mostra exatamente esse sólido: um tronco de cone, mais largo na base, com a parte superior vazada por um furo circular. As demais alternativas trazem sólidos cujas vistas não coincidem, como cilindros (vistas retangulares), cones inteiros (vistas triangulares), pirâmides ou troncos de pirâmide (vista superior com polígonos) ou troncos sem o furo central. Gabarito: E.",
+  "hash": "0fa958d50600abdf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q175": {
+  "explicacao": "A questão pede de quantas maneiras 3 agentes podem ser distribuídas em 6 vagões, sem que duas fiquem em vagões adjacentes. Primeiro, escolhemos os vagões. Uma técnica é pensar nos 3 vagões sem agente: eles criam 4 espaços possíveis (antes, entre e depois deles), e cada agente deve ocupar um espaço diferente para não ficar ao lado de outra. Escolher 3 dos 4 espaços dá C(4, 3) = 4 maneiras. Conferindo, as posições possíveis são (1, 3, 5), (1, 3, 6), (1, 4, 6) e (2, 4, 6). Depois, como as agentes são pessoas distintas, elas podem trocar de lugar entre si de 3! = 6 maneiras. Total: C(4, 3) × 3! = 4 × 6 = 24. A alternativa A apresenta a mesma combinação sem a multiplicação clara pelas permutações. A alternativa B ignora a restrição de adjacência e a ordem das agentes. A alternativa D ignora a restrição. A alternativa E conta a ordem duas vezes, usando arranjo e ainda multiplicando por 3!. Gabarito: C.",
+  "hash": "f156f8e18da07933",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q176": {
+  "explicacao": "A questão pede a probabilidade de obter o desconto máximo com um giro da roleta. Pela figura, a roleta tem 12 regiões congruentes: duas de \"tente outra vez\", quatro de 0, duas de 5%, duas de 7%, uma de 2% e uma de 10%. O desconto máximo é de 10%, que aparece em apenas uma região. Como todas as regiões são iguais e a seta não para nas fronteiras, cada região tem a mesma probabilidade. Assim, P = 1/12 ≈ 0,0833, ou seja, cerca de 8,3%. A alternativa B, 10%, confunde o valor do desconto com a probabilidade. A alternativa C, 12,5%, corresponderia a uma roleta de 8 regiões. A alternativa D, cerca de 16,6%, corresponde a 2 regiões de 12, como as de 5% ou 7%. A alternativa E, 50%, não tem relação com a contagem das regiões. Gabarito: A.",
+  "hash": "11b9697cf768481b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q177": {
+  "explicacao": "A questão pede o hotel de menor custo total, somando a diária e o táxi, que cobra R$ 6,00 fixos mais R$ 2,50 por quilômetro. Calculando: H1, 180 + 6 + 2,50 × 7 = 180 + 6 + 17,50 = R$ 203,50; H2, 200 + 6 + 2,50 × 1,6 = 200 + 6 + 4 = R$ 210,00; H3, 199 + 6 + 2,50 × 4,5 = 199 + 6 + 11,25 = R$ 216,25; H4, 190 + 6 + 2,50 × 1,5 = 190 + 6 + 3,75 = R$ 199,75; H5, 205 + 6 + 2,50 × 1,2 = 205 + 6 + 3 = R$ 214,00. O menor custo é o do H4. A alternativa A tem a diária mais barata, mas o táxi longo encarece o total. A alternativa B fica perto, mas tem diária mais cara. A alternativa C tem o maior custo total. A alternativa E é o hotel mais próximo, mas tem a diária mais cara. Gabarito: D.",
+  "hash": "e3e1410212b5fb1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q178": {
+  "explicacao": "A questão pede a compra mais barata de pelo menos 1 L do produto numa única indústria. Indústria I: embalagens de 250 mL, então são necessárias 1 000 ÷ 250 = 4 embalagens, custando 4 × 23,00 = R$ 92,00. Indústria II: 1 L equivale a 33,81 fl oz, e cada embalagem tem 8 fl oz. Com 4 embalagens teríamos 32 fl oz, menos que 33,81, então são necessárias 5 embalagens (40 fl oz), custando 5 × 18,50 = R$ 92,50. Indústria III: uma embalagem de 1 L por R$ 93,00. O menor valor é o de quatro embalagens da indústria I. A alternativa B compra uma embalagem a mais do que o necessário. A alternativa C seria mais barata (R$ 74,00), mas não atinge 1 L. A alternativa D atinge a quantidade, mas custa R$ 92,50. A alternativa E custa R$ 93,00. Gabarito: A.",
+  "hash": "c1702019a8d4ee4e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q179": {
+  "explicacao": "A questão pede a arrecadação do restaurante em 1 hora, com cobrança de couvert fixo c mais um preço p por quilo de comida. Com os dois clientes citados, montamos um sistema: c + 0,5p = 50 e c + 0,3p = 34. Subtraindo a segunda equação da primeira: 0,2p = 16, então p = R$ 80,00 por quilo. Substituindo: c + 0,5 × 80 = 50, logo c = 50 − 40 = R$ 10,00. No período, 30 clientes pagaram couvert e consumiram 10 kg no total. Arrecadação = 30 × 10 + 10 × 80 = 300 + 800 = R$ 1 100,00. A alternativa A considera apenas a comida, sem o couvert. A alternativa B e a alternativa C somam o couvert de apenas um ou dois clientes. A alternativa E resulta de erros no sistema, como atribuir o valor pago integralmente ao quilo. Gabarito: D.",
+  "hash": "a529bb7384dba0d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q180": {
+  "explicacao": "A questão pede o modelo de lavadora com menor gasto por hora de uso, somando água (R$ 0,0025 por litro) e energia (R$ 0,30 por kWh). Calculando com os dados do quadro: modelo I, 350 × 0,0025 + 1,3 × 0,30 = 0,875 + 0,39 = R$ 1,265; modelo II, 264 × 0,0025 + 2,0 × 0,30 = 0,66 + 0,60 = R$ 1,26; modelo III, 320 × 0,0025 + 1,5 × 0,30 = 0,80 + 0,45 = R$ 1,25; modelo IV, 300 × 0,0025 + 1,7 × 0,30 = 0,75 + 0,51 = R$ 1,26; modelo V, 276 × 0,0025 + 1,8 × 0,30 = 0,69 + 0,54 = R$ 1,23. O menor custo é o do modelo V. A alternativa A tem o menor consumo de energia, mas gasta muita água. A alternativa B tem o menor consumo de água, mas gasta muita energia. A alternativa C fica em segundo lugar, com R$ 1,25. A alternativa D custa R$ 1,26 por hora. Gabarito: E.",
+  "hash": "ff9d584f310dc2a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q91": {
+  "explicacao": "A questão compara o alcance de um salto oblíquo na Lua e na Terra, sabendo que a gravidade lunar é 1/6 da terrestre. No lançamento oblíquo, o alcance horizontal é dado por A = v₀²·sen(2θ)/g. Para a mesma velocidade inicial v₀ e o mesmo ângulo θ, o alcance é inversamente proporcional a g. Como g na Lua é seis vezes menor, o astronauta permanece mais tempo no ar (o tempo de voo também é proporcional a 1/g) e percorre uma distância horizontal maior, cerca de seis vezes a obtida na Terra. Por isso, o alcance é maior porque a aceleração da gravidade é seis vezes menor. A alternativa A erra ao dizer que o alcance é menor; a normal só atua no contato com o solo. A alternativa B se contradiz: uma altura maior acompanha um alcance maior, não menor. A alternativa C ignora que o alcance depende de g, e não só do impulso. A alternativa E aponta um fator real, mas secundário; o enunciado destaca a diferença gravitacional como causa e, num salto humano, a resistência do ar na Terra é desprezível. Gabarito: D.",
+  "hash": "1f72aaf99a0b57c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q92": {
+  "explicacao": "O gráfico compara, para cada fonte de energia, o custo (barra branca, em centavos de real) e a quantidade de carbono emitida (barra cinza). As fontes que só têm barra branca são livres de emissão de carbono: são as de custo 37, 23 e 15. As fontes com barra cinza (276, 83 e 33) emitem carbono e correspondem às de origem fóssil. Ordenando os custos (18, 37, 23, 12, 15 e 6), a mais cara é a de 37 centavos (solar) e a segunda mais cara é a de 23 centavos, que corresponde à energia eólica. Assim, a energia do vento é a segunda fonte mais cara e não libera carbono. A alternativa A erra porque a eólica não emite carbono. A alternativa C erra porque a solar é mais cara que a eólica, e não o contrário. A alternativa D erra nos dois pontos: a eólica não é a mais barata nem emite carbono. A alternativa E erra porque a fonte mais barata é outra, de 6 centavos, que ainda emite carbono. Gabarito: B.",
+  "hash": "2202997b7c6b3391",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q93": {
+  "explicacao": "A questão pede o composto que, por desidratação intramolecular entre um ácido carboxílico e uma amina primária, forma a pentano-5-lactama, uma amida cíclica. O enunciado traz três pistas: a cadeia deve ser alifática, saturada, normal (sem ramificação) e homogênea (sem heteroátomo entre carbonos). Além disso, o nome indica cinco carbonos, com o nitrogênio ligado ao carbono 5. O composto adequado é o ácido 5-aminopentanoico: H₂N–CH₂–CH₂–CH₂–CH₂–COOH. Quando o NH₂ do carbono 5 reage com o COOH do carbono 1, sai uma molécula de H₂O e fecha-se um anel de seis átomos (cinco carbonos e um nitrogênio), que é a lactama. Isso corresponde a CH₂(NH₂)CH₂CH₂CH₂CO₂H. A alternativa A tem amina secundária (NH entre carbonos), o que torna a cadeia heterogênea. A alternativa B tem dupla ligação e já é uma amida, sem amina primária. A alternativa C tem dupla ligação, logo a cadeia é insaturada. A alternativa E tem um grupo metil, ou seja, a cadeia é ramificada. Gabarito: D.",
+  "hash": "6a4b055256351a49",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q94": {
+  "explicacao": "A questão trata da proteção catódica com metal de sacrifício. Para proteger o aço (ferro), o metal ligado a ele deve oxidar-se no lugar do ferro, isto é, ter maior tendência a perder elétrons. Na tabela de potenciais padrão de redução, isso significa ter potencial de redução menor (mais negativo) que o do ferro (Fe²⁺/Fe, cerca de −0,44 V). Entre os metais citados, apenas o zinco (Zn²⁺/Zn, cerca de −0,76 V) tem potencial de redução menor que o do ferro. Assim, ele funciona como ânodo, sofre corrosão e mantém o ferro na forma reduzida, protegendo o tanque. O cobre (B) tem potencial positivo, é mais nobre que o ferro e aceleraria a corrosão do tanque. O níquel (C) tem potencial maior que o do ferro, logo não se oxida preferencialmente. O cádmio (D) também tem potencial de redução maior que o do ferro e não o protegeria. O mercúrio (E) tem potencial muito positivo e é ainda mais nobre. Gabarito: A.",
+  "hash": "fbd553fb582ca112",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q95": {
+  "explicacao": "A questão pede que se deduza a estrutura do circuito a partir de uma observação: ao retirar uma lâmpada qualquer, outras nove apagam e as outras 190 continuam acesas. Isso indica que as lâmpadas estão em grupos de 10 ligadas em série, porque, num grupo em série, abrir o circuito em um ponto interrompe a corrente em todas as lâmpadas do grupo (a retirada e as outras nove). Como os demais grupos continuam funcionando, eles estão ligados em paralelo entre si. Logo, há 200 ÷ 10 = 20 ramos em paralelo, cada um com 10 lâmpadas em série. Sendo as lâmpadas iguais, todos os ramos têm a mesma resistência, e a corrente total I se divide igualmente: cada ramo recebe I/20. Dentro de um ramo, a corrente é a mesma em todas as lâmpadas. Portanto, a razão entre a corrente numa lâmpada e a corrente total é 1/20. A alternativa A valeria se todas as 200 lâmpadas estivessem em paralelo. A alternativa B supõe 100 ramos, o que não corresponde à observação. A alternativa D confunde o número de lâmpadas por ramo com o número de ramos. A alternativa E valeria só se todas estivessem em série. Gabarito: C.",
+  "hash": "191e994d4ea1ea07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q97": {
+  "explicacao": "A questão pede que se identifique a que conceito ecológico corresponde a descrição da gralha-do-cerrado, além das características morfológicas (topete, cores, tamanho). O texto informa que a ave é onívora e detalha sua dieta: frutos, insetos, sementes, pequenos répteis e ovos de outras aves. Informações sobre o que a espécie come, como obtém recursos e como se relaciona com outras espécies descrevem o seu modo de vida, ou seja, o seu nicho ecológico. O nicho é o papel que a espécie desempenha na comunidade, a sua \"profissão\". A alternativa A está incorreta porque hábitat é o local onde a espécie vive, o seu \"endereço\", e o texto não o descreve. A alternativa B erra porque ecótopo se refere às condições físicas do ambiente ocupado. A alternativa C é limitada: como a dieta é variada, a gralha ocupa vários níveis tróficos, e o texto descreve mais que isso. A alternativa E erra porque ecossistema é o conjunto de comunidades e ambiente físico, e não o atributo de uma espécie. Gabarito: D.",
+  "hash": "d5b48276a46136bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q98": {
+  "explicacao": "A questão envolve um gene letal em homozigose: AA morre no útero, Aa é amarelo e aa é preto. No heredograma, 7 é macho amarelo e 8 é fêmea amarela. Como AA não sobrevive, todo animal amarelo vivo é obrigatoriamente Aa. Assim, o cruzamento é Aa × Aa, que daria 1/4 AA, 2/4 Aa e 1/4 aa. Os embriões AA morrem, então, entre os filhotes que nascem, restam três partes: 2/3 de Aa (amarelos) e 1/3 de aa (pretos). A pergunta pede uma fêmea amarela, então multiplicamos pela probabilidade de ser fêmea, que é 1/2: P = 2/3 × 1/2 = 2/6 = 1/3, cerca de 33%. A alternativa A, 1/4, considera os embriões AA no total, sem descartar a letalidade. A alternativa C, 1/2, esquece a letalidade e o sexo ou considera só o sexo. A alternativa D, 2/3, dá a chance de ser amarelo, mas não considera o sexo. A alternativa E, 3/4, corresponde à proporção de dominantes num cruzamento sem gene letal. Gabarito: B.",
+  "hash": "155ca770f23ccc9f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2020-ppl-d2-q99": {
+  "explicacao": "As figuras mostram as transições de fase da água: a etapa 1 vai do vapor para a água líquida (condensação), a etapa 2 vai do líquido para o vapor (vaporização), a etapa 3 vai do líquido para o gelo (solidificação) e a etapa 4 vai do gelo para o líquido (fusão). A vaporização (etapa 2) é endotérmica: a água absorve o calor latente de vaporização para romper as interações entre as moléculas. O processo inverso, a condensação (etapa 1), libera exatamente a mesma quantidade de energia, já que, à mesma pressão e para a mesma massa, o calor latente tem o mesmo valor absoluto nos dois sentidos. Logo, a energia absorvida na etapa 2 é igual à energia liberada na etapa 1. As alternativas A e B envolvem a fusão e a solidificação (etapas 3 e 4), cujo calor latente é diferente do de vaporização, e a etapa 3 libera energia em vez de absorver. A alternativa C também usa o calor latente de solidificação, que é menor. A alternativa D erra porque a condensação (etapa 1) libera energia, não absorve. Gabarito: E.",
+  "hash": "7be78a7dadc37437",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
