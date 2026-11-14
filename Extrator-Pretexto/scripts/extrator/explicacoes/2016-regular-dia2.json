@@ -1,0 +1,477 @@
+{
+ "enem-2016-regular-d2-q100": {
+  "explicacao": "A questão pede o que transparece na reflexão do eu lírico ao contemplar a paisagem. No soneto árcade, o eu lírico estranha o lugar: a fonte sumiu, o vale virou monte, as árvores floridas desapareceram. Primeiro ele atribui a mudança ao tempo (“Quanto pode dos anos o progresso!”), depois duvida se é o mesmo lugar (“Eu me engano: a região esta não era”). Mas o terceto final dá a chave: não há por que estranhar, pois estão presentes “Meus males, com que tudo degenera!”. O sofrimento do eu lírico contamina a natureza, que se degrada junto com ele. Há, portanto, uma empatia, uma correspondência entre a dor do eu e a agonia da terra. A alternativa A fala de solidão, que não é o tema. A B erra porque não há resignação, e sim lamento. A C se apoia na dúvida inicial, que é superada no final. A D é falsa: o eu lírico não tenta recriar o passado, apenas constata a perda. Gabarito: E.",
+  "hash": "c36b2c442c719d14",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q101": {
+  "explicacao": "A questão pede a relação entre a oração “Acontecendo de o cientista provocar um dano em um local específico no cérebro” e a seguinte, “o rato deixa de fazer essa vocalização”. A primeira é uma oração reduzida de gerúndio, que pode ser desenvolvida assim: “Caso o cientista provoque um dano...” ou “Se o cientista provocar um dano...”. O rato só deixa de vocalizar se essa lesão ocorrer, isto é, a lesão é a condição para que o fato da oração principal aconteça. Logo, a relação é de condição. A alternativa A fala em finalidade, mas o texto não diz que a lesão é feita para calar o rato. A B, oposição, não se aplica, pois não há contraste entre as orações. A D, consequência, está invertida: a falta de vocalização é que seria consequência; a oração destacada expressa a hipótese. A E, proporção, exigiria uma gradação simultânea (“à medida que”), que não existe. Gabarito: C.",
+  "hash": "13ae2f569b0f911d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q102": {
+  "explicacao": "A questão pede de onde resulta a construção do significado de “mandinga”. O verbete explica que, na época das grandes navegações, os portugueses chamavam assim a costa ocidental da África. Como os exploradores consideravam bruxos os africanos que lhes indicavam onde havia ouro, a palavra passou a significar feitiçaria, sortilégio. O sentido atual nasceu, portanto, de uma situação histórica concreta (a expansão marítima portuguesa) e das relações sociais entre colonizadores e povos africanos, ou seja, de um contexto sócio-histórico. A alternativa B, diversidade étnica, não explica a mudança de sentido. A C, descoberta geográfica, toca no período, mas o significado não veio da descoberta do lugar e sim da visão dos portugueses sobre os habitantes. A D fala em apropriação religiosa, sem apoio no texto. A E, contraste cultural, é parte do processo, mas é restrita; o texto enfatiza a situação histórica e social como um todo. Gabarito: A.",
+  "hash": "119db5fe1ed99a96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q103": {
+  "explicacao": "A questão pede o ponto de vista comum aos dois textos sobre o consumismo. O Texto I, apoiado em Marx, afirma que no capitalismo as coisas são personificadas e as pessoas coisificadas: carros de luxo, mansões e marcas famosas passam a conferir valor e visibilidade social ao indivíduo. O Texto II diz que o consumo modifica nossas relações, rege sentimentos e que o “código do ser” virou “código do consumidor”, tornando felicidade, família, saúde e corpo reféns da engrenagem do consumo. Ambos, portanto, mostram que o consumismo altera os valores sociais: o que define a pessoa passa a ser o que ela consome. A alternativa A, desejo de ascensão social, aparece só no Texto I. A C, papel da publicidade, é citado apenas no Texto I. A D fala de busca inerente da felicidade, que o Texto II apresenta como refém do consumo, não como origem. A E, datas específicas, aparece só no início do Texto I. Gabarito: B.",
+  "hash": "1d186c768a4d3cd0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q104": {
+  "explicacao": "A questão pede a função dos dois-pontos no trecho de Amós Oz. Na primeira parte, o autor afirma que quem procura a essência do conto no espaço entre a obra e seu autor comete um erro. Depois dos dois-pontos, vem a explicação desse erro: é melhor procurar no terreno entre o texto e o leitor. Ou seja, os dois-pontos introduzem um argumento que esclarece e justifica a afirmação anterior. A alternativa A não serve: embora haja dois espaços diferentes, a função dos dois-pontos não é comparar, mas explicar. A B, gradação, não ocorre, pois não há informações em escala crescente. A C erra porque o trecho após os dois-pontos resolve o problema, não o intensifica. A E fala em consequência hipotética, mas o segmento apresenta uma orientação do autor, não uma hipótese decorrente do que veio antes. Gabarito: D.",
+  "hash": "2516d1f6f5cea6bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q105": {
+  "explicacao": "A questão pede a que a campanha incita o leitor para estimular a economia de água. O anúncio “A água invisível” explica que a água compõe indiretamente muito do que comemos, vestimos e usamos, e dá exemplos: 1 kg de carne bovina exige em média 15 mil litros de água; 1 lençol de algodão, 10.600 litros; 1 ovo, 3.340 litros; 1 kg de pão, 1.600 litros; 1 copo de cerveja, 75 litros. A frase final resume a mensagem: “Economizar bens de consumo e evitar o desperdício também é poupar água”. Logo, o leitor é levado a adotar práticas de consumo consciente. A alternativa B fala de hábitos de higiene, mas o foco é a água embutida nos produtos, não a do banho ou da limpeza. A C usa o dado da exportação de soja e cereais, que é só informativo. A D cita roupas recicláveis, o que não é proposto. A E erra o público: a campanha fala ao consumidor, não aos produtores rurais. Gabarito: A.",
+  "hash": "008c248515f558d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q106": {
+  "explicacao": "A questão pede o que o impacto da internet propicia, segundo o texto. O diretor citado afirma que internet e pirataria são inseparáveis, porque há pouca estrutura para controlar quem é dono dos arquivos, e que isso acabou com o controle sobre a propriedade; ele chama esse fenômeno de inerente à tecnologia. O texto acrescenta que distribuir cópias sem autorização pode ser crime, mas nem sempre lesa os autores: Paulo Coelho liberou O alquimista para download gratuito e viu as vendas em papel explodirem. Ou seja, a internet obriga a repensar o que significa propriedade intelectual e como ela gera ou perde valor. Daí a reavaliação do conceito. A alternativa A fala em banalização, juízo que o texto não faz. A B e a C citam medidas e leis que não aparecem. A E pega o efeito no caso de Paulo Coelho, mas ampliar o acesso não é a tese central; o texto discute a própria noção de propriedade. Gabarito: D.",
+  "hash": "a2a46e76eef0c387",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q107": {
+  "explicacao": "A questão pede o contexto revelado pelas práticas culturais japonesas no fragmento. No almoço de domingo, Hideo senta-se à cabeceira; à direita ficam o primeiro e o segundo filho, à esquerda os outros em ordem de idade, e a esposa e as filhas permanecem de pé ao redor da mesa. A disposição dos lugares reproduz a hierarquia da família tradicional: o pai no topo, os filhos homens ordenados pela primogenitura e as mulheres excluídas. Haruo protesta justamente porque percebe nisso a ideia de que o homem seria melhor que a mulher. Assim, o lugar à mesa funciona como metáfora de uma estrutura de poder. A alternativa A não tem base: não se fala em prestígio pessoal. A B erra, pois a família mantém o costume, apesar do protesto de um filho. A C confunde o cenário com o sentido: a refeição reúne a família, mas o foco é a hierarquia. A D é falsa, já que o conflito de gênero é explicitado e não neutralizado. Gabarito: E.",
+  "hash": "78886e916553e92d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q108": {
+  "explicacao": "A questão pede o objetivo comunicativo do texto. Os autores apresentam a obra Madeira de ponta a ponta: contam o tema (a exploração da madeira na Amazônia e seus dilemas), o método (olhar jornalístico, crítico e didático, apoiado em estatísticas e estudos), o público a que se destina (setor público, privado e sociedade civil) e o conteúdo (fraudes na cadeia da madeira e iniciativas de boas práticas). Também fazem avaliações, como “rica em informações ilustradas” e “trazem esperança”. Trata-se de um texto de apresentação de livro, típico de prefácio ou orelha, que informa e comenta a obra. A alternativa B erra porque não se noticiam descobertas científicas específicas. A C toma um tema do livro como se fosse o objetivo do texto. A D fala em ensinar formas de combate, o que o texto não faz. A E cita parcerias, que não são mencionadas. Gabarito: A.",
+  "hash": "eda317567803f499",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q109": {
+  "explicacao": "A questão pede a finalidade da combinação entre elementos verbais e não verbais na campanha. A imagem intercala fotos de uma avenida com telas de celular mostrando conversas de mensagem; em apenas um dos quadros aparece uma criança atravessando a rua, fácil de passar despercebida no meio das telas. O texto diz: “Se você não percebeu a criança aqui, imagine no trânsito”, e completa com “Trânsito sem celular. Atenda a esse chamado. Seja você a mudança no trânsito”. A montagem simula a distração de quem dirige olhando o celular, e o texto se dirige ao motorista para que mude o comportamento. Logo, o objetivo é influenciar motoristas quanto ao uso do celular no trânsito. A alternativa A atribui a mensagem ao governo, sem apoio no anúncio. A B exagera: a criança é exemplo, não se afirma uma estatística de atropelamentos infantis. A C inclui pedestres, mas o alvo é quem dirige. A E é genérica demais, pois o foco é o celular, não a desatenção em geral. Gabarito: D.",
+  "hash": "5f00533bf9a50ad4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q110": {
+  "explicacao": "A questão pede o que a imagem da pérola revela sobre a criação literária. O texto descreve como uma partícula invade a ostra, que reage secretando nácar “com uma paciência de fundo de mar”, “por anos a fio”, até que o material se solidifica e forma a pérola. Depois aproxima essa imagem da arte: ela é “a transformação da dor”, e escrever é “continuar secretando o nácar”. A escrita aparece, então, como um trabalho lento, contínuo e progressivo, em que o escritor elabora o que o afetou por dentro, um processo de mergulho em si mesmo, de autoconhecimento. A alternativa A erra ao atribuir valor ao esquecimento no processo criativo; o esquecimento se refere às pérolas não encontradas, depois de prontas. A B inventa uma rejeição ao exótico. A D contradiz o texto, que mostra um trabalho incansável, e não involuntário. A E foca o contato com o inusitado, mas o essencial é o trabalho de transformação. Gabarito: C.",
+  "hash": "bc1cca4eaef365f7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q111": {
+  "explicacao": "A questão pede qual característica do gênero diário aparece na canção. O diário é um texto em primeira pessoa no qual alguém registra os acontecimentos do dia e reflete sobre si mesmo. A letra começa com “Querido diário”, usa o marcador “Hoje”, narra episódios do dia (encontrar conhecidos que têm pena de ele viver sozinho, o inimigo que arma tocaia) e traz a reflexão do eu sobre a própria condição: “eu não quebro porque sou macio”. É uma narrativa autorreflexiva, em que o sujeito conta e pensa sobre a própria experiência. A alternativa A erra porque o interlocutor é o próprio diário; os conhecidos são só personagens narrados. A B não procede, pois predominam verbos no presente e no pretérito. A C e a D descrevem traços da canção como poema (tom poético e rimas), não do gênero diário. Gabarito: E.",
+  "hash": "6109d7be6970c042",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q112": {
+  "explicacao": "A questão pede o recurso que fundamenta a expressividade do trecho. No primeiro parágrafo, a cena é vista pelo dono: ele examina os olhos da galinha, atira mais milho, se pergunta o que seria aquilo e imagina uma pedrada de algum moleque. No segundo, o foco passa para a própria galinha, que “não compreendia nada” e sente falta dos dias luminosos à sombra das pitangueiras. O narrador assume, portanto, diferentes pontos de vista, e o faz com carga afetiva (“coitada”, “meu Deus do céu”), aproximando o leitor tanto da aflição do dono quanto da da ave. Daí a apropriação de pontos de vista incorporados afetivamente. A alternativa A fala de elementos rurais peculiares, que são apenas cenário. A B reduz o texto à descrição de um quintal. A C erra porque o tempo é linear, sem confusão. A E fala em fragmentação do conflito, que não ocorre: a cegueira é apresentada de forma contínua. Gabarito: D.",
+  "hash": "c5aeda987c8e3176",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q113": {
+  "explicacao": "A questão pede qual concepção de atividade poética o poema evidencia. O eu lírico descreve o próprio fazer poético como uma operação de corte: “enquanto corto os conectivos/ corto as palavras rentes/ com tesoura de jardim/ cega e bruta/ com facão de mato”. Os instrumentos são rudes e violentos, e o poema insiste que a marca desse corte deve ficar nas palavras que sobraram. Escrever, aqui, é sobretudo suprimir, eliminar o excesso com agressividade, o que corresponde à alternativa C. A alternativa A destaca a necessidade de escrever, mas os versos iniciais apenas abrem o poema, sem definir a concepção central. A B fala em percurso imprevisível, mas o atalho e o caminho de rato são resultado do corte, não o foco. A D vê frustração inevitável, leitura que o poema não sustenta. A E fala de conflito com a inspiração, quando o texto trata do trabalho com as palavras. Gabarito: C.",
+  "hash": "60aba7267e372e19",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q114": {
+  "explicacao": "A questão pede por que a obra de Marilá Dardot mostra a arte como experimentação e construção. O texto diz que a instalação é um convite à interação: o espectador é instigado a compor palavras e frases com as letras-vaso, plantá-las com terra, sementes e utensílios disponíveis e distribuí-las pelo campo. A proposta é “plantar palavras, semear ideias”. Assim, quem observa deixa de ser passivo e passa a construir a obra, atuando como seu criador. A alternativa A fala do local ao ar livre, que não explica a experimentação. A C destaca a integração ao espaço artístico e botânico de Inhotim, que é contexto, não o motivo. A D descreve o uso das letras-vaso, mas o ponto essencial é quem as usa e cria com elas. A E menciona as mulheres que confeccionaram as peças, informação da produção, não da experiência proposta ao público. Gabarito: B.",
+  "hash": "c6fa16b0e4527f3b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q115": {
+  "explicacao": "A questão pede a que se refere o tabu linguístico na mudança de nome do inseto. Tabu linguístico é a evitação de palavras consideradas grosseiras, ofensivas ou inadequadas socialmente. O texto conta que os poetas de Lisboa não podiam usar o nome “caga-lume”, considerado indecoroso e impróprio para “papéis sérios”. Por isso, o dicionarista Raphael Bluteau criou “pirilampo”, do grego pyr (fogo) e lampas (candeia). O tabu, portanto, é a restrição ao uso de um vocábulo pouco aceito socialmente. A alternativa A erra porque não se recuperou um significado antigo; criou-se uma palavra nova. A B fala em ampliação de sentido, o que não ocorreu. A C confunde: o problema não era a produção dos poetas, mas a palavra disponível. A D descreve como a palavra nova foi formada, mas a origem grega não é o tabu, e sim a solução para ele. Gabarito: E.",
+  "hash": "f541044dbe51e592",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q116": {
+  "explicacao": "A questão pede o que a relação entre as definições e a construção do texto indica. Ana Cristina Cesar compõe um poema em forma de lição escolar: enumera os gêneros da poesia, define lirismo como linguagem do coração e classifica o lirismo elegíaco em elegia, nênia, endecha, epitáfio e epicédio, tudo num tom didático, explicativo e sem emoção aparente. O efeito é paradoxal: um texto que fala de sentimento subjetivo é construído de forma contida, quase de manual, e é justamente essa escolha que o torna poesia. Daí o tom explicativo e contido como forma peculiar de expressão poética. A alternativa A vê ironia no lirismo, mas o poema não ridiculariza o conceito. A C atribui pessimismo, ausente. A D fala em impessoalidade, mas esse efeito não é o sentido central; o que importa é como ele se torna expressão poética. A E erra porque o poema não adere às tradições; ele as reorganiza de modo inesperado. Gabarito: B.",
+  "hash": "f3faf9051ecc5e4b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q117": {
+  "explicacao": "A questão pede a finalidade da repetição de “Você pode não acreditar: mas houve um tempo em que...”. A crônica relembra um passado em que leite e pão eram deixados à porta sem risco de roubo, em que se voltava a pé à noite sem medo, em que as pessoas se visitavam sem pressa e o namoro seguia etapas. A repetição cria um ritmo nostálgico e aproxima o leitor, chamando-o diretamente (“você”), para mostrar como a convivência era mais tranquila e afetuosa. O fecho “Houve um tempo em que havia tempo” reforça a emoção. O objetivo é sensibilizar o leitor sobre como as pessoas se relacionavam num tempo mais aprazível. A alternativa A reduz o texto ao lazer. A C fala em advertir o jovem sobre mau uso do tempo, tom ausente. A D sugere organizar o tempo, o que o texto não propõe. A E erra porque a expressão “você pode não acreditar” não busca provar fatos, e sim provocar comoção. Gabarito: B.",
+  "hash": "7e0f18867425ef39",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q118": {
+  "explicacao": "A questão pede a função social do texto. O autor apresenta o livro A fórmula secreta: resume o tema (a disputa entre Tartaglia e Cardano pela fórmula das equações de terceiro grau) e, ao mesmo tempo, avalia a obra com expressões como “instigante universo”, “ótima opção”, “obra de fácil leitura” e “de forma interessante, inteligente e acessível”. Essa combinação de síntese e juízo de valor caracteriza a resenha crítica, cuja função é fazer a apreciação de uma obra a partir de uma síntese crítica. A alternativa A erra porque o texto não interpreta a obra pelos acontecimentos narrados. A B fala em impessoalidade, mas há avaliações explícitas do autor. A D sugere atestar a veracidade dos fatos, o que não é o objetivo. A E contraria o texto, que destaca a acessibilidade ao grande público, não aos estudiosos. Gabarito: C.",
+  "hash": "9172f36160302563",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q119": {
+  "explicacao": "A questão pede o que o narrador enfatiza no fragmento de Clarice Lispector. O foco recai sobre dona Maria Rita: idosa, bem-vestida e com joias, ela recebe da filha um “beijo gelado” e é deixada antes de o trem partir. O narrador reflete: “Chega-se a um certo ponto — e o que foi não importa. Começa uma nova raça. Uma velha não pode comunicar-se”. Quando Angela oferece a troca de lugar, a velha estranha a gentileza e chega a pensar que a moça quer se afastar dela. Tudo aponta para o isolamento afetivo trazido pela velhice, ou seja, o sentimento de solidão alimentado pelo envelhecimento. A alternativa A interpreta as joias como vaidade, sem que o texto enfatize isso. A B fala em anulação de diferenças sociais, tema ausente. A C vê incompatibilidade entre gerações, mas Angela é gentil; o problema está na solidão da velha. A D erra porque o constrangimento é consequência do isolamento, não o foco do narrador. Gabarito: E.",
+  "hash": "5e8a99dbbb323902",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q120": {
+  "explicacao": "A questão pede o que sintetiza a angústia do eu lírico. O poema mostra três gerações: a do pai batia na do eu lírico, que achava isso normal; a do eu lírico batia na seguinte, sem saber que era errado, enquanto esta já sabia e cresceu com ódio. Agora, quando todos “já sabem de tudo”, é péssimo ter sido a geração do meio, que errou ao aceitar apanhar e errou ao bater. O final, “apesar de amaldiçoados/ éramos todos inocentes”, revela que o erro vinha de um senso comum aceito como normal em cada época. A angústia é a consciência dessas imperfeições que foram aceitas na formação dos valores coletivos. A alternativa A fala da efemeridade das convicções, mas o centro é a culpa por erros aceitos. A C destaca a revolta dos jovens, que é só um detalhe. A D cita incerteza sobre o futuro, ausente. A E foca a crueldade dos mais velhos, quando o poema os chama de inocentes. Gabarito: B.",
+  "hash": "46683294ca1da220",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q121": {
+  "explicacao": "A questão pede o que o sujeito lírico propõe recriar poeticamente. O poema trata de como escrever a palavra “flor”. O eu lírico recusa a flor convencional da poesia, a “flor-virtude”, e afirma: “Flor é a palavra/ flor; verso inscrito/ no verso”. Em seguida, aproxima essa palavra de novas imagens: o salto da ave para o voo, o salto para fora do sono, uma explosão posta a funcionar como uma máquina. Assim, a palavra flor é recriada por comparações inesperadas que lhe dão novos significados, típicas da poesia antilírica de João Cabral. A alternativa B toma o urinol, que é referência passageira, como objeto central. A C confunde a ave, que é apenas uma das imagens comparativas. A D faz o mesmo com a máquina. A E fala de um tecido, que aparece só como metáfora do sono. Gabarito: A.",
+  "hash": "2cca3be58768b0a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q122": {
+  "explicacao": "A questão pede o objetivo principal das informações da campanha. O texto incentiva a doação, mas dedica a maior parte a explicar que só pessoas saudáveis e fora de risco podem doar, que quem acha que pode pôr em risco o receptor ou quer apenas fazer o teste de HIV não deve doar, e que existe a janela imunológica, período em que o vírus pode não ser detectado nos exames. A frase final, em destaque, resume a mensagem: “Da sua honestidade depende a vida de quem vai receber seu sangue”. O objetivo é conscientizar o doador de que ele é corresponsável pela qualidade do sangue. A alternativa B erra, pois a preocupação é com o receptor, não com o doador de risco. A C cita a segurança do processo, que é só um dado de apoio. A D fala em dificuldades da coleta, não mencionadas. A E toca no estímulo inicial à doação, mas o foco é a honestidade do doador. Gabarito: A.",
+  "hash": "795f91a92b1dbac2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q123": {
+  "explicacao": "A questão pede o que os dois textos têm em comum. O Texto I é a transcrição de uma fala espontânea, com marcas típicas da oralidade: hesitações (“olha”, reticências), repetições e reformulações (“obras da/ dos meios de comunicação”). O Texto II é a retextualização dessa fala para a escrita, com reorganização das frases e eliminação dessas marcas. Apesar das diferenças de modalidade, ambos são produções de uma professora, falante escolarizada de um centro urbano, que usa a norma de prestígio. Por isso, os dois são amostras do português culto urbano, um na fala e outro na escrita. A alternativa A só vale para o Texto I. A B não se aplica ao Texto I, que tem construções fora da gramática normativa. A C também só caracteriza o Texto I, pois o II foi planejado. A D erra porque não há linguagem literária em nenhum dos dois. Gabarito: E.",
+  "hash": "05225f01a7b5fbd3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q124": {
+  "explicacao": "A questão pede o efeito da discussão sobre as palavras no texto de Verissimo. Os interlocutores debatem palavras como “outrossim”, “óbice”, “ônus”, “desiderato” e “resquício”, termos formais, típicos de documentos e da linguagem burocrática, raros na conversa do dia a dia. O humor nasce de dois pontos: primeiro, do uso dessas palavras numa conversa banal; segundo, da classificação absurda delas em “palavras de domingo” e “palavras de segunda-feira”, como se tivessem dia certo para aparecer. O texto gera, portanto, tom humorístico pela ocorrência de palavras próprias de contextos formais. A alternativa A leva a sério a menção aos dias, que é apenas parte da piada. A C erra porque as palavras não são regionais. A D fala em distanciamento, mas os falantes dialogam com intimidade. A E é falsa, pois ambos conhecem as palavras; discutem apenas seu uso. Gabarito: B.",
+  "hash": "186ff492a0713faf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q125": {
+  "explicacao": "A questão pede por que o texto de Saramago constitui uma mescla de gêneros. A forma é de poema, com versos metrificados e rimas (cansado/dourado, flor/pavor, retorce/reforce, mulher/requer). Mas a estrutura imita uma receita culinária: verbos no imperativo ou em construções prescritivas (“Tome-se”, “Deita-se”, “se reforce”), lista de ingredientes (um poeta, uma nuvem de sonho, três gotas de tristeza) e etapas de preparo (“Quando a massa já ferve e se retorce”). Ou seja, o poema incorpora procedimentos prescritivos típicos da receita, o que caracteriza a mistura de gêneros. A alternativa B erra porque o texto não explicita etapas reais de uma receita. A C fala em elementos temáticos de receita, mas o tema é o amor de poeta; da receita vem a forma. A D e a E apontam traços apenas do poema, que sozinhos não justificam a mescla. Gabarito: A.",
+  "hash": "29047805fff39faf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q126": {
+  "explicacao": "A questão pede a principal razão para inferir que o espetáculo fotografado é teatro de rua. A montagem de Romeu e Julieta do Grupo Galpão ficou conhecida por ser encenada em praças e espaços abertos, com o público ao redor, sem palco italiano, poltronas ou paredes de um teatro. O que define o teatro de rua é justamente isso: a apresentação acontece no espaço público, dispensando o edifício teatral. A alternativa B aponta figurinos com adereços cômicos, que podem existir em qualquer tipo de teatro e não definem o teatro de rua. A C fala de elementos circenses, recurso estético possível, mas não exclusivo da rua. A D é falsa, pois o teatro de rua pode usar cenário, e o próprio Galpão usa elementos cênicos nessa montagem. A E também não define o gênero, já que espetáculos de rua podem usar iluminação artificial, por exemplo à noite. Gabarito: A.",
+  "hash": "bb6e011cdc85bb3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q127": {
+  "explicacao": "A questão pede como a piada é enfatizada na reflexão de Sírio Possenti. O autor diz que estuda as piadas e afirma que elas são, ao mesmo tempo, um dos melhores retratos dos valores e problemas de uma sociedade e uma coleção de dados impressionantes para quem quer entender como funciona uma língua. Acrescenta que os antropólogos ainda não lhes deram a devida atenção e que elas poderiam substituir com vantagem entrevistas e pesquisas, por exemplo para estudar machismo e racismo. Ou seja, o texto destaca o potencial da piada como objeto de investigação científica. A alternativa A fala da função humorística, que o autor nem discute. A B cita a circulação universal, mencionada só de passagem. A C destaca a variedade de temas, que serve de argumento, não de foco. A D trata a piada como veículo de preconceito, mas o texto a vê como fonte para estudar preconceitos, não como sua finalidade. Gabarito: E.",
+  "hash": "6c01d9f9ad745984",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q128": {
+  "explicacao": "A questão pede que tipo de feminilidade a personagem Maggie representa ao entrar no boxe. O texto mostra que o treinador Frankie expressa a ideia de que boxe é esporte de homem (“Eu não treino garotas”), enquanto Maggie supera a concepção de que os ringues são masculinos. Explica ainda que a feminilidade dominante associa a mulher à fragilidade e à passividade, mas que algumas mulheres, indiferentes às convenções, se sentem desafiadas a praticar modalidades consideradas masculinas, como Maggie, que insiste em seu objetivo. Logo, sua feminilidade é marcada pela transposição de limites impostos à mulher num espaço de predomínio masculino. A alternativa A é o oposto, pois o boxe não é visto como alinhado ao gênero feminino. A B também contradiz o texto, já que Maggie rompe com os comportamentos tidos como femininos. A D fala em aceitação de padrões, quando há desafio a eles. A E fala em naturalização das barreiras, quando a personagem as enfrenta. Gabarito: C.",
+  "hash": "235eb37de085066a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q129": {
+  "explicacao": "A questão pede o fator do texto que permite relacionar a prática corporal a uma visão ampliada de saúde. Uma visão ampliada de saúde não considera só o corpo, mas também condições sociais e econômicas que possibilitam o bem-estar. Terezinha conta que, nos três primeiros anos de carreira, seu principal desafio foi a falta de recursos financeiros: sem dinheiro para um atleta-guia, treinava sozinha e sofria trombadas e quedas. Hoje, com melhores condições, pode ter treinos diários, prevenção de lesões e acompanhamento psicológico e nutricional. A condição financeira é, portanto, o fator que determina o acesso a todos os demais cuidados, o que caracteriza a perspectiva ampliada de saúde. As alternativas A, C e E citam cuidados específicos (nutrição, prevenção de lesões, apoio psicológico), que dependem justamente das condições financeiras. A D, treinamento esportivo, é a própria prática corporal, não o fator que amplia a noção de saúde. Gabarito: B.",
+  "hash": "b5982d764e506ed0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q130": {
+  "explicacao": "A questão pede qual princípio operacional o drible no handebol caracteriza. O texto divide os princípios em ataque (conservação da bola, progressão da equipe em direção ao alvo adversário e finalização) e defesa (recuperação da bola, impedimento do avanço adversário e proteção do alvo). O drible é uma ação de quem está com a posse da bola: o jogador quica a bola enquanto se desloca, avançando em direção ao gol adversário. Trata-se, portanto, de um princípio de ataque ligado ao avanço com a bola, ou seja, progressão da equipe. A alternativa A, recuperação da bola, é ação defensiva de quem não tem a posse. A C, finalização, corresponde ao arremesso ao gol, não ao drible. A D e a E também são princípios de defesa, executados pela equipe sem a bola. Gabarito: B.",
+  "hash": "810cab96b95d6a41",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q131": {
+  "explicacao": "A questão pede como o jornal é reconhecido na crônica de Machado de Assis. O cronista fala da “inexprimível melancolia dos jornais velhos” e compara a leitura de folhas de meio século à visão das ruínas de uma civilização. Na última frase, ele define o que sente: não é saudade piegas, mas “a recomposição do extinto, a revivescência do passado”. O jornal antigo funciona, assim, como meio de recompor e fazer reviver o que passou, isto é, instrumento de reconstrução da memória. A alternativa A fala em devoção pessoal, mas o texto trata de uma experiência de recuperar o passado, não de culto ao objeto. A B, afirmação da cultura, não é mencionada. A D se apoia em “Conhece-se um homem diante de um deles”, que é observação secundária. A E erra porque o jornal não produz fatos; o cronista o vê como registro do passado. Gabarito: C.",
+  "hash": "484f075036ead033",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q132": {
+  "explicacao": "A questão pede por que, na arte e na literatura modernas, o rosto aparece deformado, destruído ou fragmentado. Nos autorretratos de Francis Bacon, as feições aparecem retorcidas e borradas; no texto de Marguerite Duras, a narradora diz ter um rosto destruído, cuja matéria foi desfeita embora o contorno permaneça. Essa representação do sujeito dividido e ferido está ligada a dois fatores do século XX: as catástrofes históricas, como as duas guerras mundiais e os genocídios, que abalaram a confiança no ser humano, e a psicanálise, que revelou um sujeito marcado pelo inconsciente, sem unidade nem transparência. A alternativa A atribui a deformação ao grotesco romântico, o que não explica a subjetividade moderna. A C inverte o sentido, pois essas obras participam da revolução da arte moderna. A D é confusa e contraditória, já que o artista moderno costuma romper com o passado. A E é falsa: os autorretratos dependem justamente da história pessoal. Gabarito: B.",
+  "hash": "8ce81b468b8b069d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q133": {
+  "explicacao": "A questão pede o que caracteriza Lições de motim como texto teatral. O texto dramático se distingue pela fala direta das personagens e pelas rubricas, indicações cênicas que orientam gestos, movimentos e entonação. No trecho, aparecem várias delas: “(A reflexão escorrega lá pro fundo da alma.)”, “(De súbito, pedagógica, volta-se para o homem.)”, “(FAZ UMA PAUSA.)” e “(O HOMEM TORNA A SE DEBATER...)”. Elas constroem a ação dramática, mostrando a velha impassível e o homem que se debate e desiste. A alternativa A, tom melancólico, pode aparecer em qualquer gênero. A B, perguntas retóricas, também não é exclusiva do teatro. A C é falsa, pois no texto teatral não há narrador; as rubricas não são narração. A E, analogias sobre a solidão, é recurso de conteúdo presente em poemas, crônicas e outros gêneros. Gabarito: D.",
+  "hash": "c6b01d6e8ae3727a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q134": {
+  "explicacao": "A questão pede o recurso argumentativo usado para enfatizar a qualidade de Túlio Piva. O texto destaca um paradoxo: o artista era “misto de gaúcho e italiano, nascido na fronteira com a Argentina”, e mesmo assim falava de samba, morro e mulata “com categoria. E que categoria!”. O valor do compositor é reforçado justamente pelo contraste entre sua origem, distante do universo tradicional do samba, e sua escolha por esse gênero, que ele dominou a ponto de ser comparado a Noel, Ataulfo e Lupicínio. A alternativa B fala de temas gaúchos nas letras, mas o texto diz que ele cantava samba, morro e mulata. A C cita gêneros brasileiros e argentinos, mas o tango aparece só na frase final, sem ser o argumento central. A D erra porque Noel, Ataulfo e Lupicínio são citados como referência de valor, não comparados entre si por região. A E não procede, pois o texto não aproxima as duas culturas. Gabarito: A.",
+  "hash": "2499ff6b34da55cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q135": {
+  "explicacao": "A questão pede a função das reticências no miniconto. O diálogo revela aos poucos uma tragédia: uma criança (as iniciais L.J.C. sugerem uma vítima real) levou cinco tiros enquanto brincava de pega-pega, logo cedo. Na fala “O PM pensou que…”, a frase é interrompida, mas o leitor completa o sentido: o policial pensou que a criança fosse um suspeito, um bandido em fuga. As reticências deixam implícita essa informação, que não precisa ser dita e ganha força justamente por ficar subentendida. A alternativa A fala em hesitação, mas o diálogo é seco e direto, sem dúvida do falante. A C erra porque a situação, embora absurda, é coerente no texto. A D não se aplica, pois a ideia não é eliminada, apenas sugerida. A E fala em interrupção de uma ação, mas o que se interrompe é a frase, não uma ação. Gabarito: B.",
+  "hash": "8b4f5a5260b6ce85",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q136": {
+  "explicacao": "A questão pede o número mínimo de viagens para transportar os grãos de um silo cheio, em caminhão de 20 m³. A figura mostra um cilindro de raio 3 m e altura 12 m, coberto por um cone de mesmo raio e altura 3 m. Com π ≈ 3: volume do cilindro = π·r²·h = 3 × 3² × 12 = 3 × 9 × 12 = 324 m³. Volume do cone = ⅓·π·r²·h = ⅓ × 3 × 9 × 3 = 27 m³. Volume total = 324 + 27 = 351 m³. Número de viagens = 351 ÷ 20 = 17,55. Como 17 viagens levariam apenas 340 m³, sobrando 11 m³, é necessária mais uma, totalizando 18 viagens. A alternativa A considera um erro grosseiro de escala. A B e a C vêm de cálculos incompletos ou de arredondar para baixo, o que deixaria grãos no silo. A E surge de usar o cone sem o fator ⅓ (324 + 81 = 405; 405 ÷ 20 ≈ 20,25, arredondado para 21). Gabarito: D.",
+  "hash": "672eeb96cdcddb5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q137": {
+  "explicacao": "A questão pede as dimensões do desenho impresso, feito na escala 1 : 8 e depois reduzido em 20%. Primeiro, aplicamos a escala dividindo cada medida real por 8: altura 220 ÷ 8 = 27,5 cm; largura 120 ÷ 8 = 15 cm; profundidade 50 ÷ 8 = 6,25 cm. Em seguida, reduzir em 20% significa ficar com 80% do tamanho, ou seja, multiplicar por 0,8: 27,5 × 0,8 = 22 cm; 15 × 0,8 = 12 cm; 6,25 × 0,8 = 5 cm. Portanto, o desenho impresso terá 22,00 cm, 12,00 cm e 5,00 cm (equivale a uma escala final de 1 : 10). A alternativa B apresenta as medidas antes da redução. A C divide por 0,8 em vez de multiplicar, ampliando em vez de reduzir. A D aplica a redução de forma errada sobre medidas incorretas. A E divide por 5 em vez de usar a escala de 1 : 8. Gabarito: A.",
+  "hash": "a656bfebafaf3073",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q138": {
+  "explicacao": "A questão pede o diâmetro da London Eye em metros, sabendo que mede 443 pés, que 1 pé = 12 polegadas e 1 polegada = 2,54 cm. Primeiro, convertemos pés em polegadas: 443 × 12 = 5.316 polegadas. Depois, polegadas em centímetros: 5.316 × 2,54 = 13.502,64 cm. Por fim, centímetros em metros, dividindo por 100: 13.502,64 ÷ 100 ≈ 135,03 m. A medida mais próxima é 135 m. Outra forma: 1 pé = 12 × 2,54 = 30,48 cm = 0,3048 m, e 443 × 0,3048 ≈ 135 m. A alternativa A (53) resulta de esquecer o fator 2,54, tratando 443 × 12 = 5.316 como centímetros. A B, a C e a E não correspondem a nenhuma conversão correta com os fatores dados. Gabarito: D.",
+  "hash": "d3750dda232c3101",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q139": {
+  "explicacao": "A questão pede a vazão da segunda bomba, ligada no início da segunda hora. O gráfico mostra o volume caindo de 6.000 L (ponto A, t = 0) para 5.000 L (ponto B, t = 1 h) e depois para 0 L (ponto C, t = 3 h). Na primeira hora só a primeira bomba funciona: ela retira 6.000 − 5.000 = 1.000 L em 1 h, logo sua vazão é 1.000 L/h. Da hora 1 à hora 3, as duas bombas juntas retiram 5.000 L em 2 h, ou seja, 5.000 ÷ 2 = 2.500 L/h. A vazão da segunda bomba é a diferença: 2.500 − 1.000 = 1.500 L/h. A alternativa A é a vazão da primeira bomba. A B corresponde a 5.000 ÷ 4 ou outro erro de divisão. A D seria 6.000 ÷ 3, a vazão média de todo o processo. A E é a vazão conjunta das duas bombas, não a da segunda. Gabarito: C.",
+  "hash": "119a48694e5b9c63",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q140": {
+  "explicacao": "A questão pede quais atletas fazem a primeira luta, entre o mais regular e o menos regular nas pesagens. Regularidade se mede pela dispersão dos dados: quanto menor o desvio padrão, mais regulares (próximos entre si) são os valores. O quadro dá os desvios padrão: atleta I = 4,90; II = 8,49; III = 4,08; IV = 7,87. O menor é 4,08, do atleta III (pesagens 75, 70 e 65), logo ele é o mais regular. O maior é 8,49, do atleta II (83, 65 e 65), o menos regular. A primeira luta é entre II e III. A alternativa A troca o menos regular pelo atleta I. A B e a E usam erroneamente a média ou a mediana como critério. A D inclui o atleta IV, que é o segundo menos regular, e deixa de fora o mais regular. Gabarito: C.",
+  "hash": "c3b73edd9c868c8d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q141": {
+  "explicacao": "A questão pede o pneu de menor altura. Pela marcação abc/deR15, a largura é abc mm e de = 100 × altura ÷ largura; logo, altura = largura × de ÷ 100. Calculando cada opção: 175/65 → 175 × 0,65 = 113,75 mm; 175/75 → 175 × 0,75 = 131,25 mm; 175/80 → 175 × 0,80 = 140 mm; 185/60 → 185 × 0,60 = 111 mm; 205/55 → 205 × 0,55 = 112,75 mm. A menor altura é 111 mm, do pneu 185/60R15. A alternativa A tem o menor valor de de (55), mas a largura maior faz a altura chegar a 112,75 mm. A B tem a menor largura entre os de razão maior, mas altura de 113,75 mm. A C e a D são as mais altas, com 131,25 mm e 140 mm. O diâmetro interno (15 polegadas) é igual em todos e não interfere. Gabarito: E.",
+  "hash": "5daac1f9338cfdfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q142": {
+  "explicacao": "A questão pede o cruzamento que fica à mesma distância de percurso de três pontos: rua 6 com E, rua 2 com E e rua 4 com A. Como só se anda na horizontal e na vertical, a distância entre dois cruzamentos é a soma das diferenças entre as ruas numeradas e entre as ruas com letras (cada quarteirão vale 1). Testando 4 e D: até 6 e E, |6 − 4| + |E − D| = 2 + 1 = 3; até 2 e E, |4 − 2| + 1 = 3; até 4 e A, 0 + |D − A| = 3. As três distâncias são iguais a 3 quarteirões. A alternativa A (3 e C) dá 3 + 2 = 5 até o trabalho da mãe e 1 + 2 = 3 até o consultório, diferentes. A B (4 e C) dá 4, 4 e 2. A D (4 e E) dá 2, 2 e 4. A E (5 e C) dá 3, 5 e 3. Gabarito: C.",
+  "hash": "7be8815a4f2936b6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q143": {
+  "explicacao": "A questão pede as dimensões de um terreno retangular com comprimento 7 m maior que a largura e mesma área do terreno da Figura B. A Figura B pode ser dividida pela diagonal que liga o canto superior esquerdo ao inferior direito. O primeiro triângulo é retângulo, com catetos 15 m e 15 m: área = 15 × 15 ÷ 2 = 112,5 m². O segundo também é retângulo, com catetos 21 m e 3 m: área = 21 × 3 ÷ 2 = 31,5 m². Área total = 112,5 + 31,5 = 144 m². Para a Figura A, com largura x: x(x + 7) = 144, ou seja, x² + 7x − 144 = 0. Δ = 49 + 576 = 625, √625 = 25, x = (−7 + 25) ÷ 2 = 9. Logo, largura 9 m e comprimento 16 m (as alternativas listam os valores na ordem 9,0 e 16,0). A alternativa A dá área 108,75 m². A C dá cerca de 151,6 m². A D dá 170 m². A E dá 276,75 m². Gabarito: B.",
+  "hash": "df3838c9a810ab9b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q144": {
+  "explicacao": "A questão pede o mês cujo lucro mais se aproximou da média dos sete meses. O quadro traz os lucros, em milhões de reais: I = 37, II = 33, III = 35, IV = 22, V = 30, VI = 35, VII = 25. Soma: 37 + 33 + 35 + 22 + 30 + 35 + 25 = 217. Média: 217 ÷ 7 = 31 milhões. Agora comparamos a distância de cada lucro a 31: I → 6; II → 2; III → 4; IV → 9; V → 1; VI → 4; VII → 6. A menor diferença é 1, no mês V (lucro de 30 milhões). A alternativa A, mês I, é o maior lucro, distante 6 da média. A B, mês II, fica a 2 da média, segunda mais próxima. A C, mês IV, é o menor lucro. A E, mês VII, fica a 6 da média. Gabarito: D.",
+  "hash": "31726427fac46957",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q145": {
+  "explicacao": "A questão pede o número mínimo de contratações de pessoas reabilitadas ou com deficiência para a empresa cumprir a lei. Com 1.200 funcionários, a empresa está na faixa de 1.001 em diante, que exige 5%. O detalhe importante é que cada contratação aumenta o total de empregados. Seja x o número de contratados: o total passa a 1.200 + x e o número de beneficiários passa a 10 + x. A condição é 10 + x ≥ 0,05 × (1.200 + x). Desenvolvendo: 10 + x ≥ 60 + 0,05x, então 0,95x ≥ 50, e x ≥ 50 ÷ 0,95 ≈ 52,63. Como x é inteiro, o mínimo é 53. Conferindo: 1.253 funcionários × 5% = 62,65, e 10 + 53 = 63 ≥ 62,65. A alternativa A não corresponde a um cálculo correto da exigência legal. A B (70) soma os 10 já empregados aos 60 em vez de descontá-los. A C também não resulta de um cálculo coerente. A D é 5% de 1.200 sem descontar os 10 já empregados. Gabarito: E.",
+  "hash": "2294688ce6d13c74",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q146": {
+  "explicacao": "A questão pede o preço de venda de cada picolé no segundo dia para obter lucro 20% maior que o do primeiro. Em cada dia a pessoa compra 4 caixas de 20 picolés, ou seja, 4 × 20 = 80 picolés, pagando 4 × R$ 16,00 = R$ 64,00. No primeiro dia o lucro foi de R$ 40,00. No segundo, o lucro desejado é 20% maior: 40 × 1,2 = R$ 48,00. Como lucro = receita − custo, a receita precisa ser 64 + 48 = R$ 112,00. Dividindo pelos 80 picolés: 112 ÷ 80 = R$ 1,40 por picolé. A alternativa A (R$ 0,96) aplica os 20% sobre o custo unitário de R$ 0,80 (0,80 × 1,2). A B não corresponde ao cálculo correto. A D não considera corretamente o lucro desejado. A E (R$ 1,56) aplica os 20% sobre o preço do primeiro dia, que era 104 ÷ 80 = R$ 1,30 (1,30 × 1,2 = 1,56), aumentando também a parte do custo. Gabarito: C.",
+  "hash": "d191d4ed7d4e03b9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q147": {
+  "explicacao": "A questão pede o número de maneiras de escolher 2 dos 10 tenistas sem que ambos sejam canhotos. A ordem dos jogadores não importa, então usamos combinação. Total de duplas possíveis: C(10,2) = 10!/(2! × 8!) = 45. Duplas proibidas, com os dois canhotos: C(4,2) = 4!/(2! × 2!) = 6. Pelo princípio da exclusão, o número de escolhas válidas é 45 − 6 = 39, que é exatamente a expressão da alternativa A. Conferindo por outro caminho: duplas de dois destros C(6,2) = 15, mais duplas de um destro e um canhoto 6 × 4 = 24, total 39. A alternativa B usa arranjos (10!/8! e 4!/2!), contando a ordem, o que não faz sentido aqui. A C subtrai apenas 2, como se houvesse só uma ou duas duplas de canhotos. A D usa arranjo de destros (6!/4! = 30) e 4 × 4 no lugar de 6 × 4. A E usa 6!/4! = 30 em vez de C(6,2) = 15, contando duplas de destros em dobro. Gabarito: A.",
+  "hash": "21f29394eef147e9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q148": {
+  "explicacao": "A questão pede o número representado no ábaco cujos adesivos estão fora da ordem usual. Da esquerda para a direita, os adesivos são U, CM, D, M, C e DM. Contando as argolas em cada haste: U tem 1 argola; CM tem 4; D tem 7; M tem 0 (haste vazia); C tem 1; DM tem 6. Agora montamos o número na ordem correta das posições, da maior para a menor: CM = 4, DM = 6, M = 0, C = 1, D = 7, U = 1. O número é 460 171. A alternativa A (46 171) esquece o zero da unidade de milhar. A B (147 016) lê as hastes da direita para a esquerda, como se a disposição fosse a usual. A C (171 064) lê as hastes da esquerda para a direita, ignorando os adesivos. A E (610 741) troca as posições de centena e dezena de milhar e de outras ordens. Gabarito: D.",
+  "hash": "369ca27f97a99417",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q149": {
+  "explicacao": "A questão pede como deve mudar o coeficiente angular da reta de B para que B intercepte A na altura máxima de A. No gráfico, a parábola de A atinge o vértice em t = 4 s, com altura de 16 m. A reta de B passa pela origem e por pontos como (1, 2), (2, 4) e (4, 8); logo, seu coeficiente angular atual é 8 ÷ 4 = 2 m/s. Hoje, em t = 4 s, B está a apenas 8 m, abaixo do ponto máximo de A. Para que B passe por (4, 16), partindo da origem, o novo coeficiente angular deve ser 16 ÷ 4 = 4. A variação é 4 − 2 = 2, ou seja, o coeficiente deve aumentar em 2 unidades. A alternativa A e a B propõem diminuir, o que faria B ficar ainda mais baixa. A D confunde o novo coeficiente (4) com o aumento necessário. A E não corresponde a nenhum cálculo coerente com o gráfico. Gabarito: C.",
+  "hash": "9fd20e3470645092",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q150": {
+  "explicacao": "A questão pede a expressão do custo para revestir uma parede de área A a D metros da fonte. A espessura e é inversamente proporcional ao quadrado da distância: e = k ÷ D². O volume do revestimento é área × espessura: V = A × k ÷ D². O custo é diretamente proporcional ao volume, então C = c × A ÷ D², em que c é uma constante. Usando o dado do enunciado (A = 9 m², D = 3 m, custo R$ 500,00): 500 = c × 9 ÷ 3² = c × 9 ÷ 9 = c. Logo, c = 500 e o custo é C = 500A ÷ D². A alternativa A inverte a dependência e acrescenta 81 sem justificativa. A C coloca D² no numerador e A no denominador, invertendo as duas proporções. A D trata o custo como diretamente proporcional a D², o contrário do enunciado. A E também põe D² no numerador. Gabarito: B.",
+  "hash": "4b24ebbab2f7c1d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q151": {
+  "explicacao": "A questão pede o aumento percentual da altura da menina entre 3 anos e 4 anos e 4 meses. Aos 3 anos, ela tinha 85 cm. No gráfico, localizamos 4 anos e 4 meses no eixo horizontal (4 meses depois da linha de 4 anos) e subimos até a curva p50: nesse ponto, a altura é 105 cm. O aumento foi de 105 − 85 = 20 cm. Em porcentagem, em relação à altura inicial: 20 ÷ 85 ≈ 0,2353, ou seja, 23,5%. A alternativa B (21,2%) e a C (19,0%) resultariam de ler alturas erradas na curva, ou de dividir por um valor diferente da altura inicial (20 ÷ 105 ≈ 19,0%). A D e a E correspondem a leituras ainda mais distantes da curva p50 ou de outra idade. O ponto-chave é dividir o aumento pela altura inicial, 85 cm. Gabarito: A.",
+  "hash": "8068fd932506b6b8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q152": {
+  "explicacao": "A questão pede a probabilidade de o adolescente chegar à área IV sem passar por outra área e sem retornar, escolhendo caminhos ao acaso. Na entrada há uma bifurcação com 2 opções. Caminho de cima: escolhe subir (½); na ramificação seguinte há 2 opções, seguir em frente ou ir para III (½ para seguir); no cruzamento superior há 3 opções, I, V ou IV (⅓ para IV). Probabilidade: ½ × ½ × ⅓ = 1/12. Caminho de baixo: escolhe descer (½); na ramificação para II há 2 opções (½ para seguir); depois, na ramificação para III, outras 2 opções (½ para seguir rumo a IV). Probabilidade: ½ × ½ × ½ = 1/8. Como são caminhos excludentes, somamos: 1/12 + 1/8 = 2/24 + 3/24 = 5/24. A alternativa A (1/96) multiplica as duas probabilidades em vez de somá-las. A B (1/64) também combina os ramos de forma errada. A D (¼) considera só um ramo com escolhas incorretas. A E (5/12) esquece uma das bifurcações. Gabarito: C.",
+  "hash": "fbfc71081cdbf250",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q153": {
+  "explicacao": "A questão pede o total de funcionários contratados segundo a regra baseada na média de casos. Somando os casos da tabela: 237 + 262 + 158 + 159 + 160 + 278 + 300 + 278 = 1.832. Média por região: 1.832 ÷ 8 = 229. Regiões acima de 229: Oeste (237), Centro (262), Leste (278), Centro-Oeste (300) e Centro-Sul (278), totalizando 5 regiões, com 10 funcionários cada: 5 × 10 = 50. Regiões com casos menores ou iguais a 229: Norte (158), Sul (159) e Noroeste (160), totalizando 3 regiões, com 7 funcionários cada: 3 × 7 = 21. Total: 50 + 21 = 71 funcionários. A alternativa A (59) e a C (68) resultam de classificar regiões erradamente em relação à média. A B (65) inverte a distribuição, dando 10 funcionários às 3 regiões abaixo da média e 7 às 5 acima (30 + 35). A E (80) dá 10 funcionários a todas as 8 regiões. Gabarito: D.",
+  "hash": "dc58c6625d9f5e30",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q154": {
+  "explicacao": "A questão pede a marca de pão com maior concentração de fibras, isto é, maior razão massa de fibra ÷ massa de pão. Calculando: marca A, 2 ÷ 50 = 0,04 (4%); marca B, 5 ÷ 40 = 0,125 (12,5%); marca C, 5 ÷ 100 = 0,05 (5%); marca D, 6 ÷ 90 ≈ 0,067 (6,7%); marca E, 7 ÷ 70 = 0,10 (10%). A maior concentração é a da marca B, 12,5%. A alternativa A tem a menor concentração. A C tem 5 g de fibra, como a B, mas em uma massa de pão bem maior. A D tem a maior quantidade absoluta de fibras depois da E, mas diluída em 90 g. A E tem a maior quantidade absoluta de fibras (7 g), porém concentração de apenas 10%. O erro comum é comparar só a massa de fibras, sem dividir pela massa de pão. Gabarito: B.",
+  "hash": "0eb18c218dddfc0c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q155": {
+  "explicacao": "A questão pede o esboço da vista lateral da cadeira dobrável depois de fechada. A cadeira da figura é do tipo diretor: as pernas se cruzam em X na frente e atrás, e o assento é de lona. Ao fechar, o X se recolhe e as pernas ficam praticamente verticais e paralelas, enquanto o assento de lona se dobra para cima e fica entre as laterais. Vista de lado, a cadeira fechada mostra o encosto vertical no alto, o braço horizontal, o assento recolhido como uma faixa entre as barras verticais e as pernas retas descendo até o chão, com a travessa inferior. É exatamente esse perfil estreito e vertical que aparece no esboço da alternativa C. As demais alternativas mostram vistas que não correspondem à cadeira fechada, como pernas ainda cruzadas ou abertas, ou partes (assento, braços, encosto) em posições que só ocorrem com a cadeira aberta. Gabarito: C.",
+  "hash": "50361a317d0d0347",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q156": {
+  "explicacao": "A questão pede o número de policiais necessários no início do evento, às 16 h. Às 10 h, a área ocupada é um quadrado de lado 500 m: 500 × 500 = 250.000 m². Com densidade de 4 pessoas por m², há 250.000 × 4 = 1.000.000 de pessoas. Das 10 h às 16 h passam 6 horas, e o público cresce 120.000 pessoas por hora: 6 × 120.000 = 720.000 pessoas a mais. Total no início do evento: 1.000.000 + 720.000 = 1.720.000 pessoas. Como é preciso 1 policial para cada 2.000 pessoas: 1.720.000 ÷ 2.000 = 860 policiais. A alternativa A (360) considera só as 720.000 pessoas que chegam depois das 10 h. A B (485) esquece a densidade, usando 250.000 + 720.000. A C (560) e a D (740) contam apenas 1 ou 4 horas de chegada de público. Gabarito: E.",
+  "hash": "f240ae3b270e0c5c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q157": {
+  "explicacao": "A questão pede o lucro mínimo em junho para que a média do semestre seja de pelo menos 30 mil reais. Para média 30 em 6 meses, a soma precisa ser no mínimo 6 × 30 = 180 mil reais. Somando os lucros de janeiro a maio do quadro: 21 + 35 + 21 + 30 + 38 = 145 mil reais. O lucro de junho deve ser 180 − 145 = 35 mil reais. Conferindo: (145 + 35) ÷ 6 = 180 ÷ 6 = 30. A alternativa A (26) e a B (29, que é a média dos cinco meses, 145 ÷ 5) não garantem a média exigida. A C (30) confunde o valor da média com o lucro necessário em junho. A D (31) também é insuficiente, pois daria média de 176 ÷ 6 ≈ 29,3. Gabarito: E.",
+  "hash": "30bc24cc1dda194e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q158": {
+  "explicacao": "A questão pede quanto tempo, após o sexto mês, o reservatório leva para chegar a nível zero, mantida a tendência linear. No gráfico, o nível cai de 30% no mês 1 para 26%, 22%, 18%, 14% e 10% no mês 6. A queda é constante: 4 pontos percentuais por mês (de 30% para 10% em 5 meses: 20 ÷ 5 = 4). No sexto mês, restam 10%. Tempo para zerar: 10 ÷ 4 = 2,5 meses, ou seja, 2 meses e meio. A alternativa B (3 meses e meio) resulta de calcular errado a taxa de queda ou somar um mês a mais. A C (1 mês e meio) e a E (1 mês) subestimam o tempo, como se a queda fosse maior. A D (4 meses) poderia vir de contar desde o mês 5 ou de usar uma taxa de 2,5% ao mês. Gabarito: A.",
+  "hash": "c0409d1c9cd96cd9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q159": {
+  "explicacao": "A questão pede quantas vacinas o posto deve comprar no início do sexto mês. Primeiro, o total aplicado nos cinco meses: 21 + 22 + 25 + 31 + 21 = 120 vacinas. Média mensal: 120 ÷ 5 = 24. O estoque desejado é 12 vezes a média: 12 × 24 = 288 vacinas. O posto começou com 228 vacinas e aplicou 120, então no início do sexto mês tem 228 − 120 = 108 em estoque. Precisa comprar 288 − 108 = 180 vacinas. A alternativa A (156) não corresponde ao cálculo correto do estoque restante. A C (192) e a D (264) resultam de erros na média ou no estoque. A E (288) é o estoque desejado, esquecendo que ainda há 108 vacinas no posto. Gabarito: B.",
+  "hash": "fab9163db54aeae6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q160": {
+  "explicacao": "A questão pede o tempo, em horas, para a liga cair de 3.000 °C a 30 °C, perdendo 1% da temperatura a cada 30 min. A cada período de 30 min, a temperatura é multiplicada por 0,99. Após n períodos: T = 3.000 × 0,99ⁿ. Queremos 30 = 3.000 × 0,99ⁿ, ou seja, 0,99ⁿ = 0,01. Aplicando log: n × log 0,99 = log 0,01 = −2. Calculando log 0,99 = log(99/100) = log(9 × 11) − 2 = 2 × log 3 + log 11 − 2 = 2 × 0,477 + 1,041 − 2 = 0,954 + 1,041 − 2 = −0,005. Então n = −2 ÷ (−0,005) = 400 períodos de 30 min. Em horas: 400 × 0,5 = 200 h. A alternativa A (22) e a B (50) subestimam muito o tempo, talvez tratando a queda como linear ou errando o logaritmo. A C (100) divide por 4 em vez de 2. A E (400) é o número de períodos de meia hora, não de horas. Gabarito: D.",
+  "hash": "6708b303a8b38dac",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q161": {
+  "explicacao": "A questão pede o volume de petróleo derramado após um furo no fundo do compartimento C. O reservatório tem 60 m × 10 m de base e 10 m de altura, dividido em três compartimentos iguais, cada um com 20 m × 10 m de base. As placas divisórias têm só 7 m de altura, então os compartimentos se comunicam acima delas. Com o furo no fundo de C, todo o petróleo de C vaza: 20 × 10 × 10 = 2.000 m³. Em A e B, o petróleo que está acima de 7 m passa por cima das placas e escoa para C, saindo pelo furo; o que está abaixo de 7 m fica retido. Em cada um, sai uma camada de 3 m: 20 × 10 × 3 = 600 m³; para A e B, 2 × 600 = 1.200 m³. Total: 2.000 + 1.200 = 3.200 m³ = 3,2 × 10³ m³. A alternativa A considera um cálculo parcial. A B esquece parte das camadas. A C conta apenas o compartimento C. A E considera o reservatório inteiro (60 × 10 × 10 = 6.000 m³). Gabarito: D.",
+  "hash": "96aad61785363ba0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q162": {
+  "explicacao": "A questão pede o mês de plantio que satisfaz as três condições entre ele e o mês seguinte: variação de chuva até 50 mm, temperatura mínima acima de 15 °C nos dois meses e leve aumento, de no máximo 5 °C, na temperatura máxima. No gráfico, de janeiro para fevereiro de 2013: a chuva passa de cerca de 143 mm para cerca de 130 mm (variação de uns 13 mm); as mínimas ficam por volta de 20 °C e 21 °C, acima de 15 °C; a máxima sobe de cerca de 27 °C para cerca de 29 °C, aumento leve de uns 2 °C. Todas as condições são atendidas. A alternativa B falha porque de fevereiro para março a máxima cai. A C falha porque de agosto para setembro a chuva salta de cerca de 37 mm para 148 mm e a mínima de agosto não passa de 15 °C. A D falha porque de novembro para dezembro a máxima diminui. A E falha porque de dezembro para janeiro a chuva cai cerca de 70 mm. Gabarito: A.",
+  "hash": "f0a1e568ea5457c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q163": {
+  "explicacao": "A questão pede a ordem das densidades dos corpos A, B e C. Chamemos de m a massa de C e de v o volume de C. Massa de B: ¾ de m = 0,75m. Massa de A: 1,5 × 0,75m = 1,125m. Volume de A = volume de B = 20% maior que o de C = 1,2v. Densidades: d_C = m ÷ v = 1 × (m/v); d_B = 0,75m ÷ 1,2v = 0,625 × (m/v); d_A = 1,125m ÷ 1,2v = 0,9375 × (m/v). Ordenando: 0,625 < 0,9375 < 1, ou seja, d_B < d_A < d_C. A alternativa B iguala d_A e d_B, mas A tem massa maior com o mesmo volume. A C coloca C como o menos denso, quando é o mais denso. A D e a E põem A como o mais denso, ignorando que seu volume é 20% maior que o de C e sua massa só 12,5% maior. Gabarito: A.",
+  "hash": "b652959489436c1e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q164": {
+  "explicacao": "A questão pede a distância máxima que o carro pode percorrer antes de reabastecer, parando num posto. O marcador mostra o ponteiro sobre a marca de ¾ do tanque (entre a metade e o cheio). Como o tanque comporta 50 L, há ¾ × 50 = 37,5 L de combustível. Com rendimento de 15 km/L, a autonomia é 37,5 × 15 = 562,5 km. Os postos ficam a 150, 187, 450, 500 e 570 km. O carro não consegue chegar ao posto de 570 km, pois 570 > 562,5. O posto mais distante que ele alcança é o de 500 km, então essa é a máxima distância até reabastecer. A alternativa A (570) ultrapassa a autonomia e deixaria o carro sem combustível. A C (450), a D (187) e a E (150) são postos alcançáveis, mas não a maior distância possível antes de reabastecer. Gabarito: B.",
+  "hash": "1cc0b854e916bcd2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q165": {
+  "explicacao": "A questão pede o número de andares do edifício, sabendo que exatamente 20 andares receberam os dois reparos. João trabalhou nos andares 1, 3, 5, 7, ... (ímpares, de 2 em 2) e Pedro nos andares 1, 4, 7, 10, ... (de 3 em 3, começando em 1). Os andares comuns às duas sequências formam outra progressão aritmética, começando em 1 e com razão igual ao MMC(2, 3) = 6: 1, 7, 13, 19, ... O n-ésimo termo é aₙ = 1 + (n − 1) × 6. Como ambos terminaram no último andar, esse andar é comum aos dois e é o 20º termo: a₂₀ = 1 + 19 × 6 = 1 + 114 = 115. Conferindo: 115 é ímpar (João) e 115 = 1 + 3 × 38 (Pedro). A alternativa A (40) e a B (60) são pares, logo João não teria trabalhado nesses andares. A C (100) também é par. A E (120) é múltiplo de 6, par, e não pertence a nenhuma das duas sequências. Gabarito: D.",
+  "hash": "ac4d1bd4c24b4294",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q166": {
+  "explicacao": "A questão pede o menor tempo para construir a galeria de F até B, comparando o trajeto em linha reta com o semicircular. Na figura, F = (−1, 1) e B = (1, −1). Segmento de reta: distância = √[(1 − (−1))² + (−1 − 1)²] = √(4 + 4) = √8 = 2√2 ≈ 2 × 1,4 = 2,8 km = 2.800 m. A 1,0 h por metro, o tempo é 2.800 h. Semicircunferência: o segmento FB é o diâmetro e passa pela origem, então o raio é √2 ≈ 1,4 km. Comprimento da semicircunferência = π × r ≈ 3 × 1,4 = 4,2 km = 4.200 m. A 0,6 h por metro: 4.200 × 0,6 = 2.520 h. O menor tempo é 2.520 h, pelo trajeto semicircular, embora seja mais longo. A alternativa A (1.260) usa só metade do arco. A C (2.800) é o tempo da linha reta. A D e a E não correspondem a cálculos corretos com os dados, como aplicar 1,0 h/m ao arco (4.200 h) ou errar o raio. Gabarito: B.",
+  "hash": "641f9c36397ee2c6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q167": {
+  "explicacao": "A questão pede a área frontal da tampa, que tem o formato do arco de parábola y = 9 − x². A altura da entrada do túnel é o valor máximo de y, que ocorre em x = 0: y = 9 m. A base corresponde aos pontos onde a parábola toca o chão (y = 0): 9 − x² = 0, logo x = −3 ou x = 3, e a base mede 3 − (−3) = 6 m. O retângulo de base 6 m e altura 9 m tem área 6 × 9 = 54 m². A área sob a parábola é ⅔ dessa área: ⅔ × 54 = 36 m². A alternativa A (18) calcula ⅓ do retângulo, que é a área entre a parábola e o retângulo. A B (20) não corresponde a um cálculo coerente. A D (45) também não resulta dos dados. A E (54) é a área do retângulo inteiro, sem aplicar o fator ⅔. Gabarito: C.",
+  "hash": "96b4943924340a64",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q168": {
+  "explicacao": "A questão pede o número de senhas de 4 caracteres com 2 algarismos e 2 letras, em qualquer posição, diferenciando maiúsculas e minúsculas. Primeiro, escolhemos as posições: dentre as 4, quais 2 serão algarismos (as outras 2 serão letras). Isso é uma permutação com repetição de 4 elementos com dois tipos repetidos: 4!/(2! × 2!) = 6 maneiras. Depois, cada posição de algarismo tem 10 opções: 10 × 10 = 10². Cada posição de letra tem 26 minúsculas + 26 maiúsculas = 52 opções: 52 × 52 = 52². Total: 10² × 52² × 4!/(2! × 2!). A alternativa A e a B esquecem que as posições podem variar, e a A ainda ignora as maiúsculas. A C usa 4!/2!, que trata os dois tipos de caractere de modo errado (dá 12 em vez de 6). A D usa 26² em vez de 52², ignorando a distinção entre maiúsculas e minúsculas. Gabarito: E.",
+  "hash": "139f6a6642279e80",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q169": {
+  "explicacao": "A questão pede qual deve ser o percentual da massa salarial recebido pelos 10% mais bem pagos para que o Índice de Gini seja 0,3. No gráfico, A + B é a área do triângulo abaixo da diagonal: 100 × 100 ÷ 2 = 5.000. Para Gini = A/(A + B) = 0,3, temos A = 0,3 × 5.000 = 1.500 e, portanto, B = 5.000 − 1.500 = 3.500. Seja y a ordenada de P (o percentual recebido pelos 90% de menor salário). B é composta por um triângulo de base 90 e altura y, com área 90y ÷ 2 = 45y, e um trapézio entre x = 90 e x = 100, com bases y e 100 e altura 10, com área (y + 100) × 10 ÷ 2 = 5y + 500. Então 45y + 5y + 500 = 3.500, ou seja, 50y = 3.000 e y = 60. Os 90% de menor salário recebem 60% da massa, logo os 10% de maior salário recebem 100% − 60% = 40%. A alternativa C (60%) é a parcela dos 90% de menor salário. A B, a D e a E não satisfazem a equação de áreas. Gabarito: A.",
+  "hash": "3aad50846fbb351d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q170": {
+  "explicacao": "A questão pede a moda do número de pessoas no elevador durante a subida. Moda é o valor que mais se repete. O ascensorista parte do térreo com mais três pessoas, o que corresponde às 4 entradas registradas no térreo. Calculando quantas pessoas ficam no elevador após cada parada (entram menos saem): térreo, 4; 1º andar, 4 + 4 − 3 = 5; 2º andar, 5 + 1 − 1 = 5; 3º andar, 5 + 2 − 2 = 5; 4º andar, 5 + 2 − 0 = 7; 5º andar, 7 + 2 − 6 = 3. A sequência é 4, 5, 5, 5, 7, 3, e o valor que mais aparece é 5. A alternativa A (2) é o valor mais frequente na linha de entradas do quadro, e não o número de pessoas no elevador. A B (3) é o número no 5º andar. A C (4) é a lotação inicial. A E (6) é o número dos que saem no 5º andar. Gabarito: D.",
+  "hash": "a29bcf996597d39c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q171": {
+  "explicacao": "A questão pede o aumento percentual da população nas capitais do Nordeste entre 1940 e 2000. Na tabela, a população das capitais nordestinas era 1.270.729 em 1940 e 10.162.346 em 2000. A razão entre os valores é 10.162.346 ÷ 1.270.729 ≈ 8,0, ou seja, a população ficou cerca de 8 vezes maior. O aumento percentual é (8 − 1) × 100% = 700%. Também é possível calcular: aumento = 10.162.346 − 1.270.729 = 8.891.617; 8.891.617 ÷ 1.270.729 ≈ 7,0, isto é, 700%. A alternativa A (125%) e a B (231%) correspondem a outras regiões ou colunas, como o total do Nordeste (47,7 ÷ 14,4 ≈ 3,31, aumento de 231%). A C (331%) é a razão do total do Nordeste expressa em porcentagem, e não o aumento nas capitais. A E (800%) confunde a razão (8 vezes) com o aumento, que é 700%. Gabarito: D.",
+  "hash": "97bc72181d4e92c3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q172": {
+  "explicacao": "A questão pede o diâmetro da serra copo tal que nenhuma outra peça caiba no furo circular e a peça circular não caiba nos outros furos. Primeira condição, a peça circular não pode caber nos outros furos: o maior círculo que cabe no quadrado de lado 4 tem diâmetro 4 cm; no retângulo 3 × 4, diâmetro 3 cm; no triângulo equilátero de lado 6,8, o diâmetro do círculo inscrito é 6,8 × √3 ÷ 3 ≈ 6,8 × 1,7 ÷ 3 ≈ 3,85 cm. Logo, o diâmetro deve ser maior que 4 cm. Segunda condição, as outras peças não podem caber no círculo: a peça quadrada cabe se o diâmetro for pelo menos sua diagonal, 4√2 ≈ 5,6 cm; a retangular cabe se o diâmetro for pelo menos sua diagonal, √(3² + 4²) = 5 cm. Então o diâmetro deve ser menor que 5 cm. O único valor entre 4 e 5 cm é 4,7 cm, a serra II. A alternativa A (3,8 cm) deixa a peça circular caber no furo quadrado. A C (5,6 cm), a D e a E deixam a peça retangular (e, a partir de 5,6, a quadrada) caber no círculo. Gabarito: B.",
+  "hash": "3e18eb2818389d31",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q173": {
+  "explicacao": "A questão pede quantas vezes, em uma semana, os níveis de A e B são iguais e maiores que o nível mínimo de A. No gráfico de 24 h, as curvas se cruzam quatro vezes. Duas dessas interseções ocorrem exatamente sobre a linha tracejada, que marca o nível mínimo de A (por volta de 6 h e 18 h); como o nível ali é igual ao mínimo, e não maior, elas não contam. As outras duas interseções (por volta de 3 h e 16 h) ficam acima da linha tracejada e contam. Assim, há 2 ocorrências válidas por dia. Como o padrão se repete, em uma semana temos 2 × 7 = 14. A alternativa A (28) conta todas as quatro interseções diárias. A B (21) conta três por dia. A C (2) considera apenas um dia. A D (7) considera só uma interseção por dia. Gabarito: E.",
+  "hash": "d44782a69c5348ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q174": {
+  "explicacao": "A questão pede o número de gotas por minuto após as quatro primeiras horas. O volume total é 5 × 800 = 4.000 mL. Nas primeiras 4 h, o paciente recebe 40%: 0,4 × 4.000 = 1.600 mL. Restam 4.000 − 1.600 = 2.400 mL para as 20 h seguintes. Em minutos: 20 × 60 = 1.200 min. Vazão: 2.400 ÷ 1.200 = 2 mL por minuto. Como cada mL tem 12 gotas: 2 × 12 = 24 gotas por minuto. A alternativa A (16) aplica os 1.600 mL das primeiras horas ao período de 20 h (1.600 × 12 ÷ 1.200). A B (20) não corresponde ao cálculo correto. A D (34) aproxima o gotejamento médio de todo o período (4.000 × 12 ÷ 1.440 ≈ 33,3). A E (40) também não resulta dos dados corretamente combinados. Gabarito: C.",
+  "hash": "3dcc43f66027b299",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q175": {
+  "explicacao": "A questão pede quais polígonos podem surgir da interseção de um plano com uma pirâmide regular de base quadrada. A pirâmide tem 5 faces (a base e 4 triângulos laterais), e cada lado do polígono de seção está em uma face; então o polígono pode ter de 3 a 5 lados. Triângulos: um plano que corta três faces perto do vértice, ou que passa pelo vértice e por uma diagonal da base. Quadrados: plano paralelo à base. Trapézios: plano que corta a base e passa paralelo a uma de suas arestas. Quadriláteros irregulares: planos inclinados que cortam quatro faces laterais sem paralelismo especial. Pentágonos: plano inclinado que corta a base e as quatro faces laterais, por exemplo cortando duas arestas da base adjacentes e subindo pelas faces. Hexágonos ou mais são impossíveis, pois só há 5 faces. A alternativa A, a B, a C e a D estão incompletas, pois deixam de fora tipos possíveis, em especial o pentágono. Gabarito: E.",
+  "hash": "22ed3b1ec11b8cf2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q176": {
+  "explicacao": "A questão pede o intervalo em que o reservatório enche com vazão constante. A vazão líquida de enchimento é a vazão da torneira menos a do ralo, e ela precisa ser positiva e constante. Pelos gráficos: de 0 a 5 min, a torneira dá 20 L/min, mas o ralo cresce de 0 a 5 L/min, então a vazão líquida varia. De 5 a 10 min, a torneira dá 20 L/min e o ralo 5 L/min, ambos constantes: vazão líquida de 20 − 5 = 15 L/min, constante e positiva. De 10 a 15 min, a torneira cai de 20 para 5, logo a vazão líquida diminui. De 15 a 20 min, a torneira dá 5, mas o ralo sobe de 5 para 20: o reservatório passa a esvaziar. De 20 a 25 min, a torneira cai e o ralo dá 20: esvazia com vazão variável. A alternativa A inclui o trecho de 0 a 5, em que o ralo varia. A C inclui de 10 a 15, quando a torneira diminui. A D e a E incluem trechos de esvaziamento ou de variação. Gabarito: B.",
+  "hash": "22150a49e1ca08f6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q177": {
+  "explicacao": "A questão pede o bairro com maior LIRAa, isto é, maior percentual de imóveis com focos. Calculando: bairro I, 14 ÷ 400 = 0,035 = 3,5%; bairro II, 6 ÷ 500 = 0,012 = 1,2%; bairro III, 13 ÷ 520 = 0,025 = 2,5%; bairro IV, 9 ÷ 360 = 0,025 = 2,5%; bairro V, 15 ÷ 500 = 0,03 = 3%. O maior índice é o do bairro I, com 3,5%. A alternativa B tem o menor índice. A C e a D empatam com 2,5%. A E tem o maior número absoluto de imóveis com focos (15), mas um índice de 3%, menor que o do bairro I; o erro comum é comparar apenas os números absolutos. Gabarito: A.",
+  "hash": "52185d949010aeb5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q178": {
+  "explicacao": "[REVISAR] As alternativas extraídas perderam os desenhos e aparecem só como letras soltas (A B C), sem a forma de cada projeção. A questão pede a projeção ortogonal, no plano α (paralelo ao equador), do caminho A → B → C. O trecho de A a B está sobre um paralelo, que é uma circunferência contida em um plano paralelo a α. Por isso, sua projeção conserva a forma: é um arco de circunferência centrado na projeção do eixo da Terra. O trecho de B a C está sobre um meridiano, que fica num plano que contém o eixo da Terra e é perpendicular a α. A projeção de uma curva contida num plano perpendicular a α é um segmento de reta. Como C está numa latitude maior que B, mais perto do eixo, o segmento vai de B em direção ao centro da circunferência. A projeção correta é, portanto, um arco de A até B seguido de um segmento radial de B até C, dirigido para o centro. As outras alternativas representam o trecho do meridiano como curva ou o trecho do paralelo como segmento reto, o que não corresponde à projeção ortogonal. Gabarito: E.",
+  "hash": "b64b6a7ea736961a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q179": {
+  "explicacao": "A questão pede o filtro descartado, aquele com maior razão entre massa de contaminantes não capturados e número de dias. Calculando: F1, 18 ÷ 6 = 3 mg/dia; F2, 15 ÷ 3 = 5 mg/dia; F3, 18 ÷ 4 = 4,5 mg/dia; F4, 6 ÷ 3 = 2 mg/dia; F5, 3 ÷ 2 = 1,5 mg/dia. A maior razão é a do F2, com 5 mg por dia, ou seja, o pior desempenho. A alternativa A e a C têm a maior massa absoluta (18 mg), mas distribuída em mais dias, o que reduz a razão. A D e a E têm as menores razões, sendo os melhores filtros. O erro comum é olhar só a massa total, sem dividir pelo número de dias. Gabarito: B.",
+  "hash": "187d573edd21d78a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q180": {
+  "explicacao": "A questão pede a relação entre as energias E₁ (Japão, magnitude 9,0) e E₂ (China, magnitude 7,0), usando M = ⅔ · log(E/E₀). Escrevemos as duas equações: 9 = ⅔ · log(E₁/E₀) e 7 = ⅔ · log(E₂/E₀). Subtraindo a segunda da primeira: 9 − 7 = ⅔ · [log(E₁/E₀) − log(E₂/E₀)]. Pela propriedade do quociente, log(E₁/E₀) − log(E₂/E₀) = log(E₁/E₂). Então 2 = ⅔ · log(E₁/E₂), e log(E₁/E₂) = 2 × 3/2 = 3. Logo, E₁/E₂ = 10³, ou seja, E₁ = 10³ · E₂. Um terremoto 2 pontos maior libera mil vezes mais energia. A alternativa A soma 2 às energias, confundindo a diferença de magnitudes com diferença de energias. A B esquece o fator ⅔ e usa 10². A D traz outra relação que não resulta da equação. A E supõe proporção direta entre energia e magnitude. Gabarito: C.",
+  "hash": "22cb14817c5ff715",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q91-esp": {
+  "explicacao": "A questão pede o sentido da expressão “una de cal y otra de arena” na fala de Estela Carlotto. A expressão espanhola equivale ao nosso “uma no cravo, outra na ferradura”: dar uma no lado bom e outra no ruim, agradar a todos ao mesmo tempo. Carlotto a reforça com “querer quedar bien con Dios y con el diablo” e depois explica o que a incomodou: o tribunal autorizou a coleta do DNA, mas limitou a comparação a um grupo restrito de famílias. Ela pergunta por que, em todos os outros casos, se usou o Banco de Dados Genéticos completo e neste não, e conclui que “hay de primera y de segunda”. Ou seja, a fala ironiza a parcialidade da Justiça, que trata esse caso (envolvendo a dona do Clarín) de forma diferenciada. A alternativa A fala da demora na aplicação, que é dita pelo jornalista, não pela expressão. A B e a E apontam firmeza da decisão, o oposto da ideia de ambiguidade. A D está errada porque Carlotto aprova a coleta; critica apenas a limitação. Gabarito: C.",
+  "hash": "290c7ba0a1d80fb2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q91-ing": {
+  "explicacao": "A questão pede qual perspectiva tecnológica o texto considera mais promissora no momento. O texto apresenta uma bio-ink (tinta biológica) desenvolvida na Austrália para imprimir tecido humano vivo em impressora a jato de tinta, gota a gota. Em seguida, faz a ressalva com “However”: ainda é quase impossível reproduzir estruturas complexas como o fígado (glóbulos) ou o rim (pirâmides), que exigiriam impressoras 3D. A frase final é a chave: “At the moment, skin and other flat tissues are most promising for the inkjet”, ou seja, no momento o mais promissor é produzir pele e tecidos finos (planos) com essa tinta. Isso corresponde exatamente à alternativa C. A alternativa A erra ao chamar a tinta de produto natural para reparar tecidos em geral. A B inventa mapas cirúrgicos. A D cita a impressão 3D de rins, que o texto apresenta como ainda inviável. A E fala em extrair glóbulos do fígado, o que o texto não menciona; os glóbulos aparecem apenas para descrever a estrutura do órgão. Gabarito: C.",
+  "hash": "bbec84bd31db54d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q92-esp": {
+  "explicacao": "A questão pede o efeito da transformação de um gesto cotidiano, ganhar um relógio, em literatura. Cortázar inverte a lógica do presente: quem ganha o relógio passa a ganhar também obrigações (dar corda todos os dias, conferir a hora exata), medos (perdê-lo, ser roubado, quebrá-lo) e até a vaidade de comparar a marca com a dos outros. O objeto passa a dominar o dono. A frase final resume a ideia: “No te regalan un reloj, tú eres el regalado, a ti te ofrecen para el cumpleaños del reloj”. O ser humano vira a coisa oferecida, e o objeto vira o sujeito. Isso é a coisificação do ser humano, convite à reflexão sobre como os objetos nos aprisionam. A alternativa A é falsa: o texto elogia a qualidade do relógio suíço e não compara épocas. A B fica na superfície literal e ignora a crítica. A D fala da efemeridade do tempo, mas o foco é a relação de dependência com o objeto. A E erra porque o texto não critica o leitor; ele o faz refletir. Gabarito: C.",
+  "hash": "52fcd2bc90e0df72",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q92-ing": {
+  "explicacao": "A questão pede o que o leitor encontra ao acessar o endereço citado no cartaz. O cartaz lista grandes catástrofes (pandemia de gripe, 11 de setembro, terremoto no Haiti, furacão Katrina, Chernobyl) e pergunta: “Connecticut? Would you know what to do if disaster struck here?”, ou seja, você saberia o que fazer se um desastre acontecesse aqui? Em seguida diz “Learn to live prepared” e “To learn more about living prepared, go to ct.gov/dph/prepare”, mostrando também a capa de um “Connecticut Guide to Emergency Preparedness”. Portanto, o site oferece orientações de preparação, isto é, as medidas a tomar em situações de catástrofe. A alternativa A fala de ações do governo, mas o foco é o que o cidadão deve fazer. A B cita relatos de sobreviventes, não mencionados. A C confunde: os tipos de desastre aparecem no cartaz como exemplos, não como conteúdo do site. A D erra porque os desastres citados ocorreram fora de Connecticut. Gabarito: E.",
+  "hash": "c196c4d4baf62a75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q93-esp": {
+  "explicacao": "A questão pede qual aspecto da cultura popular mexicana o poema reflete. O poema, extraído do livro Sueños mexicanos, interpreta imagens de sonhos com água: sonhar que carrega um cântaro na cabeça anuncia êxito e triunfo; banhar-se em rio de água fervente é presságio (“augurio”) de inimigos e de traição; banhar-se em água suja significa perder alguém próximo. Cada imagem onírica é lida como um anúncio do futuro, o que revela a crença popular na importância dos sonhos como premonições ou conselhos. A alternativa A toma ao pé da letra um elemento do sonho, como se fosse alerta sanitário. A C também literaliza o cântaro, que é só uma imagem sonhada. A D fala em preservação da água, tema ausente. A E destaca apenas um dos significados (os inimigos), sem perceber que o aspecto cultural é a interpretação dos sonhos como um todo. Gabarito: B.",
+  "hash": "1cf71b537c06b375",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q93-ing": {
+  "explicacao": "A questão pede o que a Politecnico di Milano decidiu diante da internacionalização do ensino superior. O texto informa que, a partir de 2014, a maior parte dos cursos, incluindo toda a pós-graduação, será ministrada e avaliada inteiramente em inglês, e não em italiano (“taught and assessed entirely in English rather than Italian”). A justificativa é que, mantendo-se de língua italiana, a universidade correria o risco de isolamento e não conseguiria competir internacionalmente; o reitor afirma que a única forma de ter turmas internacionais é usar o inglês. Logo, a decisão foi substituir a língua nacional para se inserir na globalização. A alternativa A restringe a mudança aos exames de ingresso. A B fala em ampliar vagas para estrangeiros, o que não é dito. A C cita divulgação internacional, também ausente. A E é contrária ao texto, que abandona o italiano como língua de ensino. Gabarito: D.",
+  "hash": "4be03277f840b942",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q94-esp": {
+  "explicacao": "A questão pede o sentido criado pelos termos contraditórios do título “Inestabilidad estable”. Trata-se de um paradoxo: a instabilidade passa a ser a única coisa estável. O texto confirma essa leitura ao dizer que os conselhos de avós, pais, professores, bancos e seguradoras sobre buscar estabilidade e trabalho fixo eram enganosos (“nos estaban dando gato por liebre”), pois o mundo atual nos molda segundo a rentabilidade e nos “liquefaz”, em mudança constante. Assim, o título expressa a permanência da inconstância numa sociedade de contínuas transformações. A alternativa A cita competitividade e lucro, que aparecem no texto, mas não explicam o jogo do título. A B diz o contrário: o autor mostra que a estabilidade é ilusória. A C fala em negação dos valores das gerações anteriores, o que é parte do argumento, mas não o sentido dos dois termos opostos. A D trata de realização pessoal, tema ausente. Gabarito: E.",
+  "hash": "e0e541599ab86728",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q94-ing": {
+  "explicacao": "A questão pede o que Paul McCartney defende na letra. A canção usa a imagem das teclas do piano: o ébano (teclas pretas) e o marfim (teclas brancas) convivem lado a lado em perfeita harmonia. Em seguida vem a pergunta “oh Lord, why don’t we?”, ou seja, por que nós, pessoas, não conseguimos fazer o mesmo? A metáfora das cores remete a negros e brancos, e os versos seguintes reforçam que as pessoas são iguais em qualquer lugar e que precisamos dar uns aos outros o necessário para sobreviver juntos. Trata-se, portanto, de uma defesa do respeito étnico e da convivência harmoniosa entre raças. A alternativa A pega o verso “we learn to live, we learn to give”, mas o aprendizado é meio, não a tese central. A B literaliza o “give” como doação. A C fala de manifestações culturais, sem relação com a letra. A D erra porque a letra diz que há bem e mal em todos, sem defender um contra o outro. Gabarito: E.",
+  "hash": "967509a1bb0abca3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q95-esp": {
+  "explicacao": "A questão pede o sentido da segunda ocorrência do verbo “poner” no grafite. A frase é “No supe qué ponerme y me puse feliz” (não soube o que vestir e fiquei feliz). Na primeira ocorrência, “ponerme” significa vestir uma roupa. Na segunda, “me puse feliz”, o verbo pronominal “ponerse” seguido de adjetivo indica que a pessoa passou a estar em um novo estado, equivalendo ao nosso “ficar” ou “tornar-se”: fiquei feliz. O humor do grafite está justamente nesse jogo: em vez de vestir uma roupa, a pessoa “vestiu” a felicidade, mudou de estado. Logo, o verbo indica mudança de estado. A alternativa A seria o sentido de “ponerse a + infinitivo” (começar a), que não ocorre. A C, conclusão de ideia, não corresponde ao verbo. A D, simultaneidade, também não; as ações são sucessivas. A E, continuidade de processo, seria expressa por outros verbos, como “seguir”. Gabarito: B.",
+  "hash": "ddb0db52836bde9a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q95-ing": {
+  "explicacao": "A questão pede para que serve a expressão “bogof”. O texto explica que BOGOF é um acrônimo, palavra formada pelas iniciais de uma expressão, usado como substantivo (“some great bogofs”) ou adjetivo (“bogof offers”). Ele é apresentado como a mais conhecida das estratégias de marketing dos supermercados, trazida dos EUA na recessão dos anos 1970 e retomada nos anos 1990 pelas grandes redes. A ideia que atraía os consumidores era “get something for nothing”, ganhar algo de graça; o acrônimo corresponde a “buy one, get one free” (compre um, leve outro grátis). Portanto, “bogof” anuncia mercadorias em promoção. A alternativa B confunde com “Bog off!”, expressão de som parecido que significa “vá embora”, citada apenas como curiosidade. A C fala em produtos fora de moda; o “old-fashioned” se refere ao insulto. A D confunde a origem histórica (a recessão) com a função da palavra. A E não tem apoio no texto. Gabarito: A.",
+  "hash": "a5652dfa5dc0101f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q96": {
+  "explicacao": "A questão pede o que torna evidente a função metalinguística no texto. A metalinguagem ocorre quando a linguagem fala de si mesma, ou seja, quando o código ou o próprio processo de comunicação é o assunto. O texto de Marisa Lajolo é um texto sobre leitura: define o que é ler, dizendo que não é decifrar, mas atribuir significado, relacionar com outros textos, reconhecer a leitura pretendida pelo autor e aceitá-la ou rebelar-se contra ela. Como o texto discorre sobre o próprio ato de ler, ele é metalinguístico. A alternativa A cita a intertextualidade, que é apenas um dos aspectos mencionados, não a razão da metalinguagem. A B destaca a possibilidade de leituras não previstas, outro detalhe do conteúdo. A C, ponto de vista da autora, caracteriza qualquer texto opinativo, não a metalinguagem. A E, participação do leitor, também é parte do conteúdo, mas não define a função. Gabarito: D.",
+  "hash": "91286fb983fe9699",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q97": {
+  "explicacao": "A questão pede qual estratégia o texto sugere para evitar os hoaxes. O texto descreve as características típicas desses boatos: em geral são mensagens dramáticas ou alarmantes, acompanhadas de imagens chocantes, que falam de crianças doentes ou avisam sobre falsos vírus. Ao apontar essas marcas e terminar com “Por isso é tão importante ficar atento”, o texto sugere que o leitor observe a linguagem das mensagens recebidas para reconhecer o tom típico de um hoax. A alternativa A é excessiva: o texto não manda recusar todos os jogos e brincadeiras. A C, classificar contatos, não é mencionada. A D fala em programas que identifiquem falsos vírus, recurso técnico ausente no texto. A E generaliza demais: nem toda mensagem que comove é falsa; o texto pede atenção, não desprezo automático. Gabarito: B.",
+  "hash": "04f68c83377f9b0d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q98": {
+  "explicacao": "A questão pede o que o mural Colcha de retalhos, de Claudio Tozzi, convida o público a fazer. A imagem mostra um grande mosaico em um corredor da estação Sé do metrô. A composição imita uma colcha de retalhos: quadrados e retângulos coloridos, com molduras, padrões de listras e pequenos motivos como flores e círculos, lembrando tecidos costurados lado a lado, objeto típico da vida doméstica e popular. Instalado num espaço de passagem diária, o mural leva ao público elementos do cotidiano transformados em arte, convidando-o a apreciar a estética do dia a dia. A alternativa B é falsa, pois o mosaico é fixo na parede e não permite interação física. A C exagera, já que não há indício de conteúdo do inconsciente. A D erra porque a obra é moderna, de formas geométricas e populares, não clássicas. A E confunde: o passageiro se movimenta pelo corredor, mas a obra não depende disso para ser contemplada. Gabarito: A.",
+  "hash": "365583ea47de03a8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2016-regular-d2-q99": {
+  "explicacao": "A questão pede a contribuição das expressões “o peste” e “cachorro da molest’a” na fala de Euricão. Ariano Suassuna ambienta suas peças no Nordeste e reproduz o falar dessa região. “O peste”, usado como xingamento para uma pessoa ruim, e “da molest’a” (redução de “da moléstia”), intensificador típico do português nordestino, são regionalismos. Assim, essas escolhas caracterizam usos linguísticos de uma região e ajudam a construir a identidade das personagens. A alternativa A erra porque as expressões não marcam classe social; Euricão, aliás, é um avarento que se diz pobre, mas tem um tesouro. A C não procede: os termos se referem a Eudoro, que não é da família. A D é falsa, pois não há escolha vocabular ligada ao gênero (masculino ou feminino). A E também não se sustenta: a fala revela raiva e desprezo por Eudoro, não autoritarismo. Gabarito: B.",
+  "hash": "eb8387bf87c04ce7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
