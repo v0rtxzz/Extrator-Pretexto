@@ -66,6 +66,9 @@ create table if not exists public.questoes (
   gabarito        text,                           -- A a E; nulo SOMENTE quando a questão é anulada (veja a restrição abaixo)
   anulada         boolean not null default false,
   explicacao      text,                           -- resolução comentada gerada por IA após a extração (pode ser nula)
+  dificuldade     smallint                        -- 1 (muito fácil) a 5 (muito difícil), estimada por IA (pode ser nula)
+                  constraint questoes_dificuldade_check check (dificuldade is null or dificuldade between 1 and 5),
+  assunto         text,                           -- "Assunto geral: específico", atribuído por IA (pode ser nulo)
   criado_em       timestamptz not null default now(),
 
   -- Busca por texto em português no enunciado.
@@ -96,6 +99,11 @@ comment on column public.questoes.gabarito is
   'Letra certa (A a E). Nulo somente em questão anulada.';
 comment on column public.questoes.explicacao is
   'Explicação da resolução, gerada por IA (scripts/extrator/explicar.py) cruzando enunciado, alternativas e gabarito oficial. Nula até ser gerada; nula em anuladas.';
+comment on column public.questoes.dificuldade is
+  'Dificuldade de 1 (muito fácil) a 5 (muito difícil), estimada por IA pela leitura da questão (não usa microdados). Nula em anuladas.';
+comment on column public.questoes.assunto is
+  'Assunto da questão no formato "Assunto geral: assunto específico" (ex.: "Geometria plana: triângulos"), atribuído por IA. '
+  'O assunto geral vem da lista fixa de scripts/extrator/assuntos.json; filtre por ele com split_part(assunto, '':'', 1). Nulo em anuladas.';
 comment on column public.questoes.tem_imagem is
   'Gerada: verdadeiro se há imagem no enunciado (imagem_url / imagens_url) ou em alguma alternativa.';
 
@@ -213,6 +221,13 @@ alter table public.questoes
 -- questoes: explicação da resolução gerada por IA.
 alter table public.questoes add column if not exists explicacao text;
 
+-- questoes: dificuldade (1 a 5) e assunto ("Geral: específico") atribuídos por IA.
+alter table public.questoes add column if not exists dificuldade smallint;
+alter table public.questoes add column if not exists assunto text;
+alter table public.questoes drop constraint if exists questoes_dificuldade_check;
+alter table public.questoes
+  add constraint questoes_dificuldade_check check (dificuldade is null or dificuldade between 1 and 5);
+
 -- questoes: várias imagens por questão e imagens nas alternativas.
 alter table public.questoes add column if not exists imagens_url text[] not null default '{}';
 alter table public.questoes add column if not exists alternativas_imagens jsonb not null default '{}'::jsonb;
@@ -292,6 +307,8 @@ alter table public.codigos_acesso add  constraint codigos_acesso_tipo_acesso_che
 -- 3. ÍNDICES
 -- ═════════════════════════════════════════════════════════════════════════════════════════════════
 create index if not exists questoes_materia_idx   on public.questoes (materia);
+create index if not exists questoes_dificuldade_idx on public.questoes (dificuldade);
+create index if not exists questoes_assunto_idx     on public.questoes (assunto);
 create index if not exists questoes_ano_idx       on public.questoes (ano);
 create index if not exists questoes_categoria_idx on public.questoes (categoria);
 create index if not exists questoes_idioma_idx    on public.questoes (idioma) where idioma is not null;

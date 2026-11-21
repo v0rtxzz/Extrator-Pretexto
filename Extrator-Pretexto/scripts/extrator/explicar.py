@@ -122,12 +122,12 @@ def explicar(resultados, nome_cache, raiz_publica, log, modelo=MODELO_PADRAO, re
     cache = {} if refazer or not arq.exists() else json.loads(arq.read_text(encoding='utf-8'))
     pendentes, do_cache = [], 0
     for r in resultados:
-        r['explicacao'] = None
+        r['explicacao'] = r['dificuldade'] = r['assunto'] = None
         if r['anulada'] or not r['gabarito']:
             continue
         h = _hash(r)
         if cache.get(r['id'], {}).get('hash') == h:
-            r['explicacao'] = cache[r['id']]['explicacao']
+            _do_cache(r, cache[r['id']])
             do_cache += 1
         else:
             pendentes.append((r, h))
@@ -169,10 +169,16 @@ def explicar(resultados, nome_cache, raiz_publica, log, modelo=MODELO_PADRAO, re
     return novas, do_cache, falhas
 
 
+def _do_cache(r, c):
+    """Explicação, dificuldade (1 a 5) e assunto ('Geral: específico') vindos do cache (escritos por
+    explicar_manual.py); ausentes viram None."""
+    r['explicacao'], r['dificuldade'], r['assunto'] = c.get('explicacao'), c.get('dificuldade'), c.get('assunto')
+
+
 def carregar_do_cache(resultados, nome_cache):
     """Sem chamar a API: usa só o que já está no cache (ex.: --dry-run, ou --explicar desligado)."""
     arq = PASTA_CACHE / f'{nome_cache}.json'
     cache = json.loads(arq.read_text(encoding='utf-8')) if arq.exists() else {}
     for r in resultados:
         c = cache.get(r['id'])
-        r['explicacao'] = c['explicacao'] if c and c.get('hash') == _hash(r) else None
+        _do_cache(r, c if c and c.get('hash') == _hash(r) else {})

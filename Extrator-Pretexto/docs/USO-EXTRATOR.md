@@ -81,7 +81,7 @@ Rode o mesmo comando sem `--dry-run`. O extrator cria:
 - `supabase/ATUALIZAR-ANO-CATEGORIA-diaDIA[-idioma].sql`, com *upsert* pelo id de cada questão.
 
 O SQL grava em `imagem_url` a primeira imagem de apoio, todas em `imagens_url`, as imagens das alternativas em
-`alternativas_imagens` (letra → lista de URLs) e a resolução comentada em `explicacao`. Antes de regravar uma prova,
+`alternativas_imagens` (letra → lista de URLs) e, do cache de IA, `explicacao`, `dificuldade` e `assunto`. Antes de regravar uma prova,
 apague a pasta de imagens dela (`public/questoes/ANO/CATEGORIA/`), para não sobrarem recortes antigos sem uso.
 
 ### 4.1) Extração em lote (`lote.py`)
@@ -100,20 +100,47 @@ foram todos conferidos à mão como falsos alarmes; o relatório lista os avisos
 confirmadas. A gravação escreve `relatorios/GRAVACAO.md`;
 os logs completos ficam em `relatorios/logs/` (fora do git).
 
-### 4.2) Explicação da resolução por IA (`explicacao`)
+### 4.2) Colunas de IA: `explicacao`, `dificuldade` e `assunto`
 
-Com `--explicar` (sem `--dry-run`), cada questão não anulada é enviada ao Claude (`scripts/extrator/explicar.py`,
-modelo padrão `claude-opus-5-5`; troque com `--modelo-explicacao`). A IA recebe texto de apoio, crédito, enunciado,
-alternativas, imagens e o **gabarito oficial**, explica a resolução, por que a letra oficial está correta e por que as
-outras não estão. Se discordar do gabarito ou achar o texto corrompido, a explicação começa com `[REVISAR]`.
+- `explicacao`: resolução comentada; diz o que a questão pede, resolve, mostra por que a letra do **gabarito oficial**
+  está certa e por que as outras não estão. Se a IA discordar do gabarito ou achar o texto corrompido, começa com
+  `[REVISAR]`.
+- `dificuldade`: de 1 a 5, estimada pela leitura da questão (não usa microdados do ENEM): 1 muito fácil (leitura
+  direta, um passo); 2 fácil (um conceito básico); 3 média (relacionar duas informações ou cálculo de algumas etapas);
+  4 difícil (vários passos, conceito específico, distratores fortes); 5 muito difícil (raciocínio longo, vários
+  conceitos combinados).
+- `assunto`: `Assunto geral: assunto específico` (ex.: `Geometria plana: triângulos`,
+  `Medidas de tendência central: média, moda, mediana`). O assunto geral vem da lista fixa por matéria de
+  `scripts/extrator/assuntos.json`, para dar para filtrar (`split_part(assunto, ':', 1)`); o específico é livre.
+
+Tudo fica em cache em `scripts/extrator/explicacoes/PROVA.json`, por hash do conteúdo da questão: reextrair a prova
+reaproveita o cache, e uma questão cujo texto mudou volta a ficar pendente. Questões anuladas ficam com as três
+colunas nulas.
+
+**Sem API (como foi feito nesta versão).** Uma sessão do Claude Code escreve as três colunas com
+`scripts/extrator/explicar_manual.py`, lendo as questões direto dos SQLs gravados:
+
+```bash
+python scripts/extrator/explicar_manual.py estado                       # quanto falta, por prova
+python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20  # próximas 20 pendentes (com os assuntos aceitos)
+python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json   # valida gabarito, 1–5 e assunto
+python scripts/extrator/explicar_manual.py copiar 2022-digital-dia1-ingles 2022-digital-dia1-espanhol
+python scripts/extrator/explicar_manual.py aplicar 2025-regular-dia1    # regrava o SQL da prova com o cache
+```
+
+Formato de `salvar`: `{"ID": {"explicacao": "... Gabarito: B.", "dificuldade": 3, "assunto": "Geral: específico"}}`
+(numa questão já explicada, `explicacao` pode ser omitida).
+
+**Com API (opcional).** `--explicar` (sem `--dry-run`) envia cada questão sem explicação ao Claude
+(`scripts/extrator/explicar.py`, modelo padrão `claude-opus-5-5`, troque com `--modelo-explicacao`;
+`--explicar-refazer` ignora o cache). Gera só a `explicacao`; `dificuldade` e `assunto` vêm do cache.
 
 ```bash
 export ANTHROPIC_API_KEY=...      # nunca no frontend nem no repositório
 python scripts/extrator/extrair_textos.py --ano 2025 --categoria regular --dia 1 --explicar
 ```
 
-- Cache em `scripts/extrator/explicacoes/`, por hash do conteúdo da questão; `--explicar-refazer` ignora o cache.
-- Sem credencial, `explicacao = null` e o SQL preserva a explicação já gravada no banco.
+Sem valor no cache, a carga grava `null` e o SQL preserva o que já está no banco.
 
 ## 5) Ler o relatório
 
@@ -203,13 +230,13 @@ leitura automática; o gabarito vem sempre do gabarito oficial.
 
 ## 8) Alimentar o banco no Supabase
 
-1. Banco existente: rode antes `supabase/ADICIONAR_EXPLICACAO_QUESTOES.sql`. Banco novo: `supabase/schema.sql`.
+1. Banco existente: rode antes `supabase/ADICIONAR_COLUNAS_IA.sql` (colunas `explicacao`, `dificuldade` e `assunto`). Banco novo: `supabase/schema.sql`.
 2. No SQL Editor, rode os `supabase/ATUALIZAR-*.sql` desejados.
 3. Publique `public/questoes/` junto com o site.
 
 **Não exclua questões para recarregar**: o `id` é estável e o progresso do aluno aponta para ele. O *upsert*
-sobrescreve todos os campos extraídos (inclusive limpa imagens e créditos que saíram); só a `explicacao` é preservada
-quando a carga não traz uma. Conferência:
+sobrescreve todos os campos extraídos (inclusive limpa imagens e créditos que saíram); só as colunas de IA (`explicacao`,
+`dificuldade`, `assunto`) são preservadas quando a carga não traz valor. Conferência:
 
 ```sql
 select ano, categoria, count(*) from public.questoes group by 1, 2 order by 1, 2;

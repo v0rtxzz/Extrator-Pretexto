@@ -20,7 +20,7 @@ provas/ANO/CATEGORIA/        PDFs: diaN-prova.pdf e diaN-gabarito.pdf (dia 1 dig
 public/questoes/ANO/...      Imagens recortadas, servidas pelo site (os SQLs apontam para elas)
 supabase/
   schema.sql                 Schema da tabela public.questoes
-  ADICIONAR_EXPLICACAO_QUESTOES.sql   Migração: coluna explicacao (banco existente)
+  ADICIONAR_COLUNAS_IA.sql   Migração: colunas explicacao, dificuldade e assunto (banco existente)
   ATUALIZAR-ANO-CATEGORIA-diaN.sql    Carga de cada prova (upsert pelo id da questão)
 scripts/extrator/
   extrair_textos.py          Extrator (uma prova ou um ano)
@@ -30,18 +30,20 @@ scripts/extrator/
   baselines/                 "Fotos" de regressão de cada prova
   verificar_baseline.py      Trava de regressão
   estado.py                  Atualiza a tabela "Estado por ano" da documentação
-  explicar.py                Explicação da resolução por IA (coluna explicacao)
+  explicar_manual.py         Colunas de IA (explicacao, dificuldade, assunto) escritas sem API
+  assuntos.json              Assuntos gerais aceitos na coluna assunto, por matéria
+  explicacoes/               Cache das colunas de IA, por prova
 relatorios/GRAVACAO.md       Relatório da última gravação (status de cada prova)
 docs/USO-EXTRATOR.md         Guia completo do extrator
 ```
 
 ## Carregar no banco (Supabase)
 
-1. Banco já existente: rode antes `supabase/ADICIONAR_EXPLICACAO_QUESTOES.sql` no SQL Editor (cria a coluna
-   `explicacao`). Banco novo: `supabase/schema.sql`.
+1. Banco já existente: rode antes `supabase/ADICIONAR_COLUNAS_IA.sql` no SQL Editor (cria as colunas
+   `explicacao`, `dificuldade` e `assunto`). Banco novo: `supabase/schema.sql`.
 2. Rode os `supabase/ATUALIZAR-*.sql`. Cada um faz *upsert* pelo `id` (`enem-ANO-CATEGORIA-dDIA-qNN`, com `-ing`/`-esp`
-   nas questões de idioma) e **sobrescreve** enunciado, texto de apoio, crédito, alternativas, gabarito e imagens; só a
-   `explicacao` já gravada é preservada quando a carga não traz uma. Rode de novo inclusive as provas carregadas
+   nas questões de idioma) e **sobrescreve** enunciado, texto de apoio, crédito, alternativas, gabarito e imagens; só as
+   colunas de IA (`explicacao`, `dificuldade`, `assunto`) já gravadas são preservadas quando a carga não traz valor. Rode de novo inclusive as provas carregadas
    antes desta versão, para limpar imagens e créditos errados.
 3. Publique `public/questoes/` junto com o site.
 
@@ -75,18 +77,18 @@ extrator não lê bem (alternativas desenhadas, fórmulas, gráficos, layout de 
 recorte das imagens, aplicado automaticamente a cada execução. Veja o guia completo em
 [docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md).
 
-## Explicações por IA (opcional)
+## Colunas de IA: explicação, dificuldade e assunto
 
-A coluna `explicacao` (resolução comentada) é gerada pelo Claude a partir do texto, das imagens e do gabarito oficial.
-Nesta versão ela está vazia (`null`) em todas as questões: para gerar, é preciso uma chave da API da Anthropic.
+| Coluna | Conteúdo |
+|---|---|
+| `explicacao` | Resolução comentada, cruzando enunciado, alternativas e gabarito oficial |
+| `dificuldade` | 1 (muito fácil) a 5 (muito difícil), estimada pela leitura da questão (sem microdados) |
+| `assunto` | `Assunto geral: específico`, ex.: `Geometria plana: triângulos` (geral de uma lista fixa por matéria) |
 
-```bash
-export ANTHROPIC_API_KEY=...      # nunca no frontend nem no repositório
-python scripts/extrator/lote.py --de 2009 --ate 2025 --gravar --incluir-revisar --explicar
-```
-
-As explicações ficam em cache em `scripts/extrator/explicacoes/` (reextrair não gera custo de novo). Revise as que
-começam com `[REVISAR]` (a IA discordou do gabarito ou achou o texto corrompido).
+São escritas pelo Claude **sem API**, por sessões do Claude Code, com `scripts/extrator/explicar_manual.py`, e ficam
+em cache em `scripts/extrator/explicacoes/`. Explicações que começam com `[REVISAR]` merecem uma conferência humana
+(a IA discordou do gabarito ou achou o texto corrompido). Detalhes em
+[docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md#42-colunas-de-ia-explicacao-dificuldade-e-assunto).
 
 ## Aplicar no projeto da plataforma
 

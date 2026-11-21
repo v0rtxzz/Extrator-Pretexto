@@ -1,19 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Pretexto · explicações escritas sem API (por uma sessão do Claude Code) para a coluna `explicacao`.
+Pretexto · colunas geradas por IA sem API (escritas por uma sessão do Claude Code): `explicacao` (resolução comentada),
+`dificuldade` (1 a 5) e `assunto` ("Assunto geral: assunto específico").
 
-As questões são lidas dos SQLs já gravados (supabase/ATUALIZAR-*.sql); as explicações ficam no mesmo cache usado por
-explicar.py (scripts/extrator/explicacoes/PROVA.json, com o hash do conteúdo da questão), então uma nova extração as
-reaproveita, e são gravadas direto no SQL, sem reextrair a prova.
+As questões são lidas dos SQLs já gravados (supabase/ATUALIZAR-*.sql); o resultado fica no mesmo cache usado por
+explicar.py (scripts/extrator/explicacoes/PROVA.json, com o hash do conteúdo da questão), então uma nova extração o
+reaproveita, e é gravado direto no SQL, sem reextrair a prova.
 
-    python scripts/extrator/explicar_manual.py estado                      # quantas explicações por prova
-    python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20 # próximas 20 questões sem explicação
-    python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json   # {"id": "texto", ...}
+    python scripts/extrator/explicar_manual.py estado                      # o que falta, por prova
+    python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20 # próximas 20 questões pendentes
+    python scripts/extrator/explicar_manual.py assuntos matematica         # assuntos gerais aceitos
+    python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json
     python scripts/extrator/explicar_manual.py copiar 2022-digital-dia1-ingles 2022-digital-dia1-espanhol
     python scripts/extrator/explicar_manual.py aplicar [2025-regular-dia1 ...]          # grava no SQL (todas, sem nome)
 
-Regras de escrita: as mesmas de explicar.py (SISTEMA), com o gabarito oficial como referência.
+Formato do arquivo de `salvar` (por questão; numa questão já explicada, "explicacao" pode ser omitida):
+    {"enem-2025-regular-d1-q01-esp": {"explicacao": "... Gabarito: B.", "dificuldade": 3,
+                                      "assunto": "Interpretação de texto: crítica social em canção"}}
+
+Dificuldade (estimada pela leitura da questão, não por microdados): 1 muito fácil (leitura direta, um passo);
+2 fácil (um conceito básico, poucos passos); 3 média (relacionar duas informações/conceitos ou cálculo de algumas
+etapas); 4 difícil (vários passos ou conceito específico, distratores fortes); 5 muito difícil (raciocínio longo,
+vários conceitos combinados, alta abstração).
 """
 import json
 import re
@@ -24,9 +33,13 @@ AQUI = Path(__file__).resolve().parent
 RAIZ = AQUI.parents[1]
 sys.path.insert(0, str(AQUI))
 import explicar as IA  # noqa: E402
+from sql_questoes import sql_questao  # noqa: E402
 
 MODELO = 'claude-opus-5-5 (Claude Code, sem API)'
-RE_LINHA = re.compile(r"^values \((.*?)\)\non conflict", re.M | re.S)
+ASSUNTOS = {k: v for k, v in json.loads((AQUI / 'assuntos.json').read_text(encoding='utf-8')).items()
+            if not k.startswith('_')}
+RE_INSERT = re.compile(r"^insert into public\.questoes \(([^)]*)\)\nvalues \((.*?)\)\non conflict \(id\) do update set\n"
+                       r"(?:  [^\n]*\n)*?  [^\n]*\);$", re.M | re.S)
 
 
 def _campos(tupla):
@@ -63,13 +76,18 @@ def _campos(tupla):
     return campos
 
 
-COLS = ('id', 'numero', 'materia', 'ano', 'categoria', 'idioma', 'enunciado', 'texto_apoio', 'credito_texto',
-        'imagem_url', 'imagens_url', 'alternativas_imagens', 'alternativas', 'gabarito', 'anulada', 'explicacao')
+def _sql(prova):
+    return RAIZ / 'supabase' / f'ATUALIZAR-{prova}.sql'
 
 
 def questoes(prova):
-    sql = (RAIZ / 'supabase' / f'ATUALIZAR-{prova}.sql').read_text(encoding='utf-8')
-    return [dict(zip(COLS, _campos(m.group(1)))) for m in RE_LINHA.finditer(sql)]
+    qs = []
+    for m in RE_INSERT.finditer(_sql(prova).read_text(encoding='utf-8')):
+        q = dict(zip([c.strip() for c in m.group(1).split(',')], _campos(m.group(2))))
+        q.setdefault('dificuldade', None)
+        q.setdefault('assunto', None)
+        qs.append(q)
+    return qs
 
 
 def cache(prova):
@@ -81,23 +99,53 @@ def provas():
     return sorted(f.stem[len('ATUALIZAR-'):] for f in (RAIZ / 'supabase').glob('ATUALIZAR-*.sql'))
 
 
+def _validas(prova):
+    return [q for q in questoes(prova) if not q['anulada'] and q['gabarito']]
+
+
+def _entrada(c, q):
+    """Entrada do cache que vale para a questão (mesmo hash), ou {}."""
+    e = c.get(q['id'], {})
+    return e if e.get('hash') == IA._hash(q) else {}
+
+
+def _completa(e):
+    return bool(e.get('explicacao') and e.get('dificuldade') and e.get('assunto'))
+
+
 def cmd_estado():
-    tot = feitas = 0
+    tot = expl = clas = 0
     for p in provas():
-        qs = [q for q in questoes(p) if not q['anulada'] and q['gabarito']]
+        qs = _validas(p)
         _, c = cache(p)
-        f = sum(1 for q in qs if c.get(q['id'], {}).get('hash') == IA._hash(q))
-        tot += len(qs); feitas += f
-        print(f'{p:32} {f:3}/{len(qs)}')
-    print(f'TOTAL {feitas}/{tot}')
+        es = [_entrada(c, q) for q in qs]
+        x = sum(1 for e in es if e.get('explicacao'))
+        k = sum(1 for e in es if e.get('dificuldade') and e.get('assunto'))
+        tot += len(qs); expl += x; clas += k
+        print(f'{p:32} explicação {x:3}/{len(qs)}  dificuldade+assunto {k:3}/{len(qs)}')
+    print(f'TOTAL explicação {expl}/{tot}  dificuldade+assunto {clas}/{tot}')
+
+
+def cmd_assuntos(materia=None):
+    for m, lista in ASSUNTOS.items():
+        if materia in (None, m):
+            print(f'{m}: ' + '; '.join(lista))
 
 
 def cmd_pacote(prova, n):
     _, c = cache(prova)
-    pend = [q for q in questoes(prova) if not q['anulada'] and q['gabarito']
-            and c.get(q['id'], {}).get('hash') != IA._hash(q)][:int(n)]
+    pend = [q for q in _validas(prova) if not _completa(_entrada(c, q))][:int(n)]
+    materias = sorted({q['materia'] for q in pend})
     for q in pend:
+        e = _entrada(c, q)
         print(f"===== {q['id']} · {q['materia']} · gabarito oficial: {q['gabarito']}")
+        if e.get('explicacao'):
+            # já explicada: só falta classificar; a explicação resume texto e imagens
+            print('FALTA SÓ: dificuldade e assunto (explicação já escrita)')
+            print('ENUNCIADO:', q['enunciado'])
+            print('EXPLICAÇÃO:', e['explicacao'])
+            continue
+        print('FALTA: explicação, dificuldade e assunto')
         if q['texto_apoio']:
             print('APOIO:', q['texto_apoio'])
         if q['credito_texto']:
@@ -109,66 +157,89 @@ def cmd_pacote(prova, n):
         for u in q['imagens_url']:
             print(f'IMAGEM DE APOIO: public{u}')
     print(f'# {len(pend)} questão(ões) neste pacote')
+    if pend:
+        print('# assuntos gerais aceitos:')
+        for m in materias:
+            cmd_assuntos(m)
 
 
 def cmd_salvar(prova, arquivo):
     novas = json.loads(Path(arquivo).read_text(encoding='utf-8'))
     por_id = {q['id']: q for q in questoes(prova)}
     arq, c = cache(prova)
-    for qid, texto in novas.items():
+    erros = []
+    for qid, valor in novas.items():
         q = por_id[qid]
-        fim = re.search(r'Gabarito:\s*([A-E])\.?\s*$', texto.strip())
+        if isinstance(valor, str):
+            valor = {'explicacao': valor}
+        ent = dict(_entrada(c, q))
+        texto = (valor.get('explicacao') or ent.get('explicacao') or '').strip()
+        fim = re.search(r'Gabarito:\s*([A-E])\.?\s*$', texto)
         if not fim or fim.group(1) != q['gabarito']:
-            sys.exit(f'{qid}: a explicação precisa terminar com "Gabarito: {q["gabarito"]}."')
-        c[qid] = {'hash': IA._hash(q), 'modelo': MODELO, 'explicacao': texto.strip()}
+            erros.append(f'{qid}: a explicação precisa terminar com "Gabarito: {q["gabarito"]}."')
+            continue
+        dif, ass = valor.get('dificuldade', ent.get('dificuldade')), valor.get('assunto', ent.get('assunto'))
+        if dif is not None and not (isinstance(dif, int) and 1 <= dif <= 5):
+            erros.append(f'{qid}: dificuldade deve ser um inteiro de 1 a 5'); continue
+        if ass is not None:
+            ass = re.sub(r'\s+', ' ', ass).strip()
+            geral, _, esp = ass.partition(':')
+            if not esp.strip() or geral.strip() not in ASSUNTOS[q['materia']]:
+                erros.append(f'{qid}: assunto "{ass}" inválido; use "Assunto geral: específico" com o geral entre: '
+                             + '; '.join(ASSUNTOS[q['materia']])); continue
+            ass = f'{geral.strip()}: {esp.strip()}'
+        ent.update({'hash': IA._hash(q), 'explicacao': texto, 'dificuldade': dif, 'assunto': ass})
+        ent.setdefault('modelo', MODELO)
+        c[qid] = {k: v for k, v in ent.items() if v is not None}
     IA.PASTA_CACHE.mkdir(exist_ok=True)
     arq.write_text(json.dumps(c, ensure_ascii=False, indent=1, sort_keys=True), encoding='utf-8')
-    print(f'{prova}: {len(novas)} explicação(ões) salvas; {len(c)} no cache')
+    print(f'{prova}: {len(novas) - len(erros)} questão(ões) salvas; {len(c)} no cache')
+    if erros:
+        sys.exit('NÃO salvas (corrija e rode de novo só com estas):\n' + '\n'.join(erros))
 
 
 def cmd_copiar(origem, destino):
-    """Copia explicações de questões idênticas (mesmo id e mesmo conteúdo) de uma prova para outra (dia 1 digital:
-    as questões comuns ao inglês e ao espanhol têm o mesmo id)."""
+    """Copia o que já foi feito para questões idênticas (mesmo id e mesmo conteúdo) de uma prova para outra (dia 1
+    digital: as questões comuns ao inglês e ao espanhol têm o mesmo id)."""
     _, co = cache(origem)
     arq, cd = cache(destino)
     n = 0
     for q in questoes(destino):
-        e = co.get(q['id'])
-        if e and e.get('hash') == IA._hash(q) and cd.get(q['id'], {}).get('hash') != e['hash']:
+        e = _entrada(co, q)
+        if e and cd.get(q['id']) != e and (_completa(e) or not _entrada(cd, q).get('explicacao')):
             cd[q['id']] = e
             n += 1
     arq.write_text(json.dumps(cd, ensure_ascii=False, indent=1, sort_keys=True), encoding='utf-8')
-    print(f'{destino}: {n} explicação(ões) copiadas de {origem}')
+    print(f'{destino}: {n} questão(ões) copiadas de {origem}')
 
 
 def cmd_aplicar(nomes):
+    """Regrava cada questão do SQL com explicacao/dificuldade/assunto do cache (o SQL sempre sai com as 18 colunas)."""
     for p in nomes or provas():
-        arq_sql = RAIZ / 'supabase' / f'ATUALIZAR-{p}.sql'
+        arq_sql = _sql(p)
         sql = arq_sql.read_text(encoding='utf-8')
         _, c = cache(p)
-        qs = {q['id']: q for q in questoes(p)}
         n = 0
 
         def troca(m):
             nonlocal n
-            linha = m.group(0)
-            qid = re.match(r"values \('([^']+)'", linha).group(1)
-            ent = c.get(qid)
-            if not ent or ent.get('hash') != IA._hash(qs[qid]):
-                return linha
-            n += 1
-            valor = "'" + ent['explicacao'].replace("'", "''") + "'"
-            return re.sub(r", (true|false), (null|'(?:[^']|'')*')\)$", lambda k: f', {k.group(1)}, {valor})', linha,
-                          flags=re.S)
-        sql = re.sub(r"^values \('enem-.*?\)(?=\non conflict)", troca, sql, flags=re.M | re.S)
-        arq_sql.write_text(sql, encoding='utf-8')
-        if n:
-            print(f'{p}: {n} explicação(ões) gravadas no SQL')
+            q = dict(zip([x.strip() for x in m.group(1).split(',')], _campos(m.group(2))))
+            e = _entrada(c, q)
+            q['explicacao'], q['dificuldade'], q['assunto'] = e.get('explicacao'), e.get('dificuldade'), e.get('assunto')
+            n += bool(e)
+            return sql_questao(q)
+        novo = RE_INSERT.sub(troca, sql)
+        if novo != sql:
+            arq_sql.write_text(novo, encoding='utf-8')
+        print(f'{p}: {n} questão(ões) com dados de IA no SQL')
 
 
 if __name__ == '__main__':
     a = sys.argv[1:]
-    if not a or a[0] not in ('estado', 'pacote', 'salvar', 'copiar', 'aplicar'):
+    cmds = {'estado': lambda: cmd_estado(), 'assuntos': lambda: cmd_assuntos(a[1] if len(a) > 1 else None),
+            'pacote': lambda: cmd_pacote(a[1], a[2] if len(a) > 2 else 20),
+            'salvar': lambda: cmd_salvar(a[1], a[2]), 'copiar': lambda: cmd_copiar(a[1], a[2]),
+            'aplicar': lambda: cmd_aplicar(a[1:])}
+    if not a or a[0] not in cmds:
         sys.exit(__doc__)
-    {'estado': lambda: cmd_estado(), 'pacote': lambda: cmd_pacote(a[1], a[2] if len(a) > 2 else 20),
-     'salvar': lambda: cmd_salvar(a[1], a[2]), 'copiar': lambda: cmd_copiar(a[1], a[2]), 'aplicar': lambda: cmd_aplicar(a[1:])}[a[0]]()
+    cmds[a[0]]()
