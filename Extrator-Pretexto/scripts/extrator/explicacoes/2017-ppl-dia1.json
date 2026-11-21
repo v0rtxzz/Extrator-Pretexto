@@ -1,475 +1,665 @@
 {
  "enem-2017-ppl-d1-q01-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 3,
   "explicacao": "A questão pede o motivo pelo qual o Día de los Muertos continua vivo no México, segundo a notícia. O texto informa que se trata de “una tradición prehispánica”, ou seja, anterior à chegada dos espanhóis, e mostra famílias montando altares, levando comida, música e flores de cempazuchitl aos cemitérios. Também destaca que o México “se resiste” à influência do Halloween e cita a pesquisa da Profeco: 81% dos entrevistados celebram o Día de los Muertos, contra apenas 4% que preferem o Halloween. A cena do avô que leva o neto ao Zócalo reforça a ideia de transmissão entre gerações. Portanto, a festa perdura porque a população se engaja em manter e propagar uma crença tradicional pré-colonial. A alternativa A erra, pois a homenagem é aos mortos da família, não a heróis da pátria. A B confunde: a pesquisa apenas mede a adesão, não explica a permanência. A C distorce a fala do avô, que é um comentário, não a causa da festa. A D exagera, já que não há proibição, apenas resistência cultural. Gabarito: E.",
   "hash": "6f686f3a76677b6f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q01-ing": {
+  "assunto": "Língua inglesa: interpretação de fábula",
+  "dificuldade": 1,
   "explicacao": "A questão pede a moral da fábula de Esopo, que funciona como seu tema. No texto, um leão rondava o campo onde viviam quatro bois. Sempre que ele se aproximava, os bois se posicionavam com as caudas voltadas umas para as outras (“they turned their tails to one another”), de modo que o leão encontrava sempre os chifres de algum deles. Porém, os bois brigaram (“they quarreled among themselves”) e cada um foi pastar sozinho num canto do campo; então o leão os atacou um a um e acabou com os quatro. A lição é clara: juntos, os bois eram invencíveis; separados, tornaram-se presas fáceis. Isso corresponde ao provérbio “A união faz a força”. A alternativa A contraria a fábula, pois o leão, mais forte, só venceu quando os bois se separaram. A C trata de justiça, tema ausente no texto. A D não se aplica, já que a estratégia vitoriosa dos bois era defensiva e coletiva. A E é uma generalização sem relação com o enredo. Gabarito: B.",
   "hash": "1c4e1708b7b01fe4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q02-esp": {
+  "assunto": "Língua espanhola: tirinha, trocadilho",
+  "dificuldade": 3,
   "explicacao": "A questão pede o sentido de “tratar de encajarle” na fala de Felipe, que brinca com um ditado popular. Na tirinha de Quino, Felipe diz: “No dejes para mañana el tratar de encajarle a otro lo que tengas que hacer hoy”. O trocadilho parte do conhecido “no dejes para mañana lo que puedas hacer hoy” (não deixe para amanhã o que pode fazer hoje). Felipe, personagem famoso por fugir das obrigações, subverte o conselho: em vez de fazer hoje a tarefa, a pessoa deve tentar hoje mesmo “encajarle a otro”, isto é, empurrar, passar para outra pessoa aquilo que ela própria deveria fazer. O verbo “encajar”, nesse uso coloquial, significa impingir, fazer alguém aceitar algo indesejado. Assim, a expressão equivale a delegar a outros os próprios afazeres. A alternativa A confunde “encajar” com encaixar no calendário. A C fala de incapacidade, ideia ausente na fala. A D sugere aceitação das tarefas, o oposto do que Felipe propõe. A E fala em adiar para fazer melhor, mas a tarefa vai para outra pessoa. Gabarito: B.",
   "hash": "c8d10d0220859f70",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q02-ing": {
+  "assunto": "Língua inglesa: interpretação de notícia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a causa da propagação mais rápida dos incêndios residenciais, segundo o texto do New York Times. O trecho decisivo é: “Plastic fillings in sofas and mattresses burn much faster than older fillings like cotton”, ou seja, os enchimentos plásticos de sofás e colchões queimam muito mais rápido que os antigos, de algodão. O texto acrescenta que, com mais plástico nas casas, o fogo consome todo o oxigênio do cômodo antes mesmo de queimar todo o material inflamável, e o chefe de bombeiros George Healy compara: antes o fogo levava minutos ou dezenas de minutos para se desenvolver; hoje, cerca de um minuto. Logo, a causa é a composição sintética dos móveis. A alternativa B erra, pois o texto não fala da estrutura das construções. A C cita tecidos, mas o problema é o material plástico, não o excesso de tecido. A D não procede: os bombeiros revisam táticas, não reclamam de falta de recursos. A E confunde: abrir janelas acelera o fogo, mas isso é consequência do novo comportamento, não sua causa. Gabarito: A.",
   "hash": "2ade042933716540",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q03-esp": {
+  "assunto": "Língua espanhola: função do texto, reportagem",
+  "dificuldade": 3,
   "explicacao": "A questão pede a função do texto, considerando as informações e o gênero (uma reportagem de divulgação, publicada na National Geographic). O texto começa com dados alarmantes sobre a República Democrática do Congo: menos de 29% da população rural tem água potável, a diarreia mata 14% das crianças menores de cinco anos e o cólera causa mais de 20 000 mortes por ano. Mas esses números servem de contexto para o foco principal: o projeto da Fundação We Are Water com a Unicef, que escavou poços, instalou sistemas de extração de água e formou agentes de saúde, beneficiando 10 000 crianças, 5 000 mulheres e 5 000 homens. Portanto, a função é tornar públicas as práticas que buscam melhorar a saúde na região. A alternativa A fica só na parte introdutória dos dados. A C supõe um público de turistas, que o texto não visa. A D atribui ao texto um caráter de oferta de serviços, o que não ocorre. A E erra o público: o texto não se dirige à população congolesa com orientações. Gabarito: B.",
   "hash": "7c5a61cf622b16f0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q03-ing": {
+  "assunto": "Língua inglesa: capa de revista, metáfora",
+  "dificuldade": 2,
   "explicacao": "A questão pede a mensagem da capa da revista Time, unindo texto e imagem. A manchete diz “How to Win The War On Global Warming” (Como vencer a guerra contra o aquecimento global). A imagem recria a famosa foto de soldados americanos erguendo a bandeira em Iwo Jima, na Segunda Guerra Mundial, mas, no lugar do mastro com a bandeira, os soldados levantam uma árvore. A combinação constrói uma metáfora: enfrentar o aquecimento global é como travar uma guerra, que exige esforço coletivo, estratégia e determinação, e a vitória é simbolizada pela árvore, ou seja, pela preservação ambiental. Assim, o combate aos problemas do aquecimento global é apresentado como uma guerra. A alternativa B contradiz a manchete, que fala em como vencer, não em problema insuperável. A C toma a imagem ao pé da letra: os soldados são símbolo, não proposta de ação militar. A D inventa uma relação causal entre guerras e aquecimento. A E também lê a imagem literalmente, como se o Exército replantasse árvores. Gabarito: A.",
   "hash": "b114c31282f3138f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q04-esp": {
+  "assunto": "Língua espanhola: texto publicitário, campanha",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que pressupõe a relação entre o slogan “Lo que le haces al planeta, te lo haces a ti” (O que você faz ao planeta, faz a si mesmo) e os elementos visuais da campanha do Greenpeace. Na imagem, metade do rosto de um homem aparece rachada, como solo seco e degradado, enquanto ao fundo há chaminés industriais soltando fumaça. A pele rachada funciona como metáfora: o dano causado à Terra se reflete diretamente no corpo humano. O slogan completa a ideia, afirmando que agredir o planeta é agredir a si próprio. Logo, as atitudes negativas do homem em relação ao planeta prejudicam o próprio homem. A alternativa A lê a imagem literalmente, como se o tema fosse envelhecimento da pele. A B pega apenas a aparência de terra seca, sem captar a mensagem central. A C e a E citam elementos do cenário, poluição e dano atmosférico, mas a campanha não se limita a eles: o foco é a consequência para o ser humano. Gabarito: D.",
   "hash": "87f1eea6e31b8880",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q04-ing": {
+  "assunto": "Língua inglesa: interpretação de sinopse",
+  "dificuldade": 2,
   "explicacao": "A questão pede uma informação sobre o documentário Waste Land presente na sinopse. O texto diz que o filme acompanha Vik Muniz em sua viagem do Brooklyn ao Brasil, até “the world’s largest garbage dump, Jardim Gramacho, located on the outskirts of Rio de Janeiro”, isto é, o maior lixão do mundo, o Jardim Gramacho, situado na periferia do Rio de Janeiro. Portanto, o cenário do documentário foi um aterro na periferia carioca, como afirma a alternativa correta. A alternativa A erra o tempo: o filme foi gravado ao longo de quase três anos (“nearly three years”), não três meses. A B é falsa, pois os personagens são os próprios catadores, não atores do Brooklyn. A D inverte os papéis: é Muniz quem fotografa os catadores, que recriam imagens de si mesmos com lixo. A E não tem respaldo, já que a sinopse não menciona planos de continuidade dos diretores. Gabarito: C.",
   "hash": "35b620cffce58ced",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q05-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 3,
   "explicacao": "A questão pede por que o achado arqueológico pode ser tão relevante. O texto informa que pinturas rupestres encontradas em cavernas do norte da Espanha, com cerca de 40 000 anos, são as mais antigas já achadas, superando as de França e Portugal (20 000 a 25 000 anos). Nessa época, Homo sapiens chegavam à Europa, mas neandertais ainda viviam na região. O último parágrafo traz o ponto central: se ficar comprovado que os autores foram neandertais, isso indicaria que o pensamento humano abstrato e avançado, e provavelmente a linguagem, surgiram centenas de milhares de anos antes do que se pensava. Ou seja, o achado pode ressignificar o conhecimento sobre o desenvolvimento do pensamento e da linguagem. A alternativa A trata a migração como foco, mas ela é só contexto. A B afirma uma comprovação que o texto apresenta apenas como hipótese. A D reduz o achado à variedade de imagens. A E fala de parentesco, assunto que o texto não investiga. Gabarito: C.",
   "hash": "b4495109a3bc46e3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q05-ing": {
+  "assunto": "Língua inglesa: letra de canção",
+  "dificuldade": 2,
   "explicacao": "A questão pede o caráter da canção If You’re Out There, de John Legend. A letra se dirige a todos (“I’m calling every woman, calling every man”), afirma que esta geração não pode esperar (“We can’t afford to wait”) e convoca o ouvinte a se levantar e falar alto (“Stand up and say it loud”). O trecho final mostra os objetivos: destruir a fome, vencer o ódio, baixar as armas e erguer a voz, unindo as mãos (“Put down the arms and raise your voice / We’re joining hands today”). Trata-se, portanto, de um apelo ao engajamento social, um chamado à mobilização coletiva por mudanças no mundo. A alternativa A contraria a letra, que pede justamente para abandonar as armas. A C erra, pois a canção olha para o futuro (“Tomorrow’s starting now”), não para o passado. A D não se sustenta, já que não há crítica a atitudes impensadas. A E também falha: a canção pede mudança, não aceitação da realidade. Gabarito: B.",
   "hash": "44956d85a94ed9df",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q06": {
+  "assunto": "Interpretação de texto: crônica, ponto de vista",
+  "dificuldade": 3,
   "explicacao": "A questão pede como o autor desenvolve o tema das facilidades da prestação de serviços na vida moderna. Zeca Baleiro lista comodidades, como o guincho da seguradora, a cadeira de rodas da empresa aérea, o consertador de telhados, mas com ironia: “protegidos” vem entre aspas e as facilidades dependem de dinheiro. Ele lamenta que fique para trás um mundo de iniciativas, gestos solidários, amizade e improvisação, e critica uma geração que “não sabe bater um prego na parede”. No fim, fala da solidão diante do SAC, da saudade dos atendentes com nome e da dependência dos serviços. Há, portanto, uma visão pessimista: as facilidades tornam o homem acomodado e distante das relações afetivas. A alternativa A inverte a ideia, pois o autor lamenta o anonimato. A C exagera: Kafka e Chacrinha são citados de passagem, não como prova. A D erra, já que o autor não é conformista. A E toma a superproteção como algo positivo, quando o texto a critica. Gabarito: B.",
   "hash": "85bb79669928e5c8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q07": {
+  "assunto": "Teatro e dança: mímica corporal",
+  "dificuldade": 3,
   "explicacao": "A questão pede o meio pelo qual, segundo Decroux, o ator deve se comunicar com o público sem as expressões convencionais. O texto explica que Decroux inverte a lei do movimento cotidiano (menor esforço para maior efeito) e propõe o maior esforço para o menor efeito. No exemplo, se o rosto do ator for coberto e seus braços amarrados, ele não poderá expressar alegria pela careta habitual; precisará de anos de estudo para comunicá-la com o restante do corpo. Decroux é, de fato, o criador da mímica corporal dramática, técnica em que o corpo, e não o rosto, carrega a expressão. Assim, a comunicação se dá pela mímica corporal. A alternativa A é justamente o recurso convencional que Decroux elimina. A C e a E citam a amarra e o pano, que são apenas instrumentos do exemplo para bloquear o gesto comum. A D confunde: a máscara neutra serve para anular o rosto, não é o meio expressivo. Gabarito: B.",
   "hash": "78c6067cc471f1e9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q08": {
+  "assunto": "Literatura brasileira: poesia social, Ferreira Gullar",
+  "dificuldade": 4,
   "explicacao": "A questão pede qual caráter o eu lírico atribui à poesia ao aproximá-la da realidade social. No poema de Ferreira Gullar, o eu lírico reconhece que a poesia isolada “não comove / nem move o pau de arara”, por isso decide falar “de homem para homem”, oferecer o braço e lutar junto “por um mundo melhor”, já que “o latifúndio está aí matando”. O fecho é decisivo: somos “muitos milhões de homens comuns” e podemos “formar uma muralha” com nossos corpos. A poesia, então, assume o papel de unir as pessoas comuns (agregação construtiva) e de intervir na ordem estabelecida, combatendo a injustiça do latifúndio. A alternativa B fala em preservar memória, ideia ausente. A C reduz a poesia à retórica, quando o poema pede ação concreta. A D é vaga e não capta a dimensão coletiva e política. A E erra, pois “de homem para homem” indica igualdade entre pessoas comuns, não um discurso masculino. Gabarito: A.",
   "hash": "a99e12f72d8bd82a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q09": {
+  "assunto": "Educação física: futebol, identidade torcedora",
+  "dificuldade": 3,
   "explicacao": "A questão pede o significado do lema “Orgulho de ser nordestino”, da torcida Cangaceiros Alvinegros, considerando as duas formas de torcer apresentadas. O texto distingue quem torce só para o Ceará e os “torcedores mistos”, que também torcem por um time do Sudeste, prática chamada bifiliação clubística. A torcida organizada, porém, afirma a identidade nordestina e rejeita quem abandona o time local por clubes distantes. A fala do diretor resume a postura: se paulistas e cariocas não torcem por times do Nordeste, por que o nordestino torceria por time do Sul? Logo, o lema expressa resistência à bifiliação com clubes do Sudeste. A alternativa A inverte a ideia, pois a bifiliação é vista como ameaça à identidade, não como forma de mantê-la. A B fala em aliança, quando o texto mostra oposição. A C tem um dado verdadeiro, mas ignora o contraste com a bifiliação, que é o centro da questão. A D cita confrontos em campo, tema que o texto não aborda. Gabarito: E.",
   "hash": "94a109a7ac0eaeb7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q10": {
+  "assunto": "Gêneros textuais: crônica",
+  "dificuldade": 3,
   "explicacao": "A questão pede qual é, para Vinicius de Moraes, o papel do cronista. No trecho, ele diferencia o ficcionista, conduzido por personagens que inventou, do “prosador do cotidiano”. O cronista senta-se diante da máquina, olha pela janela e busca um fato qualquer, “de preferência colhido no noticiário matutino, ou da véspera”, no qual possa, com suas artimanhas, “injetar um sangue novo”. Ou seja, o cronista parte de algo real e banal do dia a dia e, pela escrita, dá a ele um novo sentido. Isso é ressignificar o cotidiano. A alternativa A erra, pois o cronista não cria fatos; ele os colhe da realidade e os reinterpreta. A B fica só na metade da ideia: a notícia é ponto de partida, não algo a ser reproduzido. A C trata de linguagem coloquial, o que o trecho não discute. A D descreve o trabalho do ficcionista, que o autor justamente contrapõe ao do cronista. Gabarito: E.",
   "hash": "bd76559a52d1b2bf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q11": {
+  "assunto": "Publicidade e linguagem midiática: capa de revista",
+  "dificuldade": 3,
   "explicacao": "A questão pede o caráter que a parte verbal acrescenta à capa da Superinteressante sobre desastres naturais. A ilustração mostra o título “A fúria da natureza” em letras de pedra rachadas, cercadas por ondas gigantes, meteoro, fumaça e água desabando sobre uma cidade. O texto diz: “as catástrofes estão mais frequentes e violentas”, a ciência tenta prever “onde e como elas atacarão” e “o Brasil é um dos países mais ameaçados”. Palavras como “fúria”, “atacarão” e “ameaçados” personificam a natureza como um agressor, um inimigo de força devastadora, e alertam o leitor com tom de urgência. Esse é um caráter alarmista. A alternativa A erra ao chamar de fantasioso, pois a capa se apoia em pesquisas. A B supõe conselhos de prevenção, que a capa não promete. A D fala em misticismo, mas o texto invoca a ciência. A E erra, pois a capa não se organiza em torno das crenças pessoais do leitor. Gabarito: C.",
   "hash": "c5b52674aa853fd0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q12": {
+  "assunto": "Variação linguística: regionalismo lexical",
+  "dificuldade": 3,
   "explicacao": "A questão pede quais construções do texto revelam marcas linguísticas regionais. O narrador de Carmo Bernardes, autor goiano, conta suas dificuldades na escola usando um vocabulário típico do interior do Centro-Oeste: “recanteado”, “mocorongo”, “ladineza”, “descrencei”, “quarta-feira de marca maior”. Entre as opções, “descrencei” (no sentido de perder a vontade, desanimar) e “ladineza” (esperteza, desembaraço) são regionalismos lexicais, palavras que não pertencem ao vocabulário comum da norma urbana e identificam a fala da região. A alternativa A cita palavras de uso geral no português. A B traz uma regência não padrão (“chegar em”), mas ela é comum em todo o Brasil, não marca uma região específica. A C, a dupla negação, também é traço geral do português brasileiro. A E aponta um recurso de coesão, a retomada de “pessoas” por “bichos”, que não tem relação com variação regional. Gabarito: D.",
   "hash": "529eec8ae2888a0e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q13": {
+  "assunto": "Literatura brasileira: São Bernardo, Graciliano Ramos",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o relato de Paulo Honório revela sobre ele no processo de enriquecimento. No trecho de São Bernardo, ele derruba a cerca do vizinho morto e avança sobre as terras, desafia as viúvas a irem à justiça sabendo que não podem pagar, invade a terra de um paralítico e de herdeiros ausentes, mas respeita a do juiz. Ganha causas graças às “chicanas” (trapaças jurídicas) de um advogado, faz negócios arriscados, moderniza a produção e ainda compra elogios da imprensa. Tudo é narrado com frieza, como se fosse natural. Paulo Honório é, assim, um capitalista pragmático que busca o sucesso a qualquer custo, ignorando ética e valores humanitários. A alternativa B contraria o texto, cheio de ilegalidades. A C transforma abusos em virtudes. A D chama de honrado quem age com violência e fraude. A E atribui o êxito ao esforço e à sorte e fala em responsabilidade social, o oposto do que o relato mostra. Gabarito: A.",
   "hash": "3480da0a371cdd1e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q14": {
+  "assunto": "Educação física: classificação dos esportes",
+  "dificuldade": 1,
   "explicacao": "A questão pede exemplos, nessa ordem, de esporte individual com interação com o oponente e de esporte coletivo com interação com o oponente. Pelo texto, no primeiro grupo o atleta enfrenta diretamente o adversário, tentando atingir seu objetivo e impedir o do outro, sem companheiros de equipe. No segundo, os atletas cooperam com o time e enfrentam diretamente a equipe adversária. O judô se encaixa no primeiro: dois lutadores se enfrentam, cada um atacando e se defendendo. O futebol americano se encaixa no segundo: equipes cooperam internamente e disputam diretamente com o adversário. A alternativa B traz o lançamento de disco, em que não há interação direta com o oponente. A C cita o remo, cujo desempenho é comparado, sem confronto direto. A D tem o nado sincronizado, que não envolve interação com adversário. A E começa com o salto em distância, também de desempenho comparado. Gabarito: A.",
   "hash": "1dbeb48870638223",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q15": {
+  "assunto": "Literatura brasileira: Naturalismo, O mulato",
+  "dificuldade": 3,
   "explicacao": "A questão pede a concepção sobre o mulato expressa por Manoel, no romance naturalista de Aluísio Azevedo. Manoel recusa a mão da filha a Raimundo porque ele é “filho de uma escrava”, “um homem de cor”. Embora admita que isso seja “uma asneira” e “um prejuízo tolo”, justifica a recusa pela “prevenção contra os mulatos” da sociedade maranhense e pela promessa feita à sogra de casar a neta apenas com “um branco de lei”. Ou seja, a origem mestiça bastava para desqualificar Raimundo, independentemente de suas qualidades pessoais, instrução ou posição social. Essa é a concepção de que a miscigenação desqualificava o indivíduo. A alternativa B erra, pois a condição econômica de Raimundo não anula o preconceito. A C contraria o trecho: a sociedade não condenava a discriminação, ela a praticava. A D trata de maternidade, assunto ausente. A E fala de união entre mestiços, mas o caso é de casamento de um mulato com uma branca. Gabarito: A.",
   "hash": "4089ab593da3353c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q16": {
+  "assunto": "Tecnologias da informação e comunicação: convergência de mídias",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o texto conclui sobre o impacto das tecnologias da comunicação nas diferentes mídias. Míriam Leitão rebate a profecia de que “o jornal vai morrer”. O trecho central é: quando surge uma nova mídia, há quem a apresente como tendência irreversível, mas “depois se descobre que nada é substituído e o novo se agrega ao mesmo conjunto” de meios de comunicação. Ela defende que cada mídia tem “um espaço, um jeito, uma personalidade” e que o jornal terá mais chance “se continuar sendo jornal”. Logo, as novas tecnologias não eliminam as antigas: elas passam a conviver com elas, permitindo a coexistência de diversos modos de produzir e veicular conhecimento. A alternativa A erra, pois o texto reconhece mudanças, como a comunicação rápida e digital. A B fala em ruptura, quando a autora enfatiza a agregação. A C supõe que o jornal seja obsoleto e precise se modernizar, ideia que a autora rejeita. A D afirma substituição, exatamente o que o texto nega. Gabarito: E.",
   "hash": "9c388d4753aa7eb4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q17": {
+  "assunto": "Artes visuais: Cubismo, colagem",
+  "dificuldade": 3,
   "explicacao": "A questão pede as características do movimento artístico presente na obra de Picasso. Guitar, Sheet Music, and Glass, de 1912, é um papier collé (papel colado) com guache e carvão, típico da fase sintética do Cubismo, movimento criado por Picasso e Braque. O Cubismo rompe com a perspectiva tradicional: decompõe os objetos em formas geométricas, mostra-os por vários ângulos ao mesmo tempo e sobrepõe planos e fragmentos, como pedaços de partitura, de jornal e de papel de parede que, recortados e colados, sugerem o violão e o copo. Assim, o movimento explora a sobreposição de planos geométricos e fragmentos de objetos. A alternativa A descreve o abstracionismo; o Cubismo ainda parte de objetos reconhecíveis. A B remete à Pop Art, que se apropria da linguagem publicitária. A C é a marca do Futurismo, que buscava representar movimento e velocidade. A D lembra o Neoplasticismo e o Minimalismo, com redução a formas primárias. Gabarito: E.",
   "hash": "dc7cd7f4a14f2f60",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q18": {
+  "assunto": "Variação linguística: línguas indígenas, nheengatu",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que o esforço de preservação do nheengatu reconhece. O texto mostra que a língua geral, ou tupi moderno, foi mais falada que o português na Amazônia até 1877, inclusive por não índios, e participou intensamente da história da região. Mesmo perseguida no século XVIII e enfraquecida com a chegada de falantes de português no ciclo da borracha, ainda é falada por mais de 6 mil pessoas, e foi oficializada em São Gabriel da Cachoeira, ao lado do baníua e do tucano. Preservar essa “língua-testemunho” significa reconhecer que a cultura amazônica se construiu, em parte, pela expressão em línguas de origem indígena. A alternativa A contradiz o texto, que fala em risco de extinção e na necessidade de ação externa. A C também falha, pois o autor diz que a oficialização não obteve todos os resultados esperados. A D é contrária ao texto, que valoriza a pluralidade linguística. A E inventa um objetivo de diferenciação, já que a língua é falada também na Venezuela e na Colômbia. Gabarito: B.",
   "hash": "ba0587bcbc6b9218",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q19": {
+  "assunto": "Teatro e dança: quadrilha junina",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o texto privilegia ao descrever a quadrilha como manifestação da cultura corporal. Depois de apresentar a festa junina, o texto foca nos termos de origem francesa usados pelo puxador e explica o que cada um significa na dança: o “changê de damas” é a troca de damas entre os pares (de “changer”); o “alavantú” é o momento em que os casais se aproximam e se cumprimentam (de “en avant tous”); o “balancê” vem de bailar, balançar. Ou seja, o texto descreve sobretudo os movimentos realizados durante a coreografia. A alternativa B não se sustenta, pois os caipiras e o puxador são citados apenas de passagem. A C erra, já que as vestimentas não são descritas. A D também, porque o texto só menciona a “música típica”, sem detalhar ritmos. A E fala em folguedos, mas a fogueira e as barraquinhas aparecem só como cenário, sem descrição. Gabarito: A.",
   "hash": "eae83c58c3fd91f6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q20": {
+  "assunto": "Argumentação: analogia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a estratégia argumentativa usada para defender que o texto dramático é incompleto fora do palco. O autor afirma que, para quem pensa assim, “ler um texto dramático equivale a comer a massa do bolo antes de ele ir para o forno”. Essa comparação entre dois domínios diferentes, o teatro e a culinária, é uma analogia: assim como a massa crua ainda não é o bolo pronto, o texto escrito ainda não é a peça completa, que só “fica pronta” quando os atores dão vida às emoções, os cenógrafos compõem os espaços e os figurinistas vestem os corpos. A analogia torna a ideia concreta e fácil de aceitar. A alternativa A erra, pois o texto não busca emocionar o leitor. A C não se aplica, já que não há apelo à identificação do leitor com alguém. A D é imprecisa: o texto não constrói o argumento pelo contexto histórico ou social. A E aparece no final, com a lista de profissionais, mas o recurso decisivo é a comparação com o bolo. Gabarito: B.",
   "hash": "a19a842011bfc24f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q21": {
+  "assunto": "Interpretação de texto: tirinha, redes sociais",
+  "dificuldade": 1,
   "explicacao": "A questão pede o objetivo da articulação entre recursos verbais e visuais na tirinha. A namorada reclama que o relacionamento “tem estado muito parado” e sugere: “Acho que deveríamos nos curtir um pouco...”. Ela fala em curtir no sentido afetivo, de aproveitar a companhia um do outro. O rapaz responde “Claro!” e, no último quadrinho, aparece diante do computador clicando em “Curtir” no perfil dela numa rede social chamada “A Rede”. O humor está na ambiguidade de “curtir” e na resposta do rapaz, que reduz a relação a um clique virtual. Com isso, a tirinha critica a superficialidade com que os relacionamentos amorosos são vividos e expostos nas redes sociais. A alternativa B erra, pois a tirinha não nega conceitos antigos. A C não se sustenta, já que a “nova experiência” é justamente o alvo da crítica. A D e a E invertem o sentido: a tirinha não valoriza as curtidas como medida de sucesso ou profundidade da relação, mas ironiza essa ideia. Gabarito: A.",
   "hash": "bc522384f2362c10",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q22": {
+  "assunto": "Coesão e coerência: comparação, enumeração",
+  "dificuldade": 3,
   "explicacao": "A questão pede os recursos que estruturam e fazem progredir as ideias no texto de Daniel Munduruku. O texto começa com uma comparação explícita: “educar é como catar piolho na cabeça de criança”. A partir dela, as ideias avançam por meio de enumerações do que é preciso: “confiança, perseverança e um certo despojamento” e, depois, conquistar a confiança de quem se quer educar, “para fazê-lo deitar no colo e ouvir histórias”. A comparação lança a ideia central e a enumeração a desenvolve, listando as qualidades exigidas tanto de quem cata piolho quanto de quem educa. A alternativa B erra, pois não há relação de hiperonímia nem pares de antônimos no texto. A C não se aplica, já que não há citação de outro autor nem argumentação formal. A D falha, porque o texto não narra fatos. A E também, pois a pontuação é comum e não há exagero intencional que configure hipérbole. Gabarito: A.",
   "hash": "cb179f26f8eea0b4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q23": {
+  "assunto": "Literatura brasileira: Lima Barreto, exclusão social",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que a reclusão no hospício representa no testemunho de Lima Barreto. O narrador descreve a seção de indigentes, onde tudo é “de uma pobreza sem par”, e destaca quem são os internos: imigrantes italianos e portugueses, “negros roceiros”, copeiros, cocheiros, moços de cavalariça, trabalhadores braçais, além de pessoas instruídas que “a falta de recursos e proteção atira naquela geena social”. Ou seja, o hospício reúne sobretudo os pobres e marginalizados, escondendo-os da sociedade. A internação funciona como forma de tornar invisíveis grupos vulneráveis e periféricos, o que é conveniente para quem não quer vê-los. A alternativa A erra, pois o texto não apresenta a reclusão como tratamento necessário. A B fala em punição de hábitos desregrados, ideia ausente. A C é contrária ao relato, que mostra a internação como mais uma desgraça, não como compensação. A D também contradiz o texto, já que o ambiente descrito é degradante e não ressocializa. Gabarito: E.",
   "hash": "27c86da33d00cf89",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q24": {
+  "assunto": "Tecnologias da informação e comunicação: dependência tecnológica",
+  "dificuldade": 1,
   "explicacao": "A questão pede o motivo do alerta dos especialistas citado no texto. O texto diz que internet e celulares “não saem das mãos e mentes das pessoas” e que “o uso excessivo dessas ferramentas pode viciar”; a dificuldade está em diferenciar a dependência do uso normal, já que essas ferramentas também servem ao trabalho e ao estudo. O alerta, portanto, refere-se à dependência: as pessoas se tornam subordinadas aos recursos tecnológicos a ponto de isso prejudicar suas vidas. A alternativa A fala em insegurança causada pelo número de conectados, tema ausente. A B trata da credibilidade das informações, assunto que o texto não aborda. A C cita pesquisas sobre danos cerebrais, que não são mencionadas. A E traz o isolamento social, uma consequência possível, mas o texto não a menciona; o foco é o vício. Gabarito: D.",
   "hash": "c6ea9c875f5f76f4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q25": {
+  "assunto": "Gêneros textuais: perfil, sequência descritiva",
+  "dificuldade": 2,
   "explicacao": "A questão pede a sequência textual que apresenta objetivamente o cientista António Damásio. O primeiro parágrafo do perfil é claramente descritivo: “Ele é baixo, usa óculos, tem cabelos brancos penteados para trás e costuma vestir terno e gravata”. Em seguida, o texto descreve seu jeito de falar, didático, paciente, com graça e ironia, e sua posição de destaque na neurociência, além de sua visão sobre a mente. Essas características físicas e de comportamento delineiam um perfil do professor, cumprindo a função de apresentá-lo ao leitor. A alternativa B erra, pois não há verbos no imperativo nem convite à leitura. A C não procede, já que o texto não defende tese sobre o comportamento dele. A D falha, porque quase não há sequência de fatos narrados; só a menção ao primeiro livro. A E contradiz o enunciado, que fala em apresentação objetiva, e não em impressões pessoais da autora. Gabarito: A.",
   "hash": "45851496c679e1a1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q26": {
+  "assunto": "Semântica: ambiguidade, humor",
+  "dificuldade": 2,
   "explicacao": "A questão pede o recurso que faz do texto uma anedota, isto é, o que provoca o riso. O visitante pergunta “pra onde vai essa estrada?”, usando “ir” no sentido figurado de levar, conduzir a algum lugar. Sô Augusto entende “ir” no sentido literal de se deslocar e responde que, em 30 anos, a estrada “nunca foi pra parte nenhuma”, pois estrada não anda. Quando o visitante reformula, perguntando aonde a gente chegaria andando, ele responde com exagero que se vai até “nas Oropas, se o mar der vau”. O humor nasce, portanto, da ambiguidade do verbo “ir”, que permite as duas leituras. A alternativa A erra, pois a negação aparece uma só vez de forma relevante e não gera o riso. A B aponta uma marca de oralidade, mas a graça não depende da grafia de “Oropas”. A D falha: as perguntas são sinceras, não irônicas. A E cita a linguagem coloquial, que caracteriza a fala, mas não é o que produz o humor. Gabarito: C.",
   "hash": "7d6025e5a57fcc55",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q27": {
+  "assunto": "Artes visuais: realismo socialista",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que representa a escultura Operário e mulher kolkosiana, de Vera Mukhina, feita em 1937, no auge do stalinismo. A obra, em aço inoxidável e com 24,5 m de altura, mostra um operário e uma camponesa de um kolkhoz (fazenda coletiva) avançando juntos, com corpos fortes e jovens, erguendo a foice e o martelo, símbolos da união entre trabalhadores urbanos e rurais. É um exemplo do Realismo Socialista, estilo oficial da URSS, que tinha função de propaganda: retratar o povo soviético de forma heroica, confiante e vitoriosa. Trata-se, portanto, de uma exaltação idealizada da capacidade de trabalho do povo soviético. A alternativa A erra, pois a obra apoia o sistema vigente, não a luta contra ele. A B falha, já que a figura é idealizada, não fiel à dura realidade da época. A D é absurda, pois o regime soviético combatia o czarismo. A E contradiz a obra, que exibe vigor e otimismo, não sofrimento. Gabarito: C.",
   "hash": "14d406109a45a9c2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q28": {
+  "assunto": "Argumentação: editorial, relato pessoal",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma característica da argumentação do editorial, considerando como o autor se dirige ao leitor. O editor da Superinteressante abre dizendo que a reportagem de capa “veio do meu umbigo” e conta sua própria história: descendente de italianos, criado à base de trigo, passou a ter mal-estar e alergias, peregrinou por médicos e descobriu ter intolerância a glúten e lactose. A partir dessa experiência pessoal, ele chega ao debate geral: a explosão de produtos sem glúten, a imprensa que faz “escarcéu” e os médicos que falam em modismo. O relato pessoal, portanto, aproxima o leitor e especifica o debate que a matéria vai abordar. A alternativa B erra, pois o caso pessoal não desconstrói os fatos, ao contrário, introduz o tema geral. A C exagera, já que os termos de culinária não configuram intertextualidade. A D não procede, pois não há denúncia contra a indústria. A E cita uma marca real do texto, mas o enunciado pede a estratégia argumentativa, que é o relato. Gabarito: A.",
   "hash": "4f4a83eda2392f3c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q29": {
+  "assunto": "Tecnologias da informação e comunicação: chat, oralidade e escrita",
+  "dificuldade": 2,
   "explicacao": "A questão pede uma característica da interação no chat descrita no texto. Os autores explicam que, no chat, a interação é síncrona, em tempo real, como uma conversa telefônica, mas os interlocutores precisam escrever suas mensagens. Por isso, apesar da sensação de estarem falando, produzem um “texto falado por escrito”, uma “conversação com expressão gráfica”. Ou seja, o chat articula elementos da modalidade oral (a conversa, a sincronia) e da modalidade escrita (o registro gráfico). A alternativa A erra, pois o texto diz que não se trata de conversação “nos moldes tradicionais”. A B fala em presença obrigatória de ícones, o que o texto não afirma. A C exagera a semelhança com o telefone, que é só uma aproximação quanto ao tempo. A E cita agilidade na troca de temas e turnos, aspecto que o texto não menciona. Gabarito: D.",
   "hash": "a89a5da36e924285",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q30": {
+  "assunto": "Gêneros textuais: verbete, notícia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função social de cada gênero, embora os dois textos tratem do frevo. O Texto I é um verbete do Dicionário do folclore brasileiro, de Câmara Cascudo: explica o que é o frevo (dança de rua e de salão, marcha de ritmo frenético) e a origem do nome, a partir de “fervura”, pronunciada “frevura” pelo povo. A função do verbete é definir. O Texto II é uma notícia de jornal: relata um fato recente, o reconhecimento do frevo como Patrimônio Imaterial da Humanidade pela Unesco, com local (Paris) e momento (“nesta quarta-feira”). A função da notícia é informar. A alternativa A erra, pois o verbete não resume e a notícia não avalia. A B falha, já que o verbete não faz análise. A D também, porque não há comentário opinativo no Texto I. A E não se aplica: nenhum dos textos discute ou busca conscientizar o leitor. Gabarito: C.",
   "hash": "d063d19b56e44ed2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q31": {
+  "assunto": "Literatura brasileira: prosa memorialística, imagem simbólica",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que a insistência na imagem do tomate revela no texto de Bartolomeu Campos de Queirós. O narrador lembra a madrasta cortando o tomate em fatias tão finas que eram transparentes, afiando a faca “como se degolasse cada um de nós”. O tomate aparece todos os dias e frutifica “sem demandar adubo além do ciúme”, e as fatias delgadas “escreviam um ódio” que só os que se sentem “intrusos ao amor” podem engolir. A imagem, repetida e carregada de violência, simboliza a relação hostil entre a madrasta e os enteados, especialmente o narrador, que se sente rejeitado. Evidencia-se, assim, a convivência conflituosa entre o menino e a esposa do pai. A alternativa A cita a saudade, que aparece, mas não é o que a imagem do tomate destaca. A B erra, pois o pai, embriagado, apenas observa. A C não procede, já que o texto não mostra indiferença do marido como causa da raiva. A D inverte a situação: quem nega afeto é a madrasta. Gabarito: E.",
   "hash": "2abbddde2b4c5e63",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q32": {
+  "assunto": "Artes visuais: Duchamp, ready-made",
+  "dificuldade": 4,
   "explicacao": "A questão pede o modo de fazer arte inaugurado por Duchamp com os ready-mades. A Roda de bicicleta (1913) é uma roda comum fixada sobre um banquinho de madeira: objetos prontos, industriais, sem trabalho artesanal do artista. No Texto II, Duchamp diz que escolhia o objeto com “indiferença visual” e “ausência total de bom ou mau gosto”, ou seja, sem buscar beleza nem emoção estética. Ao levar esses objetos para o museu, ele questiona o que faz de algo uma obra de arte: a habilidade manual, a beleza, a emoção estética ou a escolha do artista e o contexto da instituição. Por isso, os ready-mades criticam os princípios que definem o que é uma obra de arte. A alternativa A não se relaciona com a proposta, que desmonta a figura do artífice. A B contradiz Duchamp, que escolhia com indiferença à forma. A C também, pois ele nega o belo, não o revitaliza. A E descreve o gesto, mas não o seu sentido: o objeto industrial é o meio da crítica, não o fim. Gabarito: D.",
   "hash": "5e1b29230944d7e1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q33": {
+  "assunto": "Variação linguística: português europeu",
+  "dificuldade": 4,
   "explicacao": "A questão pede o trecho que mostra um uso característico do português de Portugal. Na alternativa correta, “Se calhar estava a falar de tratar da cabra” reúne duas marcas lusitanas: a expressão “se calhar”, que em Portugal significa “talvez”, “quem sabe”, e a construção “estar a + infinitivo” (“estava a falar”), que no Brasil seria “estava falando”, com gerúndio. Além disso, “nunca esqueças” usa a segunda pessoa (tu) no imperativo, também mais comum em Portugal. A alternativa A traz construções perfeitamente usuais no Brasil, como “ter pena”. A B também é comum aos dois países. A C tem a ênclise “dava-lhe” e “apetecesse”, mais formais, mas possíveis no português escrito brasileiro; não são tão marcadamente lusitanas quanto “se calhar” e “estar a”. A E é uma frase de uso corrente no Brasil. Gabarito: D.",
   "hash": "e0371d1544f49e50",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q34": {
+  "assunto": "Coesão e coerência: retomada pronominal",
+  "dificuldade": 3,
   "explicacao": "A questão pede qual segmento o pronome oblíquo “o” retoma nos versos “A vida exige, para o conseguirmos” e “Nós o conseguimos”. O poema de Drummond começa com o título e primeiro verso “Fazer 70 anos não é simples”. Em seguida, diz que a vida exige “perdas e perdas” para conseguirmos isso, ou seja, para conseguirmos fazer 70 anos. Mais adiante, dirigindo-se ao amigo José Carlos, o eu lírico comemora: “Nós o conseguimos”, isto é, conseguimos chegar aos 70 anos. Nos dois casos, o pronome “o” retoma a oração “Fazer 70 anos”, garantindo a progressão do tema. A alternativa A erra, pois José Carlos é o interlocutor, não o que se consegue. A B não procede, já que as perdas são o preço exigido, não a conquista. A C não serve, pois “a vida exige” é o sujeito e o verbo da oração, não seu complemento. A E é apenas um aposto de José Carlos. Gabarito: D.",
   "hash": "01296790981b09c2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q35": {
+  "assunto": "Tecnologias da informação e comunicação: democratização do conhecimento",
+  "dificuldade": 2,
   "explicacao": "A questão pede o efeito comum à prensa de Gutenberg e à internet, segundo Don Tapscott. Ele explica que, antes de Gutenberg, o conhecimento ficava concentrado em oligopólios e que a prensa móvel “começou a democratizar o conhecimento”, dando acesso à palavra escrita. Com a internet, “cada um de nós pode ser seu próprio editor” e temos acesso ao conhecimento de pessoas de qualquer parte do mundo. Nas duas invenções, o ponto comum é a democratização do conhecimento pela divulgação de ideias por meio de publicações, impressas ou digitais. A alternativa A trata de revoluções políticas, citadas só como consequência da prensa, não da internet. A B restringe a ideia ao papel e às instituições. A C fala em universidades, que aparecem apenas entre os efeitos da prensa. A D erra ao falar em comércio do conhecimento, ideia ausente no texto. Gabarito: E.",
   "hash": "9f37820075dbe821",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q36": {
+  "assunto": "Publicidade e linguagem midiática: cartaz, duplo sentido",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que os recursos verbais e não verbais do cartaz revelam sobre sua estratégia. A imagem mostra uma mulher com as mãos sobre os seios, e o texto principal diz: “Câncer de mama. Vamos tocar neste assunto.” A expressão “tocar no assunto” significa falar sobre algo, quebrar o silêncio; ao mesmo tempo, combinada à imagem das mãos sobre a mama, remete ao toque físico do autoexame, prática importante para detectar a doença precocemente. Esse duplo sentido do verbo “tocar” é o recurso central de persuasão: convida as mulheres a conversar sobre o tema e, também, a examinar o próprio corpo. A alternativa A cita palavras que de fato aparecem, mas a associação entre “prevenção” e “conscientização” é secundária. A C erra, pois o cartaz não menciona mulheres mais velhas. A D toma o pedido “Use o laço rosa” como objetivo principal, quando ele é só complemento. A E é genérica e não identifica o recurso que articula texto e imagem. Gabarito: B.",
   "hash": "8739ad41dd23bffb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q37": {
+  "assunto": "Artes visuais: arte contemporânea, ecologia urbana",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que se considera no trabalho do artista Jaime Prades. O texto mostra que ele, precursor do grafite, passou a perceber “o desastre que é a ecologia urbana” e quis construir uma árvore gigante com sobras de madeira tiradas de caçambas, que ele chama de “vísceras expostas” da cidade. Agora, pretende criar uma plataforma na internet, uma “floresta virtual planetária”, para que outros artistas coloquem “essas questões de forma poética, criando uma discussão enriquecedora”. Ou seja, a arte assume a função de provocar reflexão sobre a crise ambiental urbana e a responsabilidade do ser humano diante dela. A alternativa B erra, pois a poesia está a serviço do conteúdo, não acima dele. A C contraria o texto, que foca na cidade e no lixo, não no belo natural. A D pega um detalhe, a memória da madeira, mas não o objetivo central do projeto. A E inverte a ideia: o artista critica o descarte, não estimula o consumo. Gabarito: A.",
   "hash": "b6ab7f260781f546",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q38": {
+  "assunto": "Publicidade e linguagem midiática: estratégia argumentativa",
+  "dificuldade": 2,
   "explicacao": "A questão pede o procedimento argumentativo usado na propaganda da companhia aérea. O texto diz: “O tapete vermelho na porta é para você se sentir nas nuvens antes mesmo de tirar os pés do chão.” O tapete vermelho é símbolo de tratamento dado a celebridades e convidados ilustres; “sentir-se nas nuvens” significa sentir-se muito bem, feliz, e brinca com o fato de que o avião voa nas nuvens. A mensagem é que o cliente será tratado como alguém especial desde a entrada, antes mesmo da decolagem. A estratégia, portanto, é valorizar o cliente, oferecendo-lhe, além do voo, um atendimento que o faça se sentir especial. A alternativa B erra, pois o anúncio promove a própria empresa, não companhias aéreas em geral. A C exagera ao falar em luxo; o foco é a sensação do cliente. A D desloca o foco para a empresa, quando o texto se dirige ao “você”. A E não se aplica, já que o anúncio não define parâmetros de atendimento. Gabarito: A.",
   "hash": "f5a72ed621635a82",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q39": {
+  "assunto": "Interpretação de texto: quadrinhos, ironia",
+  "dificuldade": 2,
   "explicacao": "A questão pede como os quadrinhos de André Dahmer levam a refletir sobre a tecnologia. No primeiro quadro, Rodolfo, diante do computador, lê em voz alta: “A internet está mudando as relações humanas”. No segundo, a esposa, sentada de costas para ele, responde: “Eu sei, Rodolfo. Você me escuta cada vez menos.” No terceiro, ele, sem dar atenção a ela, continua lendo: “São quase dois bilhões de pessoas conectadas”. A ironia está no contraste: o homem se impressiona com a enorme conexão virtual do mundo, mas está desconectado da pessoa ao seu lado, confirmando na prática a frase que leu. Os quadrinhos ironizam, assim, o crescimento da conexão virtual em oposição à falta de vínculos reais. A alternativa A fala em solidão existencial dos usuários, mas quem sofre a falta de atenção é a esposa. A B critica relações mantidas pela internet, que não aparecem na tira. A C fala de dificuldade de adaptação dos mais velhos, o que não ocorre. A E generaliza para os dois mundos, quando a tira opõe o virtual ao real. Gabarito: D.",
   "hash": "69f1db85edf265ec",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q40": {
+  "assunto": "Educação física: esporte, globalização cultural",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que a dificuldade das empresas norte-americanas nos anos 1980 indica. Wisnik conta que um canal esportivo de TV fracassou em implantar o basquete como esporte mundial e que uma empresa de materiais esportivos teve de lidar com o futebol, esporte estranho a ela. As duas corrigiram a rota e passaram a investir no futebol. Para o autor, isso revela algo sobre a cultura: o esporte mais mundial não faz sentido para os Estados Unidos, e os esportes norte-americanos não fazem sentido para o mundo. Assim, o fracasso indica a influência de um viés cultural e econômico na tentativa de implantar o basquete como esporte mundial diante da força cultural do futebol. A alternativa A erra, pois o texto não fala em popularização do futebol nos EUA. A B inventa uma lucratividade no cenário norte-americano. A D contradiz o texto, que mostra o futebol inicialmente fora do programa da empresa. A E não se apoia no texto, que trata do mundo, não da população dos EUA. Gabarito: C.",
   "hash": "3f7b4c74e6b1a79a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q41": {
+  "assunto": "Gramática: tempos verbais, norma-padrão",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que, quanto à sequência dos eventos, mostra o uso da norma-padrão na carta. O trecho organiza com precisão o tempo dos fatos: “Sei” (presente, o momento da escrita), “o ofendi” (pretérito, ofensa anterior), “sua carta... parece ter sido escrita em 5 de julho” (infinitivo composto, indicando algo anterior ao presente), “eu a li e reli” (pretérito, ação já concluída), e depois “Não usarei” e “devolverei” (futuro, compromissos que ainda virão), além de “se o senhor não quiser” e “se assim me for pedido” (futuro do subjuntivo, condições). Esse emprego adequado e articulado dos tempos verbais ordena os eventos de forma clara: passado, presente e futuro. A alternativa A erra, pois a colocação pronominal não trata da sequência de eventos. A B cita negações, que não organizam a cronologia. A D falha, já que “abrupta” e “turvo” não são arcaísmos. A E aponta qualificadores, que não marcam o tempo dos fatos. Gabarito: C.",
   "hash": "b94ef97c9fc9892c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q42": {
+  "assunto": "Gêneros textuais: divulgação científica",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo do texto ao apresentar os resultados da pesquisa. O texto foi publicado numa revista de saúde para o público geral e usa linguagem acessível: informa que a pesquisa da Brigham Young University mediu a pressão de 198 adultos por 24 horas, com aparelhos no braço, e que a média dos pais foi 4,5 pontos inferior na pressão diastólica em relação aos adultos sem filhos. Também traz as ponderações da autora do estudo. O objetivo é informar o leitor leigo sobre os resultados obtidos, com base nos dados monitorados. A alternativa B erra o público, que não é acadêmico, e o objetivo, que não é sensibilizar. A C fala em persuadir a ter filhos, o que a própria pesquisadora desautoriza. A D também erra o público e se apoia na reputação da instituição, que não é o argumento central. A E fala em instruir sobre a validade relativa da pesquisa, mas as ressalvas da autora apenas complementam a informação principal. Gabarito: A.",
   "hash": "0cce22c1ecbf762b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q43": {
+  "assunto": "Literatura brasileira: metalinguagem, conto",
+  "dificuldade": 5,
   "explicacao": "A questão pede o procedimento estético com que o narrador define o gênero conto, usando metalinguagem. O texto de Sérgio Sant’Anna é um conto que fala de como seria um conto, e faz isso encadeando imagens: “espiral azul num campo de narcisos defronte a uma torre a descortinar um lago assombrado”, uma pedra que espraia a água em círculos, um peixe turvo, o rastro de uma lesma, a luz de um quasar, o sino num mosteiro, a fulguração de um sonho. Cada imagem puxa outra, e elas se sobrepõem, criando múltiplos sentidos em vez de um significado único. Essa cadeia de imagens é o procedimento central. A alternativa A reduz o texto às cores, que são só um elemento entre muitos. A B pega uma das comparações, a musical, mas ela é apenas uma das imagens. A C destaca o obscuro, quando o texto diz que o conto é “límpido e obscuro”. A E contradiz o texto, que resiste ao sentido único. Gabarito: D.",
   "hash": "f413134f6865b264",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q44": {
+  "assunto": "Literatura brasileira: João Cabral, sertão",
+  "dificuldade": 5,
   "explicacao": "A questão pede o que o fragmento de “Dois parlamentos” ressalta sobre a lida do sertanejo com as adversidades. O poema descreve os cemitérios gerais do sertão, onde “não há morte pessoal”: todos morrem com a “morte padrão, / em série fabricada”, uma morte “que não se escolhe” e é “fornecida de graça”, produzida pela fome e pela miséria. Ela se impõe a qualquer outra morte mais pessoal, e até “tem suas vantagens”, pois produz “defuntos funcionais”, secos, “próprios a uma terra sem vermes”. A ideia central é que a miséria iguala todos os mortos no anonimato, sem individualidade. Por isso, o poema ressalta o nivelamento do anonimato imposto pela miséria na morte. A alternativa A trata da hierarquia social, mas o poema fala do sertanejo pobre, não da igualdade geral após a morte. A B é muito genérica e não capta a ideia de morte em série. A D desloca a ironia para a fragilidade dos corpos, quando ela recai sobre a miséria. A E não se apoia no texto, que não trata de sentimentos dos sobreviventes. Gabarito: C.",
   "hash": "714b21736a161fcf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q45": {
+  "assunto": "Artes visuais: performance, Flávio de Carvalho",
+  "dificuldade": 3,
   "explicacao": "A questão pede as características da performance de Flávio de Carvalho reveladas pela imagem. Em 1956, o artista desfilou pela Avenida Paulista com o traje New Look, criado por ele para o calor tropical: blusa leve de mangas bufantes, saia curta pregueada e meias arrastão, em vez do terno pesado. A obra usa o próprio corpo do artista como suporte; é uma provocação, pois um homem de saia na rua mais importante de São Paulo chocava os padrões dos anos 1950; e tem a moda como tema, questionando o vestuário masculino. Assim, a imagem relaciona corpo, provocação e moda. A alternativa A erra, pois a performance é pública, não íntima, e não é política no sentido estrito. A B cita a dor, que não aparece. A C fala de intimidade e drama, ausentes na proposta. A D troca a provocação e o corpo pelo drama e pelo humor, que não definem a obra. Gabarito: E.",
   "hash": "cfabec8a92504542",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q46": {
+  "assunto": "Cidadania e direitos: direitos civis",
+  "dificuldade": 2,
   "explicacao": "A questão pede exemplos dos direitos civis citados no texto. O texto informa que esses direitos surgiram na luta contra o Absolutismo e foram inscritos nas primeiras constituições modernas, como as dos EUA e da França no fim do século XVIII, sendo chamados de “direitos naturais”. Os direitos civis são os direitos individuais de liberdade: igualdade de todos perante a lei, liberdade de expressão, de pensamento, de ir e vir, direito à propriedade e à segurança. Eles protegem o indivíduo contra os abusos do Estado. Logo, o conjunto inclui igualdade jurídica e liberdade de expressão. A alternativa A traz direitos políticos, ligados à participação no governo. A B e a C trazem direitos sociais, como moradia, educação, previdência e saúde, conquistados sobretudo nos séculos XIX e XX. A E reúne direitos de organização política e trabalhista, que também não são os direitos civis clássicos. Gabarito: D.",
   "hash": "6695ead353129ccd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q47": {
+  "assunto": "Era Vargas: patrimônio, identidade nacional",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo da política patrimonial criada com o SPHAN, em 1937. O texto informa que essa política se limitava aos monumentos arquitetônicos do passado brasileiro e estava ligada aos ideais modernistas de conhecer, compreender e recriar o Brasil pela valorização da tradição. Isso ocorreu durante o governo Vargas, especialmente no Estado Novo, que buscava centralizar o poder e construir uma ideia de nação unificada, valorizando símbolos comuns como a arquitetura colonial e o barroco mineiro. Preservar esses monumentos era uma forma de afirmar a identidade nacional. A alternativa A é parcial: a política lidava com bens materiais, não com a escrita da história. A B erra, pois não se tratava de criar mercado cultural. A D não procede, já que o texto fala em monumentos arquitetônicos, não em sítios arqueológicos. A E também falha, porque o objetivo era nacional, não a universalização de saberes de museus. Gabarito: C.",
   "hash": "b3d9972a73399c11",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q48": {
+  "assunto": "Primeira República: ciclo da borracha",
+  "dificuldade": 2,
   "explicacao": "A questão pede a causa do súbito declínio da economia da borracha na Amazônia por volta de 1914. Durante o ciclo da borracha, Manaus enriqueceu com a extração do látex das seringueiras nativas. Porém, os ingleses levaram sementes de seringueira para suas colônias no Sudeste Asiático, como Malásia e Ceilão, onde montaram plantações organizadas, com árvores próximas umas das outras e maior produtividade. Quando essas plantações começaram a produzir em larga escala, a oferta mundial cresceu muito, o preço despencou e a borracha amazônica, extraída de árvores dispersas na floresta, perdeu competitividade. A alternativa A erra, pois o problema não era transporte, e sim concorrência. A C refere-se ao Encilhamento, crise financeira do início da República, nos anos 1890. A D não procede, já que a migração nordestina continuou e não foi a causa. A E está fora de lugar: a guerra começou após a queda de preços, que já estava em curso. Gabarito: B.",
   "hash": "5ff5a7bbcd38321a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q49": {
+  "assunto": "Revoluções e século XIX: nacionalismo, Estados nacionais",
+  "dificuldade": 4,
   "explicacao": "A questão pede o resultado da difusão da ideia de nação como lugar de pertencimento por nascimento, no fim do século XIX. O texto de Hobsbawm mostra que o significado de “nación” mudou: de simples conjunto de habitantes passou a ser “um Estado ou corpo político que reconhece um centro supremo de governo comum”. A construção desses Estados nacionais exigiu homogeneidade: os governos passaram a impor uma língua oficial, uma história e tradições comuns, por meio da escola, do exército e da imprensa, apagando dialetos, costumes e identidades regionais ou de minorias. O resultado foi a imposição de uma única língua, cultura e tradição às diferentes comunidades agregadas ao Estado. A alternativa A erra, pois a unidade nacional não anulou as diferenças sociais. A B supõe um equilíbrio que não existiu. A D fala em anulação pacífica, quando houve repressão e conflitos. A E inverte a realidade: as populações locais foram subordinadas, não protagonistas. Gabarito: C.",
   "hash": "d8b46ff04416d246",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q50": {
+  "assunto": "Espaço agrário: segurança alimentar, agrobiodiversidade",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma medida de segurança alimentar que contesta o modelo descrito. O texto mostra que a alimentação mundial depende de poucas corporações multinacionais e que cerca de 90% da alimentação vem de apenas 15 espécies de plantas e 8 de animais, concentradas em grãos como trigo, arroz, milho e soja. Esse modelo é o do agronegócio: monoculturas, sementes controladas por grandes empresas, uso intensivo de agrotóxicos. Contestá-lo significa diversificar a produção e reduzir a dependência das corporações, e a produção orgânica faz isso: valoriza a agricultura familiar, a variedade de cultivos, o uso de sementes locais e a ausência de insumos químicos industriais. A alternativa A reforça o modelo, pois a mecanização favorece grandes monoculturas. A B também, já que ampliar áreas de plantio tende a expandir as mesmas lavouras. A D mantém a concentração de terras. A E é uma medida trabalhista e não altera a dependência alimentar. Gabarito: C.",
   "hash": "2172441a6434ab77",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q51": {
+  "assunto": "População: pirâmide etária, envelhecimento",
+  "dificuldade": 2,
   "explicacao": "A questão pede a ação do Estado influenciada pela evolução da estrutura etária entre 1991 e 2010. As pirâmides etárias do IBGE mostram que, nesse período, a base, que representa crianças e jovens, se estreitou por causa da queda da fecundidade, enquanto o topo, de adultos mais velhos e idosos, se alargou com o aumento da expectativa de vida. Ou seja, a população brasileira está envelhecendo. Com mais idosos recebendo aposentadoria por mais tempo e proporcionalmente menos jovens entrando no mercado de trabalho para contribuir, o sistema previdenciário fica pressionado. Por isso, o Estado passou a discutir e aprovar reformas da Previdência. A alternativa A não se relaciona à mudança etária. A B contraria a tendência, já que o número de crianças diminui. A D é desnecessária, pois a natalidade já está em queda. A E não tem relação com os dados, que tratam de idade e sexo, não de migração. Gabarito: C.",
   "hash": "98824451a5ae403f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q52": {
+  "assunto": "Clima: rios voadores, desmatamento",
+  "dificuldade": 3,
   "explicacao": "A questão pede o fator que agrava a seca no Sudeste, segundo o texto. Philip Fearnside alerta que, com o desmatamento em grande escala, menos água da Amazônia seria transportada pelos ventos para o Sudeste na estação chuvosa. Esse transporte de umidade é o que se chama de rios voadores: a floresta devolve à atmosfera grande quantidade de vapor de água pela evapotranspiração, e os ventos levam essa umidade para o centro-sul do país, onde ela se transforma em chuva. Menos floresta significa menos evapotranspiração e, portanto, rios voadores com menor volume, o que reduz as chuvas que abastecem os reservatórios de São Paulo. A alternativa A erra, pois o texto não fala em mudança na direção dos ventos alísios. A C trata de massas de ar polares, que não aparecem no texto. A D cita a Cordilheira dos Andes, que é a barreira que desvia a umidade, não o fator de agravamento. A E fala em pressão atmosférica, assunto não mencionado. Gabarito: B.",
   "hash": "077ad07b07ebc1c3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q53": {
+  "assunto": "Geologia e relevo: erosão eólica",
+  "dificuldade": 1,
   "explicacao": "A questão pede o tipo de erosão que modela o relevo descrito no texto. O texto fala de um agente que destrói, transporta e deposita pequenos fragmentos rochosos conforme sua direção e intensidade, atuando sobretudo em regiões áridas e semiáridas com pouca vegetação, e que forma, destrói e reconstrói elevações de areia chamadas dunas. Esse agente é o vento, e a erosão causada por ele é chamada eólica. Em áreas secas e sem vegetação, os grãos de areia ficam soltos e são facilmente carregados e acumulados pelo vento, formando as dunas. A alternativa A refere-se à ação das geleiras, que formam vales em U e morainas. A B trata dos rios, que escavam vales e depositam sedimentos nas margens. A D é a ação da água da chuva, que provoca ravinas e voçorocas. A E corresponde ao mar, que forma falésias e praias. Gabarito: C.",
   "hash": "08b2305bc7fc99af",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q54": {
+  "assunto": "Primeira República: condições operárias",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que indicam as condições de trabalho descritas na fábrica do início do século XX. O texto mostra que os tecelões, pagos por obra, viram seu salário médio cair de 170$000 para 90$000 e depois para 75$000 réis, ou seja, uma redução de mais da metade, pois 75 ÷ 170 ≈ 0,44. Ao mesmo tempo, a fábrica alugava casas aos operários por 20$000 a 30$000 réis, o que consumia uma grande parte do salário, e os gêneros de primeira necessidade custavam mais do que em São Paulo. Os patrões ganhavam duas vezes: pagando pouco e recebendo aluguel. Essa situação evidencia a exploração burguesa sobre o operariado. A alternativa B erra, pois o texto não fala em sindicatos. A C trata de especialização, assunto ausente. A D menciona o ritmo da industrialização, que não é o foco do relato. A E cita a alta de preços, que é só um dos elementos, não a conclusão central sobre as relações de trabalho. Gabarito: A.",
   "hash": "2d5614753b506523",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q55": {
+  "assunto": "Teoria sociológica: instituições sociais",
+  "dificuldade": 2,
   "explicacao": "A questão pede a característica do casamento segundo o texto de Peter Berger. O autor afirma que o rapaz que quer se casar não nasceu com esse desejo: ele foi “insuflado pela sociedade”, pela família, educação, moral, religião, meios de comunicação e publicidade. E conclui: “o casamento não é um instinto, e sim uma instituição”. Para a Sociologia, instituições sociais são estruturas que organizam e regulam a vida coletiva, definindo padrões de comportamento aprendidos e transmitidos. Assim, o casamento tem como característica o ordenamento das relações sociais. A alternativa A não se apoia no texto, que não trata de igualdade entre os sexos. A C contradiz o autor, que nega que o casamento seja algo natural. A D inverte a ideia, pois o casamento reproduz tradições, não as supera. A E também falha, já que a religião aparece como uma das forças que reforçam o casamento, não como algo questionado. Gabarito: B.",
   "hash": "eb526fdf75710a93",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q56": {
+  "assunto": "Desigualdade social: racismo institucional, cotas",
+  "dificuldade": 3,
   "explicacao": "A questão pede um exemplo brasileiro de política antirracismo justificada pelo conceito de racismo institucional. Giddens define esse racismo como a falha coletiva de uma organização em prestar serviços adequados a pessoas por causa de sua cor, cultura ou origem étnica, muitas vezes por preconceito inconsciente e reforço de estereótipos. Isso mostra que tratar todos de forma formalmente igual (o pressuposto de universalidade) não basta, pois as desvantagens estão embutidas nas próprias instituições. A resposta são políticas que tratam desigualmente os desiguais para promover igualdade real: as ações afirmativas, como as cotas raciais em universidades e concursos públicos, adotadas no Brasil. A alternativa A é genérica e não visa corrigir desvantagens históricas. A B é uma política de combate à pobreza, sem recorte racial. A D não tem relação com o tema. A E fere a liberdade de expressão e não é política de inclusão. Gabarito: C.",
   "hash": "c30fea0cdde832cf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q57": {
+  "assunto": "Espaço agrário: agronegócio no semiárido",
+  "dificuldade": 3,
   "explicacao": "A questão pede a consequência da expansão do agro-hidronegócio no semiárido nordestino. O texto mostra que empresas transnacionais e nacionais se instalaram na região, aproveitando o acesso fácil a terra e água, para a fruticultura irrigada (como nos polos de Petrolina e Juazeiro, no vale do São Francisco) e a criação de camarões (carcinicultura), em grandes áreas. Essas atividades usam técnicas modernas de irrigação e produzem em larga escala, sobretudo para exportação: frutas tropicais e camarão abastecem mercados da Europa e dos Estados Unidos. Assim, a região intensificou sua participação no mercado global. A alternativa B erra, pois o modelo concentra terras em extensas propriedades, não as redistribui. A C contradiz o texto, que fala em desmatamento e perda de biodiversidade. A D não procede, já que o agronegócio usa insumos químicos e não é orgânico. A E inverte a lógica: a expansão empresarial pressiona a agricultura familiar. Gabarito: A.",
   "hash": "02dd13d80f934c3e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q58": {
+  "assunto": "História da África e afro-brasileira: identidade negra",
+  "dificuldade": 3,
   "explicacao": "A questão pede o desdobramento, no Brasil, da mudança na construção da identidade negra mostrada pelos textos. O Texto I traz Frantz Fanon, que denunciou como o colonialismo fez muitos negros desejarem um “destino branco”, isto é, adotar padrões estéticos e culturais do colonizador. O Texto II mostra o movimento oposto: salões de beleza “étnicos” que divulgam uma autoimagem positiva do negro, valorizando o cabelo crespo e os traços afro, e se colocam no centro de uma luta política e ideológica contra o racismo. A mudança está na passagem da rejeição para a afirmação dos próprios traços, revelando a valorização de traços culturais. A alternativa B erra, pois a resistência descrita é simbólica e estética, não violenta. A C não procede, já que os salões são comerciais, não partidos. A D contraria o texto, que mostra fortalecimento da identidade coletiva. A E inverte a ideia, pois trata-se justamente de superar a submissão. Gabarito: A.",
   "hash": "30f64f637f90560f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q59": {
+  "assunto": "Espaço agrário: relação campo-cidade",
+  "dificuldade": 3,
   "explicacao": "A questão pede a origem das articulações entre rural e urbano descritas no texto. José Graziano da Silva afirma que está cada vez mais difícil separar o rural do urbano: o rural passou a ser um “continuum” do urbano, e as cidades não se resumem à indústria, assim como o campo não se resume à agricultura e à pecuária. Isso acontece porque os lugares estão integrados em cadeias produtivas: o campo produz matéria-prima para a agroindústria, usa máquinas, insumos e serviços vindos da cidade, abriga atividades não agrícolas como turismo rural e lazer, enquanto a cidade processa, comercializa e financia a produção. A alternativa A erra, pois o texto não trata de aumento de riqueza nas propriedades. A B também, já que a modernização tende a reduzir empregos agrícolas. A D fala de redução das desigualdades, que o texto não menciona. A E cita crises financeiras urbanas, sem relação com o tema. Gabarito: C.",
   "hash": "0c41af09ced0b14e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q60": {
+  "assunto": "Idade Moderna: processo civilizador, costumes",
+  "dificuldade": 4,
   "explicacao": "A questão pede a que se relaciona o uso do garfo individual na transição para a modernidade. Braudel explica que o garfo grande para servir carnes era antigo, mas o garfo individual surgiu por volta do século XVI, difundiu-se lentamente a partir de Veneza e só se generalizou por volta de 1750. Esse processo faz parte do que o sociólogo Norbert Elias chamou de processo civilizador: novas regras de etiqueta à mesa, como não comer com as mãos e usar talheres próprios, que serviam para distinguir grupos sociais e foram aos poucos se espalhando. Trata-se, portanto, da construção de hábitos sociais. A alternativa B erra, pois as medidas sanitárias surgem bem depois, com a microbiologia do século XIX. A C não procede, já que o texto não fala em aumento de refeições. A D é parcial: o garfo nasce na Itália renascentista, mas sua generalização é lenta e ligada à mudança de costumes. A E não se apoia no texto, que não trata de religião. Gabarito: A.",
   "hash": "a334abe7901e5b3e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q61": {
+  "assunto": "Geologia e relevo: erosão fluvial",
+  "dificuldade": 3,
   "explicacao": "A questão pede o processo erosivo representado no bloco diagrama. A imagem mostra um relevo elevado, com encostas sulcadas por pequenos canais, e um vale estreito escavado por um rio que corta o terreno até a base, onde se vê o leito em forma de V. As encostas apresentam marcas de escoamento de água, e o material erodido desce em direção ao fundo do vale. Essas formas são típicas da erosão fluvial: os cursos de água escavam o leito, aprofundam os vales e transportam sedimentos, modelando o relevo ao longo do tempo. A alternativa A erra, pois a resistência das rochas influencia a erosão, mas não a causa. A B é vaga e não identifica o agente erosivo. A C trata da profundidade do solo, característica e não processo. A D fala em ação humana, que não aparece no diagrama, sem construções, estradas ou desmatamento. Gabarito: E.",
   "hash": "ff4cb19fb2eccc7d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q62": {
+  "assunto": "Estado e política: políticas compensatórias",
+  "dificuldade": 4,
   "explicacao": "A questão pede a concepção de política pública que legitima as políticas sociais compensatórias citadas por Ignacy Sachs. O autor diz que, enquanto houver grandes diferenças sociais e exclusão no Brasil, essas políticas serão indispensáveis. Políticas compensatórias, como programas de transferência de renda e cotas, buscam reduzir desigualdades de partida, garantindo que grupos em desvantagem tenham acesso a oportunidades que o mercado sozinho não lhes daria. Elas se baseiam, portanto, na ideia de que o Estado deve regular a distribuição de oportunidades para promover justiça social. A alternativa A descreve o clientelismo, troca de favores por apoio político, que é uma distorção, não uma concepção legítima. A B é a lógica liberal do mercado, que dispensa a intervenção compensatória. A C fala de parentesco, critério privado e não público. A D refere-se a ações religiosas de caridade, não a políticas de Estado. Gabarito: E.",
   "hash": "dbe2158a220d5a65",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q63": {
+  "assunto": "Movimentos sociais: movimento LGBT",
+  "dificuldade": 1,
   "explicacao": "A questão pede o direito que justifica o movimento LGBT, segundo o texto. Júlio Simões explica que o movimento desafia formas de condenação e perseguição contra desejos e comportamentos sexuais não convencionais, associados à vergonha, ao pecado, à doença. Falar do movimento é chamar atenção para a sexualidade como fonte de estigma, intolerância e opressão. O objetivo, portanto, é garantir que as pessoas possam viver e expressar sua orientação sexual e identidade de gênero sem discriminação, ou seja, o direito à afirmação identitária. A alternativa A trata de organização sindical, ligada às relações de trabalho. A B fala de participação em partidos, direito político geral, sem relação com o tema. A C refere-se à liberdade religiosa, e o texto até cita a ideia de pecado como forma de condenação. A D trata de formação profissional, assunto ausente no texto. Gabarito: E.",
   "hash": "aaf8429461c20c0c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q64": {
+  "assunto": "Meios de comunicação e indústria cultural: Walter Benjamin",
+  "dificuldade": 4,
   "explicacao": "A questão pede por que, para Walter Benjamin, a propaganda dificulta a análise crítica. O texto começa dizendo que “a crítica é uma questão de distância certa”. A propaganda, porém, “arrasa o espaço livre da contemplação” e aproxima demais as coisas, colocando-as “debaixo do nariz”, como o automóvel que salta da tela de cinema e cresce em direção ao espectador. Assim como o cinema não permite uma observação crítica completa, mas apenas uma “espetacular, rígida e repentina proximidade”, a propaganda joga as coisas para o primeiro plano com ritmo de filme. Essa proximidade é ilusória: a imagem impressiona e seduz, mas impede a distância necessária para examinar o objeto. Por isso, o problema está no caráter ilusório das imagens. A alternativa B não aparece no texto como causa. A C fala da efemeridade dos fatos, ideia ausente. A D contradiz o texto, que não atribui objetividade à propaganda. A E também, pois a propaganda impede, e não promove, o pensamento autônomo. Gabarito: A.",
   "hash": "6a44249564f9306d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q65": {
+  "assunto": "Espaço agrário: modernização, concentração fundiária",
+  "dificuldade": 3,
   "explicacao": "A questão pede a consequência socioambiental da tecnologia citada no texto, a agricultura de precisão. Milton Santos e Maria Laura Silveira descrevem uma máquina norte-americana, controlada por computadores, capaz de colher cem pés de laranja por hora nos pomares paulistas. Esse tipo de equipamento é caro e exige grande escala de produção para compensar o investimento, o que só está ao alcance de grandes empresas. O pequeno produtor, sem capital para adotar essas tecnologias, produz com custo maior e menor produtividade, perdendo espaço no mercado. Assim, a consequência é a redução da competitividade do pequeno produtor. A alternativa A erra, pois a tecnologia tende a intensificar o uso do solo. A B não tem relação direta com a colheita mecanizada. A C não procede, já que o texto não trata de cultivo orgânico. A E inverte o sentido, pois a laranja é monocultura de exportação, não policultura. Gabarito: D.",
   "hash": "504b3372decaf554",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q66": {
+  "assunto": "Filosofia política: Stuart Mill, tirania da maioria",
+  "dificuldade": 4,
   "explicacao": "A questão pede a origem da preocupação de John Stuart Mill sobre a participação popular no governo. Mill observa que o povo que exerce o poder não é o mesmo sobre quem o poder é exercido, que o autogoverno é o governo de cada um por todos os outros e que a “vontade do povo” é, na prática, a vontade da maioria. Daí vem sua preocupação com a “tirania da maioria”: a possibilidade de a maioria oprimir as minorias e os indivíduos. Essa reflexão surge no século XIX, com a consolidação da democracia representativa, em que o povo escolhe representantes e as decisões são tomadas por maioria. A alternativa A erra, pois o sufrágio universal ainda não era realidade na época de Mill. A B é específica demais: a questão não é o parlamentarismo, mas a regra da maioria. A C trata do voto feminino, também posterior. A D fala da decadência monárquica, que não é o foco do texto. Gabarito: E.",
   "hash": "6e82c07c95504d39",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q67": {
+  "assunto": "Filosofia antiga: Aristóteles, epistemologia",
+  "dificuldade": 5,
   "explicacao": "A questão pede a que domínio pertencem os princípios na epistemologia de Aristóteles. O texto segue uma cadeia de premissas: opinião e cálculo podem ser falsos; conhecimento científico e intuição são sempre verdadeiros; nada é mais exato que o conhecimento científico, exceto a intuição; os princípios são mais conhecidos que as demonstrações; e todo conhecimento científico é argumentativo, isto é, demonstrativo. Logo, não pode haver conhecimento científico dos princípios, porque eles são o ponto de partida das demonstrações e não podem ser demonstrados. Como só a intuição supera em exatidão o conhecimento científico, a conclusão é que a intuição tem por objeto os princípios. A alternativa A erra, pois a opinião pode ser falsa. A B também, já que o cálculo admite o falso e os princípios não são demonstrados. A C contradiz a conclusão do texto, e Aristóteles não fala em prova empírica. A E é vaga e não identifica qual hábito capta os princípios. Gabarito: D.",
   "hash": "fd8351f13aff34bd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q68": {
+  "assunto": "Povos indígenas: catequese, reconhecimento",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo da posição do cacique xavante Aniceto diante do cristianismo. O texto relata que ele exigiu que os índios fossem batizados, contestando a pastoral da Igreja que evitava interferir nos costumes tribais. O motivo é explicado no fim: para Aniceto, o batismo era “sinal do branco”, que dava ao índio o reconhecimento de cristão, “isto é, de humano”. Ou seja, o sacramento funcionava como passaporte para ser reconhecido e respeitado pela sociedade dominante. O cacique queria incorporar a religiosidade dominante e seus sacramentos como estratégia de aceitação social. A alternativa A erra, pois ele não queria flexibilizar a crença católica. A B fala em adesão ideológica sincera, quando o texto mostra motivação estratégica. A D não procede, já que não há ameaça de retaliação dos missionários, que justamente evitavam interferir. A E inverte a ideia, pois o batismo não era resistência, mas busca de reconhecimento. Gabarito: C.",
   "hash": "f2fc0865de72883d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q69": {
+  "assunto": "Filosofia antiga: estoicismo",
+  "dificuldade": 3,
   "explicacao": "A questão pede a característica do estoicismo presente na citação de Epicteto. O filósofo ensina que nunca se deve dizer “eu perdi”, mas “eu restituí”: o filho, a mulher e os bens que se vão foram apenas devolvidos a quem os deu. Não importa nem mesmo quem os tirou, pois somos como hóspedes numa hospedaria, que usam o que não lhes pertence. Para os estoicos, a felicidade está em distinguir o que depende de nós do que não depende e em aceitar com tranquilidade o que não podemos controlar, atingindo a imperturbabilidade. Assim, a citação expressa a aceitação dos sofrimentos com serenidade. A alternativa A descreve os pitagóricos. A B corresponde ao hedonismo e ao epicurismo. A D não se aplica, pois o texto não trata de ciência. A E lembra os cínicos, que desprezavam as convenções sociais. Gabarito: C.",
   "hash": "8407920bc6ba5e92",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q70": {
+  "assunto": "América: crise de 1929, Grande Depressão",
+  "dificuldade": 2,
   "explicacao": "A questão pede a causa da Grande Depressão, iniciada nos EUA com a quebra da Bolsa de Nova York em 1929. Após a Primeira Guerra, os EUA viveram forte expansão: abasteciam a Europa devastada, e sua indústria e agricultura cresceram muito. Acreditando que o crescimento seria contínuo, as empresas continuaram ampliando a produção, enquanto a Europa se recuperava e passava a comprar menos e os salários internos não acompanhavam a oferta. O resultado foi superprodução e subconsumo, com estoques acumulados, queda de preços e especulação na bolsa, que estourou em 1929. Logo, a crise deveu-se à produção industrial baseada numa falsa perspectiva de crescimento. A alternativa B erra, pois a Alemanha perdeu a guerra. A C não procede, já que a URSS estava isolada e não competia com o capitalismo. A D é anacrônica: a Guerra Fria começa após 1945. A E inverte a relação, pois o New Deal foi resposta à crise, não sua causa. Gabarito: A.",
   "hash": "27f7456b4148a23c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q71": {
+  "assunto": "Cidadania e direitos: UPPs, políticas públicas",
+  "dificuldade": 2,
   "explicacao": "A questão pede a condição, segundo Cacá Diegues, para consolidar a cidadania nas comunidades carentes. O autor reconhece que as UPPs foram um primeiro passo indispensável, ao recuperar territórios dominados por criminosos armados. Mas alerta: se a UPP não for seguida por “escola, hospital, saneamento, defensoria pública, emprego”, a polícia terá de ir embora por ser inútil ou passará a exercer a mesma opressão que o tráfico. Educação, saúde, saneamento, acesso à justiça e trabalho são direitos sociais. Portanto, a cidadania depende da efetivação desses direitos. A alternativa B contraria o texto, que considera a ação policial insuficiente sozinha. A C é uma ideia ampla demais, que o autor não menciona. A D não aparece no texto, que não cita entidades religiosas. A E fala em integrar forças de segurança, quando o autor defende ir além da segurança. Gabarito: A.",
   "hash": "e64ac0b11619e27b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q72": {
+  "assunto": "Brasil Império: abolicionismo, imprensa",
+  "dificuldade": 2,
   "explicacao": "A questão pede o principal veículo de propagação do movimento abolicionista. O texto mostra que a campanha abolicionista foi a primeira de dimensão nacional com participação popular, envolvendo todas as regiões e classes, com comícios e manifestações. Para alcançar tanta gente no século XIX, o grande meio de comunicação era a imprensa escrita: jornais, panfletos e revistas divulgavam artigos, caricaturas e denúncias contra a escravidão. Figuras como Joaquim Nabuco, José do Patrocínio (dono do jornal Gazeta da Tarde e depois Cidade do Rio), André Rebouças e Luís Gama usaram a imprensa para mobilizar a opinião pública. A alternativa B erra, pois os militares apoiaram a causa no fim, mas não foram seu veículo principal. A C não procede, já que a corte não promovia campanha popular. A D é imprecisa: parte do clero apoiou, mas não liderou a propagação. A E também, pois o Parlamento votou as leis, mas não era meio de mobilização popular. Gabarito: A.",
   "hash": "8770f8bdb2b792b2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q73": {
+  "assunto": "Geologia e relevo: intemperismo, erosão, sedimentação",
+  "dificuldade": 2,
   "explicacao": "A questão pede os processos naturais de modelagem do relevo descritos no texto. O texto fala que as rochas são “desagregadas e decompostas”, o que corresponde ao intemperismo, a alteração física e química das rochas pela ação do clima, da água e dos seres vivos. Em seguida, diz que os materiais resultantes, como seixos, cascalhos, areias, siltes e argilas, são “carregados e depois depositados”, o que corresponde à erosão, que inclui o transporte e a deposição desses sedimentos. Também cita substâncias dissolvidas que podem precipitar. Juntos, intemperismo e erosão desgastam as rochas de forma desigual, deixando algumas em destaque no relevo. A alternativa A e a B tratam de processos internos ligados ao magma, que formam rochas e relevo, mas não desagregam nem transportam sedimentos. A D refere-se ao movimento das placas tectônicas. A E descreve a transformação de rochas sob pressão e temperatura, também um processo interno. Gabarito: C.",
   "hash": "99dd9fb2291741a7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q74": {
+  "assunto": "Globalização: Mercosul, barreiras comerciais",
+  "dificuldade": 3,
   "explicacao": "A questão pede a característica dos conflitos entre Brasil e Argentina no Mercosul descritos no texto. A reportagem cita a imposição argentina de cotas para produtos brasileiros, como os de linha branca (geladeiras, fogões, máquinas de lavar), e a ameaça de salvaguardas comerciais. Cotas e salvaguardas são barreiras comerciais: limitam a entrada de produtos estrangeiros para proteger a indústria nacional da concorrência. O diretor do Ibri critica a mentalidade de exportar “sem limites”, sem pensar no parceiro. Assim, o conflito é marcado pela adoção de barreiras pela Argentina para proteger seu setor industrial. A alternativa A erra, pois as cotas não decorrem de saturação do mercado, e sim de proteção. A C contradiz o texto, que fala em crise e esgotamento do modelo. A D não se apoia no texto, que não menciona outros parceiros. A E inverte o problema, pois a crítica recai sobre a visão exportadora de curto prazo do Brasil. Gabarito: B.",
   "hash": "931f88a27d479559",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q75": {
+  "assunto": "Cartografia: projeções cartográficas",
+  "dificuldade": 3,
   "explicacao": "[REVISAR] O enunciado está corrompido: só restou o fragmento “um ponto no plano”, e as alternativas são apenas imagens, então o comando da questão não pode ser verificado. Pelo que se vê na alternativa A, a questão trata de projeções cartográficas, que transformam cada ponto da superfície curva da Terra num ponto no plano. A imagem da alternativa A mostra três projeções cilíndricas: em 1, o cilindro está inclinado em relação ao eixo da Terra (projeção oblíqua); em 2, o cilindro tem o eixo paralelo ao eixo terrestre e toca o globo no Equador (projeção normal ou equatorial); em 3, o cilindro está deitado, perpendicular ao eixo terrestre (projeção transversa). Essa seria a sequência correta segundo o gabarito oficial. As demais alternativas, também em imagem, apresentariam associações ou figuras que não correspondem ao que o enunciado original pedia. Convém recuperar o enunciado completo da prova para conferir a resolução. Gabarito: A.",
   "hash": "293bbe1ce6009dcd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q76": {
+  "assunto": "Questões ambientais: queima da cana, poluição",
+  "dificuldade": 2,
   "explicacao": "A questão pede o objetivo da proibição da queima e do corte manual da cana em São Paulo, a partir de 2014. Tradicionalmente, os canaviais eram queimados antes da colheita para facilitar o corte manual, eliminando folhas secas. Essa queima lança grandes quantidades de fuligem, gás carbônico, monóxido de carbono e material particulado na atmosfera, agravando a poluição do ar, causando problemas respiratórios nas cidades próximas e prejudicando o solo e a fauna. A proibição, junto com a mecanização da colheita da cana crua, visa reduzir a emissão de poluentes e o agravamento dos problemas ambientais. A alternativa A não se relaciona com a medida, que é ambiental. A B contradiz o texto, pois os produtores reclamam justamente do aumento de custos. A D fala de indústria intermediária, sem relação com a lei. A E inverte o efeito descrito: a mecanização eliminou milhares de postos de trabalho. Gabarito: C.",
   "hash": "32340d41eb70ef32",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q77": {
+  "assunto": "Movimentos sociais: movimento negro, democracia racial",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo da estratégia do Movimento Negro Unificado descrita no texto. Segundo Antônio Sérgio Guimarães, o movimento seguiu duas linhas: primeiro, desmontar o mito da democracia racial, negando que as relações raciais no Brasil sejam cordiais e afirmando que o racismo está entranhado nas relações sociais; segundo, construir uma identidade racial ampla, chamando de “negros” todos os que têm alguma ascendência africana, e não apenas os “pretos”. Ao reunir pretos e pardos sob uma mesma identidade, o movimento ganha força política para denunciar e enfrentar o racismo. O objetivo, portanto, era combater as discriminações étnicas. A alternativa A desloca a luta para a questão de classe, que não é o foco do texto. A B fala de injustiças econômicas, que são consequência, não o alvo direto da estratégia. A D trata de preconceito religioso, tema ausente. A E fala em desigualdades culturais, quando o texto trata de racismo. Gabarito: C.",
   "hash": "e327f070770c1e78",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q78": {
+  "assunto": "Povos indígenas: demarcação de terras",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que a demarcação de terras indígenas, conforme o texto, evidencia. O texto relata que o Supremo Tribunal Federal julgou, em 2009, o caso da reserva Raposa Serra do Sol, em Roraima, onde vivem cerca de 19 mil indígenas de várias etnias. A decisão foi “paradigmática” porque estabeleceu conceitos e diretrizes válidos para todas as reservas indígenas, já demarcadas ou em processo de demarcação. Ou seja, uma decisão judicial passou a regular as relações entre indígenas, Estado, produtores rurais e a sociedade em geral, resolvendo um conflito e criando regras. Isso evidencia a função do Direito na organização da sociedade. A alternativa A erra, pois o texto não fala em crescimento populacional indígena. A C não se apoia no texto, que trata da ação do Judiciário, não de mobilização civil. A D é uma conclusão que o texto não sustenta. A E cita organismos internacionais, que não são mencionados. Gabarito: B.",
   "hash": "36332acc78ede384",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q79": {
+  "assunto": "Era Vargas: sindicalismo, legislação trabalhista",
+  "dificuldade": 4,
   "explicacao": "A questão pede como se caracterizou a relação entre o governo Vargas e o movimento sindical. Boris Fausto mostra que os sindicatos ligados à esquerda tentaram resistir ao enquadramento pelo Estado, mas fracassaram, inclusive porque as próprias bases pressionaram pela legalização. O motivo é claro no texto: benefícios como férias e o acesso às Juntas de Conciliação e Julgamento dependiam de o trabalhador ser membro de sindicato reconhecido pelo governo. Assim, o Estado concedia direitos trabalhistas, mas os condicionava ao controle dos sindicatos, num modelo corporativista em que o sindicato oficial se tornava braço do governo. Isso é a vinculação dos direitos trabalhistas à tutela do Estado. A alternativa A mostra só um lado, as concessões, sem o controle que as acompanhava. A B erra, pois não houve diálogo democrático, e sim enquadramento. A C também, já que a legislação foi imposta, não construída por consenso. A D contradiz o texto, pois as correntes de esquerda foram derrotadas. Gabarito: E.",
   "hash": "8a4027861ccf0da7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q80": {
+  "assunto": "Estado e política: patrimonialismo, nepotismo",
+  "dificuldade": 3,
   "explicacao": "A questão pede a marca histórica da administração pública brasileira, segundo os textos. O Texto I trata do nepotismo cruzado: um desembargador nomeia o filho do outro, que retribui nomeando o filho do primeiro, burlando o concurso público para favorecer parentes. O Texto II, de Sérgio Buarque de Holanda, afirma que só excepcionalmente o Brasil teve um sistema administrativo e funcionários dedicados a interesses objetivos. Em Raízes do Brasil, o autor descreve o patrimonialismo e o “homem cordial”, que trata a coisa pública como extensão da família e dos afetos pessoais. Ambos os textos mostram, portanto, a prevalência das vontades particulares sobre o interesse público. A alternativa A erra, pois o nepotismo é o oposto do mérito. A B não procede, já que a resolução do CNJ é recente e os textos mostram a persistência do problema. A C contradiz os textos, que mostram a confusão entre público e privado. A E também, pois a administração descrita é pessoal, não impessoal. Gabarito: D.",
   "hash": "f22e170a381047b6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q81": {
+  "assunto": "Cultura e sociedade: Carnaval, inversão simbólica",
+  "dificuldade": 4,
   "explicacao": "A questão pede a que a abordagem de Roberto DaMatta associa o Carnaval, considerando seus aspectos simbólicos. O antropólogo diz que o Carnaval “põe o Brasil de ponta-cabeça”: num país onde a liberdade é privilégio de poucos, a festa abre espaço para uma liberdade sensual, dá livre passagem ao corpo e “destitui posicionamentos sociais fixos e rígidos”. A “fantasia” permite inventar novas identidades e dá elasticidade aos papéis sociais que normalmente regulam a vida. Ou seja, durante o Carnaval, as hierarquias e normas do cotidiano são temporariamente suspensas ou invertidas: o pobre vira rei, o homem se veste de mulher, o comportamento contido dá lugar à expansão. O Carnaval, assim, simboliza a inversão de regras e rotinas estabelecidas. A alternativa B é o oposto do texto, que fala em desmontar hierarquias. A C também contraria a ideia de liberdade popular. A D erra, pois o Carnaval é justamente expressão coletiva. A E inverte a análise, já que a festa suspende o autoritarismo, não o consagra. Gabarito: A.",
   "hash": "3f0e1594feb26d75",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q82": {
+  "assunto": "Filosofia antiga: Aristóteles, enigma, contradição",
+  "dificuldade": 5,
   "explicacao": "A questão pede em que consiste a inovação de Aristóteles ao pensar o enigma. O texto explica que a definição aristotélica é desligada de qualquer fundo religioso: o enigma é “dizer coisas reais associando coisas impossíveis”. Como associar coisas impossíveis significa formular uma contradição, o enigma é uma contradição que, ao contrário do normal, designa algo real em vez de não indicar nada. Ou seja, o enigma diz ao mesmo tempo algo real e algo impossível, e por isso intriga. A alternativa A erra, pois a definição dá ao enigma relevância filosófica, inclusive lógica. A B traz o fundo religioso que a definição justamente afasta. A D também recorre à origem religiosa, rejeitada no texto. A E contradiz a definição, já que o enigma, embora contraditório, indica algo real. Gabarito: C.",
   "hash": "91a19fff3854486a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q83": {
+  "assunto": "Primeira República: imigração, repressão operária",
+  "dificuldade": 4,
   "explicacao": "A questão pede os objetivos da Lei de 1907, conhecida como Lei Adolfo Gordo, na transição do trabalho escravo para o livre. O texto permite expulsar o estrangeiro que comprometesse “a segurança nacional ou a tranquilidade pública”, além de condenados, vagabundos, mendigos e envolvidos em lenocínio. No início do século XX, muitos imigrantes europeus, sobretudo italianos e espanhóis, trabalhavam nas fábricas e lideravam greves e movimentos operários de orientação anarquista e socialista, como a greve geral de 1917. A lei servia para controlar e disciplinar esses trabalhadores, expulsando lideranças e evitando sua participação em movimentos políticos contrários ao governo e aos patrões. A alternativa B erra, pois a lei trata de expulsão, não de vinda de imigrantes. A C contradiz a lei, que reprimia a organização operária. A D fala em criar condições para imigração, o que não é o foco. A E também falha, já que a lei não estimula o trabalho urbano nem trata de famílias. Gabarito: A.",
   "hash": "5f5bce8158e62ca3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q84": {
+  "assunto": "Brasil Império: café, impactos ambientais",
+  "dificuldade": 2,
   "explicacao": "A questão pede por que o café provocou impactos ambientais ao longo do século XIX. O texto fala de um desastre ecológico e econômico causado pelo plantio de café em terrenos declivosos, que “arrasou florestas, solos e águas”. No vale do Paraíba, a lavoura cafeeira era feita de forma extensiva: derrubava-se e queimava-se a Mata Atlântica, plantava-se o café nas encostas, sem técnicas de conservação, e quando o solo se esgotava a plantação avançava para novas áreas de floresta. Esse modelo de ocupação extensiva levou à erosão, ao empobrecimento do solo e ao assoreamento dos rios. A alternativa B erra, pois a terra roxa é fértil e própria do oeste paulista, não a causa do desastre. A C não se apoia no texto, que trata da forma de ocupação. A D fala de investimentos estrangeiros, sem relação com o impacto ambiental. A E não procede, já que o problema era a técnica de cultivo, não a qualificação dos trabalhadores escravizados. Gabarito: A.",
   "hash": "677abb590ae3142e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q85": {
+  "assunto": "População: pirâmide etária, envelhecimento",
+  "dificuldade": 3,
   "explicacao": "A questão pede a demanda de investimentos indicada pelo padrão da pirâmide etária. A pirâmide tem base relativamente estreita: as faixas de 0 a 19 anos têm cerca de 3% a 4% da população cada, sem grande vantagem sobre as faixas adultas, o que indica baixa natalidade. O corpo é largo nas idades adultas, de 20 a 59 anos, e o topo é largo, com faixas de 65 anos ou mais, destacadas em tom escuro, ocupando proporção significativa, incluindo um percentual alto acima de 75 anos. Esse é o padrão de uma população envelhecida, típica de países desenvolvidos. Com muitos idosos, cresce a demanda por saúde voltada à terceira idade, previdência e cuidados de longo prazo. A alternativa A seria prioridade em pirâmides de base larga, de países pobres. A C é uma demanda geral, sem ligação direta com a estrutura etária mostrada. A D também é típica de países com alta pobreza. A E caberia a uma população muito jovem, o que não é o caso. Gabarito: B.",
   "hash": "cfa8b8bc6220b082",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q86": {
+  "assunto": "História da África e afro-brasileira: irmandades, congado",
+  "dificuldade": 3,
   "explicacao": "A questão pede o propósito da retomada da festa do Rosário e do Terno de Congado em Tiradentes. O texto mostra que, no século XVIII, mais de cinco mil escravizados trabalhavam na mineração e construíram a capela de Nossa Senhora do Rosário, com a imagem de São Benedito, ambos santos ligados às irmandades negras. A sociedade se organizava pela cor, e cada grupo tinha sua irmandade. Com o fim da mineração, a população negra saiu, mas a igreja ficou. O resgate da festa do Rosário e do Congado, manifestação que mistura catolicismo e tradições africanas com cantos, danças e coroação de reis negros, valoriza a cultura afrodescendente e suas tradições religiosas. A alternativa B erra, pois o foco não é o catolicismo colonial em geral, e sim a herança negra. A C fala de história econômica, que não é o propósito das festas. A D cita preconceito contra o catolicismo popular, tema ausente. A E reduz a festa ao turismo e a confunde com religiões de matriz africana. Gabarito: A.",
   "hash": "47efc03eeb802f8c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q87": {
+  "assunto": "Espaço agrário: fome, distribuição de alimentos",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o texto considera necessário para erradicar a fome. O texto afirma que a Revolução Verde, com sementes melhoradas, fertilizantes, agrotóxicos e mecanização, aumentou muito a produção mundial de alimentos, a ponto de hoje haver comida suficiente para alimentar todas as pessoas do mundo. Mesmo assim, a fome continua a atingir vastas regiões. A conclusão lógica é que o problema não está na quantidade produzida, e sim no acesso: muitas pessoas não têm renda para comprar alimentos. Portanto, erradicar a fome exige distribuir a renda. A alternativa B erra, pois expandir a lavoura aumentaria a produção, que já é suficiente. A C fala de migração, sem relação com o argumento. A D repete a lógica da Revolução Verde, que o texto mostra ser insuficiente. A E é genérica e não ataca a causa apontada, que é a desigualdade de acesso. Gabarito: A.",
   "hash": "78ef875cc4c947bd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q88": {
+  "assunto": "Urbanização: impermeabilização, escoamento superficial",
+  "dificuldade": 3,
   "explicacao": "A questão pede o efeito da urbanização sobre a dinâmica da água no ambiente tropical úmido. O texto diz que as intervenções urbanas, ao mudar as formas do terreno e substituir materiais superficiais, alteram radicalmente os processos hidrodinâmicos. Na cidade, o solo natural é coberto por asfalto, concreto e telhados, superfícies impermeáveis. A água da chuva, que antes se infiltrava no solo, passa a escorrer pela superfície e é canalizada por ruas, sarjetas e galerias, concentrando-se rapidamente em certos pontos. O resultado é o escoamento superficial concentrado, que provoca enchentes, erosão e deslizamentos. A alternativa A erra, pois a impermeabilização reduz a recarga do lençol freático. A C também, já que a retirada da vegetação diminui a evapotranspiração. A D contradiz o processo, pois menos água se infiltra e circula em subsuperfície. A E inverte a lógica, já que a água escoa rapidamente em vez de ser armazenada. Gabarito: B.",
   "hash": "64635b9ef581ae81",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q89": {
+  "assunto": "Questões ambientais: acidificação dos oceanos",
+  "dificuldade": 4,
   "explicacao": "A questão pede o fator que intensifica o impacto mostrado na imagem. O esquema mostra fábricas e carros liberando CO₂, que é absorvido pelo oceano. Na água, o CO₂ forma ácido carbônico, que libera íons H⁺: CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻. Esses íons H⁺ reagem com o íon carbonato (CO₃²⁻), reduzindo sua disponibilidade. Como moluscos, corais, equinodermos e microrganismos com carapaça usam o carbonato para formar conchas e esqueletos de carbonato de cálcio, eles são os principais afetados. Esse fenômeno é a acidificação dos oceanos, intensificada pela queima de combustíveis fósseis, como carvão, petróleo e gás natural, que lançam CO₂ na atmosfera. A alternativa A trata da impermeabilização urbana, que afeta enchentes, não o oceano. A B cita o El Niño, sem relação com a química da água. A D erra, pois o derretimento de geleiras não vaporiza oceanos nem explica a acidificação. A E inverte causa e efeito: a morte de organismos é consequência, não causa. Gabarito: C.",
   "hash": "ee0c10ce5670f45e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-ppl-d1-q90": {
+  "assunto": "Meios de comunicação e indústria cultural: mídia e democracia",
+  "dificuldade": 5,
   "explicacao": "A questão pede por que o papel dos meios de comunicação favorece uma transformação democrática, segundo Nadia Urbinati. A autora afirma que, num governo legitimado por eleições livres, a comunicação entre sociedade política e sociedade civil é essencial. As múltiplas fontes de informação e as formas de influência que os cidadãos ativam pela mídia, pelos movimentos sociais e pelos partidos “dão o tom da representação” democrática. Ou seja, a democracia representativa não se limita ao voto: os cidadãos continuam participando e influenciando o governo por meio da comunicação. Isso favorece o fortalecimento da participação popular. A alternativa A trata de gastos públicos, tema ausente. A B erra, pois o texto destaca os cidadãos, não grupos corporativos. A C contradiz a ideia de debate, já que a democracia convive com conflitos ideológicos. A E também falha, pois o texto defende a influência da sociedade sobre o governo, não sua autonomia. Gabarito: D.",
   "hash": "3b9156998f46ab75",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"

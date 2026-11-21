@@ -1,450 +1,630 @@
 {
  "enem-2017-regular-d2-q100": {
+  "assunto": "Saúde e doenças: hemofilia, coagulação",
+  "dificuldade": 1,
   "explicacao": "A questão pergunta qual doença seria beneficiada por uma plaqueta artificial que acelera a coagulação do sangue. O material descrito forma uma rede que adere às lesões dos vasos, ajudando a estancar sangramentos. Logo, ele é útil para pacientes com dificuldade de coagulação. A hemofilia é uma doença genética, ligada ao cromossomo X, em que falta ou funciona mal um fator de coagulação (fator VIII na hemofilia A, fator IX na B). O hemofílico sangra por muito tempo após pequenos ferimentos e pode ter hemorragias internas, então um material que agilize a coagulação melhoraria seu quadro. A alternativa A é uma parasitose causada por vermes que obstruem vasos linfáticos. A C envolve placas nas artérias, e acelerar a coagulação poderia até piorar o risco de trombose. A D é causada pelo protozoário Trypanosoma cruzi e não tem relação com coagulação. A E é uma doença viral que compromete o sistema imune, sem relação direta com a coagulação. Gabarito: B.",
   "hash": "007fd8a1807cba98",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q101": {
+  "assunto": "Ondulatória: espectro eletromagnético, lâmpadas",
+  "dificuldade": 3,
   "explicacao": "A questão pede a lâmpada que ilumina bem sem aquecer o ambiente. Para iluminar bem, a lâmpada deve emitir na faixa visível, onde o olho humano é sensível (linhas pontilhadas). Para não aquecer, deve emitir pouco ou nada no infravermelho (IV), radiação associada ao calor. Observando os espectros, o LED concentra sua emissão na região visível, coincidindo com a sensibilidade do olho, e praticamente não emite no IV nem no UV. Assim, quase toda a energia é convertida em luz útil. A alternativa A, haleto metálico, tem emissão espalhada que inclui parte no UV e no IV. A B, tungstênio (incandescente), emite a maior parte da energia no infravermelho, aquecendo muito. A C, mercúrio, apresenta emissões importantes no ultravioleta e menor aproveitamento visível. A D, xênon, tem emissão significativa também no infravermelho. Gabarito: E.",
   "hash": "dad9148ebdf36bdd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q102": {
+  "assunto": "Ligações químicas: interação íon-dipolo",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta que tipo de interação fixa as moléculas de vapor de água nos núcleos de condensação. Pelo texto, esses núcleos são partículas sólidas de sais de amônio, NH₄X, formadas pela reação de ácidos com amônia. Sais são compostos iônicos, formados pelos íons NH₄⁺ e X⁻. Já a água é uma molécula polar, um dipolo permanente, com polo negativo no oxigênio e polos positivos nos hidrogênios. A atração entre os íons do sal e os polos da água é chamada interação íon-dipolo: o oxigênio se orienta para o cátion NH₄⁺ e os hidrogênios para o ânion X⁻. É a mesma interação que explica a dissolução de sais em água. A alternativa A descreve a ligação dentro do próprio sal, não com a água. A B ocorre entre moléculas polares, mas o núcleo é iônico. A C envolve moléculas apolares, o que não é o caso. A E implicaria compartilhamento de elétrons, formando novas substâncias, o que não ocorre na condensação. Gabarito: D.",
   "hash": "b9a861406d044374",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q103": {
+  "assunto": "Ondulatória: fibra óptica, atenuação",
+  "dificuldade": 3,
   "explicacao": "A questão pede a máxima distância que o sinal pode percorrer sem retransmissão. O sinal pode partir com no máximo 100 dB, pois intensidades maiores não são transmitidas adequadamente, e precisa ser retransmitido quando cai abaixo de 10 dB. Então a perda máxima permitida é 100 − 10 = 90 dB. Para alcançar a maior distância, escolhemos o comprimento de onda de menor perda óptica no gráfico, que é o mínimo da curva em 1,5 µm, com perda de 1 dB/km. Assim, a distância máxima é 90 dB ÷ 1 dB/km = 90 km. A alternativa A não corresponde a nenhuma leitura coerente do gráfico. A B equivale a usar a perda de 5 dB/km do pico em 1,4 µm, que é a pior escolha. A C resultaria de uma perda de 1,5 dB/km, que não é o mínimo da curva. A E desconsidera o limite de 10 dB que exige a retransmissão. Gabarito: D.",
   "hash": "53079310fc75659a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q104": {
+  "assunto": "Radioatividade: meia-vida, carbono-14",
+  "dificuldade": 3,
   "explicacao": "A questão pede a idade do fóssil por datação com carbono-14. Primeiro, colocamos a medição na mesma unidade da referência, emissões por minuto por grama. O fóssil emitiu 6 750 emissões por hora; dividindo por 60: 6 750 ÷ 60 = 112,5 emissões por minuto. Dividindo pela massa de 30 g: 112,5 ÷ 30 = 3,75 emissões/(min·g). Um ser vivo apresenta 15 emissões/(min·g), e esse valor cai pela metade a cada 5 730 anos: 15 → 7,5 → 3,75. Foram, portanto, duas meias-vidas. A idade é 2 × 5 730 = 11 460 anos. A alternativa A resulta de confundir as unidades de tempo. A B equivale a apenas um quarto de meia-vida, sem sentido físico aqui. A D corresponde a três meias-vidas, o que daria 1,875 emissões/(min·g). A E não segue o decaimento exponencial por meias-vidas. Gabarito: C.",
   "hash": "507d792ef64ab708",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q105": {
+  "assunto": "Energia e trabalho: fontes de energia, armazenamento",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta por que a estação continua abastecendo a cidade mesmo sem vento por curtos períodos. A ideia central está no texto: a energia gerada pelo parque eólico em momentos de vento é usada para produzir gás hidrogênio por eletrólise, e esse hidrogênio é armazenado. Quando o vento falta, o hidrogênio estocado é queimado junto com o biogás numa planta mista (cogeração), gerando calor e eletricidade para a rede. O hidrogênio funciona, portanto, como uma forma de armazenar energia. A alternativa A inverte o processo: a eletrólise consome energia, ela não envia energia à rede. A C contraria a física, pois as turbinas perdem velocidade sem vento e não mantêm a eficiência por inércia. A D erra ao dizer que a combustão gera eletricidade diretamente; o calor precisa ser convertido por meio de turbinas e geradores. A E viola a segunda lei da termodinâmica, que impede converter todo o calor em trabalho. Gabarito: B.",
   "hash": "3ba17b0f3e624506",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q106": {
+  "assunto": "Propriedades da matéria e separação de misturas: volatilidade",
+  "dificuldade": 2,
   "explicacao": "A questão pede a explicação científica para coletar plantas produtoras de óleos essenciais ao raiar do dia. Óleos essenciais são misturas de substâncias voláteis, como terpenos, responsáveis pelo aroma das plantas. Durante o dia, a temperatura sobe com a radiação solar e essas substâncias evaporam com mais facilidade, diminuindo sua quantidade nas folhas e flores. Ao amanhecer, depois da noite mais fria, a perda por evaporação foi menor, de modo que o material colhido conserva maior teor de óleos. Portanto, a prática se justifica pela volatilização das substâncias de interesse ao longo do dia. A alternativa B inventa uma polimerização que não explica a perda dos óleos. A C sugere que o orvalho dissolve os óleos, mas eles são apolares e pouco solúveis em água. A D atribui a perda à oxidação pelo oxigênio da fotossíntese, que não é o fator principal. A E liga a liberação de óleos à fotossíntese, sem base científica. Gabarito: A.",
   "hash": "79ee14122b1e59b9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q107": {
+  "assunto": "Ondulatória: absorção, comprimento de onda",
+  "dificuldade": 3,
   "explicacao": "A questão pede o comprimento de onda ideal para a epilação a laser. Pelo texto, o laser deve ser bem absorvido pela melanina dos pelos, para aquecer o folículo, mas pouco absorvido pela oxi-hemoglobina do sangue e pela água dos tecidos, para não lesar a região. No gráfico, procuramos a faixa em que a curva da melanina ainda está alta, enquanto as curvas da oxi-hemoglobina e da água estão baixas. Isso ocorre por volta de 700 nm: a melanina ainda absorve bem, a oxi-hemoglobina passou de seus picos e está em um mínimo, e a água praticamente não absorve. A alternativa A, 400 nm, coincide com forte absorção pela oxi-hemoglobina. A C, 1 100 nm, tem absorção de melanina já baixa e aumento da absorção pela água. A D, 900 nm, apresenta absorção relevante pela oxi-hemoglobina e menor pela melanina. A E, 500 nm, também é muito absorvida pela oxi-hemoglobina, arriscando lesar vasos sanguíneos. Gabarito: B.",
   "hash": "63ecd65b4963708f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q108": {
+  "assunto": "Energia e trabalho: energia cinética, elástica, gráfico",
+  "dificuldade": 5,
   "explicacao": "A questão pede o esboço da energia cinética da criança em função da altura no pula-pula. Há duas regiões. Acima da posição de equilíbrio da lona (h > 0), a criança está no ar e só a gravidade atua: pela conservação de energia, Ec = E − m·g·h, uma função do primeiro grau em h. O gráfico é um segmento de reta decrescente, com Ec nula em h_máx. Abaixo de h = 0, a criança está em contato com a lona, que atua como uma mola: além da energia potencial gravitacional, entra a elástica, ½·k·x², que depende do quadrado da deformação. Então Ec passa a variar de forma quadrática (arco de parábola), caindo até zero no ponto mais baixo, h_mín. O gráfico C mostra exatamente isso: curva arredondada entre h_mín e 0 e reta decrescente de 0 até h_máx. A alternativa A não apresenta essa combinação de trecho curvo e reta. A B usa formas que não correspondem às energias envolvidas em cada região. A D distribui os trechos de maneira inconsistente com a física de cada região. A E também não reproduz a reta no ar e a parábola na lona. Gabarito: C.",
   "hash": "069b370566e4fb2d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q109": {
+  "assunto": "Ecologia: impactos ambientais, piracema",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta por que a construção de barragens prejudica a piracema. Na piracema, os peixes nadam rio acima, contra a correnteza, por longas distâncias. Esse esforço queima gordura e ativa mecanismos hormonais que amadurecem as gônadas, preparando-os para a reprodução nas cabeceiras. Uma barragem é um obstáculo físico que interrompe o rio, impedindo que os peixes completem o trajeto. Com o percurso encurtado, o estímulo fisiológico é insuficiente e a reprodução fica comprometida. Por isso, a intervenção reduz o percurso da migração. A alternativa B não é a causa direta descrita; o problema é reprodutivo. A C não é o fator citado no texto como ligado à piracema. A D confunde distância com tempo: a barragem não altera a época da migração. A E pode até ser uma consequência futura, mas não explica o mecanismo pelo qual a piracema é prejudicada. Gabarito: A.",
   "hash": "a5b2ee7398ae9ca5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q110": {
+  "assunto": "Eletrodinâmica: associação de resistores",
+  "dificuldade": 5,
   "explicacao": "A questão pede a máxima tensão U para que o fusível de 500 mA não queime. Vamos simplificar o circuito entre o nó esquerdo A e o direito B. Ramo de cima: 60 Ω de A até o nó superior; deste até B há 60 Ω em paralelo com 30 Ω, ou seja, (60 × 30) ÷ (60 + 30) = 20 Ω. Total do ramo: 60 + 20 = 80 Ω. Ramo de baixo: entre A e o nó inferior D estão o resistor de 60 Ω e, em paralelo, o resistor de 120 Ω em série com o fusível (resistência desprezível). Equivalente: (60 × 120) ÷ 180 = 40 Ω. De D até B há 40 Ω. Total: 40 + 40 = 80 Ω. A tensão U fica aplicada a esse ramo, que se divide igualmente: U(AD) = U ÷ 2. A corrente no fusível é a do resistor de 120 Ω: i = (U ÷ 2) ÷ 120 = U ÷ 240. Impondo i ≤ 0,5 A: U ≤ 0,5 × 240 = 120 V. A alternativa A dá corrente muito abaixo do limite. A B e a C também deixam folga, não sendo o máximo. A E faria passar cerca de 0,77 A, queimando o fusível. Gabarito: D.",
   "hash": "b6193c4bed3c2e81",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q111": {
+  "assunto": "Ecologia: magnificação trófica",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta por que os botos-cinza acumulam mais contaminantes, como o mercúrio, do que outros animais da cadeia alimentar. O fenômeno é a magnificação trófica (bioacumulação ao longo da cadeia). Substâncias como o mercúrio, sobretudo na forma de metilmercúrio, não são degradadas nem eliminadas com facilidade, ficando retidas nos tecidos. Cada consumidor ingere grande quantidade de presas contaminadas ao longo da vida, e a concentração vai aumentando a cada nível trófico. Os botos são predadores que se alimentam de peixes e lulas, ocupando o topo da cadeia alimentar, por isso recebem a maior carga acumulada. Como vivem cerca de 30 anos na mesma região, ainda acumulam por muito tempo. A alternativa A está errada porque os botos são carnívoros, e herbívoros ocupam a base da cadeia. A B também não se aplica: eles não se alimentam de detritos. A C confunde tamanho corporal com posição trófica. A D não explica a acumulação, que depende da retenção da substância e do nível trófico. Gabarito: E.",
   "hash": "0d5455012c9930c8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q112": {
+  "assunto": "Ondulatória: interferência sonora",
+  "dificuldade": 4,
   "explicacao": "A questão pede a frequência do som a partir da interferência no trombone de Quincke. Com os trajetos iguais, as ondas chegam em fase a C e há interferência construtiva (som intenso). Ao aumentar o trajeto ADC, a intensidade cai até ficar praticamente nula pela primeira vez: é a primeira interferência destrutiva, que ocorre quando a diferença de caminho vale meio comprimento de onda. Pela figura, o lado D está a 40 cm do eixo AC e o lado E, a 30 cm. Como o som percorre esse trecho na ida e na volta (os dois braços horizontais), a diferença de caminho é Δ = 2 × (40 − 30) = 20 cm. Então λ/2 = 20 cm, logo λ = 40 cm = 0,40 m. Pela equação fundamental da ondulatória, f = v ÷ λ = 320 ÷ 0,40 = 800 Hz. A alternativa A usaria λ = 10 cm, sem base na figura. A B corresponde a tomar λ = 20 cm, esquecendo que a diferença é meio comprimento de onda. A D usaria λ = 50 cm, sem relação com as medidas. A E dobra λ indevidamente para 80 cm. Gabarito: C.",
   "hash": "33443a087795d485",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q113": {
+  "assunto": "Propriedades da matéria e separação de misturas: extração, destilação",
+  "dificuldade": 3,
   "explicacao": "A questão pede em qual fração do esquema de separação fica o óleo de linhaça. O texto informa que o óleo é rico em substâncias lipossolúveis, ou seja, solúveis em solventes orgânicos e não em água. Seguindo o esquema: a farinha recebe éter etílico e é filtrada. O óleo se dissolve no éter e passa para o extrato etéreo (fase orgânica), enquanto fibras, celulose e sais ficam no Resíduo 1. O extrato etéreo é então destilado: o éter, muito volátil, evapora e é recolhido como Destilado 1, e o óleo, de massa molecular elevada e pouco volátil, permanece no Resíduo 4. A alternativa A corresponde ao éter etílico recuperado. A B é a água destilada do extrato aquoso. A C contém o material insolúvel em éter e em água, como fibras e celulose. A D reúne os sais minerais hidrossolúveis, que ficam após a destilação da água. Gabarito: E.",
   "hash": "37f6f532c2194a85",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q114": {
+  "assunto": "Química orgânica: funções orgânicas, éster",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função química do biodiesel na reação de transesterificação mostrada. O reagente é um triglicerídeo, que é um triéster formado por glicerol e três ácidos graxos. Ao reagir com metanol (CH₃OH) na presença de catalisador, cada cadeia do ácido graxo é transferida do glicerol para o grupo metila, formando três moléculas do tipo R–COO–CH₃ e liberando glicerol (propano-1,2,3-triol). O produto R–COO–CH₃ apresenta o grupo carboxilato ligado a um carbono, característico da função éster; o biodiesel é, portanto, uma mistura de ésteres metílicos (ou etílicos) de ácidos graxos. A alternativa A estaria correta só se houvesse um oxigênio ligando dois carbonos sem a carbonila. A C corresponde ao glicerol, o subproduto, e ao metanol, o reagente. A D exigiria carbonila entre dois carbonos, sem oxigênio ligado. A E teria o grupo –COOH, que não aparece no produto. Gabarito: B.",
   "hash": "435167d069590baa",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q115": {
+  "assunto": "Propriedades da matéria e separação de misturas: centrifugação",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta em função de qual propriedade a centrífuga separa as substâncias. Na rotação, todos os componentes da mistura tendem a se afastar do eixo, e a força necessária para manter cada porção em movimento circular é proporcional à sua massa. Para volumes iguais, a porção mais densa tem mais massa e, no referencial do tubo, sofre efeito centrífugo maior, deslocando-se para o fundo (mais longe do eixo); a menos densa fica mais próxima do centro. É o mesmo princípio da decantação, só que com uma aceleração muito maior que a da gravidade, o que acelera a separação de sólidos em suspensão ou de líquidos imiscíveis. Por isso, a separação ocorre pelas diferentes densidades. A alternativa B está errada porque o raio é consequência da separação, não sua causa. A C erra porque todo o recipiente gira com a mesma velocidade angular. A D não importa: a quantidade não define a posição final. A E não é o critério da centrifugação. Gabarito: A.",
   "hash": "90a07e71055996a7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q116": {
+  "assunto": "Citologia: membrana plasmática, mosaico fluido",
+  "dificuldade": 3,
   "explicacao": "A questão trata do experimento clássico de fusão de uma célula humana com uma de camundongo, que sustenta o modelo do mosaico fluido. Logo após a fusão, as proteínas de membrana marcadas com fluorescências diferentes aparecem separadas, cada tipo ocupando metade da célula híbrida. Com o passar do tempo, as cores se misturam e passam a se distribuir por toda a superfície. Essa mudança mostra que as proteínas não estão fixas: elas se deslocam lateralmente, flutuando na bicamada lipídica, que se comporta como um fluido. Portanto, a alteração da etapa 3 para a etapa 4 ocorre porque as proteínas se movimentam livremente no plano da bicamada. A alternativa B descreve justamente o oposto do que foi observado. A C inverte a lógica: são as proteínas que se movem no meio lipídico, não as que movem os fosfolipídios. A D e a E atribuem o efeito aos anticorpos, que servem apenas como marcadores e não causam nem bloqueiam o movimento. Gabarito: A.",
   "hash": "53f661200b80e2d5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q117": {
+  "assunto": "Genética: herança ligada ao x, inativação do x",
+  "dificuldade": 4,
   "explicacao": "A questão pede a explicação para gêmeas monozigóticas, ambas heterozigotas para o alelo da distrofia de Duchenne, terem fenótipos diferentes. Gêmeas idênticas têm o mesmo genoma, então a diferença não está nos genes, mas na sua expressão. Nas fêmeas de mamíferos, um dos cromossomos X de cada célula é inativado ao acaso no início do desenvolvimento, formando o corpúsculo de Barr (hipótese de Lyon). Se essa inativação ocorre depois da separação dos embriões, cada gêmea pode ter um padrão diferente: numa delas, a maioria das células musculares pode ter inativado o X com o alelo normal, expressando o mutante e manifestando a doença; na outra, predomina o X normal ativo. A alternativa A não se aplica, pois o alelo é recessivo e a dominância seria igual nas duas. A B causaria alterações cromossômicas, não descritas. A C ocorreria antes da separação e afetaria as duas igualmente. A E é impossível, pois gêmeas monozigóticas vêm do mesmo zigoto e herdaram os mesmos cromossomos. Gabarito: D.",
   "hash": "8bbbea507c443063",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q118": {
+  "assunto": "Química ambiental: impermeabilização do solo",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta o que o concregrama evita no solo. O piso tradicional de concreto cobre toda a superfície e impede que a água da chuva penetre no terreno. Já o concregrama tem áreas vazadas preenchidas com solo e grama, permitindo a infiltração da água. Em áreas urbanas, a impermeabilização do solo aumenta o escoamento superficial, sobrecarrega a drenagem, favorece enchentes e reduz a recarga dos lençóis freáticos. Ao manter parte do solo exposto e vegetado, o concregrama diminui esses impactos, ou seja, evita a impermeabilização. A alternativa B não é o objetivo; a vegetação até ajuda a reduzir o aquecimento, e não a evitar a queda de temperatura. A C não se relaciona com o uso do piso. A D não é afetada de forma relevante pela escolha do revestimento. A E é um problema típico de irrigação em regiões secas, não de pisos urbanos. Gabarito: A.",
   "hash": "6347f5a7c8d6ae69",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q119": {
+  "assunto": "Funções inorgânicas: acidez, pka, extração",
+  "dificuldade": 4,
   "explicacao": "A questão pede a solução mais eficiente para extrair o lapachol da serragem. O ponto central é que o lapachol tem uma hidroxila enólica ácida, com pKₐ = 6,0. Em meio básico, essa hidroxila perde H⁺ e o lapachol vira um ânion, formando um sal solúvel em água, que passa para a solução e é separado da serragem por filtração. O carbonato de sódio, Na₂CO₃, é um sal de caráter básico (o íon CO₃²⁻ sofre hidrólise e gera OH⁻), com pH bem acima de 6, o que garante a desprotonação quase total do lapachol e a formação do sal. A alternativa B tem pH 4,5, abaixo do pKₐ, mantendo o lapachol na forma neutra e pouco solúvel. A C não altera a ionização do composto. A D usa um sal neutro que não reage com o lapachol. A E é ácida e manteria o lapachol protonado, sem reação ácido-base útil. Gabarito: A.",
   "hash": "3d8da5967e6f6508",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q120": {
+  "assunto": "Soluções: osmose reversa, pressão osmótica",
+  "dificuldade": 2,
   "explicacao": "A questão pede a relação entre as pressões osmótica e mecânica para que ocorra a osmose reversa. Na osmose natural, a água atravessa a membrana semipermeável do meio menos concentrado (água pura) para o mais concentrado (água salgada); a pressão osmótica é a pressão associada a essa tendência. Na dessalinização, queremos o contrário: que a água saia da solução salgada e passe para o lado da água potável. Para isso, aplica-se uma pressão mecânica sobre a água salgada, em sentido oposto ao fluxo osmótico, e ela precisa superar a pressão osmótica para inverter o movimento. Assim, as pressões têm sentidos opostos e a mecânica deve ser maior. A alternativa A não descreve a situação, já que as pressões se opõem. A B produziria equilíbrio, sem fluxo líquido de água. A C manteria a osmose comum, levando água para o lado salgado. A D também está errada quanto ao sentido e quanto à intensidade. Gabarito: E.",
   "hash": "5da7e25ad3c7efab",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q121": {
+  "assunto": "Eletroquímica: pilhas, potenciais de redução",
+  "dificuldade": 4,
   "explicacao": "A questão pede a associação de duas pilhas em série que forneça pelo menos 3,6 V. A ddp de cada pilha é E = E(cátodo) − E(ânodo); o cátodo é o eletrodo de maior potencial de redução. Para somar as tensões em série, o polo negativo (ânodo) de uma pilha deve ser ligado ao polo positivo (cátodo) da outra. Na alternativa C, a primeira pilha é Ce⁴⁺/Ce³⁺ (cátodo, grafite) com Zn (ânodo): E = 1,61 − (−0,76) = 2,37 V. A segunda é Cr₂O₇²⁻ (cátodo, grafite) com Ni (ânodo): E = 1,33 − (−0,25) = 1,58 V. O zinco (negativo) está ligado ao grafite do dicromato (positivo), e os extremos são o grafite do cério e o níquel: a soma é 2,37 + 1,58 = 3,95 V, suficiente. Na A, as tensões também somariam 3,95 V, mas os dois ânodos (Ni e Zn) estão ligados entre si e as pilhas se opõem. Na B ocorre o mesmo erro, com Zn ligado a Ni. Na D, cada pilha usa pares de potenciais próximos (0,28 V e 0,51 V), insuficiente. Na E, os mesmos pares fracos fornecem no máximo 0,79 V. Gabarito: C.",
   "hash": "ba9767bd97c7f03c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q122": {
+  "assunto": "Estequiometria: rendimento, massa",
+  "dificuldade": 3,
   "explicacao": "A questão pede a massa de ácido salicílico para fabricar 900 mil comprimidos de 500 mg de AAS, com rendimento de 50%. Pela equação, 1 mol de ácido salicílico produz 1 mol de AAS. Massa total de AAS: 900 000 × 0,5 g = 450 000 g. Quantidade de AAS: 450 000 ÷ 180 = 2 500 mol. Com rendimento de 100%, seriam necessários 2 500 mol de ácido salicílico; como o rendimento é de 50%, é preciso o dobro: 5 000 mol. Massa de ácido salicílico: 5 000 × 138 = 690 000 g = 690 kg. A alternativa A não corresponde a nenhuma etapa coerente do cálculo. A B é a massa considerando rendimento de 100% (2 500 × 138 = 345 000 g). A C não reflete a proporção estequiométrica correta. A E vem de aplicar o rendimento sobre a massa de AAS sem converter para ácido salicílico (2 × 450 × 0,92 ≈ 828), misturando as massas molares. Gabarito: D.",
   "hash": "3de734d99b413c20",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q123": {
+  "assunto": "Botânica: epífitas, absorção de água",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta de onde as bromélias epífitas, que vivem sobre árvores na Mata Atlântica, captam água. Epífitas usam outras plantas apenas como suporte, sem retirar delas nutrientes ou água, e não têm acesso ao solo. Muitas bromélias têm folhas dispostas em roseta que formam um reservatório central, o chamado tanque, onde a água da chuva se acumula. Essa água é absorvida por estruturas especiais das folhas, os tricomas, e o tanque ainda reúne matéria orgânica que fornece nutrientes. A alternativa A sugere parasitismo, o que não ocorre nas epífitas. A B está errada porque as raízes dessas plantas servem principalmente para fixação no tronco, não alcançando o solo. A D descreve o comportamento de plantas parasitas, como a erva-de-passarinho, e não de epífitas. A E inverte a relação: a comunidade que vive no tanque depende da água acumulada, e não o contrário. Gabarito: C.",
   "hash": "3d985ebc09a1e922",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q124": {
+  "assunto": "Termoquímica: lei de hess",
+  "dificuldade": 4,
   "explicacao": "A questão pede a variação de entalpia de FeO + CO → Fe + CO₂ pela lei de Hess. Vamos montar a reação multiplicada por 6, para trabalhar com coeficientes inteiros: 6 FeO + 6 CO → 6 Fe + 6 CO₂. Usamos a segunda equação vezes 2: 6 FeO + 2 CO₂ → 2 Fe₃O₄ + 2 CO, ΔH = 2 × (−36) = −72 kJ. A terceira equação como está: 2 Fe₃O₄ + CO₂ → 3 Fe₂O₃ + CO, ΔH = +47 kJ. A primeira vezes 3: 3 Fe₂O₃ + 9 CO → 6 Fe + 9 CO₂, ΔH = 3 × (−25) = −75 kJ. Somando, Fe₃O₄ e Fe₂O₃ se cancelam; restam 3 CO₂ e 9 CO nos reagentes e 9 CO₂ e 3 CO nos produtos, o que simplifica para 6 FeO + 6 CO → 6 Fe + 6 CO₂. ΔH total = −72 + 47 − 75 = −100 kJ para 6 mol de FeO. Por mol: −100 ÷ 6 ≈ −16,7 ≈ −17 kJ/mol. A alternativa A não resulta da combinação correta. A C e a D usam coeficientes inadequados. A E é o valor para 6 mol, sem dividir. Gabarito: B.",
   "hash": "1ca267e1f634f535",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q125": {
+  "assunto": "Bioquímica: dna, ligações de hidrogênio",
+  "dificuldade": 3,
   "explicacao": "A questão pede o segmento de DNA que desnatura primeiro com o aumento da temperatura. A desnaturação depende das ligações de hidrogênio entre as bases: A–T faz duas ligações e G–C faz três. Quanto menos pares G–C, menos ligações a romper e menor a temperatura necessária. Contando os pares G–C em cada segmento de 8 pares: na A, há 6 pares G–C; na B, 5; na C (AATTCCTA), apenas 2; na D, 5; na E, 4. No segmento C, são 6 pares A–T e 2 pares G–C, totalizando 6 × 2 + 2 × 3 = 18 ligações de hidrogênio, o menor número entre as opções. Por isso ele é o primeiro a se separar totalmente. A alternativa A tem o maior teor de G–C e é a mais estável. A B tem 5 pares G–C, mais ligações que a C. A D também tem 5 pares G–C. A E tem 4 pares G–C, ainda mais estável que a C. Gabarito: C.",
   "hash": "7951eae0e213a02e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q126": {
+  "assunto": "Tabela periódica: eletronegatividade, gases nobres",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta qual propriedade do flúor justifica seu uso para forçar o xenônio a formar um composto. Os gases nobres têm camada de valência completa e altíssima energia de ionização, por isso quase não reagem. Para arrancar ou atrair parcialmente elétrons de um átomo assim, é preciso um elemento com enorme tendência a atrair elétrons. O flúor é o elemento mais eletronegativo da tabela periódica (cerca de 4,0 na escala de Pauling), o que o torna o agente oxidante mais forte entre os elementos. Essa avidez por elétrons, citada no texto como flúor ávido, permitiu formar compostos como os fluoretos de xenônio. A alternativa A não determina a reatividade química. A B se refere a condução elétrica, sem relação com a reação. A D é propriedade do núcleo, irrelevante para ligações químicas, que envolvem a eletrosfera. A E é uma propriedade física que não explica a formação do composto. Gabarito: C.",
   "hash": "046592055b8b4edd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q127": {
+  "assunto": "Termologia: calorimetria, potência",
+  "dificuldade": 4,
   "explicacao": "A questão pede a fração da potência na condição morno em relação à superquente (6 500 W). A potência da ducha aquece a água que passa: P = (m ÷ t)·c·ΔT. Com a densidade de 1 kg/L, a vazão em massa é igual à vazão em litros, então, para a mesma vazão, P é proporcional a ΔT. Basta comparar as curvas 1 e 3 numa mesma vazão. Conferindo com a vazão de 3 L/min = 0,05 kg/s, a superquente dá ΔT₃ = 6 500 ÷ (0,05 × 4 200) ≈ 31 °C, como no gráfico. Na mesma vazão, a curva 1 (morno) mostra ΔT₁ ≈ 11,6 °C. Logo, P₁ ÷ P₃ = ΔT₁ ÷ ΔT₃ ≈ 11,6 ÷ 31 ≈ 0,375 = 3/8. Isso corresponde a cerca de 2 440 W na condição morno. A alternativa A (≈ 0,33) subestima a razão. A B (0,2) é muito menor que a leitura do gráfico. A C (0,6) se aproxima da razão entre a condição quente e a superquente, não a do morno. A E (0,625) também é grande demais para a curva 1. Gabarito: D.",
   "hash": "b4536d1f9c43cd70",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q128": {
+  "assunto": "Fisiologia humana: visão, cones e bastonetes",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta o que acontece com a visão se os cones da retina degenerarem. A retina tem dois tipos principais de fotorreceptores: os bastonetes, muito sensíveis à luz e responsáveis pela visão em baixa luminosidade e em preto e branco, e os cones, que funcionam com mais luz e são sensíveis a diferentes faixas de comprimento de onda (azul, verde e vermelho). O próprio texto diz que os cones convertem os diferentes comprimentos de onda da luz visível em sinais elétricos. É a combinação dos sinais desses tipos de cones que permite ao cérebro perceber as cores. Assim, a degeneração dos cones compromete a visão em cores. A alternativa B depende das estruturas transparentes do olho, como córnea e cristalino, e não dos cones. A C descreve algo que ocorre normalmente: a imagem na retina já é invertida. A D é a hipermetropia ou a presbiopia, ligadas à focalização. A E depende da íris e de seus músculos, não dos fotorreceptores. Gabarito: A.",
   "hash": "4100ba7b8e9a2ddf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q129": {
+  "assunto": "Eletrodinâmica: lei de ohm, resistência interna",
+  "dificuldade": 3,
   "explicacao": "A questão pede como deve ser a resistência interna do gerador, comparada à do corpo humano, para que a corrente não ultrapasse 0,01 A. O circuito é formado pelo gerador de 10 000 V em série com sua resistência interna r e com o corpo da pessoa, de cerca de 1 000 Ω. Pela lei de Ohm, a resistência total mínima é R = U ÷ i = 10 000 ÷ 0,01 = 1 000 000 Ω = 10⁶ Ω. Descontando o corpo: r = 10⁶ − 10³ = 999 000 Ω, ou seja, aproximadamente 1 000 vezes a resistência corporal. É essa grande resistência interna que limita a corrente e torna a cerca segura. A alternativa A resultaria em corrente de 10 A, letal. A B daria cerca de 5 A, também letal. A D, com cerca de 10 000 Ω, permitiria aproximadamente 0,9 A, ainda perigosa. A E faria a corrente ficar quase em 10 A. Gabarito: C.",
   "hash": "80d087c2bae54af0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q130": {
+  "assunto": "Propriedades da matéria e separação de misturas: cromatografia, polaridade",
+  "dificuldade": 3,
   "explicacao": "A questão pede a substância que migra mais lentamente na cromatografia em papel. Pelo texto, a fase estacionária é a água absorvida pela celulose, muito polar, e a fase móvel é hexano com 5% de acetona, praticamente apolar. Migra mais devagar o componente que interage mais fortemente com a água, isto é, o mais polar, capaz de fazer ligações de hidrogênio. Analisando as estruturas: licopeno, α-caroteno e γ-caroteno são hidrocarbonetos, apolares, e acompanham a fase móvel. A α-criptoxantina tem apenas uma hidroxila. A capsorubina possui duas hidroxilas e duas carbonilas de cetona, sendo a mais polar do grupo; ela forma mais ligações de hidrogênio com a água e fica mais retida no papel. A alternativa A é um hidrocarboneto apolar, que migra rápido. A B também é apolar. A C, igualmente hidrocarboneto, interage pouco com a água. A E tem só uma hidroxila, sendo menos polar que a capsorubina. Gabarito: D.",
   "hash": "5ca351ea7901c32c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q131": {
+  "assunto": "Cinemática: muv, tempo de reação",
+  "dificuldade": 4,
   "explicacao": "A questão pede quanto o motorista desatento percorre a mais que o atento até parar. Motorista atento: começa a frear a 14,0 m/s e desacelera a 5,00 m/s². Pela equação de Torricelli, 0 = v² − 2·a·d, então d = 14² ÷ (2 × 5) = 196 ÷ 10 = 19,6 m. Motorista desatento: continua acelerando a 1,00 m/s² por mais 1,00 s. Nesse segundo, a velocidade vai de 14,0 para 15,0 m/s e ele percorre d₁ = 14 × 1 + ½ × 1 × 1² = 14,5 m. Depois freia a partir de 15,0 m/s: d₂ = 15² ÷ (2 × 5) = 225 ÷ 10 = 22,5 m. Total do desatento a partir do mesmo ponto: 14,5 + 22,5 = 37,0 m. Diferença: 37,0 − 19,6 = 17,4 m. A alternativa A é só a diferença entre as distâncias de frenagem (22,5 − 19,6). A B considera o segundo extra como movimento uniforme a 14 m/s e esquece a frenagem maior. A C conta apenas o segundo a mais de aceleração. A D usa 15 m/s × 1 s, sem a frenagem adicional. Gabarito: E.",
   "hash": "472d1b3da5abf466",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q132": {
+  "assunto": "Citologia: osmose, desidratação celular",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta o que acontece com as células de alimentos conservados com sal. Ao salgar a carne, o meio externo às células fica muito mais concentrado em solutos do que o meio interno, ou seja, hipertônico. Pela osmose, a água atravessa a membrana plasmática do meio menos concentrado para o mais concentrado; assim, a água sai das células, que se desidratam (plasmólise, nas células vegetais, ou murchamento). O mesmo acontece com bactérias e fungos que tentam se instalar no alimento: sem água disponível, não conseguem se multiplicar, e o alimento se conserva. A alternativa A inverte o efeito, já que a perda de água aumenta a concentração interna. A B exagera: o sal não destrói diretamente as membranas. A C erra porque a membrana mantém suas propriedades; o que muda é o gradiente de concentração. A D está errada porque os íons não atravessam a membrana livremente; dependem de canais e transportadores. Gabarito: E.",
   "hash": "b66f1e7cf56e112a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q133": {
+  "assunto": "Eletromagnetismo: indução, gerador",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que dobrar para que a tensão máxima dobre sem mudar a corrente de curto-circuito. Num gerador de espiras girando em campo uniforme, a tensão máxima induzida é V = N·B·A·ω, com ω = 2πf. A corrente de curto é i = V ÷ R, em que R é a resistência do fio, R = ρ·L ÷ S, proporcional ao comprimento L e inversamente proporcional à área da seção. Se dobrarmos o número de espiras N, a tensão dobra; mas o comprimento do fio também dobra, e com ele a resistência. Assim, i = 2V ÷ 2R = V ÷ R, constante. A alternativa B dobra V sem alterar R, dobrando também a corrente. A C tem o mesmo problema: dobra V e mantém R. A D dobra V e, como o perímetro de cada espira aumenta, também altera R de forma diferente, não mantendo i. A E não altera V e reduz R a um quarto, aumentando a corrente. Gabarito: A.",
   "hash": "624d61eb06676905",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q134": {
+  "assunto": "Química orgânica: ozonólise de alcenos",
+  "dificuldade": 4,
   "explicacao": "A questão pede os produtos da ozonólise do 1-fenil-2-metilprop-1-eno. A estrutura é C₆H₅–CH=C(CH₃)₂: a dupla está entre o carbono 1, ligado ao grupo fenil e a um hidrogênio, e o carbono 2, ligado a dois grupos metila. Pela regra do texto, a ozonólise quebra a dupla e coloca um oxigênio em cada carbono. O carbono 1, monossubstituído (tem H), vira aldeído: C₆H₅–CHO, o benzaldeído. O carbono 2, dissubstituído (dois CH₃), vira cetona: CH₃–CO–CH₃, a propanona. A alternativa B apresenta propanal, que exigiria um carbono com H e grupo etila. A C forma 2-feniletanal e metanal, que viriam de uma dupla terminal com um CH₂ entre o anel e a dupla. A D traz benzeno, que não é carbonílico e não se forma na ozonólise. A E traz etanal, que exigiria um carbono com H e um único metila. Gabarito: A.",
   "hash": "aca6e0d79f3464aa",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q135": {
+  "assunto": "Saúde e doenças: terapia celular, transfusão",
+  "dificuldade": 1,
   "explicacao": "A questão pergunta qual técnica hospitalar rotineira já consistia em introduzir novas células num indivíduo para tratar enfermidades. A terapia celular se baseia em colocar células no organismo para repor ou regenerar tecidos. A transfusão de sangue faz exatamente isso há muito tempo: introduz no paciente hemácias, leucócitos e plaquetas de um doador, para tratar anemias, hemorragias e outros quadros. Como o sangue é um tecido, a transfusão é uma forma de introduzir células novas no corpo do receptor. A alternativa A introduz antígenos (agentes mortos, atenuados ou partes deles) para estimular a imunidade, não células para regenerar tecidos. A B retira uma amostra de tecido para análise; é o contrário de introduzir células. A C filtra o sangue por uma máquina e o devolve, sem acrescentar células novas. A D usa substâncias químicas para destruir células, especialmente as tumorais. Gabarito: E.",
   "hash": "d5a64c3df3a11554",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q136": {
+  "assunto": "Matemática financeira: juros compostos, antecipação",
+  "dificuldade": 4,
   "explicacao": "A questão pede a expressão do valor pago para quitar o empréstimo no momento de pagar a 6ª parcela. Na data da 6ª parcela, faltam a 6ª, a 7ª e a 8ª. A 6ª vence naquele momento e é paga pelo valor P. A 7ª vence um mês depois, então seu valor atual é P dividido por (1 + i/100). A 8ª vence dois meses depois, e, como os juros são compostos, seu valor atual é P dividido por (1 + i/100)². Somando: P[1 + 1/(1 + i/100) + 1/(1 + i/100)²], que é a expressão da alternativa A. A alternativa B usa juros simples no desconto da 8ª parcela, com (1 + 2i/100). A C desconta a 7ª parcela por dois meses, quando deveria ser um. A D usa juros simples e ainda desconta a 6ª parcela, que é paga na data. A E desconta todas as três parcelas, como se a 6ª ainda fosse vencer. Gabarito: A.",
   "hash": "a1323db7eff1c4fc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q137": {
+  "assunto": "Funções exponencial e logarítmica: inequação exponencial",
+  "dificuldade": 4,
   "explicacao": "A questão pede o menor número de parcelas n para que a prestação não passe de R$ 400,00. Impomos P ≤ 400: 5 000 × 1,013ⁿ × 0,013 ÷ (1,013ⁿ − 1) ≤ 400. Como 5 000 × 0,013 = 65, temos 65 × 1,013ⁿ ≤ 400 × (1,013ⁿ − 1). Desenvolvendo: 65 × 1,013ⁿ ≤ 400 × 1,013ⁿ − 400, logo 400 ≤ 335 × 1,013ⁿ, isto é, 1,013ⁿ ≥ 400 ÷ 335. Aplicando logaritmo: n × log 1,013 ≥ log 400 − log 335. Com os valores dados: n × 0,005 ≥ 2,602 − 2,525 = 0,077, então n ≥ 0,077 ÷ 0,005 = 15,4. Como n é inteiro, o menor valor é 16. A alternativa A daria prestação acima de R$ 400,00. A B também fica abaixo de 15,4. A C é o arredondamento para baixo de 15,4, que ultrapassa o limite. A E respeita o limite, mas não é o menor número possível. Gabarito: D.",
   "hash": "2f2e0dcf99a92a69",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q138": {
+  "assunto": "Trigonometria: seno de ângulos notáveis",
+  "dificuldade": 2,
   "explicacao": "A questão pede a que percentual do valor máximo a intensidade se reduz quando x = 30°. A intensidade é I(x) = k·sen(x), com x entre 0° e 90°. O seno cresce nesse intervalo e atinge seu máximo, 1, em x = 90°, quando os raios incidem perpendicularmente à superfície; assim, a intensidade máxima é I(90°) = k. Para x = 30°, temos sen 30° = ½, logo I(30°) = k × ½ = 0,5k. Comparando com o máximo: 0,5k ÷ k = 0,5 = 50%. A alternativa A não corresponde a nenhum valor notável do seno nesse contexto. A C seria aproximadamente 1 ÷ √3, valor sem relação com sen 30°. A D se aproxima de sen 45° (cerca de 0,71), não de sen 30°. A E corresponde a cos 30° (cerca de 0,87), confundindo seno com cosseno. Gabarito: B.",
   "hash": "81a55265a1043eca",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q139": {
+  "assunto": "Leitura de gráficos e tabelas: velocidade por tempo",
+  "dificuldade": 1,
   "explicacao": "A questão pede por quantos minutos o veículo ficou imóvel. Um veículo está parado quando sua velocidade é zero, então devemos procurar no gráfico velocidade × tempo os trechos em que a linha coincide com o eixo horizontal. Lendo o gráfico: de 0 a 1 min a velocidade é constante e positiva; sobe até 2 min, cai até 3 min, fica constante até 4 min, sobe até 5 min e cai até zero em 6 min. De 6 a 8 min, a linha permanece sobre o eixo do tempo, ou seja, velocidade nula; depois volta a crescer até 10 min. Portanto, o veículo ficou parado de 6 a 8 min, durante 8 − 6 = 2 minutos. A alternativa A soma tempos de velocidade constante, mas não nula. A B inclui indevidamente parte da desaceleração ou da retomada. A D considera só metade do trecho parado. A E ignora o trecho em que a velocidade é zero. Gabarito: C.",
   "hash": "0d47432886f74b3e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q140": {
+  "assunto": "Geometria plana: área de retângulo, círculos",
+  "dificuldade": 3,
   "explicacao": "A questão pede a área mínima da bandeja para quatro taças em fileira. As bases têm raio 4 cm e as bordas superiores, raio 5 cm. As bordas, mais largas, impedem que as taças fiquem mais próximas: duas taças vizinhas, no máximo, têm as bordas encostadas, de modo que a distância entre os centros é 5 + 5 = 10 cm. Com quatro taças, a distância entre o primeiro e o último centro é 3 × 10 = 30 cm. Como as bases devem estar totalmente apoiadas na bandeja, acrescentamos o raio da base em cada ponta: comprimento = 4 + 30 + 4 = 38 cm. A largura deve comportar o diâmetro da base: 2 × 4 = 8 cm (as bordas podem ultrapassar a bandeja, pois ficam no alto). Área mínima: 38 × 8 = 304 cm². A alternativa A usaria as bases encostadas (32 × 6 ou similar), ignorando as bordas. A B não corresponde às medidas corretas. A D usa 40 cm de comprimento, apoiando as bordas, e não as bases, nas pontas. A E usa as bordas tanto no comprimento quanto na largura (40 × 10). Gabarito: C.",
   "hash": "655be2ddf68dd77e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q141": {
+  "assunto": "Razão e proporção: custo de mistura, frações",
+  "dificuldade": 3,
   "explicacao": "A questão pede a redução no preço da polpa de morango para que o custo do suco não mude. O suco usa 2/3 de polpa de morango e 1/3 de acerola, e as embalagens têm o mesmo volume. Custo atual da mistura, por embalagem de suco: (2/3) × 18,00 + (1/3) × 14,70 = 12,00 + 4,90 = 16,90. Com a acerola a R$ 15,30, a parte de acerola passa a custar (1/3) × 15,30 = 5,10, ou seja, R$ 0,20 a mais. Para manter R$ 16,90, a parte do morango deve cair R$ 0,20: (2/3) × x = 16,90 − 5,10 = 11,80, logo x = 11,80 × 3 ÷ 2 = 17,70. A redução é 18,00 − 17,70 = 0,30 real. A alternativa A não corresponde ao cálculo com as frações corretas. A B ignora a proporção e usa o triplo do aumento por parte. A C é o aumento total da acerola (15,30 − 14,70), sem considerar as proporções. A D usa proporções invertidas. Gabarito: E.",
   "hash": "b8c788afc2ae781f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q142": {
+  "assunto": "Geometria espacial: volume de blocos",
+  "dificuldade": 2,
   "explicacao": "A questão pede a caixa onde o cubo de 80 cm caiba deixando o menor espaço livre. Primeiro, eliminamos a caixa 2, que tem uma dimensão de 75 cm, menor que a aresta do cubo. Entre as que comportam o objeto, o menor espaço livre está na de menor volume, pois o volume do cubo é fixo. Calculando: caixa 1: 86 × 86 × 86 = 636 056 cm³; caixa 3: 85 × 82 × 90 = 627 300 cm³; caixa 4: 82 × 95 × 82 = 638 780 cm³; caixa 5: 80 × 95 × 85 = 646 000 cm³. A caixa 3 tem o menor volume, deixando o menor espaço livre: 627 300 − 512 000 = 115 300 cm³. A alternativa A é viável, mas sobra mais espaço que na caixa 3. A B não comporta o cubo. A D tem volume maior que a caixa 3. A E, além de ter o maior volume, tem uma dimensão exatamente igual à aresta, sem folga. Gabarito: C.",
   "hash": "b4e9f564ccd2e887",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q143": {
+  "assunto": "Análise combinatória: combinação com repetição",
+  "dificuldade": 5,
   "explicacao": "A questão pede o número de modelos distintos com dez carrinhos, quatro cores e pelo menos um carrinho de cada cor, sem importar a posição. Como a ordem não importa, um modelo é definido apenas pela quantidade de carrinhos de cada cor: x + y + z + w = 10, com cada valor ≥ 1. Garantimos primeiro um carrinho de cada cor, o que usa 4 carrinhos. Restam 6 carrinhos para distribuir livremente entre as 4 cores: a + b + c + d = 6, com valores ≥ 0. Pelo método das combinações completas (bolas e barras), o número de soluções é C(6 + 3, 3) = C(9,3) = 84. A alternativa A conta escolhas de 4 objetos entre 6, sem relação com a distribuição. A C ignora a exigência de pelo menos uma cor de cada e conta errado. A D e a E tratam os carrinhos como distinguíveis por posição, o que o enunciado descarta. Gabarito: B.",
   "hash": "b883a63d2781f034",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q144": {
+  "assunto": "Grandezas e medidas: volume, conversão de unidades",
+  "dificuldade": 2,
   "explicacao": "A questão pede a quantidade de produto a adicionar na piscina. A piscina tem profundidade de 1,7 m, mas a água fica 50 cm abaixo da borda, então a altura da água é 1,7 − 0,5 = 1,2 m. Volume de água: 3 × 5 × 1,2 = 18 m³. Como 1 m³ = 1 000 L, temos 18 000 L. A dose é 1,5 mL para cada 1 000 L, logo a quantidade é (18 000 ÷ 1 000) × 1,5 = 18 × 1,5 = 27 mL. A alternativa A considera apenas os 50 cm de altura da parte vazia (7,5 m³ × 1,5). A C não corresponde a nenhuma altura coerente do problema. A D também não resulta das medidas dadas. A E usa a profundidade total mais a parte seca, ou seja, um volume maior que o da piscina cheia. Gabarito: B.",
   "hash": "148f973968d4cedb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q145": {
+  "assunto": "Estatística: erro amostral, desvio padrão",
+  "dificuldade": 3,
   "explicacao": "A questão pede qual pesquisa tem erro menor que 0,02, usando |e| < 1,96·σ/√N e a tabela com σ e √N. Calculando: P1: 1,96 × 0,5 ÷ 42 = 0,98 ÷ 42 ≈ 0,0233. P2: 1,96 × 0,4 ÷ 28 = 0,784 ÷ 28 = 0,028. P3: 1,96 × 0,3 ÷ 24 = 0,588 ÷ 24 = 0,0245. P4: 1,96 × 0,2 ÷ 21 = 0,392 ÷ 21 ≈ 0,0187. P5: 1,96 × 0,1 ÷ 8 = 0,196 ÷ 8 = 0,0245. A única com erro abaixo de 0,02 é a P4. A alternativa A tem o maior N, mas o σ alto deixa o erro em cerca de 0,023. A B tem o maior erro, 0,028. A C fica em 0,0245, acima do limite. A E tem o menor σ, mas com só 64 entrevistados o erro também chega a 0,0245. Gabarito: D.",
   "hash": "a08c2776c2b6a9a9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q146": {
+  "assunto": "Razão e proporção: tempo e distância",
+  "dificuldade": 4,
   "explicacao": "A questão pede quantos segundos após a partida de B o bondinho A partiu. A travessia completa dura 1,5 min = 90 s, e os dois têm a mesma velocidade, então a distância percorrida é proporcional ao tempo de viagem. Quando se cruzam, A viajou 40 s e percorreu 40/90 do trajeto. Como os dois juntos cobrem o percurso todo, B percorreu o restante, 50/90, o que exige 50 s de viagem. Assim, no momento do cruzamento, B estava viajando havia 50 s e A, havia 40 s: A partiu 50 − 40 = 10 s depois de B. A alternativa A não corresponde à diferença de tempo calculada. A C, a D e a E superestimam a diferença; com 20 s, por exemplo, B teria viajado 60 s e A precisaria de apenas 30 s para o encontro. Gabarito: B.",
   "hash": "2c1c482cfb5a0531",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q147": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
+  "dificuldade": 3,
   "explicacao": "A questão pede a profundidade do rio às 16 h. No gráfico, a profundidade às 13 h é h, e cada linha horizontal acima representa 1 m. Lendo os pontos: às 13 h, h; às 14 h, h + 2; às 15 h, h + 6; às 16 h, h + 4; às 17 h, h + 1. Entre 15 h e 16 h, a profundidade caiu 2 m, e o texto diz que isso corresponde a 10% do valor das 15 h. Então 0,10 × (h + 6) = 2, logo h + 6 = 20 m, e h = 14 m. Às 16 h, a profundidade é h + 4 = 18 m, o que confere: 20 − 10% de 20 = 18. A alternativa B é a profundidade às 15 h. A C não corresponde a nenhum horário do gráfico. A D e a E resultam de interpretar a queda de 10% de forma errada, por exemplo aplicando-a sobre o valor de h ou sobre uma unidade diferente. Gabarito: A.",
   "hash": "bf9deedb1797d841",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q148": {
+  "assunto": "Geometria espacial: prisma triangular",
+  "dificuldade": 1,
   "explicacao": "A questão pede a forma geométrica da estrutura de sustentação da cabana. A estrutura tem duas faces frontais em forma de triângulo, idênticas e paralelas (os oitões da cabana), ligadas por arestas paralelas entre si que formam faces retangulares: as duas águas do telhado e o piso. Um sólido com duas bases triangulares congruentes e paralelas, unidas por faces laterais retangulares, é um prisma triangular; como as arestas laterais são perpendiculares às bases, é um prisma triangular reto. A alternativa A teria apenas quatro faces triangulares, sem faces retangulares. A B tem base retangular e faces laterais triangulares convergindo para um único vértice. A C teria duas bases retangulares de tamanhos diferentes. A D exigiria bases quadrangulares, mas as faces frontais da estrutura são triângulos. Gabarito: E.",
   "hash": "c7ad477d65c9fa15",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q149": {
+  "assunto": "Probabilidade: probabilidade simples",
+  "dificuldade": 3,
   "explicacao": "A questão pede o quadrado com menor probabilidade de conter mina. Cada número indica quantas minas há entre os 8 vizinhos daquele quadrado. P é vizinho do 2: probabilidade 2/8 = 25%. Q é vizinho do 1: 1/8 = 12,5%. S é vizinho do 4: 4/8 = 50%. T é vizinho do 3: 3/8 = 37,5%. R não é vizinho de nenhum quadrado aberto. Para ele, contamos as minas restantes: 40 − (2 + 1 + 3 + 4) = 30 minas. Os quadrados fora dos abertos e de suas vizinhanças são 256 − 4 − 4 × 8 = 220. Assim, a probabilidade de R é 30/220 ≈ 13,6%. Comparando, Q tem a menor probabilidade, 12,5%. A alternativa A tem 25%, o dobro de Q. A C fica em cerca de 13,6%, pouco acima de Q. A D tem a maior chance, 50%. A E tem 37,5%. Gabarito: B.",
   "hash": "957724fbe3251593",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q150": {
+  "assunto": "Geometria plana: rotação, ângulos",
+  "dificuldade": 3,
   "explicacao": "A questão pede o menor giro que devolve a tela à posição original. Na posição original, A está no canto superior esquerdo e B no canto inferior direito, com o peixe em pé e a cauda à esquerda. Depois da queda, a tela ficou pendurada por B, que agora está no vértice superior, e o peixe aparece com a cauda voltada para baixo e para a direita. Olhando a direção de B a partir do centro da tela: antes ela apontava para sudeste (−45°); agora aponta para cima (90°). Isso corresponde a um giro de 135° no sentido anti-horário. Conferindo pela cauda: ela apontava para a esquerda (180°) e, girando 135° anti-horário, passa a 315°, ou seja, para baixo e para a direita, como na figura. Para desfazer, basta girar 135° no sentido horário, o menor ângulo possível. A alternativa A gira só 90° e deixa a tela inclinada. A C produziria a tela de cabeça para baixo em relação ao original. A D equivale a 90° horário, que também não restaura a posição. A E equivale a 45° anti-horário, aumentando a inclinação. Gabarito: B.",
   "hash": "e413b4d081148f78",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q151": {
+  "assunto": "Medidas de tendência central: média ponderada",
+  "dificuldade": 2,
   "explicacao": "A questão pede a nota mínima na disciplina I para que a média ponderada seja pelo menos 7, que é o limite inferior da avaliação Bom (7 ≤ M ≤ 9). A média é a soma de nota × créditos dividida pelo total de créditos. Total de créditos: 12 + 4 + 8 + 8 + 10 = 42. Produtos conhecidos: II: 8,00 × 4 = 32; III: 6,00 × 8 = 48; IV: 5,00 × 8 = 40; V: 7,50 × 10 = 75. Soma: 32 + 48 + 40 + 75 = 195. Chamando de x a nota em I: (12x + 195) ÷ 42 ≥ 7, logo 12x + 195 ≥ 294, então 12x ≥ 99 e x ≥ 8,25. A alternativa A é a nota da faixa Bom, mas aplicada só à disciplina I, sem considerar a média ponderada. A B resulta de um cálculo com pesos ou totais errados. A C seria suficiente apenas se os créditos fossem ignorados. A E garante a meta, mas não é a nota mínima. Gabarito: D.",
   "hash": "3e29dc6bcc5c3e1d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q152": {
+  "assunto": "Funções: análise de gráfico, vasos comunicantes",
+  "dificuldade": 4,
   "explicacao": "A questão pede o gráfico da altura h no Reservatório 1 em função do volume total V. Há três fases. Primeiro, a água entra só no Reservatório 1, que tem base constante, então h cresce proporcionalmente a V: um segmento de reta inclinado. Quando o nível atinge o cano de ligação, toda a água passa a ir para o Reservatório 2, e o nível do 1 fica parado enquanto o volume total aumenta: trecho horizontal. Quando o Reservatório 2 chega ao mesmo nível, os dois sobem juntos, como vasos comunicantes. Agora o mesmo volume se distribui em uma área de base duas vezes maior, então h cresce com metade da inclinação inicial. O gráfico D mostra reta, patamar e reta menos inclinada. A alternativa A ignora o patamar. A B usa curvas, impróprias para reservatórios de base constante. A C tem patamar, mas a última reta tem a mesma inclinação da primeira. A E é uma curva sem patamar. Gabarito: D.",
   "hash": "cf7c992f5693b433",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q153": {
+  "assunto": "Geometria plana: triângulo equilátero, circunferências tangentes",
+  "dificuldade": 5,
   "explicacao": "A questão pede a altura mínima do viaduto para o caminhão passar com segurança. Na vista traseira, os três canos de raio 0,60 m estão empilhados: dois apoiados na carroceria e um sobre eles. Os centros dos três formam um triângulo equilátero de lado 2 × 0,60 = 1,20 m, cuja altura é 1,20 × √3 ÷ 2 = 0,60 × 1,7 = 1,02 m. Altura do topo da carga, a partir do solo: carroceria (1,30) + raio até o centro dos canos de baixo (0,60) + altura do triângulo (1,02) + raio do cano de cima (0,60) = 1,30 + 0,60 + 1,02 + 0,60 = 3,52 m. Com a margem de segurança de 0,50 m: 3,52 + 0,50 = 4,02 m. A alternativa A esquece um dos raios e usa a altura incorreta. A B é a altura da carga, sem a margem de segurança. A C desconsidera o encaixe do cano de cima e soma os diâmetros de forma inadequada. A E empilharia os canos como se estivessem um sobre o outro na vertical. Gabarito: D.",
   "hash": "2fa1157894ae74e5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q154": {
+  "assunto": "Geometria plana: localização, orientação no plano",
+  "dificuldade": 2,
   "explicacao": "A questão pede o ponto do mapa que representa a padaria, seguindo as instruções a partir de X. O ponto X fica na Rua C, e a rosa dos ventos indica o oeste à esquerda e o norte para cima. Seguindo os passos: andar para oeste pela Rua C (para a esquerda no mapa); virar à direita na primeira rua transversal, o que, para quem caminha para oeste, significa seguir para o norte; seguir em frente até a próxima rua, que é a Rua B; virar à esquerda, voltando a caminhar para oeste pela Rua B. Logo a seguir, nesse sentido, encontra-se o ponto 1. A alternativa B e a C estão na Rua B, mas na direção oposta (leste) à que se segue após virar à esquerda. A D e a E ficam na Rua D, ao sul, que seria alcançada apenas se a primeira conversão fosse para a esquerda. Gabarito: A.",
   "hash": "2b61812cbc1648d8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q155": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 1,
   "explicacao": "A questão pede quais alunos ficam reprovados, ou seja, com média aritmética das cinco provas menor que 6. Basta somar as notas e dividir por 5. Aluno X: 5 + 5 + 5 + 10 + 6 = 31, média 31 ÷ 5 = 6,2, aprovado. Aluno Y: 4 + 9 + 3 + 9 + 5 = 30, média 30 ÷ 5 = 6,0, aprovado, pois a regra exige média maior ou igual a 6. Aluno Z: 5 + 5 + 8 + 5 + 6 = 29, média 29 ÷ 5 = 5,8, reprovado. Portanto, apenas Z fica reprovado. A alternativa A erra porque Y tem média exatamente 6, o que basta para aprovação. A C reprova X e Y, que atingiram a média. A D inclui X, cuja média é 6,2. A E reprova todos, sem fazer as contas. Gabarito: B.",
   "hash": "8b7dcd38f4de3aa5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q156": {
+  "assunto": "Trigonometria: lei dos cossenos",
+  "dificuldade": 4,
   "explicacao": "A questão pede o tipo de material, que depende do raio da tampa. O raio do círculo desenhado é a distância entre a ponta seca C e a ponta do grafite B. O triângulo ABC tem AB = AC = 10 cm (as hastes) e ângulo de 120° em A. Pela lei dos cossenos: BC² = 10² + 10² − 2 × 10 × 10 × cos 120° = 100 + 100 − 200 × (−½) = 200 + 100 = 300. Logo BC = √300 = 10√3 ≈ 10 × 1,7 = 17 cm. Pela tabela, 15 < R ≤ 21 corresponde ao material IV. A alternativa A (até 5 cm) e a B (até 10 cm) supõem raio igual ou menor que a haste. A C (até 15 cm) poderia vir de erro de sinal no cosseno, por exemplo usando cos 120° = +½, que daria BC = 10. A E (acima de 21 cm) exigiria raio maior que a soma possível das condições dadas. Gabarito: D.",
   "hash": "7c1c5898f72b73fd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q157": {
+  "assunto": "Aritmética: números decimais, comparação",
+  "dificuldade": 1,
   "explicacao": "A questão pede a pérola com diâmetro mais próximo de 4 mm. Basta calcular a diferença, em módulo, entre cada diâmetro disponível e 4,000 mm. 4,025: diferença 0,025. 4,100: diferença 0,100. 3,970: diferença 0,030. 4,080: diferença 0,080. 3,099: diferença 0,901. A menor diferença é 0,025 mm, da pérola de 4,025 mm. O cuidado aqui é comparar decimais corretamente, alinhando as casas: 0,025 é menor que 0,030. A alternativa A é a mais distante, quase 1 mm menor. A B é próxima, mas 0,030 é maior que 0,025. A D difere 0,080 mm. A E difere 0,100 mm. Gabarito: C.",
   "hash": "3d4d095ee83fcfae",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q158": {
+  "assunto": "Escalas: razão entre volumes",
+  "dificuldade": 3,
   "explicacao": "A questão pede o volume do monumento original sabendo que a miniatura está na escala 1 : 400 e tem 25 cm³. A escala vale para comprimentos: cada medida real é 400 vezes maior. Para volumes, a razão é o cubo da escala: 400³ = 64 000 000. Assim, o volume real é 25 × 64 000 000 = 1 600 000 000 cm³. Convertendo para metro cúbico, lembramos que 1 m³ = 100³ cm³ = 1 000 000 cm³. Logo, 1 600 000 000 ÷ 1 000 000 = 1 600 m³. A alternativa A não corresponde a nenhuma potência correta da escala. A B usa a escala de forma linear para o volume e erra a conversão. A D resulta de usar a escala ao quadrado, como se fosse área. A E também usa razão inadequada para volume. Gabarito: C.",
   "hash": "74736e972a0b5c06",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q159": {
+  "assunto": "Razão e proporção: engrenagens, inversamente proporcionais",
+  "dificuldade": 3,
   "explicacao": "A questão pede a combinação coroa × catraca que deixa o passeio mais devagar, isto é, com menos voltas da roda traseira por pedalada. O número de voltas é dentes da coroa ÷ dentes da catraca, então queremos a menor razão. Calculando: I (1ª × 1ª): 46 ÷ 24 ≈ 1,92. II (1ª × 6ª): 46 ÷ 14 ≈ 3,29. III (2ª × 4ª): 36 ÷ 18 = 2,00. IV (3ª × 1ª): 26 ÷ 24 ≈ 1,08. V (3ª × 6ª): 26 ÷ 14 ≈ 1,86. A menor razão é a da combinação IV, que usa a menor coroa com a maior catraca. A alternativa A dá quase duas voltas por pedalada. A B é a mais rápida de todas. A C dá exatamente duas voltas. A E usa a menor coroa, mas com a menor catraca, aumentando a razão. Gabarito: D.",
   "hash": "fa1d93ad78ec01fa",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q160": {
+  "assunto": "Análise combinatória: princípio multiplicativo",
+  "dificuldade": 3,
   "explicacao": "A questão pede de quantas maneiras pintar a logomarca com quatro cores, de modo que regiões vizinhas tenham cores diferentes. Pelo princípio multiplicativo, começamos por uma região e seguimos para as vizinhas. A logomarca é formada por seis regiões encadeadas, em que cada nova região a ser pintada é vizinha de apenas uma região já colorida. A primeira região pode receber qualquer uma das 4 cores. Cada uma das cinco seguintes só precisa diferir da cor da vizinha já pintada, restando 3 opções para cada. Total: 4 × 3 × 3 × 3 × 3 × 3 = 4 × 3⁵ = 4 × 243 = 972 maneiras. A alternativa A não corresponde a nenhuma contagem multiplicativa coerente. A B considera poucas regiões ou restrições a mais. A C equivale a 4 × 3³, contando menos regiões. A D corresponde a arranjos simples de cores, como se nenhuma cor pudesse se repetir. Gabarito: E.",
   "hash": "d1d19fcecccf1555",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q161": {
+  "assunto": "Função quadrática: área máxima",
+  "dificuldade": 3,
   "explicacao": "A questão pede as dimensões X e Y da base retangular que maximizam a área, usando 100 m de tela nas laterais. A tela forma o perímetro da base: 2X + 2Y = 100, logo X + Y = 50 e Y = 50 − X. A área é A = X·Y = X(50 − X) = −X² + 50X, uma função do segundo grau com concavidade para baixo. O máximo ocorre no vértice: X = −b ÷ (2a) = −50 ÷ (−2) = 25. Então Y = 50 − 25 = 25, e a área máxima é 625 m². Ou seja, entre os retângulos de mesmo perímetro, o quadrado tem a maior área. A alternativa A respeita o perímetro, mas a área é só 49 m². A B gasta 200 m de tela. A C usa apenas 40 m de tela, não aproveitando todo o material. A E exigiria 200 m de tela. Gabarito: D.",
   "hash": "052386429342892c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q162": {
+  "assunto": "Funções: hipérbole, função recíproca",
+  "dificuldade": 4,
   "explicacao": "A questão pede o tipo de gráfico da equação de Hill, (p + a)(v + b) = K, no plano (p; v), com K > 0. Isolando v: v + b = K ÷ (p + a), logo v = K ÷ (p + a) − b. Essa é uma função do tipo y = k ÷ x, deslocada horizontalmente por a e verticalmente por b, cujo gráfico é uma hipérbole. Como o peso p e a velocidade v são grandezas físicas não negativas, só interessa uma parte da curva, ou seja, um ramo de hipérbole. Note que o produto de dois fatores igual a uma constante é a marca da proporcionalidade inversa. A alternativa A corresponderia a uma relação do primeiro grau entre v e p. A B indicaria velocidade constante, independente do peso. A C exigiria v dependendo do quadrado de p. A D exigiria uma equação do tipo (p − x₀)² + (v − y₀)² = r². Gabarito: E.",
   "hash": "178ecc938b9620a5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q163": {
+  "assunto": "Raciocínio lógico: otimização de custos",
+  "dificuldade": 3,
   "explicacao": "A questão pede o menor custo para visitar os dois topos e voltar ao solo. Comparamos as estratégias possíveis. Usando só elevadores: sobe e desce o 1 (0,15 + 0,10) e sobe e desce o 2 (1,80 + 2,30), total 4,35. Subir pelo 1, teleférico até o 2 e descer pelo 2: 0,15 + 2,00 + 2,30 = 4,45. Subir pelo 2, teleférico até o 1 e descer pelo 1: 1,80 + 2,50 + 0,10 = 4,40. Subir pelo 1, ir ao 2 de teleférico, voltar ao 1 de teleférico e descer pelo 1: 0,15 + 2,00 + 2,50 + 0,10 = 4,75. O menor valor é R$ 4,35. A alternativa A soma apenas parte dos trajetos, sem visitar os dois topos e voltar ao solo. A B também omite algum trecho obrigatório. A D é o custo de subir pelo 2 e descer pelo 1 usando o teleférico. A E é o custo de subir pelo 1 e descer pelo 2 usando o teleférico. Gabarito: C.",
   "hash": "3677617d05f9e8be",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q164": {
+  "assunto": "Razão e proporção: razão entre distâncias",
+  "dificuldade": 2,
   "explicacao": "A questão pede a razão entre as distâncias percorridas às cegas por X e por Y. Como os dois dirigem com a mesma velocidade constante, a distância é d = v·t, proporcional ao tempo que cada um passa olhando o celular. O tempo de X é 25% do tempo de Y: tₓ = 0,25·tᵧ = ¼·tᵧ. Então dₓ ÷ dᵧ = (v·tₓ) ÷ (v·tᵧ) = tₓ ÷ tᵧ = ¼. A alternativa A trata 25% como um acréscimo, e não como uma fração do tempo de Y. A C não tem relação com os dados. A D inverte a ordem pedida, calculando Y sobre X. A E corresponderia a X gastar 75% do tempo de Y. Gabarito: B.",
   "hash": "cedb1407123cb9d2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q165": {
+  "assunto": "Leitura de gráficos e tabelas: escala de eixo",
+  "dificuldade": 4,
   "explicacao": "A questão pede a diferença entre as razões altura de B ÷ altura de A nos dois gráficos. No Gráfico 1, o eixo começa em 0, e as alturas das colunas são os próprios valores: A = 70 e B = 30. A razão é 30 ÷ 70 = 3/7. No Gráfico 2, o eixo foi cortado e começa em 20, então as alturas visíveis são A = 70 − 20 = 50 e B = 30 − 20 = 10. A razão é 10 ÷ 50 = 1/5. A diferença é 3/7 − 1/5 = 15/35 − 7/35 = 8/35. Isso mostra o prejuízo visual: no Gráfico 2, B parece ter um quinto de A, quando na verdade tem quase metade. A alternativa A ignora o corte no eixo. A B não corresponde a nenhuma das razões calculadas. A C é apenas a razão do Gráfico 2. A D não resulta da subtração correta das frações. Gabarito: E.",
   "hash": "cb173ce4b46ab814",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q166": {
+  "assunto": "Trigonometria: funções trigonométricas, período",
+  "dificuldade": 4,
   "explicacao": "A questão pede a função P(t) = A + B·cos(kt) para os dados: pressão mínima 78, máxima 120 e 90 batimentos por minuto. Como o cosseno varia entre −1 e 1, o máximo é A + B e o mínimo é A − B. Então A + B = 120 e A − B = 78. Somando: 2A = 198, logo A = 99; e B = 120 − 99 = 21. Agora o período: um batimento é o tempo entre duas pressões máximas, ou seja, um período da função. São 90 batimentos em 60 s, então o período é T = 60 ÷ 90 = 2/3 s. Para o cosseno, T = 2π ÷ k, logo k = 2π ÷ (2/3) = 3π. Assim, P(t) = 99 + 21·cos(3πt). A alternativa B usa o mínimo como valor médio e a diferença entre máximo e mínimo como amplitude. A C tem período de 1 s, ou 60 batimentos por minuto. A D tem período 2π s, sem relação com os dados. A E combina os dois erros. Gabarito: A.",
   "hash": "448e035a04c40dea",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q167": {
+  "assunto": "Geometria espacial: esfera, calota esférica",
+  "dificuldade": 4,
   "explicacao": "A questão pede a altura h da calota a ser retirada do melão esférico de raio R = 5 cm. Há duas condições: o raio r da seção de corte deve ser de pelo menos 3 cm, e a área que sobra para espetar os doces deve ser a maior possível. Para sobrar a maior área, devemos retirar a menor calota possível, ou seja, a de menor h que ainda respeite r ≥ 3. Como r cresce com h nessa região, o menor h ocorre quando r = 3 cm. Seja d a distância do centro da esfera ao plano de corte: pelo teorema de Pitágoras, R² = d² + r², então 25 = d² + 9, logo d = 4 cm. A altura da calota é h = R − d = 5 − 4 = 1 cm. A alternativa A e a B usam valores de raio de corte diferentes de 3 cm, sem justificativa. A D é a distância d do centro ao corte, e não a altura da calota. A E cortaria o melão ao meio, removendo metade da área disponível. Gabarito: C.",
   "hash": "3e0a4c03a7f04237",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q168": {
+  "assunto": "Função quadrática: parábola, raízes e vértice",
+  "dificuldade": 4,
   "explicacao": "A questão pede a altura H da abóbada parabólica. Colocamos o eixo y no eixo de simetria e o eixo x no chão. Pela figura, a parábola toca o chão a 5 m do centro, nos pontos x = −5 e x = 5, e passa pelo ponto (4, 3), na quina do retângulo de 3 m de altura a 4 m do centro. Com as raízes ±5, escrevemos y = a(25 − x²). Substituindo (4, 3): 3 = a(25 − 16) = 9a, logo a = 1/3. A altura máxima ocorre em x = 0: H = (1/3) × 25 = 25/3 m, cerca de 8,33 m. A alternativa A não resulta da equação correta da parábola. A B também não corresponde a nenhum cálculo com os pontos dados. A C trataria a relação como se a = 1/4, sem base. A E é grande demais e viria de erro no uso das medidas. Gabarito: D.",
   "hash": "264080e2a96c2869",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q169": {
+  "assunto": "Porcentagem: taxa de variação percentual",
+  "dificuldade": 3,
   "explicacao": "A questão pede o site com maior taxa de aumento do tempo de acesso de sexta para sábado. Taxa de aumento é relativa: (valor final − valor inicial) ÷ valor inicial. Pelos gráficos: X passou de 12 para 21 min, aumento de 9 ÷ 12 = 75%. Y passou de 30 para 51, aumento de 21 ÷ 30 = 70%. Z passou de 10 para 11, aumento de 1 ÷ 10 = 10%. W passou de 38 para 57, aumento de 19 ÷ 38 = 50%. U passou de 40 para 56, aumento de 16 ÷ 40 = 40%. A maior taxa é a de X. O cuidado é não confundir aumento absoluto com taxa: Y teve o maior aumento em minutos, mas não o maior percentual. A alternativa B tem 70%, abaixo de X. A C tem só 10%. A D tem 50%. A E tem 40%. Gabarito: A.",
   "hash": "ac7092288d4272fd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q170": {
+  "assunto": "Grandezas e medidas: leitura de escala",
+  "dificuldade": 2,
   "explicacao": "A questão pede a temperatura máxima registrada no termômetro. Pela regra de leitura, a máxima é indicada pelo nível inferior do filete preto na coluna da direita. Nessa coluna, os números crescem de baixo para cima, de −30 °C a 50 °C. O filete preto da direita começa no topo (50) e desce até um pouco abaixo da marca de 20 °C; com as divisões menores, essa extremidade inferior corresponde a cerca de 19 °C. Repare que é preciso ler na escala certa e no sentido correto. A alternativa A corresponde a uma leitura invertida, na coluna errada (a extremidade do filete preto da esquerda, próxima de −5). A B se aproxima da temperatura atual, indicada pelo nível superior dos filetes cinza. A C usa a escala da esquerda de forma equivocada. A D lê a extremidade do filete preto em sentido contrário à escala da direita. Gabarito: E.",
   "hash": "1af55b95bdcdbb3e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q171": {
+  "assunto": "Geometria plana: comprimento da circunferência",
+  "dificuldade": 3,
   "explicacao": "A questão pede as velocidades das torres para que o pivô dê uma volta completa em 25 horas. Todas as torres giram juntas em torno da base, então completam a volta no mesmo tempo, mas cada uma percorre uma circunferência de raio diferente. Os raios são: T₁ a 50 m, T₂ a 100 m e T₃ a 150 m da base. Comprimentos das circunferências, com π = 3: T₁: 2 × 3 × 50 = 300 m; T₂: 2 × 3 × 100 = 600 m; T₃: 2 × 3 × 150 = 900 m. Dividindo por 25 h: T₁: 300 ÷ 25 = 12 m/h; T₂: 600 ÷ 25 = 24 m/h; T₃: 900 ÷ 25 = 36 m/h. Note que a velocidade é proporcional ao raio. A alternativa B usa a metade das distâncias, como se o comprimento fosse π·r. A C divide de forma errada, chegando a valores pequenos demais. A D usa a área do círculo (π·r²) no lugar do comprimento, sem dividir pelo tempo. A E usa 2·π·r² e também não divide pelo tempo. Gabarito: A.",
   "hash": "8cf18dd40baa1762",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q172": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico com duas escalas",
+  "dificuldade": 4,
   "explicacao": "A questão pede por quantas horas os dois reservatórios tiveram a mesma quantidade de água. O detalhe decisivo é que o gráfico tem duas escalas: a da esquerda, até 180 000 L, para o reservatório A, e a da direita, até 90 000 L, para o reservatório B. Assim, as linhas se sobrepõem no desenho sem que os volumes sejam iguais: cada ponto de B vale metade do que indicaria a escala da esquerda. Lendo corretamente, de 4 h a 10 h o reservatório B fica estável em 30 000 L (escala da direita). Nesse período, A cai de 60 000 L para 30 000 L, atingindo esse valor às 8 h e mantendo-o até as 9 h. Portanto, os dois têm 30 000 L ao mesmo tempo apenas entre 8 h e 9 h, ou seja, durante 1 hora. A alternativa B conta horas a mais no patamar. A C toma as linhas sobrepostas de 0 a 4 h como volumes iguais, ignorando as escalas. A D e a E somam trechos de coincidência visual, sem considerar as duas escalas. Gabarito: A.",
   "hash": "f7c7026fb11cc7f9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q173": {
+  "assunto": "Grandezas e medidas: densidade, frações",
+  "dificuldade": 3,
   "explicacao": "A questão pede o volume de gasolina usado no reabastecimento. O tanque começa com 100 kg de gasolina. Na parada, foram consumidos quatro décimos: 0,4 × 100 = 40 kg, restando 60 kg. O reabastecimento foi de um terço do que restou: 60 ÷ 3 = 20 kg. Para passar de massa a volume, usamos a densidade de 750 g/L, ou seja, 0,75 kg/L: V = massa ÷ densidade = 20 kg ÷ 0,75 kg/L = 20/0,75 L, aproximadamente 26,7 L. A alternativa A usa densidade 0,075 kg/L, errando a conversão de unidades. A C usa 7,5 kg/L, outro erro de conversão. A D e a E multiplicam a massa pela densidade, quando o volume se obtém dividindo. Gabarito: B.",
   "hash": "a9cd2c8a1e992885",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q174": {
+  "assunto": "Medidas de tendência central: mediana",
+  "dificuldade": 2,
   "explicacao": "A questão pede a mediana das taxas de desemprego de março de 2008 a abril de 2009, o que dá 14 meses. Valores do gráfico, em ordem cronológica: 8,6; 8,5; 7,9; 7,9; 8,1; 7,6; 7,7; 7,5; 7,6; 6,8; 8,2; 8,5; 9,0; 8,9. Colocando em ordem crescente: 6,8; 7,5; 7,6; 7,6; 7,7; 7,9; 7,9; 8,1; 8,2; 8,5; 8,5; 8,6; 8,9; 9,0. Com 14 valores, a mediana é a média dos dois centrais, o 7º e o 8º: (7,9 + 8,1) ÷ 2 = 8,0%. A alternativa A é só o 8º termo, esquecendo a média dos centrais. A C é só o 7º termo. A D e a E correspondem a valores tomados na ordem cronológica, sem ordenar os dados. Gabarito: B.",
   "hash": "d4c420e49f574e88",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q175": {
+  "assunto": "Probabilidade: distribuição binomial",
+  "dificuldade": 4,
   "explicacao": "A questão pede a probabilidade de a pessoa ver exatamente um sinal verde entre 10 semáforos independentes, com P(verde) = 2/3 e P(vermelho) = 1/3. Uma sequência específica com um verde e nove vermelhos tem probabilidade (2/3) × (1/3)⁹ = 2 ÷ 3¹⁰. O verde pode ser qualquer um dos 10 semáforos, então há 10 posições possíveis, todas igualmente prováveis. Pela distribuição binomial: P = C(10,1) × (2/3)¹ × (1/3)⁹ = 10 × 2 ÷ 3¹⁰. A alternativa B corresponde a exatamente um vermelho, ou seja, nove verdes. A C e a D usam expoentes errados, como 3¹⁰⁰, sem relação com 10 semáforos. A E considera apenas uma posição para o sinal verde, esquecendo o fator 10. Gabarito: A.",
   "hash": "f6d6fb4412ab2754",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q176": {
+  "assunto": "Equações e inequações: equação do primeiro grau",
+  "dificuldade": 4,
   "explicacao": "A questão pede a área de painéis térmicos para dobrar a economia diária da primeira fase. Na primeira fase, há 200 m² de painéis elétricos (100 no estacionamento e 100 no hospital) e 200 m² de painéis térmicos. Economia: 200 × 1 + 200 × 0,7 = 200 + 140 = 340 kWh por dia. O dobro é 680 kWh. Na segunda fase, a área elétrica aumenta 75%: 200 × 1,75 = 350 m², gerando 350 kWh. Faltam 680 − 350 = 330 kWh, que devem vir dos painéis térmicos: área = 330 ÷ 0,7 ≈ 471,4 m², ou seja, aproximadamente 472 m². A alternativa A é o aumento de área térmica considerando só os 100 m² elétricos do hospital, ou um acréscimo calculado de forma errada. A B considera apenas os 100 m² elétricos do hospital na primeira fase. A D e a E exageram a área, por erros na economia elétrica ou no fator de 0,7. Gabarito: C.",
   "hash": "5a341b80c284fd9c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q177": {
+  "assunto": "Análise combinatória: princípio multiplicativo",
+  "dificuldade": 3,
   "explicacao": "A questão pede o formato de senha cujo número de possibilidades seja maior que 1 milhão, mas não maior que 2 milhões. Pelo princípio multiplicativo, cada L tem 26 opções e cada D tem 10. I (LDDDDD): 26 × 10⁵ = 2 600 000, acima do dobro. II (DDDDDD): 10⁶ = 1 000 000, igual ao número de clientes, e não superior. III (LLDDDD): 26² × 10⁴ = 676 × 10 000 = 6 760 000, muito acima. IV (DDDDD): 10⁵ = 100 000, insuficiente. V (LLLDD): 26³ × 10² = 17 576 × 100 = 1 757 600, que está entre 1 000 000 e 2 000 000. A alternativa A ultrapassa 2 milhões. A B não supera 1 milhão, apenas o iguala. A C ultrapassa bastante o limite. A D fica muito abaixo do necessário. Gabarito: E.",
   "hash": "e500df6ebd6b7097",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q178": {
+  "assunto": "Análise combinatória: combinação simples",
+  "dificuldade": 1,
   "explicacao": "A questão pede o número de partidas num torneio com 8 jogadores em que cada um enfrenta cada outro uma única vez. Uma partida é definida por um par de jogadores, e a ordem não importa (A contra B é o mesmo jogo que B contra A). Então contamos combinações de 8 jogadores tomados 2 a 2: C(8,2) = 8 × 7 ÷ 2 = 28. Outra forma de ver: cada jogador enfrenta 7 adversários, o que daria 8 × 7 = 56, mas cada jogo foi contado duas vezes, logo 56 ÷ 2 = 28. Isso confere com o padrão do quadro, em que o número de partidas é n(n − 1) ÷ 2. A alternativa A seria 8 × 8, incluindo jogos de um jogador contra si mesmo e repetições. A B conta cada partida duas vezes. A C equivale a 7 × 7, sem significado combinatório aqui. A D seria C(9,2), correspondente a 9 jogadores. Gabarito: E.",
   "hash": "01e969d869421da1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q179": {
+  "assunto": "Probabilidade: probabilidade total",
+  "dificuldade": 3,
   "explicacao": "A questão pede a probabilidade de o morador se atrasar, considerando as duas situações possíveis de tempo. Pelo teorema da probabilidade total, somamos os casos com e sem chuva. Com chuva: P(chuva) × P(atraso | chuva) = 0,30 × 0,50 = 0,150. Sem chuva: P(não chuva) × P(atraso | não chuva) = 0,70 × 0,25 = 0,175. Total: 0,150 + 0,175 = 0,325. A alternativa A multiplica todas as probabilidades, como 0,30 × 0,25. A B considera apenas o caso com chuva. A D não pondera as situações pelas probabilidades de ocorrerem. A E soma de forma indevida probabilidades condicionais. Gabarito: C.",
   "hash": "32f66259ef7662c7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q180": {
+  "assunto": "Razão e proporção: taxas de vazão, tempo",
+  "dificuldade": 5,
   "explicacao": "A questão pede quando a piscina termina de esvaziar. Como a base é constante, podemos trabalhar com a altura da água. De 17 h 15 min às 18 h (45 min), a chuva elevou o nível a 20 cm: taxa da chuva = 20 ÷ 45 = 4/9 cm/min. De 18 h às 18 h 40 min (40 min), chuva e ralo atuam juntos, e o nível cai de 20 para 15 cm, variação de −5 cm. Nesse tempo, a chuva acrescenta 40 × 4/9 = 160/9 ≈ 17,8 cm, então o ralo retira 5 + 17,8 = 22,8 cm em 40 min. Taxa do ralo: (205/9) ÷ 40 = 41/72 ≈ 0,57 cm/min. Depois das 18 h 40 min, só o ralo atua: tempo para escoar 15 cm = 15 ÷ (41/72) = 1 080 ÷ 41 ≈ 26,3 min. O fim ocorre por volta de 19 h 06 min. A alternativa A e a B supõem um ralo mais lento ou desconsideram a chuva no período de 18 h a 18 h 40 min. A C também resulta de taxa de escoamento subestimada. A E daria tempo menor que 20 min, exigindo ralo muito mais rápido. Gabarito: D.",
   "hash": "1e6eac5475ffe97c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q91": {
+  "assunto": "Saúde e doenças: toxicidade, dose letal",
+  "dificuldade": 3,
   "explicacao": "A questão pede quais grupos de ratos terão mortalidade mínima de 10 indivíduos, ou seja, pelo menos 50% de 20 ratos. Isso acontece quando a dose ingerida é maior ou igual à DL₅₀ do pesticida. Calculando a dose: cada rato comeu 100 g de ração com 3 mg de pesticida por grama, isto é, 100 × 3 = 300 mg de pesticida. Como cada rato tem 200 g = 0,2 kg, a dose é 300 mg ÷ 0,2 kg = 1 500 mg/kg. Agora comparamos com o quadro: a atrazina tem DL₅₀ de 3 100 mg/kg, maior que a dose, então não se garante a morte de metade do grupo; o diazinon tem DL₅₀ de 70 mg/kg e o malation, de 1 000 mg/kg, ambos menores que 1 500 mg/kg. Assim, nos grupos de diazinon e malation a dose supera a DL₅₀ e pelo menos 10 ratos morrem. A alternativa A erra porque a dose de atrazina fica abaixo de sua DL₅₀. A B esquece o malation, que também foi superado. A C inclui a atrazina indevidamente. A E ignora que dois pesticidas ultrapassaram a dose letal mediana. Gabarito: D.",
   "hash": "a8ce02c48227702f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q92": {
+  "assunto": "Microbiologia e parasitologia: antibióticos",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta como os antibióticos atuam no tratamento de doenças bacterianas. Antibióticos são substâncias com toxicidade seletiva: agem sobre estruturas ou processos exclusivos (ou muito diferentes) das bactérias, poupando as células humanas. Exemplos clássicos são a penicilina, que impede a síntese da parede celular de peptidoglicano, e as tetraciclinas e os aminoglicosídeos, que atuam nos ribossomos bacterianos (70S), diferentes dos ribossomos 80S das nossas células. Por isso, o mecanismo correto é danificar estruturas específicas da célula bacteriana. A alternativa A descreve a ação de vacinas e imunoestimulantes, não de antibióticos. A B corresponde aos anti-inflamatórios. A C lembra a ação de soros e antitoxinas, que neutralizam toxinas. A D está errada porque atacar as células do hospedeiro lesaria o próprio paciente; o alvo é a bactéria. Gabarito: E.",
   "hash": "892392924c7c191a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q93": {
+  "assunto": "Eletrodinâmica: lei de ohm, resistência",
+  "dificuldade": 3,
   "explicacao": "A questão pede a resistência da polianilina exposta a altas concentrações de amônia, sabendo que nessa condição a resistência nominal fica quatro vezes maior. Primeiro, obtemos a resistência sem amônia pelo gráfico, que é uma reta passando pela origem, típica de resistor ôhmico. No eixo horizontal está a diferença de potencial (V) e, no vertical, a corrente em microampères. Tomando o ponto U = 3,0 V e i = 6,0 µA: R = U ÷ i = 3,0 ÷ (6,0 × 10⁻⁶) = 0,5 × 10⁶ = 5,0 × 10⁵ Ω. Com a amônia, a resistência quadruplica: R' = 4 × 5,0 × 10⁵ = 20 × 10⁵ = 2,0 × 10⁶ Ω. A alternativa A ignora o fator micro (10⁻⁶) da corrente. A B inverte a razão e também desconsidera o prefixo. A C divide por 4 em vez de multiplicar. A D é a resistência nominal, sem amônia. Gabarito: E.",
   "hash": "76e443ac05dec083",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q94": {
+  "assunto": "Botânica: fotossíntese, fase fotoquímica",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta o que os nanotubos de carbono promovem diretamente para aumentar a eficiência da fotossíntese. O texto é claro: os nanotubos absorvem comprimentos de onda que normalmente não são aproveitados pelos cloroplastos e funcionam como antenas, aumentando o transporte de elétrons na fase fotoquímica. Absorver radiação luminosa significa absorver fótons, as partículas de luz. Portanto, o efeito direto dos nanotubos é ampliar a absorção de fótons, o que intensifica a excitação de elétrons e a produção de energia química usada depois na fabricação de açúcares. A alternativa A trata da fotólise da água, que pode até aumentar, mas como consequência, não como ação direta dos nanotubos. A C também é consequência da fotólise, e não o mecanismo descrito. A D não é mencionada: os nanotubos se inserem nos cloroplastos, não os multiplicam. A E se refere à fase química (ciclo de Calvin), que não é afetada diretamente pelos nanotubos. Gabarito: B.",
   "hash": "5d1792ab6be370a2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q95": {
+  "assunto": "Eletroquímica: eletrólise da salmoura",
+  "dificuldade": 3,
   "explicacao": "A questão pede o produto secundário da eletrólise da salmoura (solução aquosa de NaCl), processo industrial que tem como produtos principais o gás cloro e o hidróxido de sódio. No ânodo, os íons cloreto se oxidam: 2 Cl⁻ → Cl₂ + 2 e⁻. No cátodo, como o Na⁺ tem menor tendência a se reduzir que a água, quem recebe elétrons é a água: 2 H₂O + 2 e⁻ → H₂ + 2 OH⁻. Os íons OH⁻ formados, junto com o Na⁺ da solução, constituem o NaOH. A equação global é 2 NaCl + 2 H₂O → Cl₂ + H₂ + 2 NaOH. Como Cl₂ e NaOH são os produtos de interesse, o gás hidrogênio (H₂) é o produto secundário. A alternativa A não é produto da reação; a água é reagente. A B só se formaria com oxidação da água no ânodo, o que não ocorre com alta concentração de cloreto. A C se forma apenas se Cl₂ e NaOH se misturarem, o que a célula evita. A E não é produto da eletrólise. Gabarito: D.",
   "hash": "86cf57869c6ca9d2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q96": {
+  "assunto": "Ecologia: ciclo do nitrogênio",
+  "dificuldade": 2,
   "explicacao": "A questão pede em qual etapa do ciclo do nitrogênio se forma o equivalente ao principal componente dos fertilizantes citados, que são os nitratos (NO₃⁻). No ciclo natural, o nitrogênio passa por várias transformações: a fixação converte N₂ em amônia; a amonificação gera amônia a partir da decomposição de matéria orgânica; a nitrificação ocorre em duas fases, primeiro a nitrosação, em que bactérias como Nitrosomonas oxidam amônia a nitrito (NO₂⁻), e depois a nitratação, em que bactérias como Nitrobacter oxidam nitrito a nitrato (NO₃⁻). Portanto, o nitrato é produzido na nitratação. A alternativa B forma nitrito, não nitrato. A C produz amônia a partir de restos orgânicos. A D faz o caminho inverso, convertendo nitrato em N₂ que volta à atmosfera. A E transforma N₂ em amônia, não em nitrato. Gabarito: A.",
   "hash": "44c8d65131121db0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q97": {
+  "assunto": "Atomística: modelo de bohr, teste de chama",
+  "dificuldade": 2,
   "explicacao": "A questão pede a explicação científica para a chama azul do fogão ficar amarela quando a água do arroz derrama. A água de cozimento contém sal de cozinha, NaCl, que fornece íons sódio. Na chama, os elétrons do sódio absorvem energia e saltam para níveis mais externos (estado excitado). Ao retornarem ao nível original, liberam essa energia na forma de luz com comprimento de onda característico, que para o sódio corresponde ao amarelo (cerca de 589 nm). É o mesmo princípio do teste de chama e das lâmpadas de vapor de sódio da iluminação pública, explicado pelo modelo atômico de Bohr. A alternativa A está errada porque não há formação de gás cloro nessa situação. A C inventa um derivado amarelo do carboidrato. A D não ocorre: gás de cozinha não reage com água formando hidrogênio. A E atribui a cor às proteínas, mas a emissão amarela característica é do sódio. Gabarito: B.",
   "hash": "95518e6232327dd1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q98": {
+  "assunto": "Evolução: classificação filogenética",
+  "dificuldade": 2,
   "explicacao": "A questão compara duas classificações dos seres vivos: a de Whittaker, em cinco reinos, baseada em organização celular e modo de nutrição, e a de Woese, mais recente, que usa a comparação de sequências do RNA ribossômico. O ponto central é que Woese buscou relações de ancestralidade, ou seja, quem descende de quem, e concluiu que os procariontes não formam um grupo coeso, separando-os em Bacteria e Archaea, ao lado de Eukarya (sistema de três domínios). Classificar com base em ancestralidade e parentesco evolutivo é classificar por relações filogenéticas. A alternativa A descreve um critério da classificação de Whittaker, não a novidade de Woese. A B não é base de nenhuma das duas propostas. A D lembra o modo de nutrição, critério de Whittaker. A E trata de forma e estrutura, que não é o foco da análise molecular de Woese. Gabarito: C.",
   "hash": "ca261ad5712cb55f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q99": {
+  "assunto": "Dinâmica: segunda lei de newton, gráfico",
+  "dificuldade": 3,
   "explicacao": "A questão pede o cinto que oferece menor risco de lesão interna. A lesão está ligada à força que o cinto exerce sobre o corpo, e pela segunda lei de Newton F = m·a. Como a massa dos bonecos é a mesma em todos os testes, a força máxima é proporcional ao pico de desaceleração registrado no gráfico. Além disso, a variação de velocidade é igual em todos os casos, então o impulso (área sob a curva) é o mesmo; o melhor cinto é aquele que distribui essa desaceleração por um tempo maior, com pico mais baixo. Lendo o gráfico, os picos aproximados são: cinto 1, cerca de 150; cinto 2, cerca de 65; cinto 3, cerca de 190; cinto 4, cerca de 85; cinto 5, cerca de 170. O cinto 2 tem a menor desaceleração máxima e a curva mais espalhada no tempo. O cinto 1 tem pico alto e concentrado. O cinto 3 apresenta o maior pico de todos. O cinto 4 é razoável, mas seu pico supera o do cinto 2. O cinto 5 tem pico alto e muito brusco no fim. Gabarito: B.",
   "hash": "3cd23880ea79b464",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
