@@ -1,475 +1,665 @@
 {
  "enem-2015-regular-d2-q100": {
+  "assunto": "Variação linguística: registro coloquial",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma marca da variedade coloquial na canção Essa pequena, de Chico Buarque. A linguagem informal se revela em expressões populares do dia a dia, como “nossa novela” para falar do romance, “meu dia voa”, “vou até a esquina”, “ela pinta a boca e sai”, “vou penar com essa pequena” e o próprio tratamento “essa pequena” para a namorada. Essas construções criam um tom de conversa íntima e aproximam o enunciador do ouvinte, como afirma a alternativa B. A) erra porque “take your time” e “blues” são empréstimos, mas não definem o registro coloquial nem são de uso inusitado. C) erra porque não há ambiguidade gerada por palavras polissêmicas. D) erra porque a primeira pessoa aparece também em textos formais, logo não é marca de coloquialidade. E) erra porque rimas e repetições sonoras são recursos poéticos, não marcas da variedade coloquial. Gabarito: B.",
   "hash": "148c668cec645e35",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q101": {
+  "assunto": "Gêneros textuais: carta, canção",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que as marcas do gênero carta permitem ao eu poético e ao interlocutor. A canção se dirige diretamente a “Tom” (Tom Jobim), com endereço no início, “Rua Nascimento Silva, cento e sete”, e vocativo “meu amigo”, como numa correspondência. O conteúdo é uma troca de lembranças: o tempo feliz em que Ipanema “era só felicidade”, a famosa garota que não sabia como a cidade turvaria, a vista do Redentor da janela, e a constatação de que esse Rio de amor “se perdeu”. Há, portanto, notícias sobre as mudanças da cidade em tom de saudade, alternativa B. A) erra porque a visão é nostálgica e lírica, não realista. C) erra porque o texto não diz que eles deixaram o Rio. D) erra porque não há tratamento pragmático; o tom é sentimental. E) erra porque o eu poético lamenta as transformações, não as aceita. Gabarito: B.",
   "hash": "72cf4a39ac07123c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q102": {
+  "assunto": "Funções da linguagem: função referencial",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que busca a função referencial, presente ao lado da função conativa, no texto educativo. A função referencial centra-se no conteúdo, na informação objetiva. O texto informa que certos produtos jogados na privada ou no ralo poluem rios, lagos e mares, contaminam animais, dificultam a obtenção de água e causam entupimentos; lista esses produtos e orienta a descartá-los no lixo comum ou em pontos de coleta especiais. Ou seja, informa as consequências do descarte inadequado e ensina o descarte correto, como diz a alternativa B. A) erra porque o texto não apela a sentimentos de amor pela natureza; isso seria função emotiva ou conativa. C) erra porque não há subjetividade nem exemplos pessoais do autor. D) erra porque checar a compreensão da mensagem é função fática. E) erra porque explicar o próprio código é função metalinguística. Gabarito: B.",
   "hash": "bfcefc9d97a6b492",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q103": {
+  "assunto": "Gêneros textuais: função social do texto",
+  "dificuldade": 1,
   "explicacao": "A questão pede a função do texto, reconhecida pela leitura. O texto apresenta o problema do lixo jogado nas rodovias, com o dado de 41,5 mil toneladas recolhidas nas estradas paulistas, e enumera consequências: prejuízo ambiental, bloqueio do escoamento da água, enchentes, incêndios, trânsito atrapalhado e acidentes. Lembra ainda que esse material poderia voltar à cadeia produtiva. O título, “devem ser descartados adequadamente”, deixa clara a intenção de mudar o comportamento do leitor. Trata-se, portanto, de conscientizar sobre preservação ambiental e segurança nas rodovias, alternativa E. A) erra porque os números referem-se a lixo recolhido, não a reciclagem no país. B) erra porque o texto não discute a sustentabilidade do mercado de recicláveis. C) erra porque a quantidade citada é de lixo, não de produtos reciclados. D) erra porque acidentes são mencionados como risco, sem índices. Gabarito: E.",
   "hash": "09c1aaf3f1905863",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q104": {
+  "assunto": "Literatura brasileira: poesia concreta",
+  "dificuldade": 4,
   "explicacao": "A questão pede a característica expressiva do poema de Arnaldo Antunes, de inspiração concretista. As palavras aparecem cortadas em sílabas dispostas verticalmente: “mil e mui tos out ros ros tos sol tos pou coa pou coa pag amo meu”. Reconstituída, a frase seria algo como “mil e muitos outros rostos soltos pouco a pouco apagam o meu”, precedida por “da sua memória”. O poema fala de rostos que vão se apagando da memória, e a forma reproduz esse conteúdo: as palavras se esfacelam, se estreitam numa coluna fina e perdem a integridade, como as lembranças que se dissolvem. A fragmentação da palavra representa o estreitamento das lembranças, alternativa D. A) erra porque não há teste da lógica racional. B) erra porque o estranhamento não é o fim em si; a forma está a serviço do sentido. C) erra porque não se questiona o sentido das lembranças, mas seu apagamento. E) erra porque o poema não propõe uma nova vanguarda. Gabarito: D.",
   "hash": "5ee70690f9f58888",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q105": {
+  "assunto": "Tecnologias da informação e comunicação: sociedade da informação",
+  "dificuldade": 2,
   "explicacao": "A questão pede por que a sociedade da informação corresponde a uma mudança na organização social. O texto diz que as transformações das últimas décadas do século XX ocorreram em dimensões distintas da vida em sociedade e projetaram a informação e o conhecimento como elementos estratégicos nos planos econômico-produtivo, político e sociocultural. Acrescenta que, embora motivada por mudanças técnico-científicas, ela tem significado muito mais abrangente, com inovações organizacionais, sociais e legais. Ou seja, a informação passa a ser usada intensamente em vários setores da vida, alternativa E. A) erra porque o texto não fala em qualidade de vida. B) erra porque não afirma acesso instantâneo de todos em qualquer lugar. C) erra porque restringe a mudança ao comércio, enquanto o texto a amplia a várias esferas. D) erra porque redes sociais não são mencionadas. Gabarito: E.",
   "hash": "7c92d677413f15bd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q106": {
+  "assunto": "Variação linguística: adequação ao contexto digital",
+  "dificuldade": 2,
   "explicacao": "A questão pede o papel que, segundo o texto, cabe à escola diante dos novos usos da escrita trazidos pelas tecnologias. O texto defende que escrever de modo abreviado ou próximo da fala na internet não é escrever errado, mas adaptar a linguagem ao suporte: “o contexto é que define o registro de língua”. Critica a escola que insiste em um único registro, usado só em contextos específicos, e termina dizendo que as pessoas precisam ter discernimento quanto às distintas situações para dominar outros códigos. Logo, a escola deve levar o aluno a perceber as especificidades das linguagens em cada ambiente, alternativa E. A) erra porque impor a linguagem formal no meio digital contraria a ideia de adequação. B) erra porque o texto não trata de melhorar contatos on-line. C) erra porque uma mesma norma para todos os suportes é justamente o que o texto critica. D) erra porque o foco é a adequação de registros, não apenas compreender textos da web. Gabarito: E.",
   "hash": "8a3d564ea7e4ab9b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q107": {
+  "assunto": "Literatura brasileira: Parnasianismo, nacionalismo",
+  "dificuldade": 4,
   "explicacao": "A questão pede como o poema A pátria, de Olavo Bilac, ecoa o projeto ideológico da Primeira República, que buscava construir um sentimento de nacionalismo ufanista. O poema exalta a natureza brasileira, céu, mar, rios, florestas, “eterna primavera”, e apresenta a terra como mãe generosa que “jamais negou a quem trabalha o pão que mata a fome, o teto que agasalha”. Em seguida afirma que quem a fecunda com o próprio suor “vê pago o seu esforço, e é feliz, e enriquece”. Assim, a prosperidade do indivíduo depende apenas da terra fértil e do seu trabalho, sem qualquer menção a políticas de governo, ideia que corresponde à alternativa B. A) erra porque a paisagem é idealizada, mas não surreal. C) erra porque a imagem materna é atribuída à natureza, não se trata de transferir valores familiares a ícones nacionais. D) erra porque o poema não afirma uma riqueza nacional efetiva naquele momento. E) erra porque não há conceito de bem-estar social ligado à valorização do trabalhador. Gabarito: B.",
   "hash": "06af8c934e34f568",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q108": {
+  "assunto": "Artes visuais: Surrealismo",
+  "dificuldade": 3,
   "explicacao": "A questão pede um traço surrealista na pintura A reprodução proibida, de Magritte. A tela mostra um homem de costas diante de um espelho; o reflexo, porém, também o mostra de costas, quando deveria mostrar seu rosto. Ao mesmo tempo, o livro sobre a cornija aparece refletido corretamente. O Surrealismo explora o inconsciente e o insólito, combinando elementos que não poderiam coexistir na lógica real, e é exatamente isso que ocorre: a cena realista é subvertida pela justaposição de algo impossível, o reflexo invertido do homem, ao lado de um reflexo normal. Daí a alternativa A. B) erra porque a crítica ao passadismo é bandeira do Futurismo, não o sentido da obra. C) erra porque a perspectiva tradicional não é traço específico do Surrealismo. D) erra porque o automatismo é um processo de criação espontânea, não se identifica pela repetição da figura. E) erra porque não há colagem; trata-se de pintura a óleo, e o reflexo do livro é justamente o elemento normal. Gabarito: A.",
   "hash": "ee298624276f90e8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q109": {
+  "assunto": "Música: cultura afro-brasileira",
+  "dificuldade": 2,
   "explicacao": "A questão pede o efeito do uso do iorubá na canção Yaô, de Pixinguinha e Gastão Viana. A letra mescla português com termos de origem africana, como yaô, jacutá, pelú adié, saravá, e cita orixás como Ogum, Oxalá, Iemanjá, Oxossi, Nanã e Xangô, descrevendo uma festa em um terreiro. Ao incorporar a língua e as referências religiosas trazidas pelos africanos escravizados a um samba composto nos anos 1930, a canção mostra que a cultura africana permanece viva e integrada à música brasileira, como afirma a alternativa B. A) erra porque não há crítica às religiões afro-brasileiras, e sim celebração. C) erra porque a canção não afirma superioridade de nenhuma cultura. D) erra porque a mistura de línguas mostra integração, não separação racial. E) erra porque a canção é uma criação brasileira híbrida, sem pretensão de reproduzir os rituais com maior autenticidade. Gabarito: B.",
   "hash": "155223eb88589691",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q110": {
+  "assunto": "Artes visuais: arte africana, vanguardas",
+  "dificuldade": 3,
   "explicacao": "A questão pede qual característica da máscara senufo, do Mali, influenciou as vanguardas do início do século XX, como o Cubismo de Picasso. A imagem mostra um rosto de animal esculpido em madeira, com formas geométricas simplificadas: orelhas triangulares, olhos e boca reduzidos a círculos, focinho alongado e planos lisos, sem detalhes anatômicos realistas. Essa redução do objeto a seus elementos essenciais é a sintetização das formas, que inspirou artistas europeus a abandonar a imitação naturalista. Por isso, a alternativa D está correta. A) erra porque a máscara não busca proporções realistas; ao contrário, as altera. B) erra porque não há representação idealizada de movimento. C) erra porque a peça é praticamente simétrica. E) erra porque valorização estética é genérica e não descreve um traço formal específico da máscara. Gabarito: D.",
   "hash": "47195a498a83bd17",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q111": {
+  "assunto": "Artes visuais: arte e cultura, colonização",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que, segundo o texto, as artes de colonizadores e colonizados compartilham para que não haja distinção entre elas. O segundo parágrafo afirma que as duas manifestações devem ser vistas como expressões diferentes dos modos de sentir e pensar das várias sociedades, mas também como equivalentes, “por resultarem de impulsos humanos comuns”. Ou seja, o que as une é o fundamento humano, a base antropológica, presente em qualquer cultura, alternativa C. A) erra porque os suportes artísticos podem ser completamente diferentes. B) erra porque o próprio texto reconhece povos tecnicamente menos desenvolvidos. D) erra porque as concepções estéticas variam conforme o modo de sentir de cada sociedade. E) erra porque o texto não fala em temas comuns. Gabarito: C.",
   "hash": "9699f7f8fd81de85",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q112": {
+  "assunto": "Artes visuais: performance, arte contemporânea",
+  "dificuldade": 3,
   "explicacao": "A questão pede a característica da performance A artista está presente, de Marina Abramovic, alinhada à arte contemporânea. Durante 736 horas, a artista ficou sentada e trocou com cada visitante, um a um, um longo olhar sem palavras. A obra não existe sem o outro: cada encontro é único e o sentido se constrói na troca entre a artista e quem se senta diante dela, que deixa de ser espectador passivo e passa a coautor da experiência. Essa construção conjunta, negociada, de significados corresponde à alternativa D. A) erra porque a arte relacional não é inovação dessa obra, e o fato de estar num museu não é o ponto central. B) erra porque não há proposta educacional. C) erra porque o espaço do museu não é redistribuído nem se integram diversas linguagens. E) erra porque a performance não tem o objetivo de combater a elitização. Gabarito: D.",
   "hash": "e0882ddf79d2fe1e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q113": {
+  "assunto": "Gramática: formação de palavras",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que reflete o processo de formação da palavra sambódromo, apesar da crítica do Texto II. O Texto I mostra que sambódromo foi criada com o elemento -(ó)dromo, de hipódromo e autódromo, e que esse ato criativo virou modelo produtivo, gerando rangódromo, beijódromo, camelódromo. O Texto II, de Ferreira Gullar, julga a palavra descabida porque -dromo significa lugar de corrida. Mesmo assim, a criação e a difusão dessas formas mostram que os falantes reaproveitam elementos existentes para nomear realidades novas, ou seja, revelam o dinamismo da língua na criação de palavras, alternativa A. B) erra porque a nova realidade estimulou, e não limitou, novas palavras. C) erra porque o processo é legítimo e produtivo, não uma apropriação inadequada. D) erra porque a língua não reconheceu impropriedade; as formas se consolidaram. E) erra porque o radical grego gerou várias palavras novas, sem restrição. Gabarito: A.",
   "hash": "23053c7667d037a8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q114": {
+  "assunto": "Tecnologias da informação e comunicação: redes sociais, trabalho",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o conhecimento dos perfis em redes sociais permite no mundo do trabalho, segundo o texto. A pesquisa relata que avaliadores analisaram, por 10 minutos, fotos, postagens, número de amigos e interesses de universitários, considerando traços como consciência, afabilidade, extroversão, estabilidade emocional e receptividade. Seis meses depois, essas impressões tiveram forte correlação com o desempenho no trabalho avaliado pelos chefes. Assim, as redes permitem avaliar informações pessoais e comportamentais do candidato, alternativa D. A) erra porque capacidade física não é mencionada. B) erra porque o texto fala em prever, não em certificar competência. C) erra porque não se trata de controlar o comportamento do candidato. E) erra porque não há aferição de capacidade intelectual na resolução de problemas. Gabarito: D.",
   "hash": "97a81f7c2a64f89e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q115": {
+  "assunto": "Interpretação de texto: oralidade, cultura indígena",
+  "dificuldade": 1,
   "explicacao": "A questão pede o que a oralidade possibilitou às sociedades indígenas brasileiras, segundo o fragmento. O texto explica que esses povos não desenvolveram sistemas de escrita, mas “garantiram a conservação e continuidade dos conhecimentos acumulados, das histórias passadas e, também, das narrativas que sua tradição criou, através da transmissão oral”, acrescentando que todas as suas tecnologias, como a domesticação do milho e da mandioca, se transmitiram assim. Logo, a oralidade permitiu preservar e transmitir saberes e memória cultural, alternativa B. A) erra porque não se fala em valorizar grupos detentores de saberes. C) erra porque o texto associa a escrita, e não a oralidade, às sociedades estratificadas. D) erra porque a oralidade difundiu o conhecimento, não o restringiu. E) erra porque o foco não é a legitimação da fala como meio de comunicação. Gabarito: B.",
   "hash": "3ee2778283a38b47",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q116": {
+  "assunto": "Variação linguística: variação regional, rotacismo",
+  "dificuldade": 4,
   "explicacao": "A questão pede qual par de palavras de Assum preto resulta de uma mesma regra da variedade regional. Em “tarvez” (talvez) e “sorto” (solto), ocorre a mesma troca: o L em final de sílaba é pronunciado como R, fenômeno chamado rotacismo. Por isso, a alternativa B está correta. A) erra porque “vorta” tem rotacismo, mas “veve” (vive) mostra alteração de vogal, outra regra. C) erra porque “furaro” reduz a terminação -aram e “cantá” apaga o R do infinitivo, processos diferentes. D) erra porque não há redundância nessas expressões; “óio” e “frô” envolvem regras distintas. E) erra porque “ignorança” é variação morfológica de ignorância e “avuá” mistura troca de vogal e queda do R final. Gabarito: B.",
   "hash": "207bd5906cb287a6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q117": {
+  "assunto": "Gêneros textuais: relatório oficial",
+  "dificuldade": 3,
   "explicacao": "A questão pede por que o relatório de Graciliano Ramos, então prefeito, contraria a norma do gênero oficial. Um relatório administrativo exige linguagem objetiva, impessoal e neutra. O texto, porém, ironiza o hábito das prefeituras de gastar com telegramas para anunciar tudo, com enumerações cômicas: “Porque se derrubou a Bastilha – um telegrama; porque se deitou pedra na rua – um telegrama; porque o deputado F. esticou a canela – um telegrama”. Há julgamento pessoal, ironia, expressões coloquiais como “esticou a canela” e “badalados”, o que dá ao texto caráter subjetivo e carregado de emoção, alternativa E. A) erra porque a pontuação não é excessiva. B) erra porque as expressões usadas são populares, não arcaicas. C) erra porque a primeira pessoa é comum em relatórios assinados e não sugere intimidade. D) erra porque não há termos técnicos especializados. Gabarito: E.",
   "hash": "923ef730b857ae85",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q118": {
+  "assunto": "Publicidade e linguagem midiática: argumento de autoridade",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que se verifica nos recursos verbais e não verbais da peça sobre hepatite. O cartaz traz um quadro-negro com o trocadilho “A B C D Epa! Hepatite!”, explica que há cinco tipos da doença e lista maneiras de prevenção. No canto inferior aparece uma mulher de jaleco e estetoscópio, figura que representa o profissional de saúde. Essa imagem dá credibilidade às orientações, como se fossem endossadas por quem tem autoridade no assunto: é o argumento de autoridade, alternativa B. A) erra porque o tom lúdico do trocadilho não serve para firmar pacto entre médico e população. C) erra porque o texto não simula a fala do médico com marcas de oralidade. D) erra porque a peça não trata de empresa que deixa de se autopromover. E) erra porque as dicas de prevenção são objetivas, sem subjetividade. Gabarito: B.",
   "hash": "da3a19269d55f7c1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q119": {
+  "assunto": "Literatura brasileira: metapoesia",
+  "dificuldade": 5,
   "explicacao": "A questão pede como o poema À garrafa, de José Paulo Paes, expressa a reflexão sobre o fazer poético. A garrafa funciona como metáfora do poema: ela ensina a “conter e conter-me”, tem um “estreito gargalo”, isto é, impõe contenção e síntese; sendo translúcida, põe “o dentro fora e o fora dentro” para que a forma se cumpra. Por fim, cansada da “prisão da forma”, salta e se estilhaça “numa explosão de diamantes”. O percurso vai da contenção ao amadurecimento e à transformação: a palavra trabalhada e contida se converte em algo precioso e luminoso, alternativa D. A) erra porque a translucidez não indica limitações do eu lírico. B) erra porque o poema não demonstra subserviência à forma; ao contrário, a forma é superada. C) erra porque a explosão em diamantes é positiva, não pessimista. E) erra porque a poesia não é a prisão; a garrafa é a forma que se transforma em poesia. Gabarito: D.",
   "hash": "9a6c3c9aa8de9164",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q120": {
+  "assunto": "Variação linguística: preconceito linguístico",
+  "dificuldade": 3,
   "explicacao": "A questão pede a reflexão sobre linguagem que se tira da discussão sobre o verbo pinchar. O autor conta que o verbo, comum no interior paulista, é visto como coisa de avó e tende a desaparecer. Ele afirma que o fator mais forte para a extinção de uma palavra é associá-la, por influência da visão normativa, a um grupo com o qual o falante não se identifica, e pergunta se pinchar, ligado ao meio rural de pouca escolaridade, está fadado à extinção. Ou seja, o abandono de vocábulos está ligado a preconceitos socioculturais, alternativa C. A) erra porque o autor lamenta a perda das palavras, não defende descartá-las. B) erra porque o texto critica a indiferença com a extinção das palavras, sem hierarquizar urgências. D) erra porque o texto mostra justamente a ruptura dessa tradição. E) erra porque não se fala em necessidade de inovação vocabular. Gabarito: C.",
   "hash": "d9f05567379a5819",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q121": {
+  "assunto": "Interpretação de texto: projeto cultural, literatura",
+  "dificuldade": 2,
   "explicacao": "A questão pede em que consiste a inovação do projeto Pão e Poesia. O texto descreve a impressão de poemas em saquinhos de pão distribuídos em padarias da região de Belo Horizonte, num total de 250 mil embalagens, levando literatura ao café da manhã dos moradores. Autores consagrados, como Affonso Romano de Sant’Anna e Fernando Brant, dividem espaço com estudantes de oficinas de escrita. A novidade está em usar um objeto do cotidiano para levar a literatura a públicos variados, que talvez não a buscassem em livros, alternativa D. A) erra porque autores consagrados e novatos dividem espaço, sem privilégio. B) erra porque não se fala em resgatar poetas que perderam espaço. C) erra porque o texto não diz que não há critério de seleção. E) erra porque os prêmios citados foram recebidos pelo projeto, não alavancados por ele. Gabarito: D.",
   "hash": "5a97d5134ab18281",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q122": {
+  "assunto": "Interpretação de texto: línguas indígenas",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que poderia ter evitado ou minimizado os efeitos do acidente de 1985 em Angra dos Reis. O texto conta que a usina nuclear foi construída num lugar que os tupinambás chamavam de Itaorna, e que os engenheiros só descobriram depois do deslizamento que o nome significa “pedra podre”, ou seja, continha informação sobre a fragilidade do solo. Se esse saber guardado na língua indígena fosse conhecido e respeitado, o risco poderia ter sido previsto, alternativa A. B) erra porque a substituição das línguas indígenas apagaria justamente essa informação. C) erra porque foi o conhecimento acadêmico, sem o saber indígena, que falhou. D) erra porque o tupinambá já tinha a palavra adequada: Itaorna. E) erra porque o texto não menciona leis ambientais. Gabarito: A.",
   "hash": "c3c3ebe5762176d8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q123": {
+  "assunto": "Variação linguística: formalidade, registro",
+  "dificuldade": 3,
   "explicacao": "A questão pede qual substituição altera o grau de formalidade sem mudar o sentido. O texto mistura termos científicos, como polifenóis, oxidação e aterosclerose, com expressões informais. Na alternativa E, “por trás de encrencas” é coloquial; trocando por “causadora de problemas”, a frase fica mais formal e mantém o sentido: a aterosclerose é a doença que provoca problemas como o infarto. Por isso, a E está correta. A) erra porque “manda embora o diabete” continua informal. B) erra porque “quebrar a cabeça” é igualmente informal e muda o sentido: significa esforçar-se para resolver, não preocupar-se. C) erra porque “é um show” mantém o registro informal. D) erra porque “misturadinhos” continua informal e altera o sentido, já que usar juntos não é o mesmo que misturar. Gabarito: E.",
   "hash": "8ccb2a705a4098dc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q124": {
+  "assunto": "Educação física: obesidade e saúde",
+  "dificuldade": 1,
   "explicacao": "A questão pede a que o texto relaciona o excesso de peso e de gordura corporal. O título já diz “Obesidade causa doença”. O texto apresenta a obesidade como epidemia global, informa que a mortalidade de homens obesos de 25 a 40 anos é 12 vezes maior que a de pessoas de peso normal e afirma que o excesso de peso desencadeia e piora problemas de saúde, como asma e infarto. O enfoque, portanto, é o quadro clínico: a obesidade como fator de risco para doenças, alternativa C. A) erra porque o padrão estético não é abordado. B) erra porque autoestima e equilíbrio psíquico não são mencionados. D) erra porque o texto não trata de preconceito. E) erra porque o desempenho em atividades cotidianas não é discutido. Gabarito: C.",
   "hash": "1d5cf179c7277752",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q125": {
+  "assunto": "Gêneros textuais: texto instrucional",
+  "dificuldade": 1,
   "explicacao": "A questão pede a função social do texto, que integra um guia de modelos e técnicas de redação. O texto parte da pergunta “Posso mandar por e-mail?”, critica o hábito de disparar currículos para muitos selecionadores, aconselha saber quem vai receber e se a vaga combina com o perfil e oferece um modelo de assunto e mensagem sucinta. Trata-se, portanto, de instruir o leitor a enviar currículos por e-mail de forma eficiente, alternativa C. A) erra porque não se trata de padrão oficial, mas de sugestão. B) erra porque o modelo apresentado é da mensagem de e-mail, não do currículo. D) erra porque o título é recurso retórico, não resposta a um assinante. E) erra porque o texto desaconselha justamente alcançar o maior número de selecionadores. Gabarito: C.",
   "hash": "8da5572b7ba81612",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q126": {
+  "assunto": "Literatura brasileira: poesia contemporânea, Inconfidência",
+  "dificuldade": 5,
   "explicacao": "A questão pede o que revela a retomada do contexto barroco-árcade no poema Casa dos Contos, de Affonso Ávila, escrito em 1975. A Casa dos Contos, em Ouro Preto, foi prisão de inconfidentes, e Cláudio Manuel da Costa morreu ali. O poema corta as palavras de forma abrupta no fim das linhas (“te cont / o”, “me enca / nto”) e encadeia tudo com o sinal &, numa linguagem visual e fragmentada, típica das vanguardas. O conteúdo vai do encanto à opressão: “me escapo”, “te prendo”, “me escravo”, “cada cláudio te canto”, “cada fosso me enforco”, aludindo à prisão, à morte de Cláudio e à forca de Tiradentes. Escrito em plena ditadura, o poema recria, com linguagem de ruptura, o clima de repressão vivido pelos inconfidentes, alternativa E. A) erra porque a forma visual está a serviço da crítica social, não prevalece sobre ela. B) erra porque o foco não é a memória, mas a recriação da opressão no presente. C) erra porque “esconso” não indica opção por linguagem erudita. D) erra porque o poema rompe com os procedimentos barrocos em vez de continuá-los. Gabarito: E.",
   "hash": "6a4c4254db62ed13",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q127": {
+  "assunto": "Literatura brasileira: O Ateneu, Realismo",
+  "dificuldade": 4,
   "explicacao": "A questão pede o olhar do narrador sobre a inserção social do Ateneu e de seu diretor. O narrador compara o diretor a “negociantes que liquidam para recomeçar com artigos de última remessa”, fala em “nutrido reclame”, “bombo vistoso dos anúncios”, “boletins de propaganda” e livros fabricados às pressas, em que o nome de Aristarco, “inteiro e sonoro”, se oferece à veneração. Termina com a metáfora de que não havia senão aceitar “a farinha daquela marca para o pão do espírito”. A educação é tratada como mercadoria, e a propaganda serve à vaidade do diretor, alternativa A. B) erra porque as famílias apenas preferem o colégio, sem interferir afetivamente no ensino. C) erra porque os livros são feitos às pressas e servem à autopromoção, não à facilitação do ensino. D) erra porque não se fala em ampliar acesso nem negociar custos. E) erra porque não há cumplicidade pelo avanço social, e sim marketing. Gabarito: A.",
   "hash": "3b250c8a521bcb90",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q128": {
+  "assunto": "Gêneros textuais: biografia",
+  "dificuldade": 2,
   "explicacao": "A questão pede um dos principais elementos da biografia de João Antônio de Barros. O texto informa data e local de nascimento, as atividades de marceneiro, entalhador, xilógrafo, repentista e cordelista, o número de folhetos publicados, a mudança para São Paulo em 1973, o sustento pela venda de cordéis e o papel de divulgador da poesia nordestina no Sul. Ou seja, organiza fatos reais em ordem cronológica, numa perspectiva histórica, destacando sua trajetória artística, alternativa B. A) erra porque o relato é objetivo, sem estilização dos fatos. C) erra porque o texto não avalia a qualidade da obra. D) erra porque não há retórica de vida exemplar. E) erra porque não há construção ficcional. Gabarito: B.",
   "hash": "c4c5495c480eaff5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q129": {
+  "assunto": "Literatura brasileira: poesia marginal, ditadura",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que o poema Aquarela, de Cacaso, metaforiza como protesto contra o Regime Militar. O poema descreve um corpo no cavalete, que remete à tortura, “exausto do próprio grito”, com vísceras vasculhadas e sangue no assoalho. Esse sangue se decompõe nas cores da bandeira: o verde das matas, o amarelo do ouro, o azul do céu, o branco, mas termina com “o negro o negro”, cor do luto e da morte que não pertence à bandeira. Assim, o símbolo nacional é transfigurado pela violência e pelo medo da ditadura, alternativa D. A) erra porque “cavalete” e “aquarela” remetem à tortura, não a uma crítica às artes plásticas. B) erra porque o pássaro agonizante é o corpo torturado, não a natureza. C) erra porque o poema ironiza o ufanismo, não trata de nacionalismo romântico silenciado. E) erra porque não se fala em espoliação de riquezas. Gabarito: D.",
   "hash": "f9206964831c8a28",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q130": {
+  "assunto": "Literatura brasileira: prosa contemporânea",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que a percepção do núcleo familiar revela no trecho de Lygia Fagundes Telles. No início, a família parece “harmoniosa, sólida, verdadeira”, perfeita aos olhos da avó. Mas Margarida, a agregada, revela “os podres”: tio Maximiliano casou por dinheiro, tia Consuelo foi para o convento por ter um bom dote, apesar de querer “homem e não Deus”. A narradora reage negando e desqualificando Margarida. O quadro mostra que a imagem de família perfeita se sustentava em segredos e hipocrisias, alternativa C. A) erra porque a dependência financeira não é o eixo da convivência. B) erra porque a avó não equilibra conflitos; apenas sustenta o mito. D) erra porque o conflito é entre a narradora e Margarida, não com os tios. E) erra porque o casamento com a inglesa foi por dinheiro, não por discriminação racial. Gabarito: C.",
   "hash": "bffb1d6ae3e7e7ef",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q131": {
+  "assunto": "Artes visuais: retrato, arte moderna",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que trata a obra de Lucian Freud, considerando sua intenção e a ruptura com o padrão acadêmico. O retrato mostra um homem idoso com rugas profundas, olheiras, pele flácida e pinceladas espessas que destacam as marcas do corpo, sem embelezamento. O Texto II diz que Freud se vê como um biólogo e quer registrar verdades específicas sobre aquele corpo naquele momento. Ou seja, busca fidelidade realista ao corpo como ele é, sem o ideal de perfeição da arte acadêmica, alternativa E. A) erra porque a figura não é exaltada, mas mostrada com suas fragilidades. B) erra porque a forma é precisa, mas não idealizada. C) erra porque simetria e proporção acadêmica não são o foco. D) erra porque o retrato não segue padrão de beleza algum. Gabarito: E.",
   "hash": "503783928179c823",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q132": {
+  "assunto": "Publicidade e linguagem midiática: tempos verbais",
+  "dificuldade": 3,
   "explicacao": "A questão pede o recurso verbal que destaca a rapidez do serviço no anúncio. O título diz “Cópia rápida fácil. Vai ser bom, não foi?”. A expressão “vai ser”, no futuro, é seguida imediatamente por “não foi?”, no pretérito: o serviço é tão rápido que, entre anunciar que algo vai acontecer e perguntar como foi, ele já terminou. A imagem das nuvens de fumaça, como de algo que passou em alta velocidade, reforça essa ideia. Portanto, a sequência de formas verbais no futuro e no pretérito é o recurso que destaca a rapidez, alternativa C. A) erra porque “fácil” não indica velocidade. B) erra porque não há adjetivos sobre nitidez. D) erra porque “menos do que” se refere à qualidade, não à rapidez. E) erra porque “do mundo” qualifica a qualidade da impressão, não a velocidade. Gabarito: C.",
   "hash": "99bf27d495db2e09",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q133": {
+  "assunto": "Educação física: brincadeiras populares",
+  "dificuldade": 1,
   "explicacao": "A questão pede o que se conclui sobre as brincadeiras a partir da história da amarelinha. O texto conta que ela nasceu como treinamento militar romano com mais de cem metros; as crianças a reduziram e acrescentaram números; hoje varia em formatos, número de casas e materiais, e pode ter as palavras céu e inferno. Ou seja, a brincadeira se transformou de acordo com cada época e grupo, o que mostra a possibilidade de reinvenção no contexto em que é praticada, alternativa E. A) erra porque o texto não fala em caráter competitivo. B) erra porque as regras e formatos mudaram, não se perpetuaram. C) erra porque não há definição de número de grupos. D) erra porque o objetivo militar de preparo físico se perdeu na versão infantil. Gabarito: E.",
   "hash": "ab96a9baf4f3098e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q134": {
+  "assunto": "Coesão e coerência: tempos verbais, sequência",
+  "dificuldade": 4,
   "explicacao": "A questão pede o recurso usado por Manuel Bandeira para organizar a sequência dos fatos no relato de memórias. O texto combina pretérito perfeito (“embarquei”, “escolhi”, “vim a saber”, “fiquei”) para os fatos principais com pretérito mais-que-perfeito (“me falara”, “passara”, “estivera”) para fatos anteriores a eles, como a recomendação de João Luso e a estada de Antônio Nobre. Essa alternância de tempos do pretérito estabelece a ordem cronológica dos acontecimentos, alternativa C. A) erra porque as frases não são predominantemente curtas. B) erra porque a progressão não é marcada por advérbios de lugar. D) erra porque o comentário sobre o soneto é pontual e não organiza a sequência. E) erra porque citar pessoas não ordena os eventos. Gabarito: C.",
   "hash": "4971534b1e33c574",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q135": {
+  "assunto": "Gêneros textuais: divulgação científica",
+  "dificuldade": 2,
   "explicacao": "A questão pede o objetivo principal do autor ao responder por que formigas não morrem no micro-ondas. O texto explica que micro-ondas são ondas eletromagnéticas de alta frequência que fazem vibrar as moléculas de água; por isso, objetos secos ou formigas com pouca água não aquecem, enquanto um ser humano, com 70% de água, aqueceria. Por fim, comenta que micro-ondas de baixa intensidade, como as da telefonia celular, estão em toda parte sem comprovação de dano. O propósito é informar sobre as ondas eletromagnéticas e seu uso, alternativa C. A) erra porque o texto não defende que sejam inofensivas; reconhece que aqueceriam um humano. B) erra porque não se divulgam pesquisas recentes. D) erra porque não há alerta sobre riscos no cotidiano. E) erra porque a diferença entre formigas e humanos é exemplo, não objetivo. Gabarito: C.",
   "hash": "75d976009b3d8e31",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q136": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "dificuldade": 4,
   "explicacao": "A questão pede quantas operações o investidor fez, seguindo as regras e o gráfico do valor da ação ao longo do dia. Percorrendo o gráfico: por volta das 10h30 o valor ultrapassa Vi, e ele vende metade das ações (operação 1). Perto das 11h40 o valor cai abaixo de Vm, e ele compra a mesma quantidade que possui (operação 2). Por volta das 12h45 o valor volta a passar Vi, e ele vende metade (operação 3). Perto das 13h30 o valor ultrapassa Vo, e ele vende todas as ações (operação 4). A partir daí ele fica com zero ações: quando o valor volta a passar Vi, por volta das 15h20, metade de zero é zero e não há venda; e o valor não cai mais abaixo de Vm, e mesmo que caísse ele compraria zero. Total: 4 operações, alternativa B. A) erra por esquecer uma das operações. C), D) e E) erram por contar cruzamentos ocorridos depois que ele já não tinha ações. Gabarito: B.",
   "hash": "338cd4b98ea0227d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q137": {
+  "assunto": "Geometria plana: triângulo equilátero, circunferência circunscrita",
+  "dificuldade": 3,
   "explicacao": "A questão pede o menor tampo circular que cubra a base do suporte, um triângulo equilátero de lado 30 cm. Para cobrir o triângulo, o círculo precisa conter seus três vértices; o menor círculo que faz isso é o circunscrito, cujo raio é R = L/√3 = L√3/3. Calculando: R = 30 × √3 / 3 = 10√3 ≈ 10 × 1,7 = 17 cm. Entre os raios disponíveis (18, 26, 30, 35 e 60 cm), o menor que é maior ou igual a 17 cm é 18 cm, alternativa A. B), C), D) e E) também cobririam a base, mas não são o menor tampo suficiente; quem usa o lado de 30 cm como raio cai na C, e quem usa o perímetro ou outra medida chega às maiores. Gabarito: A.",
   "hash": "3206af0d3e51aeb5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q138": {
+  "assunto": "Funções: comparação de gráficos",
+  "dificuldade": 2,
   "explicacao": "A questão pede os intervalos de distância em que a diária da locadora Q é menor ou igual à da locadora P. No gráfico, P é uma reta que começa em cerca de R$ 70, e Q é uma curva que começa em R$ 40. As duas se cruzam em 20 km (cerca de R$ 80) e em 100 km (cerca de R$ 125). De 0 a 20 km, a curva Q está abaixo da reta P; de 20 a 100 km, Q fica acima de P; de 100 a 160 km, Q volta a ficar abaixo. Como a pergunta inclui a igualdade, os pontos de encontro também valem. Logo, Q ≤ P de 0 a 20 km e de 100 a 160 km, alternativa D. A) erra porque de 20 a 100 Q é mais cara. B) e C) incluem só parte do intervalo correto ou trechos em que Q é mais cara. E) erra porque de 40 a 80 Q é mais cara. Gabarito: D.",
   "hash": "7c3c6326b01a692c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q139": {
+  "assunto": "Aritmética: frações, decimais, porcentagem",
+  "dificuldade": 2,
   "explicacao": "A questão pede quantas cartas da mão têm valor equivalente ao da carta da mesa, que é 6/8. Simplificando: 6/8 = 3/4 = 0,75 = 75%. Agora, carta a carta: 75% é igual a 0,75, forma par; 3,4 não; 34% = 0,34, não; 0,75 forma par; 4,3 não; 7,5 não; 4/3 ≈ 1,33, não; 6,8 não; a carta marcada 3/4 forma par. São 3 cartas, alternativa E. As armadilhas são as cartas que usam os mesmos algarismos em outra ordem ou posição, como 3,4, 34%, 4,3, 7,5, 4/3 e 6,8, que têm valores diferentes de 0,75. A) e B) contam essas cartas enganosas. C) e D) incluem alguma delas por confusão de algarismos. Gabarito: E.",
   "hash": "260a28a43b1c957e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q140": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de barras",
+  "dificuldade": 1,
   "explicacao": "A questão pede qual categoria atinge o maior número de consumidores em cada grupo de classes. No gráfico, para A/B os percentuais são: Correios 34, internet 40, mídias sociais 37, SMS 35 e rádio/TV 28; o maior é internet, com 40%. Para C/D: Correios 33, internet 24, mídias sociais 20, SMS 30 e rádio/TV 28; o maior é Correios, com 33%. Logo, a promoção deve ser feita via internet para A/B e via Correios para C/D, alternativa B. A) erra porque Correios não é o maior em A/B e SMS não é o maior em C/D. C) erra porque internet tem só 24% em C/D. D) erra porque mídias sociais tem o menor percentual em C/D. E) erra porque rádio/TV não lidera em nenhum grupo. Gabarito: B.",
   "hash": "59b3511bc14a1be0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q141": {
+  "assunto": "Geometria espacial: volume do paralelepípedo",
+  "dificuldade": 3,
   "explicacao": "A questão pede o volume máximo de mistura de morango a colocar para que, após congelar, a embalagem fique cheia. Volume interno da embalagem: 20 × 10 × 10 = 2 000 cm³. A mistura de chocolate tem 1 000 cm³ e aumenta 25% ao congelar: 1 000 × 1,25 = 1 250 cm³. Sobra espaço de 2 000 − 1 250 = 750 cm³ para o sorvete de morango já congelado. Se m é o volume líquido de morango, depois do congelamento ele vira 1,25m. Então 1,25m = 750, logo m = 750 ÷ 1,25 = 600 cm³, alternativa C. A) erra por subtrair 25% de 600. B) não corresponde ao cálculo. D) erra por esquecer que o morango também expande. E) erra por ignorar a expansão do chocolate. Gabarito: C.",
   "hash": "ffc3edd7094fa472",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q142": {
+  "assunto": "Probabilidade: probabilidade simples",
+  "dificuldade": 1,
   "explicacao": "A questão pede a probabilidade de a senha sorteada estar entre 1 e 20, numa urna com senhas de 1 a 100. Probabilidade é casos favoráveis sobre casos possíveis. Casos possíveis: 100 senhas. Casos favoráveis: os números de 1 a 20, que são 20 − 1 + 1 = 20 senhas. Logo, P = 20/100, ou seja, 20%, alternativa C. A) erra por considerar só uma senha. B) erra por contar 20 − 1 = 19, esquecendo de incluir um dos extremos. D) erra por contar 21 números. E) erra porque 80/100 é a probabilidade de a senha não estar entre 1 e 20. Gabarito: C.",
   "hash": "c14f44f8996d0ce3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q143": {
+  "assunto": "Medidas de tendência central: mediana",
+  "dificuldade": 2,
   "explicacao": "A questão pede a mediana dos tempos das 8 raias. Os tempos são: 20,90; 20,90; 20,50; 20,80; 20,60; 20,60; 20,90; 20,96. Primeiro, ordenamos em ordem crescente: 20,50; 20,60; 20,60; 20,80; 20,90; 20,90; 20,90; 20,96. Como há 8 valores, número par, a mediana é a média dos dois termos centrais, o 4º e o 5º: (20,80 + 20,90) ÷ 2 = 41,70 ÷ 2 = 20,85, alternativa D. A) erra por não corresponder aos termos centrais. B) é aproximadamente a média aritmética, não a mediana. C) erra por tomar só o 4º termo. E) erra por tomar só o 5º termo ou a moda. Gabarito: D.",
   "hash": "7368da7dd96c83d2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q144": {
+  "assunto": "Geometria plana: área de trapézio, retângulo",
+  "dificuldade": 3,
   "explicacao": "A questão pede a variação na área de cada garrafão após a mudança de trapézio para retângulo. No Esquema I, o garrafão é um trapézio com bases 600 cm e 360 cm e altura 580 cm. Área = (B + b) × h ÷ 2 = (600 + 360) × 580 ÷ 2 = 960 × 290 = 278 400 cm². No Esquema II, o garrafão é um retângulo de 580 cm por 490 cm. Área = 580 × 490 = 284 200 cm². Diferença: 284 200 − 278 400 = 5 800 cm². Como a nova área é maior, houve aumento de 5 800 cm², alternativa A. B), C), D) e E) resultam de erros como esquecer de dividir por 2 na área do trapézio, usar só uma das bases ou inverter o sentido da variação. Gabarito: A.",
   "hash": "7e1762362f506b63",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q145": {
+  "assunto": "Teoria dos números: máximo divisor comum",
+  "dificuldade": 3,
   "explicacao": "A questão pede o número mínimo de escolas, sabendo que cada escola recebe ingressos de uma só sessão, todas recebem a mesma quantidade e não sobra ingresso. A quantidade por escola precisa dividir exatamente 400 e 320; para ter o menor número de escolas, cada uma deve receber o maior número possível, ou seja, o MDC(400, 320). Fatorando: 400 = 2⁴ × 5² e 320 = 2⁶ × 5. MDC = 2⁴ × 5 = 80. Assim, a sessão vespertina atende 400 ÷ 80 = 5 escolas e a noturna 320 ÷ 80 = 4 escolas, totalizando 5 + 4 = 9 escolas, alternativa C. A) erra porque 2 escolas exigiriam quantidades diferentes por escola. B) erra por usar outro divisor. D) erra porque 40 seria o número de ingressos com outro divisor, não o de escolas. E) erra por confundir o MDC, 80, com o número de escolas. Gabarito: C.",
   "hash": "465a789fae9b9557",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q146": {
+  "assunto": "Geometria espacial: volume do cilindro",
+  "dificuldade": 2,
   "explicacao": "A questão pede quanto o raio da cisterna deve aumentar para que ela comporte 81 m³, mantendo a altura de 3 m. A cisterna atual tem diâmetro 2 m, logo raio r = 1 m. O volume do cilindro é V = π × R² × h. Com π = 3 e h = 3: 81 = 3 × R² × 3, ou seja, 81 = 9R², então R² = 9 e R = 3 m. O aumento no raio é 3 − 1 = 2,0 m, alternativa C. A) e B) não correspondem ao cálculo. D) erra por usar o diâmetro antigo de forma incorreta. E) erra por confundir o aumento do raio com a variação de R², 9 − 1 = 8. Gabarito: C.",
   "hash": "29fe1248cd4d6ce2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q147": {
+  "assunto": "Análise combinatória: princípio multiplicativo",
+  "dificuldade": 5,
   "explicacao": "A questão pede quantas combinações das notas do jurado B em Bateria tornam a Escola II campeã. Pela tabela, os totais parciais são: I = 55, II = 66, III = 50, IV = 68 e V = 54, e cada nota vai de 6 a 10. A Escola II terá no mínimo 66 + 6 = 72, enquanto I, III e V chegam no máximo a 65, 60 e 64; logo, nunca vencem II, e suas notas podem ser quaisquer: 5 × 5 × 5 = 125 possibilidades. A disputa real é com a Escola IV. Em caso de empate, decide Enredo e Harmonia: II tem 10 + 10 = 20, IV tem 9 + 10 = 19, então II vence o empate. Precisamos de 66 + b₂ ≥ 68 + b₄, isto é, b₂ ≥ b₄ + 2. Se b₄ = 6, b₂ pode ser 8, 9 ou 10 (3 opções); se b₄ = 7, b₂ = 9 ou 10 (2); se b₄ = 8, b₂ = 10 (1); se b₄ = 9 ou 10, nenhuma. Total: 3 + 2 + 1 = 6 pares. Configurações: 6 × 125 = 750, alternativa C. A) erra por somar casos em vez de multiplicar. B) erra no número de pares. D) erra por não restringir as notas de II e IV corretamente. E) é o total sem restrição, 5⁵ = 3 125. Gabarito: C.",
   "hash": "b3e375d821b7f0c9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q148": {
+  "assunto": "Geometria espacial: empilhamento de paralelepípedos",
+  "dificuldade": 3,
   "explicacao": "A questão pede a altura mínima da pilha de 100 contêineres na área de 10 m por 32 m, sem sobras nem ultrapassagem. Pela Figura 1, cada contêiner mede 6,4 m × 2,5 m × 2,5 m. Para a pilha ser a mais baixa possível, cada camada deve ter o maior número de contêineres, apoiados sobre a base 6,4 m × 2,5 m. Encaixando: 32 ÷ 6,4 = 5 contêineres no comprimento e 10 ÷ 2,5 = 4 na largura, ou seja, 5 × 4 = 20 por camada, cobrindo exatamente 320 m². Número de camadas: 100 ÷ 20 = 5. Altura: 5 × 2,5 = 12,5 m, alternativa A. B), C), D) e E) resultam de outras arrumações, como deixar o contêiner em pé, que colocam menos contêineres por camada ou não preenchem a área sem sobras. Gabarito: A.",
   "hash": "9cc92e0e7299e7a6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q149": {
+  "assunto": "Geometria espacial: poliedros, faces",
+  "dificuldade": 3,
   "explicacao": "A questão pede quantas faces tem o poliedro obtido ao cortar os 8 cantos de um cubo, já que cada face recebe uma cor diferente. O cubo tem 6 faces. Cada corte plano em um vértice remove um pequeno tetraedro e cria uma nova face triangular; como as arestas retiradas são menores que metade da aresta do cubo, as 6 faces originais continuam existindo, agora como octógonos. O cubo tem 8 vértices, logo surgem 8 novas faces triangulares. Total de faces: 6 + 8 = 14, portanto 14 cores, alternativa C. A) erra por contar só as faces do cubo. B) erra por contar só as faces triangulares. D) e E) confundem o número de faces com vértices ou arestas do novo poliedro. Gabarito: C.",
   "hash": "ca048c1ea575df87",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q150": {
+  "assunto": "Função quadrática: inequação do segundo grau",
+  "dificuldade": 4,
   "explicacao": "A questão pede o preço que maximiza a quantidade vendida sem reduzir a arrecadação média de R$ 300,00. A arrecadação é R = p × q = p(400 − 100p). Exigimos R ≥ 300: 400p − 100p² ≥ 300. Dividindo por 100 e reorganizando: p² − 4p + 3 ≤ 0. As raízes são p = 1 e p = 3, e a desigualdade vale para 1 ≤ p ≤ 3. Como q = 400 − 100p diminui quando p aumenta, a maior quantidade ocorre no menor preço permitido, p = R$ 1,00, que vende 300 pães e arrecada exatamente R$ 300,00. Esse valor está no intervalo R$ 0,50 ≤ p < R$ 1,50, alternativa A. B) contém preços que vendem menos pães. C) contém o preço atual de R$ 3,00, sem promoção. D) e E) dão arrecadação menor que R$ 300,00. Gabarito: A.",
   "hash": "25ea4601682cc320",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q151": {
+  "assunto": "Probabilidade: probabilidade total",
+  "dificuldade": 5,
   "explicacao": "A questão pede a proposta que garante probabilidade máxima de 5,9% de uma menina desenvolver HPV, vacinando o mínimo possível. Seja v a fração vacinada. Uma não vacinada tem 50% de chance; uma vacinada, como a vacina tem 98% de eficácia, tem 2% de 50% = 1%. Probabilidade total: P = (1 − v) × 0,5 + v × 0,01 = 0,5 − 0,49v. Exigimos 0,5 − 0,49v ≤ 0,059, logo 0,49v ≥ 0,441 e v ≥ 0,9. A cobertura mínima é 90%, que corresponde à Proposta I, alternativa A. B) 55,8% e D) 49% não atingem a meta. C) 88,2% fica abaixo de 90% e também não atinge. E) 95,9% atinge a meta, mas vacina mais pessoas que o necessário. Gabarito: A.",
   "hash": "a3836d9e788acfd1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q152": {
+  "assunto": "Funções exponencial e logarítmica: crescimento exponencial",
+  "dificuldade": 2,
   "explicacao": "A questão pede a expressão da produção P no ano t, sabendo que no ano 1 foram 8 000 unidades e que a produção cresce 50% ao ano. Crescer 50% significa multiplicar por 1,5 a cada ano. Assim: P(1) = 8 000; P(2) = 8 000 × 1,5; P(3) = 8 000 × 1,5²; e, em geral, P(t) = 8 000 × (1,5)ᵗ⁻¹, uma progressão geométrica de razão 1,5. Conferindo: para t = 1, o expoente é 0 e P = 8 000, como esperado. Isso corresponde à alternativa E. A), B) e C) somam um termo a 8 000 com potência t⁻¹, que diminui com o tempo, sem representar crescimento percentual constante. D) não reproduz a multiplicação por 1,5 a cada ano a partir de 8 000 com expoente t − 1. Gabarito: E.",
   "hash": "8040efbcfca01423",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q153": {
+  "assunto": "Geometria plana: áreas de polígonos regulares",
+  "dificuldade": 4,
   "explicacao": "A questão pede qual polígono pode ser dividido em regiões de áreas proporcionais a 60%, 10% e 30%. No pentágono regular, os segmentos do centro aos vértices formam 5 triângulos congruentes, cada um com 20% da área. Os carboidratos ocupam 3 desses triângulos: 3 × 20% = 60%. Um dos triângulos restantes é cortado pelo segmento que vai do centro ao ponto médio do lado (as marcas indicam partes iguais); essa mediana divide o triângulo em duas metades de 10% cada. Proteínas ficam com uma metade, 10%, e gorduras com a outra metade mais o último triângulo inteiro: 10% + 20% = 30%. Assim, o pentágono satisfaz a condição, alternativa C. A) erra porque as faixas do triângulo, por semelhança, não geram 10%, 30% e 60%. B) erra porque o losango gera partes de 25% e 12,5%. D) erra porque o hexágono gera partes de cerca de 16,7%. E) erra porque o octógono gera partes de 12,5% e 6,25%. Gabarito: C.",
   "hash": "a0d66cbf5fdd0838",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q154": {
+  "assunto": "Funções exponencial e logarítmica: propriedades do logaritmo",
+  "dificuldade": 5,
   "explicacao": "A questão pede a altura h do vidro em função da base n, sabendo que a borda superior segue y = log x e que o eixo x divide a altura ao meio. Sejam a e b as abscissas das extremidades da borda, com b − a = n. Como o eixo x corta a altura ao meio, a ponta mais baixa está a h/2 abaixo e a mais alta a h/2 acima: log a = −h/2 e log b = h/2. Logo log a = −log b, o que dá a × b = 1, ou a = 1/b. Substituindo em b − a = n: b − 1/b = n, então b² − nb − 1 = 0 e b = (n + √(n² + 4))/2, tomando a raiz positiva. A altura é h = log b − log a = 2 log b = 2 log((n + √(n² + 4))/2), alternativa E. A), B), C) e D) usam expressões como log(1 + n/2) e log(1 − n/2), que supõem extremidades simétricas em torno de x = 1, o que não satisfaz log a = −log b. Gabarito: E.",
   "hash": "cd0e0e3e1943e17a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q155": {
+  "assunto": "Geometria plana: área do círculo",
+  "dificuldade": 2,
   "explicacao": "A questão pede quanto a área de cobertura aumentou com a nova antena. As duas antenas antigas cobrem círculos de raio 2 km tangentes no ponto O. A nova antena fica em O e seu círculo tangencia externamente os dois círculos menores, ou seja, passa pelos pontos mais distantes deles; como cada círculo pequeno tem diâmetro 4 km a partir de O, o novo raio é 4 km. Área nova: π × 4² = 16π km². Área antiga: 2 × π × 2² = 8π km². Aumento: 16π − 8π = 8π km², alternativa A. B) não corresponde ao cálculo. C) é a área nova, não o aumento. D) e E) erram por usar o diâmetro, 8 km, como raio ou dobrar áreas. Gabarito: A.",
   "hash": "e7fda89617e8002f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q156": {
+  "assunto": "Matemática financeira: amortização, juros",
+  "dificuldade": 3,
   "explicacao": "A questão pede o valor da 10ª prestação, que é R$ 500,00 mais 1% de juro sobre o saldo devedor antes do pagamento. A cada prestação, o saldo cai R$ 500,00. Antes da 10ª prestação, já foram pagas 9, então o saldo é 180 000 − 9 × 500 = 180 000 − 4 500 = 175 500 reais. Juro: 1% de 175 500 = 1 755 reais. Prestação: 500 + 1 755 = 2 255 reais, alternativa D. A) e B) erram por descontar parcelas a mais do saldo. C) não corresponde ao cálculo. E) é a 1ª prestação: 500 + 1% de 180 000 = 2 300. Gabarito: D.",
   "hash": "22ae23c4015ec583",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q157": {
+  "assunto": "Grandezas e medidas: notação científica, conversão",
+  "dificuldade": 1,
   "explicacao": "A questão pede a quantidade exportada, em quilogramas, de 4,129 milhões de toneladas. Um milhão é 10⁶, logo temos 4,129 × 10⁶ toneladas. Como 1 tonelada = 1 000 kg = 10³ kg, multiplicamos: 4,129 × 10⁶ × 10³ = 4,129 × 10⁹ kg, alternativa C. A) erra por converter só toneladas, ignorando o milhão. B) erra por manter o valor em toneladas. D) e E) erram por usar expoentes excessivos na conversão. Gabarito: C.",
   "hash": "0042bd0f7ff73342",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q158": {
+  "assunto": "Razão e proporção: fórmula de dosagem",
+  "dificuldade": 3,
   "explicacao": "A questão pede a dose do medicamento X, sem saber a idade da criança, usando a dose correta já aplicada de Y. Pela fórmula de Young, dose da criança = i/(i + 12) × dose do adulto. Para Y: 14 = i/(i + 12) × 42, então i/(i + 12) = 14/42 = 1/3. Logo 3i = i + 12, 2i = 12 e i = 6 anos. Para X: dose = 6/(6 + 12) × 60 = 6/18 × 60 = 1/3 × 60 = 20 mg, alternativa B. Na verdade, como a fração 1/3 vale para qualquer remédio, bastava fazer 60 ÷ 3. A) e C) não correspondem à fração correta. D) e E) aplicam outra proporção ou a idade de forma errada. Gabarito: B.",
   "hash": "18418eb1be42122f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q159": {
+  "assunto": "Porcentagem: renda média, distribuição",
+  "dificuldade": 4,
   "explicacao": "A questão pede a diferença entre a renda média de quem está nos 10% mais ricos e nos 10% mais pobres. Seja N a população e 1 202 a renda média; o total de rendimentos é 1 202N. Os 10% mais ricos, que são 0,1N pessoas, recebem 44,5% do total: renda média = 0,445 × 1 202N ÷ 0,1N = 4,45 × 1 202 = 5 348,90 reais. Os 10% mais pobres recebem 1,1%: renda média = 0,011 × 1 202N ÷ 0,1N = 0,11 × 1 202 = 132,22 reais. Diferença: 5 348,90 − 132,22 = 5 216,68 reais, alternativa E. Um atalho: (4,45 − 0,11) × 1 202 = 4,34 × 1 202 = 5 216,68. A), B), C) e D) resultam de usar os percentuais sem dividir pela fração de 10% da população ou de outros erros de proporção. Gabarito: E.",
   "hash": "af49403c12094df7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q160": {
+  "assunto": "Escalas: escala de fotografia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a largura e o comprimento reais da pegada, a partir da foto em que a caneta de 16,8 cm aparece com 1,4 cm. A escala da foto é 16,8 ÷ 1,4 = 12, ou seja, cada centímetro na foto corresponde a 12 cm reais. Na foto, L = 2,2 cm e C = 3,4 cm. Valores reais: largura = 2,2 × 12 = 26,4 cm e comprimento = 3,4 × 12 = 40,8 cm, alternativa D. A) e B) erram por somar ou dividir em vez de multiplicar pela escala. C) erra por somar valores. E) usa uma escala aproximada incorreta. Gabarito: D.",
   "hash": "3401171fdf642b34",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q161": {
+  "assunto": "Geometria plana: áreas, razão de áreas",
+  "dificuldade": 5,
   "explicacao": "A questão pede o valor de d para que a malha cubra 75% do vidro. A malha se repete em quadrados de lado d mm, cada um com uma fita de 1 mm em cada direção; a lacuna livre em cada quadrado é um quadrado de lado d − 1. Se a cobertura é 75%, a parte livre é 25%: (d − 1)²/d² = 1/4. Extraindo a raiz: (d − 1)/d = 1/2, logo 2d − 2 = d e d = 2 mm, alternativa A. As dimensões do vidro, 5 m por 9 m, não interferem, pois a taxa depende só do padrão que se repete. B) d = 1 daria cobertura de 100%. C), D) e E) não satisfazem a equação. Gabarito: A.",
   "hash": "a27d0783b0e78fc8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q162": {
+  "assunto": "Teoria dos números: máximo divisor comum",
+  "dificuldade": 4,
   "explicacao": "A questão pede quantas peças serão produzidas ao cortar tábuas de 540, 810 e 1 080 cm em pedaços iguais, sem sobra, do maior tamanho possível, porém menor que 2 m. O comprimento da peça deve dividir os três valores. MDC(540, 810, 1 080): 540 = 2² × 3³ × 5, 810 = 2 × 3⁴ × 5 e 1 080 = 2³ × 3³ × 5, logo MDC = 2 × 3³ × 5 = 270 cm. Como 270 cm passa de 200 cm, tomamos o maior divisor de 270 menor que 200, que é 135 cm. Peças: 540 ÷ 135 = 4, 810 ÷ 135 = 6 e 1 080 ÷ 135 = 8. Total: 40 × 4 + 30 × 6 + 10 × 8 = 160 + 180 + 80 = 420 peças, alternativa E. A) e C) resultam de usar 270 cm, ignorando o limite de 2 m (210 peças) ou outros erros. B) e D) não correspondem a um divisor comum adequado. Gabarito: E.",
   "hash": "a1f62548f7a5d9f1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q163": {
+  "assunto": "Grandezas e medidas: conversão de unidades",
+  "dificuldade": 2,
   "explicacao": "A questão pede o número máximo de aplicações com um refil de 3 mL. Como 1 unidade = 0,01 mL, o refil tem 3 ÷ 0,01 = 300 unidades. Cada aplicação usa 10 unidades da dose mais 2 unidades descartadas para retirar bolhas, totalizando 12 unidades. Número de aplicações: 300 ÷ 12 = 25, alternativa A. B) e C) não correspondem ao cálculo. D) erra por contar dias (duas aplicações por dia) em vez de aplicações, chegando a cerca de 12. E) não considera a conversão corretamente. Gabarito: A.",
   "hash": "6e847de96f7d7e0c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q164": {
+  "assunto": "Análise combinatória: arranjo simples",
+  "dificuldade": 3,
   "explicacao": "A questão pede o número de maneiras de acomodar 7 pessoas nas poltronas livres do voo. Contando as poltronas em branco no mapa, há 9 lugares disponíveis. Como as pessoas são distintas e a ordem importa, trata-se de um arranjo de 9 lugares tomados 7 a 7: A(9,7) = 9!/(9 − 7)! = 9!/2!. Isso corresponde à alternativa A. B) é uma combinação, que ignora quem senta em cada lugar. C) só valeria se houvesse exatamente 7 lugares. D) e E) dividem as poltronas em grupos que não correspondem ao problema. Gabarito: A.",
   "hash": "3cd059ba1f378300",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q165": {
+  "assunto": "Geometria plana: área de setor circular",
+  "dificuldade": 3,
   "explicacao": "A questão pede o maior raio natural R para que a nova piscina, formada por três setores circulares de 60°, tenha área menor que a piscina retangular de 50 m × 24 m. Área da piscina existente: 50 × 24 = 1 200 m². Cada setor de 60° é 1/6 do círculo; três setores são 3/6 = 1/2 do círculo: área = πR²/2 = 3R²/2 = 1,5R². Exigimos 1,5R² < 1 200, ou seja, R² < 800. Como 28² = 784 < 800 e 29² = 841 > 800, o maior R natural é 28 m, alternativa B. A) é um valor válido, mas não o maior. C) 29 já ultrapassa a área. D) e E) são ainda maiores. Gabarito: B.",
   "hash": "3303fafe6a4724f3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q166": {
+  "assunto": "Grandezas e medidas: volume, capacidade",
+  "dificuldade": 2,
   "explicacao": "A questão pede o tipo de garrafa que, comprando duas iguais, atende à recomendação e é totalmente consumido antes do exame. A paciente deve beber 1 copo de 150 mL a cada meia hora durante 10 horas. Em 10 horas há 20 meias horas, logo são 20 copos: 20 × 150 = 3 000 mL = 3 L. Duas garrafas iguais devem somar exatamente 3 L, então cada uma deve ter 1,5 L, que é a Garrafa IV, alternativa D. A) erra porque duas garrafas de 0,15 L somam só 0,3 L. B) erra porque somam 0,6 L. C) erra porque somam 1,5 L, metade do necessário. E) erra porque somam 6 L, e ela não conseguiria consumir tudo seguindo a recomendação. Gabarito: D.",
   "hash": "3d7bcb374743abfc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q167": {
+  "assunto": "Geometria plana: simetria, dobraduras",
+  "dificuldade": 3,
   "explicacao": "A questão pede a forma da bandeirinha depois de cortar a folha dobrada e abri-la. A folha quadrada é dobrada ao meio, e os cortes são feitos sobre a folha dupla; ao abrir, cada corte aparece duas vezes, de forma simétrica em relação à linha de dobra. Os cortes ligam o ponto M, a um quarto do lado AD, ao ponto médio N, e N ao ponto médio O, removendo triângulos da parte de baixo. Ao desdobrar, a folha fica com a parte superior retangular inteira e, embaixo, um recorte em V central com as duas pontas inferiores chanfradas, formando duas pontas simétricas. Essa é a figura da alternativa E: um retângulo com um entalhe em V no centro da base e os cantos inferiores cortados em diagonal. As demais alternativas mostram recortes que ignoram a simetria da dobra ou posicionam os cortes em pontos diferentes de M, N e O. Gabarito: E.",
   "hash": "6e1d4fee2743f3ff",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q168": {
+  "assunto": "Probabilidade: evento complementar",
+  "dificuldade": 4,
   "explicacao": "A questão pede a probabilidade de pelo menos um dos três alunos entender e responder à pergunta em inglês. Cada aluno fala inglês com probabilidade 0,3, logo não fala com probabilidade 0,7. É mais fácil calcular o complementar: a pergunta fica sem resposta só se nenhum dos três falar inglês: 0,7 × 0,7 × 0,7 = 0,343. Então a probabilidade de pelo menos um responder é 1 − 0,343 = 0,657 = 65,7%, alternativa D. A) erra porque não corresponde ao cálculo correto. B) é a chance de um único aluno. C) é a probabilidade de exatamente um falar, 3 × 0,3 × 0,7² = 0,441. E) erra por somar 30% três vezes. Gabarito: D.",
   "hash": "6ecbb2aa3ee31103",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q169": {
+  "assunto": "Porcentagem: porcentagem de porcentagem",
+  "dificuldade": 3,
   "explicacao": "A questão pede quantas kton de PET reciclado foram para tecidos e malhas. Pelo primeiro gráfico, 37,8% do total de 282 kton foi para usos têxteis. Pelo segundo, dentro dos usos têxteis, 30% foi para tecidos e malhas. Calculando: têxteis = 0,378 × 282 ≈ 106,6 kton; tecidos e malhas = 0,30 × 106,6 ≈ 31,98 kton, ou seja, cerca de 32,0 kton, alternativa C. A) e B) não correspondem às porcentagens dos gráficos. D) é 30% do total, 0,30 × 282 = 84,6, ignorando que os 30% são só dos têxteis. E) é o total de têxteis, 106,6. Gabarito: C.",
   "hash": "2bf8059a29897037",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q170": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 3,
   "explicacao": "A questão pede a ordem de classificação, sendo a nota final a média das cinco etapas. A tabela dá a média das quatro primeiras e a nota da quinta. A soma das quatro primeiras é 4 × média. Então a nota final é (4 × média + quinta) ÷ 5. A: (360 + 60) ÷ 5 = 84. B: (340 + 85) ÷ 5 = 85. C: (320 + 95) ÷ 5 = 83. D: (240 + 90) ÷ 5 = 66. E: (240 + 100) ÷ 5 = 68. Em ordem decrescente: B (85), A (84), C (83), E (68), D (66), alternativa B. Não houve empate. A) erra ao pôr A antes de B. C) e D) fazem média simples entre as duas colunas. E) ordena pela quinta etapa apenas. Gabarito: B.",
   "hash": "776385e656654a53",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q171": {
+  "assunto": "Geometria espacial: volume do cilindro, conversão",
+  "dificuldade": 4,
   "explicacao": "[REVISAR] Fisicamente, a altura da água numa lata cilíndrica aberta já seria o índice (400 mm); o gabarito oficial supõe redistribuir o volume em 1 m². A questão pede o índice pluviométrico, definido como a altura de água acumulada sobre 1 m². O raciocínio esperado é calcular o volume de chuva na lata e espalhá-lo sobre uma base de 1 m². Volume da lata: π × r² × h = 3 × 300² × 1 200 = 3 × 90 000 × 1 200 = 324 000 000 mm³. Um terço: 108 000 000 mm³. Como 1 m² = 1 000 mm × 1 000 mm = 1 000 000 mm², a altura sobre 1 m² é 108 000 000 ÷ 1 000 000 = 108 mm, alternativa D. A) e C) erram nas conversões de unidade. B) não corresponde ao cálculo. E) usa o volume total da lata, sem tomar um terço. Gabarito: D.",
   "hash": "e326dcd9d1f1cb6e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q172": {
+  "assunto": "Geometria analítica: coordenadas, distância",
+  "dificuldade": 3,
   "explicacao": "A questão pede as coordenadas do ponto T, a meio caminho, pelo percurso do ônibus, entre P e Q. Pelo mapa, P = (30, 20) e Q = (550, 320). O ônibus vai de P pela Rua A, no sentido das setas, até x = 550, e depois sobe pela Rua B até Q. Primeiro trecho: 550 − 30 = 520. Segundo trecho: 320 − 20 = 300. Percurso total: 520 + 300 = 820; metade: 410. Como 410 < 520, T ainda está na Rua A, a 410 unidades de P: x = 30 + 410 = 440 e y = 20. Logo T = (440; 20), alternativa E. A) usa x = 290, ponto médio das abscissas, ignorando o trecho vertical do percurso. B) e C) usam 410 como abscissa, esquecendo de somar a abscissa 30 de P. D) erra ao pôr y = 0, fora da Rua A. Gabarito: E.",
   "hash": "9d60020c9e6f6e99",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q173": {
+  "assunto": "Aritmética: comparação de decimais",
+  "dificuldade": 1,
   "explicacao": "A questão pede a espessura mais próxima de 3 mm. Calculamos a distância de cada uma até 3: 3,10 − 3 = 0,10; 3,021 − 3 = 0,021; 3 − 2,96 = 0,04; 3 − 2,099 = 0,901; 3,07 − 3 = 0,07. A menor diferença é 0,021 mm, da lente de 3,021 mm, alternativa C. A) está quase 1 mm distante. B) está a 0,04 mm. D) está a 0,07 mm. E) está a 0,10 mm. O erro comum é achar que 3,021 é maior que 3,07 ou 3,10 por ter mais casas decimais. Gabarito: C.",
   "hash": "65779331d1507193",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q174": {
+  "assunto": "Função quadrática: vértice, valor máximo",
+  "dificuldade": 3,
   "explicacao": "A questão pede a classificação da temperatura máxima da estufa, dada por T(h) = −h² + 22h − 85. Como o coeficiente de h² é negativo, a parábola tem concavidade para baixo e o máximo ocorre no vértice: h = −b/(2a) = −22/(2 × (−1)) = 11 horas. Temperatura máxima: T(11) = −121 + 242 − 85 = 36 °C. Pela tabela, 30 ≤ T ≤ 43 é classificada como alta, alternativa D. A), B) e C) correspondem a temperaturas menores que 30 °C. E) exigiria mais de 43 °C. Gabarito: D.",
   "hash": "e012a40d0232a7f0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q175": {
+  "assunto": "Equações e inequações: substituição de variáveis",
+  "dificuldade": 3,
   "explicacao": "A questão pede o volume da bola em função apenas de b, com V = 4ab². O comprimento horizontal é 2a e o vertical é 2b. A diferença entre eles é metade do comprimento vertical: 2a − 2b = (2b)/2 = b. Logo 2a = 3b e a = 1,5b = 3b/2. Substituindo: V = 4 × (3b/2) × b² = 6b³, alternativa B. A) erra por usar a = 2b. C) e E) resultam de erros na relação entre a e b. D) erra por supor a = b, como se a bola fosse uma esfera. Gabarito: B.",
   "hash": "b90413417c386ed4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q176": {
+  "assunto": "Função afim: função definida por partes",
+  "dificuldade": 3,
   "explicacao": "A questão pede o gráfico que representa o valor mensal em função do número de ligações. Pelas regras: de 0 a 100 ligações, paga-se um valor fixo de R$ 12,00, um segmento horizontal. De 101 a 300 ligações, soma-se R$ 0,10 por ligação excedente; em 300 ligações o valor é 12 + 200 × 0,10 = 12 + 20 = R$ 32,00, logo o gráfico é um segmento crescente de (100; 12) a (300; 32). De 300 a 500 ligações, o valor é fixo em R$ 32,00, outro segmento horizontal. O gráfico da alternativa B tem exatamente esse formato: horizontal em 12, subida linear até 32 e horizontal em 32. As demais alternativas apresentam saltos, inclinações ou patamares que não correspondem a essas três fases, por exemplo um degrau súbito em 100 ou um terceiro trecho ainda crescente. Gabarito: B.",
   "hash": "386ceefd0d69c071",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q177": {
+  "assunto": "Leitura de gráficos e tabelas: tabela, proporção",
+  "dificuldade": 1,
   "explicacao": "A questão pede a dose diária de um felino de 3,0 kg, com dosagem de 250 mg por m² de superfície corporal. Pelo quadro, a massa de 3,0 kg corresponde a 0,208 m² de superfície. Dose: 250 × 0,208 = 52,0 mg, alternativa B. A) erra por dividir 0,208 por 3 ou usar outra operação. C) é 52 × 3, multiplicando também pela massa. D) é 250 × 3, usando a massa no lugar da área. E) é 250 ÷ 0,208, dividindo em vez de multiplicar. Gabarito: B.",
   "hash": "740a253cd3aea61f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q178": {
+  "assunto": "Grandezas e medidas: volume, conversão",
+  "dificuldade": 2,
   "explicacao": "A questão pede a capacidade mínima, em litros, do reservatório para abastecer 10 pessoas por 20 dias. Consumo diário da família: 10 × 0,08 = 0,8 m³. Em 20 dias: 0,8 × 20 = 16 m³. Como 1 m³ = 1 000 litros, temos 16 × 1 000 = 16 000 litros, alternativa E. A) erra por não converter m³ em litros. B) é o consumo de um dia da família, em litros. C) é o consumo de uma pessoa em 20 dias. D) erra a conversão ou um dos fatores. Gabarito: E.",
   "hash": "a09799223afd86a0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q179": {
+  "assunto": "Probabilidade: comparação de probabilidades",
+  "dificuldade": 4,
   "explicacao": "A questão pede a comparação das probabilidades de o atleta culpado ser sorteado em cada modo. Há 20 × 10 = 200 atletas. Modo I: sorteiam-se 3 entre 200, então P(I) = 3/200. Modo II: a equipe do atleta precisa ser sorteada (1/20) e, depois, ele estar entre os 3 de 10 (3/10): P(II) = 1/20 × 3/10 = 3/200. Modo III: a equipe dele precisa estar entre as 3 de 20 (3/20) e ele ser o sorteado entre 10 (1/10): P(III) = 3/20 × 1/10 = 3/200. As três probabilidades são iguais, alternativa E. A), B), C) e D) supõem diferenças que desaparecem quando se faz o cálculo completo de cada modo. Gabarito: E.",
   "hash": "3c9ee2d08f23c05f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q180": {
+  "assunto": "Trigonometria: função cosseno",
+  "dificuldade": 4,
   "explicacao": "A questão pede o mês de produção máxima, que, segundo o texto, é quando o preço está mais baixo. Em P(x) = 8 + 5cos((πx − π)/6), o preço é mínimo quando o cosseno vale −1, o que dá P = 8 − 5 = 3 reais. O cosseno vale −1 quando o ângulo é π: (πx − π)/6 = π, logo πx − π = 6π, x − 1 = 6 e x = 7, que é julho, alternativa D. A) janeiro, x = 1, dá cosseno 1, preço máximo de 13 reais, o oposto. B) abril e E) outubro dão cosseno 0 e preço 8. C) junho dá preço maior que o de julho. Gabarito: D.",
   "hash": "a6d9f60737b9c8c7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de poema",
+  "dificuldade": 3,
   "explicacao": "A questão pede o sentido metafórico das preposições junto, sobre e bajo no poema de Nicolás Guillén. Cada verso posiciona um sujeito em relação ao canavial: o negro está “junto al cañaveral”, isto é, ao lado, como trabalhador braçal que vive colado à plantação; o yanqui está “sobre el cañaveral”, acima dela, na posição de quem domina, possui e lucra com a produção; a terra está “bajo el cañaveral”, embaixo, explorada e esgotada. O fecho “¡Sangre que se nos va!” reforça a ideia de exploração, de riqueza e vida latino-americanas que escoam para fora. Assim, as preposições espaciais funcionam como metáfora da hierarquia social e econômica entre os envolvidos no cultivo da cana, o que confirma a alternativa D. A) erra porque o poema não fala de desordem na lavoura. B) erra porque não há relações diplomáticas entre países. C) erra porque as preposições não indicam localidades geográficas. E) erra porque não se descrevem funções técnicas de profissionais, e sim posições de poder. Gabarito: D.",
   "hash": "4447b804f498fc49",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de poema",
+  "dificuldade": 2,
   "explicacao": "A questão pede que relação o poema indígena norte-americano revela. O texto chama elementos naturais de membros da família: “My brother the star, my mother the earth, my father the sun, my sister the moon”. Em seguida, pede a esses elementos beleza para a vida, força para o corpo, bondade para o milho, paz para a casa, verdade para o espírito e sabedoria para os mais velhos. Ou seja, a natureza é tratada como parente e como fonte de tudo o que é bom; a oração evidencia a importância central dos elementos da natureza na visão de mundo desse grupo, como afirma a alternativa D. A) erra porque o milho aparece apenas como um dos itens, sem tema de hábitos alimentares entre gerações. B) erra porque os anciãos recebem sabedoria, não são a fonte dela. C) erra porque o corpo é citado de passagem, sem ritual. E) erra porque os termos familiares são metáforas para a natureza, não tema de preservação da família. Gabarito: D.",
   "hash": "212421f763644229",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 3,
   "explicacao": "A questão pede o sentido da expressão “puro floro” e o que ela revela sobre a visão do autor a respeito do Dia do Amor e da Amizade no Peru. “Floro”, no espanhol peruano coloquial, significa conversa fiada, palavreado bonito e vazio. O autor diz que o dia parece “puro floro” porque, apesar da celebração do amor, o país ainda registra muitos casos de maus-tratos entre casais, sobretudo contra mulheres, e apresenta números alarmantes: 17 denúncias por hora e mais de 36 mil por ano. Logo, a data festiva funciona como fachada que encobre a violência de gênero, o que corresponde à alternativa C. A) erra porque quem protege vulneráveis é a campanha do ministério, não a data. B) erra porque o texto não elogia a eficácia do governo. D) erra porque a data não atenua os maus-tratos; apenas os esconde. E) erra porque não se fala em sucesso de campanhas, e sim em cifras preocupantes. Gabarito: C.",
   "hash": "fd6f5904c63764c0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q92-ing": {
+  "assunto": "Língua inglesa: tirinha, polissemia",
+  "dificuldade": 2,
   "explicacao": "A questão pede o motivo da falha de comunicação na tira For better or for worse. No primeiro quadrinho, uma amiga diz “Well, here it is, the season that I hate”. A outra entende season como estação do ano e elogia o outono: as crianças estão na escola, o ar está fresco, as folhas mudam de cor. A primeira responde que não fala do outono, mas do futebol, ou seja, usava season no sentido de temporada esportiva. O mal-entendido nasce, portanto, da polissemia: cada personagem atribui um sentido diferente à palavra season, exatamente como afirma a alternativa E. A) erra porque não há discussão de opinião sobre futebol. B) erra porque a amiga não despreza as preferências da outra; apenas entende outra coisa. C) erra porque o problema não é desconhecer a temporada, e sim interpretar a palavra de outro modo. D) erra porque não há maus-tratos; o “dummy” é uma brincadeira. Gabarito: E.",
   "hash": "38cfa69254bda109",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de cartaz",
+  "dificuldade": 1,
   "explicacao": "A questão pede o que o cartaz destaca sobre acessibilidade. A imagem mostra o símbolo de cadeirante pintado no asfalto de uma vaga, com a frase “si te quedas mi aparcamiento, quédate mi discapacidad”, ou seja, se você fica com minha vaga, fique também com minha deficiência, e o complemento “no aumentes mis barreras”. A mensagem confronta o motorista sem deficiência que ocupa a vaga reservada: quem quer o benefício deveria arcar também com a limitação. O foco, portanto, é o respeito à vaga destinada a cadeirantes, o que corresponde à alternativa B. A) erra porque o cartaz não se dirige ao cadeirante para incentivá-lo. C) erra porque as vagas já estão identificadas; o problema é o desrespeito a elas. D) erra porque não se trata de remover obstáculos físicos em geral. E) erra porque não há proposta de facilitar a locomoção nos estacionamentos, e sim de não ocupar a vaga alheia. Gabarito: B.",
   "hash": "06459da21a95c480",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de citação",
+  "dificuldade": 2,
   "explicacao": "A questão pede o intuito da autora na citação de Gloria Anzaldúa. O trecho começa com a pergunta “Why am I compelled to write?” (por que sou impelida a escrever?) e é respondido por uma sequência de orações iniciadas por “Because”: porque a escrita a salva da acomodação, porque não tem escolha, porque precisa manter viva sua revolta, porque o mundo criado na escrita compensa o mundo real, porque escrever põe ordem no mundo. Toda a estrutura do texto, pergunta seguida de uma lista de justificativas, mostra que o objetivo é apresentar as razões pelas quais ela escreve, como diz a alternativa A. B) erra porque a compensação é apenas uma das razões listadas. C) erra porque ela não fala em mudar o mundo real, e sim em compensar e organizar sua percepção dele. D) erra porque o medo da acomodação é só um dos motivos. E) erra porque ordenar o mundo também é um motivo isolado, não o propósito geral. Gabarito: A.",
   "hash": "e4c95a1b223256c3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de texto",
+  "dificuldade": 2,
   "explicacao": "A questão pede por que a região do Lago Atitlán tem grande relevância social segundo o texto. Logo no início, o autor afirma que o lago tem grande interesse social porque em suas margens convivem três culturas: a indígena, a espanhola e a mestiça. Depois descreve indígenas, ladinos, missionários, pesquisadores, hippies e comerciantes, e conclui que o lago é “símbolo y reflejo de lo que es Hispanoamérica: un mosaico de culturas y un ejemplo de convivencia”. Assim, a relevância social está na multiculturalidade que caracteriza a identidade hispano-americana, conforme a alternativa D. A) erra porque o texto não trata o lago como patrimônio histórico-geográfico. B) erra porque o turismo é consequência, não o motivo da relevância social. C) erra porque os negócios são citados de passagem, sem ênfase em prosperidade. E) erra porque o destaque é a convivência de várias culturas, não a valorização exclusiva da indígena. Gabarito: D.",
   "hash": "4cdea8625551c7f4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de reportagem",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que influencia a memória das pessoas, segundo a reportagem. O texto explica que a memória é instável e facilmente reescrita e que, combinada a programas de edição como o Photoshop, essa fragilidade é “a recipe for disaster”: imagens falsas nos cercam, nossa mente as aceita como reais e as recorda depois. O estudo citado confirma isso: ao ver fotos manipuladas de um passeio de balão que nunca aconteceu, 50% dos participantes se lembraram de parte do passeio. Logo, o fator que interfere na memória é a alteração de imagens, alternativa A. B) erra porque o texto não fala de exposição ao mundo virtual em geral. C) erra porque o problema não é o acesso a informações novas, mas a imagens falsas. D) erra porque não há fascínio por softwares; eles são apenas a ferramenta. E) erra porque os meios de comunicação não são apontados como a causa. Gabarito: A.",
   "hash": "452011db644576cf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de texto",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que revela o fato de nem todas as falas em espanhol serem legendadas nos filmes americanos. O texto informa que os roteiristas legendam o espanhol quando ele importa para o enredo, deixam interjeições sem legenda e, em conversas consideradas irrelevantes, usam apenas o aviso “Speaks Spanish”, o que, segundo a pesquisadora, impede o público de saber o que os personagens dizem. Ou seja, o espanhol é tratado de maneira desigual em relação ao inglês, às vezes traduzido, às vezes silenciado, apesar de fazer parte da diversidade linguística do país. Isso caracteriza assimetria, alternativa A. B) erra porque o texto aponta presença crescente de personagens latinos. C) erra porque a crítica não se refere ao público hispânico das salas de cinema. D) erra porque não se fala em falta de formação de roteiristas. E) erra porque o próprio texto cita uma pesquisa sobre o tema. Gabarito: A.",
   "hash": "5731c6eafc26939f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de aviso",
+  "dificuldade": 1,
   "explicacao": "A questão pede o objetivo do aviso da TSA destinado a passageiros. O título é “Notice of Baggage Inspection”, e o texto diz que a agência é obrigada por lei a inspecionar toda bagagem despachada, que algumas malas são abertas e que “your bag was among those selected for physical inspection”. Acrescenta que o conteúdo foi devolvido à mala e que, se ela estava trancada, o cadeado pode ter sido rompido. Trata-se, portanto, de um comunicado deixado dentro da mala para informar que ela foi revistada pelos agentes de segurança, alternativa C. A) erra porque a inspeção já ocorreu; não se pede que a mala seja apresentada. B) erra porque não há acusação de transporte de itens proibidos. D) erra porque as dicas de arrumação são só remetidas ao site, não são o objetivo. E) erra porque a TSA lamenta, mas declara expressamente não se responsabilizar por danos aos cadeados. Gabarito: C.",
   "hash": "d184f9e6d2d146d9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q96": {
+  "assunto": "Publicidade e linguagem midiática: texto verbal e não verbal",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que se depreende da propaganda da ABI sobre informação, opinião e cidadania. A imagem mostra um homem gritando, com o cérebro aberto onde se lê “Se a informação não chega, a opinião não sai”, numa peça do Dia da Imprensa. A relação é de condição: a informação é a entrada, a opinião é a saída. Sem acesso à informação, que cabe à imprensa fornecer, o cidadão não consegue formar nem expressar opinião; o grito simboliza essa voz que depende do que foi recebido. Isso corresponde à alternativa E. A) erra porque a imprensa não deve transformar opinião em informação. B) erra porque selecionar a informação restringiria, e não democratizaria, a opinião. C) erra porque inverte a lógica: a informação vem antes da opinião. D) erra porque a informação não deve se fundamentar em opinião. Gabarito: E.",
   "hash": "5eb3b318170d3e6b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q97": {
+  "assunto": "Teatro e dança: hip hop, break",
+  "dificuldade": 2,
   "explicacao": "A questão pede como o break representa aspectos contemporâneos por meio de seus movimentos. O texto informa que o break dancing surge como dança de rua, ao lado do rap e do grafite, linguagens nascidas nos guetos e nos espaços urbanos de Nova York. Por ser dança de rua, o break se caracteriza por movimentos improvisados, quebrados, acrobáticos, que traduzem o ritmo acelerado, fragmentado e imprevisível da vida nas grandes cidades. Assim, a alternativa B, movimentos improvisados como expressão da dinâmica da vida urbana, é a que melhor descreve essa dança. A) erra porque os movimentos não são retilíneos nem voltados a criticar alienados. C) erra porque o break não tem movimentos suaves. D) erra porque o sapateado com a sola dos sapatos não define o break. E) erra porque não há contestação às mudanças culturais; a dança, ao contrário, expressa o mundo contemporâneo. Gabarito: B.",
   "hash": "8d09db511eb83fe7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q98": {
+  "assunto": "Literatura brasileira: prosa contemporânea",
+  "dificuldade": 4,
   "explicacao": "A questão pede a percepção que o olhar contemporâneo projeta no painel evolutivo de Bonassi. O texto parodia o relato da criação, em frases curtas e rápidas, mas mistura de modo irreverente Deus num raio, bichos que comem homens, a espada e o dever, a filosofia que explica como não fazer o que não se deve, números racionais e a História organizando eventos sem sentido, calmantes e estimulantes. O desfecho, “alguém apagou a luz” e “cada um se vira como pode, arrancando as cascas das feridas”, apresenta a vida atual como desordem. O tom é humorístico e irônico, e o caos é exposto de forma quase celebratória, o que justifica a alternativa D. A) erra porque a Bíblia é parodiada, não usada como inspiração. B) erra porque a filosofia é só um item ironizado, sem foco no conceito de dever. C) erra porque a História não é resgatada como método. E) erra porque matemática e medicina aparecem de passagem, sem sátira específica ao saber científico. Gabarito: D.",
   "hash": "ff48a7cd0460617f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q99": {
+  "assunto": "Literatura brasileira: poesia de Cecília Meireles",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que o eu lírico de Cântico VI exorta o interlocutor a perceber como próprio da condição humana. O poema se dirige a alguém que tem medo de acabar e mostra que ele já “acaba” todos os dias, morrendo e renovando-se no amor, na tristeza, na dúvida e no desejo, sendo sempre outro e sempre o mesmo. Essas experiências emocionais são vistas como pequenas mortes e renascimentos que transformam o ser. O final, “Até não teres medo de morrer. E então serás eterno”, aponta para uma superação espiritual alcançada justamente por meio da capacidade de sentir. Daí a alternativa A, a sublimação espiritual graças ao poder de se emocionar. B) erra porque o tom não é de desalento, mas de renovação. C) erra porque não há ceticismo. D) erra porque não se fala em perpetuar a adolescência. E) erra porque o medo de morrer deve ser superado, não é apresentado como receio ancestral da imprevisibilidade. Gabarito: A.",
   "hash": "e032f75285fab2e4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
