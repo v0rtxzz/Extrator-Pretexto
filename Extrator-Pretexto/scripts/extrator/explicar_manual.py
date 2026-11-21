@@ -184,6 +184,10 @@ def cmd_salvar(prova, arquivo):
         if ass is not None:
             ass = re.sub(r'\s+', ' ', ass).strip()
             geral, _, esp = ass.partition(':')
+            for g in sorted(ASSUNTOS[q['materia']], key=len, reverse=True):
+                if ass.startswith(g + ':'):  # o geral pode conter ':' (ex.: "Século XX: guerras e Guerra Fria")
+                    geral, esp = g, ass[len(g) + 1:]
+                    break
             if not esp.strip() or geral.strip() not in ASSUNTOS[q['materia']]:
                 erros.append(f'{qid}: assunto "{ass}" inválido; use "Assunto geral: específico" com o geral entre: '
                              + '; '.join(ASSUNTOS[q['materia']])); continue
