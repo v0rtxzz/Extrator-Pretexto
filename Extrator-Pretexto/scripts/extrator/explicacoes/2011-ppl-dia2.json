@@ -76,6 +76,181 @@
   "hash": "afd528915f44ff7a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2011-ppl-d2-q111": {
+  "assunto": "Coesão e coerência: retomada pronominal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o efeito obtido com o uso do pronome \"ele\" no texto de Carlos Heitor Cony. O pronome é um recurso de coesão referencial: retoma um nome já citado sem repeti-lo. No primeiro trecho, \"ele abria a janela\", \"ele abria a janela, olhava o mundo\" retomam Rubem Braga, mencionado logo antes. No segundo, \"Quando não havia assunto, ele inventava\" e \"Ele estava com o papel na máquina\" retomam Nelson Rodrigues. Como cada bloco começa nomeando o cronista, o leitor identifica sem dificuldade a quem o pronome se refere. Assim, o autor usa o mesmo mecanismo de articulação textual para falar dos dois cronistas. A alternativa A é falsa, pois não há confusão: cada pronome tem referente claro. A B atribui ao pronome uma comparação com preferência, o que ele não faz; o texto contrasta os métodos, mas não pelo pronome. A D erra, porque o texto mostra modos diferentes de lidar com a falta de assunto. A E é incorreta, já que o texto é claro e sem ambiguidade. Gabarito: C.",
+  "hash": "49a5685f69ea9c1e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q112": {
+  "assunto": "Artes visuais: xilogravura, cultura popular",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que retratam as xilogravuras nordestinas, como as de J. Borges. O texto apresenta o artista como gravador popular, ligado ao cordel, com títulos como O Verdadeiro Aviso de Frei Damião, referência a um beato muito venerado no sertão. A imagem, Iemanjá, mostra figuras femininas com cauda de peixe, cabelos longos ao vento e um sol com rosto, ou seja, seres fantásticos vindos das crenças populares. A xilogravura nordestina costuma representar justamente esse universo: personagens míticos, santos e beatos, cangaceiros, vaqueiros, figuras do imaginário religioso e do sertão. Por isso, a alternativa correta fala em personagens fantasiosos, beatos e cangaceiros presentes nas crenças da população. A alternativa A inventa vestes requintadas, que não aparecem. A B fala em futilidades dos mais necessitados, expressão preconceituosa e sem apoio no texto. A C diz que a intenção é valorizar diferenças sociais, o que não procede. A D fala de grandes cidades e representação realista, enquanto a obra é estilizada e ligada ao sertão. Gabarito: E.",
+  "hash": "182b0fd43484fc57",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q113": {
+  "assunto": "Funções da linguagem: função emotiva",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função da linguagem predominante no trecho de Armando Nogueira. O cronista descreve a bola de futebol de modo afetivo e pessoal: começa com \"Já reparei uma coisa\", atribui à bola qualidades humanas (\"ser muito compreensivo\", \"sapeca\", \"lambe a canela\") e termina com \"Parece um bichinho\". As personificações e o tom carinhoso revelam o olhar subjetivo do autor e seu encantamento pelo objeto. Quando a mensagem se centra no emissor, em seus sentimentos e impressões, predomina a função emotiva ou expressiva. A alternativa B descreve a função conativa, mas o texto não tenta influenciar o comportamento de ninguém. A C corresponde à função referencial, e a descrição aqui não é objetiva. A D trata de explicar significado e regras, próprio da função metalinguística ou referencial. A E define a função fática, centrada no contato com o leitor, que não aparece. Gabarito: A.",
+  "hash": "2baf37ac9c52f772",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q114": {
+  "assunto": "Literatura brasileira: Graciliano Ramos, Vidas secas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o recurso que comprova a postura distanciada do narrador no início de Vidas secas. O trecho é narrado em terceira pessoa, com frases curtas e diretas: \"Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos\"; \"Arrastaram-se para lá, devagar\". O vocabulário é seco, preciso, sem adjetivação excessiva nem comentários sentimentais, e as ações seguem em ordem cronológica: caminham, avistam os juazeiros, sobem a ladeira, chegam à sombra. Essa sobriedade lexical e essa sequência linear fazem o narrador apenas mostrar a miséria, sem enfeitá-la, o que reforça o efeito de distância. A alternativa A fala em paisagem pitoresca, mas a caatinga é descrita como hostil, com \"galhos pelados\". A B supõe equilíbrio entre aspectos físicos e psicológicos, quando o trecho privilegia o físico. A D fala em caricatura, inexistente: os personagens não são ridicularizados. A E aponta metaforização do espaço, mas a linguagem é predominantemente literal. Gabarito: C.",
+  "hash": "8f1418ea2b2e442b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q115": {
+  "assunto": "Funções da linguagem: função referencial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede em qual elemento da comunicação o autor centra o objetivo do texto. A matéria da Veja informa descobertas sobre a origem do homem: uma falange encontrada na Sibéria revelou nova espécie de hominídeo de 50 mil anos, e cientistas sul-africanos encontraram ossadas de um menino de 12 anos e de uma mulher de 30 na caverna Malapa, perto de Johannesburgo. O texto traz dados, lugares e números, em linguagem objetiva e em terceira pessoa. Quando o foco está no conteúdo, no referente, e a intenção é informar, predomina a função referencial. A alternativa A descreve a função metalinguística, voltada ao próprio código. A B corresponde à função emotiva, mas não há expressão de sentimentos do autor. A C indica a função conativa, e o texto não tenta levar o leitor a agir. A D refere-se à função fática, ausente no trecho. Gabarito: E.",
+  "hash": "57a375108c9987a5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q116": {
+  "assunto": "Gêneros textuais: crônica, Machado de Assis",
+  "dificuldade": 2,
+  "explicacao": "A questão pede quais características da crônica Machado de Assis demonstra conhecer em O nascimento da crônica. O texto parte de uma trivialidade do dia a dia, o calor, e mostra como dela se chega aos fenômenos atmosféricos, à febre amarela, a Petrópolis, isto é, aos fatos do cotidiano comentados de modo pessoal e bem-humorado. Há interpelação direta ao público (\"Mas, leitor amigo\"), o que cria diálogo com o leitor, e o texto é curto, em tom de conversa. Essas são marcas típicas da crônica: brevidade, diálogo com o leitor e registro pessoal do cotidiano. A alternativa B fala em linguagem denotativa e exposição sucinta, mas o texto é irônico e cheio de digressões. A C aponta conflitos internos, próprios do conto. A D menciona criação de tensões, característica de narrativas de enredo. A E descreve a notícia, com linguagem impessoal, o oposto do estilo machadiano. Gabarito: A.",
+  "hash": "2133938674c60948",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q117": {
+  "assunto": "Funções da linguagem: função referencial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o objetivo com que o fragmento foi construído. O texto relata que um asteroide de cerca de mil metros de diâmetro, a 288 mil km/h, passou a pouco mais do dobro da distância Terra–Lua, cruzando a órbita terrestre. Em seguida, apresenta cálculos da Nasa sobre o que ocorreria em caso de impacto: energia de 40 bilhões de toneladas de TNT, cratera de ao menos 5 km, maremotos. Predominam dados, números e fontes, ou seja, informações sobre um fato do mundo exterior, o que caracteriza a função referencial. A expressão final, \"uma visão do Apocalipse\", só reforça a gravidade, sem mudar o caráter informativo. A alternativa A descreve a função metalinguística ou poética, não predominante. A B corresponde à função fática, ausente. A D fala em persuadir a tomar medidas ambientais, sem relação com o texto. A E atribui ao texto reflexões pessoais do autor, mas os dados são objetivos. Gabarito: C.",
+  "hash": "8d2eb8c2acf47c13",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q118": {
+  "assunto": "Variação linguística: estrangeirismos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a crítica presente na tirinha da Mafalda. No primeiro quadrinho, Mafalda lê na cartilha \"Ema vê a mesa da sala de estar\". No segundo, pergunta: \"Mamãe, o que é sala de estar?\". A mãe responde \"É living\", e Mafalda diz \"Ah, bom!\". No último, irritada, reclama: \"Afinal, por que eles não escrevem esses livros na língua da gente?\". O humor está na inversão: a criança conhece a palavra inglesa living, usada no dia a dia, e não a expressão em português. A tirinha critica, portanto, a força dos estrangeirismos, sobretudo do inglês, que substituem termos da própria língua. A alternativa A é falsa, pois a mãe responde à filha. A B critica a língua e suas regras, o que não ocorre. A C fala em linguagem rebuscada, mas \"sala de estar\" é expressão comum. A E culpa a metodologia de ensino, quando o problema é o uso cotidiano do estrangeirismo. Gabarito: D.",
+  "hash": "bcb086e02232cd5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q119": {
+  "assunto": "Interpretação de texto: enumeração e sentido",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que demonstra a enumeração do último período do texto. O autor afirma que o dinheiro media a maioria das relações humanas e define moradia, alimentação, vestuário, educação e saúde. Depois enumera pares opostos: \"ricos e pobres, materialistas e desprendidos, avarentos e perdulários, portadores ou não de cartões de crédito\" e conclui que \"todos têm de saber lidar com o dinheiro\". Ao juntar perfis contrários numa mesma lista, o autor mostra que ninguém escapa dessa necessidade; todos estão em igualdade diante da relação pessoal com o dinheiro. A alternativa A fala de preocupação com os mais pobres, mas eles aparecem ao lado dos ricos, sem destaque. A B destaca o desprendimento, que é apenas um dos perfis citados. A D enfatiza os cartões de crédito, um item entre outros. A E aponta inquietação com o materialismo, o que o texto não expressa. Gabarito: C.",
+  "hash": "d03c4311aec67acc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q120": {
+  "assunto": "Variação linguística: formação do português brasileiro",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o resultado do contato entre o português dos colonizadores e as línguas indígenas e africanas. O texto afirma que esse contato, envolvendo mais de mil línguas autóctones e cerca de duzentas línguas africanas, é o principal parâmetro histórico para entender as mudanças do português brasileiro e suas variedades regionais (diatópicas) e sociais (diastráticas). Ou seja, foi esse processo que formou o português falado no Brasil, com suas marcas próprias. O português brasileiro, construído nessa mistura, é parte do patrimônio linguístico e expressa a identidade nacional. A alternativa A trata da escravidão como fato social, não como resultado linguístico. A C fala em isolamento dos índios, o que contraria a ideia de contato. A D aborda desigualdade de consumo, sem relação com o texto. A E exalta a supremacia portuguesa, enquanto o texto destaca as contribuições indígenas e africanas. Gabarito: B.",
+  "hash": "0a58a8c3c4600502",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q121": {
+  "assunto": "Variação linguística: regionalismo gaúcho",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que destaca a variação linguística no fragmento de Simões Lopes Neto. O texto, do regionalismo gaúcho, está repleto de palavras típicas do Rio Grande do Sul: \"quebralhão\" (valentão, festeiro), \"despilchado\" (sem dinheiro ou sem enfeites), \"ponchada\" (grande quantidade), \"balastracas\" (moedas), \"gurizada\" (meninada), \"laçaço\", \"palheta\", \"lombeando-se\". Esse léxico identifica o lugar de origem do narrador e do personagem, configurando variação regional (diatópica) marcada sobretudo pelo vocabulário. A alternativa A fala em inovação sintática, mas a estrutura das frases é comum; o que se destaca são as palavras. A C menciona diálogo entre falantes de origens sociais diferentes, e o trecho não tem diálogo. A D é incorreta, porque o vocabulário regional se afasta do padrão culto, ainda que a grafia seja convencional. A E fala em falas de crianças e adultos, inexistentes. Gabarito: B.",
+  "hash": "cd8e2fde9bf70a93",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q122": {
+  "assunto": "Publicidade e linguagem midiática: campanha educativa",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo da peça publicitária divulgada na época da Lei Seca. A imagem é dividida em duas partes: à esquerda, garrafas de cerveja geladas, embaçadas; à direita, pés de um cadáver com etiqueta, como num necrotério. Sobre ambas, a frase \"Estupidamente gelada\", expressão comum em propagandas de cerveja que, aqui, ganha duplo sentido: refere-se à bebida e ao corpo frio de quem morreu por estupidez. Embaixo, a mensagem \"Não dirigir quando beber. Esse é o código. Código de Trânsito Brasileiro\". A peça, portanto, quer mostrar que bebida e direção não combinam, ou seja, são incompatíveis. A alternativa A fala em reduzir gradativamente, mas a mensagem é de proibição total. A B associa bebida à morte na juventude, sem referência à idade. A C trata dos efeitos do álcool no organismo em geral, não no trânsito. A E sugere evitar um tipo específico de bebida, o que não se propõe. Gabarito: D.",
+  "hash": "3e59f298936b0371",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q123": {
+  "assunto": "Interpretação de texto: relação entre textos, cultura afro-brasileira",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se constata ao relacionar os dois textos sobre a influência africana no Brasil. O Texto I diz que metade dos nossos antepassados veio da África entre os séculos XVII e XIX, que suas línguas mudaram o português e que as influências aparecem na estética, na culinária, nos costumes e na religião, permanecendo até hoje. O Texto II é uma fotografia de um cais em Salvador no século XX, registrando a presença negra no cotidiano da cidade. Juntos, mostram que a identidade nacional brasileira se construiu com forte participação da cultura africana. A alternativa A diz que a contribuição não é comprovada, o oposto do texto. A B exagera: o texto afirma que ainda há muito a descobrir, mas lembra que os estudos existem desde o começo do século XX. A D atribui aos negros toda a formação cultural, ignorando outras matrizes. A E nega a influência linguística, que o Texto I afirma explicitamente. Gabarito: C.",
+  "hash": "b55d41469bc8602f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q124": {
+  "assunto": "Publicidade e linguagem midiática: anúncio de adoção",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a intenção do anúncio. A imagem mostra um cão preto atrás das grades de um canil, com olhar triste voltado para o leitor. A legenda, em primeira pessoa, dá voz ao animal: \"Eu sei sentar, deitar e rolar. Só não sei como vim parar aqui.\" No canto, aparece a assinatura \"Adotar é tudo de bom\". O cão se apresenta como bem-comportado e abandonado sem motivo, despertando a compaixão do leitor; a assinatura indica a solução proposta, a adoção. Assim, o anúncio valoriza a adoção como saída para o drama do abandono de animais. A alternativa A fala em perigos dos animais, mas o cão aparece como vítima. A B trata de cuidados com os cães, tema ausente. A C vê protesto contra a prisão de animais, mas o canil é o cenário do abandono, não o alvo da crítica. A D sugere brincadeiras com crianças, que não aparecem. Gabarito: E.",
+  "hash": "9c3202eb64c958f2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q125": {
+  "assunto": "Variação linguística: adequação ao contexto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o exemplo de variedade linguística adequada à situação de uso. Adequação significa escolher o registro conforme o contexto: formal em situações oficiais, informal em situações íntimas. Na alternativa D, a criança fala com a mãe sobre a mesada, situação familiar e descontraída; expressões como \"Dá pra liberar\" e \"notão\" são próprias desse contexto, e por isso a fala é adequada. A alternativa A é inadequada, pois um professor de ensino superior, ao iniciar a aula, usa gírias excessivas (\"galerinha do mal\", \"negócio\"). A B traz um discurso oficial com o erro \"cidadões\", impróprio para a norma esperada. A C apresenta um memorando, documento formal, escrito com linguagem informal (\"dê uma chegadinha\", \"besteira\"). A E mostra uma mãe usando linguagem exageradamente formal (\"Caro descendente\", \"por obséquio\") numa conversa doméstica. Gabarito: D.",
+  "hash": "faa28de1e19abba7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q126": {
+  "assunto": "Gêneros textuais: anúncio publicitário",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gênero do texto. A peça diz \"Não gaste água, invista. Chegou o Banco Água\", explica que o banco premia clientes pela economia de água, que cada litro poupado vira pontos e que esses pontos geram descontos em compras. Termina com \"Saiba como abrir uma conta pelo nosso site\" e \"Abra hoje mesmo uma conta\". Há slogan, apelo ao leitor com verbos no imperativo, ícones explicativos e o objetivo claro de conquistar clientes para um serviço de uma instituição financeira. Trata-se, portanto, de uma peça publicitária, ainda que use o tema ecológico como atrativo. A alternativa B chama o texto de panfleto de orientação ecológica, mas o foco é vender o serviço. A C fala em manifesto de ambientalistas, quando quem fala é o banco. A D classifica como reportagem, que exigiria apuração jornalística. A E chama de notícia, mas o texto não relata um fato com neutralidade; convida a abrir conta. Gabarito: A.",
+  "hash": "79321218b7717206",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q127": {
+  "assunto": "Tecnologias da informação e comunicação: impacto social",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a conclusão coerente com a ideia de que a vida moderna é profundamente influenciada pelas tecnologias da informação e da comunicação. O texto diz que, desde o nascimento, estamos imersos em ambiente tecnológico: rádio, TV, cinema, internet, redes sociais; usamos a tecnologia para falar com amigos, trabalhar e comprar; e, nas ruas, somos tomados por informações em outdoors, cartazes e bancas. Isso descreve um mundo de fluxo intenso e rápido de informações que interfere no modo como as pessoas se relacionam. A alternativa A usa \"exclusivamente\", exagero que o texto não sustenta. A C afirma perda da capacidade de comunicação por outros meios, conclusão excessiva. A D diz que a familiaridade ocorre só na vida adulta, quando o texto fala em imersão desde o nascimento. A E estabelece uma hierarquia de importância entre meios que o texto não faz. Gabarito: B.",
+  "hash": "09deca3cd42971be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q128": {
+  "assunto": "Tecnologias da informação e comunicação: redes sociais",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que revela a atitude do rapaz na tirinha de Bruno Drummond. A moça, de celular na mão, pergunta se ele tem Twitter, Facebook, MSN, blog, Orkut, e ele responde \"não\" a tudo. Espantada, ela pergunta: \"Meu Deus! Como você se relaciona com as pessoas?\". No último quadrinho, ele a beija e responde: \"Assim\". O humor mostra que o rapaz prefere o contato pessoal, direto, e não depende das redes virtuais. O Texto II informa o crescimento das ferramentas de interação on-line, o que reforça o contraste. A atitude dele é, portanto, de resistência à interferência das tecnologias nas relações. A alternativa A contradiz a tirinha, pois ele dispensa a internet. A B diz que ele precisa das ferramentas, o oposto. A D fala em adequação dos jovens às redes, e o rapaz é justamente a exceção. A E aponta aceitação das redes, o contrário do que ele demonstra. Gabarito: C.",
+  "hash": "c17d7eed41d65ee8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q129": {
+  "assunto": "Gramática: formação de palavras, neologismos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que representam as palavras \"bandalargou-se\", \"infoviabilizou\" e \"internetinho\" na canção de Gilberto Gil. Todas são neologismos formados com processos regulares do português: \"bandalargou-se\" transforma a expressão \"banda larga\" em verbo pronominal; \"infoviabilizou\" junta \"info\" (de informação ou infovia) a \"viabilizar\"; \"internetinho\" aplica o sufixo diminutivo \"-inho\" a \"internet\". O texto fala da chegada da internet a Piraí e do menino que quer iPod e computador novo, isto é, do contato cotidiano com a cultura digital. Essas criações mostram a língua se renovando e ampliando o vocabulário sob influência das novas tecnologias. A alternativa B é falsa, pois as palavras seguem justamente regras de formação. A C fala em falares arcaicos, o oposto do tema. A D erra, porque os termos foram adaptados à morfologia portuguesa. A E menciona conceitos ultrapassados, contradizendo a novidade tecnológica. Gabarito: A.",
+  "hash": "94c586f2f7ee5ec1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q130": {
+  "assunto": "Argumentação: texto publicitário persuasivo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo do anúncio sobre sacolas. O texto apresenta argumentos contra as sacolas plásticas descartáveis: levam mais de 300 anos para se degradar, até 1 trilhão são produzidas por ano no mundo, o Brasil produz mais de 12 bilhões e 80% são usadas uma única vez; além disso, entopem bueiros, causam enchentes e matam animais marinhos. Cita supermercados que já sugerem caixas de papelão e sacolas duráveis e fecha dizendo que as descartáveis são gratuitas, mas têm custo incalculável para o ambiente. Todos os argumentos convergem para convencer o consumidor a deixar de usar sacolas plásticas descartáveis. A alternativa B restringe o objetivo à compra de sacolas de pano, que são só uma das opções citadas. A C fala em campanhas de consumo consciente, ideia mais ampla que o texto não propõe. A D toma um argumento, o dos animais marinhos, como se fosse o objetivo. A E fala em reutilização, mas o texto sugere trocar por alternativas duráveis. Gabarito: A.",
+  "hash": "e6a21c64409798f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q131": {
+  "assunto": "Publicidade e linguagem midiática: campanha ambiental",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o principal objetivo do anúncio da WWF. O texto diz: \"Para ter ideia do que é um mundo sem água, imagine você sem 70% do seu corpo\". Ao lado, a foto mostra uma criança carregando um balde num terreno seco e rachado. O anúncio compara o planeta ao corpo humano, ambos com grande proporção de água, para que o leitor sinta na própria pele o que seria a falta dela. A combinação de texto e imagem busca conscientizar sobre a escassez de água e o modo como o uso excessivo agride o planeta, levando o leitor a repensar seu consumo. A alternativa A interpreta literalmente a comparação, que é apenas uma figura. A B fala em confrontar opiniões, mas não há debate no anúncio. A C sugere mera enumeração de fatos, quando o texto é persuasivo. A E diz que pessoas vivem sem água em sacrifício pelo planeta, ideia sem sentido no anúncio. Gabarito: D.",
+  "hash": "e3a5a49c3cd83866",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q132": {
+  "assunto": "Variação linguística: concordância verbal, registros",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que se observa na charge quanto aos registros dos falantes. O homem de terno preto pergunta: \"Já chegou todos os convidados?\", deixando o verbo no singular, embora o sujeito \"todos os convidados\" esteja no plural. O outro responde: \"Não, só chegaram os familiares da noiva\", fazendo a concordância exigida pela norma padrão, com o verbo no plural concordando com o sujeito posposto. As palavras sublinhadas na charge destacam exatamente esse contraste. Há, portanto, dois registros diferentes, com regras distintas de concordância verbal. A alternativa A é falsa, pois a situação é uma recepção informal e ambos falam de modo compreensível; o contraste está na concordância. A C diz que o homem de preto usa registro muito formal, mas é ele quem foge da norma. A D afirma que ambos estão inadequados, e o segundo segue a norma. A E fala de consenso quanto à regência, quando a diferença é de concordância. Gabarito: B.",
+  "hash": "00a865ba5975ea1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q133": {
+  "assunto": "Gêneros textuais: gêneros jornalísticos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o gênero do texto Árvore da Língua, do domínio jornalístico. O texto é curto e descreve uma instalação: 16 metros de altura, três andares, palavras de mais de 6 mil anos projetadas em folhas, a evolução do indo-europeu ao latim e ao português, criação de Rafic Farah e mantra de Arnaldo Antunes. Não narra um fato com data, nem aprofunda um tema com várias fontes; apenas apresenta dados objetivos sobre um objeto específico. Isso caracteriza um quadro informativo, comum em revistas como complemento de matérias. A alternativa B não serve, pois não há fato novo noticiado com os elementos de quando e onde aconteceu. A C exigiria abordagem ampla e aprofundada, que o texto não tem. A D descreve a legenda, que acompanha uma imagem e é ainda mais curta. A E é falsa, pois não há perguntas e respostas nem opinião de entrevistado. Gabarito: A.",
+  "hash": "45fdb82753b44368",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q134": {
+  "assunto": "Gêneros textuais: ficha catalográfica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o gênero do texto usado em bibliotecas. O texto traz o título \"Dados Internacionais de Catalogação na Publicação\", o nome da biblioteca, o autor institucional (DETRAN-GO), o título da obra (Manual de primeiros socorros no trânsito), o organizador, local, editora, ano, número de páginas, assuntos numerados e a classificação CDU. Essas informações servem para identificar e catalogar a obra, permitindo localizá-la no acervo. Trata-se da ficha catalográfica. A alternativa A chama o texto de aviso, mas ele não alerta nem instrui. A C fala em formulário, que teria campos a preencher. A D reduz o texto a uma lista de assuntos, que é só uma de suas partes. A E confunde com o próprio título da obra catalogada, Manual, e o texto não descreve passos de busca. Gabarito: B.",
+  "hash": "bf84799b1ccca8a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q135": {
+  "assunto": "Interpretação de texto: intertextualidade, cartum",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a crítica feita pelo cartum de Luscar por meio da intertextualidade. A imagem imita uma previsão do tempo de telejornal: um apresentador aponta com uma vareta para o mapa do Brasil, todo pintado de preto. Mas, em vez de falar de chuva ou temperatura, ele diz: \"E vamos à previsão de mortos e feridos para esta semana...\". O cartum dialoga com o gênero boletim meteorológico e sugere que a violência no país é tão frequente e previsível quanto o clima, sendo noticiada como rotina pela mídia. A crítica recai, portanto, sobre os altos níveis de violência veiculados pelos meios de comunicação. A alternativa A fala da qualidade da informação, mas o problema apontado é a realidade violenta. A C menciona imparcialidade dos telejornais, sem relação com a charge. A D fala em ausência de critérios na divulgação, o que não é o foco. A E acusa a mídia de incentivar a violência, ideia que o cartum não sugere. Gabarito: B.",
+  "hash": "4577ebf29d59b41b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2011-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de texto informativo",
   "dificuldade": 1,
