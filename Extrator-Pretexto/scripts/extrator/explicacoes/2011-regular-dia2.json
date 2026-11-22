@@ -251,6 +251,321 @@
   "hash": "3925308af8a86158",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2011-regular-d2-q136": {
+  "assunto": "Aritmética: comparação de números decimais",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o pistão cujo diâmetro está mais próximo de 68 mm. Basta calcular a diferença entre cada medida e 68 mm, tomando cuidado com as casas decimais, que são o ponto em que muitos alunos se confundem. As diferenças são: 68,21 − 68 = 0,21 mm; 68,102 − 68 = 0,102 mm; 68,02 − 68 = 0,02 mm; 68,012 − 68 = 0,012 mm; 68,001 − 68 = 0,001 mm. Comparando os decimais com o mesmo número de casas (0,210; 0,102; 0,020; 0,012; 0,001), a menor diferença é 0,001 mm, ou seja, um milésimo de milímetro. Portanto, o pistão de 68,001 mm é o mais próximo do necessário. A alternativa A tem a maior diferença, 0,21 mm, apesar de parecer \"curta\" por ter só duas casas. A alternativa B difere 0,102 mm, um décimo de milímetro. A alternativa C difere 0,02 mm, vinte vezes mais que o correto. A alternativa D difere 0,012 mm, doze vezes mais que o correto. Gabarito: E.",
+  "hash": "95c947f1c935ec8b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q137": {
+  "assunto": "Funções exponencial e logarítmica: equação logarítmica",
+  "dificuldade": 3,
+  "explicacao": "A questão fornece a relação entre a magnitude M_w e o momento sísmico M₀ e pede M₀ para o terremoto de Kobe, com M_w = 7,3. Basta substituir na fórmula e isolar o logaritmo. Temos 7,3 = −10,7 + (2/3)·log₁₀(M₀). Somando 10,7 aos dois lados: 18 = (2/3)·log₁₀(M₀). Multiplicando por 3/2: log₁₀(M₀) = 27. Pela definição de logaritmo, M₀ = 10²⁷ dina·cm. A alternativa A, 10^(−5,10), surge de errar o sinal ao isolar o termo. A alternativa B, 10^(−0,73), aparece ao manipular 7,3 sem considerar corretamente o −10,7. A alternativa C, 10¹², vem de usar 18 sem multiplicar por 3/2 corretamente (multiplicando por 2/3). A alternativa D, 10^21,65, resulta de multiplicar 7,3 diretamente ou de outra manipulação incorreta da fórmula. Gabarito: E.",
+  "hash": "6deafb0993d16b1f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q138": {
+  "assunto": "Grandezas e medidas: conversão de unidades de comprimento",
+  "dificuldade": 1,
+  "explicacao": "A questão pede que as medidas indicadas na figura do carro sejam convertidas para metros. Na imagem, a distância entre os eixos é a = 2 300 mm e a altura entre o solo e o encosto do piloto é b = 160 cm. Lembre que 1 m = 1 000 mm e 1 m = 100 cm. Assim, a = 2 300 ÷ 1 000 = 2,3 m e b = 160 ÷ 100 = 1,6 m. Os valores fazem sentido: um carro com cerca de 2 metros entre eixos e 1,6 m de altura é algo realista. A alternativa A divide por dez a mais em cada medida. A alternativa C converte as medidas para decímetros, não para metros. A alternativa D mantém as medidas em centímetros. A alternativa E mantém as medidas em milímetros. Gabarito: B.",
+  "hash": "b2cbf5675aa313ed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q139": {
+  "assunto": "Grandezas e medidas: leitura de medidor de energia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a leitura do medidor de energia formado por quatro relógios (milhar, centena, dezena e unidade). A regra dada é: em cada relógio vale o último algarismo ultrapassado pelo ponteiro, respeitando o sentido de rotação indicado pela seta. Na figura, os relógios alternam o sentido: no do milhar os números crescem no sentido anti-horário (0, 1, 2, 3 pela esquerda); no da centena, no sentido horário; no da dezena, anti-horário; no da unidade, horário. Lendo cada um: no milhar, o ponteiro está entre 2 e 3, então vale 2; na centena, está entre 6 e 7, vale 6; na dezena, está logo após o 1, vale 1; na unidade, está entre 4 e 5, vale 4. A leitura é 2 614 kWh. A alternativa B arredonda o milhar e a dezena para cima. A alternativa C troca a dezena e a unidade pelo algarismo seguinte. A alternativa D usa sempre o algarismo seguinte ao ponteiro. A alternativa E lê os algarismos em ordem errada. Gabarito: A.",
+  "hash": "50222af280efe3e3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q140": {
+  "assunto": "Geometria plana: perímetro e área de retângulos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o terreno retangular de maior área cujo perímetro não ultrapasse 180 m, pois essa é a quantidade máxima de tela para cercar a praça. Primeiro calculamos o perímetro de cada terreno, P = 2·(comprimento + largura). Terreno 1: 2·(55 + 45) = 200 m, não atende. Terreno 2: 2·(55 + 55) = 220 m, não atende. Terreno 3: 2·(60 + 30) = 180 m, atende. Terreno 4: 2·(70 + 20) = 180 m, atende. Terreno 5: 2·(95 + 85) = 360 m, não atende. Entre os que atendem, comparamos as áreas: terreno 3 tem 60 × 30 = 1 800 m² e terreno 4 tem 70 × 20 = 1 400 m². Logo, o terreno 3 é a melhor escolha. A alternativa A tem área grande, mas exige 200 m de tela. A alternativa B é a de maior área entre os quadrados, mas precisa de 220 m. A alternativa D cabe no orçamento, porém tem área menor. A alternativa E é a maior de todas, mas exige o dobro da tela permitida. Gabarito: C.",
+  "hash": "da3e91736c4da61e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q141": {
+  "assunto": "Razão e proporção: grandezas diretamente proporcionais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quanto tempo a mais será necessário se cada atividade for ajustada para gastar exatamente 200 calorias. Use proporcionalidade direta entre tempo e calorias em cada atividade. Agachamentos: 100 calorias em 20 min, então 200 calorias exigem 40 min, ou seja, 20 min a mais. Supermercado: 100 calorias em 30 min, então 200 calorias exigem 60 min, 30 min a mais. Jardim, passeio com o cachorro e lavar roupas já gastam 200 calorias em 30 min, sem acréscimo. Tirar o pó: 150 calorias em 30 min, então cada caloria leva 0,2 min e 200 calorias levam 40 min, 10 min a mais. Somando os acréscimos: 20 + 30 + 10 = 60 minutos. A alternativa A esquece um dos ajustes. A alternativa C soma acréscimos superestimados. A alternativa D confunde o tempo total das atividades ajustadas com o tempo a mais. A alternativa E soma tempos totais de forma incorreta. Gabarito: B.",
+  "hash": "fa7d6cd0751239c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q142": {
+  "assunto": "Medidas de tendência central: média, moda, mediana",
+  "dificuldade": 3,
+  "explicacao": "A questão pede média, mediana e moda das 15 temperaturas do quadro: 15,5; 14; 13,5; 18; 19,5; 20; 13,5; 13,5; 18; 20; 18,5; 13,5; 21,5; 20; 16. Média: a soma é 255, e 255 ÷ 15 = 17 °C. Mediana: ordenando os valores, temos 13,5; 13,5; 13,5; 13,5; 14; 15,5; 16; 18; 18; 18,5; 19,5; 20; 20; 20; 21,5. Com 15 dados, a mediana é o 8º termo, que vale 18 °C. Moda: o valor mais frequente é 13,5 °C, que aparece quatro vezes (20 aparece três vezes). Portanto, média 17 °C, mediana 18 °C e moda 13,5 °C. A alternativa A usa 17 °C como mediana, confundindo-a com a média. A alternativa C inverte mediana e moda. A alternativa D toma como moda o maior valor. A alternativa E coloca a moda no lugar da mediana e o maior valor como moda. Gabarito: B.",
+  "hash": "9c1666dd6e867831",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q143": {
+  "assunto": "Escalas: maquete e conversão de unidades",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as dimensões, em centímetros, da maquete de uma quadra de 28 m por 12 m na escala 1 : 250. Essa escala significa que cada 1 cm da maquete representa 250 cm reais. Primeiro convertemos as medidas reais para centímetros: 28 m = 2 800 cm e 12 m = 1 200 cm. Depois dividimos por 250: comprimento 2 800 ÷ 250 = 11,2 cm e largura 1 200 ÷ 250 = 4,8 cm. Assim, a maquete terá 11,2 cm de comprimento e 4,8 cm de largura, nessa ordem. A alternativa A tem os valores certos, mas inverte comprimento e largura. A alternativa B parece dividir por 400, não por 250. A alternativa D apenas troca metros por centímetros, sem aplicar a escala. A alternativa E apresenta valores sem relação correta com a escala. Gabarito: C.",
+  "hash": "0a7bef42b58946ff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q144": {
+  "assunto": "Geometria espacial: cubo, pirâmide e secções planas",
+  "dificuldade": 4,
+  "explicacao": "A questão descreve uma pirâmide de base quadrada ABCD e vértice O, no centro da face superior de um cubo, obtida por quatro cortes planos que saem de O em direção às arestas da base, na ordem AD, BC, AB e CD. Pede-se o formato dos quatro sólidos descartados. O ponto-chave é que a ordem dos cortes muda a forma das peças. O primeiro corte (por O e AD) retira um prisma triangular que ocupa toda a extensão da face lateral do cubo, com os dois cantos superiores. O segundo corte (por O e BC), na face oposta, retira um prisma idêntico ao primeiro, por simetria. Sobra um sólido cujo topo é apenas a aresta que passa por O. O terceiro corte (por O e AB) retira então uma peça menor, sem os cantos já removidos, e o quarto corte (por O e CD) retira uma peça congruente a ela. Logo, há dois pares de sólidos iguais: os sólidos são iguais dois a dois. A alternativa A ignora o efeito da ordem dos cortes. A alternativa B ignora a simetria entre cortes opostos. A alternativa C supõe três peças iguais, o que não ocorre. A alternativa D esquece que o segundo par também é congruente. Gabarito: E.",
+  "hash": "9380c95a5f3997cf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q145": {
+  "assunto": "Grandezas e medidas: conversão de volume, fração",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a previsão do consumo de café em 2010, em litros, sabendo que no ano anterior foram 331 bilhões de xícaras de 120 mL e que o consumo aumentará 1/5. Primeiro, aplicamos o aumento: 331 bilhões × (1 + 1/5) = 331 × 1,2 = 397,2 bilhões de xícaras. Depois convertemos para litros: 120 mL = 0,12 L, então 397,2 bilhões × 0,12 L ≈ 47,7 bilhões de litros, ou seja, cerca de 48 bilhões de litros. Outra forma: o consumo do ano anterior foi 331 × 0,12 ≈ 39,7 bilhões de litros; somando 1/5 (≈ 7,9), chega-se a ≈ 47,6. A alternativa A corresponde apenas ao aumento de 1/5. A alternativa B não tem relação direta com o cálculo. A alternativa C corresponde a uma conversão incorreta. A alternativa D é o consumo do ano anterior, sem o aumento. Gabarito: E.",
+  "hash": "b1adc04961d35fb4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q146": {
+  "assunto": "Escalas: escala cartográfica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a escala de um mapa em que 8 cm representam 2 000 km reais. Escala é a razão entre a medida no mapa e a medida real, na mesma unidade. Convertendo 2 000 km para centímetros: 1 km = 100 000 cm, então 2 000 km = 200 000 000 cm. A escala fica 8 : 200 000 000. Dividindo ambos os termos por 8, obtemos 1 : 25 000 000. Isso quer dizer que cada centímetro do mapa corresponde a 25 000 000 cm, ou seja, 250 km reais, o que é coerente com a distância entre São Paulo e Alagoas. As alternativas A, B, C e D têm a mesma sequência de algarismos, mas com zeros a menos, resultado de erros na conversão de quilômetros para centímetros; por exemplo, 1 : 250 000 corresponderia a apenas 20 km reais, e 1 : 250 a apenas 20 m. Gabarito: E.",
+  "hash": "d8bcabaa121a3ab4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q147": {
+  "assunto": "Geometria espacial: sólidos de revolução, cone",
+  "dificuldade": 1,
+  "explicacao": "A questão mostra a figura de uma sombrinha oriental e pede o nome da superfície de revolução que ela representa. Na imagem, as varetas partem de um único ponto no topo e se abrem até uma borda circular, formando uma superfície lateral sem tampa, com um vértice e uma base em forma de círculo. Essa é exatamente a superfície obtida ao girar um segmento inclinado (a geratriz) em torno de um eixo que passa pelo vértice: o cone. A alternativa A, pirâmide, não é superfície de revolução e tem base poligonal. A alternativa B, semiesfera, teria contorno arredondado, e não varetas retas. A alternativa C, cilindro, tem duas bases circulares paralelas e geratrizes paralelas ao eixo. A alternativa D, tronco de cone, não teria vértice, pois seria cortado por um plano paralelo à base. Gabarito: E.",
+  "hash": "670d4ddb477b9317",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q148": {
+  "assunto": "Grandezas e medidas: conversão de metros e pés",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a diferença, em pés, entre a altitude liberada na Finlândia (acima de 31 mil pés) e no restante da Europa (acima de 6 000 metros), usando 1 m ≈ 3,3 pés. É preciso colocar as duas altitudes na mesma unidade antes de subtrair. Convertendo 6 000 m: 6 000 × 3,3 = 19 800 pés. A diferença é 31 000 − 19 800 = 11 200 pés. Ou seja, na Finlândia os voos precisavam estar 11 200 pés mais altos que no restante do continente. A alternativa A não corresponde a uma conversão correta. A alternativa B resulta de erro na subtração ou na conversão. A alternativa D é apenas a altitude europeia convertida para pés. A alternativa E soma as duas altitudes em vez de subtraí-las. Gabarito: C.",
+  "hash": "f2685ce4b13c65a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q149": {
+  "assunto": "Grandezas e medidas: fórmulas, IMC e IAC",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] O texto extraído está corrompido: a fórmula do IAC e as aproximações (√3 ≈ 1,7 e √1,7 ≈ 1,3) aparecem incompletas, e a alternativa A está embaralhada (deveria ser \"reduzir seu excesso de gordura em cerca de 1%\"). A questão pede o que a jovem deve fazer para ter IAC normal (entre 19% e 26% em mulheres). A fórmula da figura é IAC = quadril (cm) ÷ [altura (m) × √altura] − 18. Primeiro, achamos a altura pelo IMC: IMC = massa ÷ altura², então 20 = 60 ÷ h², h² = 3 e h = √3 ≈ 1,7 m. Agora, √1,7 ≈ 1,3, logo altura × √altura ≈ 1,7 × 1,3 = 2,21. IAC ≈ 100 ÷ 2,21 − 18 ≈ 45,2 − 18 ≈ 27,2%. Como o limite normal é 26%, ela deve reduzir cerca de 1% de gordura. A alternativa B confunde o próprio IAC com o excesso. A alternativa C ignora que 27% está acima do normal. A alternativa D inverte o sentido. A alternativa E inverte o sentido e usa o valor total. Gabarito: A.",
+  "hash": "0ba48a320f19e42d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q150": {
+  "assunto": "Geometria analítica: equação da reta, distância entre pontos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede um ponto que seja estação de metrô, ou seja, que pertença à reta y = x + 4, e cuja distância ao hospital P(−5, 5) seja no máximo 5 km. É preciso checar as duas condições. A distância entre pontos é d = √[(x₂ − x₁)² + (y₂ − y₁)²]. Ponto (−3, 1): está na reta, pois −3 + 4 = 1; a distância é √[(−3 + 5)² + (1 − 5)²] = √(4 + 16) = √20 ≈ 4,47 km, que é menor que 5 km. Logo, atende às duas exigências. Verificando os outros: (−5, 0) está a exatamente 5 km, mas não está na reta, pois −5 + 4 = −1. (−2, 1) também não está na reta, pois −2 + 4 = 2. (0, 4) está na reta, mas fica a √(25 + 1) = √26 ≈ 5,1 km. (2, 6) está na reta, mas a distância é √(49 + 1) = √50 ≈ 7,1 km. Gabarito: B.",
+  "hash": "455ea1666dd7888b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q151": {
+  "assunto": "Geometria plana: simetria de rotação",
+  "dificuldade": 3,
+  "explicacao": "A questão mostra uma calçada formada por peças de concreto encaixadas e pede o ângulo de rotação, em torno do centro da peça, que a deixa invariante, isto é, que a faz coincidir consigo mesma. Observando a foto, cada peça tem um contorno com três \"braços\" iguais distribuídos de forma simétrica em volta do centro, como uma hélice de três pás com recortes. Se a figura se repete três vezes ao completar uma volta, o menor ângulo de rotação que a mantém igual é 360° ÷ 3 = 120°. Girando a peça 120°, cada braço ocupa a posição do seguinte, e a figura fica idêntica. A alternativa A, 45°, exigiria oito partes iguais. A alternativa B, 60°, exigiria seis partes, como num hexágono regular. A alternativa C, 90°, exigiria quatro partes, como num quadrado. A alternativa E, 180°, exigiria simetria em duas partes, o que a peça não tem. Gabarito: D.",
+  "hash": "6522f3560699f0b6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q152": {
+  "assunto": "Função afim: função linear e gráfico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gráfico que representa o preço m pago por n quilogramas de uma fruta que custa R$ 1,75 o quilo. A relação é m = 1,75·n, uma função linear: o preço é diretamente proporcional à quantidade. Seu gráfico é uma reta que passa pela origem, pois comprar 0 kg custa R$ 0,00, e que cresce de forma constante. Na alternativa E, o gráfico é uma reta saindo da origem e passando pelo ponto destacado, exatamente o comportamento esperado. A alternativa A mostra uma curva com crescimento cada vez mais lento, o que não é proporcionalidade. A alternativa B é uma reta, mas começa acima de zero, como se houvesse taxa fixa. A alternativa C mostra uma curva que cresce cada vez mais rápido. A alternativa D é uma reta que só começa depois de certa quantidade, como se os primeiros quilos fossem de graça. Gabarito: E.",
+  "hash": "07d88341f2a261da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q153": {
+  "assunto": "Razão e proporção: regra de três simples",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as quantidades para 30 convidados seguindo cada dica do texto. Carne: 250 g por pessoa, então 30 × 250 g = 7 500 g = 7,5 kg. Arroz: um copo serve 4 pessoas, então 30 ÷ 4 = 7,5 copos, ou seja, 7 copos e meio. Farofa: 4 colheres por convidado, 30 × 4 = 120 colheres. Vinho: 30 ÷ 6 = 5 garrafas. Cerveja: 30 ÷ 2 = 15 garrafas. Espumante: 30 ÷ 3 = 10 garrafas. A única alternativa com todos esses valores é a E. A alternativa A erra a carne (120 kg). A alternativa B erra a carne e a cerveja. A alternativa C erra a carne, com 75 kg (erro de conversão de gramas). A alternativa D erra o arroz (7 copos) e a cerveja (30 garrafas). Gabarito: E.",
+  "hash": "d2fd00de41b61c8d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q154": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o percentual médio de medalhistas de ouro da região Nordeste entre 2005 e 2009. No quadro, a linha do Nordeste traz: 18% (2005), 19% (2006), 21% (2007), 15% (2008) e 19% (2009). A média aritmética é a soma dividida pelo número de anos: 18 + 19 + 21 + 15 + 19 = 92, e 92 ÷ 5 = 18,4%. A alternativa A não corresponde à média de nenhuma linha lida corretamente. A alternativa B resulta de erro na soma ou de leitura de outra linha. A alternativa D é a moda (19%), não a média. A alternativa E é o maior valor da série (21%). Gabarito: C.",
+  "hash": "f06c27b253267716",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q155": {
+  "assunto": "Trigonometria: triângulo retângulo, seno",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] O valor do ângulo sumiu do texto extraído; na prova original, α = 30°. A figura mostra o triângulo ABP: em A o ângulo é α e, em B, o ângulo externo é 2α. A questão pede a menor distância do barco a P mantendo a trajetória, isto é, a distância de P à reta AB. Como o ângulo externo em B é a soma dos internos não adjacentes, 2α = α + ângulo P, logo o ângulo em P vale α. O triângulo ABP é isósceles, com BP = AB = 2 000 m. A menor distância é a altura relativa à reta AB: d = BP·sen(2α) = 2 000·sen 60° = 2 000·(√3/2) = 1 000√3 m. A alternativa A usaria sen 30°. A alternativa C mantém a fração sem simplificar de forma incorreta. A alternativa D é a distância BP, não a menor distância. A alternativa E usa tangente ou esquece o fator ½. Gabarito: B.",
+  "hash": "4dd3036f892879b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q156": {
+  "assunto": "Função afim: lei de formação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a expressão y em função do mês x, sabendo que o aumento mensal é constante de 4 300 trabalhadores e que em fevereiro (x = 2) o total foi 880 605. Como o incremento é constante, a relação é uma função afim y = b + 4 300x, em que 4 300 é a taxa de variação. Para achar b, usamos o ponto de fevereiro: 880 605 = b + 4 300·2, então b = 880 605 − 8 600 = 872 005. Verificando: em janeiro (x = 1), y = 872 005 + 4 300 = 876 305, que somado a 4 300 dá 880 605 em fevereiro, como diz o texto. A alternativa A esquece o valor inicial. A alternativa B multiplica um total pelo mês, o que não faz sentido. A alternativa D usa o valor de janeiro como termo fixo. A alternativa E usa o valor de fevereiro como termo fixo. Gabarito: C.",
+  "hash": "80b734ec31acec82",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q157": {
+  "assunto": "Matemática financeira: juros e imposto",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a aplicação mais vantajosa para R$ 500,00 após um mês, com os dados do quadro: poupança rende 0,560% ao mês e é isenta de imposto; CDB rende 0,876% ao mês, com 4% de IR sobre o ganho. Poupança: 500 × 0,0056 = R$ 2,80, montante de R$ 502,80. CDB: rendimento bruto 500 × 0,00876 = R$ 4,38; imposto 4% de 4,38 = R$ 0,1752; rendimento líquido 4,38 − 0,1752 ≈ R$ 4,20; montante ≈ R$ 504,20, que a prova arredonda para R$ 504,21. Como 504,21 > 502,80, o CDB é mais vantajoso. A alternativa A calcula certo a poupança, mas ela rende menos. A alternativa B soma a taxa como se fosse em reais. A alternativa C esquece de descontar o imposto. A alternativa E soma a taxa percentual diretamente como valor em reais. Gabarito: D.",
+  "hash": "ce9e8c62d160a37f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q158": {
+  "assunto": "Leitura de gráficos e tabelas: tarifa por unidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a diferença entre o preço de 1 kWh, depois da redução, para um consumidor de baixa renda que gastou 100 kWh e um residencial que gastou 185 kWh. Na tabela, na coluna \"Depois\": residencial com 185 kWh paga R$ 85,56 e baixa renda com 100 kWh paga R$ 16,73. Preço por kWh: residencial 85,56 ÷ 185 ≈ R$ 0,462; baixa renda 16,73 ÷ 100 ≈ R$ 0,167. A diferença é 0,462 − 0,167 ≈ R$ 0,295, ou seja, cerca de R$ 0,29. A alternativa A resulta de usar valores \"antes\" ou arredondamentos inadequados. A alternativa C usa outra combinação de linhas da tabela. A alternativa D compara preços de colunas diferentes. A alternativa E soma os preços unitários em vez de subtraí-los. Gabarito: B.",
+  "hash": "43e1b7ce37f25476",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q159": {
+  "assunto": "Equações e inequações: equação do 1º grau",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a equação que mostra a extensão n (em km) para a qual as duas propostas custam o mesmo. Cada empresa cobra um valor fixo mais um valor por quilômetro, o que gera funções afins. Primeira empresa: 100 000n + 350 000. Segunda: 120 000n + 150 000. Igualando os custos: 100 000n + 350 000 = 120 000n + 150 000. Dividindo todos os termos por 1 000, a igualdade se mantém: 100n + 350 = 120n + 150. (Resolvendo, 20n = 200 e n = 10 km.) A alternativa B troca os valores fixos entre as empresas. A alternativa C coloca o valor fixo dentro do parêntese, multiplicando-o pelo preço por km. A alternativa D comete o mesmo erro, sem simplificar. A alternativa E inverte os papéis do valor fixo e do preço por km. Gabarito: A.",
+  "hash": "632f19acb2fce5da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q160": {
+  "assunto": "Porcentagem: variações percentuais sucessivas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a quantia inicial aplicada, sabendo que no primeiro mês houve perda de 30% e, no segundo, recuperação de 20% do que foi perdido, restando R$ 3 800,00. Chame a quantia inicial de x. Após o primeiro mês, sobra 0,7x e a perda foi 0,3x. No segundo mês, recupera 20% da perda: 0,2 × 0,3x = 0,06x. O montante final é 0,7x + 0,06x = 0,76x. Então 0,76x = 3 800, e x = 3 800 ÷ 0,76 = R$ 5 000,00. Verificando: perde 1 500 (fica 3 500) e recupera 20% de 1 500 = 300, chegando a 3 800. A alternativa A divide 3 800 por 0,9, como se a perda líquida fosse 10%. A alternativa B aplica os 20% sobre o saldo (0,7x × 1,2 = 0,84x), e não sobre a perda. A alternativa D interpreta 3 800 como algo ligado à perda. A alternativa E resulta de dividir 3 800 por um fator errado. Gabarito: C.",
+  "hash": "c4d147b76bcb0025",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q161": {
+  "assunto": "Razão e proporção: densidade demográfica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a densidade demográfica da região da caatinga, que é a razão entre o número de habitantes e a área ocupada, em habitantes por km². O texto informa cerca de 20 milhões de habitantes e quase 800 mil km². Então: densidade = 20 000 000 ÷ 800 000. Simplificando os zeros, fica 200 ÷ 8 = 25 habitantes por km². O cuidado aqui é contar corretamente os zeros: 20 milhões tem seis zeros depois do 20, e 800 mil tem três zeros depois do 800. A alternativa A tem um zero a mais, resultado de erro na contagem das potências de 10. A alternativa C divide por 10 a mais. A alternativa D divide por 100 a mais. A alternativa E divide por 1 000 a mais, o que ocorreria se a área fosse tratada como 800 milhões de km². Gabarito: B.",
+  "hash": "ace62d9fc225654e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q162": {
+  "assunto": "Sequências e progressões: progressão aritmética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número de passagens vendidas em julho, sabendo que o padrão de crescimento se mantém: janeiro 33 000, fevereiro 34 500, março 36 000. A diferença entre meses consecutivos é sempre 1 500 passagens, então a sequência é uma progressão aritmética de razão r = 1 500 e primeiro termo a₁ = 33 000. Julho é o 7º mês, então a₇ = a₁ + 6r = 33 000 + 6 × 1 500 = 33 000 + 9 000 = 42 000 passagens. Conferindo mês a mês: abril 37 500, maio 39 000, junho 40 500, julho 42 000. A alternativa A não segue a razão de 1 500. A alternativa B é o valor de junho, um mês antes. A alternativa C usa um aumento mensal errado. A alternativa E soma 7 razões ou aplica razão incorreta. Gabarito: D.",
+  "hash": "8d514a4367f16adc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q163": {
+  "assunto": "Probabilidade: leitura de gráfico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a probabilidade de Rafael, ao escolher ao acaso uma das quatro outras regiões (excluindo o Centro), escolher uma com temperatura inferior a 31 °C. No gráfico, a escala em °C está à direita. Lendo os pontos marcados: Rural fica abaixo de 30 °C; Comercial fica um pouco acima de 31 °C; Residencial Urbano fica perto de 30 °C; Residencial Suburbano fica abaixo de 30 °C. Assim, três regiões (Rural, Residencial Urbano e Residencial Suburbano) atendem à recomendação, e só a Comercial não atende. O espaço amostral tem 4 regiões, porque ele já mora no Centro e vai escolher entre as outras. A probabilidade é 3/4. A alternativa A considera 5 regiões e só uma favorável. A alternativa B inverte, contando apenas a região inadequada. A alternativa C usa 5 regiões no denominador e 2 favoráveis. A alternativa D inclui o Centro no espaço amostral. Gabarito: E.",
+  "hash": "a24d17e4440992dd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q164": {
+  "assunto": "Grandezas e medidas: energia, potência e tempo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a energia consumida em sete dias por uma pessoa que toma dois banhos diários de 10 minutos num chuveiro de 4 800 W. O enunciado usa \"kW\" em vez de kWh, mas o raciocínio é o de energia: potência × tempo. Tempo diário: 2 × 10 = 20 minutos. Em 7 dias: 7 × 20 = 140 minutos. Convertendo para horas: 140 ÷ 60 = 7/3 h ≈ 2,33 h. Energia: 4,8 kW × 7/3 h = 33,6 ÷ 3 = 11,2 kWh. A alternativa A corresponde a um único banho de 10 minutos (4,8 ÷ 6). A alternativa B corresponde a um dia de consumo (dois banhos). A alternativa C corresponde a sete banhos, esquecendo que são dois por dia. A alternativa E multiplica a potência por 7 sem considerar a duração dos banhos. Gabarito: D.",
+  "hash": "eb80429d1f3f614c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q165": {
+  "assunto": "Geometria plana: comprimento da circunferência",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em qual raia o corredor seria beneficiado se todos partissem do mesmo ponto e dessem uma volta completa. A figura mostra a pista formada por dois trechos retos de 84,39 m e dois semicírculos de raio 36,5 m medidos até a borda interna. Os trechos retos têm o mesmo comprimento para todas as raias, mas os semicírculos não: quanto mais afastada do centro, maior o raio da curva e, portanto, maior o comprimento da circunferência (C = 2πr). As raias são numeradas do centro para a extremidade, logo a raia 1 é a mais interna, tem o menor raio e o menor percurso. Por isso, nas provas reais, as largadas são escalonadas. As alternativas B, C, D e E indicam raias mais externas, cujo percurso é cada vez maior, sendo a raia 8 a mais prejudicada. Gabarito: A.",
+  "hash": "864a6ae9ac908f8e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q166": {
+  "assunto": "Razão e proporção: grandezas proporcionais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número de internações de homens nos próximos cinco anos, sabendo que as de mulheres passam de 32 mil para 40 mil (acréscimo de 8 mil) e que o acréscimo masculino ocorre na mesma proporção. A proporção do acréscimo feminino é 8/32 = 1/4 = 25%. Aplicando a mesma proporção aos homens: 28 mil × 1/4 = 7 mil de acréscimo. O total masculino passa a ser 28 + 7 = 35 mil. Repare que a pergunta é o número total de homens internados, não apenas o acréscimo. A alternativa A não corresponde a nenhum cálculo correto. A alternativa B usa a razão 8/28 de forma invertida ou mal aplicada. A alternativa C calcula 75% de 28 mil, subtraindo em vez de somar. A alternativa E soma 11 mil, um acréscimo incorreto. Gabarito: D.",
+  "hash": "9b7322a350ff9b19",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q167": {
+  "assunto": "Geometria espacial: volume do cilindro, proporção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a quantidade de água para encher um copo cilíndrico de 10 cm de altura e 4 cm de diâmetro com a mistura de 1 parte de açúcar para 5 partes de água (o texto extraído diz \"p = 3\", mas trata-se de π = 3). Volume do cilindro: V = π·r²·h, com r = 2 cm. V = 3 × 2² × 10 = 3 × 4 × 10 = 120 cm³ = 120 mL. A mistura tem 1 + 5 = 6 partes, das quais 5 são água. Água = 5/6 × 120 = 100 mL. A alternativa A é o volume de açúcar (1/6 de 120). A alternativa B é 1/5 do volume, confundindo a razão. A alternativa D é o volume total do copo. A alternativa E multiplica o volume por 5, como se cada parte fosse o copo inteiro. Gabarito: C.",
+  "hash": "27030acf30ee107c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q168": {
+  "assunto": "Probabilidade: contagem de casos favoráveis",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quem tem maior probabilidade de vencer, comparando quantos pares de bolas distintas, numeradas de 1 a 15, somam o valor escolhido por cada jogador. Como todas as duplas têm a mesma chance, vence quem tem mais pares favoráveis. Soma 12 (Arthur): 1+11, 2+10, 3+9, 4+8, 5+7, ou seja, 5 pares (6+6 não vale, pois as bolas são diferentes). Soma 17 (Bernardo): 2+15, 3+14, 4+13, 5+12, 6+11, 7+10, 8+9, ou seja, 7 pares. Soma 22 (Caio): 7+15, 8+14, 9+13, 10+12, ou seja, 4 pares (11+11 não vale). Bernardo tem mais possibilidades: 7 contra 5 de Arthur e 4 de Caio. A alternativa A acha que a menor soma é mais provável. A alternativa B conta errado as possibilidades de Arthur. A alternativa D ignora que as bolas vão só até 15. A alternativa E acha que a maior soma é mais provável. Gabarito: C.",
+  "hash": "5afd21aebd10ae33",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q169": {
+  "assunto": "Grandezas e medidas: fórmula do IMC",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o IMC de Duílio e Sandra e a categoria de cada um, usando IMC = m/h² e os dados da figura. Duílio: altura 1,88 m e peso 96,4 kg. h² = 1,88² = 3,5344. IMC = 96,4 ÷ 3,5344 ≈ 27,3. Sandra: altura 1,70 m e peso 84 kg. h² = 1,70² = 2,89. IMC = 84 ÷ 2,89 ≈ 29,1. Na tabela da escala, sobrepeso vai de 25 a 29,9, então os dois estão em sobrepeso. A alternativa A usa valores incorretos, possivelmente com o peso ideal. A alternativa C acerta Duílio, mas erra Sandra. A alternativa D usa os pesos ideais e conclui categorias diferentes. A alternativa E divide os pesos pela altura ou usa dados errados, chegando a valores menores. Gabarito: B.",
+  "hash": "d5a9e12b7f212dcb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q170": {
+  "assunto": "Probabilidade: probabilidade simples com tabela",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a probabilidade de uma pessoa atendida no posto, escolhida ao acaso, ser portadora de doença crônica. Na tabela, as quantidades de vacinados por público-alvo são: trabalhadores da saúde e indígenas 42; portadores de doenças crônicas 22; adultos de 20 a 29 anos 56; maiores de 60 anos 30; adultos de 30 a 39 anos 50. Total de atendidos: 42 + 22 + 56 + 30 + 50 = 200. Casos favoráveis: 22. Probabilidade: 22/200 = 0,11 = 11%. A alternativa A não corresponde a nenhuma razão da tabela. A alternativa B resulta de erro na soma do total. A alternativa D usa total incorreto. A alternativa E confunde a quantidade de pessoas (22) com a porcentagem. Gabarito: C.",
+  "hash": "ee08b65fe9743991",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q171": {
+  "assunto": "Probabilidade: leitura de gráfico de barras",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a probabilidade de um domicílio sorteado ter conexão de pelo menos 1 Mbps. No gráfico de barras, as categorias com 1 Mbps ou mais são: de 1 a 2 Mbps (15%), entre 2 e 4 Mbps (5%), de 4 a 8 Mbps (1%) e acima de 8 Mbps (1%). Somando: 15 + 5 + 1 + 1 = 22%, ou seja, probabilidade de 0,22. As barras \"até 256 kbps\" e \"entre 256 kbps e 1 Mbps\" ficam abaixo de 1 Mbps, e \"não sabe/não responde\" não pode ser contado como favorável. A alternativa A soma a categoria \"entre 256 kbps e 1 Mbps\" e outras abaixo do limite. A alternativa B soma faixas indevidas. A alternativa C inclui categorias que não garantem 1 Mbps. A alternativa E considera apenas a faixa de 1 a 2 Mbps. Gabarito: D.",
+  "hash": "3eb4a05e34d7c5d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q172": {
+  "assunto": "Raciocínio lógico: caminhos em grafos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um caminho que comece em K, termine em F e passe por todos os pontos sem repetir nenhum, andando apenas pelos segmentos (tubulações) da figura. Na imagem, as ligações são: K–L, L–G, G–F, G–I, I–F, F–H, I–H, I–K, I–J, K–J e J–H. O caminho K, L, G, I, J, H, F usa K–L, L–G, G–I, I–J, J–H e H–F, todas existentes, e passa pelos sete pontos uma única vez. A alternativa A não revisa todos os pontos. A alternativa B deixa de fora o ponto H e ainda exige ir de L a F passando novamente por G. A alternativa D também precisa ir de L a F, o que obriga passar por G de novo. A alternativa E exige uma tubulação de J a F, que não existe. Gabarito: C.",
+  "hash": "64aca8d08987c295",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q173": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o período de queda da participação do agronegócio no PIB, antes da recuperação. No gráfico de linha, os valores crescem de 1998 (21,33%) até 2003 (28,28%), que é o ponto máximo. A partir daí, caem: 27,79% em 2004, 25,83% em 2005 e 23,92% em 2006, o ponto mínimo desse trecho. Depois, voltam a subir: 24,74% em 2007 e 26,46% em 2008. Logo, a queda ocorreu entre 2003 e 2006. A alternativa A é um período de crescimento. A alternativa B também é um período de alta. A alternativa D inclui 2007, ano em que já há recuperação. A alternativa E inclui 2007 e 2008, anos de alta. Gabarito: C.",
+  "hash": "0d58f4ef094f6154",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q174": {
+  "assunto": "Análise combinatória: permutações, ordem lexicográfica",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a posição do número 75 913 na lista crescente de todos os números de 5 algarismos distintos formados só com dígitos ímpares (1, 3, 5, 7, 9). Há 5! = 120 números, um para cada candidato. Contamos quantos vêm antes de 75 913. Começando com 1, 3 ou 5: 3 × 4! = 72 números. Começando com 7: segundo algarismo 1 ou 3 dá 2 × 3! = 12 números, total 84. Começando com 75: terceiro algarismo 1 dá 2! = 2 números (75 139 e 75 193), total 86; terceiro algarismo 3 dá mais 2 (75 319 e 75 391), total 88. Começando com 759: o menor é 75 913, que é o próximo da lista. Portanto, sua posição é 89. A alternativa A conta apenas parte dos casos. A alternativa B e a alternativa C erram na contagem por blocos. A alternativa D é a quantidade de números antes de 75 913, e não a posição dele. Gabarito: E.",
+  "hash": "b822a8a7f1fc8f80",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q175": {
+  "assunto": "Porcentagem: leitura de gráfico de barras",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quantos internautas responderam \"NÃO\", sabendo que 279 participaram da enquete. No gráfico de barras, o \"NÃO\" corresponde a 25% das respostas (o \"SIM\" tem 67% e o \"NÃO SEI AVALIAR\", 8%). Calculando: 25% de 279 = 279 ÷ 4 = 69,75, ou seja, cerca de 70 internautas. Esse valor está entre 50 e 75. O ponto-chave é não confundir a porcentagem com o número de pessoas. A alternativa A e a alternativa B confundem a porcentagem (25%) com a quantidade de pessoas. A alternativa D corresponde à faixa do \"SIM\" (67% de 279 ≈ 187). A alternativa E é maior que o total de respostas possíveis para o \"NÃO\". Gabarito: C.",
+  "hash": "cbfa57b6e7b5ccd9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q176": {
+  "assunto": "Leitura de gráficos e tabelas: tabela e ordem de grandeza",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a ordem de grandeza da luminosidade de uma estrela com temperatura 5 vezes maior que a do Sol. Na tabela, o Sol é da classe G2, com 5 770 K e luminosidade 1. Uma temperatura 5 vezes maior é 5 × 5 770 = 28 850 K. Procurando na tabela, a classe com temperatura mais próxima é B0, com 28 000 K, cuja luminosidade é 2 × 10⁴, ou seja, 20 000 vezes a do Sol. Como se pede a ordem de grandeza, usamos o valor tabelado mais próximo, sem tentar calcular um valor exato. A alternativa B usa a temperatura da classe B0 como se fosse a luminosidade. A alternativa C usa a temperatura calculada como luminosidade. A alternativa D arredonda sem base na tabela. A alternativa E confunde com a luminosidade da classe O5 (5 × 10⁵) ou multiplica incorretamente. Gabarito: A.",
+  "hash": "c950eade593fbfc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q177": {
+  "assunto": "Matemática financeira: juros compostos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o investimento de maior rentabilidade anual, sabendo que os rendimentos incidem sobre o valor do período anterior, ou seja, são juros compostos. Investimento A: 3% ao mês por 12 meses. Pelo quadro, 1,03¹² ≈ 1,426, o que dá rentabilidade de cerca de 42,6% ao ano. Investimento B: 36% ao ano, fator 1,36. Investimento C: 18% ao semestre por 2 semestres, fator 1,18² = 1,3924, cerca de 39,2% ao ano. Comparando: 42,6% > 39,2% > 36%. Logo, A é o mais rentável. A alternativa A usa juros simples para todos (3 × 12 = 36 e 18 × 2 = 36). A alternativa B atribui 39% também ao investimento A. A alternativa D compara taxas de períodos diferentes como se fossem equivalentes. A alternativa E calcula corretamente C, mas usa juros simples para A. Gabarito: C.",
+  "hash": "e1b98ebfcecc1611",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q178": {
+  "assunto": "Razão e proporção: proporcionalidade direta",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a expressão algébrica da resistência S de uma viga, que é diretamente proporcional à largura b e ao quadrado da altura d, com constante de proporcionalidade k. Quando uma grandeza é diretamente proporcional a outras, ela é igual a uma constante multiplicada por essas grandezas. Como a dependência é com b e com d², temos S = k·b·d². A alternativa A usa d, e não d², ignorando o quadrado da altura. A alternativa B esquece a constante k, que depende do material. A alternativa D coloca d² no denominador, o que tornaria S inversamente proporcional ao quadrado da altura. A alternativa E coloca b no denominador, tornando S inversamente proporcional à largura. Gabarito: C.",
+  "hash": "40e5602230505746",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q179": {
+  "assunto": "Função afim: funções definidas por partes",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o gráfico que representa o valor pago nos planos K e Z em função dos minutos. Plano K: R$ 29,90 fixos até 200 minutos e depois R$ 0,20 por minuto excedente. Plano Z: R$ 49,90 fixos até 300 minutos e depois R$ 0,10 por minuto. Calculando K em 300 minutos: 29,90 + 100 × 0,20 = 49,90, o mesmo valor de Z. Assim, o gráfico de K é horizontal até 200 e sobe com inclinação maior a partir daí; o de Z é horizontal até 300 e sobe mais devagar depois. As linhas se encontram em (300; 49,90) e, depois disso, K fica acima de Z. O gráfico da alternativa D mostra exatamente isso. A alternativa A coloca K sempre abaixo de Z, sem encontro. A alternativa B faz Z subir a partir de 200 minutos. A alternativa C faz as duas linhas coincidirem depois de 300. A alternativa E faz K subir só depois de 300 minutos. Gabarito: D.",
+  "hash": "f9b6da9cc350902e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q180": {
+  "assunto": "Equações e inequações: inequação do 1º grau",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a quantidade mínima de produtos para a indústria não ter prejuízo, ou seja, para que o lucro seja maior ou igual a zero. O lucro é LT(q) = FT(q) − CT(q) = 5q − (2q + 12) = 3q − 12. Não ter prejuízo significa 3q − 12 ≥ 0, então 3q ≥ 12 e q ≥ 4. Com q = 4, o lucro é zero (faturamento 20 e custo 20); com menos de 4 unidades, há prejuízo. Assim, a quantidade mínima é 4. A alternativa A gera prejuízo de R$ 12,00. A alternativa B gera prejuízo de R$ 9,00. A alternativa C gera prejuízo de R$ 3,00. A alternativa E já dá lucro, mas não é a quantidade mínima. Gabarito: D.",
+  "hash": "749746c1abf5f0e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2011-regular-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de reportagem",
   "dificuldade": 2,
