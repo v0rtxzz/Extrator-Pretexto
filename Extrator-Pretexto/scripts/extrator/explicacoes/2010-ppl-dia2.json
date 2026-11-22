@@ -76,6 +76,181 @@
   "hash": "ab33e462972e360f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2010-ppl-d2-q111": {
+  "assunto": "Literatura brasileira: Realismo, Machado de Assis",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como a filosofia de Quincas Borba, o Humanitismo, encara a cooperação entre as pessoas. No trecho de Memórias póstumas de Brás Cubas, Quincas Borba usa um frango como prova da “sublimidade” de seu sistema: o milho foi plantado por um africano escravizado, trazido num navio feito por vários homens, com velas tecidas por outros, e todo esse encadeamento de “esforços e lutas” teve “o único fim de dar mate ao meu apetite”. Ou seja, o trabalho coletivo, inclusive o sofrimento alheio, como a escravidão, a guerra e a fome, é visto como algo que existe para satisfazer o indivíduo. Machado de Assis ironiza assim as teorias que justificavam a exploração. Por isso a alternativa B, atender a interesses pessoais, está correta. A alternativa A inverte a lógica, pois o personagem não pensa no bem coletivo. A C e a D são falsas, já que o sistema naturaliza a desigualdade e não busca reduzir diferenças. A E também erra, porque os vínculos descritos são de uso, não de afeto ou solidariedade. Gabarito: B.",
+  "hash": "b86c6b388e98abb9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q112": {
+  "assunto": "Argumentação: argumento de autoridade, dados",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o argumento usado pelo físico Cláudio Furukawa para mostrar que atos simples tornam alguém um cidadão ecossustentável. O texto explica que, a cada minuto de fervura sem tampa, cerca de 20 g de água evaporam, levando 11 mil calorias. Como o GLP fornece 11 mil calorias por grama, perde-se 1 g de gás por minuto. Somando todas as famílias brasileiras, seriam 54,6 toneladas de gás desperdiçadas por minuto, ou 4 200 botijões. O argumento, portanto, é que ferver a água em panela tampada reduz a perda de calorias e, com isso, o consumo de gás, como afirma a alternativa B. A alternativa A é errada porque o “conselho de mãe” é citado só para ser superado pela explicação científica. A C sugere analisar o calor do GLP, o que não é a proposta do físico. A D inventa que botijões de 13 kg consomem menos. A E fala em diminuir a chama, medida que o texto não menciona. Gabarito: B.",
+  "hash": "b8327df80b52370c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q113": {
+  "assunto": "Gêneros textuais: divulgação científica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a finalidade do texto “Tampe a panela”, publicado na revista Superinteressante. O texto parte de um hábito doméstico e o explica com base na física: cita um especialista da USP, apresenta dados sobre evaporação da água (20 g por minuto), energia perdida (11 mil calorias), poder calorífico do GLP (11 mil calorias por grama) e projeta o desperdício para todo o país. Trata-se de divulgação científica, que traduz para o público leigo um conteúdo de natureza científica, como afirma a alternativa A. A alternativa B é errada porque nada se diz sobre a vida pessoal do pesquisador. A C confunde o texto com publicidade, mas não há anúncio de botijão. A D é falsa, pois o texto já apresenta a solução, tampar a panela, em vez de pedi-la. A E não se sustenta: o texto não é um manual de uso do botijão, embora sugira um comportamento. Gabarito: A.",
+  "hash": "4d8bf83cd954929a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q114": {
+  "assunto": "Teatro e dança: Commedia dell'Arte",
+  "dificuldade": 4,
+  "explicacao": "A questão pede qual era a mensagem expressa pelos atores da Commedia dell'Arte, cujos personagens, como Arlequim, Pierrô e Colombina, sobrevivem no carnaval. Esse teatro popular italiano surgiu no século XVI, em pleno Renascimento, quando o humanismo deslocou o centro de interesse de Deus para o ser humano. As companhias itinerantes improvisavam a partir de tipos fixos e mascarados, encenando situações do cotidiano: amores, intrigas, criados espertos, patrões avarentos, críticas sociais. O próprio enunciado destaca críticas, declarações de amor e despedidas com música e poesia. Assim, a alternativa E, ideologia humanista com cenas centradas no homem, na mulher e no cotidiano, está correta. A alternativa A remete à visão medieval e religiosa, oposta ao espírito dessas companhias. A B fala de luta social com o homem no centro do processo histórico, ideia ligada ao marxismo, muito posterior. A C mistura espiritualidade e feudos, elementos medievais. A D comete anacronismo: os trovadores são medievais e o Iluminismo é do século XVIII. Gabarito: E.",
+  "hash": "e1f163cf9baab5d6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q115": {
+  "assunto": "Literatura brasileira: prosa contemporânea",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o recurso expressivo que se destaca no fragmento de Helena Parente Cunha. A narrativa se dirige à própria protagonista em segunda pessoa (“você”) e mostra uma mulher dividida entre o trabalho de desenhista, a prova de história da arte, a filha com febre e o marido que a acusa. O trecho “Cópias plantas réguas milímetros nanquim compasso 360º” enumera palavras sem nenhuma vírgula, e outras frases também dispensam a pontuação esperada. Essa supressão acelera o ritmo e reproduz o fluxo de pensamentos da personagem, sua exaustão e irritação com a rotina que a cerca (“de cercado cerco”). Por isso a alternativa B está correta. A alternativa A erra ao dizer que “você” é o interlocutor, quando é a própria personagem. A C é falsa, porque o espaço do trabalho só é sugerido em lista, sem descrição minuciosa. A D não se sustenta, pois não há autoironia que alivie a opressão. A E contradiz o texto, que tem metáforas como “um peixe sem sol em irradiações noturnas”. Gabarito: B.",
+  "hash": "7ec2d5d6a6a19050",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q116": {
+  "assunto": "Gramática: regência e concordância verbal",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o trecho que segue a norma-padrão. Há três pontos a verificar. Primeiro, a regência: quem se expõe, expõe-se a algo, logo o correto é “do risco a que nos expomos”. Segundo, a voz passiva sintética: em “de se evitarem aglomerações”, o sujeito paciente é “aglomerações”, plural, e o verbo deve ir para o plural. Terceiro, em “para que se possa conter o avanço”, o sujeito é “o avanço da epidemia”, singular, então o verbo fica no singular. A alternativa C atende aos três critérios. A alternativa A erra a regência com “de que nos expomos” e deixa “evitar” no singular. A B acerta a regência e o plural de “evitarem”, mas erra ao flexionar “possam”, pois o sujeito “o avanço” é singular. A D usa “os quais”, sem a preposição exigida e sem concordância com “risco”. A E erra com “com que” e com o verbo “ter” no sentido de existir, uso informal; o padrão é “há”. Gabarito: C.",
+  "hash": "e29e1408b4a41964",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q117": {
+  "assunto": "Tecnologias da informação e comunicação: gêneros digitais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que representa a combinação de características de gêneros tradicionais nos textos virtuais. O fragmento de Gabriel Perissé lista substituições: cartas por e-mails, diários íntimos por blogs, telegramas pelo Twitter, enciclopédia pela Wikipédia. O telegrama era cobrado por palavra e exigia mensagens curtíssimas; o Twitter, que em 2010 limitava as postagens a 140 caracteres, herda essa concisão e produz textos curtos e diretos, semelhantes a manchetes jornalísticas. É o que afirma a alternativa B. A alternativa A generaliza sem base: o e-mail pode ser formal ou informal, e o texto não fala em abandono do rigor. A C conclui perda de privacidade, ideia que o fragmento não desenvolve. A D afirma falta de coerência, mas economia de palavras não implica incoerência. A E exagera ao falar em soberania da autoria colaborativa em todos os textos, quando só a Wikipédia funciona assim. Gabarito: B.",
+  "hash": "7feb246e23498b2a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q118": {
+  "assunto": "Educação física: dança e cultura",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que a dança representa, segundo o texto de Gaspari. O texto mostra o Brasil como um país dançante, com manifestações de Norte a Sul: danças trazidas pelos africanos escravizados, ligadas a rituais, trazidas por imigrantes, tradicionais como forró, maxixe, xote e frevo, e urbanas como funk, hip hop e danças de rua e de salão. Também afirma que não há jeito certo ou errado de dançar e que todos podem dançar. Assim, a dança aparece como expressão da identidade, dos costumes e da comunicação de um povo, como afirma a alternativa E. A alternativa A é errada porque o texto diz que muitas danças se transformam e incorporam influências. A B contradiz a ideia de que todos podem dançar, independentemente de habilidade. A C ignora a linguagem corporal e reduz a dança a apresentações artísticas. A D afirma que a dança fica restrita a um povo, mas o texto cita repercussão internacional e influências diversas. Gabarito: E.",
+  "hash": "d233b8a392193f0a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q119": {
+  "assunto": "Gramática: crase e efeito de sentido",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que diferencia a abordagem do cartaz de Ziraldo contra as drogas. O cartaz mostra um casal de jovens de costas, caminhando juntos por uma estrada, com o texto: “Quem escolhe seu caminho é você / Não a droga!”. Campanhas tradicionais dizem “Diga não à droga”, com crase. Aqui, sem o acento grave, a frase muda de sentido: “não a droga” significa “e não a droga”, ou seja, não é a droga que escolhe o caminho do jovem, é ele mesmo. A ausência intencional da crase valoriza a autonomia do jovem em vez de dar uma ordem, como afirma a alternativa C. A alternativa A é insuficiente, pois o público jovem é comum a muitas campanhas. A B lê o texto como a ordem “diga não às drogas”, que é justamente a leitura que o cartaz evita. A D aponta uma ironia que não existe; a cena tranquila reforça a mensagem positiva. A E inverte o sentido, já que o cartaz afirma a autonomia dos jovens. Gabarito: C.",
+  "hash": "95b67806bb9b0c02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q120": {
+  "assunto": "Funções da linguagem: função poética e referencial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma diferença entre a letra “Chão de esmeralda” e o texto sobre os bastidores da Mangueira. O Texto I é poético e constrói imagens metafóricas: o eu lírico sente pisar “um chão de esmeraldas” (o verde da escola), sob “uma chuva de rosas” (o rosa), seu sangue “tinge um tapete” para ela sambar e a escola é “um catavento a girar”. O foco é exaltar a escola. O Texto II, da revista de Carnaval, informa sobre o trabalho por trás do desfile, citando costureiras, aderecistas, diretores e pesquisadores, num tom que também procura envolver o leitor (“a plateia delira”). Isso corresponde à alternativa C. A alternativa A inverte: é a letra que mais transmite emoções. A B atribui à canção uma crítica ao samba, quando ela é uma homenagem. A D inventa rivalidade entre escolas; as esmeraldas e rosas aludem às cores da própria Mangueira. A E toma ao pé da letra as metáforas de pedras preciosas, que não indicam riqueza material. Gabarito: C.",
+  "hash": "e13821876d9840bb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q121": {
+  "assunto": "Variação linguística: línguas indígenas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a causa da ameaça às línguas indígenas segundo o professor Leonel, especificamente. Atenção: o texto traz duas vozes. O cacique Felisberto lembra o passado, quando pessoas eram amarradas em árvores por falarem sua língua. Já o professor Leonel descreve o problema atual: “Nosso povo se rendeu às pessoas brancas pelas dificuldades de sobrevivência. O contato com a língua portuguesa foi exterminando e dificultando a prática da nossa língua”. Ele acrescenta que há poucos falantes, com vergonha de falar, e que a língua sofre preconceito. Logo, a causa apontada é o contato com falantes de outra língua e a imposição do português, como afirma a alternativa C. A alternativa A corresponde à fala do cacique, não à do professor. A B confunde consequência com causa: o número reduzido de falantes resulta do processo. A D fala do desaparecimento de reservas, não mencionado. A E atribui o problema ao descaso dos governantes, ideia ausente no depoimento. Gabarito: C.",
+  "hash": "5bdfd4f81770fca2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q122": {
+  "assunto": "Variação linguística: norma-padrão, concordância",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a marca da norma-padrão evidenciada no texto da Revista Língua Portuguesa. Em “um gênero que invade as livrarias”, o pronome relativo “que” retoma “um gênero”, singular, e por isso o verbo “invade” está no singular. É um exemplo de concordância verbal conforme a gramática normativa, como afirma a alternativa A. A alternativa B erra ao chamar de arcaico “há de ter”, locução perfeitamente atual que indica certeza ou necessidade. A C exagera: “viço” é usado figuradamente, mas não há predomínio de linguagem figurada no texto. A D classifica “pegada” como regionalismo, quando a palavra, no sentido de estilo ou marca, é gíria de uso nacional, e não traço da norma-padrão. A E chama de técnicos termos como “gênero infantil” e “títulos”, que são vocabulário comum do meio editorial e não termos científicos. O ponto central é perceber que só a alternativa A aponta de fato uma regra gramatical respeitada. Gabarito: A.",
+  "hash": "b3b445b485773f1f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q123": {
+  "assunto": "Tecnologias da informação e comunicação: internet e mídia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que Zuenir Ventura se preocupa com o desaparecimento de profissões como as de crítico e comentarista. O autor teme que a Internet se torne “o boca a boca de milhões de pessoas”, substituindo a orientação dada pela imprensa e até as dicas pessoais na recomendação de filmes, peças, livros e candidatos, pois “tudo seria feito virtualmente pelos mecanismos de mobilização da rede”. A ameaça vem, portanto, da enorme quantidade de pessoas conectadas e da velocidade e facilidade com que a informação circula, como afirma a alternativa C. A alternativa A fala de problemas pessoais dos comunicadores, tema ausente. A B afirma que as informações dos internautas superam as jornalísticas em confiabilidade, julgamento que o texto não faz. A D introduz boatos e descrédito, ideias que não aparecem. A E atribui eficácia aos computadores, quando a substituição se dá pela mobilização de pessoas na rede, não por máquinas. Gabarito: C.",
+  "hash": "5acf76282f03d45d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q124": {
+  "assunto": "Argumentação: tese e ironia em crônica",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a intenção de Luis Fernando Verissimo ao comparar a linguagem cotidiana brasileira e o “politicamente correto”. O autor reconhece exageros, com exemplos irônicos como “verticalmente prejudicado”, mas afirma que a ideia nasce de uma louvável preocupação em não ofender. No segundo parágrafo, mostra que termos como “crioulo” e “negão”, tidos como carinhosos, revelam condescendência que disfarça o preconceito. Conclui que, enquanto “o racismo que não quer dizer seu nome continua no Brasil, uma integração real pode começar pela linguagem”. Ou seja, propõe que a mudança linguística acompanhe uma convivência sem preconceito, como afirma a alternativa E. A alternativa A erra ao falar de racismo declarado, quando o autor denuncia um racismo camuflado. A B e a C contradizem o texto, que afirma que o preconceito existe e não foi superado. A D é um distrator forte por causa da ironia inicial, mas o autor apoia a correção da linguagem preconceituosa, sem condená-la. Gabarito: E.",
+  "hash": "56ad4c1759aaa778",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q125": {
+  "assunto": "Coesão e coerência: conectivos, relações semânticas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a relação semântica correta entre partes da notícia sobre Diego Souza. No primeiro parágrafo, o texto diz que o cenário deveria ser de alegria, “mas não foi bem isso que aconteceu”. O segundo parágrafo, sem conectivo, explica o motivo: o jogador saiu sob vaias e respondeu com gestos obscenos. Assim, entre os dois parágrafos há uma relação de causa implícita, por justaposição, como afirma a alternativa C. A alternativa A erra porque “já que” introduz causa, e não consequência. A B confunde “mas”, que indica oposição, com adição. A D é falsa: “enquanto”, em “enquanto era substituído”, indica tempo, simultaneidade. A E não se sustenta, pois entre a pergunta sobre as vaias e a resposta irônica do jogador há sequência, e não uma oposição implícita entre parágrafos. É preciso conhecer o valor de cada conectivo e perceber relações sem marcador explícito, o que torna a questão exigente. Gabarito: C.",
+  "hash": "b8a01592d0e4cdef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q126": {
+  "assunto": "Variação linguística: variação regional, fonologia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em que nível linguístico se manifestam as diferenças regionais comentadas por Rachel de Queiroz. A autora fala em “pronúncia”, “sotaque” e dá exemplos sonoros: o pessoal do Cariri tem “uns tês doces, quase um the”; os sertanejos pronunciam como “au” ou “eu” as terminações em “al” e “el” (“carnavau”, “Raqueu”); os paraibanos trocam o “l” pelo “r” (“Raquer”). Todos esses fenômenos dizem respeito aos sons da língua, isto é, à fonologia, como afirma a alternativa A. A alternativa B é errada porque não se comparam palavras diferentes para a mesma coisa (léxico). A C trata de formalidade, variação ligada à situação, e não à região. A D refere-se à ordem e à estrutura das frases, que não são discutidas. A E fala da formação das palavras, mas as palavras são as mesmas, só pronunciadas de modo diferente. Gabarito: A.",
+  "hash": "31a68d29529bf058",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q127": {
+  "assunto": "Educação física: corpo, saúde e mídia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se infere do texto sobre a influência da mídia nos hábitos corporais. Os autores descrevem os apelos constantes da mídia em favor da atividade física e mostram que, por trás deles, há interesse comercial: vender roupas esportivas, academias, tênis, aparelhos, vitaminas e dietas, numa “parafernália” que impõe “um discurso do convencimento e do desejo de um corpo belo”. O tom é crítico, chamando o leitor a não aceitar passivamente esse padrão. Por isso, é necessário distinguir as práticas veiculadas pela mídia daquelas que fazem sentido no cotidiano, priorizando saúde e integridade corporal, como afirma a alternativa C. As alternativas A, B, D e E erram pelo mesmo motivo: tomam o discurso midiático como referência a ser seguida, seja reconhecendo-o como modelo, valorizando-o, atendendo a seus apelos de exercícios exagerados ou adotando seus produtos como caminho para o corpo ideal, o contrário da leitura crítica que o texto propõe. Gabarito: C.",
+  "hash": "fc0f69e509153504",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q128": {
+  "assunto": "Tecnologias da informação e comunicação: blogs e redes sociais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o papel dos blogueiros nas redes sociais. O texto explica que o blog é organizado em posts sobre um tema, pode combinar texto, imagens e links e, sobretudo, permite que os leitores deixem comentários e interajam com o autor e entre si. Acrescenta que a linguagem dos blogs foge da rigidez da mídia tradicional, aproxima o leitor do assunto e facilita o diálogo constante. Dessa forma, os blogueiros promovem discussões, expõem opiniões pessoais e estimulam a troca de ideias, formando grupos de interesse, como afirma a alternativa A. A alternativa B é errada porque o texto não associa blogs ao analfabetismo digital; a linguagem menos rígida aparece como vantagem. A C fala de prejuízo a encontros presenciais, assunto ausente. A D contradiz a abertura ao comentário de qualquer leitor. A E afirma que os blogueiros não respondem aos comentários, contrariando a interação descrita como parte importante dos blogs. Gabarito: A.",
+  "hash": "4fa5dbfef3767d57",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q129": {
+  "assunto": "Funções da linguagem: função metalinguística",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como se caracteriza o recurso metalinguístico do texto sobre expressões idiomáticas. A metalinguagem ocorre quando a língua é usada para falar da própria língua, como em dicionários e gramáticas. O texto define as expressões idiomáticas como aquelas cujo significado não se obtém pelo sentido literal das palavras, diz que não podem ser traduzidas literalmente, que se originam de gírias e culturas regionais e que integram os dialetos das diversas regiões do país. Portanto, ele define o fenômeno e mostra sua presença no cotidiano de falantes de diferentes regiões, como afirma a alternativa D. A alternativa A descreve a função conativa, voltada a influenciar o leitor, o que não ocorre. A B atribui ao texto preconceito, inexistente. A C mistura divulgação de exemplos, que o texto não traz, com a função fática. A E descreve a função poética, preocupada com a elaboração estética, ausente nesse texto expositivo. Gabarito: D.",
+  "hash": "ce194b54301668c0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q130": {
+  "assunto": "Variação linguística: registro formal e informal",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como a menina se expressa ao longo da tirinha de Hagar. Ela começa com cortesia, quase formal: “Posso falar com o senhor um minutinho?”, apresenta-se (“Meu nome é Hema e moro no fim da rua!”) e argumenta de modo elaborado: “Sei que os adultos têm muitas coisas na cabeça e geralmente não notam as crianças”, “neste período tive a oportunidade de observar o senhor de perto”. No fim, porém, declara que será nora de Hagar e que, quando isso acontecer, “o senhor vai ter de tomar jeito!”, expressão coloquial, informal. O tratamento “o senhor” e as construções cuidadosas convivem com marcas como “um minutinho” e “tomar jeito”. Assim, ela mistura discurso formal e informal, como afirma a alternativa D. A alternativa A é errada porque não há fala poética. A B ignora que ela usa construções elaboradas, nada infantis. A C é falsa por causa das expressões coloquiais. A E não se sustenta, pois não há termos pejorativos, apenas uma advertência bem-humorada. Gabarito: D.",
+  "hash": "4ca7570b996fc96d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q131": {
+  "assunto": "Gêneros textuais: cartaz e charge",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia de composição do cartaz da campanha e da charge, nessa ordem. O cartaz do Ministério da Saúde mostra um punho cerrado segurando o selo “Brasil unido contra a dengue”, com frases como “O combate não pode parar”, “Junte sua família e seus vizinhos na luta contra a dengue” e “Dengue mata”. Os verbos no imperativo e o apelo emocional buscam convencer o leitor a agir: estratégia persuasiva. A charge de Duke mostra dois mosquitos conversando: um diz ter picado Luciano Huck, Grazi Massafera e Diego Hypólito, e o outro pergunta “Pegou autógrafo???”. É uma troca de falas entre personagens, ou seja, composição dialogal. Isso corresponde à alternativa E. A alternativa A erra ao chamar o cartaz de isento, quando ele é claramente apelativo. A B classifica o cartaz como descritivo e a charge como narrativa, mas ela é um diálogo. A C é um distrator forte: há imperativos, mas o cartaz não ensina como combater, apenas mobiliza. A D chama o cartaz de narrativo, sem relato de fatos. Gabarito: E.",
+  "hash": "9341915f63b791e7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q132": {
+  "assunto": "Artes visuais: Modernismo, Tarsila do Amaral",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que o quadro O mamoeiro, de Tarsila do Amaral (1925), revela sobre a arte moderna brasileira influenciada pelas vanguardas europeias. A tela mostra uma cena simples de subúrbio ou morro: casas, uma ponte, um mamoeiro, plantas e pessoas caminhando. As formas são geometrizadas e simplificadas: telhados, janelas e a ponte em linhas retas e volumes arredondados, herança do cubismo que Tarsila estudou em Paris, com figuras humanas sem detalhes. Ao mesmo tempo, o tema é o cotidiano brasileiro, típico da fase Pau-Brasil. Por isso a alternativa B, a forma estética ganha linhas retas e valoriza o cotidiano, está correta. A alternativa A é errada porque a imagem incorpora as formas vanguardistas, em vez de superá-las. A C fala de natureza utópica, mas a cena é cotidiana e real. A D aponta uma ação industrializada, ausente nesse ambiente quase rural. A E contraria a imagem, pois as figuras humanas são simplificadas, sem contornos detalhados. Gabarito: B.",
+  "hash": "0ef789853e937a5a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q133": {
+  "assunto": "Semântica: sentido de expressão no contexto",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que a expressão “uma terra sem lei” indica no texto sobre a Internet no Brasil. O trecho afirma que o marco regulatório da Internet é discutido no Congresso, “numa queda de braço pela garantia de um controle do que alguns consideram ‘uma terra sem lei’”. Logo adiante, o texto cita crimes cibernéticos, como roubo de senhas e pedofilia. A expressão, portanto, caracteriza a Internet como um espaço ainda sem legislação que discipline seu uso e puna os infratores, como afirma a alternativa A. A alternativa B fala da liberdade dos políticos de atingir eleitores, assunto do primeiro parágrafo, sem relação com a expressão. A C trata do crescimento do número de usuários, outro dado do texto. A D confunde: a expressão não é o ponto de vista de quem defende o controle, e sim a descrição do que eles querem controlar. A E fala de prejuízos de modo genérico, sem captar a ideia central de ausência de lei. Gabarito: A.",
+  "hash": "361fc3ce85460e84",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q134": {
+  "assunto": "Literatura brasileira: poesia social, Ferreira Gullar",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o fragmento de “Açúcar”, de Ferreira Gullar, provoca reflexão sobre desigualdade social. O eu lírico parte de uma cena confortável: o açúcar branco que adoça seu café numa manhã em Ipanema. Em seguida, mostra quem o produziu: homens de lugares distantes, sem hospital nem escola, que não sabem ler e “morrem de fome aos 27 anos”, plantaram e colheram a cana; em “usinas escuras, homens de vida amarga e dura” fizeram o açúcar. O contraste entre o doce, branco e puro e a vida amarga dos trabalhadores torna explícita a exploração de quem produz para o conforto de outros, como afirma a alternativa E. A alternativa A é errada porque as propriedades do açúcar servem apenas de contraste. A B ignora que o eu lírico vai além do consumo e reflete sobre sua origem. A C é um distrator, mas o foco não é a técnica de produção, e sim a condição humana dos trabalhadores. A D erra porque o poema denuncia, e não exalta, esse trabalho. Gabarito: E.",
+  "hash": "fc0700b29963713a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q135": {
+  "assunto": "Gêneros textuais: notícia",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que caracteriza a linguagem da notícia sobre o roubo de figurinhas da Copa. A notícia é um gênero jornalístico que busca informar com clareza e objetividade um público amplo. No texto, as frases são diretas, a pontuação e a concordância seguem a gramática normativa, e há dados precisos: cinco assaltantes, 135 mil figurinhas, 23h30, 30 funcionários, R$ 0,75 por pacote, além de fontes identificadas, como a Treelog e a Panini. Ou seja, o texto emprega as formas da norma-padrão da língua, como afirma a alternativa E. A alternativa A é errada porque não há gírias ou expressões populares. A B cita palavras estrangeiras, mas os nomes de empresas não caracterizam o gênero. A C fala de regionalismos, ausentes no texto. A D aponta termos técnicos e científicos, que não aparecem numa notícia policial como essa. Gabarito: E.",
+  "hash": "28e4816eaf05ad3e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2010-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de texto informativo",
   "dificuldade": 1,
