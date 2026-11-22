@@ -251,6 +251,321 @@
   "hash": "f1b8eafe6555e168",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2012-ppl-d2-q136": {
+  "assunto": "Sequências e progressões: progressão aritmética",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a previsão da produção de resíduos por habitante em 2020, mantendo o padrão da tabela. Os dados são: 1995, 460 kg; 2000, 500 kg; 2005, 540 kg. A cada 5 anos, a produção aumenta 40 kg (500 − 460 = 40 e 540 − 500 = 40), ou seja, cresce como uma progressão aritmética de razão 40 a cada intervalo de 5 anos. Basta continuar a sequência: 2010: 540 + 40 = 580 kg; 2015: 580 + 40 = 620 kg; 2020: 620 + 40 = 660 kg. Outra forma: de 2005 a 2020 são 15 anos, isto é, 3 intervalos de 5 anos, logo 540 + 3 × 40 = 660 kg. A alternativa A (610) e a B (640) subestimam o crescimento. A D (700) corresponde a somar 4 intervalos em vez de 3. A E (710) não segue o padrão constante da tabela. Gabarito: C.",
+  "hash": "786ef45a82305d51",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q137": {
+  "assunto": "Raciocínio lógico: ordenação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede os dois primeiros colocados a partir de pistas lógicas. Organize as informações: D ficou à frente de A, e A ficou à frente de C; logo, a ordem relativa é D, A, C. C ficou imediatamente à frente de E, então temos D, A, C, E, com C e E em sequência. Falta encaixar B, que não ficou entre os 3 últimos, ou seja, ficou em 1º ou 2º lugar. Como D, A, C, E precisam manter essa ordem e há 5 posições, as possibilidades são: B, D, A, C, E ou D, B, A, C, E. Nos dois casos, os dois primeiros são B e D, alternativa C. A alternativa A erra, pois A está atrás de D. A B é impossível, já que C está atrás de A e D. A D inclui E, que está depois de C. A E inclui C, que está no máximo em 4º lugar. Gabarito: C.",
+  "hash": "eb8bd7de4ad83930",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q138": {
+  "assunto": "Razão e proporção: custo-benefício, leitura de tabela",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o modelo de lâmpada que atinge exatamente 240 lúmens por watt com a menor relação custo/benefício, definida como preço médio ÷ vida útil. Pela figura, as eficiências são: incandescente 12, halógena 20, fluorescente 80, fluorescente compacta 60 e LED 80. Todas dividem 240 (240 = 20 × 12 = 12 × 20 = 3 × 80 = 4 × 60), então todos os modelos permitem obter a eficiência desejada combinando lâmpadas iguais. O critério de desempate é a relação custo/benefício: incandescente: 3 ÷ 1 = 3; halógena: 10 ÷ 4 = 2,5; fluorescente: 6 ÷ 8 = 0,75; fluorescente compacta: 13 ÷ 6 ≈ 2,17; LED: 130 ÷ 40 = 3,25. O menor valor é o da fluorescente, 0,75, alternativa C. A alternativa A (LED) tem a maior relação, apesar da vida longa. A B e a D têm relações 2,5 e 3. A E, com cerca de 2,17, também supera a fluorescente. Gabarito: C.",
+  "hash": "852b5caa6193876f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q139": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a média mensal de consumo de energia de setembro de 2011 a fevereiro de 2012, ou seja, de 6 meses. As tabelas trazem: setembro 292, outubro 284, novembro 301, dezembro 292, janeiro 281 e fevereiro 242 kWh. Somando: 292 + 284 = 576; 576 + 301 = 877; 877 + 292 = 1169; 1169 + 281 = 1450; 1450 + 242 = 1692. A média é 1692 ÷ 6 = 282 kWh, alternativa B. A alternativa A (280) e as alternativas C, D e E (284, 288 e 292) resultam de erros de soma ou do uso de apenas parte dos meses; por exemplo, 292 é a moda dos valores, não a média. Gabarito: B.",
+  "hash": "2fe90da3f6f24d6b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q140": {
+  "assunto": "Razão e proporção: comparação de preços, unidades",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a ordem crescente de preço das nozes nos três supermercados. Para comparar, é preciso colocar todos os preços na mesma unidade, por exemplo, reais por quilograma. Supermercado A: R$ 24,00 por kg. Supermercado B: 250 g custam R$ 3,00; como 1 kg = 4 × 250 g, o quilo sai por 4 × 3 = R$ 12,00. Supermercado C: 100 g custam R$ 1,50; como 1 kg = 10 × 100 g, o quilo sai por 10 × 1,50 = R$ 15,00. Em ordem crescente: B (12), C (15), A (24), alternativa C. A alternativa A coloca o mais caro primeiro. A B troca C e A. A D e a E começam por C, que não é o mais barato. Gabarito: C.",
+  "hash": "3b50177c6d7f0e3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q141": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a média de machucados, em milhares, nos tipos de acidente da tabela. Os valores são: andando a cavalo 80, andando de bicicleta 400, acidentes na cama 500, acidentes na piscina 160, acidentes no banheiro 400 e jogando futebol 200. Somando: 80 + 400 + 500 + 160 + 400 + 200 = 1740. São 6 tipos de acidente, então a média é 1740 ÷ 6 = 290 mil, alternativa C. A alternativa A (200) corresponde a um dos valores da tabela, não à média. A D (300) e a B (268) vêm de erros de soma ou de divisão. A E (330) também não corresponde à média correta. Gabarito: C.",
+  "hash": "fe623bcd6e731739",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q142": {
+  "assunto": "Porcentagem: cálculo do todo a partir da parte",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tamanho aproximado do rebanho bovino brasileiro em 2010. O texto informa que 22,9 milhões de vacas ordenhadas correspondem a 10,9% do rebanho. Chamando o rebanho de x: 0,109 · x = 22,9, logo x = 22,9 ÷ 0,109. Fazendo a conta: 22,9 ÷ 0,109 = 22 900 ÷ 109 ≈ 210,09 milhões, alternativa D. Para conferir: 10% de 210 é 21 e 0,9% de 210 é cerca de 1,9; somando, 22,9. A alternativa A (25,40) soma 10,9% aos 22,9 em vez de dividir. A B usa uma relação sem sentido com os 30,7 bilhões de litros. A C (187,19) e a E (281,65) resultam de divisões erradas ou do uso de outro dado. Gabarito: D.",
+  "hash": "93fb3fccd5a05b19",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q143": {
+  "assunto": "Leitura de gráficos e tabelas: variação absoluta",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o estado com maior aumento absoluto da taxa de incidência de tuberculose entre 2000 e 2004. Aumento absoluto é a diferença entre os valores: taxa de 2004 − taxa de 2000. Calculando: Amapá: 37,1 − 9,0 = 28,1; Amazonas: 69,0 − 72,8 = −3,8 (queda); Goiás: 16,7 − 20,5 = −3,8 (queda); Minas Gerais: 27,2 − 0,3 = 26,9; Pernambuco: 51,0 − 43,3 = 7,7; Rio de Janeiro: 79,7 − 90,7 = −11,0 (queda); São Paulo: 38,2 − 45,8 = −7,6 (queda). O maior aumento é o do Amapá, 28,1, alternativa A. A alternativa B e a E apontam estados cujas taxas caíram, embora sejam as mais altas. A C (Minas Gerais) teria o maior aumento relativo, mas o absoluto é menor que o do Amapá. A D tem aumento de apenas 7,7. Gabarito: A.",
+  "hash": "dfc8a8655264a2d5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q144": {
+  "assunto": "Geometria espacial: planificação do cubo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede os pares de faces opostas do cubo montado a partir da planificação em escada. Na figura, de cima para baixo: E no topo; abaixo dele N; à direita de N, outro E; abaixo desse E, M; à direita de M, B; abaixo de B, R. Apoiando M na mesa: o E ligado a M (acima dele na figura) sobe e vira a parede de trás; o B, à direita de M, vira a parede da direita; o R, ligado a B, dobra e forma a parede da frente; o N, ligado à esquerda do E de trás, vira a parede da esquerda; e o E do topo, ligado a N, fecha a face de cima. Assim: M (base) é oposta ao E de cima; B (direita) é oposta a N (esquerda); o E de trás é oposto a R (frente). Os pares são E-M, B-N e E-R, alternativa C. As alternativas A e E juntam E e N, que são vizinhas na planificação. A B junta as duas faces E, que não são opostas. A D junta M e N, que são adjacentes no cubo. Gabarito: C.",
+  "hash": "02af6264afcf83c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q145": {
+  "assunto": "Aritmética: lucro, receita e custo",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] O enunciado está corrompido: \"3 deles\" e o \"4\" solto indicam a fração ¾ dos clientes. A questão pede o lucro médio diário da churrascaria. Lendo o dado como ¾ dos 1 000 clientes almoçando até as 15 h: ¾ × 1 000 = 750 clientes pagam R$ 12,00 e os outros 250 pagam R$ 9,00. O custo é R$ 7,00 por pessoa. Lucro por cliente antes das 15 h: 12 − 7 = R$ 5,00, logo 750 × 5 = R$ 3 750,00. Lucro por cliente depois das 15 h: 9 − 7 = R$ 2,00, logo 250 × 2 = R$ 500,00. Lucro total: 3 750 + 500 = R$ 4 250,00, alternativa C. A alternativa A (9 000) é a receita dos 750 clientes, sem descontar o custo. A B (7 000) é o custo total. A D (3 750) considera apenas o lucro do almoço até as 15 h. A E (2 250) não corresponde a nenhuma combinação correta. Gabarito: C.",
+  "hash": "e32542d5bb4498a3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q146": {
+  "assunto": "Teoria dos números: mínimo múltiplo comum",
+  "dificuldade": 5,
+  "explicacao": "[REVISAR] Pelos ciclos do enunciado, a primeira espécie a surgir sozinha com P seria A (ano 8) e a segunda C (ano 12), ordem diferente da indicada pelo gabarito oficial. A questão pede a ordem em que as espécies A, B e C surgirão sozinhas com o predador P. Todas saíram juntas na primavera atual. Cada espécie reaparece em múltiplos do seu período: P a cada 4 anos, A a cada 8, B a cada 7 e C a cada 6. P encontra A nos múltiplos comuns de 4 e 8, ou seja, mmc(4, 8) = 8; encontra C em mmc(4, 6) = 12; encontra B em mmc(4, 7) = 28. É preciso verificar se, nesses anos, a espécie está sozinha com P: no ano 8, B (7, 14) e C (6, 12) não aparecem; no ano 12, A (8, 16) e B não aparecem. O gabarito oficial aponta C como a primeira espécie ameaçada e A como a segunda, alternativa C, envolvendo exatamente as espécies encontradas nesses dois primeiros encontros. As alternativas A e E incluem B, que só encontra P no ano 28. A B inclui B como segunda. A D traz as mesmas espécies do gabarito, na ordem inversa. Gabarito: C.",
+  "hash": "36ebad38751c3e5a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q147": {
+  "assunto": "Grandezas e medidas: volume, conversão de unidades",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Somando os 20 minutos até a chegada da equipe com as 2 horas de conserto (140 min), o volume restante seria 25,8 m³; o gabarito D considera apenas 120 minutos de vazamento. A questão pede o volume que sobrou no reservatório. O vazamento é de 30 L por minuto e o reservatório começou com 30 m³ = 30 000 L. Seguindo a leitura do gabarito oficial, contam-se 2 horas de vazamento: 120 min × 30 L/min = 3 600 L = 3,6 m³. Sobram 30 − 3,6 = 26,4 m³, alternativa D. A alternativa A (3,6) é o volume perdido, não o que sobrou. A B (4,2) é o volume perdido em 140 minutos. A C (25,8) corresponde a considerar 140 minutos de vazamento. A E (27,6) não corresponde a nenhum tempo do enunciado. Gabarito: D.",
+  "hash": "c2b224e96c67635d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q148": {
+  "assunto": "Porcentagem: porcentagem de porcentagem, gráficos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o percentual do total de entrevistados que conhecem diabéticos na escola. O primeiro gráfico mostra que 37% dos entrevistados conhecem alguém com diabetes. O segundo gráfico mostra, entre esses que conhecem, onde conhecem: 48% na família, 21% no trabalho, 16% na família e no trabalho e 15% na escola. O ponto-chave é que os 15% se referem apenas aos 37% que responderam sim, e não ao total. Assim, é preciso calcular 15% de 37%: 0,15 × 0,37 = 0,0555, ou seja, cerca de 5,55%, que se aproxima de 6%, alternativa A. A alternativa B (15%) usa o percentual do segundo gráfico como se fosse do total. A C (37%) é o percentual de quem conhece diabéticos em qualquer lugar. A D e a E não correspondem a nenhuma conta coerente com os gráficos. Gabarito: A.",
+  "hash": "b3c09a24dfc1d5f7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q149": {
+  "assunto": "Probabilidade: evento complementar",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a probabilidade de uma pessoa de 0 a 17 anos, escolhida ao acaso, não ter preferência por horóscopo. A tabela mostra que 9,0% preferem horóscopo. Considerando que os dados refletem a população dessa faixa etária, a probabilidade de preferir horóscopo é 0,09. O evento pedido é o complementar: P(não horóscopo) = 1 − 0,09 = 0,91, alternativa E. A alternativa A (0,09) é a probabilidade de preferir horóscopo, o contrário do pedido. A B (0,10) e a C (0,11) correspondem a outras linhas ou a leituras erradas da tabela, como serviços web ou games. A D (0,79) não corresponde ao complementar do horóscopo. Gabarito: E.",
+  "hash": "6acbdbcbd86d783b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q150": {
+  "assunto": "Aritmética: sistema de numeração romano",
+  "dificuldade": 1,
+  "explicacao": "[REVISAR] O trecho com os números está corrompido; pelas alternativas, eles são MCCV e XLIII, ambos com traço em cima. A questão pede o valor de números romanos com traço superior, que, segundo o enunciado, multiplica o número por 1 000. Primeiro converta sem o traço. MCCV: M = 1 000, CC = 200, V = 5; total 1 205. Com o traço: 1 205 × 1 000 = 1 205 000. XLIII: XL = 50 − 10 = 40 (X antes de L subtrai), III = 3; total 43. Com o traço: 43 × 1 000 = 43 000. A resposta é 1 205 000 e 43 000, alternativa A. A alternativa B erra ao ler XL como 60. A C lê XLIII de forma incoerente. A D lê CCV como 250, confundindo V com L. A E combina os dois erros. Gabarito: A.",
+  "hash": "0af7293a2b963696",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q151": {
+  "assunto": "Porcentagem: misturas, concentração",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos litros de gasolina devem ser acrescentados a 40 mil litros de E25 para obter E20. Primeiro, calcule o etanol presente: 25% de 40 000 = 10 000 L de etanol e 30 000 L de gasolina. Ao acrescentar só gasolina, a quantidade de etanol continua 10 000 L. Na mistura E20, esse etanol deve representar 20% do total: 0,20 × T = 10 000, logo T = 50 000 L. Como já havia 40 000 L, é preciso acrescentar 50 000 − 40 000 = 10 000 L de gasolina, alternativa C. Conferindo: 10 000 ÷ 50 000 = 20%. A alternativa A (32 000) é a quantidade de gasolina em 40 mil litros de E20. A B (16 000) e a D (8 000) resultam de proporções mal montadas. A E (2 000) corresponde a calcular 5% de 40 000, como se bastasse retirar os 5 pontos percentuais. Gabarito: C.",
+  "hash": "996a41af5970bfa9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q152": {
+  "assunto": "Função quadrática: valor máximo, vértice",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a pontuação máxima possível. Se o participante coleta n moedas, subtrai-se n% de n, isto é, n · n/100. A pontuação é P(n) = n − n²/100, uma função quadrática com coeficiente de n² negativo; o gráfico é uma parábola com concavidade para baixo, que tem valor máximo no vértice. O vértice está em n = −b/(2a) = −1 ÷ (2 · (−1/100)) = 50. A pontuação máxima é P(50) = 50 − 2 500/100 = 50 − 25 = 25 pontos, alternativa B. Confira com o exemplo do enunciado: 60 moedas dão 24 pontos, menos que 25. A alternativa A (0) é a pontuação de quem coleta 0 ou 100 moedas. A C (50) é o número de moedas, não a pontuação. A D (75) e a E (100) ignoram o desconto. Gabarito: B.",
+  "hash": "42e7d18e1dd63e5b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q153": {
+  "assunto": "Escalas: escala de redução, dimensões",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantas caixinhas de carrinhos cabem em cada prateleira de 95 cm por 7 cm. Primeiro, aplique a escala 1:43 às medidas reais. Comprimento: 387 ÷ 43 = 9 cm. Largura: 172 ÷ 43 = 4 cm. Com folga de 0,5 cm de cada lado, a caixa mede 9 + 0,5 + 0,5 = 10 cm de comprimento e 4 + 0,5 + 0,5 = 5 cm de largura. A prateleira tem 7 cm de largura, então a caixa só cabe com seus 5 cm na largura (os 10 cm não caberiam). Ao longo dos 95 cm de comprimento, cabem 95 ÷ 10 = 9,5, ou seja, 9 caixas inteiras, alternativa D. A alternativa A (2) e a B (3) não correspondem às medidas. A C (7) usa as medidas sem a folga ou de forma errada. A E (10) arredonda 9,5 para cima, mas a décima caixa não cabe inteira. Gabarito: D.",
+  "hash": "de2152c192a5d964",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q154": {
+  "assunto": "Geometria espacial: área de bloco retangular, custo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantas latas comprar e de qual fornecedor, com menor custo. A piscina é um bloco de 20 m × 10 m × 1 m, e o impermeabilizante vai no fundo e nas quatro laterais. Fundo: 20 × 10 = 200 m². Laterais: 2 × (20 × 1) + 2 × (10 × 1) = 40 + 20 = 60 m². Área total: 260 m², que exige 260 L. Fornecedor A: latas de 10 L, então 260 ÷ 10 = 26 latas; custo 26 × 100 = R$ 2 600,00. Fornecedor B: latas de 15 L, então 260 ÷ 15 ≈ 17,3, ou seja, 18 latas; custo 18 × 145 = R$ 2 610,00. O menor custo é o do fornecedor A, com 26 latas, alternativa A. A B (46 latas) inclui a área da superfície superior, que não existe. A C (17 latas) é insuficiente para cobrir 260 m². A D é viável, mas R$ 10,00 mais cara. A E também inclui área indevida. Gabarito: A.",
+  "hash": "2d26e868cc948942",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q155": {
+  "assunto": "Funções: taxa de variação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o comportamento do IDH brasileiro de 1990 a 2010. Os valores são: 0,600 em 1990; 0,665 em 2000; 0,715 em 2010. O índice aumentou nas duas décadas. Agora compare as variações decenais: de 1990 a 2000, 0,665 − 0,600 = 0,065; de 2000 a 2010, 0,715 − 0,665 = 0,050. Como 0,050 < 0,065, o crescimento ficou menor na segunda década: o IDH aumentou com variações decenais decrescentes, alternativa C. As alternativas A e B erram ao dizer que o IDH diminuiu. A D erra, pois proporção direta com o tempo exigiria aumentos iguais a cada década. A E também não se aplica, porque, se fosse inversamente proporcional ao tempo, o índice diminuiria. Gabarito: C.",
+  "hash": "28cea79402af2581",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q156": {
+  "assunto": "Geometria plana: áreas, ladrilhamento",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tipo de peça que reveste a sala de 3 m × 4 m sem cortes nem sobreposições e com o menor número de peças. A área da sala é 12 m². Tipo I: quadrado de 0,5 m; 3 ÷ 0,5 = 6 e 4 ÷ 0,5 = 8, cabem sem cortes, com 6 × 8 = 48 peças. Tipo II: triângulos equiláteros não preenchem os cantos retos sem cortes. Tipo III: retângulo de 0,5 m × 0,6 m; colocando 0,6 m no lado de 3 m e 0,5 m no lado de 4 m, temos 3 ÷ 0,6 = 5 e 4 ÷ 0,5 = 8, total 5 × 8 = 40 peças, sem cortes. Tipo IV: triângulo de área 0,5 × 0,5 ÷ 2 = 0,125 m², exigiria 12 ÷ 0,125 = 96 peças. Tipo V: quadrado de 0,6 m; 4 ÷ 0,6 não é inteiro, exigindo cortes. O menor número sem cortes é com o tipo III, alternativa C. A alternativa A funciona, mas exige mais peças. As alternativas B e E exigem cortes. A D exige 96 peças. Gabarito: C.",
+  "hash": "9b319b726539e804",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q157": {
+  "assunto": "Leitura de gráficos e tabelas: interpretação de gráfico",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] Lida como \"passar pela altura de 35 m\", a curva cruza essa marca na subida e na descida dos dois primeiros arcos; o gabarito interpreta \"atingir a marca\" como ter altura máxima de 35 m. A questão pede quantas vezes a bola atingiu a marca de 35 metros. O gráfico mostra arcos sucessivos, cada um com altura máxima menor que o anterior: o primeiro chega a cerca de 50 m, o segundo a cerca de 40 m, o terceiro a pouco mais de 30 m, e os seguintes a cerca de 25, 20 e 12 m. Considerando a marca como a altura atingida no ponto mais alto de um quique, nenhum dos arcos tem pico em 35 m: os dois primeiros ultrapassam esse valor e todos os outros ficam abaixo dele. Assim, segundo a leitura oficial, a bola nunca atingiu exatamente 35 m como altura máxima, alternativa A. A alternativa B (uma vez) e a C (duas vezes) não correspondem a nenhuma leitura do gráfico. A D corresponde a contar os cruzamentos da linha de 35 m. A E não tem base no gráfico. Gabarito: A.",
+  "hash": "ac01105ac91bcb6c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q158": {
+  "assunto": "Geometria plana: área do círculo, razão e proporção",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] Comparando áreas, a pizza grande rende 400π cm² por R$ 32 e a média 225π cm² por R$ 24, de modo que o argumento de Alan também se sustentaria. A questão pede qual jovem apresentou o melhor argumento sobre custo-benefício, segundo o gabarito oficial. Davidson observa que a razão entre os diâmetros, 40 ÷ 30 = 4/3, é igual à razão entre os preços, 32 ÷ 24 = 4/3. Pela leitura oficial, o preço é proporcional ao tamanho medido pelo diâmetro, e por isso nenhuma das pizzas seria mais vantajosa, alternativa D. Breno erra ao dizer que menos fatias significam mais pizza por fatia, pois o tamanho da fatia depende também do diâmetro. Cleber usa apenas o preço por fatia, ignorando o tamanho das fatias. Eric usa só o número de fatias, sem considerar o diâmetro. Alan compara as áreas das fatias, raciocínio que a observação acima discute. Gabarito: D.",
+  "hash": "ebdd8d3b2c0c9eeb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q159": {
+  "assunto": "Geometria espacial: cilindro, volume e área",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o motivo da rejeição do orçamento. As novas lixeiras têm raio triplicado, r = 30 cm, e altura aumentada em 10 cm, h = 60 cm. Primeiro, a capacidade: o volume do cilindro é π · r² · h. Antigo: 3 · 10² · 50 = 15 000 cm³. Novo: 3 · 30² · 60 = 3 · 900 · 60 = 162 000 cm³. A razão é 162 000 ÷ 15 000 = 10,8, ou seja, mais de 10 vezes: a capacidade atende. Agora, o custo. Como a lixeira não tem tampa, a área é a lateral mais a base: 2 · π · r · h + π · r² = 2 · 3 · 30 · 60 + 3 · 900 = 10 800 + 2 700 = 13 500 cm². O material custa R$ 0,20 a cada 100 cm²: 13 500 ÷ 100 × 0,20 = 135 × 0,20 = R$ 27,00. Como passa de R$ 20,00, o orçamento é rejeitado pelo custo, alternativa B. A alternativa A não corresponde à área correta. A C (R$ 32,40) inclui uma tampa que não existe. A D e a E erram, pois a capacidade aumentou 10,8 vezes. Gabarito: B.",
+  "hash": "133324ed4fbd0a02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q160": {
+  "assunto": "Geometria plana: triângulo equilátero, circunferência",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o ângulo θ entre AF e FC quando o segmento AC mede R. F é o centro da circunferência, e A, L e C estão sobre ela. Então FA = R (raio) e FC = R (raio). Se AC também mede R, o triângulo AFC tem os três lados iguais a R, ou seja, é equilátero. Em todo triângulo equilátero os ângulos internos medem 60°. Assim, o ângulo θ, formado por AF e FC no vértice F, mede 60°, alternativa C. A informação de que LA e AC são perpendiculares (ângulo inscrito numa semicircunferência) confirma a figura, mas não é necessária para a conta. A alternativa A (15°) e a B (30°) correspondem a outros ângulos, como o ângulo em L, que mede 30°. A D (90°) é o ângulo em A no triângulo LAC. A E (120°) é o ângulo LFA, suplemento de θ. Gabarito: C.",
+  "hash": "7ff62c1eb7eb03b5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q161": {
+  "assunto": "Geometria espacial: pirâmide, projeção ortogonal",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a projeção, no plano da base, do trajeto feito sobre a pirâmide. Na Figura 2, A é um vértice da base, B é o vértice do topo (ápice), C é um ponto da aresta lateral que desce de B para um vértice da frente, e D é um ponto da aresta lateral que desce de B para outro vértice da base. Ao projetar verticalmente na base, o ápice B cai no centro do quadrado, e cada aresta lateral vira um segmento do centro até o vértice correspondente. Etapa 1: A → B vira um segmento do vértice A até o centro. Etapa 2: B → C vira um segmento do centro até um ponto do segmento que liga o centro a um vértice da frente. Etapa 3: C → D, pelo caminho mais curto sobre a face, é um segmento de reta, que se projeta como outro segmento. Etapa 4: D → B volta ao centro. As etapas 2, 3 e 4 formam um triângulo com vértice no centro, ligado ao segmento que vem de A. É a figura da alternativa C. As demais alternativas não mostram o segmento vindo do vértice da base até o centro ligado a um triângulo fechado com vértice no centro. Gabarito: C.",
+  "hash": "f7417253c599f8c9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q162": {
+  "assunto": "Funções exponencial e logarítmica: decrescimento exponencial",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a taxa de redução anual constante para que a taxa de abandono chegue a cerca de 5,2% no final de 2013. Pelo gráfico, a taxa em 2010 é 10,3%. De 2010 a 2013 são 3 anos. Se a taxa cair i% ao ano, ela é multiplicada por (1 − i) a cada ano: 10,3 · (1 − i)³ = 5,2. Então (1 − i)³ = 5,2 ÷ 10,3 ≈ 0,505, que é aproximadamente 0,51. O enunciado informa que (0,8)³ = 0,51; logo, 1 − i = 0,8 e i = 0,2, isto é, redução de 20% ao ano, alternativa B. A alternativa A (10%) daria 10,3 · 0,9³ ≈ 7,5%, insuficiente. A C (41%) e a D (49%) aproximam a redução total no período, não a anual. A E (51%) confunde o fator 0,51 com a taxa. Gabarito: B.",
+  "hash": "c1d03a73cf93a96b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q163": {
+  "assunto": "Grandezas e medidas: conversão de unidades de volume",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a produção diária do pré-sal em metros cúbicos. Foram 129 mil barris por dia, e cada barril tem 159 litros. Em litros: 129 000 × 159 = 20 511 000 L. Como 1 m³ = 1 000 L, basta dividir por 1 000: 20 511 000 ÷ 1 000 = 20 511 m³, alternativa B. A alternativa A (20,511) divide por 1 000 000, como se 1 m³ tivesse um milhão de litros. A C e a D multiplicam ou dividem por potências de 10 erradas. A E (20 511 000) é o volume em litros, sem a conversão para m³. Gabarito: B.",
+  "hash": "3dfe2cfa8e9dd8f4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q164": {
+  "assunto": "Medidas de tendência central: média ponderada",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a nota do quarto bimestre, sabendo que a aluna precisa substituir a nota do primeiro bimestre por 4,8 para chegar à média 7. Pelo quadro: 1º bimestre nota 2,5 com peso 1; 2º, 5,8 com peso 2; 3º, 7,4 com peso 3; 4º, x com peso 4. A soma dos pesos é 10. Para média 7, a soma ponderada deve ser 70. Com a nota substituta: 4,8 · 1 + 5,8 · 2 + 7,4 · 3 + 4x = 70, ou seja, 4,8 + 11,6 + 22,2 + 4x = 70, logo 38,6 + 4x = 70, então 4x = 31,4 e x = 7,85. Pela regra de arredondamento (segunda casa 5, sobe uma unidade), a nota é 7,9. Conferindo com a nota original: 2,5 + 11,6 + 22,2 + 31,6 = 67,9, média 6,79, menor que 7, o que confirma a necessidade da prova. Alternativa C. A alternativa A não chega perto da média. A B deixaria a soma insuficiente mesmo com a substituição. A D e a E dariam média 7 ou mais sem precisar de prova. Gabarito: C.",
+  "hash": "a2b75c8a1d13d0bc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q165": {
+  "assunto": "Geometria espacial: tronco de cone e cilindro",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o menor valor de y² para que a caneca cilíndrica comporte o volume do maior copo. Use V = (πh/3)(R² + r² + Rr). Copo pequeno: h = 3,6, R = 2,4, r = 1,8: R² = 5,76, r² = 3,24, Rr = 4,32, soma 13,32; V = 1,2π × 13,32 = 15,984π cm³. Copo grande: h = 8, R = 3,6, r = 2,4: R² = 12,96, r² = 5,76, Rr = 8,64, soma 27,36; V = (8/3)π × 27,36 = 72,96π cm³. Como a caneca serve para café e água, deve comportar o maior volume, 72,96π. A caneca tem volume π · y² · 6. Então 6πy² ≥ 72,96π, logo y² ≥ 12,16, alternativa C (a unidade correta seria cm²). A alternativa A (2,664) usa o volume do copo pequeno. A B (7,412) e a D (14,824) vêm de combinações erradas dos dois volumes. A E (19,840) não corresponde ao cálculo correto. Gabarito: C.",
+  "hash": "53787a48bdbf03c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q166": {
+  "assunto": "Razão e proporção: vazão, tempo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede os horários de fechamento dos registros para transportar o máximo de soja. O milho deve totalizar a encomenda de 1 800 kg. O silo 1 libera 120 kg por minuto, abrindo às 12h: 1 800 ÷ 120 = 15 minutos, fechando às 12h15. A carga máxima do caminhão é 3 400 kg; com 1 800 kg de milho, sobram 3 400 − 1 800 = 1 600 kg para a soja, que cabem no reservatório de 2 000 kg. O silo 2 libera 80 kg por minuto e abre às 12h05: 1 600 ÷ 80 = 20 minutos, fechando às 12h25, alternativa B. A alternativa A conta os 20 minutos a partir das 12h, esquecendo o atraso de 5 minutos. As alternativas C e D carregariam soja além do limite legal. A E corresponderia a encher o reservatório de 2 000 kg, ultrapassando a carga máxima. Gabarito: B.",
+  "hash": "cdabeff6a18c8a89",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q167": {
+  "assunto": "Geometria plana: triângulos isósceles, simetria",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] Pela dobradura, MD = MA = MB e ND = NA = NC, o que torna isósceles CND e DMB; NDM, congruente a NAM, só é isósceles se AB = AC. A questão pede triângulos isósceles formados após dobrar o vértice A sobre o ponto D de BC, com a dobra passando por M e N, pontos médios de AB e AC. A dobra é uma reflexão: preserva distâncias, então ND = NA e MD = MA. Como N é ponto médio de AC, NA = NC; logo ND = NC, e o triângulo CND tem dois lados iguais, sendo isósceles, como afirma a primeira parte do gabarito. O triângulo NDM é a imagem do triângulo NAM pela dobra, com lados ND = NA = AC/2, MD = MA = AB/2 e NM = BC/2. O gabarito oficial aponta CND e NDM, alternativa E. A alternativa A cita triângulos que não surgem da dobradura. A B usa o segmento AD, que não é lado de dobra. A C depende das mesmas medidas de NDM. A D inclui DMB, ver observação acima. Gabarito: E.",
+  "hash": "9bc3ba474c634325",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q168": {
+  "assunto": "Função afim: lei de formação a partir do gráfico",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] O gráfico é decrescente, passando por (10, 8) e (60, 0), o que dá coeficiente angular −0,16, e não +0,16 como na expressão do gabarito. A questão pede a expressão que relaciona a convergência máxima Cₘₐₓ com a idade T. O gráfico é uma reta, logo a relação é afim, do tipo Cₘₐₓ = aT + b, o que descarta as alternativas A (exponencial), B (quadrática) e C (logarítmica). A reta passa por (10, 8) e (60, 0). O coeficiente angular é a = (0 − 8) ÷ (60 − 10) = −8/50 = −0,16, em módulo 0,16. Substituindo (60, 0): 0 = 60a + b, então b = 9,6, que é o termo independente comum às duas alternativas afins, D e E. O gabarito oficial indica a alternativa D, Cₘₐₓ = 0,16T + 9,6. Gabarito: D.",
+  "hash": "37e835becd445e0c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q169": {
+  "assunto": "Sistemas lineares e matrizes: modelagem com sistemas",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Os sistemas dos cinco funcionários estão corrompidos na extração e não podem ser conferidos linha a linha. A questão pede o sistema que modela corretamente os dados. Sejam x e y as toneladas de soja e de milho. A primeira equação vem do total produzido: x + y = 150,5 milhões, ou seja, x + y = 150 500 000. A segunda vem da arrecadação: cada tonelada de soja rende R$ 0,28 e cada tonelada de milho R$ 0,22, totalizando R$ 36,14 milhões: 0,28x + 0,22y = 36 140 000. O cuidado está nas unidades: ou as duas equações usam milhões (x + y = 150,5 e 0,28x + 0,22y = 36,14), ou ambas usam valores absolutos, sem misturar escalas. Segundo o gabarito oficial, o sistema de André é o que apresenta essas duas equações de forma coerente, alternativa A. Os demais misturam escalas, trocam os coeficientes de soja e milho ou usam o total errado. Gabarito: A.",
+  "hash": "a43f4530a8db37f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q170": {
+  "assunto": "Função afim: lei de formação a partir de tabela",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a lei da relação linear entre altitude y e tempo t. A tabela mostra: t = 0, y = 10 000; t = 5, y = 8 000; t = 10, y = 6 000; t = 15, y = 4 000; t = 20, y = 2 000. Em t = 0 a altitude é 10 000 m, que é o coeficiente linear. A cada 5 minutos, a altitude cai 2 000 m, logo a taxa de variação é −2 000 ÷ 5 = −400 m por minuto. A lei é y = 10 000 − 400t, alternativa D. Conferindo: t = 20 dá 10 000 − 8 000 = 2 000. A alternativa A esquece a altitude inicial. A B usa −2 000, que é a queda a cada 5 minutos, não por minuto. A C usa altitude inicial errada. A E combina a altitude certa com a taxa errada. Gabarito: D.",
+  "hash": "3478ae1bc1df5f20",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q171": {
+  "assunto": "Sequências e progressões: progressão geométrica, fractais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número de quadrados pretos após 3 aplicações do processo do Carpete de Sierpinski. Em cada passo, cada quadrado preto é dividido em 9 quadrados menores e o central é removido, restando 8 quadrados pretos para cada quadrado anterior. Assim, o número de quadrados pretos é multiplicado por 8 a cada passo. Passo 1: 1 × 8 = 8 (Figura 2). Passo 2: 8 × 8 = 64 (Figura 3). Passo 3: 64 × 8 = 512. Em geral, após n passos, restam 8ⁿ quadrados; com n = 3, 8³ = 512, alternativa B. A alternativa A (64) corresponde ao passo 2. A C (568) e a D (576) somam quadrados de etapas diferentes. A E (648) multiplica por 9 e subtrai de forma errada. Gabarito: B.",
+  "hash": "27cf6bed33e5a92e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q172": {
+  "assunto": "Sistemas lineares e matrizes: sistema de equações, geometria",
+  "dificuldade": 4,
+  "explicacao": "A questão pede se a nova arrumação é possível e quais as medidas do compartimento. Na Figura 1, as caixas ficam em pé, com largura a e altura b, em 2 fileiras de 5, sobrando 2 cm na altura e 2 cm + 3 cm na largura. Então: altura H = 2b + 2 e largura L = 5a + 5. Na Figura 2, as caixas ficam deitadas, com altura a e largura b, em 4 fileiras de 3, sem folgas: H = 4a e L = 3b. Igualando: 4a = 2b + 2, logo b = 2a − 1; e 3b = 5a + 5. Substituindo: 3(2a − 1) = 5a + 5, então 6a − 3 = 5a + 5 e a = 8 cm; b = 15 cm. O compartimento mede H = 4 · 8 = 32 cm e L = 3 · 15 = 45 cm. Conferindo: 2 · 15 + 2 = 32 e 5 · 8 + 5 = 45. A troca é possível, alternativa E. A alternativa A e a B dizem que não é possível. A C traz medidas erradas. A D fala em folga de 2 cm, mas a nova disposição não tem folgas. Gabarito: E.",
+  "hash": "c13f296ff11c0749",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q173": {
+  "assunto": "Aritmética: otimização com área e capacidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como organizar as 100 mesas para acomodar 400 convidados em 500 m². Mesas isoladas: cada uma recebe 4 pessoas e ocupa 1 m² de mesa + 4 m² de circulação = 5 m². Grupos de duas mesas: cada grupo recebe 6 pessoas e ocupa 2 m² + 6 m² = 8 m². Testando todas separadas: 100 × 4 = 400 pessoas e 100 × 5 = 500 m². Atende exatamente, alternativa A. Todas agrupadas (B): 50 grupos × 6 = 300 pessoas, insuficiente. Na C, cerca de 33 mesas separadas e 67 agrupadas comportam menos de 400 pessoas. Na D, 25 separadas (100 pessoas) e 75 agrupadas, que nem formam grupos inteiros e dão no máximo cerca de 222 pessoas a mais, total abaixo de 400. Na E, 60 separadas (240 pessoas) e 40 agrupadas em 20 grupos (120 pessoas) dão 360. Gabarito: A.",
+  "hash": "83c4e89522bd02cf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q174": {
+  "assunto": "Porcentagem: aumentos e descontos sucessivos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o preço do produto no final de junho após dois descontos e dois aumentos de 10%. Desconto de 10% significa multiplicar por 0,9; aumento de 10%, multiplicar por 1,1. Março: 100 × 0,9 = 90. Abril: 90 × 0,9 = 81. Maio: 81 × 1,1 = 89,10. Junho: 89,10 × 1,1 = 98,01. Ou, de uma vez: 100 × 0,9² × 1,1² = 100 × (0,99)² = 100 × 0,9801 = R$ 98,01, alternativa C. A alternativa A supõe que descontos e aumentos de mesma taxa se anulam, o que é falso, pois incidem sobre bases diferentes. A B (99,00) corresponde a aplicar só um desconto e um aumento. A D e a E não resultam dos fatores corretos. Gabarito: C.",
+  "hash": "68c7da5e3fb46d46",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q175": {
+  "assunto": "Razão e proporção: regra de três simples",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o ajuste no tempo diário de pedalada para bombear exatamente 550 litros. Em 1 hora (60 minutos), a pessoa bombeia 500 litros, ou seja, 500 ÷ 60 litros por minuto. Para 550 litros, o tempo é proporcional: t = 550 ÷ 500 × 60 = 1,1 × 60 = 66 minutos. Como ela pedala 60 minutos, precisa aumentar o tempo em 66 − 60 = 6 minutos, alternativa D. Outra forma: faltam 50 litros, que são 10% de 500, e 10% de 60 minutos são 6 minutos. As alternativas A e B propõem reduzir o tempo, o que bombearia menos água. A C (5 minutos) é insuficiente. A E (10 minutos) confunde os 10% com 10 minutos. Gabarito: D.",
+  "hash": "557f1542a76712de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q176": {
+  "assunto": "Grandezas e medidas: notação numérica, potências de 10",
+  "dificuldade": 1,
+  "explicacao": "A questão pede, em anos, há quanto tempo o Sistema Solar se formou. O texto diz: há 4,57 bilhões de anos. Um bilhão é 1 000 000 000, ou seja, 10⁹. Então 4,57 bilhões = 4,57 × 10⁹ = 4 570 000 000 anos, alternativa C. A alternativa A (4 570) corresponde a 4,57 mil. A B (4 570 000) corresponde a 4,57 milhões. A D corresponde a 4,57 trilhões. A E corresponde a 4,57 quatrilhões. Gabarito: C.",
+  "hash": "a0f40c7e3ca18f78",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q177": {
+  "assunto": "Grandezas e medidas: IMC, leitura de tabela",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as classes de IMC antes e depois da dieta. Use IMC = m/h². Antes: m = 144 kg e h = 2 m, logo IMC = 144 ÷ 2² = 144 ÷ 4 = 36. Pela tabela, 30 ≤ IMC < 40 corresponde à obesidade do tipo I. Depois de perder 64 kg, a massa é 144 − 64 = 80 kg, e o IMC = 80 ÷ 4 = 20. Pela tabela, 19 ≤ IMC < 25 é peso normal. O indivíduo migra de obesidade do tipo I para peso normal, alternativa D. As alternativas A e B erram a classe inicial: obesidade mórbida exige IMC ≥ 40. A C erra a classe final, pois 20 não é menor que 19. A E erra a classe inicial: sobrepeso vai de 25 a 30. Gabarito: D.",
+  "hash": "a3ee784822709f2d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q178": {
+  "assunto": "Razão e proporção: proporção em misturas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede quantos litros sobram ao misturar o máximo possível de tinta na proporção de 5 L de vermelha para 3 L de branca. Testando cada cor como limitante: usando toda a vermelha (35 L), a branca necessária é 35 × 3/5 = 21 L, que estão disponíveis, pois há 30 L. Usando toda a branca (30 L), a vermelha necessária seria 30 × 5/3 = 50 L, mas só há 35 L, então isso é impossível. Logo, usa-se toda a vermelha e 21 L de branca, sobrando 30 − 21 = 9 L de tinta branca, alternativa B. A alternativa A (5) não corresponde a nenhuma das contas. A C (12) e a D (14) vêm de proporções invertidas. A E (17) não resulta da proporção dada. Gabarito: B.",
+  "hash": "9a649cae3d4a10e8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q179": {
+  "assunto": "Porcentagem: porcentagem de um total",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] Pela tabela, 59% de 1 165 ≈ 687 pessoas responderam \"diminuindo\"; o valor do gabarito, 1 106, corresponde a cerca de 95% dos entrevistados. A questão pede quantas pessoas, aproximadamente, responderam que o preconceito está diminuindo. A pesquisa ouviu 1 165 pessoas, e a tabela traz: igual 31%, aumentando 10% e diminuindo 59%. Para converter porcentagem em número de pessoas, multiplica-se o percentual pelo total de entrevistados. As outras alternativas também vêm de porcentagens do total: 10% de 1 165 ≈ 116 e 31% de 1 165 ≈ 361 correspondem às respostas \"aumentando\" e \"igual\"; 6% daria cerca de 69. O gabarito oficial indica 1 106, alternativa E. Gabarito: E.",
+  "hash": "0bf6012845ebe3ca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q180": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de função por partes",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gráfico que representa as vendas mensais descritas. O texto traz três fases: do lançamento até o 5º mês, crescimento linear, ou seja, um segmento de reta subindo; do 5º mês até o 10º, redução linear, um segmento de reta descendo; nos dois últimos meses (11º e 12º), vendas estabilizadas, um segmento horizontal. O gráfico correto, portanto, é formado por três segmentos de reta: subida até o mês 5, descida até o mês 10 e trecho constante até o mês 12. É o que mostra a alternativa D. As alternativas erradas apresentam curvas em vez de segmentos de reta, o pico em mês diferente do 5º, ou a estabilização fora dos dois últimos meses, contrariando alguma das condições do enunciado. Gabarito: D.",
+  "hash": "73e3c281604f13eb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2012-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de tirinha, estereótipos de gênero",
   "dificuldade": 3,
