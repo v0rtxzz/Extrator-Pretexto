@@ -251,6 +251,321 @@
   "hash": "4577ebf29d59b41b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2011-ppl-d2-q136": {
+  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o comprimento total da trilha poligonal de A até M, sabendo que AB mede 11 m e cada segmento seguinte tem 1 m a menos que o anterior. Observando o esquema, a trilha passa por A, B, C, D, E, F, G, H, I, J, L e M (não há ponto K). Contando os segmentos: AB, BC, CD, DE, EF, FG, GH, HI, IJ, JL e LM, ou seja, 11 segmentos. Os comprimentos formam uma progressão aritmética decrescente: 11, 10, 9, ..., 1, com razão −1. O último segmento, LM, mede 11 − 10 = 1 m. A soma é S = (a₁ + aₙ) × n ÷ 2 = (11 + 1) × 11 ÷ 2 = 12 × 11 ÷ 2 = 66 m. A alternativa A (176) supõe 16 segmentos de 11 m, sem redução. B (121) corresponde a 11 segmentos de 11 m, ignorando a diminuição. C (111) não resulta da soma correta da progressão. E (65) desconta um metro a mais, como se o primeiro segmento tivesse 10 m ou faltasse uma parcela. Gabarito: D.",
+  "hash": "e8575797a2f62499",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q137": {
+  "assunto": "Leitura de gráficos e tabelas: interpretação de tabela",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] O enunciado está truncado (corta em porcentagens de casos de) e a tabela de apoio não foi extraída, então não é possível conferir os números. A questão pede qual grupo deve ter prioridade na vacinação, usando como critério as porcentagens de casos registradas na tabela por grupo de pessoas. O raciocínio esperado é comparar, entre os grupos, a porcentagem de mortes em relação aos casos: o grupo com maior índice de mortalidade é o que mais precisa ser protegido, já que a gripe tem alto índice de mortalidade. Segundo o gabarito, esse grupo é o das crianças entre 3 e 10 anos, cuja porcentagem de mortos é a maior em relação aos outros grupos. A alternativa B usa o número absoluto de contaminados, critério diferente do proposto. C justifica a prioridade pela porcentagem de curadas, o que indicaria menor risco, não maior. D apela para expectativa de vida, dado que não está na tabela. E traz uma afirmação genérica sobre obesidade sem base nos dados. Gabarito: A.",
+  "hash": "a8780bbf3d09b930",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q138": {
+  "assunto": "Razão e proporção: grandezas diretamente proporcionais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o novo valor mensal pago pela água depois que o Sr. José amplia o terreno. O ponto central é perceber que o consumo de água para irrigação é proporcional à área plantada; o diâmetro do tubo é um dado distrator. O terreno original é um quadrado de 30 m de lado, com área 30 × 30 = 900 m². Ele compra outro terreno igual e passa a ter um retângulo de 30 m por 60 m, com área 30 × 60 = 1 800 m². A área dobrou (1 800 ÷ 900 = 2), então o consumo de água também dobra, e o valor pago passa de R$ 100,00 para 2 × 100 = R$ 200,00. A alternativa A mantém o valor, ignorando o aumento da área. B (R$ 180,00) e D (R$ 240,00) não correspondem a nenhuma proporção coerente com a área. E (R$ 300,00) triplicaria o gasto, como se a área tivesse triplicado. Gabarito: C.",
+  "hash": "a2913acc486e7b7e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q139": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de barras empilhadas",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quais fontes trocaram de posição como principal fonte primária de energia no Brasil entre 1940 e 2000. No gráfico de barras empilhadas, a parte mais escura de baixo é a lenha e a parte quadriculada é o petróleo. Em 1940 a lenha representava cerca de 83% da matriz, em 1950 cerca de 78%, em 1960 cerca de 64% e em 1970 ainda era a maior parcela, perto de 47%. Em 1980 a lenha caiu para cerca de 27%, enquanto o petróleo ocupava aproximadamente de 46% a 94%, ou seja, perto de 48% do total, tornando-se a principal fonte. Assim, a troca ocorreu da lenha para o petróleo. A alternativa A erra porque o carvão nunca foi a principal fonte e a nuclear é mínima. B também parte do carvão, que tem fatia pequena. C aponta a energia nuclear, que quase não aparece no gráfico. E indica o carvão como nova fonte principal, mas sua participação é sempre pequena. Gabarito: D.",
+  "hash": "fa521940c96f7be4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q140": {
+  "assunto": "Porcentagem: cálculo percentual, divisão",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos barcos de 12 mil garrafas poderiam ser construídos com as garrafas plásticas que vão para o lixo no Brasil em um mês. Se 47% das garrafas são reaproveitadas, o restante, 100% − 47% = 53%, vai para o lixo. Produção mensal: 9 bilhões = 9 × 10⁹ garrafas. Garrafas no lixo: 0,53 × 9 × 10⁹ = 4,77 × 10⁹ garrafas. Cada barco usa 12 000 = 1,2 × 10⁴ garrafas. Número de barcos: 4,77 × 10⁹ ÷ 1,2 × 10⁴ = 3,975 × 10⁵ = 397 500 barcos. A alternativa A (352 500) usa os 47% reaproveitados no lugar dos 53% descartados. C (750 000) considera todas as garrafas produzidas. D (35 250 000) e E (39 750 000) erram a ordem de grandeza na divisão, como se cada barco usasse 120 garrafas. Gabarito: B.",
+  "hash": "a12d61805c9cf639",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q141": {
+  "assunto": "Medidas de tendência central: média ponderada, porcentagem",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a média geral da turma considerando os dois simulados, cada um com 8 questões de 0,5 ponto. O quadro dá o percentual de alunos que acertou cada questão. A ideia é que o número médio de acertos por aluno é a soma das frações de acerto. Simulado A: 60 + 50 + 80 + 30 + 20 + 60 + 30 + 10 = 340%, ou seja, 3,4 acertos por aluno em média; a nota média é 3,4 × 0,5 = 1,70. Simulado B: 80 + 30 + 60 + 30 + 40 + 90 + 10 + 10 = 350%, isto é, 3,5 acertos; nota média 3,5 × 0,5 = 1,75. Como o número de alunos é o mesmo, a média geral é (1,70 + 1,75) ÷ 2 = 1,725, aproximadamente 1,7. A alternativa A (7,4) soma os acertos médios dos dois simulados sem dividir nem multiplicar por 0,5 de forma correta. B (3,7) e C (3,4) tratam número de acertos como nota, sem aplicar o valor de 0,5 por questão. D (1,9) não corresponde ao cálculo dos dados. Gabarito: E.",
+  "hash": "8229c0c026ce9977",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q142": {
+  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o total de pontos acumulados por um usuário no nível 15. Os pontos necessários para cada novo nível formam uma progressão aritmética: 1 000 para o nível 1, mais 1 200 para o nível 2, mais 1 400 para o nível 3, e assim por diante, com razão 200. O total acumulado até o nível 15 é a soma dos 15 primeiros termos. O 15º termo é a₁₅ = 1 000 + 14 × 200 = 1 000 + 2 800 = 3 800. A soma é S₁₅ = (a₁ + a₁₅) × 15 ÷ 2 = (1 000 + 3 800) × 15 ÷ 2 = 4 800 × 7,5 = 36 000 pontos. A alternativa A (3 800) é apenas o acréscimo necessário para passar do nível 14 ao 15. B (15 200) não corresponde à soma da progressão. C (32 200) é a soma até o nível 14. D (35 000) resulta de erro no último termo ou na soma. Gabarito: E.",
+  "hash": "00dcd722e6278e73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q143": {
+  "assunto": "Geometria analítica: equação da reta, transformação",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a equação da reta rₙ obtida quando o comprimento (eixo x) da imagem é multiplicado por n e a largura (eixo y) é mantida. Na figura 1, A₁ = (1, 2) e B₁ = (2, 1). A reta r₁ tem inclinação (1 − 2) ÷ (2 − 1) = −1, logo y − 2 = −(x − 1), ou seja, x + y = 3. Na figura 2, com o comprimento dobrado, A₂ = (2, 2) e B₂ = (4, 1); a reta r₂ fica x + 2y = 6, o que confirma o padrão. De modo geral, multiplicar o comprimento por n leva cada ponto (x, y) em (nx, y). Assim, um ponto (X, Y) da nova reta vem de (X ÷ n, Y) em r₁: X ÷ n + Y = 3, isto é, X + nY = 3n. Para n = 1 obtemos x + y = 3 e, para n = 2, x + 2y = 6, conferindo. A alternativa B troca sinais e termo independente. C tem sinal errado no termo em y. D multiplica também x por n, o que mantém a reta r₁ inalterada. E, para n = 1, daria x + 2y = 6, que não é r₁. Gabarito: A.",
+  "hash": "99482cb8a078b0eb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q144": {
+  "assunto": "Geometria plana: áreas, teorema de Pitágoras",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um retângulo com área igual à do quadrado ABCD, cujos vértices estão em vértices dos quadrados de lado L que formam uma cruz. Observando a figura, o lado AB vai do vértice superior direito do quadrado de cima até o vértice superior esquerdo do quadrado da esquerda. Esse deslocamento corresponde a 2L na horizontal e 1L na vertical. Pelo teorema de Pitágoras, AB² = (2L)² + L² = 4L² + L² = 5L². Como a área do quadrado é o lado ao quadrado, a área de ABCD é 5L², que é a área de um retângulo de lados 5L e 1L. Outra forma de ver: os triângulos que sobram fora de ABCD encaixam exatamente nas partes da cruz que ficam fora, e a cruz tem área 5L². A alternativa A dá 6L². B dá 3L². C dá 9L². D dá 4L², que seria apenas a contagem de quatro quadrados. Gabarito: E.",
+  "hash": "3c87e054c42866c9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q145": {
+  "assunto": "Razão e proporção: divisão inversamente proporcional",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como dividir R$ 360 000,00 entre três filhos de forma inversamente proporcional às idades 4, 5 e 20 anos. Dividir inversamente proporcional às idades é o mesmo que dividir diretamente proporcional aos inversos 1/4, 1/5 e 1/20. Usando o denominador comum 20: 1/4 = 5/20, 1/5 = 4/20 e 1/20 = 1/20. Assim, as partes são proporcionais a 5, 4 e 1, num total de 10 partes. Cada parte vale 360 000 ÷ 10 = 36 000. Ana recebe 5 × 36 000 = R$ 180 000,00; Renato, 4 × 36 000 = R$ 144 000,00; Carlos, 1 × 36 000 = R$ 36 000,00. Conferindo, 180 000 + 144 000 + 36 000 = 360 000. A alternativa A embaralha valores de uma divisão errada. B e C mostram valores que não somam de forma coerente com os inversos e dão mais a quem é mais velho em parte dos casos. E dá a Carlos R$ 60 000,00, sem respeitar a razão 5 : 4 : 1. Gabarito: D.",
+  "hash": "482092ce52ccafc1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q146": {
+  "assunto": "Geometria espacial: volume do prisma",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a altura de um prisma reto de base quadrada 5 cm × 5 cm que tenha o mesmo volume do arranjo em forma de cone, ou seja, 500 mL. O primeiro passo é converter a unidade: 1 mL = 1 cm³, então o volume desejado é 500 cm³. O volume do prisma é a área da base vezes a altura: V = 5 × 5 × h = 25h. Igualando: 25h = 500, logo h = 500 ÷ 25 = 20 cm. Note que não é preciso usar a fórmula do cone, pois o volume dele já foi dado. A alternativa A (8 cm) não resulta da divisão correta. B (14 cm) também não corresponde a 500 ÷ 25. D (60 cm) aplica indevidamente o fator 3 do volume do cone. E (200 cm) divide o volume por 2,5 em vez de por 25. Gabarito: C.",
+  "hash": "cf56a378d5d9dcbc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q147": {
+  "assunto": "Aritmética: operações, grandes números",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número mínimo de doadores necessários para custear, por um ano, o tratamento das pessoas com ancilostomose. O texto informa que 600 milhões de pessoas têm a doença e que o custo anual é de cinquenta centavos de dólar por paciente. Custo total: 600 000 000 × 0,50 = 300 000 000 dólares, isto é, US$ 300 milhões. Cada doador contribui, em média, com US$ 3,00. Número de doadores: 300 000 000 ÷ 3 = 100 000 000, ou seja, 100 milhões de contribuintes. A alternativa A (200 milhões) divide 600 milhões por 3 sem considerar o custo de US$ 0,50. B (120 milhões) não corresponde ao cálculo. C (36 milhões) e D (40 milhões) erram a ordem de grandeza ou a operação entre os dados. Gabarito: E.",
+  "hash": "c987b0742a81b591",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q148": {
+  "assunto": "Aritmética: frações de um total",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] As frações reservadas para a capital e para o interior de São Paulo foram perdidas na extração do enunciado, então os valores não podem ser conferidos. A questão pede quantas das 120 vagas do avião ficam para pessoas que moram fora do estado de São Paulo. O procedimento é calcular a fração de 120 destinada aos moradores da capital, depois a fração destinada aos moradores do interior, somar essas duas quantidades e subtrair o resultado de 120. Por exemplo, para achar uma fração de 120, divide-se 120 pelo denominador e multiplica-se pelo numerador. Também é possível somar as duas frações, subtrair de 1 e multiplicar o resto por 120. Segundo o gabarito oficial, sobram 27 vagas para quem reside fora do estado. As demais alternativas correspondem, em geral, a erros como informar a quantidade de vagas de um dos grupos de dentro do estado (por exemplo, 45) ou o total de vagas dentro do estado, em vez do restante. Gabarito: A.",
+  "hash": "f2b05c9293f0e628",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q149": {
+  "assunto": "Grandezas e medidas: conversão de unidades de área",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a área de 3 205,7 hectares expressa em metros quadrados, a partir das relações dadas no enunciado. O texto informa que 1 hectare equivale a 100 ares e que 1 are equivale a 100 m². Então 1 hectare = 100 × 100 m² = 10 000 m² = 10⁴ m². Multiplicando: 3 205,7 hectares = 3 205,7 × 10⁴ m². O dado de que a área é 30% menor que a de 2008 não interfere no cálculo pedido. A alternativa A (× 10⁻¹) divide em vez de multiplicar. B (× 10) e C (× 10²) consideram apenas parte da conversão, por exemplo só a passagem de hectare para are. D (× 10³) erra a contagem dos fatores de 100. Gabarito: E.",
+  "hash": "eb0f7a05e0c54db6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q150": {
+  "assunto": "Grandezas e medidas: medidas de comprimento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o comprimento aproximado do lápis, usando as três medições feitas pelos alunos. O primeiro aluno verificou que a lousa mede 13 livros e mais meio livro, ou seja, 13,5 comprimentos de livro. O terceiro mediu o livro e obteve 28 cm. Portanto, o comprimento da lousa é 13,5 × 28 = 378 cm. O segundo aluno constatou que a lousa equivale a 20 lápis. Logo, cada lápis mede 378 ÷ 20 = 18,9 cm, aproximadamente 19 cm. A alternativa A (10 cm) não decorre dos dados. B (18 cm) corresponde a usar só 13 livros (364 ÷ 20 = 18,2), desprezando a metade. D (26 cm) e E (41 cm) resultam de relações erradas entre livro, lápis e lousa. Gabarito: C.",
+  "hash": "61c84c131ea2b73c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q151": {
+  "assunto": "Estatística: frequência relativa, tabela de frequências",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Pelos dados do quadro, quem usa mais de dois tipos de droga soma 360 de 860 usuários (cerca de 42%), o que não confere com os 88% da alternativa oficial. A questão pede se o grupo de apoio, restrito a estudantes que consomem mais de dois tipos diferentes de droga, alcançaria pelo menos metade dos usuários. No quadro, 140 estudantes não usam droga alguma, de um total de 1 000; logo, os usuários são 1 000 − 140 = 860. Consomem mais de dois tipos (3, 4, 5 ou 6 tipos): 80 + 180 + 50 + 50 = 360 estudantes. Pela frequência acumulada, isso é 1 − 0,64 = 0,36 do total de estudantes. Em relação aos usuários, 360 ÷ 860 ≈ 0,42. O gabarito oficial aponta que o objetivo foi atingido com 88% dos alunos envolvidos, valor que não aparece em nenhuma combinação direta da tabela; vale revisar o enunciado ou o gabarito. As alternativas B, C, D e E trazem percentuais (58%, 40%, 38%, 36%) que vêm de leituras diferentes da frequência acumulada. Gabarito: A.",
+  "hash": "739809e34a967e71",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q152": {
+  "assunto": "Grandezas e medidas: tempo, taxa de produção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em que dia e horário a máquina termina de envasar 198 000 garrafas, trabalhando das 8 h às 16 h a partir do dia 10. A máquina enche 150 garrafas por minuto, então em 1 hora enche 150 × 60 = 9 000 garrafas. Em um dia de 8 horas: 9 000 × 8 = 72 000 garrafas. No dia 10 são feitas 72 000 garrafas; no dia 11, mais 72 000, totalizando 144 000. Faltam 198 000 − 144 000 = 54 000 garrafas. Tempo necessário: 54 000 ÷ 9 000 = 6 horas. Começando às 8 h do dia 12, a máquina termina às 8 h + 6 h = 14 h do dia 12. A alternativa A (dia 11) considera um dia a menos de trabalho. C (dia 13) conta um dia a mais, como se o trabalho começasse no dia 11. D e E (8 h 06 min) tratam o tempo restante como minutos, e não horas. Gabarito: B.",
+  "hash": "657ea066b09797ff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q153": {
+  "assunto": "Função afim: gráfico, coeficientes",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Com Q = 1, a função A = 12 + 3T/8 é afim e dá A = 15 para T = 8, mas o gráfico da alternativa oficial é uma curva que passa por (8, 24). A questão pede qual gráfico representa a altura do salto A em função do tamanho do sapato T, com Q = 1. Substituindo Q = 1, temos A = 12 + 3T/8, uma função do primeiro grau: o gráfico é uma reta crescente, com coeficiente linear 12 (corta o eixo A em 12) e coeficiente angular 3/8. Para T = 0, A = 12; para T = 8, A = 12 + 3 × 8 ÷ 8 = 12 + 3 = 15. O gráfico oficial, porém, é uma curva crescente de 12 até 24, o que só seria compatível com outra lei de formação; por isso o item deve ser revisado. A alternativa B é uma reta, mas passa por (8, 24). C começa em 6, valor que não corresponde ao coeficiente linear. E é curva, o que não combina com uma função afim. Gabarito: A.",
+  "hash": "d0adae06d3e97d08",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q154": {
+  "assunto": "Geometria analítica: distância em malha quadriculada",
+  "dificuldade": 2,
+  "explicacao": "A questão pede com qual criança Ana está equidistante, além de Samanta, sabendo que só é possível andar na vertical ou na horizontal pela malha de quadrados de 1 cm. Nesse caso, a distância é a soma dos deslocamentos horizontal e vertical. Tomando colunas e linhas da malha a partir do canto superior esquerdo: Ana está na coluna 1, linha 2; Samanta, coluna 5, linha 3; a distância é 4 + 1 = 5 cm. Denise está na coluna 2, linha 6: distância 1 + 4 = 5 cm, igual à de Samanta. Carol (coluna 4, linha 2) fica a 3 + 0 = 3 cm. Eliana (coluna 4, linha 5) fica a 3 + 3 = 6 cm. Larissa (coluna 2, linha 7) fica a 1 + 5 = 6 cm. Roberta (coluna 6, linha 7) fica a 5 + 5 = 10 cm. Assim, apenas Denise está à mesma distância que Samanta. A alternativa A está mais perto, a 3 cm. C e D estão a 6 cm. E está a 10 cm. Gabarito: B.",
+  "hash": "01320877bac53a0c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q155": {
+  "assunto": "Matemática financeira: inflação, poder de compra",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o aumento percentual do poder de compra, em dois anos, de quem tem salário crescendo 10% ao ano e enfrenta inflação de 6% ao ano. O poder de compra é a razão entre o salário e o nível de preços. Em um ano, o salário é multiplicado por 1,10 e os preços por 1,06, então o poder de compra é multiplicado por 1,10 ÷ 1,06 ≈ 1,0377. Em dois anos, o fator é (1,10 ÷ 1,06)² = 1,21 ÷ 1,1236 ≈ 1,0769. Isso representa um aumento de aproximadamente 7,7%. O erro comum é subtrair as taxas. A alternativa A (4,0%) é só 10% − 6%, e de um único ano. C (8,0%) soma duas vezes 4%, sem considerar que as taxas não se subtraem diretamente. D (8,6%) compõe 4% ao ano, como se o ganho real anual fosse 4%. E (14,0%) soma 10% e 4% sem sentido econômico. Gabarito: B.",
+  "hash": "fa755a0c44595565",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q156": {
+  "assunto": "Grandezas e medidas: conversão de unidades, taxa média",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos centímetros por ano, em média, o baricentro do sistema Terra-Lua se aproxima da superfície terrestre até sair da Terra. O texto diz que o baricentro está a 1 737 km da superfície e que levará 3 bilhões de anos para ficar fora da Terra. Então ele deve percorrer 1 737 km nesse tempo. Convertendo para centímetros: 1 km = 100 000 cm = 10⁵ cm, logo 1 737 km = 1 737 × 10⁵ cm = 1,737 × 10⁸ cm. Dividindo pelo tempo: 1,737 × 10⁸ ÷ 3 × 10⁹ = 0,579 × 10⁻¹ = 0,0579 cm por ano. A distância Terra-Lua de 384 405 km e o afastamento de 4 cm por ano são dados distratores. A alternativa B (0,5790) e C (5,7900) erram a potência de dez na conversão. D (12,8135) e E (17,2711) usam a distância Terra-Lua no cálculo. Gabarito: A.",
+  "hash": "f798ab8973c2207a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q157": {
+  "assunto": "Porcentagem: aumentos e descontos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que a família deve fazer com o valor da poupança para manter o orçamento de R$ 1 750,00 depois das mudanças de julho. Alimentação diminuiu 4%: 4% de 600 = 24, economia de R$ 24,00. Transporte aumentou 10%: 10% de 150 = 15, gasto extra de R$ 15,00. Educação aumentou 10%: 10% de 350 = 35, gasto extra de R$ 35,00. Saldo das variações: +15 + 35 − 24 = R$ 26,00 de gasto a mais. Para não ultrapassar a renda, essa diferença deve sair da poupança, que passa de R$ 50,00 para 50 − 26 = R$ 24,00. A redução percentual é 26 ÷ 50 = 0,52, ou seja, 52%. A alternativa A soma e subtrai as porcentagens diretamente, sem aplicar sobre cada valor. B e C indicam aumento, mas as despesas cresceram. D (26%) confunde o valor de R$ 26,00 com a porcentagem. Gabarito: E.",
+  "hash": "e29b33232a6df191",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q158": {
+  "assunto": "Sequências e progressões: decaimento, meia-vida",
+  "dificuldade": 4,
+  "explicacao": "A questão pede em quanto tempo o paciente atingiria superdosagem (mais de 1 520 mg) se tomasse 800 mg a cada 6 horas, sabendo que a meia-vida do medicamento é 6 horas. A cada 6 horas, a quantidade presente cai pela metade e, em seguida, soma-se uma nova dose de 800 mg. Em 0 h: 800 mg. Em 6 h: 800 ÷ 2 + 800 = 1 200 mg. Em 12 h: 1 200 ÷ 2 + 800 = 1 400 mg. Em 18 h: 1 400 ÷ 2 + 800 = 1 500 mg, ainda abaixo de 1 520 mg. Em 24 h: 1 500 ÷ 2 + 800 = 750 + 800 = 1 550 mg, acima do limite. Portanto, o risco de intoxicação surge em 24 horas. A alternativa A (12 h) para em 1 400 mg, ainda seguro. C (36 h), D (48 h) e E (72 h) ultrapassam o momento em que o limite já foi superado pela primeira vez. Gabarito: B.",
+  "hash": "8a4a0b3648f5ab73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q159": {
+  "assunto": "Probabilidade: razão entre probabilidades, tabelas",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a razão entre a probabilidade de José acertar a quadra da Mega-Sena e a de Antônio acertar o terno da Quina, usando as tabelas. José gastou R$ 14,00, valor de uma aposta de 7 números na Mega-Sena; pela tabela, a chance de quadra é 1 em 1 038, ou seja, P(José) = 1/1 038. Antônio gastou R$ 15,00 em três apostas da Quina; cada uma custa R$ 5,00, que corresponde a 7 números jogados, com chance de terno de 1 em 261. Como as apostas não repetem números, as chances se somam: P(Antônio) = 3/261. A razão é P(José) ÷ P(Antônio) = (1/1 038) ÷ (3/261) = 261 ÷ (1 038 × 3) = 261/3 114. Como a razão é menor que 1, Antônio tem mais chances de acertar. A alternativa B não usa os valores corretos das tabelas. C inverte o raciocínio e conclui o oposto. D apresenta a razão invertida. E inverte a razão e também a conclusão. Gabarito: A.",
+  "hash": "32fe3770cad11571",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q160": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quantas questões, no mínimo, o professor precisa elaborar no sétimo dia para atingir a média de 13 questões por dia na semana. Se a média de 7 dias deve ser 13, o total mínimo da semana é 7 × 13 = 91 questões. Nos seis primeiros dias ele elaborou 15 + 12 + 11 + 12 + 13 + 14 = 77 questões. Faltam 91 − 77 = 14 questões para o último dia. A alternativa A (11) e B (12) deixariam a média abaixo de 13. C (13) repete a média, mas o professor está abaixo dela nos seis primeiros dias (77 ÷ 6 ≈ 12,8). E (15) cumpre a meta, mas não é a quantidade mínima. Gabarito: D.",
+  "hash": "eb8741d1c0321743",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q161": {
+  "assunto": "Função quadrática: área máxima de retângulo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a maior área que uma construção pode ocupar em um terreno retangular de perímetro 40 m. Se os lados são x e y, então 2x + 2y = 40, ou seja, x + y = 20 e y = 20 − x. A área é A(x) = x(20 − x) = −x² + 20x, uma função quadrática com concavidade para baixo. O valor máximo ocorre no vértice: x = −b ÷ (2a) = −20 ÷ (−2) = 10. Então y = 20 − 10 = 10, e o retângulo de área máxima é o quadrado de lado 10 m, com área 10 × 10 = 100 m². Logo, a obra que aproveita a maior área possível é o pátio de 100 m². As alternativas A (8 m²), B (16 m²) e C (36 m²) cabem no terreno, mas não aproveitam a área máxima. E (160 m²) é impossível, pois nenhum retângulo de perímetro 40 m tem área maior que 100 m². Gabarito: D.",
+  "hash": "d3808b4a47a9e2a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q162": {
+  "assunto": "Probabilidade: probabilidade experimental, tabela",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o risco, isto é, a probabilidade experimental de um acidentado ser homem com idade entre 25 e 29 anos. Pela tabela de acidentes de trabalho de 2004, o total geral de acidentados é 458 824. Na linha de 25 a 29 anos, a coluna Masculino indica 69 561 acidentados. A probabilidade é a razão entre os casos favoráveis e o total: 69 561 ÷ 458 824 ≈ 0,152, ou seja, aproximadamente 15%. A alternativa B (18%) e C (20%) correspondem a divisões erradas, como usar o total da faixa etária (88 463 ÷ 458 824 ≈ 19%) ou o total de homens no denominador (69 561 ÷ 355 608 ≈ 20%). D (78%) e E (79%) correspondem à fração de homens dentro da faixa de 25 a 29 anos (69 561 ÷ 88 463 ≈ 79%) ou à fração de homens no total (355 608 ÷ 458 824 ≈ 78%), que não é o que se pede. Gabarito: A.",
+  "hash": "7eb4774ef5138daf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q163": {
+  "assunto": "Geometria espacial: volume do cilindro",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] As imagens das alternativas foram extraídas em fragmentos (2, 1, ‒2, ‒4, ‒8), então não é possível conferir qual fração corresponde a cada letra. A questão pede a razão entre os volumes dos reservatórios cilíndricos C₁ e C₂, que têm a mesma altura, sendo o raio de C₂ o dobro do raio de C₁. O volume do cilindro é V = πr²h. Para C₁: V₁ = πr²h. Para C₂, com raio 2r: V₂ = π(2r)²h = 4πr²h. Assim, V₁ ÷ V₂ = πr²h ÷ 4πr²h = 1/4. Em números, como C₁ tem 100 m³, C₂ tem 400 m³, e a razão é 100/400 = 1/4. O erro comum é achar que dobrar o raio dobra o volume (razão 1/2), esquecendo que o raio aparece ao quadrado; outro é elevar ao cubo (razão 1/8), como se todas as dimensões dobrassem. Razões maiores que 1, como 2, invertem a ordem C₁ para C₂. Gabarito: B.",
+  "hash": "fff49b926be87802",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q164": {
+  "assunto": "Geometria plana: áreas de losangos, decomposição",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a área da região sombreada de um quadro formado por 12 mosaicos de 12 cm por 6 cm. Pela figura, há 6 colunas e 2 linhas de mosaicos, cada um com 6 cm de largura e 12 cm de altura; o quadro mede 36 cm por 24 cm. A região sombreada fica entre dois losangos. O losango externo liga os pontos médios dos lados do quadro: diagonais de 36 cm e 24 cm, área 36 × 24 ÷ 2 = 432 cm². O losango interno tem os vértices de cima e de baixo iguais aos do externo e os vértices laterais a 6 cm das bordas: diagonais de 36 − 12 = 24 cm e 24 cm, área 24 × 24 ÷ 2 = 288 cm². A área sombreada é a diferença: 432 − 288 = 144 cm². A alternativa A (36 cm²) e B (72 cm²) consideram apenas parte das regiões sombreadas. D (288 cm²) é a área do losango interno. E (432 cm²) é a área do losango externo. Gabarito: C.",
+  "hash": "8ded0d5be5e02d3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q165": {
+  "assunto": "Equações e inequações: inequação, valor máximo",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] A fórmula do preço P em função de n não foi extraída do enunciado, então os cálculos não podem ser conferidos. A questão pede o maior número de disciplinas, entre 3 e 8, que Júlio pode escolher sem que a mensalidade ultrapasse R$ 720,00. O procedimento é montar a inequação P(n) ≤ 720, usando a fórmula dada, e resolvê-la para n, lembrando que n deve ser um número inteiro entre 3 e 8. Também é possível testar os valores de n um a um, calculando P para cada quantidade de disciplinas e verificando qual é o maior n cuja mensalidade ainda fica dentro do orçamento. Segundo o gabarito oficial, o maior valor que respeita o limite é n = 6 disciplinas. As alternativas A (3) e B (4) ficam abaixo do máximo possível, desperdiçando orçamento. D (7) e E (8) fariam a mensalidade passar de R$ 720,00. Gabarito: C.",
+  "hash": "d5e8a1b0bd86a492",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q166": {
+  "assunto": "Função afim: leitura de gráfico, taxa de variação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a data limite para plantar a grama de modo que, em 11 de junho de 2012, ela tenha pelo menos 7 cm. O gráfico é formado por segmentos de reta: de 0 a 2 semanas a grama cresce de 0 a 5 cm; de 2 a 5 semanas, de 5 a 11 cm. Os 7 cm estão no segundo trecho, cuja taxa é (11 − 5) ÷ (5 − 2) = 6 ÷ 3 = 2 cm por semana. Para sair de 5 cm e chegar a 7 cm são necessários 2 cm, ou seja, 1 semana além das 2 iniciais. Logo, a grama precisa de 3 semanas = 21 dias para atingir 7 cm. Contando 21 dias para trás a partir de 11 de junho: 11 dias levam a 31 de maio, e mais 10 dias levam a 21 de maio. A alternativa A (17 de maio) é uma data possível, mas não a máxima. C (23 de maio) daria só 19 dias. D e E dariam poucos dias de crescimento. Gabarito: B.",
+  "hash": "95f458d3ab902112",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q167": {
+  "assunto": "Função afim: lei de formação a partir de tabela",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a equação que relaciona o índice de carga I à carga máxima C no intervalo de 70 a 74. No quadro, os pares são (70; 335), (71; 345), (72; 355), (73; 365) e (74; 375). A cada aumento de 1 no índice, a carga aumenta 10 kg, então a relação é afim: C = 10I + b. Usando I = 70 e C = 335: 335 = 700 + b, logo b = −365. Assim, C = 10I − 365. Isolando I: 10I = C + 365, ou seja, I = C/10 + 36,5. Conferindo com I = 74: 375 ÷ 10 + 36,5 = 37,5 + 36,5 = 74. A alternativa A dá, para C = 335, I = −36,5. C dá I = −294,5. D e E multiplicam C por 10, invertendo a relação entre as grandezas e gerando valores muito altos. Gabarito: B.",
+  "hash": "036a44f3deb7d085",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q168": {
+  "assunto": "Função afim: gráfico, coeficientes",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gráfico da relação F = 1,8C + 32 entre as escalas Fahrenheit e Celsius. Trata-se de uma função afim, cujo gráfico é uma reta. Como o coeficiente angular 1,8 é positivo, a reta é crescente. O coeficiente linear 32 indica que, para C = 0, F = 32: a reta corta o eixo F em 32. A raiz é obtida fazendo F = 0: 1,8C + 32 = 0, logo C = −32 ÷ 1,8 ≈ −17,8. O gráfico B mostra exatamente uma reta crescente que passa por (0, 32) e corta o eixo C em −17,8. A alternativa A apresenta reta decrescente, incompatível com coeficiente positivo. C corta o eixo F em −32, sinal errado. D e E são curvas, e não retas, o que não representa uma função afim. Gabarito: B.",
+  "hash": "d9a6dc49c4fdacff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q169": {
+  "assunto": "Leitura de gráficos e tabelas: comparação de curvas",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o intervalo de tempo em que a colônia II (linha pontilhada) teve mais bactérias que a colônia I (linha contínua). No gráfico, as duas curvas se cruzam em 10 minutos, com cerca de 30 bactérias, e de novo em 15 minutos, com cerca de 55 bactérias. Antes de 10 minutos, a linha contínua está acima, ou seja, a colônia I é maior. Entre 10 e 15 minutos, a linha pontilhada fica acima: por exemplo, em 13 minutos, a colônia II tem cerca de 50 bactérias, enquanto a I tem cerca de 37. Depois de 15 minutos, a colônia I volta a ficar à frente, chegando a 75 contra 60 em 20 minutos. A alternativa A é o intervalo em que a colônia I está acima. C também mostra a colônia I maior. D e E confundem os valores do eixo vertical (número de bactérias) com o tempo. Gabarito: B.",
+  "hash": "ce53696ad83535c7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q170": {
+  "assunto": "Porcentagem: aumento percentual",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o aumento percentual aproximado do salário-mínimo de 1994 a 2008. Pela tabela, o salário era R$ 70,00 em 1994 e R$ 415,00 em 2008. O aumento absoluto é 415 − 70 = R$ 345,00. O aumento percentual é a razão entre o aumento e o valor inicial: 345 ÷ 70 ≈ 4,93, ou seja, aproximadamente 493%. Outra forma: 415 ÷ 70 ≈ 5,93, o salário ficou cerca de 5,93 vezes maior, o que corresponde a um acréscimo de 493%. A alternativa A (14) é o número de anos do período. B (38) e C (67) não correspondem à razão pedida. D (265) não corresponde à razão entre o aumento e o valor de 1994. Gabarito: E.",
+  "hash": "edc970311b34096e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q171": {
+  "assunto": "Funções exponencial e logarítmica: lei de formação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a lei que relaciona o número de peças X ao número mínimo de movimentos Y na torre de Hanói. A tabela traz os pares (1, 1), (2, 3), (3, 7) e (4, 15). Observe que cada valor de Y é uma unidade menor que uma potência de 2: 1 = 2 − 1, 3 = 4 − 1, 7 = 8 − 1, 15 = 16 − 1. Assim, Y = 2^X − 1. Conferindo: para X = 3, 2³ − 1 = 8 − 1 = 7; para X = 4, 2⁴ − 1 = 16 − 1 = 15. A alternativa B (2^(X−1)) dá 1, 2, 4, 8, errando a partir de X = 2. C (2^X) dá 2, 4, 8, 16, sempre uma unidade a mais. D (2X − 1) dá 1, 3, 5, 7, acertando só os dois primeiros. E (2X − 4) dá valores negativos para X = 1. Gabarito: A.",
+  "hash": "8bb1da2762b53829",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q172": {
+  "assunto": "Estatística: dispersão, regularidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o jogador de maior regularidade, sabendo que todos têm a mesma média de pontos por partida. Pelo quadro, cada jogador marcou 80 pontos em 4 partidas, ou seja, média 20. Maior regularidade significa menor dispersão dos valores em torno da média. Comparando as amplitudes: A (31, 22, 18, 9) vai de 9 a 31, amplitude 22; B (15, 25, 25, 15), amplitude 10; C (20, 23, 19, 18), amplitude 5; D (18, 22, 24, 16), amplitude 8; E (17, 19, 20, 24), amplitude 7. Pelos desvios em relação a 20, C tem desvios 0, 3, −1 e −2, os menores de todos, o que também resulta no menor desvio padrão. Portanto, o jogador C é o mais regular. A alternativa A é o jogador mais irregular. B oscila 5 pontos para cima e para baixo em todas as partidas. D e E têm desvios maiores que os de C. Gabarito: C.",
+  "hash": "2df6878ec20b4c02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q173": {
+  "assunto": "Grandezas e medidas: comprimento, estimativa",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual animal adulto tem altura comparável à diferença entre as marcas da 1ª e da 4ª colocadas no salto com vara. Fabiana Murer saltou 4,60 m e Monika Pyrek, 4,30 m. A diferença é 4,60 − 4,30 = 0,30 m, ou seja, 30 cm. É preciso então estimar a altura de cada animal: um gato adulto tem cerca de 30 cm de altura, o que combina com a diferença calculada. A alternativa B (leão) tem altura em torno de 1 m ou mais. C (pulga) mede alguns milímetros. D (elefante) passa de 3 m. E (gafanhoto) tem poucos centímetros. Gabarito: A.",
+  "hash": "ddae6f6a684a4980",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q174": {
+  "assunto": "Geometria plana: áreas, frações do quadrado",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a área total destinada às sementes do tipo B, ou seja, a parte não sombreada dos cinco canteiros de 1 m². Analisando cada figura: no canteiro I, as diagonais formam quatro triângulos iguais e dois estão sombreados, logo B ocupa ½ m². No II, a diagonal divide o quadrado ao meio e uma metade é sombreada: B ocupa ½ m². No III, apenas um quarto do quadrado está sombreado: B ocupa ¾ m². No IV, o triângulo sombreado tem como base o lado esquerdo e vértice no centro, com área ¼ do quadrado: B ocupa ¾ m². No V, dois dos quatro quadradinhos estão sombreados: B ocupa ½ m². Total para B: 0,5 + 0,5 + 0,75 + 0,75 + 0,5 = 3 m². A alternativa A (1,25) não corresponde à soma de nenhum dos tipos. B (2) é a área do tipo A. C (2,5) considera metade de cada canteiro. E (5) é a área total. Gabarito: D.",
+  "hash": "8b850b8f79ab583d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q175": {
+  "assunto": "Escalas: escala de redução, área",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Uma escala linear de 1:1 000 reduziria as áreas por 1 000², o que não aparece nas alternativas; o gabarito aplica a escala diretamente às áreas. A questão pede as áreas de Erídano (1 138 graus quadrados) e Norma (165 graus quadrados) em um mapa na escala 1:1 000. Na leitura adotada pelo gabarito, cada medida do mapa corresponde a 1/1 000 da medida real, e a escala é aplicada diretamente às áreas dadas. Assim, Erídano: 1 138 ÷ 1 000 = 1,138 grau quadrado; Norma: 165 ÷ 1 000 = 0,165 grau quadrado. A alternativa A divide os dois valores por 10 000 e B divide só a área de Erídano por 10 000, misturando fatores. D multiplica por 10, sem sentido para uma redução. E multiplica por 1 000, ampliando em vez de reduzir. Gabarito: C.",
+  "hash": "08e64f1e5fe81fcb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q176": {
+  "assunto": "Geometria espacial: volume do cilindro e do cone",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos brigadeiros em forma de cone podem ser feitos com o conteúdo de uma panela cilíndrica cheia. Panela: altura 40 cm e diâmetro 30 cm, logo raio 15 cm. Volume do cilindro: V = πr²h = π × 15² × 40 = π × 225 × 40 = 9 000π cm³. Forminha cônica: raio 1,5 cm e altura 5 cm. Volume do cone: V = (1/3)πr²h = (1/3) × π × 1,5² × 5 = (1/3) × π × 2,25 × 5 = 3,75π cm³. Número de cones: 9 000π ÷ 3,75π = 2 400 unidades. A alternativa A (600) usa o diâmetro 3 cm como raio do cone, obtendo 15π cm³ por forminha. B (800) esquece o fator 1/3 do cone, obtendo 11,25π cm³. D (3 200) não corresponde aos volumes calculados. E (9 600) usa o diâmetro 30 cm como raio da panela. Gabarito: C.",
+  "hash": "dca2b45c913fa038",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q177": {
+  "assunto": "Porcentagem: variação percentual, gráfico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o crescimento percentual das ações da Vale e do Ibovespa de janeiro a abril de 2010. O gráfico usa base 100 em janeiro para as duas séries. A linha contínua (Vale) parte de 100 em janeiro e chega a 121 em abril; a linha tracejada (Ibovespa) parte de 100 e chega a 105. Como a base é 100, o crescimento percentual é a diferença direta: Vale, (121 − 100) ÷ 100 = 21%; Ibovespa, (105 − 100) ÷ 100 = 5%. Os valores intermediários de fevereiro e março não interferem no cálculo do período completo. A alternativa A inverte a ordem pedida. B e D usam 10,5%, que não aparece no gráfico como variação do Ibovespa. E (27,4%) não corresponde à variação da Vale. Gabarito: C.",
+  "hash": "7c86e42a96281e7a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q178": {
+  "assunto": "Raciocínio lógico: grafos, caminho euleriano",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a menor distância que o caminhão percorre saindo de A, passando por todas as ruas e voltando a A, sendo cada rua de 150 m. É um problema de grafos: um circuito que passa uma vez por cada aresta só existe se todos os vértices tiverem grau par. Contando as ruas da figura, há 17 arestas. Calculando os graus: A tem 2; a esquina central da fileira do meio liga-se a A, às esquinas da esquerda e da direita, às duas esquinas de baixo e aos dois vértices do triângulo superior, grau 7; a esquina de baixo à esquerda do centro liga-se à esquina esquerda do meio, à esquina inferior esquerda, ao centro, à esquina de baixo à direita e ao quadrado, grau 5. As demais esquinas têm grau par. Há exatamente dois vértices ímpares, e eles são vizinhos; basta repetir a rua que os une. Total: 17 + 1 = 18 ruas, e 18 × 150 = 2 700 m. A alternativa A (2 400) usa só 16 ruas. B (2 550) é o total sem repetição, impossível com vértices ímpares. D e E repetem ruas além do necessário. Gabarito: C.",
+  "hash": "54e0ff7718a3de5a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q179": {
+  "assunto": "Grandezas e medidas: área, hectare",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o valor do metro quadrado de um terreno vendido por R$ 3 600 000,00, em que cada quadrado da malha vale 1 hectare. Contando os quadrados sombreados linha a linha na figura: 1 na segunda linha, 1 na terceira, 2 na quarta, 4 na quinta, 3 na sexta e 1 na sétima, totalizando 12 quadrados, ou seja, 12 hectares. Como 1 hectare é a área de um quadrado de 100 m de lado, 1 ha = 100 × 100 = 10 000 m². Área do terreno: 12 × 10 000 = 120 000 m². Valor do metro quadrado: 3 600 000 ÷ 120 000 = R$ 30,00. A alternativa B (R$ 300,00) e C (R$ 360,00) erram a conversão de hectare para metro quadrado. D (R$ 3 600,00) erra ainda mais a ordem de grandeza. E (R$ 300 000,00) é o preço por hectare, e não por metro quadrado. Gabarito: A.",
+  "hash": "40163938405c9888",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d2-q180": {
+  "assunto": "Funções: função definida por partes, gráfico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gráfico do gasto mensal y em função dos minutos x no plano que cobra R$ 25,00 para até 40 minutos e R$ 1,00 por minuto excedente. Para 0 ≤ x ≤ 40, o valor é fixo: y = 25, um segmento horizontal. Para x > 40, y = 25 + (x − 40), uma reta crescente com inclinação 1. Por exemplo, com 50 minutos, y = 25 + 10 = 35 reais. O gráfico B mostra exatamente um trecho constante em 25 até 40 minutos e, depois, uma reta crescente que passa por (50, 35). A alternativa A é uma reta crescente desde o início, como se cada minuto fosse cobrado. C faz o gasto diminuir após 40 minutos. D é uma reta decrescente. E cresce até 40 minutos e depois fica constante, invertendo a lógica do plano. Gabarito: B.",
+  "hash": "3f048da3f36ab874",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2011-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de texto informativo",
   "dificuldade": 1,
