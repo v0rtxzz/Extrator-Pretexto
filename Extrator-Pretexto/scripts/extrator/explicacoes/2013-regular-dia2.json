@@ -1,0 +1,177 @@
+{
+ "enem-2013-regular-d2-q100": {
+  "assunto": "Variação linguística: registro coloquial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o efeito das escolhas linguísticas na letra de Gabriel, o Pensador. O trecho usa expressões típicas da fala do dia a dia: “pro céu”, “pro chão”, “levanta aí”, “se liga aí”, “pode crer”, “te botaram numa cruz”. São marcas da linguagem coloquial, como a redução da preposição e o uso de “te” com “você”, que dão ao texto um tom espontâneo, próximo da conversa informal. Por isso a alternativa D é correta. A alternativa A erra porque não há linguagem típica da internet. A B erra porque o apelo existe, mas não pela predominância de metáforas; a linguagem é majoritariamente direta. A C erra porque, embora haja expressões informais, não há recorrência de gírias que justifique o tom de diálogo. A E erra porque a concisão não é o traço que caracteriza o texto. Gabarito: D.",
+  "hash": "a627c676662d6e03",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q101": {
+  "assunto": "Interpretação de texto: memória, tradição oral",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como se evidencia a valorização da manta, chamada de “a manta mais valiosa do mundo”. O texto mostra que a manta era feita de retalhos de roupas velhas e que, a cada quadrado apontado pelos netos, a avó resgatava uma história: fantasiosas, de traquinagem, de saudade. Os protagonistas eram os familiares, antigos donos das roupas. Depois, novos retalhos e novas histórias foram sendo incorporados. O valor da manta, portanto, vem da correlação entre cada retalho e as histórias transmitidas oralmente na família, isto é, da memória que ela guarda. A alternativa A erra porque a oposição com joias e palácios é recurso secundário, e não a origem do valor. A B erra porque não há descrição de cores e tamanhos. A C erra porque a disputa é consequência da valorização, não sua causa. A D erra porque o texto não compara duas mantas diferentes. Gabarito: E.",
+  "hash": "ad23a2b84a720af2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q102": {
+  "assunto": "Tecnologias da informação e comunicação: hipertexto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como o texto caracteriza a hipertextualidade. Segundo a autora, o hipertexto permite a participação de vários autores, redefine os papéis de autor e leitor e exige a revisão dos modelos tradicionais de leitura e escrita. Ela acrescenta que o hipertexto não se limita ao meio eletrônico: é uma forma organizacional que pode existir tanto no papel quanto no ambiente digital, embora o virtual facilite conexões imediatas. Logo, a hipertextualidade é um novo modo de leitura e de organização da escrita. A alternativa A erra porque o texto nega que o hipertexto seja exclusivo dos textos eletrônicos. A B erra pelo mesmo motivo: ele não se reduz ao digital. A D erra porque o hipertexto redefine o papel do leitor, em vez de mantê-lo. A E erra porque o texto fala em aprofundamentos e camadas, não em leitura superficial. Gabarito: C.",
+  "hash": "6bf437bda33e92f5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q103": {
+  "assunto": "Publicidade e linguagem midiática: cartaz, verbal e não verbal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a relação entre linguagem verbal e não verbal no cartaz sobre aquecimento global. A imagem mostra uma gota escorrendo, como gelo derretendo, e dentro dela aparece o planeta Terra. O texto conjuga o verbo derreter: “Eu derreto. Tu derretes. Você derrete...”, e interrompe com a pergunta “você tem certeza que quer conjugar este verbo?”. A conjugação passa a envolver o leitor (“você”) e a pergunta o responsabiliza: a continuidade do derretimento do planeta depende da escolha humana. Assim, a agressão ao planeta depende da posição que o homem assume diante dos problemas ambientais. A alternativa A erra porque o cartaz não propõe soluções radicais. A B erra porque não há referência à dessalinização. A C erra porque o cartaz não trata o degelo como natural, mas como algo ligado à ação humana. A D traz uma informação que não aparece no cartaz. Gabarito: E.",
+  "hash": "484f791302026b4f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q104": {
+  "assunto": "Funções da linguagem: função metalinguística",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que justifica o caráter metalinguístico do poema de Nuno Júdice. A função metalinguística ocorre quando a linguagem fala de si mesma, ou quando a obra trata do próprio processo de criação. No poema, o eu lírico parte do verbete “rapariga”, que em Portugal significa moça e no Brasil, meretriz, e passa a discutir como escrever o poema: que palavra usar, como evitar mal-entendidos no Brasil e na África, até concluir que a solução seria mudar de café. O poema, portanto, tematiza o próprio ato de construção da obra. A alternativa A erra porque não se discute arte inovadora no mundo contemporâneo. A B erra porque não há defesa de movimento artístico. A C erra porque o cotidiano é cenário, mas não o que define a metalinguagem. A E erra porque o poema não trata do efeito de estranhamento no público. Gabarito: D.",
+  "hash": "a0bbccc154342de6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q105": {
+  "assunto": "Gêneros textuais: texto normativo, lei",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma característica linguística típica do texto legal, como o Estatuto da Criança e do Adolescente. Leis precisam ser aplicadas de maneira uniforme e não podem permitir interpretações diversas. Por isso, usam termos precisos e definições objetivas, como no art. 2º, que estabelece exatamente quem é criança (até doze anos incompletos) e quem é adolescente (entre doze e dezoito anos). Os artigos seguintes também enumeram direitos e responsáveis de forma explícita. O objetivo é evitar ambiguidade, o que confirma a alternativa B. A alternativa A erra porque a repetição vocabular não é recurso para facilitar o entendimento nesse gênero. A C erra porque a linguagem é formal. A D erra porque a ordem direta não é o traço essencial, e o texto traz inversões. A E erra porque a lei não usa exemplificações. Gabarito: B.",
+  "hash": "511d37f7f86716fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q106": {
+  "assunto": "Tecnologias da informação e comunicação: redes sociais, mobilização",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual argumento de Manuel Castells é confirmado pela queda de Hosni Mubarak após mobilização nas redes sociais. Segundo Castells, os movimentos culturais se constroem em torno de sistemas de comunicação, especialmente a internet, porque essa é a principal via para alcançar pessoas que possam partilhar seus valores e, a partir disso, atuar na consciência da sociedade. O caso egípcio ilustra isso: as redes sociais permitiram difundir ideias, reunir apoiadores e mobilizar a população. Assim, os sistemas de comunicação são mecanismos importantes de adesão e compartilhamento de valores sociais. A alternativa A erra porque a internet não atribui valores; ela os veicula. A B erra porque a consciência social não surgiu com a internet. A C erra porque a tecnologia não tem como objetivo derrubar governos. A D erra porque, no caso, a tecnologia serviu aos que se opunham ao governo. Gabarito: E.",
+  "hash": "276355605b2b7e71",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q107": {
+  "assunto": "Gêneros textuais: edital, tombamento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a frase adequada para um leitor que concorda com a resolução do edital. O edital da Secretaria de Cultura comunica o tombamento de imóveis da Rua Augusta, na esquina com a Rua Marquês de Paranaguá. Tombar significa reconhecer um bem como patrimônio histórico e cultural e protegê-lo legalmente contra demolição ou descaracterização. Assim, quem concorda com a decisão deve elogiar a preservação do patrimônio, como faz a alternativa E. A alternativa A erra porque tombamento impede a derrubada. A B erra porque, se os prédios descaracterizassem o conjunto, não seriam tombados. A C erra porque o tombamento não trata de tradições dos moradores nem de demonstração de força. A D erra porque o edital nada diz sobre moradias populares. Gabarito: E.",
+  "hash": "7fe47331aa6b2dad",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q108": {
+  "assunto": "Educação física: sedentarismo, saúde",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a relação, segundo o texto, entre hábitos dos adolescentes e sua saúde. O texto aponta dois fatores: alimentação inadequada, com excesso de sal e açúcar, produtos industrializados e pouco leite, frutas e feijão; e sedentarismo, já que “cem por cento das meninas” do programa não praticavam esporte. Em seguida, afirma que doenças antes esperadas na velhice já aparecem entre os jovens: “Os adolescentes já estão sofrendo com hipertensão e diabete”. A alternativa A reúne exatamente esses elementos: falta de atividade física e alimentação desequilibrada ligadas a doenças crônicas. A B erra porque o texto não fala em redução de carboidratos e aumento de proteínas. A C erra porque o texto diz que há exagero, e não escassez, de sal e açúcar. A D erra porque o texto não compara com fatores hereditários em adultos. A E erra porque exercício regular não provoca aumento constante da pressão arterial. Gabarito: A.",
+  "hash": "98a0c5421bce12ec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q109": {
+  "assunto": "Artes visuais: ilustração, crítica social",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o propósito da ilustração de Paweł Kuczyński sobre trabalho infantil. A imagem mostra dois meninos frente a frente: um, descalço e de roupas gastas, puxa com uma corda um enorme vagão de carvão; o outro, bem vestido e de boné, segura um trenzinho de brinquedo pela mesma espécie de corda. O contraste entre a mesma ação, puxar um trem, feita como trabalho pesado e como brincadeira, choca o observador e o leva a refletir sobre a infância roubada pelo trabalho. A obra não explica nem resolve o problema, mas provoca reflexão, o que confirma a alternativa C. A A erra porque a ilustração não explica a origem das diferenças sociais. A B erra porque não se estabelece postura proativa. A D erra porque nenhuma solução é proposta. A E erra porque a imagem não compara como diferentes países enfrentam a questão. Gabarito: C.",
+  "hash": "c872871103659a43",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q110": {
+  "assunto": "Artes visuais: cartum, crítica social",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que representa a figura destacada no cartum de Caulos. A imagem mostra vários bonecos iguais, todos brancos, com uma chave de corda nas costas, como brinquedos que se movem mecanicamente e na mesma direção. A figura escura, no canto, não tem chave de corda e caminha em sentido contrário. A chave de corda simboliza a manipulação: os outros agem de modo automático, controlados por algo externo. A figura destacada, sem corda e em oposição, representa quem pensa por si mesmo e resiste ao controle do pensamento coletivo. A alternativa A erra porque a figura não aparece oprimida. A B erra porque o cartum não trata de recursos tecnológicos. A C erra porque o tema não é a expressão verbal, mas a autonomia de pensamento. A D erra porque não há referência a qualificação profissional. Gabarito: E.",
+  "hash": "b8ec2cb50a20e34f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de charge",
+  "dificuldade": 2,
+  "explicacao": "A questão pede que se identifique a origem do humor na charge. A cena mostra dois homens vestidos como personagens de faroeste ou de duelos tradicionais. Um deles diz “¡Lo reto a un duelo!”, ou seja, desafia o outro para um duelo, situação que tradicionalmente envolve pistolas ou espadas. O outro aceita, mas propõe: “Pero yo con el joystick y usté con las teclas”, isto é, ele ficaria com o controle de videogame e o adversário com o teclado. O comentário no alto, “Ya no es como antes”, reforça que os tempos mudaram. O humor nasce justamente da quebra de expectativa: o duelo, que pressupõe armas letais, passa a ser disputado com instrumentos de jogos eletrônicos, armas nada convencionais. A alternativa A erra porque a aceitação não é o foco do riso. A B erra porque o convite ao desafio é mantido, só muda a forma. A D erra porque o comentário lateral não sofre deslocamento temporal; ele apenas constata a mudança. A E erra porque a postura dos personagens não produz o efeito cômico. Gabarito: C.",
+  "hash": "8a0979654e167977",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de notícia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o acontecimento noticiado no texto, isto é, o fato central da notícia. O título já indica o essencial: “After prison blaze kills hundreds in Honduras, UN warns on overcrowding”. O primeiro parágrafo informa que houve um incêndio noturno (“overnight fire”) em uma prisão em Honduras que matou centenas de detentos, mais de 300, e que um representante da ONU relacionou a tragédia à superlotação (“overcrowding”). Assim, o fato reportado é o incêndio em um presídio superlotado em Honduras, e a superlotação aparece como contexto e possível agravante. A alternativa B erra porque a superlotação é o tema do alerta da ONU, não o acontecimento em si. A C erra porque nenhum oficial da ONU morreu; ele apenas deu declarações. A D erra porque o texto diz que ainda é preciso esperar uma investigação, ou seja, não há relatório concluído. A E erra porque o número de mortos é superior a 300, e não doze. Gabarito: A.",
+  "hash": "085b11a7b7b90af8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de canção",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual problema social é tematizado pela cantiga de ninar “Duerme negrito”. Na primeira parte, a mãe promete trazer ao filho codornas, frutas e carne de porco, enquanto está “en el campo”. Na parte final, porém, a letra revela a condição dessa mãe: “Trabajando, trabajando duramente, trabajando sí. Trabajando y no le pagan”. Ou seja, ela trabalha duramente no campo e não recebe pagamento, o que denuncia a exploração e a precariedade das relações de trabalho rural, herança de um contexto de escravidão e servidão. Por isso a cantiga, aparentemente singela, problematiza uma questão social. A alternativa A erra porque não há orgulho de provedora, e sim denúncia de exploração. A B erra porque a ausência da mãe se deve ao trabalho, não à falta de afeto. A D erra porque não se exalta a inserção feminina no mercado; mostra-se trabalho sem remuneração. A E erra porque a cantiga não trata de formação cidadã do filho. Gabarito: C.",
+  "hash": "b9d3a5508c5086e0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de texto científico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual informação o estudante extrairia da notícia da National Geographic. O texto diz que nosso corpo produz uma pequena quantidade constante de morfina natural. A pesquisa mostrou que camundongos produzem esse analgésico e que humanos e outros mamíferos possuem “the same chemical road map for making it”, isto é, o mesmo caminho químico para fabricá-lo. Em termos biológicos, esse “mapa químico” corresponde à mesma via metabólica, o que confirma a alternativa B. A alternativa A erra porque Missouri é apenas o local do centro de pesquisa do coautor, não onde se manipulam compostos humanos. A C erra porque o texto fala em quantidade pequena (“small steady amount”), não grande. A D erra porque o texto não trata de predisposição genética para inibir a dor. A E erra porque o estudo sugere justamente que a produção é compartilhada por mamíferos, não um traço incomum. Gabarito: B.",
+  "hash": "0567f0ddff62eee8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de texto histórico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o papel de Malinche na conquista espanhola, segundo o texto de Carlos Fuentes. O trecho conta que, entre vinte escravas oferecidas a Cortés, ele escolheu Malintzin, que se tornou “mi lengua”: sua intérprete e amante. O ponto central está no final: ela foi “la lengua que habría de guiarle a lo largo y alto del Imperio azteca, demostrando que algo estaba podrido en el reino de Moctezuma”, que havia descontentamento e que o império “tenía pies de barro”. Assim, como intérprete, ela permitiu a Cortés conhecer as fragilidades do império, o que corresponde à alternativa A. A B erra porque, embora tenha sido escrava, o texto não a apresenta servindo aos objetivos da Coroa. A C erra porque a miscigenação não é o destaque do texto. A D erra porque seu povo a via como traidora, não como defensora. A E erra porque ela não introduziu corrupção; apenas revelou a fragilidade já existente. Gabarito: A.",
+  "hash": "ecc4b7060cc390a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de texto jornalístico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o propósito do texto sobre Steve Jobs. O título “A Life Remembered” e a abertura com termos elogiosos (“CEO. Tech-Guru. Artist.”) já sinalizam homenagem. O texto afirma que poucas figuras são tão famosas e bem-conceituadas, que sua lista de conquistas é impressionante (“staggering”) e que sua contribuição para a tecnologia e o mundo não pode ser minimizada. No fim, presta respeito a “a digital pioneer”. Trata-se, portanto, de enaltecer sua contribuição para o mundo digital. A alternativa A erra porque o foco são as conquistas de Jobs, não as da empresa. A B erra porque o trecho não descreve criações específicas. A D erra porque não há lamento pela ausência em novas criações. A E erra porque o texto não discute impactos; apenas os celebra. Gabarito: C.",
+  "hash": "915932c4bdb7433a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q94-esp": {
+  "assunto": "Língua espanhola: expressões idiomáticas, poema",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o sentido da expressão “mala leche” no quinto verso do poema de Gloria Fuertes. Em espanhol, “tener mala leche” significa ter mau humor, mau gênio ou má intenção. Brincando com a imagem da cabra, animal que dá leite, o eu lírico diz: “En vez de mala leche yo doy llanto”, ou seja, em vez de reagir com mau humor, ele produz pranto. Ele se representa, portanto, como alguém que transforma o mau humor em choro, em sofrimento, o que dialoga com o fim do poema: “Si sufrir es estar como una cabra, entonces sí lo estoy”. A alternativa A erra porque o eu lírico afirma não pertencer a rebanho algum, sendo independente. A B trata da diferença do eu lírico, presente em outros versos, mas não do sentido de “mala leche”. A C erra porque ela escolhe a solidão e não se mostra conformada. A D se relaciona ao verso seguinte, sobre lugares perigosos, e não à expressão pedida. Gabarito: E.",
+  "hash": "832d93504344ee48",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de campanha",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o comentário que exemplifica a quarta dica da campanha da ONU. A dica 4 diz: “Spread your own culture around the world and learn about other cultures”, ou seja, divulgar a própria cultura pelo mundo e aprender sobre outras. Há, portanto, duas ações combinadas: mostrar a sua cultura e conhecer a dos outros. A alternativa C atende às duas: o internauta se inscreveu num programa para “mostrar o que tem de bom em meu país” (divulgar a própria cultura) e “conhecer outras formas de ser” (aprender sobre outras culturas). A alternativa A trata de aprender uma prática da própria cultura brasileira, sem divulgação ao mundo. A B relata apenas assistir a uma reportagem, sem engajamento recíproco. A D foca no aperfeiçoamento linguístico, não no intercâmbio cultural. A E mostra contato com outra cultura, mas não a divulgação da própria. Gabarito: C.",
+  "hash": "db963463afd13ecd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q95-esp": {
+  "assunto": "Língua espanhola: variação linguística",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a tese do texto sobre a língua espanhola no século XXI. O autor distingue “unidad” de “unificación”: a unidade sempre existiu junto com a variedade, que é “riqueza suprema” das culturas nacionais, enquanto a unificação imposta pela Espanha levaria à perda das diferenças culturais. Depois, explica que as culturas nacionais hispano-americanas consolidaram seus próprios espanhóis e conclui: o espanhol da Espanha é apenas mais um; existem vinte e dois espanhóis nacionais e “ninguno vale más que otro”, configurando uma língua pluricêntrica. Logo, as variedades têm igual relevância linguística e cultural. A alternativa A erra porque o autor afirma que a unidade convive com a variedade. A C erra porque o texto critica a unificação, não a apresenta como fortalecimento. A D erra porque as diferenças são vistas como riqueza, não prejuízo. A E erra porque a unificação é justamente o que o autor condena. Gabarito: B.",
+  "hash": "5fdb731847b9a796",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de tirinha",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o discurso de Calvin teve efeito diferente do pretendido. Na tirinha, Calvin anuncia ao pai que nada de ruim que faz é culpa dele: diz ser jovem, impressionável, vítima de más influências e de uma cultura que o leva à maldade, concluindo “It’s society’s fault!”. Ele queria se eximir de responsabilidade. O pai, porém, responde que então Calvin precisa “build more character” e o manda limpar a neve da calçada (“Go shovel the walk”). No último quadro, Calvin, com a pá na neve, reclama: “These discussions never go where they’re supposed to”, isto é, as discussões com o pai nunca terminam como ele espera. A alternativa A erra porque ele não decide limpar a neve; é obrigado. A B erra porque ele culpa a sociedade, não o pai. A D distorce a fala sobre maus acontecimentos. A E descreve o conteúdo do discurso, não seu efeito inesperado. Gabarito: C.",
+  "hash": "b7bced4c591f7114",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q96": {
+  "assunto": "Gêneros textuais: documento histórico, redação escolar",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a relevância social, para o leitor atual, de uma redação escolar de 1911 sobre a Bandeira Nacional. O manuscrito traz um desenho da bandeira, versos que a exaltam (“Auri verde pendão de minha terra”) e uma descrição que associa cada elemento a riquezas e valores do país, como as matas, o ouro, os estados e o lema “Ordem e Progresso”, base da república. Termina com “Salve! Bandeira Brazileira”. Para o leitor de hoje, o documento funciona como registro de como a escola do início da República transmitia valores patrióticos e cívicos. Por isso a alternativa A é correta. A B erra porque não há instruções de comportamento em eventos cívicos. A C erra porque o texto exalta as riquezas, mas não afirma que o brasileiro as preserva. A D erra porque não se argumenta sobre igualdade de direitos. A E erra porque o texto é produção de aluno, não apresentação de metodologia de ensino. Gabarito: A.",
+  "hash": "f734da8c41204945",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q97": {
+  "assunto": "Educação física: jogo, caráter lúdico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como se estabelece a fruição no jogo, do ponto de vista das práticas corporais. Huizinga define o jogo como atividade voluntária, com regras consentidas, “dotado de um fim em si mesmo”, acompanhado de tensão e alegria e da consciência de ser diferente da vida cotidiana. Fruição significa desfrutar, ter prazer na própria atividade. Isso corresponde ao caráter lúdico do jogo, que se realiza pelo prazer de jogar e permite vivências diferentes das do cotidiano, isto é, experiências inusitadas. A alternativa A erra porque a padronização de táticas não gera fruição. A B erra porque a competitividade volta o foco ao resultado, e não ao fim em si mesmo. A C erra pelo mesmo motivo: o refinamento técnico visa ao desempenho. A E erra porque o texto não menciona tecnologia. Gabarito: D.",
+  "hash": "721c33721e7f4437",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q98": {
+  "assunto": "Argumentação: estratégias argumentativas, pessoa verbal",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o efeito das formas verbais em destaque no artigo de opinião. Os verbos destacados estão na primeira pessoa do plural: “carregamos”, “podemos reduzir-nos”, “desenvolvemos”, “somos livres”, “controlamos” e “somos controlados”. O uso do “nós” inclui o leitor no discurso, fazendo-o compartilhar a experiência e o ponto de vista do autor. E a tese do texto é justamente a de uma relação de dependência mútua: “tanto controlamos quanto somos controlados” pelas estruturas midiáticas. Assim, a escolha verbal torna o leitor copartícipe da ideia de que ele manipula as tecnologias e é manipulado por elas. A alternativa A erra porque o “nós” cria cumplicidade, não subordinação. A B erra porque não há generalização sobre toda a população brasileira. A C erra porque o texto nega que as pessoas sejam apenas controladas. A E erra porque não se atribui culpa exclusiva ao leitor. Gabarito: D.",
+  "hash": "e271eaf557f4471e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d2-q99": {
+  "assunto": "Literatura brasileira: modernismo, poesia negra",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o contexto social que o eu lírico vê no conflito entre gerações e grupos étnicos. No poema de Jorge de Lima, as gerações mestiças tentarão “apagar a tua cor”, mas “não apagarão de suas almas, a tua alma, negro!”, ou seja, a memória ancestral negra persiste. A enumeração de figuras e povos (Pai-João, Zumbi, negro rebelde, cabinda, congo, iorubá) reafirma essa herança, que inclui resistência. Nos versos finais, o eu lírico compreende os blues “nesta hora triste da raça branca” e afirma que “a raça que te enforca, enforca-se de tédio”: a cultura branca dominante aparece apática, entediada, enquanto o negro mantém vitalidade cultural. Isso corresponde à alternativa B. A A erra porque o poema não trata de modernização produtiva. A C erra porque não se fala em superação de costumes por valores dos colonizados. A D erra porque não há nivelamento pela pobreza. A E erra porque o conflito não é entre grupos de trabalhadores. Gabarito: B.",
+  "hash": "4ba5b7c4823d002a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
