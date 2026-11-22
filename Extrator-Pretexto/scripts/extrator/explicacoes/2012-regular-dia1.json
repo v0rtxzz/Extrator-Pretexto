@@ -373,7 +373,7 @@
  "enem-2012-regular-d1-q54": {
   "assunto": "Ondulatória: frequência, comprimento de onda",
   "dificuldade": 3,
-  "explicacao": "A questão pede como mudam o comprimento de onda e a velocidade quando a frequência da goteira cai. Inicialmente, caem duas gotas por segundo, logo f = 2 Hz, com λ = 25 cm = 0,25 m; confere-se v = λ·f = 0,25 × 2 = 0,5 m/s... porém o enunciado informa 1,0 m/s, valor que devemos tomar como dado. O ponto essencial é conceitual: a velocidade de propagação de uma onda depende apenas do meio (a água da piscina), e não da fonte. Assim, v continua igual a 1,0 m/s. Pela relação v = λ·f, se a frequência cai pela metade (de 2 Hz para 1 Hz) e v é constante, o comprimento de onda dobra, ficando maior que 25 cm. Isso corresponde à alternativa B. As alternativas A e C erram ao mudar a velocidade, que não depende da fonte. A D erra ao reduzir λ, pois menos gotas por segundo afastam as cristas. A E ignora que λ varia com a frequência. Gabarito: B.",
+  "explicacao": "[REVISAR] Os dados do enunciado são incoerentes entre si: com f = 2 Hz e λ = 0,25 m, v = λ·f = 0,5 m/s, e não 1,0 m/s; isso não altera o raciocínio conceitual. A questão pede como mudam o comprimento de onda e a velocidade quando a goteira passa a pingar com menor frequência. O ponto essencial é que a velocidade de propagação de uma onda depende apenas do meio, aqui a água da piscina, e não da fonte que a produz. Assim, a velocidade continua igual a 1,0 m/s. Já a frequência da onda é imposta pela fonte: passou de duas gotas por segundo (2 Hz) para uma por segundo (1 Hz). Pela relação v = λ·f, com v constante e f reduzida à metade, o comprimento de onda dobra, ficando maior que 25 cm. Isso corresponde à alternativa B. As alternativas A e C erram ao alterar a velocidade, que não depende da fonte. A D erra ao reduzir λ, pois menos gotas por segundo afastam as cristas. A E ignora que λ varia com a frequência. Gabarito: B.",
   "hash": "6470e1e20d47566e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
@@ -492,7 +492,7 @@
  "enem-2012-regular-d1-q71": {
   "assunto": "Energia e trabalho: fontes de energia, matriz energética",
   "dificuldade": 2,
-  "explicacao": "A questão pede a matriz energética de menor impacto e risco para um país plano, chuvoso, com ventos constantes, poucos recursos hídricos e sem combustíveis fósseis. A característica decisiva é a presença de ventos constantes, condição ideal para a energia eólica. Além disso, os aerogeradores não emitem gases de efeito estufa durante a operação nem produzem resíduos, o que torna essa fonte de baixo impacto. Assim, a alternativa E é a correta. A alternativa A, biocombustíveis, exige grandes áreas de cultivo e libera gases na queima. A B, solar, é prejudicada pelo clima chuvoso, com muitas nuvens, e não tinha baixo custo. A C, nuclear, gera rejeitos radioativos e risco de acidentes, ao contrário do que afirma. A D, hidráulica, depende de desníveis e de rios caudalosos, ausentes num país plano e com poucos recursos hídricos. Gabarito: E.",
+  "explicacao": "A questão pede a matriz energética de menor impacto e risco para um país plano, chuvoso, com ventos constantes, poucos recursos hídricos e sem combustíveis fósseis. A característica decisiva é a presença de ventos constantes, condição ideal para a energia eólica. Além disso, os aerogeradores não emitem gases de efeito estufa durante a operação nem produzem resíduos, o que torna essa fonte de baixo impacto. Assim, a alternativa E é a correta. A alternativa A, biocombustíveis, exige grandes áreas de cultivo e libera gases na queima. A B, solar, é prejudicada pelo clima chuvoso, com muitas nuvens, e seu custo não é baixo. A C, nuclear, gera rejeitos radioativos e risco de acidentes, ao contrário do que afirma. A D, hidráulica, depende de desníveis e de rios caudalosos, ausentes num país plano e com poucos recursos hídricos. Gabarito: E.",
   "hash": "f5ff77df8beb69f3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
@@ -522,6 +522,111 @@
   "dificuldade": 1,
   "explicacao": "A questão pede o que os experimentos de Redi e Pasteur demonstraram contra a geração espontânea. Redi, no século XVII, colocou carne em frascos abertos e fechados com gaze e mostrou que larvas só apareciam onde moscas podiam pôr ovos. Pasteur, no século XIX, com os frascos de pescoço de cisne, mostrou que caldos fervidos permaneciam estéreis enquanto microrganismos do ar não chegassem a eles. Ambos sustentaram a biogênese: todo ser vivo se origina de outro ser vivo preexistente, alternativa C. Assim, as larvas no arroz vêm de ovos de moscas. A alternativa A não foi demonstrada por eles. A B trata da origem da vida no planeta, tema diferente. A D fala em parentesco evolutivo, assunto não investigado nesses experimentos. A E descreve justamente a geração espontânea, a teoria refutada. Gabarito: C.",
   "hash": "24a5e41426faddf8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q76": {
+  "assunto": "Funções inorgânicas: neutralização ácido-base",
+  "dificuldade": 2,
+  "explicacao": "A questão pede onde borbulhar os gases da incineração do PVC para reter o HCℓ, um gás que forma ácido clorídrico em água. Para eliminar um poluente ácido, o tratamento adequado é a neutralização com uma base. A água de cal é uma solução aquosa de hidróxido de cálcio, Ca(OH)₂, que reage com o ácido: 2 HCℓ + Ca(OH)₂ → CaCℓ₂ + 2 H₂O. O cloreto de cálcio formado fica em solução e o gás ácido deixa de ser emitido. Por isso a alternativa B é a correta. A alternativa A, água dura, contém sais de cálcio e magnésio, mas não é básica o suficiente para neutralizar o ácido. A C, água salobra, tem sais dissolvidos, sem caráter básico relevante. A D e a E, água destilada e desmineralizada, apenas dissolveriam o HCℓ, gerando uma solução ácida que continuaria sendo um resíduo poluente. Gabarito: B.",
+  "hash": "c2c857060003c0f6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q77": {
+  "assunto": "Hidrostática: empuxo, densidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a massa real da porção de legumes, usando o volume de água deslocado. O nível subiu de 1,0 L para 1,5 L, logo o volume submerso é 0,5 L = 500 cm³. Como 1/3 do volume ficou fora da água, os 500 cm³ correspondem a 2/3 do volume total. Assim, V = 500 × 3/2 = 750 cm³. A densidade dos legumes é metade da da água: d = 0,5 g/cm³. Então m = d × V = 0,5 × 750 = 375 g = 0,375 kg, alternativa D. Há uma checagem pelo equilíbrio: um corpo com metade da densidade da água deveria flutuar com metade do volume imerso, o que indica que a porção estava parcialmente apoiada no fundo; ainda assim, o cálculo pedido usa o volume total e a densidade informada. A alternativa A não corresponde a nenhuma relação válida. A B (0,167 kg) e a C (0,250 kg) usam apenas parte do volume. A E (0,750 kg) esquece de multiplicar pela densidade de 0,5 g/cm³. Gabarito: D.",
+  "hash": "1ff49081ee83e9c7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q78": {
+  "assunto": "Dinâmica: atrito estático e cinético",
+  "dificuldade": 4,
+  "explicacao": "A questão pede os gráficos da força de atrito em função da pressão no pedal, sem ABS e com ABS. Enquanto a roda gira sem deslizar, o atrito entre pneu e pista é estático e cresce com a pressão no freio, até atingir o valor máximo. Sem ABS, ao ultrapassar esse limite a roda trava e passa a deslizar; o atrito cai bruscamente para o valor cinético, menor, e fica constante mesmo que a pressão aumente. Com ABS, o sistema libera a roda sempre que ela está no limiar do deslizamento, então a força cai um pouco e volta a subir repetidamente, mantendo-se próxima do atrito estático máximo, num gráfico em dente de serra. Esse par de gráficos é o da alternativa A. Na B, os gráficos sem e com ABS estão invertidos. Na C, as duas retas crescem indefinidamente, ignorando o limite do atrito. Na D, a força constante e o gráfico em triângulo não representam nenhum dos casos. Na E, aparece o dente de serra seguido de força constante, de novo em ordem invertida. Gabarito: A.",
+  "hash": "cfcff50691008e46",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q79": {
+  "assunto": "Química orgânica: polaridade e solubilidade, vitaminas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual vitamina exige maior suplementação diária. Pelo texto, as hidrossolúveis não ficam armazenadas e precisam ser ingeridas todo dia, enquanto as lipossolúveis se acumulam nos tecidos gordurosos. Basta, então, identificar a estrutura mais solúvel em água. Na figura, a vitamina III é uma molécula pequena, com um anel de cinco membros e quatro grupos hidroxila (–OH), além de oxigênios da função éster. Esses grupos polares formam muitas ligações de hidrogênio com a água, tornando-a hidrossolúvel; trata-se da vitamina C, o ácido ascórbico. Por isso a alternativa C é a correta. As vitaminas II e IV apresentam longas cadeias carbônicas e anéis apolares com poucos grupos polares, como a vitamina K (II) e a vitamina D (IV), sendo lipossolúveis e armazenáveis. A V também tem anel aromático e cadeia carbônica apolar, como a vitamina E, e a I não se destaca por grupos polares, sendo igualmente lipossolúvel. Gabarito: C.",
+  "hash": "86e1819e61395bb0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q80": {
+  "assunto": "Saúde e doenças: obesidade, diabetes",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual doença pode ser desencadeada pela condição física do personagem. Na tirinha, Garfield se olha no espelho, diz estar fora de forma e, sem conseguir perder as banhas, decide amarrá-las com um cinto. A condição apresentada é, portanto, a obesidade ou o excesso de gordura corporal. A obesidade é um importante fator de risco para o diabetes tipo 2, pois o excesso de tecido adiposo favorece a resistência à insulina, dificultando a entrada de glicose nas células. Por isso a alternativa C é a correta. A anemia (A) está ligada principalmente à falta de ferro ou de vitaminas, não ao excesso de peso. O beribéri (B) decorre da carência de vitamina B1. O escorbuto (D) é causado pela falta de vitamina C. A fenilcetonúria (E) é uma doença genética, sem relação com a obesidade. Gabarito: C.",
+  "hash": "b0cf59af4c1ac8bf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q81": {
+  "assunto": "Ecologia: fluxo de energia, extinção em massa",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como a nuvem de poeira causada pelo asteroide levou à extinção dos dinossauros. A poeira em suspensão na atmosfera bloqueou grande parte da luz solar. Com menos luz, a fotossíntese dos produtores, que são a base das cadeias alimentares, caiu drasticamente. Isso reduziu a energia disponível para herbívoros e, em seguida, para os carnívoros, desestruturando as teias tróficas; houve ainda resfriamento do clima. Animais grandes, que precisam de muito alimento, foram especialmente afetados. Essa é a ideia da alternativa B. A alternativa A erra ao ligar a extinção a alterações no código genético causadas pelo relógio biológico. A C fala em bioacumulação de poeira, conceito aplicado a substâncias tóxicas, e não a partículas inertes. A D exagera, pois a poeira não faria desaparecer rios e lagos. A E também não procede, pois a poeira não impediria as chuvas em todo o planeta. Gabarito: B.",
+  "hash": "af65140dc7733e9d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q82": {
+  "assunto": "Eletroquímica: potencial de redução, metal de sacrifício",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quais metais poderiam substituir o magnésio no anel, protegendo o alumínio da oxidação no forno. O magnésio protege porque tem potencial de redução menor (–2,36 V) que o do alumínio (–1,66 V), ou seja, oxida-se com mais facilidade e se oxida no lugar dele, funcionando como metal de sacrifício. Pela tabela, os metais com potencial de redução menor que –1,66 V são o lítio (–3,05 V), o potássio (–2,93 V) e o próprio magnésio. Logo, somente lítio e potássio cumpririam a mesma função, alternativa E. A alternativa A esquece o potássio, que também tem potencial menor que o do alumínio. A B escolhe o cobre, que tem o maior potencial e, por isso, oxida mais dificilmente que o alumínio. A C exclui o lítio sem justificativa. A D erra ao afirmar que cobre e zinco oxidam mais facilmente que o alumínio, pois ambos têm potenciais de redução maiores. Gabarito: E.",
+  "hash": "58ea3e1795f6192b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q83": {
+  "assunto": "Termologia: segunda lei da termodinâmica, máquinas térmicas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o fator que limita a busca por eficiência nos motores a combustão. Um motor a combustão é uma máquina térmica: recebe calor de uma fonte quente, converte parte em trabalho e rejeita o restante para uma fonte fria. A segunda lei da termodinâmica afirma que é impossível converter integralmente calor em trabalho num processo cíclico; mesmo a máquina ideal de Carnot tem rendimento menor que 100%, dado por η = 1 – T₂/T₁. Assim, por mais que se melhore a ignição com plasma, o rendimento nunca atinge o ideal, como afirma a alternativa B. A alternativa A trata do esgotamento do combustível, que não limita a eficiência do motor. A C erra ao dizer que energia precisa ser transferida ao próximo ciclo. A D cita o atrito, que reduz o rendimento real, mas não é o limite fundamental. A E é falsa, pois o plasma da faísca é localizado e não exige fundir o motor. Gabarito: B.",
+  "hash": "0a14bae7e708f8fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q84": {
+  "assunto": "Radioatividade: irradiação e contaminação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que foi equivocado recusar o transporte de material esterilizado por irradiação. É preciso distinguir irradiação de contaminação radioativa. Na esterilização, o material é exposto a radiação, em geral gama, que atravessa o objeto e destrói os microrganismos, mas não deixa nele substâncias radioativas. Como a radiação não fica acumulada, o material irradiado não se torna fonte de radiação e pode ser manuseado e transportado normalmente, como afirma a alternativa A. Seria diferente se houvesse contaminação, isto é, partículas de material radioativo depositadas no objeto. A alternativa B supõe que o material emita radiação, o que não ocorre. A C trata de contaminação, situação que não está em jogo. A D admite emissão de radiação, ainda que fraca, o que é falso. A E sugere que o material emitiu radiação por um tempo após a esterilização, o que também não acontece. Gabarito: A.",
+  "hash": "1b131252cf311343",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q85": {
+  "assunto": "Botânica: evolução das plantas, polinização",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual estrutura adaptativa contribuiu para maior diversidade genética. O cladograma mostra, na evolução das plantas, o arquegônio e o gametófito dominante nas briófitas, os vasos condutores e o esporófito dominante nas pteridófitas, sementes aladas e grãos de pólen nas gimnospermas e flores e frutos nas angiospermas. Diversidade genética depende da reprodução sexuada entre indivíduos diferentes. O grão de pólen transporta o gameta masculino pelo vento ou por animais até plantas distantes, sem depender de água, permitindo a polinização cruzada e a mistura de genes de indivíduos distintos. Assim, a alternativa C é a correta. A alternativa A trata da dispersão das sementes, que amplia a ocupação de áreas, não a recombinação. A B refere-se à proteção do embrião. A D fala dos frutos, que protegem e dispersam sementes. A E trata do transporte de seiva, sem relação com a variabilidade genética. Gabarito: C.",
+  "hash": "9e2728aa19b1979f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q86": {
+  "assunto": "Soluções: osmose, pressão osmótica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que acontece com uma célula humana mergulhada em solução de NaCℓ 0,20 mol/L. O texto informa que a solução 0,15 mol/L é isotônica em relação às células. Logo, a solução 0,20 mol/L é mais concentrada, ou seja, hipertônica em relação ao meio intracelular. Na osmose, a água atravessa a membrana semipermeável do meio menos concentrado para o mais concentrado. Assim, moléculas de água saem do interior da célula para a solução, e a célula murcha, fenômeno chamado crenação nas hemácias. Essa é a alternativa E. A alternativa A fala em adsorção de íons, que não é o fenômeno osmótico. A B e a D tratam de passagem de íons Na⁺, mas a osmose envolve o movimento do solvente. A C está errada, pois, com a saída de água, a concentração das soluções dentro da célula aumenta, e não diminui. Gabarito: E.",
+  "hash": "fd7fdba6c476aec6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q87": {
+  "assunto": "Saúde e doenças: doença de Chagas, desmatamento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual ação humana tem contribuído para o aumento da doença de Chagas. O barbeiro, vetor do Trypanosoma cruzi, é um inseto hematófago que, em ambiente natural, se alimenta do sangue de animais silvestres, como gambás e tatus. Quando há desmatamento, esses animais migram ou desaparecem e o inseto perde sua fonte de alimento. Com isso, o barbeiro passa a procurar abrigo e sangue nas habitações humanas, principalmente casas de pau a pique com frestas, aumentando o contato com as pessoas e a transmissão. Essa é a alternativa E. A alternativa A é errada, pois a transmissão não ocorre pela carne de caça. A B não procede, já que adubos não aceleram a reprodução do barbeiro. A C confunde a doença com as de veiculação hídrica, pois o protozoário não se prolifera na falta de esgoto. A D fala em larvas, mas o barbeiro não tem fase larval aquática. Gabarito: E.",
+  "hash": "775cc7e8d09ad83d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q88": {
+  "assunto": "Ondulatória: espectro eletromagnético, frequência",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que a lâmpada incandescente não bronzeia. O texto diz que a melanina é produzida em resposta à radiação ultravioleta. A lâmpada incandescente emite principalmente luz visível e radiação infravermelha, que têm frequência menor que a do ultravioleta. A energia de cada fóton é proporcional à frequência (E = h·f); somente fótons de alta frequência, como os do UV, têm energia suficiente para estimular as células produtoras de melanina. Logo, o bronzeamento não ocorreu porque a luz da lâmpada é de baixa frequência, alternativa B. A alternativa A erra, pois aumentar a intensidade da mesma luz não traria fótons de UV. A C cita o espectro contínuo, que não explica a ausência do efeito. A D fala em amplitude, que está ligada à intensidade, e não ao tipo de radiação. A E inverte a relação: a luz da lâmpada tem comprimento de onda longo, e não curto. Gabarito: B.",
+  "hash": "9b510f780e0d8f6a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q89": {
+  "assunto": "Citologia: membrana plasmática, fosfolipídios",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a propriedade dos fosfolipídios que explica a formação de lipossomos com bicamada lipídica. Cada fosfolipídio tem uma cabeça polar, formada pelo grupo fosfato, que interage com a água, e duas caudas apolares de ácidos graxos, que repelem a água. Em meio aquoso, as moléculas se organizam de modo que as cabeças fiquem voltadas para a água, de fora e de dentro da vesícula, e as caudas fiquem escondidas no interior da bicamada. Quando a estrutura se rompe, as caudas ficariam expostas à água, por isso ela se reorganiza. Essa natureza dupla é chamada anfifílica, alternativa E. A alternativa A erra, pois, se fossem totalmente polares, simplesmente se dissolveriam. A B também erra, pois, totalmente apolares, não formariam bicamada organizada. A C confunde com anfótero, termo ligado ao comportamento ácido-base. A D cita insaturações, que influenciam a fluidez, mas não explicam o arranjo. Gabarito: E.",
+  "hash": "cd5307c78496f0b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q90": {
+  "assunto": "Estequiometria: massa molar, quantidade de matéria",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a quantidade máxima diária de aspartame, em mol, para uma pessoa de 70 kg. O dado essencial é o IDA de 40 mg por quilograma de massa corporal. Primeiro, a massa máxima: 40 mg/kg × 70 kg = 2 800 mg = 2,8 g. Depois, a conversão para mol com a massa molar de 294 g/mol: n = 2,8 / 294 ≈ 0,0095 mol, isto é, aproximadamente 9,5 × 10⁻³ mol. Essa é a alternativa B. As informações sobre poder adoçante e valor calórico não interferem no cálculo. A alternativa A (1,3 × 10⁻⁴) resulta de usar 40 mg sem multiplicar pela massa da pessoa. A C (4 × 10⁻²) confunde o IDA, em gramas, com quantidade de matéria. A D (2,6) e a E (823) vêm de erros de unidade, como deixar a massa em miligramas ou multiplicar pela massa molar em vez de dividir. Gabarito: B.",
+  "hash": "e1975d7dfcb105ca",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  }
 }
