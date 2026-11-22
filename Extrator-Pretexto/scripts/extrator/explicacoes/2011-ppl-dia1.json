@@ -1,0 +1,632 @@
+{
+ "enem-2011-ppl-d1-q01": {
+  "assunto": "Questões ambientais: sociedade e natureza, degradação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede que se identifique, a partir do texto de Ross, uma causa e uma consequência da interferência humana no ambiente. O texto afirma que, quanto mais o ser humano evolui tecnicamente, mais interfere na dinâmica da natureza, gerando impactos que transformam o ambiente natural. Assim, a resposta precisa apresentar uma atividade técnico-econômica como causa e um impacto negativo sobre os ecossistemas como consequência. A alternativa A faz exatamente isso: a extração de matérias-primas para a siderurgia (minério de ferro, carvão vegetal) é uma causa típica de intervenção, e a degradação de ecossistemas é sua consequência direta, como se observa em áreas de mineração e desmatamento. A alternativa B é incoerente, pois a redução de investimentos não provoca diretamente a perda de espécies. A C erra ao chamar de aproximação o que é, na verdade, transformação e degradação. A D associa o fim de incentivos ao turismo a um equilíbrio ecológico sem relação lógica. A E aponta uma consequência possível, mas a produtividade em si não é a causa apresentada pelo texto. Gabarito: A.",
+  "hash": "401827b50944774b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q02": {
+  "assunto": "Movimentos sociais: movimento ambientalista, sustentabilidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta em que aspecto o movimento ambientalista influenciou a mudança de postura das grandes empresas. O texto mostra que a crise ambiental do fim do século XX questionou a racionalidade econômica dominante e fez surgir organizações da sociedade civil interessadas em outra relação entre sociedade e natureza. A pressão desses movimentos, somada à opinião pública e ao consumidor mais exigente, levou as empresas a incorporar o discurso e as práticas de sustentabilidade e de responsabilidade socioambiental nos lugares onde atuam, como tratamento de resíduos, reflorestamento e certificações. Por isso a alternativa E está correta. A alternativa A contradiz a própria ideia de crise, pois afirma que os recursos têm reposição adequada. A B atribui a mudança aos direitos civis e ao poder público, e não aos movimentos sociais. A C afirma, sem base, que as empresas usam cada vez menos recursos naturais. A D descreve um descarte de dejetos com avaliação posterior dos danos, o oposto de uma postura preventiva. Gabarito: E.",
+  "hash": "17294842b03eb2f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q03": {
+  "assunto": "Energia: hidrelétricas, impactos socioambientais",
+  "dificuldade": 2,
+  "explicacao": "A questão trata dos impactos da usina de Belo Monte, no rio Xingu, sobre os grupos que vivem na região. O texto apresenta o dilema: o país precisa de energia para crescer, mas há dúvidas se uma grande usina no meio da Amazônia é a melhor saída. Grandes hidrelétricas inundam extensas áreas, alteram a vazão dos rios, afetam a pesca e deslocam populações indígenas, ribeirinhas e extrativistas, cujas atividades dependem diretamente do território e do rio. Desse modo, o impacto central sobre esses atores é o risco de deterioração das atividades tradicionais provocado pelas transformações territoriais, como afirma a alternativa C. A alternativa A inverte a relação, pois a energia gerada atende sobretudo a centros urbanos e indústrias, não às atividades tradicionais. A B é otimista demais, já que os empregos da obra são temporários e não absorvem os atingidos. A D supõe, sem fundamento, que os benefícios superarão os prejuízos locais. A E naturaliza os impactos como inevitáveis, o que o texto questiona. Gabarito: C.",
+  "hash": "f56b4730f0eabb22",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q04": {
+  "assunto": "Espaço agrário: biotecnologia, transgênicos",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um argumento que mostre uma desvantagem da biotecnologia para a sociedade, enquanto o texto de apoio lista apenas impactos positivos. Basta, portanto, separar as alternativas que descrevem vantagens daquela que aponta um problema. A principal crítica aos organismos geneticamente modificados é a incerteza sobre seus efeitos de longo prazo na saúde humana e no ambiente, o que fundamenta o princípio da precaução e as exigências de rotulagem. Por isso a alternativa D está correta: o desconhecimento acerca dos possíveis efeitos sobre a saúde é uma desvantagem. A alternativa A descreve um benefício, a criação de alimentos com propriedades nutritivas diferenciadas. A B também é vantagem, pois novas variedades ampliam as opções de cultivo. A C aponta a maior resistência a insetos, um ganho para o produtor. A E menciona a adaptação de culturas a solos e climas diferentes, outra vantagem produtiva. Gabarito: D.",
+  "hash": "34c19c1e169a9443",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q05": {
+  "assunto": "Era Vargas: Estado Novo, propaganda e trabalhismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia política presente no discurso de Vargas de 1º de maio de 1938, durante o Estado Novo. No trecho, Vargas pergunta quais seriam as aspirações das massas operárias e ele mesmo responde: ordem e trabalho. Ou seja, o presidente atribui aos trabalhadores exatamente os valores que sustentavam seu regime autoritário, centralizador e anticomunista. Essa é a lógica do trabalhismo e da propaganda estado-novista: apresentar o projeto do governo como se fosse um desejo vindo do povo, legitimando o poder e desmobilizando conflitos. Por isso a alternativa E está correta. A alternativa A é falsa, pois o regime reprimia a ação popular autônoma e jamais estimularia o povo a tomar o poder. A B erra porque o Estado Novo era anticomunista e não tinha posições socialistas a disfarçar. A C exagera, já que o discurso não trata de nazifascismo nem se dirige à elite. A D é incompatível com um regime que fechou o Congresso e extinguiu os partidos. Gabarito: E.",
+  "hash": "98929e0e7a38b505",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q06": {
+  "assunto": "Trabalho: sistema fabril, divisão do trabalho",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a consequência da expropriação do saber fazer do trabalhador pelo sistema de fábrica. O texto de Decca afirma que a tecnologia fabril não serviu apenas para aumentar a produtividade, mas principalmente para controlar, disciplinar e hierarquizar o processo de trabalho. Antes, o artesão dominava todas as etapas da produção; na fábrica, o processo é fragmentado em tarefas simples e repetitivas, comandadas por capatazes e pelo ritmo das máquinas. Com isso, o trabalhador perde o conhecimento do todo e se afasta do produto final, fenômeno que Marx chamou de alienação. É o que descreve a alternativa B. A alternativa A fala da desestruturação de atividades artesanais, mas não é a consequência central apontada sobre o controle do trabalho. A C inverte o fluxo histórico, que foi do campo para a cidade. A D descreve o sistema doméstico ou a manufatura anterior à fábrica. A E erra ao afirmar que o assalariamento valorizou o trabalho, quando o texto destaca controle e disciplina. Gabarito: B.",
+  "hash": "ac6cc390829701b8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q07": {
+  "assunto": "Meios de comunicação e indústria cultural: globalização, internet",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o fator da revolução informacional que altera a vida social. O texto de Giddens destaca que, graças à globalização e à internet, pessoas em lugares tão distantes quanto Caracas e o Cairo recebem as mesmas músicas, notícias e filmes, participando de uma única ordem informacional. O ponto central é a rapidez e a simultaneidade com que a informação circula pelo planeta, o que muda hábitos, consumo e formas de interação. Por isso a alternativa B, que fala da velocidade com que as informações são disponibilizadas em todo o mundo, está correta. A alternativa A não tem apoio no texto, que não trata de diminuição da interação social. A C contradiz o texto, que fala de grande fluxo de informações. A D introduz a ideia de mais tempo para o lazer, ausente no fragmento. A E menciona desemprego entre jovens, tema que não aparece. Gabarito: B.",
+  "hash": "4cff4493a7266cb4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q08": {
+  "assunto": "Movimentos sociais: MST, luta pela terra",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta quais processos deram origem e formaram a identidade do MST. O texto de Bernardo Mançano Fernandes mostra que a luta pela terra é antiga no Brasil, passando por indígenas, escravizados, trabalhadores livres e imigrantes, até desembocar nas lutas camponesas. O MST, fundado em 1984, nasce desse acúmulo histórico e se consolida com as ocupações de latifúndios improdutivos e a conquista de assentamentos de reforma agrária. Assim, a alternativa D, que relaciona suas raízes ao crescimento da luta pela terra e à implantação de assentamentos, está correta. A alternativa A é falsa, pois não houve expropriação de multinacionais partilhada entre trabalhadores. A B erra ao dizer que a política neoliberal reduziu os conflitos fundiários, que na verdade persistiram. A C trata dos chamados brasiguaios, fenômeno que não define a identidade do movimento. A E inverte a escala, já que a luta passou do local para o nacional. Gabarito: D.",
+  "hash": "935b1d3b8831c0fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q09": {
+  "assunto": "Biomas e vegetação: Mata Atlântica, desmatamento",
+  "dificuldade": 1,
+  "explicacao": "A questão pergunta qual bioma brasileiro sofreu de forma mais profunda e irreversível a apropriação humana. A resposta é a Mata Atlântica, que ocupava a faixa litorânea onde começou a colonização portuguesa. Ela foi explorada desde o pau-brasil, depois substituída por cana-de-açúcar, café e pastagens, e hoje abriga as maiores cidades do país. Restam apenas cerca de 7% a 12% de sua cobertura original, conforme a fonte, o que faz dela o bioma mais devastado. Por isso a alternativa D está correta. A alternativa A trata da Amazônia, que sofre forte desmatamento recente, mas ainda conserva a maior parte da floresta. A B fala do Cerrado, muito degradado pela agropecuária, mas em processo mais recente e menos completo. A C cita o Pantanal, relativamente bem preservado e afetado sobretudo pela pecuária. A E erra ao apontar o assoreamento como causa de desmatamento na Mata dos Cocais. Gabarito: D.",
+  "hash": "a3ecb3b92d5784b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q10": {
+  "assunto": "Cartografia: sensoriamento remoto, monitoramento ambiental",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma forma de vigilância eficiente para um bioma extenso e caro de fiscalizar, a Mata Atlântica. A palavra-chave é vigilância de grandes áreas: a ferramenta que permite acompanhar o desmatamento de forma ampla, periódica e relativamente barata é o sensoriamento remoto, com imagens de satélite. No Brasil, o INPE e a Fundação SOS Mata Atlântica usam esse recurso para gerar o Atlas dos Remanescentes Florestais, e o próprio levantamento citado na reportagem foi feito assim. Logo, a alternativa E está correta. A alternativa A trata de capacitação dos fiscais, útil, mas que não resolve a vigilância de uma área enorme. A B erra ao dizer que reservas tornam áreas intocáveis e isentas de degradação. A C confunde conceitos, pois unidades de conservação não garantem por si só o fim do desmatamento. A D é falsa, porque as terras indígenas pertencem à União, com usufruto dos povos indígenas. Gabarito: E.",
+  "hash": "265492982de4d066",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q11": {
+  "assunto": "Urbanização: enchentes, impermeabilização do solo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um fator socioespacial, além da chuva intensa, que explica enchentes como a do Rio de Janeiro em 2010. Nas grandes cidades, a substituição da vegetação e do solo exposto por asfalto, concreto e construções reduz drasticamente a infiltração da água. Com isso, o escoamento superficial aumenta, as galerias e rios canalizados não dão conta do volume e ocorrem alagamentos rápidos e violentos. Esse processo é a impermeabilização dos solos urbanos, apontada na alternativa D. A alternativa A, coleta seletiva, ajuda a reduzir lixo nos bueiros, portanto atenua enchentes em vez de provocá-las. A B, recuperação de várzeas, devolve ao rio sua área de transbordamento e também reduz inundações. A C, dragagem de rios e canais, aumenta a capacidade de escoamento e é medida de prevenção. A E apresenta o ordenamento urbano como causa, quando ele é justamente uma forma de evitar ocupações de risco. Gabarito: D.",
+  "hash": "490a417d84b75196",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q12": {
+  "assunto": "Brasil Colônia: plantation, pacto colonial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia portuguesa para concretizar seus objetivos mercantis na América. O texto de Boris Fausto descreve a política metropolitana: incentivo à empresa comercial baseada em poucos produtos exportáveis em grande escala, apoiada na grande propriedade, para acumular riqueza em Portugal. Esse é o modelo da plantation açucareira, com latifúndio, monocultura e trabalho escravo, combinado ao monopólio comercial do pacto colonial e à ocupação do território para garantir a posse. A alternativa B sintetiza exatamente esses elementos: agricultura tropical em grandes propriedades, monopólio comercial e povoamento. A alternativa A é falsa, pois as treze colônias do norte tiveram características distintas e não serviram de modelo. A C erra ao colocar a pecuária como atividade principal, quando ela era complementar ao açúcar. A D fala em desocupação da terra, o oposto da colonização. A E contraria a história, já que a escravização indígena foi praticada e o comércio não integrou os nativos. Gabarito: B.",
+  "hash": "897bc3165ca254af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q13": {
+  "assunto": "Filosofia contemporânea: memória e tempo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o significado de memória segundo o texto de Marilena Chauí. A autora afirma que a memória não é simples lembrar ou recordar, mas uma forma fundamental de nossa relação com o tempo: ela dá sentido ao passado, diferenciando-o do presente, e ao mesmo tempo pode permitir esperar e compreender o futuro. Portanto, a memória evoca o que está ausente, o passado, e projeta sentido para o que virá. A alternativa E resume essa ideia ao definir memória como o potencial de evocar o passado apontando para o futuro. A alternativa A reduz a memória a reter lembranças, o que o texto nega explicitamente. A B fala em perda da relação com o presente, enquanto o texto diz que o passado pode fazer parte do presente. A C novamente limita a memória à capacidade de lembrar fatos passados. A D inverte o sentido, pois a memória conserva o passado em vez de apagá-lo. Gabarito: E.",
+  "hash": "d3d650d62f0ea961",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q14": {
+  "assunto": "Povos indígenas: trabalho compulsório, visão colonial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o contexto do posicionamento de Luís Vilhena, no século XVIII, sobre como tratar os índios. O autor defende brandura e afago para domesticar os nativos, perdoando seus excessos atribuídos à barbaridade e à falta de leis, e os compara aos africanos como mais mansos e tratáveis. Esse discurso revela a visão europeia do indígena como ser a ser moldado, uma espécie de papel em branco, que deveria ser civilizado e enquadrado no trabalho compulsório da colônia, como nos aldeamentos e no Diretório pombalino. Por isso a alternativa C está correta. A alternativa A é anacrônica, pois não havia indústrias na colônia. A B também é anacrônica, já que a abolição só ocorreu em 1888. A D erra ao chamar a escravidão indígena de mão de obra assalariada. A E inverte a cronologia, porque a tendência foi a substituição do indígena pelo africano, e não o contrário. Gabarito: C.",
+  "hash": "c01c35701719bcf5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q15": {
+  "assunto": "Brasil Império: voto censitário, cidadania",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um período com eleições legislativas e uma restrição à cidadania política correspondente. No Império, a Constituição de 1824 estabeleceu o voto censitário: só votava quem comprovasse renda mínima, e para ser eleito exigia-se renda ainda maior. Essa exigência valeu durante o Segundo Reinado, inclusive após a Lei Saraiva de 1881, que manteve o critério de renda e passou a excluir analfabetos. Assim, a alternativa B, Segundo Reinado com exigência de renda, está correta. A alternativa A erra na restrição, pois no Primeiro Reinado os analfabetos não eram formalmente excluídos. A C cita a exclusão de escravos na Primeira República, quando a escravidão já havia sido abolida em 1888. A D é falsa, pois nunca se exigiu curso superior para votar na República de 1945 a 1964. A E é incorreta, já que as mulheres votam no Brasil desde 1932. Gabarito: B.",
+  "hash": "ec4ccd75cd5f433d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q16": {
+  "assunto": "Brasil Colônia: invasões holandesas, União Ibérica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o objetivo dos holandeses ao propor a ocupação do Brasil, segundo o conselheiro Walbeeck. Antes da União Ibérica, os holandeses eram parceiros de Portugal no negócio do açúcar, financiando engenhos, refinando e distribuindo o produto na Europa. Com Portugal sob domínio espanhol a partir de 1580, a Espanha, em guerra com as Províncias Unidas, impôs embargos aos holandeses e os afastou desse comércio. O texto mostra a solução: ocupar a região produtora, enviar o açúcar diretamente à Holanda sem os impostos portugueses e vender manufaturas baratas ao Brasil, destruindo o comércio português. Trata-se de romper o embargo e ampliar os lucros açucareiros, como diz a alternativa C. A alternativa A erra ao falar em rede de refino no Brasil, pois o refino era feito na Europa. A B fala em produzir fora dos domínios lusos, quando o plano era ocupar uma área portuguesa. A D não corresponde ao texto, que trata de açúcar, não de diversificação. A E erra, pois as Antilhas holandesas ainda não eram produtoras nessa época. Gabarito: C.",
+  "hash": "48f0aa9e482f00cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q17": {
+  "assunto": "Cartografia: projeções cartográficas, Mercator",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as características da projeção de Mercator, frequentemente citada como exemplo de visão eurocêntrica do mundo. Mercator, criada em 1569 para a navegação, é uma projeção cilíndrica conforme: preserva os ângulos e, portanto, as formas dos continentes em pequenas áreas, mas distorce as superfícies, que ficam cada vez mais ampliadas em direção aos polos. Por isso a Groenlândia parece do tamanho da África, embora seja cerca de 14 vezes menor, e a Europa aparece exagerada. Seus paralelos e meridianos são linhas retas que se cruzam em ângulos retos. A alternativa C descreve corretamente essas propriedades. A alternativa A descreve uma projeção cônica. A B descreve uma projeção plana ou azimutal. A D corresponde a uma projeção equivalente, como a de Peters, que preserva áreas e altera formas. A E é impossível, pois nenhuma projeção conserva ao mesmo tempo formas e áreas. Gabarito: C.",
+  "hash": "f257150a07ff8062",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q18": {
+  "assunto": "Revoluções e século XIX: escravidão e capitalismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a relação entre escravidão e capitalismo que os dois textos sugerem para o século XIX. Losurdo afirma que a escravidão atingiu seu máximo desenvolvimento justamente em virtude do sucesso das revoluções liberais, ou seja, o mundo liberal contribuiu para seu crescimento. Tavares mostra que o capitalismo comercializou escravos para o Brasil, o Caribe e o sul dos Estados Unidos, e que o tráfico persistiu após 1831 porque ainda oferecia respostas ao capitalismo. Nos dois casos, a escravidão aparece como peça funcional do sistema, fornecendo algodão, açúcar e café baratos e lucros com o tráfico. Assim, a alternativa C, contribuição da escravidão para o desenvolvimento do capitalismo, está correta. A alternativa A simplifica, pois a escravidão na América é anterior ao capitalismo industrial. A B e a D são falsas, porque nenhum texto fala em superação do capitalismo. A E inventa um novo sistema surgido da fusão, ideia ausente nos textos. Gabarito: C.",
+  "hash": "557191b5351648b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q19": {
+  "assunto": "Ditadura militar: AI-5, autoritarismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o conceito kantiano de despotismo se aplica ao Brasil após o AI-5. Kant define despotismo como o governo em que o chefe do Estado executa arbitrariamente leis que dá a si mesmo, substituindo a vontade pública pela vontade particular. O AI-5, de dezembro de 1968, permitiu ao presidente fechar o Congresso, cassar mandatos, suspender direitos políticos, suspender o habeas corpus para crimes políticos e legislar por decreto. O Executivo passou a criar e aplicar as próprias regras, sem controle dos demais poderes, o que corresponde ao autoritarismo nas relações de poder, como afirma a alternativa A. A alternativa B é o oposto do despotismo. A C é falsa, pois o poder foi concentrado pelo Estado, não usurpado pelo povo. A D trata de sociedade sem classes, conceito ligado ao marxismo e alheio ao texto. A E descreve a separação de poderes, justamente o que o AI-5 anulou. Gabarito: A.",
+  "hash": "4944916676eafc73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q20": {
+  "assunto": "Revoluções e século XIX: Revolução Industrial, ludismo",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] O texto descreve a destruição de armações de malha (ludismo), o que corresponde à alternativa D, e não à C indicada como gabarito oficial. A questão trata da reação dos trabalhadores ingleses às transformações da Revolução Industrial nas primeiras décadas do século XIX. O fragmento de Thompson relata os distúrbios de Nottingham, em 1811: uma manifestação de malharistas por trabalho e melhor remuneração foi dissolvida pelo exército e, à noite, sessenta armações de malha foram destruídas, com aplauso da multidão. Esse episódio é típico do movimento ludista. Quanto à alternativa C, a conquista de direitos trabalhistas por sindicatos combativos corresponde a um momento posterior, pois as associações operárias foram proibidas pelas Combination Acts até 1824 e só se fortaleceram ao longo do século. A alternativa A trata das petições, mais associadas ao cartismo dos anos 1830 e 1840. A B fala de preços de alimentos e moradia, tema ausente no texto. A E é falsa, pois a jornada de oito horas não foi conquistada nesse período. Gabarito: C.",
+  "hash": "1a99551bf48d86a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q21": {
+  "assunto": "Globalização: especialização produtiva, comércio internacional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede onde se percebe a coesão, estratégia espacial de redução de custos, no caso das gravatas chinesas vendidas no Brás. A reportagem mostra que Shengzhou, no leste da China, concentra a produção de gravatas a ponto de oferecer as mais baratas do mundo, mais baratas que na Índia e muito mais que na Europa. Essa concentração de empresas de um mesmo ramo numa localidade gera economias de escala, fornecedores próximos e mão de obra especializada, formando um polo produtivo que abastece mercados distantes. Logo, a coesão aparece na especialização produtiva da indústria local, alternativa E. A alternativa A fala de mão de obra intelectualizada, quando a vantagem chinesa está na mão de obra barata e pouco qualificada. A B é falsa, pois a globalização amplia as redes de telecomunicação. A C descreve a fragmentação da montagem pelo mundo, o contrário da concentração em Shengzhou. A D é incoerente, já que as distâncias não aumentam, apenas são vencidas mais facilmente. Gabarito: E.",
+  "hash": "886a4d994221cb96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q22": {
+  "assunto": "Revoluções e século XIX: Comuna de Paris",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que a Comuna de Paris, de 1871, é considerada uma experiência política importante. Vale notar que o enunciado fala em guerra contra a Rússia, mas a derrota de Napoleão III ocorreu na Guerra Franco-Prussiana, contra a Prússia. Após a derrota e o governo conservador de Thiers, os trabalhadores parisienses tomaram a cidade e organizaram, por cerca de dois meses, um governo popular com representantes eleitos e revogáveis, separação entre Igreja e Estado, ensino laico e medidas em favor dos operários, propondo uma federação de comunas autônomas. O texto de apoio define revolução como mudança profunda em todos os níveis, e a Comuna foi vista como a primeira tentativa de um Estado dos trabalhadores, como afirma a alternativa C. A alternativa A é falsa, pois não se instituiu voto por categoria profissional. A B erra, já que a Comuna durou apenas cerca de 72 dias. A D contraria seu caráter de classe, voltado aos trabalhadores. A E inventa milícias comandadas por antigos generais, quando a Guarda Nacional era formada pelo próprio povo. Gabarito: C.",
+  "hash": "3115cc4bfb440242",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q23": {
+  "assunto": "Cultura e sociedade: mentalidade coletiva, práticas sociais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede que tipo de ações influencia as práticas sociais e os valores de uma época, segundo o texto. Prechter afirma que moda, literatura, música, cinema, esportes, política, vida familiar e até o mercado de ações refletem a mentalidade de uma época, e que os preços das ações indicam o otimismo e a psicologia das multidões. Ou seja, os valores predominantes surgem da interação entre muitos indivíduos e campos da vida social, formando uma mentalidade coletiva. Por isso a alternativa B, ações sociais interativas, está correta. A alternativa A contradiz o texto, que mostra a economia ligada às demais esferas, e não isolada. A C fala em ações psicológicas individuais, mas o texto destaca a psicologia das multidões, coletiva. A D introduz a ideia de ações intuitivas herdadas, que não aparece no fragmento. A E restringe a influência ao âmbito local, enquanto o texto trata da mentalidade de toda uma época. Gabarito: B.",
+  "hash": "ff012e2b5d9b1481",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q24": {
+  "assunto": "Filosofia política: Hannah Arendt, propaganda e democracia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a implicação da publicidade de massa para a democracia, à luz do texto sobre Hannah Arendt. O fragmento afirma que toda propaganda, política ou comercial, parte da ideia de que as massas podem ser conquistadas, dominadas e conduzidas, e por isso contém um elemento de coerção. Para Arendt, a política se realiza na esfera pública, pelo debate livre entre cidadãos que se reconhecem como iguais. Se a opinião é produzida por técnicas de persuasão e manipulação, a discussão racional perde espaço e os cidadãos tornam-se receptores passivos. Logo, a consequência é o declínio do debate político na esfera pública, alternativa E. A alternativa A é o oposto, pois a coerção enfraquece a sociedade civil. A B também é contrária, já que a propaganda tende a ocultar ou distorcer, não a dar transparência. A C erra porque a propaganda une retórica e política em vez de separá-las. A D inverte o sentido, pois a publicidade de massa favorece, e não combate, a distorção de informações. Gabarito: E.",
+  "hash": "aa4a03305c737b78",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q25": {
+  "assunto": "Movimentos sociais: diversidade sexual, LGBT",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que fundamenta a criação de grupos como o GPH e outros coletivos LGBT, considerando a incompreensão e a intolerância que ainda cercam a diversidade sexual. O texto descreve um espaço de acolhimento onde jovens conversam, esclarecem dúvidas e falam das dificuldades dessa fase da vida, apoiados também por suas famílias. Esses grupos existem porque a homofobia e o preconceito geram medo, isolamento e exclusão; reunir-se fortalece a autoestima, oferece informação e ajuda a enfrentar a discriminação. Por isso a alternativa D está correta. A alternativa A é contraditória, pois se os pais fossem em geral liberais o grupo de apoio não seria necessário. A B erra ao apontar normas legais como base, quando a motivação é justamente a falta de proteção e aceitação. A C fala em participação político-partidária, e o texto diz que o que une o grupo não é política. A E reduz o movimento a uma estratégia de mercado, ausente no texto. Gabarito: D.",
+  "hash": "5df1da88dd7681de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q26": {
+  "assunto": "Cultura e sociedade: patrimônio cultural imaterial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo de registrar e divulgar manifestações como Patrimônio Cultural Imaterial. A definição da Unesco destaca práticas, saberes e expressões que as próprias comunidades reconhecem como parte de seu patrimônio, e os exemplos citados pelo Iphan, como o Círio de Nazaré, o samba de roda, o ofício das baianas de acarajé e o jongo, são manifestações populares de grupos diversos. O registro dá visibilidade e reconhecimento oficial a essas expressões, estimulando sua transmissão e o respeito à pluralidade cultural do país. Por isso a alternativa C está correta. A alternativa A cria uma hierarquia entre cultura popular e erudita que o registro não pretende estabelecer. A B fala em recuperar características originais de povos nativos, mas os bens citados não são apenas indígenas e o patrimônio imaterial é dinâmico. A D sugere absorção e homogeneização, o contrário da valorização da diversidade. A E reduz o objetivo ao retorno financeiro, que não é a finalidade do registro. Gabarito: C.",
+  "hash": "4a05b9d83b3dee52",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q27": {
+  "assunto": "Cultura e sociedade: diversidade cultural, alteridade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que significa respeitar a diversidade cultural, segundo a concepção que une a imagem do Ministério da Cultura e o texto de Marilena Chauí. O texto II afirma que, em sentido antropológico, não existe uma Cultura única, mas culturas no plural, pois leis, valores, crenças e práticas variam de sociedade para sociedade e se transformam ao longo do tempo. Se não há uma cultura superior que sirva de medida para as demais, respeitar a diversidade significa reconhecer a legitimidade de modos de vida diferentes do nosso, ou seja, aceitar o outro, combatendo o etnocentrismo. Por isso a alternativa E está correta. A alternativa A, exaltar elementos de uma cultura, pode levar justamente ao etnocentrismo. A B restringe o respeito às minorias, quando ele vale para todas as culturas. A C privilegia um tipo de religião, contrariando a pluralidade. A D fala em incentivar a divisão de classes, ideia sem relação com o tema. Gabarito: E.",
+  "hash": "4817e88d92af6cd9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q28": {
+  "assunto": "Filosofia contemporânea: lógica, paradoxo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de raciocínio presente na defesa da guerra feita por Obama ao receber o Prêmio Nobel da Paz. Defender a guerra como meio para alcançar a paz reúne, num mesmo argumento, ideias que parecem se contradizer: usar a violência para chegar à não violência. Um raciocínio que leva a uma conclusão aparentemente contraditória ou contrária ao senso comum é chamado de paradoxal. A própria situação descrita reforça isso, pois o texto fala em confusão causada por um defensor da guerra premiado pela paz. Logo, a alternativa C está correta. A alternativa A, raciocínio indutivo, parte de casos particulares para uma generalização, o que não ocorre. A B, dedutivo, tira uma conclusão necessária de premissas gerais, sem a contradição em foco. A D, metafórico, envolve transferência de sentido figurado, que não está em jogo. A E, analógico, compara situações semelhantes, o que também não caracteriza o argumento. Gabarito: C.",
+  "hash": "349dc985f9539131",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q29": {
+  "assunto": "Ditadura militar: propaganda, Copa de 1970",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o objetivo dos governos militares ao tratar o futebol como questão de Estado. O texto mostra que, após o tricampeonato de 1970, o presidente Médici recebeu a seleção em Brasília, posou com a taça e premiou os jogadores, enquanto a AERP criava campanhas do Brasil grande que vai para frente, usando os craques como garotos-propaganda. Em pleno governo Médici, o período mais repressivo da ditadura e também o do milagre econômico, a vitória esportiva era associada ao regime para construir uma imagem de país vitorioso e conquistar apoio popular. Assim, a alternativa A, legitimar o Estado autoritário por meio de vitórias esportivas, está correta. A alternativa B é absurda, pois não se tratava de mostrar governantes como praticantes. A C inverte a situação, já que era o próprio governo quem usava os jogadores como propaganda. A D é falsa, pois os atletas não viraram funcionários públicos. A E fala de consumo de artigos esportivos, tema ausente no texto. Gabarito: A.",
+  "hash": "49643197fc225c10",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q30": {
+  "assunto": "Espaço agrário: modernização conservadora, êxodo rural",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que a modernização da agricultura, apesar de elevar o PIB e as exportações, contribuiu para a exclusão social no campo. O texto aponta que a principal transformação foi a privatização de grandes parcelas de terra. A mecanização e a expansão das monoculturas de exportação valorizaram as terras e favoreceram sua concentração em grandes propriedades, inclusive como reserva de valor, a chamada especulação fundiária. Ao mesmo tempo, as máquinas substituíram trabalhadores e muitos pequenos produtores não conseguiram competir, vendendo ou perdendo suas terras e migrando para as cidades. É o que descreve a alternativa C. A alternativa A é falsa, pois a modernização não ampliou salários de modo a gerar exclusão. A B culpa os trabalhadores, atribuindo-lhes inadaptação, em vez de explicar o processo estrutural. A D exagera ao dizer que os pequenos foram impedidos de exportar, o que não é a causa central. A E é incorreta, pois a modernização aumentou a infraestrutura em cidades do interior ligadas ao agronegócio. Gabarito: C.",
+  "hash": "fb5a925104c38cfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q31": {
+  "assunto": "Cultura e sociedade: futebol como fato social",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a ideia comum à canção do Skank e ao texto de Ronaldo Helal. A letra mostra a paixão pelo futebol presente no cotidiano: a bandeira no estádio, a flâmula no quarto, o distintivo na camisa, o sofrimento na derrota e a euforia na vitória. O texto sociológico explica que esse gosto não está no sangue dos brasileiros, mas é transmitido pela coletividade, como a escola ensina a ler e escrever, ou seja, é um fato social culturalmente aprendido. Os dois, portanto, apresentam o futebol como parte da cultura brasileira, como afirma a alternativa A. A alternativa B é falsa, pois nenhum dos textos aponta o lazer como função principal. A C interpreta as imagens do tapete verde e da bola-sol como metáforas do nacionalismo, o que a canção não sugere. A D fala em divulgação de valores sociais, ideia que não aparece. A E trata de supressão da desigualdade, tema ausente em ambos os textos. Gabarito: A.",
+  "hash": "5ee6afd9d5ca2b81",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q32": {
+  "assunto": "Energia: biocombustíveis, etanol",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que explica o grande potencial brasileiro para os biocombustíveis. O texto informa que o país produz cerca de 16 bilhões de litros de álcool em quase 3 milhões de hectares e que, segundo a Embrapa, há aproximadamente 90 milhões de hectares disponíveis para expansão agrícola. Somam-se a isso condições naturais favoráveis: clima tropical com sol e chuvas abundantes, solos adequados à cana-de-açúcar e às oleaginosas e uma cadeia produtiva já estruturada desde o Proálcool. Essa combinação permite ampliar a oferta e abastecer o mercado, como afirma a alternativa E. A alternativa A erra, pois o etanol brasileiro vem da cana, mais rentável que o milho. A B fala em técnicas tradicionais, quando o setor é altamente tecnificado. A C exagera ao afirmar que a maior parte das áreas já substituiu práticas poluidoras, como as queimadas ainda comuns na época. A D é incorreta, pois a segunda geração ainda era experimental e não garantia produtividade equivalente. Gabarito: E.",
+  "hash": "e670bbd19f4d8b43",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q33": {
+  "assunto": "Cartografia: fusos horários, horário de verão",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o dia e a hora de chegada a Belém, considerando os fusos horários e o horário de verão. Porto Alegre e Belém estão no mesmo fuso oficial, três horas atrás de Greenwich. Porém, em janeiro de 2010, o horário de verão valia no Rio Grande do Sul, mas não no Pará, de modo que Porto Alegre estava adiantada uma hora em relação a Belém. Passo 1: a saída ocorreu às 8h de 1º de janeiro no horário de Porto Alegre, o que corresponde a 7h em Belém. Passo 2: somar 56 horas, ou seja, 2 dias e 8 horas. Partindo de 7h do dia 1º, 48 horas levam a 7h do dia 3, e mais 8 horas levam a 15h do dia 3. Assim, a família chega em 3 de janeiro às 15h, horário local de Belém, alternativa B. A alternativa A erra o dia, pois descontou um dia a mais. A C erra o dia e não considera a diferença de horário. A D mantém o horário de Porto Alegre, esquecendo o horário de verão. A E soma a diferença no sentido errado. Gabarito: B.",
+  "hash": "f3572bc05efa502f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q34": {
+  "assunto": "Questões ambientais: extinção de espécies, desmatamento",
+  "dificuldade": 3,
+  "explicacao": "A questão pergunta por que as taxas atuais de extinção nos países desenvolvidos são menores do que nas florestas tropicais. O texto atribui a aceleração das extinções à destruição de hábitats, sobretudo nos trópicos. A explicação para o contraste é histórica: os países desenvolvidos, como os europeus e os Estados Unidos, já devastaram grande parte de suas florestas originais durante a expansão agrícola e a industrialização, nos séculos XVIII e XIX. Restou pouco a destruir e, além disso, essas regiões têm biodiversidade naturalmente menor que a das florestas tropicais, onde hoje a fronteira de desmatamento está ativa. Por isso a alternativa C está correta. A alternativa A é falsa, pois esses países não abrigam enorme diversidade natural. A B atribui o resultado a tecnologias, ignorando que o desmatamento já ocorreu no passado. A D contradiz a história, porque esses ecossistemas foram muito alterados. A E fala em favorecer o extrativismo, o que aumentaria, e não reduziria, a pressão sobre as espécies. Gabarito: C.",
+  "hash": "092ef76e9baeb407",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q35": {
+  "assunto": "Urbanização: cidades médias, desconcentração econômica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma justificativa para o crescimento contínuo do número de cidades médias no Brasil, apontado por Milton Santos a partir do censo de 1991. Desde os anos 1970, as indústrias passaram a sair das grandes metrópoles, especialmente de São Paulo, em busca de terrenos e mão de obra mais baratos, incentivos fiscais e menos congestionamento. Ao mesmo tempo, a agricultura moderna e o agronegócio avançaram sobre o Centro-Oeste e o interior, gerando cidades que oferecem serviços, comércio e indústrias ligadas ao campo. Esse processo de desconcentração das atividades econômicas para o interior fortaleceu as cidades médias, como afirma a alternativa D. A alternativa A cita a Zona Franca de Manaus, caso pontual que gerou uma metrópole, e não um processo geral. A B superestima as cidades planejadas mineradoras, pouco numerosas. A C erra ao localizar o agronegócio no litoral. A E inverte o sentido, pois a desconcentração ocorreu do litoral para o interior. Gabarito: D.",
+  "hash": "b94925ddc3b05ad8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q36": {
+  "assunto": "Hidrografia: cobertura vegetal e vazão dos rios",
+  "dificuldade": 3,
+  "explicacao": "A questão compara o pico de vazão de rios com coberturas agrícola, de floresta regenerada e de floresta natural após a mesma chuva. Quanto mais densa e estruturada a vegetação, maior a interceptação da chuva pelas copas, maior a infiltração no solo, protegido pela serapilheira e pelas raízes, e menor o escoamento superficial imediato. Assim, a água chega ao rio de forma lenta e gradual, e o pico de cheia é baixo. A floresta natural, por ser a mais preservada e densa, apresenta o menor pico de vazão, como afirma a alternativa E. Na área agrícola, o solo mais exposto e compactado favorece o escoamento rápido e o maior pico. A alternativa A erra ao chamar a cobertura agrícola de mais densa. A B inverte a situação, pois a floresta natural não é espaçada nem gera o maior pico. A C atribui à floresta regenerada maior biomassa que a natural, o que não ocorre. A D erra porque a área agrícola produz o pico mais rápido e mais alto, e não o mais demorado. Gabarito: E.",
+  "hash": "dbcc9d5580056c7e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q37": {
+  "assunto": "Ética: tolerância, justiça e diversidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a principal contribuição da Ética para a organização política da sociedade contemporânea, diante de conflitos como o racismo, a discriminação sexual e a intolerância religiosa. A frase de Saint-Just, não à liberdade para os inimigos da liberdade, é lida como não à tolerância para os intolerantes: a convivência democrática exige limites a quem nega a dignidade do outro. A Ética contribui oferecendo princípios de conduta que orientam a vida em comum, fundados na justiça, na liberdade e no reconhecimento da diversidade humana. Por isso a alternativa B está correta. A alternativa A confunde Ética com reforma legislativa, tarefa do Direito e da política. A C fala em leis éticas punitivas, quando a Ética propõe princípios e não cria leis. A D defende restrição da liberdade de modo geral, contrariando o valor que se quer proteger. A E relativiza a ética aos interesses de cada grupo, o que inviabiliza princípios comuns. Gabarito: B.",
+  "hash": "2f9d8dc042a8a764",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q38": {
+  "assunto": "Espaço agrário: modernização, concentração fundiária",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que a modernização da agricultura a partir dos anos 1970 aprofundou as causas da luta pela terra. O texto diz que, antes, a questão agrária se baseava no arcaísmo do mundo rural, mas hoje resulta justamente da modernização. Com crédito subsidiado, mecanização, insumos químicos e expansão das monoculturas de exportação, a produtividade aumentou muito, mas os benefícios se concentraram nos grandes proprietários. Pequenos agricultores, posseiros e parceiros foram expulsos ou empobrecidos, e a terra se concentrou ainda mais. Esse paradoxo, mais produção com mais concentração, é o que descreve a alternativa B. A alternativa A erra, pois a modernização acelerou, e não conteve, o êxodo rural. A C cita a falta de escoamento, que não explica a luta pela terra. A D é falsa, já que a agricultura continuou centrada em produtos primários. A E é incorreta, pois a sindicalização rural cresceu nesse período. Gabarito: B.",
+  "hash": "87fa606f233da2a2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q39": {
+  "assunto": "História da África e afro-brasileira: resistência escrava, abolição",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como a historiografia recente interpreta o fim da escravidão no Brasil. O texto afirma que os negros não esperaram passivamente pela liberdade: escreveram em jornais, entraram para a política, fugiram para quilombos e juntaram pecúlio para comprar alforrias, de modo que, em 1888, apenas uma pequena minoria ainda era formalmente escravizada. Essa leitura valoriza o protagonismo dos próprios escravizados e libertos, cujas ações tornaram o sistema insustentável, em oposição às versões tradicionais que destacavam a Princesa Isabel ou a pressão externa. Por isso a alternativa D está correta. A alternativa A retoma justamente a visão tradicional da princesa benevolente. A B dá o protagonismo a intelectuais brancos, ignorando a ação negra destacada no texto. A C reduz a abolição à pressão do capitalismo inglês, explicação econômica tradicional. A E atribui a abolição ao humanitarismo dos proprietários, o que o texto não sustenta. Gabarito: D.",
+  "hash": "00d022c77b9cc9d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q40": {
+  "assunto": "Trabalho: máquina, alienação e disciplina do corpo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as consequências da substituição da ferramenta pela máquina, segundo Hannah Arendt. A autora contrasta os dois instrumentos: as ferramentas da manufatura permanecem a serviço da mão, ou seja, o trabalhador comanda o ritmo e o modo de usá-las; já as máquinas exigem que o trabalhador as sirva, ajustando o ritmo natural do corpo ao movimento mecânico. Isso significa que o corpo passa a ser disciplinado e adestrado pelo funcionamento da máquina, e o trabalhador perde o controle sobre o próprio fazer. Por isso a alternativa A, adestramento do corpo e perda da autonomia, está correta. A alternativa B fala em engajamento político, tema que o texto não aborda. A C inverte a ideia, pois a máquina impõe, e não rejeita, o trabalho repetitivo. A D é o oposto do texto, que mostra aumento do controle e perda de liberdade. A E menciona o aperfeiçoamento da máquina, mas não a consequência para o trabalhador, foco do fragmento. Gabarito: A.",
+  "hash": "b77644e5b4d1a198",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q41": {
+  "assunto": "Brasil Império: voto censitário, cidadania",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que as eleições do Império revelavam uma cidadania sem igualdade jurídica. O texto mostra o dia da eleição como um espetáculo de distinção social: o cidadão modesto com sua melhor roupa e as autoridades em trajes de gala exibindo sua condição privilegiada. A Constituição de 1824 estabeleceu o voto censitário e indireto: para votar nas eleições primárias exigia-se renda mínima, e para ser eleitor de província ou candidato, rendas cada vez maiores. Assim, os direitos políticos eram graduados conforme a riqueza, reafirmando as hierarquias sociais, como diz a alternativa E. A alternativa A é anacrônica para a maior parte do período, pois a exclusão dos analfabetos só veio com a Lei Saraiva, em 1881. A B é falsa, já que as eleições eram frequentes. A C erra, pois a Constituição não restringia a cidadania aos eleitos. A D exagera o papel do Poder Moderador, que não tornava as eleições inúteis. Gabarito: E.",
+  "hash": "74bb54b746c6f8da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q42": {
+  "assunto": "Primeira República: questão do Acre, Barão do Rio Branco",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o Brasil negociou diretamente com o Bolivian Syndicate, empresa estadunidense que arrendara o Acre. No início do século XX, a Bolívia concedeu a exploração da região, rica em borracha e já ocupada por seringueiros brasileiros, a esse consórcio de capitais norte-americanos e europeus, com amplos poderes administrativos. Para o Barão do Rio Branco, a presença de uma companhia estrangeira com poderes quase soberanos no coração da Amazônia abria caminho para a intervenção de potências imperialistas, como ocorria na África e na Ásia. Por isso ele indenizou o Syndicate para afastá-lo e depois firmou com a Bolívia o Tratado de Petrópolis, em 1903. A alternativa E está correta. A alternativa A não corresponde ao texto, que não trata dos indígenas. A B é falsa, pois a solução foi diplomática. A C confunde o interesse econômico na borracha com o motivo da negociação. A D erra porque o acordo foi com a empresa, não com os seringueiros. Gabarito: E.",
+  "hash": "13a5baf23c7a46a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q43": {
+  "assunto": "Cidadania e direitos: igualdade perante a lei",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o descumprimento do princípio de que a lei deve ser igual para todos ameaça a democracia. O texto critica a ideia, aceita pelo senso comum, de que o bandido não está protegido pela lei, e cita Rui Barbosa: a lei que não protege o meu inimigo não me serve. Se a lei protege uns e não outros, cria-se uma situação em que algumas pessoas têm mais direitos do que outras, e qualquer um pode vir a ser excluído da proteção legal conforme quem decide. Isso destrói a base do Estado Democrático de Direito, que é a igualdade jurídica. Portanto, a alternativa A está correta. A alternativa B fala dos movimentos sociais, tema ausente no texto. A C menciona privilégios de nascimento, ligados ao Antigo Regime e não à questão discutida. A D trata da meritocracia, que não é o ponto do texto. A E refere-se à restrição do voto, assunto que não aparece no fragmento. Gabarito: A.",
+  "hash": "6d9b4d007bca0799",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q44": {
+  "assunto": "Era Vargas: legislação trabalhista, sindicalismo corporativista",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como as políticas de Vargas nas décadas de 1930 e 1940 responderam às lutas dos trabalhadores. O texto, publicado pelo DIP, órgão de propaganda do Estado Novo, apresenta as leis trabalhistas como dádiva do governo, apagando as greves e reivindicações operárias anteriores. De fato, Vargas criou o Ministério do Trabalho, a Justiça do Trabalho, o salário mínimo e a CLT, atendendo a demandas dos trabalhadores urbanos, mas impôs o sindicato único, reconhecido e controlado pelo Estado, com imposto sindical e líderes alinhados ao governo. Era um modelo corporativista, que concedia direitos e ao mesmo tempo tutelava o movimento operário, como afirma a alternativa D. A alternativa A é falsa, pois os sindicatos perderam autonomia, e os rurais ficaram de fora. A B confunde a lei de nacionalização do trabalho, que fixava cotas, com uma proibição total. A C exagera a atuação da Justiça do Trabalho no interior. A E é incorreta, já que a CLT não alcançava os camponeses nem suprimiu o poder patronal. Gabarito: D.",
+  "hash": "a6bf0c692ec4594f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q45": {
+  "assunto": "Estado e política: Poder Judiciário, ordem social",
+  "dificuldade": 3,
+  "explicacao": "A questão pede, segundo o texto, qual o papel das decisões do Judiciário numa sociedade complexa e com interesses contraditórios. O autor afirma que a missão do Judiciário transcende os processos isolados: sua tarefa é produzir uma ordem estável que permita à sociedade, com suas diferenças e paradoxos, viver e se desenvolver com segurança. Decisões questionáveis isoladamente se justificam quando vistas de forma sistêmica, pela importância que têm na construção da ordem. Ou seja, as decisões judiciais interferem na organização da sociedade, como afirma a alternativa C. A alternativa A contradiz o texto, que admite decisões questionáveis. A B exige infalibilidade, ideia que o autor não defende. A D é falsa, pois o texto diz que a sociedade continua com suas diferenças e paradoxos, sem eliminá-los. A E fala em ponte entre os poderes, tema que não aparece no fragmento. Gabarito: C.",
+  "hash": "e5fcf2fb2b538ddb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q46": {
+  "assunto": "Radioatividade: radiação ionizante, efeitos biológicos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o risco a que se expõe uma pessoa irradiada por uma fonte radioativa. O texto explica que a radiação gama, de alta energia e penetração, remove elétrons dos átomos e rompe ligações químicas por ionização, podendo causar mutações no DNA; as partículas beta têm efeito semelhante sobre a pele. Mutações acumuladas podem desregular a divisão celular e originar tumores. Logo, o risco é sofrer alterações gênicas e desenvolver câncer, como diz a alternativa D. É importante distinguir irradiação de contaminação: ser irradiado significa receber radiação de uma fonte externa, sem incorporar o material radioativo, assim como uma radiografia não torna o paciente radioativo. A alternativa A é falsa, pois o corpo irradiado não se transforma em fonte radioativa. A B erra, já que a radiação não fica armazenada no corpo. A C é incorreta, pois a pessoa irradiada não emite radiação nem contamina outras. A E também confunde irradiação com contaminação. Gabarito: D.",
+  "hash": "94efc0046b5cc489",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q47": {
+  "assunto": "Termologia: isolamento térmico, propagação de calor",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função do jornal usado pelo homem na tirinha. Nos quadrinhos, um morador de rua sente muito frio, um jornal voa com o vento até ele, e ele se cobre dizendo que pelo menos fica por dentro das notícias. Do ponto de vista físico, o corpo humano está mais quente que o ambiente, e o calor flui sempre do corpo mais quente para o mais frio. O papel, com o ar retido entre ele e o corpo, funciona como isolante térmico, dificultando a condução e a convecção. Assim, o jornal não fornece calor nem bloqueia o frio: ele apenas restringe a perda de calor do corpo para o ambiente, alternativa D. A alternativa A não faz sentido, pois o jornal não atua absorvendo umidade. A B trata o frio como algo que entra, quando o que existe é calor saindo. A C sugere concentração do calor, ideia imprecisa, já que o isolante só reduz o fluxo. A E foca o vento, mas o efeito principal é o isolamento. Gabarito: D.",
+  "hash": "98187f034ae14f40",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q48": {
+  "assunto": "Fisiologia humana: tecido muscular, miostatina",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o efeito de uma terapia gênica que bloqueia a miostatina. Segundo o texto, quando há lesão, as células-satélite se reproduzem e se fundem às fibras musculares, aumentando seu volume, e a miostatina é a proteína que manda essas células pararem de se reproduzir, funcionando como freio. Se um gene introduzido produz uma proteína que bloqueia a miostatina, o freio é retirado: as células-satélite continuam se multiplicando e, ao se fundirem às fibras, aumentam o volume muscular. Por isso a alternativa E, maior proliferação de células-satélite e aumento do volume das fibras, está correta. A alternativa A erra ao falar em proliferação de fibras, pois o texto descreve aumento de volume das fibras existentes. A B e a C descrevem redução, efeito da ação da miostatina e não do seu bloqueio. A D é contraditória, já que mais células-satélite fundidas resultam em fibras maiores, e não menores. Gabarito: E.",
+  "hash": "9e55516012c5b2ab",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q49": {
+  "assunto": "Termoquímica: poder calorífico, biocombustíveis",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o biocombustível de melhor rendimento energético em massa, ou seja, o que libera mais energia por quilograma queimado. O quadro informa os valores em kcal/kg: biodiesel de mamona, 8 913; de babaçu, 9 049; de dendê, 8 946; de soja, 9 421; e etanol de cana-de-açúcar, 5 596. Basta comparar os números: o maior valor é 9 421 kcal/kg, do biodiesel de soja. Logo, a alternativa A está correta. A alternativa B, dendê, tem 8 946 kcal/kg, menos que a soja. A C, babaçu, tem 9 049 kcal/kg, o segundo maior valor, mas ainda inferior. A D, mamona, apresenta 8 913 kcal/kg, o menor entre os biodieseis. A E, etanol de cana, tem o menor valor do quadro, 5 596 kcal/kg, porque sua molécula é mais oxigenada e libera menos energia por massa. Gabarito: A.",
+  "hash": "1a1d858970ff2d3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q50": {
+  "assunto": "Eletroquímica: pilha a combustível, oxirredução",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a característica correta da pilha do bafômetro. No eletrodo A, o etanol se transforma em etanal liberando elétrons: CH₃CH₂OH → CH₃CHO + 2 H⁺ + 2 e⁻. Perder elétrons é oxidar, logo A é o ânodo e o etanol é o agente redutor. No eletrodo B, o oxigênio recebe esses elétrons: ½ O₂ + 2 H⁺ + 2 e⁻ → H₂O. Ganhar elétrons é reduzir, logo B é o cátodo e o O₂ é o agente oxidante. Numa pilha, os elétrons saem do ânodo, polo negativo, e chegam ao cátodo, polo positivo, pelo circuito externo. Portanto o eletrodo B é o polo positivo, alternativa C. A alternativa A erra, pois o eletrodo A é o ânodo. A B inverte o papel do etanol, que é redutor. A D inverte o papel do oxigênio, que é oxidante. A E inverte o sentido do fluxo, que vai de A para B. Gabarito: C.",
+  "hash": "ff2e36a5d98bd0df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q51": {
+  "assunto": "Termoquímica: entalpia de formação, metalurgia",
+  "dificuldade": 4,
+  "explicacao": "[REVISAR] Pelos dados por mol de óxido (1 675,7 contra 824,2 kJ/mol), a alternativa C também parece numericamente correta, o que torna a questão ambígua. A questão pede por que obter alumínio do minério consome mais energia que obter aço. O gráfico mostra cerca de 210 milhões de kJ por tonelada para o alumínio primário, contra uns 30 milhões para o aço. O texto explica que os metais estão na crosta como óxidos, que precisam ser reduzidos. A entalpia de formação do Al₂O₃ é −1 675,7 kJ/mol e a do Fe₂O₃ é −824,2 kJ/mol. Quanto mais negativa, ou menor, a entalpia de formação, mais estável é o óxido e mais energia é preciso fornecer para decompô-lo e isolar o metal, já que a decomposição tem ΔH = +1 675,7 kJ/mol no caso do alumínio. Essa é a ideia da alternativa D. A alternativa A erra, pois a formação dos óxidos libera, e não absorve, energia. A B lê mal o gráfico, em que a razão é de cerca de 7 vezes, e não 200. A E traz um fato químico sem relação com a energia gasta. Gabarito: D.",
+  "hash": "ef1bf3bca5a9a32f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q52": {
+  "assunto": "Química ambiental: qualidade da água, DBO",
+  "dificuldade": 3,
+  "explicacao": "A questão pede, entre os testes descritos, o mais importante para a saúde do consumidor e o mais importante para a vida aquática, nessa ordem. Para a saúde humana, o maior risco imediato está nos organismos patogênicos: o teste de coliformes fecais indica contaminação por fezes humanas e, portanto, a possível presença de bactérias, vírus e parasitas causadores de doenças como diarreias, cólera e hepatite. Para a vida aquática, o fator decisivo é o oxigênio disponível na água, avaliado pela DBO: muita matéria orgânica faz os decompositores consumirem o oxigênio, causando a morte de peixes. Assim, a sequência correta é coliformes fecais e DBO, alternativa D. A alternativa A inverte as prioridades e usa o pH, que é secundário. A B escolhe pH e cloro residual, que tratam de gosto e acidez. A C coloca o cloro residual, relacionado ao sabor, como principal para a saúde. A E deixa de fora a DBO, essencial para os organismos aquáticos. Gabarito: D.",
+  "hash": "62d27ffdb439ffaf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q53": {
+  "assunto": "Termoquímica: processos endotérmicos, isolamento térmico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o feijão cozinha dentro da garrafa térmica. O cozimento envolve transformações químicas e físicas, como a gelatinização do amido e a desnaturação de proteínas, que precisam absorver energia, ou seja, são endotérmicas. Ao ferver por alguns minutos, a água acumula bastante energia térmica. Na garrafa térmica, que dificulta as trocas de calor com o ambiente, essa energia fica retida no sistema e vai sendo transferida lentamente da água quente para o feijão, que continua absorvendo calor por horas até cozinhar. É o que afirma a alternativa B. A alternativa A erra ao dizer que o cozimento é uma reação exotérmica entre água e feijão. A C confunde as coisas: o sistema é isolado em relação ao ambiente, mas dentro dele o feijão recebe energia da água. A D é falsa, pois a garrafa não fornece energia, apenas reduz perdas. A E novamente trata o processo como exotérmico. Gabarito: B.",
+  "hash": "8e9b3412da9eac61",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q54": {
+  "assunto": "Genética: determinação do sexo, haplodiploidia",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a porcentagem de machos na prole de uma fêmea AB cruzada com cinco machos de genótipos A, B, C, D e E. Segundo o texto, para um indivíduo diploide ser macho, precisa ser homozigoto para o gene; heterozigotos são fêmeas. Os machos de abelha são haploides, então cada um produz gametas de um só tipo, e o conjunto fornece cinco tipos de espermatozoide, A, B, C, D e E, cada um com probabilidade de 1/5. A fêmea AB produz dois tipos de óvulo, A e B, cada um com probabilidade de ½. Só nascem machos diploides nas combinações homozigotas: óvulo A com espermatozoide A, ½ × 1/5 = 1/10, e óvulo B com espermatozoide B, ½ × 1/5 = 1/10. Somando, 1/10 + 1/10 = 1/5 = 20%, como diz a alternativa B. A alternativa A acerta quais machos produzem filhos machos, mas erra o cálculo de 40%. A C diz que a fêmea produz um só tipo de gameta, o que é falso para AB. A D e a E chegam a 50% com raciocínios incorretos sobre os gametas. Gabarito: B.",
+  "hash": "46c98891abd5de6b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q55": {
+  "assunto": "Energia e trabalho: transformações de energia, hidrelétrica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as transformações de energia nas etapas I→II e II→III de uma usina hidrelétrica. Na posição I está a água represada no alto do reservatório, que armazena energia potencial gravitacional por causa da altura. Ao descer pelo duto até a turbina, na posição II, a água perde altura e ganha velocidade, transformando energia potencial em energia cinética, que faz a turbina girar. A turbina está ligada ao gerador, posição III, onde o movimento de rotação provoca indução eletromagnética, convertendo energia cinética em energia elétrica. Logo, a sequência é potencial → cinética e cinética → elétrica, alternativa C. A alternativa A inverte a ordem das etapas. A B fala em cinética virando potencial na descida, o contrário do que ocorre. A D e a E pulam a etapa cinética, como se a energia potencial virasse elétrica diretamente. Gabarito: C.",
+  "hash": "c135a3b597b02d9e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q56": {
+  "assunto": "Eletrodinâmica: associação de resistores, corrente",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a leitura do amperímetro nas ligações II e III, com tensão de 120 V. Pela figura I: TV 40 Ω, geladeira 60 Ω, computador 40 Ω, ferro 120 Ω e lâmpada 20 Ω. Nas figuras, as lâmpadas estão em série num mesmo ramo, e os ramos estão em paralelo. Figura II: três lâmpadas em série dão 3 × 20 = 60 Ω; os ramos são 60 Ω, 60 Ω, 40 Ω e 40 Ω. Então 1/R = 1/60 + 1/60 + 1/40 + 1/40 = 2/60 + 2/40 = 4/120 + 6/120 = 10/120, logo R = 12 Ω. A corrente é I = U/R = 120/12 = 10 A, alternativa A. Figura III: cinco lâmpadas em série dão 100 Ω; os ramos são 100, 60, 40 e 120 Ω. 1/R = 6/600 + 10/600 + 15/600 + 5/600 = 36/600, então R ≈ 16,7 Ω e I = 120 × 36/600 = 7,2 A. A alternativa B não corresponde ao cálculo de II. A C inverte a razão U/R. A D confunde a resistência equivalente de III, cerca de 16,6 Ω, com a corrente. A E não corresponde a nenhum cálculo correto. Gabarito: A.",
+  "hash": "ca28fa21d6a5e66e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q57": {
+  "assunto": "Química orgânica: transesterificação, biodiesel",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em qual etapa do fluxograma se formam de fato as moléculas que compõem o biodiesel. O texto define biodiesel como ésteres metílicos ou etílicos de ácidos graxos, obtidos a partir de óleos ou gorduras. A reação que produz esses ésteres é a transesterificação: o triglicerídeo do óleo de soja reage com metanol ou etanol, na presença de catalisador básico (NaOH ou KOH), gerando os ésteres e glicerina. No esquema, essa reação está indicada pelo número 1, alternativa A. As demais etapas apenas separam ou purificam produtos já formados. A alternativa B, número 2, é a recuperação do álcool presente na glicerina. A C, número 3, é a desidratação do álcool que volta ao processo. A D, número 4, recupera o excesso de álcool dos ésteres. A E, número 5, é a purificação dos ésteres, que já estavam formados. Gabarito: A.",
+  "hash": "c2e1486b174837b9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q58": {
+  "assunto": "Óptica: espelhos esféricos, lentes",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tipo de espelho em B e o tipo de lente em D num telescópio refletor. O espelho em B é parabólico e recebe a luz do astro, que chega em raios praticamente paralelos. Para concentrar esses raios num foco e formar a imagem, a superfície refletora precisa ser côncava, como nas antenas parabólicas. Na posição D, o texto diz que a lente forma uma imagem real e maior, um pouco à frente da ocular. Lentes divergentes formam apenas imagens virtuais e menores de objetos reais; imagem real só pode ser produzida por lente convergente, com o objeto além do foco. Logo, espelho côncavo e lente convergente, alternativa C. A alternativa A fala em espelho convexo, que espalha a luz, e em lente bifocal, sem sentido aqui. A B tem espelho convexo e lente divergente, ambos errados. A D acerta o espelho, mas a lente divergente não forma imagem real. A E indica espelho plano, que não concentra a luz. Gabarito: C.",
+  "hash": "d07f163a47d23bbb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q59": {
+  "assunto": "Óptica: espelhos parabólicos, foco",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o fogão solar é mais eficiente quando a panela está num ponto determinado. O Sol está tão distante que seus raios chegam praticamente paralelos ao eixo da superfície parabólica voltada para ele. Uma propriedade fundamental da parábola é que todos os raios que incidem paralelos ao eixo, depois de refletidos, convergem para um mesmo ponto, o foco. Ali a energia luminosa fica concentrada e se transforma em calor, aquecendo a panela com eficiência máxima. Por isso a alternativa C, raios refletidos concentrados no foco da parábola, está correta. A alternativa A usa o nome inexistente ponto de reflexão. A B fala do vértice, por onde não passam os raios incidentes concentrados. A D afirma que os raios incidentes se concentram, mas eles chegam paralelos; quem converge são os refletidos. A E fala em centro de curvatura, conceito ligado a espelhos esféricos e que não é o ponto de concentração. Gabarito: C.",
+  "hash": "c5ea28aaa7f2504a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q60": {
+  "assunto": "Ecologia: ciclo do nitrogênio, leguminosas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o processo, favorecido pelas bactérias associadas às raízes das leguminosas, que enriquece o solo e dispensa a adubação nitrogenada. As leguminosas, como feijão, soja e crotalária, formam nódulos nas raízes onde vivem bactérias do gênero Rhizobium. Essas bactérias realizam a fixação biológica do nitrogênio: convertem o N₂ do ar, que as plantas não conseguem usar, em amônia, que é incorporada em compostos nitrogenados como aminoácidos. Quando a leguminosa morre ou é incorporada ao solo, esse nitrogênio fica disponível para a cana plantada em seguida. Logo, a alternativa B está correta. A alternativa A descreve a nitrosação, feita por bactérias de vida livre no solo, não associadas às raízes. A C descreve a amonificação, realizada por decompositores. A D erra ao dizer que a desnitrificação oxida nitrato em compostos orgânicos; ela devolve N₂ à atmosfera e empobrece o solo. A E descreve a nitratação, também realizada por bactérias livres. Gabarito: B.",
+  "hash": "71aebcd9298456cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q61": {
+  "assunto": "Eletrodinâmica: circuito aberto, corrente elétrica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a consequência de o cabo de alimentação do computador se romper por ser dobrado ou puxado pelo fio. O dano previsto pelo manual é o rompimento dos fios condutores dentro do cabo. Para haver corrente elétrica, é preciso um caminho fechado entre a tomada e o aparelho; se o condutor se rompe, o circuito fica aberto e a corrente deixa de circular. Assim, o computador simplesmente não recebe energia e não funciona, como diz a alternativa E. A alternativa A fala em descarga elétrica nos componentes, o que não decorre do rompimento do fio. A B afirma que a velocidade de processamento diminuiria, mas sem energia o computador nem liga. A C sugere aquecimento excessivo da fiação, problema associado a sobrecarga, e não a circuito aberto. A D menciona brilho fraco do monitor, efeito sem relação com o cabo rompido. Gabarito: E.",
+  "hash": "f95da1734f23b3ee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q62": {
+  "assunto": "Óptica: miopia, vergência de lentes",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a vergência da lente para um míope que enxerga nitidamente até 50 cm. O texto informa que essa distância máxima corresponde à distância focal da lente e que V = 1/f, com f em metros. Passo 1: converter a distância, 50 cm = 0,5 m. Passo 2: lembrar que a miopia é corrigida com lente divergente, porque o olho míope converge demais a luz, formando a imagem antes da retina; lentes divergentes têm distância focal negativa, então f = −0,5 m. Passo 3: calcular V = 1/(−0,5) = −2,00 di. Portanto o oftalmologista receita lentes de −2,00 di, alternativa A. A alternativa B usa f em centímetros, 1/(−50). A C repete esse erro e ainda usa o sinal positivo. A D não corresponde a nenhum cálculo correto. A E tem o valor certo, mas com sinal positivo, que seria de lente convergente, usada para hipermetropia. Gabarito: A.",
+  "hash": "34876e11e26b6e4b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q63": {
+  "assunto": "Bioquímica: radicais livres, antioxidantes",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como as vitaminas C e E e o selênio exercem ação antioxidante. Radicais livres são espécies com elétron desemparelhado, muito reativas, formadas no metabolismo, especialmente na respiração celular. Eles tendem a retirar elétrons de outras moléculas, oxidando lipídios de membranas, proteínas e DNA. Os antioxidantes reagem com esses radicais antes que eles ataquem as estruturas celulares: oxidam-se no lugar delas, doando elétrons e neutralizando os radicais. As vitaminas C e E fazem isso diretamente, e o selênio participa de enzimas antioxidantes. Assim, a alternativa A está correta. A alternativa B é falsa, pois o organismo não produz oxigênio, e reduzir a respiração seria inviável. A C inventa um mecanismo de adesão às membranas mitocondriais. A D fala em inibir reações do metabolismo usadas para gerar radicais, mas os antioxidantes neutralizam os radicais já formados. A E é vaga e não descreve a ação química dos antioxidantes. Gabarito: A.",
+  "hash": "250dfceac300aacd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q64": {
+  "assunto": "Química ambiental: tratamento de esgoto, poluição hídrica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual processo é mais indicado para manter a qualidade ambiental de um corpo hídrico. O processo 1 trata o esgoto em estações, por via biológica aeróbia com lodo ativado, antes que ele chegue ao rio, removendo cerca de 90% das impurezas. O processo 2 limpa o próprio rio, removendo sólidos e flocos por flotação, ou seja, atua depois que a poluição já ocorreu. Para manter a qualidade da água de forma duradoura, é preciso atacar a causa, impedindo que novas cargas de esgoto sejam lançadas. Por isso o processo 1 é o mais adequado, mesmo sendo complexo, como afirma a alternativa B. A alternativa A exagera ao dizer que o processo 2 remove qualquer fonte poluidora. A C é absurda, pois esgoto lançado continuaria degradando o rio. A D erra ao afirmar que o esgoto tratado já serve para abastecimento residencial. A E chama o processo 1 de simples e barato, o que não é verdade. Gabarito: B.",
+  "hash": "a309da30d07d73ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q65": {
+  "assunto": "Biotecnologia: anticorpos, diagnóstico precoce",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o benefício para a saúde pública do desenvolvimento de anticorpos específicos por empresas de biotecnologia. O texto explica que anticorpos reconhecem antígenos específicos e que os produtos dessas empresas servem para detecção precoce, como no caso da ferrugem asiática da soja, e para kits de diagnóstico de hepatites, leptospirose e febre amarela. Ao identificar rapidamente a presença do agente causador, esses testes permitem iniciar o tratamento logo nos estágios iniciais da doença, quando as chances de sucesso são maiores e o contágio pode ser controlado. Assim, a alternativa D está correta. A alternativa A confunde anticorpos prontos com vacinas, que estimulam o organismo a produzi-los. A B fala em terapia gênica, técnica que não é mencionada. A C sugere um medicamento mutagênico para vírus, função que anticorpos não têm. A E contraria a especificidade dos anticorpos, que reconhecem alvos determinados, e não diversos parasitas. Gabarito: D.",
+  "hash": "073f36e2aadbafa6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q66": {
+  "assunto": "Ecologia: impactos ambientais humanos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que as ações humanas representadas na charge revelam sobre o comportamento do ser humano diante do ambiente. O texto de apoio lembra que, desde que passou a explorar os recursos do planeta, o homem provoca impactos ambientais, e a ilustração trata de forma bem-humorada de uma consequência desses impactos acumulados. O ponto central é que muitas ações parecem inofensivas no momento em que são feitas, como desmatar, queimar combustíveis ou descartar resíduos, mas, somadas ao longo do tempo, geram problemas graves, como o aquecimento global e a perda de biodiversidade. Isso revela a dificuldade humana de distinguir ações sem efeito imediato daquelas que causam catástrofes a longo prazo, como afirma a alternativa D. A alternativa A é falsa, pois o ser humano se adapta a ambientes muito diversos. A B contradiz a charge, que mostra justamente a falta de previsão. A C supõe uma preocupação que as ações não demonstram. A E afirma que o desenvolvimento não degrada o ambiente, o oposto do que se critica. Gabarito: D.",
+  "hash": "141e0174a6636d50",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q67": {
+  "assunto": "Evolução: seleção artificial, domesticação",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tema comum aos quadrinhos e ao texto sobre a pelagem dos animais domésticos. O texto afirma que o ser humano selecionou de forma ativa e proposital características como tipo e cor da pelagem, muitas delas inexistentes nas populações selvagens. Quando é o homem quem escolhe quais indivíduos vão se reproduzir, de acordo com características que lhe interessam, temos a seleção artificial, base da domesticação de animais e plantas e do melhoramento genético. Assim, a alternativa C está correta. A alternativa A, seleção natural, ocorre quando o próprio ambiente favorece os mais adaptados, sem intenção humana. A B, seleção direcional, é um padrão de seleção natural que desloca a média de uma característica, e não o tema do texto. A D, seleção estabilizadora, favorece os valores intermediários, também sem relação com a escolha humana. A E, cromatográfica, nem é um tipo de seleção biológica, e sim um termo de técnica química de separação. Gabarito: C.",
+  "hash": "8a3c937e7d2bdec3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q68": {
+  "assunto": "Ecologia: introdução de espécies, desequilíbrio ecológico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma consequência imediata de transportar animais resgatados de áreas inundadas para uma nova área onde essas espécies não existiam. Toda comunidade tem relações ecológicas estabelecidas: cadeias alimentares, competição por alimento e abrigo, predação e parasitismo. Ao introduzir novas espécies, surgem competidores, predadores ou presas que antes não estavam ali, e a capacidade de suporte do ambiente é dividida entre mais indivíduos. Isso altera o tamanho das populações e a estrutura da comunidade receptora, provocando desequilíbrio ecológico, como afirma a alternativa E. A alternativa A é otimista demais, pois o aumento de espécies não garante equilíbrio. A B ignora a interação com os grupos já existentes, que inevitavelmente ocorre. A C supõe aumento de recursos, quando eles são os mesmos e passam a ser disputados. A D usa mal o termo seleção artificial, que se refere à escolha humana de características para reprodução. Gabarito: E.",
+  "hash": "f5a5ac874e88095a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q69": {
+  "assunto": "Radioatividade: meia-vida, decaimento beta",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma afirmação correta sobre o decaimento do iodo-131, usando os dados do texto: meia-vida de 8 minutos e emissão de radiação gama e partículas beta. Obs.: na realidade, a meia-vida do iodo-131 é de cerca de 8 dias, mas a questão deve ser resolvida com o valor informado. Cada meia-vida reduz a massa do isótopo à metade: após 8 minutos resta ½ e após 16 minutos resta ¼ da massa inicial. Como 16 minutos é menos de meia hora, a alternativa E está correta. A alternativa A erra, pois a partícula beta tem carga negativa e a radiação gama não tem carga. A B é falsa, porque a datação de fósseis usa carbono-14, de meia-vida longa. A C erra, já que o decaimento beta forma outro elemento, o xenônio, mas com o mesmo número de massa, 131. A D é incorreta, pois a radiação gama é onda eletromagnética e se propaga no vácuo. Gabarito: E.",
+  "hash": "00f74bfaa64c3c4e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q70": {
+  "assunto": "Saúde e doenças: própolis, saúde bucal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o cunho social dos estudos da UFMG sobre o uso de própolis em tratamentos bucais. O texto informa que a própolis tem ações anti-inflamatória, antifúngica, antibacteriana, cicatrizante e anestésica. Na boca, isso pode combater o sapinho, candidíase causada por fungo e comum em bebês, e as cáries, ligadas a bactérias. Como a própolis é um produto natural, abundante e barato, os resultados podem ampliar o acesso da população a tratamentos de baixo custo para doenças bucais frequentes em crianças, como afirma a alternativa D. A alternativa A fala de doenças crônicas, tema que o estudo bucal não aborda. A B generaliza para doenças infectocontagiosas, sem base no texto. A C cita AIDS, gripe H1N1 e dengue, doenças virais sem relação com o estudo, que trata da boca. A E fala em introduzir a própolis na alimentação para evitar doenças inflamatórias, extrapolando o texto. Gabarito: D.",
+  "hash": "04eb9a94f1441933",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q71": {
+  "assunto": "Química ambiental: agrotóxicos, metais pesados",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a conclusão adequada sobre o uso de agrotóxicos na região descrita, onde rios estão contaminados por esses produtos e o solo tem altas concentrações de metais pesados, como chumbo e mercúrio. Esses poluentes são persistentes, acumulam-se no ambiente e ao longo das cadeias alimentares e podem causar graves danos à saúde. Por isso, a solução não está em medidas pontuais: é indispensável estudar formas de impedir novas descargas de agrotóxicos e adotar o manejo correto do solo, atacando a origem do problema. É o que afirma a alternativa E. A alternativa A é falsa, pois metais pesados e muitos agrotóxicos não são eliminados por processos naturais em prazo razoável. A B é insuficiente, já que a contaminação ocorre também pela água e por alimentos do solo. A C erra, porque filtrar ou ferver não elimina metais pesados dissolvidos. A D também é insuficiente, pois a exposição ocorre por várias vias, não só pela ocupação da área. Gabarito: E.",
+  "hash": "0ae12eda65056ce6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q72": {
+  "assunto": "Termologia: condensação, umidade em alimentos",
+  "dificuldade": 1,
+  "explicacao": "A questão pede, com base no quadro do manual do fogão, a causa de um alimento devidamente assado conter mais água que o esperado, sendo que a receita foi seguida corretamente. Basta localizar no quadro o problema correspondente: há formação de umidade nos alimentos no interior do forno. A causa indicada é que os alimentos foram deixados muito tempo dentro do forno após o término do cozimento, e a correção recomendada é não deixá-los por mais de 15 minutos depois de desligar. Fisicamente, o vapor liberado condensa à medida que o forno esfria e volta para o alimento. Logo, a alternativa B está correta. A alternativa A corresponde ao problema de o forno não funcionar. A C também se refere ao forno que não liga. A D explica o alimento que assa muito lento ou muito rápido, o que não ocorreu, já que ele estava devidamente assado. A E é a causa do forno que solta fumaça. Gabarito: B.",
+  "hash": "891d0b2bba55f617",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q73": {
+  "assunto": "Eletroquímica: eletrólise, obtenção do cloro",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o processo usado para obter o cloro necessário à fabricação do PVC. O fluxograma mostra que o cloro é combinado com o eteno para formar o dicloroetano (EDC), que origina o cloreto de vinila (MVC) e, por polimerização, o PVC. Industrialmente, o gás cloro é obtido pela eletrólise da salmoura, solução aquosa de cloreto de sódio: no ânodo, os íons Cl⁻ se oxidam a Cl₂, enquanto no cátodo forma-se H₂ e a solução fica rica em NaOH. Esse é o processo cloro-soda, e por isso a alternativa B está correta. A alternativa A, destilação, separa líquidos por diferença de ponto de ebulição, mas não produz cloro a partir do sal. A C, fusão ígnea, é uma eletrólise do sal fundido, que não é o processo industrial usual nesse caso. A D, filtração a vácuo, separa sólidos de líquidos. A E, precipitação fracionada, separa sais pela solubilidade, sem gerar Cl₂. Gabarito: B.",
+  "hash": "0d5b1706136dec16",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q74": {
+  "assunto": "Evolução: teoria da recapitulação, embriologia",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a frase que melhor resume a teoria da recapitulação, associada a Ernst Haeckel. O texto explica que, segundo essa teoria, as fases do desenvolvimento de um organismo, chamadas de ontogenia, correspondem à história evolutiva de sua espécie, chamada de filogenia. O exemplo dado são as estruturas semelhantes a fendas branquiais em embriões de mamíferos, que recapitulariam o ancestral peixe. A síntese clássica dessa ideia é a frase a ontogenia recapitula a filogenia, alternativa A. Vale lembrar que hoje a teoria, em sua forma rígida, não é aceita, embora a embriologia comparada continue sendo evidência evolutiva. A alternativa B fala da morte dos antepassados, ideia sem relação com o desenvolvimento embrionário. A C é vaga e não menciona ontogenia nem filogenia. A D apenas repete um trecho do texto sobre o exemplo, sem resumir a teoria. A E define ontogenia de forma errada, como se fosse a formação de brânquias. Gabarito: A.",
+  "hash": "a852b4da93334976",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q75": {
+  "assunto": "Química ambiental: oxigênio dissolvido, DBO",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma justificativa para os baixos valores de oxigênio dissolvido em alguns pontos do rio, mostrados no gráfico dos testes feitos pelos alunos. A demanda bioquímica de oxigênio indica quanto oxigênio os microrganismos consomem para decompor a matéria orgânica presente na água. Quando há lançamento de esgoto doméstico ou outros resíduos orgânicos, os decompositores aeróbios se multiplicam e consomem grande parte do oxigênio dissolvido, deixando a água pobre em O₂, imprópria para peixes e para diversos usos. Portanto, os pontos com pouco oxigênio são aqueles de grande demanda bioquímica, indicando aporte de matéria orgânica, como afirma a alternativa C. A alternativa A atribui o efeito a sais inorgânicos, que não são consumidos pelos decompositores. A B erra, pois água fria dissolve mais oxigênio, e não menos. A D inverte a relação, já que a atividade humana aumenta, e não diminui, a DBO. A E também fala em diminuição da DBO, o oposto do esperado com aporte orgânico. Gabarito: C.",
+  "hash": "5b4840668f3c596f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q76": {
+  "assunto": "Física moderna: energia nuclear, vantagens e desvantagens",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um argumento favorável ao uso da energia nuclear, no debate entre construir usinas nucleares ou investir em fontes renováveis. A principal vantagem da energia nuclear é que, durante a geração de eletricidade, a fissão do urânio não envolve combustão e, portanto, praticamente não emite gás carbônico nem outros poluentes atmosféricos. Nesse sentido ela é chamada de limpa, embora dependa de um minério esgotável, o urânio, e por isso não seja renovável. É o que afirma a alternativa E. A alternativa A é falsa, pois a instalação de uma usina nuclear é uma das mais caras, por exigir sistemas de segurança complexos. A B erra, já que o tratamento e o armazenamento dos rejeitos radioativos são processos difíceis e caros. A C exagera ao dizer que não causa impactos ambientais, ignorando os riscos de acidentes e os rejeitos. A D é incorreta, pois muitos resíduos permanecem radioativos por milhares de anos. Gabarito: E.",
+  "hash": "36459cb06a0d4f76",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q77": {
+  "assunto": "Saúde e doenças: gripe H1N1, transmissão viral",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual concepção sobre a transmissão da gripe H1N1 é um mito, a partir da charge que brinca com a preocupação da população. Como a doença ficou conhecida como gripe suína, por causa da origem do vírus, muita gente passou a acreditar que comer carne de porco transmitiria a gripe. Isso é falso: o vírus Influenza se transmite de pessoa para pessoa, por gotículas respiratórias e contato com secreções, e a carne de porco bem cozida não transmite a doença. Portanto, o mito é a alternativa A. A alternativa B descreve uma forma real de transmissão, o contato com fluidos de pessoas infectadas. A C também é verdadeira, pois objetos contaminados com secreções podem levar o vírus às mãos e depois às mucosas. A D descreve a principal via, pelo ar, com gotas de saliva e secreções. A E é possível, já que mãos contaminadas podem levar o vírus a alimentos e daí às mucosas. Gabarito: A.",
+  "hash": "804dac5f83ba2235",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q78": {
+  "assunto": "Estequiometria: pureza, cálculo de massa",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a região de minério mais puro e a de menor consumo de carvão por tonelada de ferro. A tabela dá amostras de 100 g: A (Fe₂O₃) com 52,5 g de Fe, B (FeO) com 62,3 g e C (Fe₃O₄) com 61,5 g. Pureza: em A, 112 g de Fe vêm de 160 g de Fe₂O₃, então óxido = 52,5 × 160/112 = 75 g, ou 75%. Em B, 56 g de Fe vêm de 72 g de FeO: 62,3 × 72/56 ≈ 80 g, 80%. Em C, 168 g de Fe vêm de 232 g de Fe₃O₄: 61,5 × 232/168 ≈ 85 g, 85%. Logo, C é o mais puro. Carvão por tonelada de ferro: em A, 3 C (36 g) produzem 4 Fe (224 g), então 36/224 × 1 000 kg ≈ 161 kg. Em B, 1 C (12 g) produz 2 Fe (112 g): 12/112 × 1 000 ≈ 107 kg. Em C, 2 C (24 g) produzem 3 Fe (168 g): 24/168 × 1 000 ≈ 143 kg. O menor consumo é o de B, com 107 kg. Assim, a alternativa C está correta. A alternativa A aponta a menor pureza e o consumo intermediário. A B indica valores que não são os extremos pedidos. A D atribui a A uma pureza de 90% e a B um consumo inexistente. A E inventa 95% para B e aponta o maior consumo. Gabarito: C.",
+  "hash": "4cda6d20be57a912",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q79": {
+  "assunto": "Química orgânica: combustão incompleta, fuligem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a origem da fuligem formada na queima do petróleo derramado. O petróleo é uma mistura composta principalmente de hidrocarbonetos. Quando um hidrocarboneto queima com oxigênio suficiente, a combustão é completa e os produtos são CO₂ e H₂O, sem formação de partículas negras. Na queima de uma mancha de óleo a céu aberto, porém, o oxigênio não chega a todas as moléculas de forma adequada, e ocorre combustão incompleta, que gera monóxido de carbono e carbono sólido, a fuligem, responsável pela fumaça preta. Logo, a alternativa B está correta. A alternativa A erra, pois a combustão completa não produz fuligem. A C e a D apontam compostos sulfurados, que existem no petróleo em pequena quantidade e geram SO₂, gás incolor, e não a nuvem negra. A E fala de compostos nitrogenados, cuja queima gera óxidos de nitrogênio, também sem formar fuligem. Gabarito: B.",
+  "hash": "5fa28d2b3a2f8f9a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q80": {
+  "assunto": "Ecologia: bioindicadores, liquens e poluição do ar",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como distribuir as gaiolas com liquens para medir os poluentes industriais dispersos no ar urbano. Os liquens são bons bioindicadores porque absorvem substâncias diretamente da atmosfera e as acumulam. Para saber quanto de poluição a indústria emite e até onde ela se espalha, é preciso comparar locais: perto das indústrias, onde as concentrações refletem a emissão, e em pontos mais distantes, para avaliar o que os ventos transportam até outras áreas da cidade. Por isso a alternativa B está correta. A alternativa A coloca as gaiolas dentro da indústria, o que não mostra a dispersão na área urbana. A C propõe gaiolas em cada residência, solução inviável e desnecessária para o monitoramento. A D ignora a direção dos ventos, fator essencial para entender o transporte dos poluentes. A E posiciona os liquens na saída das chaminés, medindo apenas a emissão e não a dispersão na atmosfera. Gabarito: B.",
+  "hash": "77b96230772f1773",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q81": {
+  "assunto": "Cinética química: superfície de contato, adsorção",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que as estruturas metal-orgânicas são tão eficientes para capturar gás carbônico. O texto informa que se trata de cristais porosos e que um único grama, se espalhado, ocuparia pelo menos 5 000 m². Isso significa que a enorme quantidade de poros cria uma área superficial gigantesca em pouca massa. Como a captura de gases ocorre na superfície do material, quanto maior a área exposta, maior o contato com as moléculas de CO₂ e maior a quantidade retida. Assim, a eficiência resulta da grande superfície de contato entre os cristais porosos e o gás carbônico, alternativa D. A alternativa A cita a estabilidade dos cristais, importante para durabilidade, mas não explica a captura. A B fala em alta densidade, quando materiais porosos tendem a ser pouco densos. A C mistura as ideias, pois quem ocupa grandes áreas é a superfície do material, não os gases comprimidos. A E contraria o texto, que destaca a eficiência com pouca massa. Gabarito: D.",
+  "hash": "1428ecf77a3a427d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q82": {
+  "assunto": "Ondulatória: equação fundamental, comprimento de onda",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o comprimento de onda, em centímetros, das micro-ondas de 2,45 GHz no forno, sabendo que v = 3 × 10⁸ m/s. Usa-se a equação fundamental da ondulatória, v = λ × f. Passo 1: converter a frequência, 2,45 GHz = 2,45 × 10⁹ Hz. Passo 2: isolar λ, λ = v/f = (3 × 10⁸)/(2,45 × 10⁹). Passo 3: calcular, 3/2,45 ≈ 1,224 e 10⁸/10⁹ = 10⁻¹, então λ ≈ 0,1224 m. Passo 4: converter para centímetros, multiplicando por 100, o que dá λ ≈ 12,2 cm. Portanto, a alternativa D está correta. A alternativa A resulta de erro na conversão de unidades, com fator 100 a menos. A B erra por um fator 10. A C e a E correspondem a inverter a razão entre frequência e velocidade ou a usar potências de dez incorretas. Gabarito: D.",
+  "hash": "c02ecadf2eb36eb1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q83": {
+  "assunto": "Saúde e doenças: doenças transmitidas por insetos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quais doenças poderiam ser combatidas se a técnica de bloquear o olfato dos mosquitos fosse estendida a outros insetos. Para isso, todas as doenças da alternativa precisam ter um inseto como vetor que localiza suas vítimas pelo cheiro. Na alternativa C: a doença de Chagas é transmitida pelo barbeiro; a dengue e a febre amarela, por mosquitos como o Aedes aegypti; e a leishmaniose, pelo mosquito-palha. Todas têm insetos vetores, por isso a alternativa C está correta. A alternativa A inclui a leptospirose, transmitida pela urina de ratos. A B traz a meningite, transmitida de pessoa a pessoa, e a peste bubônica, cujo vetor é a pulga do rato, mas a meningite já invalida a opção. A D inclui cólera, transmitida por água contaminada, e lepra, transmitida entre pessoas. A E contém cólera e leptospirose, que não dependem de insetos. Gabarito: C.",
+  "hash": "666788cbe05e7f60",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q84": {
+  "assunto": "Microbiologia e parasitologia: esquistossomose, saneamento",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a proposta eficaz para controlar a esquistossomose e, ao mesmo tempo, manter a saúde geral da população. No ciclo do Schistosoma mansoni, os ovos saem nas fezes do doente, chegam à água, liberam miracídios que infectam caramujos, e destes saem cercárias que penetram ativamente pela pele de quem entra na água. O texto destaca que a erradicação exige interromper o ciclo. A construção de instalações sanitárias impede que fezes com ovos cheguem aos corpos d'água e ainda previne várias outras doenças, como verminoses e diarreias. Por isso a alternativa B está correta. A alternativa A interrompe o ciclo, mas envenenar lagoas prejudica o ambiente e a saúde geral. A C erra a via de contágio, que é a pele, e não a ingestão. A D trata da teníase, ligada à carne mal cozida. A E também supõe transmissão por ingestão, o que não ocorre na esquistossomose. Gabarito: B.",
+  "hash": "d22846263cc5c814",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q85": {
+  "assunto": "Dinâmica: força de atrito",
+  "dificuldade": 2,
+  "explicacao": "A questão pede quais vetores da figura representam a força que provoca o deslocamento e a força de atrito. Na figura, o bloco apoiado na superfície recebe quatro forças: uma seta horizontal para a direita aplicada na lateral do bloco, uma seta horizontal para a esquerda na base, junto à superfície de contato, uma seta vertical para cima e outra para baixo. As verticais representam a força normal e o peso, que não provocam deslocamento horizontal. A seta para a direita, aplicada no bloco, é a força que tende a deslocá-lo. O atrito surge no contato entre as superfícies irregulares, mostradas na ampliação, e se opõe à tendência de movimento, por isso aponta para a esquerda na base do bloco. Assim, a resposta é a seta para a direita seguida da seta para a esquerda, alternativa A. As demais alternativas trocam a ordem das forças ou usam as setas verticais, que correspondem ao peso e à normal, e não ao deslocamento nem ao atrito. Gabarito: A.",
+  "hash": "1761d20d042171ee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q86": {
+  "assunto": "Eletrodinâmica: resistência elétrica, amperímetro",
+  "dificuldade": 4,
+  "explicacao": "A questão pede as características ideais dos fios, da tensão e do medidor num detector de mentiras em que o corpo humano integra o circuito. O texto exige duas coisas: a pessoa não pode sentir a corrente e o aparelho deve perceber pequenas variações na condutividade do corpo. Primeiro, para a corrente ser imperceptível, a tensão aplicada deve ser pequena, já que I = U/R. Segundo, para que a corrente dependa quase só da resistência do corpo, as outras resistências em série devem ser desprezíveis: fios de baixa resistência e amperímetro com resistência interna desprezível, como todo amperímetro ideal. Assim, qualquer alteração na resistência do corpo provoca variação perceptível na corrente medida. Logo, a alternativa E está correta. A alternativa A usa alta tensão e medidor de alta resistência, o que daria choque e mascararia a variação. A B usa fios de alta resistência e medidor de alta resistência. A C combina fios ruins e alta tensão. A D acerta fios e medidor, mas a alta tensão faria a pessoa sentir a corrente. Gabarito: E.",
+  "hash": "48335538d1ef6819",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q87": {
+  "assunto": "Ecologia: espécies exóticas invasoras",
+  "dificuldade": 1,
+  "explicacao": "A questão pede, além do clima favorável, o fator que explica a explosão populacional do caramujo africano no Brasil. Trata-se de uma espécie exótica, trazida da África e liberada no ambiente brasileiro. Em seu local de origem, a população é controlada por predadores, parasitas e doenças que evoluíram junto com ela. No Brasil, essa espécie encontrou ambiente favorável, alimento abundante e nenhum inimigo natural capaz de controlá-la, o que permitiu crescimento descontrolado. Por isso a alternativa A, ausência de inimigos naturais, está correta. A alternativa B é contraditória, pois alta mortalidade dos ovos reduziria a população. A C também reduziria o crescimento, já que pouca comida limita a população. A D cita áreas desmatadas, que não são o fator principal apontado e nem explicam a invasão de casas urbanas. A E é contrária ao esperado, pois competidores abundantes limitariam a expansão. Gabarito: A.",
+  "hash": "cdeb5e353e9d0cda",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q88": {
+  "assunto": "Dinâmica: leis de Newton, inércia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual lei de Newton contrariou a ideia aristotélica de movimento forçado. Para Aristóteles, um corpo só permanece em movimento enquanto houver uma causa agindo sobre ele; cessada a causa, ele para ou volta ao movimento natural. Newton, retomando Galileu, afirmou o contrário na primeira lei: todo corpo permanece em repouso ou em movimento retilíneo uniforme a menos que uma força resultante atue sobre ele. Ou seja, não é preciso força para manter o movimento, apenas para alterá-lo. Se um corpo para, é porque há forças como o atrito agindo. Essa é a lei da inércia, alternativa A. A alternativa B, ação e reação, trata da interação entre dois corpos, e não da manutenção do movimento. A C, gravitação universal, explica a atração entre massas. A D, conservação da massa, é uma lei química associada a Lavoisier. A E, conservação da energia, não foi o argumento de Newton contra Aristóteles. Gabarito: A.",
+  "hash": "61bee71728d35301",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q89": {
+  "assunto": "Biotecnologia: DNA recombinante, bactérias",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as características das bactérias que as tornam adequadas à tecnologia do DNA recombinante. As bactérias são procariontes: seu material genético é um cromossomo circular, sem envoltório nuclear e sem histonas, e elas também possuem plasmídeos, pequenas moléculas circulares de DNA, que servem como vetores para introduzir genes de interesse, como o da insulina humana. Além disso, reproduzem-se de forma assexuada por bipartição, ou cissiparidade, muito rapidamente, originando grande número de clones com o gene inserido e produzindo a substância desejada em escala industrial. Assim, a alternativa B está correta. A alternativa A erra ao dizer que o cromossomo bacteriano é linear. A C associa o cromossomo a histonas e fala em meiose, características de eucariontes. A D erra ao dizer que o cromossomo está isolado por membrana, pois bactérias não têm núcleo. A E combina dois erros: cromossomo linear e envoltório nuclear. Gabarito: B.",
+  "hash": "6c7146ce9d5090af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q90": {
+  "assunto": "Ecologia: fluxo de energia, níveis tróficos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o esquema que representa corretamente a entrada e a saída de energia nos níveis tróficos de uma cadeia alimentar. A energia entra no ecossistema pelos produtores, que captam a luz solar na fotossíntese, e passa sucessivamente para o consumidor primário, o secundário e o terciário. Em cada nível, parte da energia é perdida, principalmente como calor liberado na respiração celular, e não pode ser reaproveitada. Por isso o fluxo de energia é unidirecional, não cíclico, e diminui ao longo da cadeia. O esquema da alternativa E mostra exatamente isso: uma seta de entrada nos produtores, setas horizontais levando energia de P para C1, C2 e C3, e setas saindo de cada nível para representar as perdas. Os esquemas das demais alternativas falham por representar a energia retornando aos níveis anteriores, como num ciclo, por omitir as perdas em cada nível trófico ou por indicar a entrada de energia em níveis que não são os produtores. Gabarito: E.",
+  "hash": "fbbc805af3ceb95d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
