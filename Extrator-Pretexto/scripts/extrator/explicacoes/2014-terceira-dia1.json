@@ -1,0 +1,352 @@
+{
+ "enem-2014-terceira-d1-q01": {
+  "assunto": "Ditadura militar: propaganda, governo Médici",
+  "dificuldade": 2,
+  "explicacao": "A questão pede que se identifique o alvo da ironia da charge de Ziraldo sobre um lema do governo Médici. O lema em questão é o famoso \"Brasil, ame-o ou deixe-o\", difundido no auge do chamado milagre econômico e da repressão, durante a vigência do AI-5. A propaganda oficial apresentava o regime como patriótico e unia o amor à pátria à adesão ao governo, sugerindo que quem discordasse deveria sair do país. Na prática, porém, esse período foi marcado por censura, tortura, perseguição a opositores e exílio forçado. A charge expõe essa contradição: por trás de um slogan ufanista, escondia-se o autoritarismo do regime. Por isso, a alternativa D está correta. A alternativa A reproduz o discurso oficial em vez de criticá-lo. A B confunde a crítica com uma recomendação de fuga. A C erra, pois o regime exaltava o patriotismo, em vez de desprezá-lo. A E atribui ao povo a culpa por problemas do país, o que não é o foco da charge. Gabarito: D.",
+  "hash": "f31f2310d00e5dcd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q02": {
+  "assunto": "Mundo contemporâneo: totalitarismo, controle da memória",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o mecanismo de dominação usado pelo Ministério da Verdade no romance 1984, de George Orwell. Na obra, esse ministério é responsável por reescrever jornais, livros e registros históricos para que o passado sempre coincida com a versão do Partido. Os lemas contraditórios citados no texto (guerra é paz, liberdade é escravidão, ignorância é força) mostram como a linguagem e a memória são manipuladas para controlar o pensamento. Orwell critica regimes totalitários do século XX, como o stalinismo e o nazismo, que falsificavam fotografias, apagavam pessoas da história e controlavam a informação. Assim, a dominação ocorre pela reelaboração da memória coletiva, o que confirma a alternativa D. A alternativa A trata de nacionalismo, que não é a função específica do ministério. A B fala de forças militares, sem relação com a instituição descrita. A C remete ao culto ao líder, que existe na obra, mas não é o mecanismo do Miniver. A E é incompatível com um regime que suprime direitos. Gabarito: D.",
+  "hash": "f7ea8aeb2947bd5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q03": {
+  "assunto": "Cultura e sociedade: geografia humanística, percepção do espaço",
+  "dificuldade": 3,
+  "explicacao": "A questão pede que se reconheça a perspectiva da Geografia Humanística proposta por Yi-Fu Tuan. O texto afirma que os fatos geográficos incluem não só clima, propriedades agrícolas, povoamentos e Estados, mas também sentimentos, conceitos e teorias. Ou seja, o espaço geográfico é compreendido a partir de dimensões físicas, sociais e também simbólicas, ligadas à percepção e à experiência humana. A alternativa A resume exatamente essa ideia: a análise do espaço envolve aspectos físicos, sociais e simbólicos que participam da produção das paisagens humanas. A alternativa B reduz a análise aos aspectos físicos. A C sugere que a dimensão simbólica seria apenas um instante de revelação das propriedades físicas, distorcendo o texto. A D restringe a totalidade do espaço aos elementos físicos e materiais, ignorando os sentimentos. A E faz o contrário e reduz o mundo geográfico apenas aos elementos simbólicos, deixando de lado os físicos e sociais. Gabarito: A.",
+  "hash": "49021c7fe55d19da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q04": {
+  "assunto": "Geopolítica e conflitos: OTAN, pós-Guerra Fria",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o motivo do enfraquecimento da legitimidade da OTAN diante das mudanças geopolíticas. A OTAN foi criada em 1949, no início da Guerra Fria, como aliança militar ocidental liderada pelos Estados Unidos para conter a expansão soviética. Seu principal adversário era o bloco socialista, que depois se organizou no Pacto de Varsóvia. Com a queda do Muro de Berlim, o fim do Pacto de Varsóvia e a dissolução da União Soviética em 1991, a organização perdeu sua razão original de existir e precisou redefinir objetivos, o que gerou questionamentos sobre sua função. Isso confirma a alternativa C. A alternativa A descreve uma adaptação posterior, não a causa da perda de legitimidade. A B é imprecisa, pois as atuações da OTAN não se concentraram no hemisfério sul. A D inventa a ideia de bases em áreas pacificadas como causa central. A E erra, pois a organização não passou a atuar em conflitos civis dentro dos próprios países-membros. Gabarito: C.",
+  "hash": "342b21d1684ddb88",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q05": {
+  "assunto": "Urbanização: enchentes, impermeabilização do solo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede as causas que intensificam um problema urbano típico dos períodos chuvosos, ironizado na charge: as enchentes e alagamentos. Nas grandes cidades, o asfalto, o concreto e as construções impermeabilizam o solo, impedindo a infiltração da água da chuva. Com isso, o escoamento superficial aumenta muito e chega rapidamente aos córregos e galerias. Além disso, o lixo descartado em ruas e calçadas entope bueiros e bocas de lobo, reduzindo a capacidade de drenagem. A combinação desses fatores explica por que chuvas fortes provocam alagamentos frequentes, o que confirma a alternativa E. A alternativa A erra ao tratar a chuva frontal como fenômeno típico das áreas urbanas. A B confunde efeito estufa com a causa local das enchentes. A C é incoerente, pois canalizações não são submersas por ocupação das margens. A D cita ilhas de calor, que podem favorecer chuvas convectivas, mas não explicam o acúmulo de água, que depende da drenagem. Gabarito: E.",
+  "hash": "41ae4902d9757e50",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q06": {
+  "assunto": "Globalização: tecnologia da informação, computadores",
+  "dificuldade": 2,
+  "explicacao": "A questão compara imagens dos primeiros computadores pessoais com os atuais e pede o elemento de continuidade entre eles. Apesar das enormes diferenças de tamanho, design, preço e materiais, a função essencial do computador permaneceu: processar, armazenar e transmitir informações com rapidez cada vez maior. Desde os primeiros modelos, o objetivo era agilizar o tratamento de dados, e os aparelhos atuais intensificaram essa finalidade, acrescentando a conexão em rede. Por isso, a continuidade está na dinamização do processamento e da transmissão de informações, como afirma a alternativa D. A alternativa A erra, pois a base tecnológica mudou radicalmente, dos circuitos antigos aos microprocessadores atuais. A B limita o uso ao meio empresarial, quando os computadores pessoais se popularizaram também nos lares. A C contraria a popularização dos aparelhos, que deixaram de ser restritos a uma elite. A E não se sustenta, já que os computadores atuais são cada vez mais intuitivos e dispensam especialistas. Gabarito: D.",
+  "hash": "d3a0c5cc26f8ac4e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q07": {
+  "assunto": "História da África e afro-brasileira: pós-abolição, exclusão social",
+  "dificuldade": 1,
+  "explicacao": "A questão relaciona uma charge de Ziraldo à situação social dos negros no Brasil após a Lei Áurea, de 13 de maio de 1888. A abolição foi feita por uma lei curta, que apenas declarou extinta a escravidão, sem qualquer medida complementar: não houve distribuição de terras, indenização, acesso à educação ou programas de integração ao mercado de trabalho. Muitos libertos ficaram marginalizados, ocupando trabalhos precários e áreas periféricas das cidades, enquanto o Estado incentivava a imigração europeia. Essa herança ajuda a explicar desigualdades raciais que persistem até hoje, tema que a charge critica. Assim, a alternativa C está correta. A alternativa A erra, pois a lei não impediu o preconceito nem a discriminação. A B idealiza o ato da princesa Isabel, ignorando a ausência de vida digna para os libertos. A D é falsa, já que não houve acesso igualitário ao trabalho. A E afirma que a cidadania foi garantida, o que não ocorreu na prática. Gabarito: C.",
+  "hash": "5d98d9f35e2e504c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q08": {
+  "assunto": "Primeira República: política externa, Barão do Rio Branco",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a orientação da política externa do Barão do Rio Branco, chanceler no início da Primeira República. O texto aponta três objetivos: definir fronteiras, aumentar o prestígio internacional e afirmar a liderança brasileira na América do Sul. Para isso, Rio Branco adotou uma aliança não escrita com os Estados Unidos, potência em ascensão no continente. Ao mesmo tempo, o Brasil reduzia a dependência em relação à Inglaterra, que dominara sua economia no século XIX. Contudo, a aproximação com Washington era pragmática e não significava submissão: o país mantinha objetivos próprios, como a solução negociada das questões de limites. Por isso, a alternativa B está correta. A alternativa A exagera ao falar em hegemonia continental e em suplantar os Estados Unidos. A C erra, pois Rio Branco privilegiou a diplomacia e a arbitragem, não a guerra. A D fala em submissão, contrariando o termo realista e a autonomia citados. A E aponta objetivos fora do continente, enquanto o texto destaca a América do Sul. Gabarito: B.",
+  "hash": "44e95bf51f247f10",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q09": {
+  "assunto": "República populista: governo JK, capital estrangeiro",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o motivo de o governo Juscelino Kubitschek ser chamado de entreguista por opositores. O Plano de Metas, com o lema cinquenta anos em cinco, buscou acelerar a industrialização por meio de um tripé: Estado, capital nacional privado e capital estrangeiro. JK abriu a economia aos investimentos externos, oferecendo vantagens a multinacionais, sobretudo da indústria automobilística, como Volkswagen, Ford e General Motors, instaladas principalmente no ABC paulista. Grupos nacionalistas, herdeiros do discurso de Vargas, criticavam essa abertura como entrega da economia nacional ao capital estrangeiro. Por isso, a alternativa D está correta. A alternativa A trata do pouco incentivo à agricultura, que foi criticado, mas não define o termo entreguista. A B fala de Brasília, alvo de críticas por gastos e inflação, não por entreguismo. A C é incorreta, pois a política visava substituir importações por meio da instalação de fábricas estrangeiras, não por redução planejada. A E não se relaciona à crítica nacionalista. Gabarito: D.",
+  "hash": "96aa1c05fd8e1c88",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q10": {
+  "assunto": "Filosofia moderna: Maquiavel, manutenção do poder",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o objeto do conselho de Maquiavel no trecho de O príncipe. O autor recomenda organizar colônias em territórios conquistados, que funcionariam como grilhões impostos à província. Para isso, tomam-se campos e moradias de parte da população local e entregam-se a novos habitantes enviados pelo príncipe. Os prejudicados, minoria dispersa e empobrecida, não teriam força para reagir, e os demais ficariam quietos por medo de sofrer o mesmo. Trata-se, portanto, de uma estratégia de expansão e consolidação do domínio sobre território conquistado, com deslocamento de população para lá, como afirma a alternativa D. A alternativa A inverte a lógica, pois não se trata de enviar inimigos para a colônia, mas colonos fiéis. A B fala em substituição de leis e impostos, assunto que o trecho não aborda. A C contraria o texto, que apresenta as colônias como alternativa barata à manutenção de forças armadas. A E erra, pois as terras são tiradas dos dominados, não distribuídas a eles. Gabarito: D.",
+  "hash": "23f6ec43cabcdab7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q11": {
+  "assunto": "Filosofia antiga: Aristóteles, homem como animal político",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a origem da cidade segundo Aristóteles. No trecho de A Política, o filósofo afirma que bastar-se a si mesma é a meta da natureza e que toda cidade está na natureza, sendo o homem naturalmente feito para a sociedade política. Para Aristóteles, o ser humano é um animal político: a família se une em aldeias, e as aldeias formam a pólis, que é o ponto final desse desenvolvimento natural, onde o homem realiza plenamente sua natureza. Quem vive sem cidade estaria acima ou abaixo da condição humana. Portanto, a cidade é uma etapa natural do desenvolvimento humano, cuja finalidade é a vida em sociedade, como diz a alternativa D. A alternativa A inverte a relação, pois a cidade não aperfeiçoa uma natureza alheia a ela. A B e a E descrevem a cidade como convenção ou contrato, ideia típica dos contratualistas modernos, como Hobbes e Rousseau. A C fala em ação violenta externa, contrária à naturalidade defendida pelo filósofo. Gabarito: D.",
+  "hash": "d19c8fb412095b5b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q12": {
+  "assunto": "Brasil contemporâneo: redemocratização, movimento sindical",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as razões do aumento das greves na segunda metade da década de 1980, mostrado na tabela. Os dados indicam forte crescimento a partir de 1985, com pico em 1989, quando houve 2 193 greves e cerca de 16,6 milhões de grevistas. Esse período coincide com a redemocratização: o fim da ditadura permitiu maior liberdade sindical e o fortalecimento de centrais como a CUT, criada em 1983. Ao mesmo tempo, a economia enfrentava inflação altíssima e sucessivos planos econômicos, como o Cruzado, que corroíam os salários e provocavam arrocho salarial. A soma de conjuntura política favorável à organização e de perdas econômicas explica a intensificação das greves, o que confirma a alternativa E. A alternativa A trata do neoliberalismo, que ganhou força só nos anos 1990. A B cita o Plano Collor, de 1990, posterior ao período destacado. A C fala em crise sindical, o oposto do que ocorria no Brasil. A D aponta fragilidade organizativa, contrária ao crescimento das mobilizações. Gabarito: E.",
+  "hash": "82040d055a04b54b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q13": {
+  "assunto": "População: pirâmide etária, envelhecimento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a interpretação da pirâmide etária brasileira do Censo de 2010. Nas últimas décadas, a taxa de fecundidade no Brasil caiu bastante, reduzindo o número de nascimentos, enquanto a expectativa de vida aumentou. Na pirâmide, isso aparece como estreitamento da base, que representa crianças e jovens, e alargamento das faixas intermediárias, de adultos, e do topo, de idosos. É o processo conhecido como transição demográfica, que leva ao envelhecimento da população. Por isso, a alternativa D está correta. A alternativa A descreve o padrão antigo, de base larga e topo estreito, que não se mantém. A B atribui o aumento de adultos a um baby boom nos anos 2000, que não ocorreu, já que a natalidade estava em queda. A C erra ao apontar divergência no crescimento de meninos e meninas, cujas proporções são semelhantes. A E contraria os dados, pois a população idosa está crescendo, não declinando. Gabarito: D.",
+  "hash": "f7dfc7c8175cbf55",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q14": {
+  "assunto": "População: expectativa de vida, violência",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a causa principal da diferença de expectativa de vida entre homens e mulheres no Brasil, que em 2010 era de 69,7 anos para eles e 77,3 anos para elas. Uma das explicações mais relevantes é a chamada sobremortalidade masculina por causas externas: homens jovens morrem muito mais por homicídios, acidentes de trânsito e outras formas de violência. Essas mortes precoces reduzem fortemente a média de vida masculina. Assim, a alternativa A está correta. A alternativa B sugere que os homens trabalham mais intensamente, o que não se sustenta, já que as mulheres frequentemente acumulam jornada dupla. A C é falsa, pois o Brasil possui o SUS, sistema universal que atende ambos os sexos. A D confunde regras de aposentadoria com longevidade, sem relação causal direta. A E fala em melhores condições físicas das mulheres, o que é genérico e não explica a disparidade tão grande associada às mortes de jovens. Gabarito: A.",
+  "hash": "a55cbc55f4429e1a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q15": {
+  "assunto": "Brasil Império: independência, guerras na Bahia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o texto mostra uma independência que vai além do Grito do Ipiranga e da figura de D. Pedro I. O relato é atribuído a Maria Quitéria, mulher que se disfarçou de soldado para lutar nas guerras de independência na Bahia, entre 1822 e 1823. Ela menciona outras mulheres e um batalhão popular, os Periquitos, combatendo tropas portuguesas que não aceitavam a separação. Isso revela que a emancipação não foi apenas um ato da elite no Sudeste, mas envolveu conflitos armados em várias províncias e a participação de diferentes grupos sociais, inclusive mulheres e camadas populares. Por isso, a alternativa D está correta. A alternativa A erra, pois os combatentes descritos eram voluntários, não um exército profissional. A B contraria o texto, que narra batalhas, e não apenas acordos. A C fala em separatismo no Sul, enquanto a luta citada ocorreu na Bahia e defendia a independência do Brasil. A E não tem apoio no texto, que não discute a herança portuguesa. Gabarito: D.",
+  "hash": "d378387dd024e9d1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q16": {
+  "assunto": "Ética: moral e direito, leis injustas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que ocorre quando moralidade e legalidade não coincidem. O texto distingue moral, ligada ao certo e ao errado, e lei, que é a norma jurídica estabelecida pelo Estado. Em muitos casos elas coincidem, como na proibição de roubar e matar, mas nem sempre. Quando uma lei permite algo moralmente errado, ou proíbe algo moralmente correto, ela passa a ser considerada injusta do ponto de vista moral. Exemplos históricos são as leis que permitiam a escravidão ou a segregação racial. Assim, a discordância entre moralidade e legalidade revela a existência de leis injustas, como afirma a alternativa D. A alternativa A fala em legalidade laica, conceito ligado à separação entre Estado e religião, não à moral. A B descreve justamente o caso de coincidência entre moral e lei. A C também descreve coincidência, pois ações ilegais seriam imorais. A E é confusa, pois não se trata de normas que opõem lei e justiça, mas de leis que se mostram injustas. Gabarito: D.",
+  "hash": "39512b3623cb9d3e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q17": {
+  "assunto": "Trabalho: tecnologia, recrutamento pela internet",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que explica a nova forma de inserção no trabalho descrita no texto: o uso de sites e redes sociais pelas empresas para contratar. O dado central é que 21% das empresas brasileiras recorrem à internet para contratar, índice superior ao de outros países pesquisados. Esse fenômeno só é possível graças às inovações tecnológicas, especialmente o advento da internet e das redes sociais, que transformaram também os processos de recrutamento. Assim, a alternativa A está correta. A alternativa B pode até ser uma consequência, mas o texto não menciona redução de custos como causa. A C fala em urgência de ocupação das vagas, ideia ausente no texto. A D trata de expansão de postos de trabalho, informação que a pesquisa não apresenta. A E exagera ao afirmar que o perfil atual exige pleno domínio das ferramentas virtuais, generalização que o texto não sustenta. Gabarito: A.",
+  "hash": "c59edb0e9d12a594",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q18": {
+  "assunto": "Espaço agrário: relação campo-cidade, agroindústria",
+  "dificuldade": 4,
+  "explicacao": "A questão pede um exemplo das relações entre espaços diversos discutidas por Milton Santos. O autor afirma que, para entender a realidade global, é preciso compreender o arranjo particular de cada região, pois um mesmo elemento, como um banco, um shopping ou uma casa de insumos agrícolas, produz impactos diferentes em lugares distintos. Ele valoriza, portanto, as articulações entre espaços. A alternativa A dá um exemplo dessas relações: o espaço rural atual se desvincula da produção voltada ao autoconsumo e se articula fortemente à indústria, como nos complexos agroindustriais, integração que se intensificou a partir da segunda metade do século XX. As alternativas B, D e E erram ao falar em desarticulação, ideia oposta à relação entre espaços proposta pelo autor; a D ainda inverte a subordinação técnica do campo à cidade. A C descreve de forma equivocada a cidade medieval, que, na verdade, era vista como espaço de liberdade diante das relações servis do feudo. Gabarito: A.",
+  "hash": "0025291776403f8a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q19": {
+  "assunto": "América: conquista, dominação cultural",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o significado do ato de nomear e renomear terras durante a conquista da América. Na carta, Colombo relata que deu às ilhas nomes como San Salvador, Santa Maria de Concepción, Fernandina e Isabela, mesmo sabendo que os indígenas já chamavam uma delas de Guanaani. Os novos nomes homenageiam figuras religiosas e os reis da Espanha. Ao substituir os nomes nativos, o europeu declarava simbolicamente a posse do território e impunha sua religião, sua língua e sua cultura, apagando a identidade dos povos locais. Esse é o argumento de Todorov sobre a relação do conquistador com o outro. Por isso, a alternativa C está correta. A alternativa A fala em valorização da natureza, o que não explica a troca de nomes. A B erra, pois renomear não favorecia a comunicação com os indígenas, ao contrário. A D atribui à nomeação um caráter de paraíso terrestre não indicado no texto. A E reduz o ato a uma necessidade cartográfica, ignorando seu sentido de dominação. Gabarito: C.",
+  "hash": "9d16224ec195cc98",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q20": {
+  "assunto": "Meios de comunicação e indústria cultural: internet, tecnologia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como deve ser entendido o pensamento de um blogueiro que usa a internet como veículo de informação crítica. O texto de Nicholas Carr mostra que as ferramentas se tornam extensões do corpo e da mente humana, como o martelo para o carpinteiro. A internet, nesse sentido, amplia o alcance das ideias de quem escreve. Quando um blogueiro publica uma análise crítica, seu pensamento deixa de ser apenas individual e pode gerar efeitos sociais, à medida que é lido, compartilhado e reconhecido pelos usuários da rede. Por isso, a alternativa D está correta. A alternativa A fala em perda da noção de pertencimento, o que contraria a ideia de inserção social pela rede. A B afirma repercussão coletiva limitada, quando a internet tende a ampliar o alcance. A C diz que o discurso estaria desvinculado da realidade, o que não combina com a informação crítica. A E restringe o público a um alvo pontual e planejado, o que não caracteriza a circulação aberta na rede. Gabarito: D.",
+  "hash": "7d05de127c849521",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q21": {
+  "assunto": "Meios de comunicação e indústria cultural: publicidade, consumismo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um dos objetivos dos meios de comunicação usados pelas empresas para vender produtos. Segundo o sociólogo Don Slater, citado no texto, as pessoas compram versões mais caras de um produto não por seu valor de uso, mas pelo status e pela exclusividade que a marca representa. A publicidade explora esse desejo, associando produtos a prestígio, felicidade e pertencimento a grupos. Com isso, estimula o consumo em larga escala e padroniza desejos e comportamentos, gerando uma atitude consumista massificadora, como afirma a alternativa D. A alternativa A erra, pois a propaganda transmite valores e ideologias, em vez de livrar as pessoas delas. A B é oposta ao objetivo publicitário, que não busca estimular a reflexão crítica sobre o consumo. A C contraria o texto, já que a publicidade se apoia justamente em modismos. A E também é incorreta, pois a indústria cultural incentiva a preocupação com estilos e marcas. Gabarito: D.",
+  "hash": "a3e1734dcb7ead87",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q22": {
+  "assunto": "Globalização: crise do euro, reestruturação produtiva",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como a crise da zona do euro afeta o trabalho e a produção. O texto informa que a França eliminou o limite de 35 horas semanais em busca de competitividade, que as empresas endureceram as negociações com sindicatos para cortar gastos com mão de obra e que os países mais afetados têm alto custo de trabalho e baixa produtividade. Todos esses elementos apontam para a necessidade de reestruturar empresas para reduzir custos de produção, o que confirma a alternativa A. A alternativa B fala em transferência de recursos para países mais viáveis, tema que o texto não aborda. A C contraria o trecho, pois as empresas estão enfrentando os sindicatos, e não sendo aprimoradas por eles. A D inverte a informação, já que a França eliminou o limite de horas, o que tende a aumentar a jornada. A E cita redução de investimento em capacitação, medida não mencionada no texto. Gabarito: A.",
+  "hash": "9f0e4d578acc93c5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q23": {
+  "assunto": "Cultura e sociedade: capoeira, patrimônio imaterial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que representa a prática da capoeira nas escolas. O texto mostra que a capoeira está cada vez mais presente no ambiente escolar, seja nos intervalos, seja nos currículos, e o enunciado lembra que ela foi registrada pelo IPHAN como patrimônio cultural imaterial. De origem afro-brasileira, a capoeira reúne luta, dança, música e tradição oral, sendo praticada em roda, de forma coletiva. Na escola, ela valoriza a cultura popular, aproxima alunos de diferentes origens e favorece a convivência, o respeito e a integração. Por isso, a alternativa A está correta. A alternativa B é falsa, pois nada na prática da capoeira contraria o Estatuto da Criança e do Adolescente. A C erra ao desvincular a capoeira da cultura popular, da qual ela é expressão. A D fala em movimento apenas teórico, sem prática coletiva, o oposto da roda de capoeira. A E nega o vínculo identitário e cultural, justamente o que levou ao seu reconhecimento como patrimônio. Gabarito: A.",
+  "hash": "b3de01d938d630f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q24": {
+  "assunto": "Filosofia política: democracia e tecnocracia",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que pressupõe o exercício pleno da democracia segundo Norberto Bobbio. O autor afirma que tecnocracia e democracia são antitéticas. Na tecnocracia, só decidem os especialistas que detêm conhecimentos específicos; na democracia, parte-se da hipótese de que todos podem decidir a respeito de tudo. Portanto, a democracia plena exige que as decisões sejam tomadas com base no princípio democrático, garantindo a todos o direito de opinar sobre qualquer assunto, como afirma a alternativa A. A alternativa B descreve exatamente a tecnocracia, oposta à democracia. A C diz que a democracia se confunde com a especialização, contrariando a antítese apresentada pelo autor. A D limita a participação de cada um à sua especialidade, o que também restringe a democracia. A E coloca o conhecimento técnico como critério de julgamento, retomando a lógica tecnocrática. Gabarito: A.",
+  "hash": "42f7df35d5b2923a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q25": {
+  "assunto": "Cidadania e direitos: conceito de família, diversidade sexual",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a comparação entre o conceito de família no Código Civil de 1916 e na Lei Maria da Penha, de 2006. O texto I mostra um modelo patriarcal: o marido é o chefe da sociedade conjugal, e a mulher apenas colabora. O texto II define família de modo muito mais amplo, como comunidade de pessoas unidas por laços naturais, por afinidade ou por vontade expressa, e afirma que essas relações independem de orientação sexual. Isso significa que a lei reconhece, no âmbito da proteção contra a violência doméstica, as uniões homoafetivas como família, constituindo um marco legal importante para os movimentos pela diversidade sexual. Por isso, a alternativa A está correta. A alternativa B erra, pois a lei de 2006 não mantém o homem como chefe da família. A C afirma que se confirma o modelo homem, mulher e filhos, o que o texto II supera. A D fala em reforço dos papéis tradicionais de gênero, o contrário do que ocorre. A E atribui à lei a ideia de estabilidade social, que não aparece nos textos. Gabarito: A.",
+  "hash": "3898e2f6bb79f437",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q26": {
+  "assunto": "História da África e afro-brasileira: capoeira, criminalização e valorização",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a razão da mudança de tratamento dado à capoeira, comparando o Código Penal de 1890, que a criminalizava, com seu reconhecimento atual como patrimônio cultural. O artigo 402 incluía a capoeiragem no capítulo dos vadios e capoeiras, prevendo prisão e agravando a pena para quem pertencesse a maltas. Logo após a abolição, a elite republicana via as práticas de origem africana como ameaça à ordem e buscava controlar a população negra. Ao longo do século XX, sobretudo a partir da Era Vargas e depois com o registro pelo IPHAN, a capoeira passou a ser valorizada como expressão da cultura nacional. Essa mudança reflete a legitimação da contribuição negra como componente fundamental da cultura brasileira, como afirma a alternativa D. A alternativa A reduz a mudança a uma questão de mercado de trabalho. A B é falsa, pois a capoeira continua sendo elemento identitário. A C exagera ao dizer que a capoeira foi fundamental para a abolição. A E erra ao tratar os negros como etnia minoritária no Brasil. Gabarito: D.",
+  "hash": "5f6bff768a635efb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q27": {
+  "assunto": "Filosofia moderna: Descartes, dúvida metódica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que indica o procedimento da dúvida metódica de Descartes. No trecho, o filósofo afirma que deve rejeitar tudo o que apresentar o menor motivo de dúvida, tratando o duvidoso como se fosse falso. O objetivo não é permanecer na dúvida, mas encontrar uma verdade indubitável, que acaba sendo o cogito, penso, logo existo, a partir da qual se reconstrói o conhecimento. Esse procedimento rompe com a tradição escolástica medieval, baseada na autoridade de Aristóteles e de Tomás de Aquino, e inaugura a filosofia moderna centrada na razão do sujeito. Por isso, a alternativa C está correta. A alternativa A erra, pois as ideias claras e distintas são justamente o critério de certeza, não objeto de dúvida. A B confunde a dúvida metódica com o ceticismo, que Descartes pretende superar. A D contraria o filósofo, que desconfia dos sentidos. A E inverte o sentido, já que o método se opõe à tradição escolástica em vez de consolidá-la. Gabarito: C.",
+  "hash": "004b5d7184ad240e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q28": {
+  "assunto": "Trabalho: qualificação profissional, renda",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um fator que explique a queda de renda dos trabalhadores norte-americanos citados no texto. O grupo afetado é formado por homens de 25 a 64 anos sem diploma universitário, cuja renda caiu 20% em cinco anos. O texto conclui que o dinamismo e a mudança rápida da economia depreciaram as habilidades de parte dos trabalhadores, ou seja, as novas atividades exigem mais qualificação, e quem tem menos formação encontra dificuldade para se inserir em vagas bem remuneradas. Isso confirma a alternativa C. A alternativa A fala em interferência do Estado privilegiando diplomados, o que o texto não menciona. A B cita importação de mão de obra de países emergentes, ideia ausente no trecho. A D associa a contratação de qualificados a financiamento estatal, relação inventada. A E relaciona a queda de renda a reformas na saúde, assunto que não aparece no texto. Gabarito: C.",
+  "hash": "afd197d7af834406",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q29": {
+  "assunto": "Espaço agrário: modernização, concentração fundiária",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o impacto da modernização agrícola, descrita no texto, sobre a pequena produção. O trecho mostra novas técnicas, insumos químicos, sementes melhoradas e mecanização, que aumentaram a produtividade e dispensaram grande parte do trabalho manual. Esse pacote tecnológico, característico da Revolução Verde, é caro e favorece grandes proprietários com acesso a crédito. Os pequenos produtores, sem capital para competir, muitas vezes se endividaram, venderam suas terras ou migraram, enquanto a mecanização reduziu empregos no campo. O resultado foi o aumento da riqueza de poucos, a concentração fundiária e a intensificação da pobreza rural, como afirma a alternativa A. A alternativa B erra, pois o agronegócio desse modelo não se baseia no uso sustentável da terra. A C fala em redistribuição de terras, o oposto do que ocorreu. A D contraria o êxodo rural provocado pela modernização. A E idealiza uma integração com a agricultura orgânica que não decorre das inovações descritas. Gabarito: A.",
+  "hash": "18b38e92d1330cb4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q30": {
+  "assunto": "Brasil Império: escravidão, repressão às fugas",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o aspecto do escravismo brasileiro revelado pelo anúncio de fuga do escravo Severino, publicado em 1880. O texto descreve detalhadamente as características físicas do fugitivo, suas roupas e armas, e oferece uma gratificação de 100 mil-réis a quem o capturar e devolvê-lo ao senhor ou o entregar a qualquer cadeia da província. Isso mostra que a fuga era tratada como crime e que havia uma rede de repressão envolvendo senhores, capitães do mato e o próprio aparato estatal, como as cadeias. Por isso, a alternativa B está correta. A alternativa A trata de alforrias, tema ausente no anúncio. A C fala do movimento abolicionista, que não é mencionado no texto. A D interpreta a busca como paternalismo, quando o anúncio revela interesse econômico e controle. A E aborda os quilombos, que também não aparecem no documento. Gabarito: B.",
+  "hash": "8f7ba418a1b3a2c4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q31": {
+  "assunto": "Meios de comunicação e indústria cultural: televisão, consumo cultural",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que resultaria em alternativas ao tipo de consumo cultural mostrado nas tiras do Garfield. Nas tirinhas, o personagem aparece consumindo televisão de forma passiva e repetitiva, o que satiriza a programação massificada da indústria cultural e a dependência do espectador em relação a ela. Para romper com esse padrão, seria necessário ampliar o acesso das pessoas a outras formas de produção cultural, como teatro, cinema, literatura, música e museus, permitindo escolhas mais diversificadas. Isso corresponde à democratização do acesso a outras esferas culturais, como afirma a alternativa A. A alternativa B mantém a centralidade da televisão, apenas mudando o conteúdo. A C propõe censura, que restringe em vez de ampliar a cultura. A D apenas troca a TV aberta pela fechada, mantendo o mesmo tipo de consumo. A E também não amplia o acesso cultural, limitando-se a uma pauta moral religiosa. Gabarito: A.",
+  "hash": "85fd6daf5205da46",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q32": {
+  "assunto": "Mundo contemporâneo: Guerra Civil Espanhola, antifascismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma consequência da Guerra Civil Espanhola (1936-1939), apesar da derrota das forças republicanas. O cartaz traz um lema republicano, como o famoso No pasarán, usado na resistência às tropas do general Franco. O conflito opôs republicanos, apoiados por brigadas internacionais de voluntários e pela União Soviética, aos nacionalistas franquistas, apoiados pela Alemanha nazista e pela Itália fascista. A guerra teve enorme repercussão mundial: intelectuais e artistas denunciaram as atrocidades, como o bombardeio de Guernica retratado por Picasso, e a luta tornou-se símbolo do combate ao fascismo. Assim, a alternativa E está correta. A alternativa A erra, pois as tendências autoritárias cresceram na Europa nesse período. A B é falsa, já que a Liga das Nações mostrou-se impotente. A C contraria os fatos, pois a Segunda Guerra Mundial começou em 1939. A D ignora as relações da Espanha franquista com Alemanha e Itália. Gabarito: E.",
+  "hash": "6bf5381286f666d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q33": {
+  "assunto": "Questões ambientais: desenvolvimento e preservação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a contradição presente nos sistemas de organização social apontada pelo texto. O autor afirma que o mundo cresceu em produção e consumo, mas também em degradação ambiental, desigualdades sociais e impactos sobre os sistemas de suporte à vida. Ou seja, o modelo de desenvolvimento busca crescer economicamente, mas esse crescimento ameaça os recursos naturais dos quais a própria sociedade depende. A contradição central está, portanto, entre a necessidade de crescimento econômico e a de preservação ambiental, como afirma a alternativa B. A alternativa A inverte a relação, pois são as atividades humanas que dependem da natureza. A C fala em dissociação entre a sociedade e as outras formas de vida, ideia que não explica a contradição apontada. A D descreve etapas do processo produtivo, sem expressar uma contradição. A E afirma uma incompatibilidade entre vida e planeta, generalização que o texto não sustenta. Gabarito: B.",
+  "hash": "5042821e0b37de93",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q34": {
+  "assunto": "Brasil Império: agricultura, técnicas arcaicas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a razão apontada, no fim do século XIX, para a suposta crise da agricultura brasileira. No trecho de 1870, Burlamaque critica o uso da enxada na grande lavoura, comparando-o a tentar cortar uma grande pedra com um prego. Para ele, esse instrumento mal arranha a terra e esgota o trabalhador, o que revela uma agricultura baseada em técnicas rudimentares e no trabalho braçal, herança do sistema escravista. O discurso modernizador da época defendia o uso de arados, máquinas e métodos científicos. Por isso, a alternativa A, manutenção de métodos arcaicos de produção, está correta. A alternativa B erra, pois a economia brasileira ainda era predominantemente agrária, não subordinada à indústria. A C não aparece no texto, que não trata de imigrantes. A D contraria a realidade do período, dominado por grandes propriedades. A E fala em diversificação, enquanto a agricultura era marcada pela monocultura de exportação. Gabarito: A.",
+  "hash": "65a626fc91cba778",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q35": {
+  "assunto": "Biomas e vegetação: Caatinga, semiárido",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a vegetação que domina o ambiente natural do vaqueiro nordestino descrito no texto. O trecho situa o vaqueiro no Sertão, um peneplano de rochas cristalinas, sujeito a secas causticantes e chuvas torrenciais e concentradas. Esse ambiente corresponde ao domínio da Caatinga, de clima tropical semiárido. Sua vegetação é xerófita, adaptada à escassez de água, com cactáceas como mandacaru e xique-xique, bromeliáceas e algumas palmáceas, sobre solos geralmente rasos, pedregosos ou arenosos e por vezes salinos. Por isso, a alternativa E está correta. A alternativa A descreve o Agreste, faixa de transição mais úmida associada à Borborema. A B descreve o Cerrado, com solos profundos e ácidos. A C refere-se à Zona da Mata, de solos de massapé e latifúndios canavieiros. A D trata da Mata dos Cocais, típica do Meio-Norte, com babaçu e carnaúba. Gabarito: E.",
+  "hash": "ab3ca6a3e439b891",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q36": {
+  "assunto": "Espaço agrário: Revolução Verde, biotecnologia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma implicação da Revolução Verde e de seus desdobramentos biotecnológicos. O texto de Porto-Gonçalves afirma que, à medida que o componente técnico-científico se torna mais importante na produção agrícola, cresce o poder das indústrias de alta tecnologia, que passam a comandar a normatização. Isso significa que sementes híbridas, transgênicos e insumos são controlados por poucas grandes empresas, que detêm patentes e cobram royalties dos agricultores, criando dependência. Trata-se da formação de monopólios técnico-produtivos associados às patentes, como afirma a alternativa A. A alternativa B fala em transformação social, o que o texto não sugere, já que o processo concentra poder. A C idealiza a Revolução Verde como apoio aos pequenos agricultores, que foram em geral prejudicados. A D atribui ao processo o objetivo de atenuar impactos da monocultura, que na verdade se ampliaram. A E reduz o processo a uma ação educativa, ignorando seu caráter econômico e político. Gabarito: A.",
+  "hash": "20f1439a37770bfe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q37": {
+  "assunto": "Cultura e sociedade: patrimônio imaterial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como se expressa a concepção de patrimônio imaterial. O texto critica a abordagem do patrimônio centrada apenas na conservação técnica de bens materiais, a chamada visão de pedra e cal, e defende que a preservação é uma prática social que envolve dimensões simbólicas ligadas à identidade, à ação e à memória dos grupos sociais. O patrimônio imaterial inclui saberes, celebrações, formas de expressão e lugares de práticas coletivas, como o modo de fazer o acarajé, o frevo ou o samba de roda, transmitidos entre gerações e constantemente recriados pelas comunidades. Por isso, a alternativa D está correta. As alternativas A, B, C e E tratam de bens materiais, como sítios arqueológicos, imóveis tombados, monumentos, livros, pinturas e esculturas, que fazem parte do patrimônio material, e não do imaterial. Gabarito: D.",
+  "hash": "115a691df92d71dd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q38": {
+  "assunto": "Questões ambientais: desenvolvimento sustentável",
+  "dificuldade": 1,
+  "explicacao": "A questão pede em que deve se pautar o desenvolvimento para alcançar a sustentabilidade ambiental. O texto de José Eli da Veiga afirma que o desenvolvimento só será sustentável quando a pegada ecológica mundial não ultrapassar a capacidade de regeneração da biosfera, e que todos os setores da economia precisam ser sustentáveis. Esse raciocínio retoma o conceito clássico do Relatório Brundtland, de 1987: desenvolvimento sustentável é aquele que satisfaz as necessidades da geração atual sem comprometer a capacidade das gerações futuras de satisfazer as suas. Por isso, a alternativa C está correta. A alternativa A trata de jornada de trabalho, tema alheio ao texto. A B aborda distribuição de renda e cooperativismo, que não definem a sustentabilidade ambiental. A D incentiva consumo e alta produtividade, o que aumentaria a pegada ecológica. A E reduz a questão aos lucros atuais, ideia que o texto não apresenta. Gabarito: C.",
+  "hash": "400360c03665f7b9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q39": {
+  "assunto": "Filosofia moderna: Iluminismo, razão crítica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o Iluminismo propõe ao criticar valores sustentados pela autoridade. O texto destaca que a crítica é característica central das Luzes, que recusam verdades impostas por autoridades e submetem tudo ao crivo da razão. Os iluministas, como Voltaire, Diderot e Kant, combatiam a intolerância religiosa, as superstições e o absolutismo, defendendo a razão, a ciência, a liberdade de pensamento e direitos do cidadão. Kant resumiu esse espírito no lema ouse saber. Por isso, a alternativa E está correta. A alternativa A erra, pois os enciclopedistas criticavam o ideário religioso tradicional, em vez de mantê-lo. A B fala em isenção política, quando o Iluminismo era fortemente engajado em questões políticas e sociais. A C associa o movimento à centralização política, o oposto da crítica ao absolutismo. A D defende a manutenção da metafísica tradicional, algo que a crítica iluminista questionava. Gabarito: E.",
+  "hash": "b3e82efbf3d88354",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q40": {
+  "assunto": "Ditadura militar: Lei de Anistia, memória",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que revelam as posições opostas dos dois textos sobre a Lei de Anistia de 1979. O texto I interpreta a anistia como concessão do regime militar, uma manobra para reduzir a pressão da oposição e proteger os agentes da repressão de futuras revisões do passado. O texto II, de Therezinha Zerbini, líder do Movimento Feminino pela Anistia, afirma que a anistia foi conquista da luta popular e não deve ser revista. O debate, intensificado com a redemocratização, a criação da Comissão da Verdade e as discussões sobre punição de torturadores, mostra que a sociedade reflete criticamente sobre seu passado ditatorial em função de um novo cenário político. Por isso, a alternativa E está correta. A alternativa A fala em retomada da ditadura, o que nenhum texto defende. A B menciona valorização da luta armada, tema ausente. A C sugere relativização dos direitos humanos, sem base nos textos. A D adota uma visão parcial sobre terrorismo de esquerda, que não aparece nos fragmentos. Gabarito: E.",
+  "hash": "03aa8f0b2ac1ad01",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q41": {
+  "assunto": "Questões ambientais: desmatamento, colonização do Sul",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como era a relação dos colonos imigrantes com os ecossistemas na ocupação do Sul do Brasil. O texto I mostra que os imigrantes se sentiam escravos da floresta virgem e precisavam vencê-la para não serem vencidos por ela, ou seja, a mata era vista como obstáculo a ser derrubado. O texto II descreve as consequências: uma corrida para a mata virgem, o desmatamento progressivo da encosta da serra, restando apenas trechos imprestáveis e matos secundários. Fica clara a necessidade de ocupar e explorar a natureza sem considerar os danos ambientais, como afirma a alternativa A. A alternativa B erra ao falar em uso sustentável da terra. A C atribui o impacto especificamente à mata de araucária e à chegada de alemães e poloneses, informação que os textos não trazem. A D cita a pecuária, enquanto os textos tratam da agricultura colonial. A E nega os danos permanentes, contrariando o texto II. Gabarito: A.",
+  "hash": "5615ddb78aa62055",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q42": {
+  "assunto": "Desigualdade social: concentração de renda",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a característica socioeconômica evidenciada pelos dados do PNUD. Segundo o texto, os 20% mais ricos da população mundial detinham 82,7% da renda, enquanto os 20% mais pobres tinham apenas 1,4%. Quatro anos depois, a parcela dos mais ricos subiu para 85%. Esses números mostram uma enorme desigualdade e uma tendência de aumento da parcela de riqueza nas mãos de poucos, ou seja, concentração de renda, como afirma a alternativa B. A alternativa A diz o oposto, pois não há homogeneidade social. A C fala em desemprego estrutural, que o texto não menciona. A D trata de crescimento macroeconômico, dado que não aparece no trecho. A E refere-se à expansão populacional, também ausente das informações apresentadas. Gabarito: B.",
+  "hash": "9d9f48220cc798a2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q43": {
+  "assunto": "Urbanização: ilha de calor, poluição do ar",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o problema ambiental que caracteriza o aumento da temperatura nas áreas urbanas. O texto trata da poluição do ar nas grandes cidades, mas o enunciado foca no aquecimento urbano. A ilha de calor é o fenômeno em que o centro das cidades apresenta temperaturas mais altas que as áreas vizinhas, por causa da grande concentração de asfalto e concreto, que absorvem e liberam calor, da escassez de vegetação e de água, do calor emitido por veículos e indústrias e da poluição, que retém parte da radiação. Por isso, a alternativa A está correta. A alternativa B, inversão térmica, é a retenção de ar frio e poluído perto do solo, comum no inverno, e não caracteriza aquecimento urbano. A C, efeito estufa, é um fenômeno global, não específico das cidades. A D, rarefação da camada de ozônio, refere-se à estratosfera e à radiação ultravioleta. A E, chuva ácida, está ligada à poluição, mas não ao aumento local de temperatura. Gabarito: A.",
+  "hash": "c96af4ec1fc8dcd0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q44": {
+  "assunto": "História da África e afro-brasileira: culinária, feijoada",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a atividade a que o texto associa a criação da feijoada no Brasil. O trecho de Câmara Cascudo afirma que o prato tem origem no Norte de Portugal, preparado com feijão branco ou vermelho, e que no Brasil os negros faziam uma mistura de feijões pretos com vários tipos de carne de porco e de boi. A explicação tradicional, retomada pela alternativa D, associa essa criação à atividade culinária realizada pelos escravizados, que aproveitariam partes menos nobres e sobras das carnes da cozinha dos senhores. Assim, a alternativa D corresponde à leitura esperada pelo texto. As alternativas A e E atribuem a origem a atividades mercantis ou comerciais, como tropeiros e cavaleiros do Sul, que o texto não menciona. A B fala em trabalhadores do campo em geral, sem relação com o trecho. A C cita a mineração do ouro, também ausente do texto. Gabarito: D.",
+  "hash": "077d5b520129f32f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q45": {
+  "assunto": "Clima: climograma, clima equatorial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de clima representado pelo climograma, que relaciona precipitação e temperatura ao longo do ano. No gráfico, a temperatura média permanece elevada em todos os meses, em torno de 26 °C, com variação muito pequena entre o mês mais quente e o mais frio, ou seja, baixa amplitude térmica anual. As chuvas ocorrem em todos os meses, com totais elevados, ainda que com alguns meses mais chuvosos. Essas características são típicas do clima equatorial, presente na Amazônia, marcado por calor constante e alta umidade. Por isso, a alternativa C está correta. A alternativa A descreve o clima tropical, que tem estação seca bem definida e amplitude maior. A B e a D descrevem climas temperado e subtropical, com invernos frios e grande amplitude térmica, o que não aparece no gráfico. A E trata do tropical de altitude, com temperaturas médias mais baixas, incompatíveis com os valores mostrados. Gabarito: C.",
+  "hash": "e419e1d0174199a9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q46": {
+  "assunto": "Fisiologia humana: ciclo menstrual, hormônios",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a identificação do hormônio X, liberado pela hipófise por estímulo do GnRH no início do ciclo menstrual. O hipotálamo produz o GnRH, que estimula a adeno-hipófise a liberar duas gonadotrofinas: FSH e LH. No início do ciclo, o FSH, hormônio folículo estimulante, promove o crescimento e o amadurecimento dos folículos ovarianos: estimula o desenvolvimento do ovócito primário, a proliferação das células foliculares, a formação da zona pelúcida e da teca folicular. Essas são exatamente as funções descritas no enunciado, o que confirma a alternativa D. A alternativa A, estrogênio, é produzida pelos próprios folículos em resposta ao FSH, não pela hipófise. A B, progesterona, é secretada pelo corpo lúteo após a ovulação. A C, LH, atua principalmente no pico que provoca a ovulação e na formação do corpo lúteo. A E, HCG, é produzido pela placenta na gravidez. Gabarito: D.",
+  "hash": "7e874bb4a631d529",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q47": {
+  "assunto": "Eletromagnetismo: transformadores",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a função do transformador em uma cerca elétrica. Um transformador ideal conserva a potência: P = U₁·i₁ = U₂·i₂. Na cerca elétrica, o objetivo é aplicar uma tensão muito alta, capaz de causar um choque que assuste, mas com corrente pequena, que não seja letal. Para isso, o transformador eleva a tensão no secundário; como a potência se conserva, se U₂ aumenta, i₂ diminui na mesma proporção. Por exemplo, se a tensão for multiplicada por 100, a corrente fica dividida por 100. Assim, o transformador reduz a intensidade de corrente no secundário, como afirma a alternativa A. As alternativas B e C erram porque o transformador não aumenta potência nem amplifica energia, o que violaria a conservação de energia. As alternativas D e E tratam as perdas como função do dispositivo, quando perdas são indesejáveis e, no transformador ideal, desprezíveis. Gabarito: A.",
+  "hash": "32c37692fa73aff6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q48": {
+  "assunto": "Química orgânica: polímeros de condensação, poliamidas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tipo de polímero que, ao ser decomposto, gera a diamina H₂N(CH₂)₆NH₂, a hexametilenodiamina, e o diácido HO₂C(CH₂)₄CO₂H, o ácido adípico. Esses dois monômeros reagem por condensação: o grupo amina (–NH₂) de um reage com o grupo carboxila (–COOH) do outro, liberando H₂O e formando a ligação amida (–CO–NH–). A repetição dessa reação produz uma poliamida, no caso o náilon 6,6. Assim, a decomposição do artefato regenera esses monômeros, confirmando a alternativa B. A alternativa A, poliéster, exigiria um diálcool no lugar da diamina, formando ligações éster. As alternativas C e E, polietileno e polipropileno, são polímeros de adição formados a partir de alcenos, sem nitrogênio ou oxigênio. A D, poliacrilato, também é polímero de adição, derivado de ésteres do ácido acrílico. Gabarito: B.",
+  "hash": "11b7100d9a61fb2a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q49": {
+  "assunto": "Ondulatória: ondas estacionárias, pressão sonora",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a origem da força que equilibra o peso do objeto no levitador acústico. O transdutor emite ondas sonoras que são refletidas pelo refletor côncavo. A superposição da onda emitida com a refletida forma ondas estacionárias, com regiões de pressão máxima e mínima. O objeto fica preso perto de um nó de pressão, onde a pressão sonora abaixo dele é maior do que acima, gerando uma força resultante para cima que equilibra o peso. Assim, a sustentação decorre da diferença de pressão dos sons emitido e refletido aplicada no objeto, como afirma a alternativa E. A alternativa A erra, pois o transdutor não toca o objeto. A B fala em ressonância com o objeto, que não é o mecanismo da levitação. A C considera apenas a pressão do som emitido, ignorando o papel do refletor. A D afirma que a interferência anula o movimento, mas a levitação exige uma força que equilibre o peso, não simples anulação. Gabarito: E.",
+  "hash": "d9a4b5b3d277a15b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q50": {
+  "assunto": "Óptica: espelhos esféricos, espelho convexo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de espelho esférico representado na gravura de Escher, conhecida como mão com esfera refletora. Na imagem, o artista segura uma esfera espelhada e vê nela sua própria imagem e a do ambiente ao redor, todas direitas, reduzidas e com amplo campo de visão. Esse comportamento é típico do espelho convexo: para qualquer posição do objeto, a imagem é virtual, direita e menor, formada pelo prolongamento dos raios refletidos atrás do espelho. Por isso, a alternativa A está correta. A alternativa B erra ao classificar o espelho como côncavo; nesse espelho, imagens direitas surgiriam ampliadas. A C também fala em côncavo e em pequeno campo de visão, quando o convexo amplia o campo visual. A D acerta o tipo de espelho, mas justifica errado, pois imagens formadas pelo cruzamento dos raios seriam reais, não virtuais. A E afirma que todas as imagens seriam reais, o que não ocorre. Gabarito: A.",
+  "hash": "0efe234ce3d62788",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
