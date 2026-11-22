@@ -348,5 +348,285 @@
   "explicacao": "A questão pede o tipo de espelho esférico representado na gravura de Escher, conhecida como mão com esfera refletora. Na imagem, o artista segura uma esfera espelhada e vê nela sua própria imagem e a do ambiente ao redor, todas direitas, reduzidas e com amplo campo de visão. Esse comportamento é típico do espelho convexo: para qualquer posição do objeto, a imagem é virtual, direita e menor, formada pelo prolongamento dos raios refletidos atrás do espelho. Por isso, a alternativa A está correta. A alternativa B erra ao classificar o espelho como côncavo; nesse espelho, imagens direitas surgiriam ampliadas. A C também fala em côncavo e em pequeno campo de visão, quando o convexo amplia o campo visual. A D acerta o tipo de espelho, mas justifica errado, pois imagens formadas pelo cruzamento dos raios seriam reais, não virtuais. A E afirma que todas as imagens seriam reais, o que não ocorre. Gabarito: A.",
   "hash": "0efe234ce3d62788",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q51": {
+  "assunto": "Funções inorgânicas: óxidos, correção de acidez do solo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o óxido adequado para corrigir a acidez do solo, formando uma base pouco solúvel em água, para reduzir a perda de nutrientes por arraste. Para neutralizar ácidos, é preciso um óxido básico, isto é, um óxido de metal que reage com água formando base. Entre os listados, apenas CaO e Na₂O são óxidos básicos. O CaO, cal virgem, reage com água: CaO + H₂O → Ca(OH)₂, e o hidróxido de cálcio é pouco solúvel, permanecendo no solo e neutralizando a acidez gradualmente. Esse é o princípio da calagem. Por isso, a alternativa D está correta. A alternativa E, Na₂O, também é básico, mas forma NaOH, base muito solúvel, que seria facilmente arrastada e ainda salinizaria o solo. A alternativa A, NO, é um óxido neutro. As alternativas B e C, CO₂ e SO₂, são óxidos ácidos e aumentariam a acidez do solo. Gabarito: D.",
+  "hash": "4dadaa0400e61cc5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q52": {
+  "assunto": "Ligações químicas: regra do octeto, octeto expandido",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a molécula com octeto expandido, isto é, cujo átomo central fica com mais de oito elétrons na camada de valência. No PCl₅, o fósforo, do terceiro período, tem cinco elétrons de valência e forma cinco ligações covalentes com átomos de cloro. Assim, fica com 5 × 2 = 10 elétrons ao seu redor, o que só é possível porque possui orbitais d disponíveis. Por isso, a alternativa C está correta. A alternativa A, BF₃, tem o boro com apenas 6 elétrons, um caso de octeto incompleto. A B, NH₃, é um exemplo comum de octeto completo: três ligações e um par isolado no nitrogênio. A D, BeH₂, deixa o berílio com apenas 4 elétrons, também octeto incompleto. A E, AlI₃, tem o alumínio com 6 elétrons na molécula isolada, outro caso de octeto incompleto. Gabarito: C.",
+  "hash": "8a7bbc4beb5cee92",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q53": {
+  "assunto": "Ligações químicas: compostos iônicos, propriedades",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual substância do quadro tem as propriedades do cloreto de sódio, um composto iônico. Compostos iônicos apresentam temperaturas de fusão e ebulição elevadas, costumam ser solúveis em água e conduzem corrente elétrica quando dissolvidos ou fundidos, porque os íons ficam livres; no estado sólido, não conduzem, pois os íons estão presos no retículo cristalino. A substância II tem fusão a 801 °C e ebulição a 1 413 °C, é solúvel, conduz em solução e não conduz no estado sólido, exatamente o perfil do NaCl. Por isso, a alternativa B está correta. A substância I, com pontos altíssimos, insolúvel e não condutora, lembra um sólido covalente, como o diamante. A III conduz no estado sólido, o que é típico de metal. A IV também é insolúvel e não conduz, característica de sólido covalente. A V tem pontos de fusão e ebulição baixos e não conduz em solução, perfil de substância molecular. Gabarito: B.",
+  "hash": "9978d34de9b22b30",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q54": {
+  "assunto": "Química ambiental: chuva ácida",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o problema ambiental descrito no texto. O enunciado explica que a água evaporada é pura, mas, ao entrar em contato com óxidos de enxofre e de nitrogênio presentes na atmosfera, fica contaminada e depois precipita trazendo essas substâncias. Esses óxidos reagem com a água formando ácidos, por exemplo SO₃ + H₂O → H₂SO₄ e 2 NO₂ + H₂O → HNO₃ + HNO₂. A precipitação com esses ácidos é a chuva ácida, que corrói monumentos, acidifica solos e lagos e prejudica a vegetação. Por isso, a alternativa A está correta. A alternativa B, poluição do ar, é a causa, mas o fenômeno descrito é a precipitação contaminada. A C, aquecimento global, relaciona-se aos gases de efeito estufa, como CO₂ e CH₄. A D, destruição da camada de ozônio, ligada aos CFCs, não envolve precipitação. A E, eutrofização, é o excesso de nutrientes em corpos d'água. Gabarito: A.",
+  "hash": "c405c95d190af597",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q55": {
+  "assunto": "Química orgânica: funções oxigenadas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as funções orgânicas presentes na vanilina, cuja estrutura aparece na imagem. A vanilina é formada por um anel benzênico com três grupos ligados. O grupo –CHO, carbonila na ponta da cadeia ligada a um hidrogênio, caracteriza a função aldeído. O grupo –OCH₃, oxigênio entre o anel e um carbono, caracteriza a função éter. O grupo –OH ligado diretamente ao anel aromático caracteriza a função fenol, e não álcool, que exigiria a hidroxila em carbono saturado. Portanto, a vanilina tem aldeído, éter e fenol, como afirma a alternativa A. A alternativa B confunde fenol com álcool. A C e a D apontam cetona, que exigiria a carbonila entre dois carbonos. A E inclui ácido carboxílico, que exigiria o grupo –COOH, ausente na molécula. Gabarito: A.",
+  "hash": "8707add09feb88a8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q56": {
+  "assunto": "Química orgânica: fermentação, etanol",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o combustível renovável X obtido pela equação apresentada. A equação representa a fermentação alcoólica da glicose, realizada por leveduras: C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂. O produto X, C₂H₅OH, é o etanol, combustível obtido no Brasil principalmente a partir da cana-de-açúcar e considerado renovável, pois sua matéria-prima é cultivada continuamente. Por isso, a alternativa A está correta. As alternativas B, C e E, butano, propano e gás natural, são hidrocarbonetos de origem fóssil, extraídos do petróleo ou de reservas de gás, e não renováveis. A alternativa D, biodiesel, é renovável, mas é obtido pela transesterificação de óleos e gorduras com álcool, e não pela fermentação de açúcares. Gabarito: A.",
+  "hash": "5394ad587c556534",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q57": {
+  "assunto": "Fisiologia humana: sangue, anemia e oxigenação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a situação em que a radioterapia estaria contraindicada, com base na informação de que tecidos em hipóxia, com baixa oxigenação, exigem doses de radiação 2,5 a 3,5 vezes maiores, o que seria letal. Assim, é preciso identificar a condição que reduz a oxigenação dos tecidos. A anemia é a redução da quantidade de hemácias ou de hemoglobina no sangue, que transporta oxigênio. Com menos hemoglobina, os tecidos recebem menos O₂ e ficam em hipóxia, o que tornaria o tratamento ineficaz ou exigiria dose perigosa. Por isso, a alternativa A está correta. As alternativas B, C e D, basofilia, eosinofilia e linfocitose, indicam aumento de tipos de leucócitos, ligados à defesa do organismo, não ao transporte de oxigênio. A E, leucopenia, é a redução de leucócitos, que afeta a imunidade, mas também não interfere diretamente na oxigenação. Gabarito: A.",
+  "hash": "ab75b554a118730f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q58": {
+  "assunto": "Eletrostática: condutores, descargas elétricas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o corpo humano se comporta como condutor nos pequenos choques do tempo seco. Com o ar seco, a pessoa se eletriza por atrito, por exemplo com o banco do carro ou com roupas de seda, acumulando carga. Ao tocar um objeto metálico, essa carga se desloca rapidamente através do corpo até o metal, produzindo a descarga sentida como choque. Isso só é possível porque o corpo, rico em água e íons, permite que uma quantidade líquida de carga se desloque com facilidade, característica de um condutor. Por isso, a alternativa B está correta. A alternativa A exagera, pois o corpo tem resistência elétrica, ainda que relativamente baixa, e não nula. A C descreve um isolante, no qual as cargas se movem com dificuldade. A D inverte a relação, já que uma diferença de potencial maior tende a aumentar o deslocamento de carga. A E sugere uma alternância de comportamento sem base física. Gabarito: B.",
+  "hash": "16065de865bef21a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q59": {
+  "assunto": "Genética: reprodução, hereditariedade",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a importância da reprodução para os seres vivos em condições naturais. Pela reprodução, os organismos geram descendentes e transmitem a eles seu material genético, garantindo que a espécie continue existindo ao longo do tempo e que suas características sejam passadas de geração em geração. Por isso, a alternativa E está correta. A alternativa A erra, pois a reprodução ocorre entre indivíduos da mesma espécie e não transfere características para outras espécies. A B confunde reprodução com duplicação do DNA, que ocorre antes da divisão celular, mas não aumenta a quantidade de DNA por célula ao longo das gerações. A C contraria o conceito de espécie, pois cruzamentos entre espécies diferentes, quando ocorrem, geralmente produzem descendentes estéreis. A D descreve o crescimento por divisão celular, não a função da reprodução. Gabarito: E.",
+  "hash": "929e428c8da89ec5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q60": {
+  "assunto": "Energia e trabalho: usina nuclear, refrigeração",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a característica do Sertão nordestino que impede a instalação de uma usina termonuclear ali. Em uma usina nuclear, a fissão do urânio gera calor que aquece água e produz vapor para mover turbinas. Depois, esse vapor precisa ser condensado, e o reator precisa de refrigeração contínua, o que exige grandes volumes de água, por isso Angra dos Reis foi instalada à beira do mar. O Sertão nordestino tem clima semiárido, rios intermitentes e escassez hídrica, não oferecendo água suficiente para o resfriamento. Assim, a alternativa C está correta. A alternativa A erra, pois o Sertão está sobre escudo cristalino, geologicamente estável. A B, baixo índice de chuvas, relaciona-se ao problema, mas o fator decisivo é a falta de grandes volumes de água disponíveis. A D, movimentação das massas de ar, não é requisito central para a usina. A E, temperaturas elevadas, não impede a operação. Gabarito: C.",
+  "hash": "8a6d3d25d401d47f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q61": {
+  "assunto": "Termologia: máquinas térmicas, ciclo de Carnot",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a solução de Carnot para aumentar a eficiência da máquina a vapor. Carnot mostrou que o rendimento máximo de uma máquina térmica depende das temperaturas das fontes quente e fria: η = 1 − T_fria / T_quente, com temperaturas em kelvin. Quanto maior a temperatura do vapor em relação ao ambiente, maior o rendimento. Para aumentar a temperatura do vapor, aumenta-se a pressão dentro da caldeira mantendo seu volume: pela equação dos gases, pV = nRT, a volume constante, pressão e temperatura crescem juntas, e a água ferve a temperaturas mais altas sob pressão maior. Por isso, a alternativa E está correta. A alternativa A, a pressão constante, reduzir o volume diminuiria a temperatura. As alternativas B e C mantêm o produto pV aproximadamente constante, sem elevar a temperatura. A D reduz a pressão a volume constante, o que diminuiria a temperatura e o rendimento. Gabarito: E.",
+  "hash": "fd15010da7abbd6a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q62": {
+  "assunto": "Equilíbrio químico: hidrólise salina",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] O enunciado traz caracteres corrompidos (\"þ\") no lugar das cargas negativas de CN⁻ e OH⁻. A questão pede o tipo de reação representada pelo equilíbrio CN⁻ + H₂O ⇌ HCN + OH⁻. O NaCN é um sal formado por base forte, NaOH, e ácido fraco, HCN. Em água, o íon cianeto, base conjugada de um ácido fraco, reage com a água, captando um próton e liberando OH⁻. Essa reação de um íon do sal com a água é chamada hidrólise salina, e deixa a solução básica. Por isso, a alternativa B está correta. A alternativa A, síntese, exigiria a formação de um único produto a partir de reagentes. A C, oxirredução, não ocorre, pois não há variação de números de oxidação. A D, precipitação, exigiria a formação de um sólido insolúvel. A E, decomposição, seria a quebra de uma substância em outras mais simples, sem participação da água como reagente. Gabarito: B.",
+  "hash": "eea6a99a24a0a191",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q63": {
+  "assunto": "Eletrodinâmica: associação em série, potência elétrica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as especificações das lâmpadas para obter a máxima potência num conjunto de 44 lâmpadas em série ligado a 220 V, com corrente máxima de 4 A. Em série, a tensão total se divide igualmente entre lâmpadas iguais: U = 220 ÷ 44 = 5 V em cada uma. A corrente é a mesma em todas, e o máximo permitido pela tomada é 4 A. A potência de cada lâmpada, para a máxima iluminação, é P = U × i = 5 × 4 = 20 W. Conferindo: a potência total seria 44 × 20 = 880 W, igual a 220 × 4 = 880 W. Portanto, a alternativa B, 5 V e 20 W, está correta. A alternativa A, 5 V e 4 W, daria corrente de apenas 0,8 A, com menor potência. A C, 55 V, não corresponde à divisão da tensão entre 44 lâmpadas. As alternativas D e E consideram a tensão total da rede em cada lâmpada, o que só valeria em ligação em paralelo. Gabarito: B.",
+  "hash": "72efa7432a70b9ce",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q64": {
+  "assunto": "Genética: sistema ABO, probabilidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a probabilidade de o casal ter uma menina que possa doar sangue a todos os irmãos, que são dos grupos A, B e O. Primeiro, descobrimos os genótipos dos pais. Se há um filho O (ii), cada genitor tem um alelo i. Se há filhos A e B, um genitor fornece Iᴬ e o outro Iᴮ. Logo, o cruzamento é Iᴬi × Iᴮi, que gera ¼ IᴬIᴮ, ¼ Iᴬi, ¼ Iᴮi e ¼ ii. Para doar sangue aos irmãos A, B e O, a menina precisa ser do grupo O, o doador universal no sistema ABO, já que um irmão é O e só recebe de O. A probabilidade de ser O é ¼, e a de ser menina é ½. Assim, P = ¼ × ½ = ⅛ = 12,5%. Por isso, a alternativa E está correta. A alternativa D, 25%, esquece a probabilidade do sexo. A B, 50%, e a A, 75%, superestimam o resultado. A C, 37,5%, não corresponde a nenhuma combinação correta. Gabarito: E.",
+  "hash": "60c7784a6db64d5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q65": {
+  "assunto": "Dinâmica: movimento circular, força centrípeta",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a direção da força resultante sobre uma criança num carrossel em movimento circular com período regular, ou seja, movimento circular uniforme. Nesse movimento, o módulo da velocidade é constante, mas sua direção muda o tempo todo, sempre tangente à trajetória. Para mudar a direção da velocidade, é necessária uma aceleração centrípeta, voltada para o centro da circunferência, de módulo a = v²/R. Pela segunda lei de Newton, a força resultante tem a mesma direção da aceleração, portanto aponta para o centro do brinquedo. Por isso, a alternativa E está correta. A alternativa A erra, pois se a resultante fosse nula o movimento seria retilíneo. A B e a C descrevem forças com componente tangencial, que alterariam o módulo da velocidade. A D confunde a resultante com a sensação de ser jogado para fora, que é efeito da inércia, não uma força real. Gabarito: E.",
+  "hash": "5f0fbaabb1344b65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q66": {
+  "assunto": "Química orgânica: funções nitrogenadas, aminas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o grupo funcional comum aos neurotransmissores citados: adrenalina, noradrenalina, feniletilamina, dopamina e serotonina. Observando as estruturas, todas apresentam um átomo de nitrogênio ligado a carbono e a hidrogênios, na forma –NH₂ ou –NH–. Esse grupo caracteriza a função amina; por isso, esses compostos são frequentemente chamados de aminas biogênicas ou monoaminas. Assim, a alternativa C está correta. A alternativa A, éter, exigiria oxigênio entre dois carbonos, o que não é comum a todas. A B, álcool, aparece apenas em algumas moléculas, como a adrenalina e a noradrenalina, mas não em todas, como a feniletilamina. A D, cetona, exigiria carbonila entre dois carbonos, ausente nessas estruturas. A E, ácido carboxílico, exigiria o grupo –COOH, que também não está presente. Gabarito: C.",
+  "hash": "2d4d17bd808df1cf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q67": {
+  "assunto": "Ondulatória: efeito Doppler",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que acontece com as ondas refletidas por um carro que se aproxima do radar. Pelo efeito Doppler, quando há aproximação entre fonte e observador, a frequência percebida é maior que a emitida; no afastamento, é menor. No radar, o carro recebe as ondas enquanto se aproxima e, ao refleti-las, comporta-se como uma fonte em movimento na direção do radar. Assim, as ondas que retornam têm frequência maior que as enviadas, e a diferença entre as frequências permite calcular a velocidade do veículo. Por isso, a alternativa C está correta. A alternativa A, altura menor, não é grandeza usada para descrever esse efeito. As alternativas B e D tratam de amplitude e intensidade, que não definem o efeito Doppler. A E erra, pois a velocidade das ondas eletromagnéticas no ar é praticamente constante, igual à da luz, independentemente do movimento do carro. Gabarito: C.",
+  "hash": "881a5e5ad5c72f04",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q68": {
+  "assunto": "Propriedades da matéria e separação de misturas: tratamento de água",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quais etapas do tratamento de água são processos químicos, ou seja, envolvem reações com formação de novas substâncias. Na coagulação, adicionam-se substâncias como sulfato de alumínio e cal, que reagem formando hidróxido de alumínio, Al(OH)₃, um precipitado gelatinoso que aglutina as impurezas. Na desinfecção, o cloro reage com a água formando ácido hipocloroso, HClO, que destrói microrganismos. Ambas são, portanto, processos químicos, o que confirma a alternativa C. A decantação e a filtração são processos físicos de separação: a primeira usa a gravidade para depositar partículas e a segunda retém sólidos em camadas filtrantes. A floculação é a etapa física de agitação lenta que aglomera os flocos já formados. Por isso, as alternativas A, B, D e E erram ao incluir decantação, filtração ou floculação. Gabarito: C.",
+  "hash": "5ecb38cf0b773d4b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q69": {
+  "assunto": "Ecologia: relações ecológicas, mutualismo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tipo de relação ecológica entre os ruminantes e os microrganismos do seu estômago. O ruminante fornece abrigo e alimento aos microrganismos, que, por sua vez, produzem celulase e digerem a celulose, permitindo que o animal aproveite a matéria vegetal. As duas espécies se beneficiam, e a associação é tão importante que o ruminante não conseguiria digerir a celulose sem ela. Essa relação harmônica, com benefício mútuo e interdependência, é o mutualismo, como afirma a alternativa C. A alternativa A, predatismo, envolve uma espécie matando outra para se alimentar. A B, competição, é uma disputa por recursos, com prejuízo para ambas. A D, inquilinismo, ocorre quando uma espécie usa a outra como abrigo, sem prejudicá-la nem beneficiá-la. A E, comensalismo, ocorre quando uma espécie aproveita restos de alimento da outra, sem benefício para a segunda. Gabarito: C.",
+  "hash": "be79c08cdb5c8de9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q70": {
+  "assunto": "Botânica: adaptações das raízes, manguezal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função dos pneumatóforos, raízes que crescem para cima e afloram do solo em plantas do manguezal, como a Avicennia. O solo do mangue é lodoso, encharcado e pobre em oxigênio, porque a água ocupa os espaços entre as partículas e a decomposição da matéria orgânica consome o O₂ disponível. As raízes também precisam respirar. Os pneumatóforos possuem pequenas aberturas, os pneumatódios, que permitem a captação de oxigênio diretamente do ar, garantindo a respiração celular das raízes. Por isso, a alternativa B está correta. A alternativa A, eliminação de água, não é função dessas raízes. A C erra, pois o CO₂ é captado pelas folhas, para a fotossíntese. A D, absorção de nutrientes, é feita pelas raízes subterrâneas. A E, fixação ao solo, é função de outras estruturas, como as raízes-escora do mangue-vermelho. Gabarito: B.",
+  "hash": "89bbb317b57d8e94",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q71": {
+  "assunto": "Evolução: adaptações, mimetismo e camuflagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um exemplo de mimetismo, definido no enunciado como a situação em que uma espécie apresenta características de outra espécie não comestível ou não palatável. O mimetismo envolve, portanto, a semelhança com outra espécie, que funciona como sinal de alerta para predadores. A falsa-coral, pouco peçonhenta, tem coloração parecida com a da coral-verdadeira, muito venenosa. Os predadores que evitam a coral-verdadeira acabam evitando também a falsa-coral, o que aumenta suas chances de sobrevivência. Por isso, a alternativa D está correta. As alternativas A, C e E descrevem camuflagem, em que o organismo se confunde com o ambiente, como folhas, algas ou cores do local, e não com outra espécie. A B, a raposa-do-ártico com pelagem sazonal, também é um caso de camuflagem, ligada à mudança das cores do ambiente nas estações. Gabarito: D.",
+  "hash": "c41e9dfe3ab35b54",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q72": {
+  "assunto": "Bioquímica: carboidratos, fermentação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o carboidrato do xarope de caju que favoreceu o crescimento da bactéria. O xarope é obtido do suco de frutas, rico em açúcares simples, principalmente glicose e frutose. A bactéria Leuconostoc mesenteroides utiliza esses açúcares na fermentação lática, produzindo ácido lático e obtendo energia para crescer. Entre as alternativas, a glicose é o monossacarídeo presente no caju e a principal fonte de energia para o metabolismo bacteriano. Por isso, a alternativa B está correta. A alternativa A, celulose, é um polissacarídeo estrutural da parede celular vegetal, insolúvel e não presente no xarope como açúcar disponível. A C, maltose, é um dissacarídeo obtido da digestão do amido, típico de cereais, não de frutas. A D, lactose, é o açúcar do leite. A E, ribose, é uma pentose componente do RNA, não uma reserva energética das frutas. Gabarito: B.",
+  "hash": "e8687136b4d41f20",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q73": {
+  "assunto": "Termologia: condutividade térmica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o melhor metal para substituir o cobre nos tubos de um coletor solar, com base na tabela de calor de fusão, condutividade térmica e capacidade calorífica. A função dos tubos é transferir o calor absorvido da radiação solar para a água que circula dentro deles. Para isso, a propriedade mais importante é a condutividade térmica: quanto maior, mais rápida a passagem de calor. Na tabela, os valores são: alumínio, 237 W/(m·K); chumbo, 35; ferro, 80; níquel, 91; zinco, 116. O alumínio tem condutividade muito superior aos demais, sendo o melhor substituto, como afirma a alternativa A. As capacidades caloríficas são parecidas entre os metais, cerca de 24 a 27 J/(mol·K), e não definem a escolha, e o calor de fusão não importa, pois os tubos não derretem. As alternativas B, C, D e E apresentam condutividades bem menores, transferindo calor com menos eficiência. Gabarito: A.",
+  "hash": "2df3a79337a4464c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q74": {
+  "assunto": "Química ambiental: poluição hídrica, escoamento pluvial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como estaria o volume de poluentes nos rios na primavera de 2008, sabendo que a produção de poluentes é constante e que o escoamento da chuva é a principal fonte de poluição dos rios. Assim, mais chuva significa mais poluentes levados aos rios, e menos chuva, menos poluentes. No gráfico, as barras representam a precipitação de 2008 e a linha, as médias históricas de 1961 a 1990. De setembro a dezembro, as barras ficam claramente abaixo da linha: por exemplo, em outubro choveu cerca de 80 mm contra média próxima de 155 mm, e em dezembro cerca de 175 mm contra mais de 260 mm. Logo, o volume de poluentes deveria ser menor que a média histórica do mesmo período, como afirma a alternativa E. A alternativa A erra, pois a chuva oscila e cresce em dezembro. A B compara com o verão histórico, período não analisado. A C contraria os dados, pois a chuva da primavera foi menor que a do verão de 2008. A D também não se confirma, pois a primavera não ficou abaixo do inverno. Gabarito: E.",
+  "hash": "e8d4a64b9f344bc7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q75": {
+  "assunto": "Gravitação: campo gravitacional, satélites",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a aceleração do satélite S₂, de massa 2M, ao passar pelo mesmo ponto em que S₁, de massa M, tem aceleração de 7,0 m/s². A única força relevante é a gravitacional da Terra: F = G·Mₜ·m/d². Pela segunda lei de Newton, a = F/m = G·Mₜ/d². Note que a massa do satélite se cancela, ou seja, a aceleração gravitacional num ponto depende apenas da massa da Terra e da distância até seu centro, e não da massa do corpo. Como S₂ passa pelo mesmo ponto, à mesma distância, sua aceleração também é 7,0 m/s², confirmando a alternativa B. A alternativa A divide a aceleração por 2, como se a massa maior reduzisse a aceleração. A D a multiplica por 2, erro inverso. A C usa a gravidade na superfície terrestre, que não vale nessa altitude. A E eleva 7 ao quadrado, sem sentido físico. Gabarito: B.",
+  "hash": "5ce4b34b45339f5c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q76": {
+  "assunto": "Botânica: nutrição vegetal, adubação verde",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a vantagem da adubação verde. Nessa técnica, cultivam-se plantas com grande produção de biomassa, muitas vezes leguminosas, que depois são roçadas e incorporadas ao solo ou deixadas como cobertura. Essa massa vegetal é decomposta aos poucos por microrganismos, liberando gradualmente nutrientes como nitrogênio, fósforo, potássio, cálcio e magnésio. Além disso, aumenta a matéria orgânica, protege o solo da erosão e, no caso das leguminosas, acrescenta nitrogênio fixado por bactérias. Por isso, a alternativa B está correta. A alternativa A erra, pois a correção química refinada é feita com fertilizantes e corretivos calculados, não com adubo verde. A C fala em adubação rápida em regiões frias, mas a decomposição é lenta e mais lenta ainda no frio. A D contraria o objetivo da técnica, que é manter a massa vegetal no solo, não arrastá-la. A E erra, pois a cobertura favorece a vida e a respiração do solo, em vez de limitá-las. Gabarito: B.",
+  "hash": "122be25f19ccd57d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q77": {
+  "assunto": "Microbiologia e parasitologia: malária, protozooses",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual doença a vacina contra o Plasmodium busca controlar. O Plasmodium é um protozoário transmitido pela picada da fêmea do mosquito Anopheles. Ele invade o fígado e depois as hemácias, provocando ciclos de febre alta, calafrios e anemia, podendo levar à morte, como descreve o texto. Essa doença é a malária, muito comum em regiões tropicais, como a Amazônia, e na África. Por isso, a alternativa E está correta. A alternativa A, doença de Chagas, é causada pelo Trypanosoma cruzi, transmitido pelo barbeiro. A B, toxoplasmose, é causada pelo Toxoplasma gondii, adquirido por ingestão de cistos em carne crua ou contato com fezes de gatos. A C, leishmaniose, é causada pela Leishmania, transmitida pelo mosquito-palha. A D, elefantíase, é causada por um verme nematódeo, a Wuchereria bancrofti, e não por protozoário. Gabarito: E.",
+  "hash": "4e08365b48fc5e1d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q78": {
+  "assunto": "Ondulatória: velocidade do som e da luz",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que o trovão é ouvido algum tempo depois de se ver o relâmpago. Relâmpago e trovão são produzidos praticamente ao mesmo tempo pela descarga elétrica. A diferença está na velocidade com que cada sinal chega ao observador. A luz se propaga no ar a cerca de 300 000 km/s, chegando quase instantaneamente. O som se propaga no ar a cerca de 340 m/s. Assim, para um raio a 1 km de distância, o som leva 1 000 ÷ 340 ≈ 3 s para chegar, enquanto a luz chega em tempo desprezível. Por isso, a alternativa C está correta. A alternativa A erra, pois o ar aquecido não reduz a velocidade do som; na verdade, ela aumenta com a temperatura. A B é falsa, já que o som do trovão também se propaga pelo ar. A D explica a origem de cada fenômeno, mas não o atraso. A E compara grandezas que não explicam o intervalo entre os dois sinais. Gabarito: C.",
+  "hash": "eaaac412969e4b23",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q79": {
+  "assunto": "Saúde e doenças: doença de Chagas, pasteurização",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma medida no preparo do açaí que evite a transmissão da doença de Chagas por via oral. Segundo o texto, o barbeiro pode contaminar os frutos com suas fezes, que contêm o protozoário Trypanosoma cruzi, ou ser triturado junto com eles. Para tornar o alimento seguro, é necessário eliminar o parasita sem estragar a polpa. A pasteurização consiste em aquecer o produto a uma temperatura controlada por certo tempo e depois resfriá-lo rapidamente, o que destrói microrganismos patogênicos, incluindo o T. cruzi, preservando as características do alimento. Por isso, a alternativa C está correta. A alternativa A, adição de açúcar, não mata o protozoário. A B, secagem dos frutos, não garante a eliminação do parasita e alteraria o produto. A D, diluição em água, apenas reduz a concentração, sem eliminar o risco. A E, adição de corantes, não tem ação contra microrganismos. Gabarito: C.",
+  "hash": "dc5b4a049004fffa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q80": {
+  "assunto": "Química ambiental: combustíveis, efeito estufa",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que o uso de hidrogênio no lugar da gasolina melhoraria o ambiente. A equação mostra a combustão do hidrogênio: 2 H₂ + O₂ → 2 H₂O, cujo único produto é água. Já a queima da gasolina, mistura de hidrocarbonetos, produz CO₂, principal gás de efeito estufa de origem humana, além de outros poluentes. Portanto, substituir a gasolina pelo hidrogênio reduziria a emissão de CO₂, um dos gases causadores do aquecimento global, como afirma a alternativa D. A alternativa A erra, pois o calor liberado por motores não é a causa relevante do aquecimento global, que depende dos gases de efeito estufa. A B e a C contrariam a equação, já que não há emissão de CO₂. A E afirma que a água produzida neutralizaria os gases do aquecimento global, o que não ocorre. Gabarito: D.",
+  "hash": "5dfa17f6af845f5b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q81": {
+  "assunto": "Ecologia: simbiose, fungos e tolerância térmica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a vantagem de inocular em tomateiros fungos simbiontes de plantas que vivem perto de fontes termais e toleram cerca de 65 °C. Esses fungos conferem às plantas hospedeiras tolerância ao calor. Ao serem transferidos para os tomateiros, espera-se que as plantas também passem a resistir a temperaturas mais elevadas, o que permitiria cultivar tomate em regiões mais quentes, onde antes o calor limitaria a produção. Isso amplia a área de cultivo e aumenta a produtividade, como afirma a alternativa D. A alternativa A erra, pois o objetivo não é plantar em águas termais, mas aproveitar a tolerância ao calor. A B fala em resistência a fungos patogênicos, propriedade não mencionada no texto. A C exagera ao falar em temperaturas extremas em geral, incluindo o frio, o que não se aplica. A E afirma que os frutos não seriam decompostos por fungos, ideia sem relação com o texto. Gabarito: D.",
+  "hash": "08c151c87bbce0f7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q82": {
+  "assunto": "Ecologia: impactos de represas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um impacto típico da construção de represas. Ao barrar um rio, forma-se um grande lago artificial, com água parada ou de fluxo lento, especialmente nas margens rasas. Esse ambiente favorece a reprodução de mosquitos vetores, como Anopheles, transmissor da malária, e Aedes, ligado à dengue e à febre amarela, além de caramujos hospedeiros da esquistossomose. Com isso, aumenta a incidência de doenças endêmicas na região, como afirma a alternativa C. A alternativa A erra, pois a barragem interrompe a migração reprodutiva de peixes, como na piracema, prejudicando sua reprodução. A B é falsa, já que a decomposição da vegetação submersa libera CO₂ e metano. A D atribui ao lençol freático a alteração de chuvas, relação sem base. A E erra, pois a represa não aumenta a quantidade de água do ciclo; apenas a redistribui, podendo até aumentar perdas por evaporação. Gabarito: C.",
+  "hash": "ab53e8f708e3441c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q83": {
+  "assunto": "Química ambiental: derramamento de petróleo",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como as técnicas de dispersão mecânica de petróleo, com jatos de água ou areia, podem contaminar o fundo do mar. Os jatos quebram a mancha em pequenas gotas, que se misturam à água em vez de permanecer apenas na superfície. Essas gotículas são transportadas para regiões mais profundas pelos movimentos de convecção da água. No caso dos jatos de areia, o petróleo adere aos grãos, que, por serem densos, afundam e levam o óleo até o sedimento marinho. Assim, a alternativa E descreve corretamente os dois mecanismos. A alternativa A trata de petróleo que chega à praia, situação diferente da dispersão em alto-mar. A B atribui o efeito a um simples empurrão do petróleo pelos jatos, o que não explica a contaminação do fundo. A C erra ao dizer que o petróleo é mais denso que a água do mar, pois ele é menos denso e flutua. A D atribui o processo apenas à circulação causada pelos jatos, ignorando o papel da areia. Gabarito: E.",
+  "hash": "621d0167fd8b1d14",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q84": {
+  "assunto": "Citologia: osmose, plasmólise",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a interpretação das figuras A e B, que mostram células vegetais de um mesmo experimento, com plasmólise em uma delas. A plasmólise ocorre quando a célula vegetal é colocada em meio hipertônico, mais concentrado que o seu interior. Por osmose, a água sai do vacúolo para o meio externo, o volume do protoplasto diminui, e a membrana plasmática se descola da parede celular, que é rígida. Na figura B, observa-se esse aspecto retraído, com o conteúdo celular concentrado no centro, enquanto em A as células estão túrgidas, com o citoplasma ocupando todo o espaço. Por isso, a alternativa C está correta. A alternativa A erra, pois meio mais concentrado provocaria redução, não aumento de volume. A B é falsa, já que houve mudança visível entre as figuras. A D descreve a turgência, o oposto do que ocorre em B. A E associa A a meio menos concentrado, mas a justificativa dos cloroplastos espalhados não define o fenômeno estudado. Gabarito: C.",
+  "hash": "173dc365e4e9aa02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q85": {
+  "assunto": "Evolução: replicação, variação e seleção",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a condição para que o paralelo entre evolução biológica e evolução cultural, proposto por Dawkins com o conceito de meme, seja válido. Na evolução biológica, o gene é um replicador: é copiado e transmitido aos descendentes, mas as cópias podem sofrer mutações, gerando variação sobre a qual age a seleção natural. Dawkins propõe que os memes, como ideias, melodias e modas, também se replicam, passando de cérebro a cérebro por imitação, e nessa transmissão podem ser modificados. Para que a analogia funcione, ambos precisam apresentar replicação com variação, isto é, cópia com modificações, como afirma a alternativa D. A alternativa A fala de intensidade do acaso sobre os genes, que não é condição para o paralelo. A B exige seleção mais intensa nos memes, o que é irrelevante para a analogia. A C exige taxas de mutação iguais, o que não é necessário. A E contraria a ideia de evolução, que sempre parte de ancestrais. Gabarito: D.",
+  "hash": "a30edb654c34bd11",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q86": {
+  "assunto": "Propriedades da matéria e separação de misturas: água dura, decantação",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] O enunciado tem trechos corrompidos, como \"Ca(HCO₃)\" sem o índice 2 e \"Mg²⁺²\". A questão pede a técnica para obter água pura após o abrandamento da água dura. Ao adicionar Ca(OH)₂ e Na₂CO₃, os íons Ca²⁺ e Mg²⁺ são convertidos em CaCO₃ e Mg(OH)₂, substâncias pouco solúveis que formam um precipitado sólido. Resulta, portanto, uma mistura heterogênea de sólido e líquido. Deixando o sistema em repouso, os sólidos, mais densos, depositam-se no fundo pela ação da gravidade, e a água pode ser retirada por cima. Essa técnica é a decantação, como afirma a alternativa A. A alternativa B, sublimação, é a passagem de sólido para gás, sem aplicação aqui. A C, dissolução fracionada, separa sólidos com solubilidades diferentes em um solvente. A D, destilação fracionada, separa líquidos miscíveis com pontos de ebulição próximos. A E, extração por solvente apolar, serve para retirar substâncias apolares, e os sais formados são iônicos. Gabarito: A.",
+  "hash": "28a61686b3fd5aff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q87": {
+  "assunto": "Equilíbrio químico: pH, indicadores ácido-base",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como as embalagens com antocianinas indicariam que o alimento está em decomposição. Segundo o texto, as antocianinas ficam laranja a vermelho intenso em pH abaixo de 3, perdem a cor vermelha entre pH 4 e 5 e ficam verde a azul em pH mais alto. Durante a decomposição de muitos alimentos, microrganismos fermentam açúcares e produzem ácidos orgânicos, como ácido lático e acético, o que reduz o pH. Assim, a embalagem passaria a apresentar coloração laranja a vermelho intenso, indicando o meio ácido, como afirma a alternativa D. A alternativa A fala em solução neutra, incompatível com o vermelho. A B e a E indicam verde e azul, cores do meio básico; a E ainda se contradiz ao associar essas cores ao aumento de íons H⁺, que acidifica o meio. A C atribui o vermelho à liberação de hidroxilas, que tornariam o meio básico. Gabarito: D.",
+  "hash": "7138c7d38d48d738",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q88": {
+  "assunto": "Química ambiental: biocombustíveis, ciclo do carbono",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o uso de biocombustíveis ajuda a combater o aquecimento global. A queima de combustíveis fósseis libera carbono que estava armazenado no subsolo há milhões de anos, aumentando a quantidade de CO₂ na atmosfera. Já os biocombustíveis, como etanol e biodiesel, são produzidos a partir de plantas que, ao crescer, retiram CO₂ da atmosfera pela fotossíntese. Quando o biocombustível é queimado, o CO₂ liberado corresponde, em princípio, ao que foi absorvido, formando um ciclo fechado que não aumenta a concentração do gás. Por isso, a alternativa E está correta. A alternativa A trata de eficiência energética, o que não justifica a medida. A B diz que se libera menos CO₂, mas o ponto central é o balanço com a absorção pela fotossíntese. A C é falsa, pois a queima de biocombustíveis também emite poluentes. A D destaca a renovabilidade, vantagem real, mas sem relação direta com o aquecimento global. Gabarito: E.",
+  "hash": "fab591a7a3d35236",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q89": {
+  "assunto": "Química ambiental: tratamento de efluentes, catálise",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que a catálise recebeu atenção no tratamento de efluentes da indústria têxtil, ricos em corantes e compostos orgânicos complexos. Processos oxidativos avançados, como os que usam catalisadores com radiação ultravioleta ou peróxido de hidrogênio, geram espécies muito reativas, como o radical hidroxila, capazes de quebrar as moléculas orgânicas. Quando a degradação é completa, ocorre a mineralização: os contaminantes são transformados em CO₂, H₂O e íons inorgânicos simples, sem gerar resíduos tóxicos. Por isso, a alternativa D está correta. A alternativa A fala em estocagem, que não envolve quebra de moléculas. A B confunde catalisadores com agentes neutralizantes de pH. A C exagera ao dizer que todos os produtos seriam recuperados, o que contraria a ideia de quebrar as moléculas. A E confunde catálise com floculação, processo físico-químico de aglomeração de partículas. Gabarito: D.",
+  "hash": "bb6e9ca6578fbd55",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-terceira-d1-q90": {
+  "assunto": "Propriedades da matéria e separação de misturas: destilação",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a técnica física mais indicada para separar o etanol de uma mistura líquida homogênea com água e outras substâncias, na faixa em que o etanol é o componente mais volátil. Em misturas homogêneas de líquidos com pontos de ebulição diferentes, usa-se a destilação: aquece-se a mistura, o componente mais volátil vaporiza primeiro, e o vapor é condensado e recolhido separadamente. Na produção de etanol, esse processo é feito em colunas de destilação fracionada. Por isso, a alternativa B está correta. A alternativa A, filtração, separa sólidos de líquidos em misturas heterogêneas. A C, sublimação, envolve a passagem do sólido diretamente para gás. A D, decantação, separa componentes de misturas heterogêneas por diferença de densidade. A E, centrifugação, acelera a separação de misturas heterogêneas, como sólidos em suspensão. Nenhuma dessas separa líquidos miscíveis. Gabarito: B.",
+  "hash": "144abcb7e7a12300",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  }
 }
