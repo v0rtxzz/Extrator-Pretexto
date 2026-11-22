@@ -348,5 +348,180 @@
   "explicacao": "A questão pede em qual dispositivo ocorre a mesma conversão de energia do carrinho a corda. Ao puxar o carrinho para trás, a criança comprime a mola, que armazena energia potencial elástica. Ao soltá-lo, a mola volta à forma original e essa energia se transforma em energia cinética, colocando o carrinho em movimento. No estilingue acontece o mesmo: o elástico esticado armazena energia potencial elástica, que, ao ser liberada, se converte em energia cinética da pedra. Por isso a alternativa E está correta. A alternativa A, o dínamo, converte energia cinética em energia elétrica. A B, o freio, transforma energia cinética em energia térmica pelo atrito. A C, o motor a combustão, converte energia química do combustível em energia térmica e depois mecânica. A D, a usina hidrelétrica, transforma energia potencial gravitacional da água em energia cinética e, então, em elétrica. Gabarito: E.",
   "hash": "f4817af812c7c152",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q51": {
+  "assunto": "Química ambiental: biorremediação de pesticidas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica essencial de um microrganismo usado na biorremediação, técnica que emprega seres vivos para eliminar poluentes do ambiente. O ponto central do texto é a busca por formas de eliminar os pesticidas, e não apenas de deslocá-los ou acumulá-los. Para isso, o microrganismo precisa degradar o contaminante por meio do seu metabolismo, usando-o como fonte de carbono ou energia e transformando-o em substâncias menos tóxicas ou atóxicas, como CO₂, água e sais. Assim, a alternativa E descreve exatamente o mecanismo que torna a técnica vantajosa. Na alternativa A, transferir o pesticida do solo para a água só muda o local da contaminação. Na B, absorver sem alterar quimicamente apenas acumula o veneno, que volta ao ambiente quando o organismo morre. Na C, alta taxa de mutação não garante degradação e torna o processo imprevisível. Na D, estimular o sistema imunológico humano nada tem a ver com eliminar o poluente do ambiente. Gabarito: E.",
+  "hash": "9f2c452c7ae6eca2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q52": {
+  "assunto": "Saúde e doenças: leptospirose",
+  "dificuldade": 2,
+  "explicacao": "A questão pede que se relacionem os sintomas do paciente às condições sanitárias do local. Os dados importantes são o contato com águas de enchente, a ausência de esgoto e drenagem e a coleta de lixo inadequada, além de febre, dor de cabeça e dores musculares. Lixo acumulado atrai ratos, cuja urina contém a bactéria Leptospira; nas enchentes, essa urina se mistura à água e a bactéria penetra pela pele ou mucosas. O quadro clássico da leptospirose inclui justamente febre, cefaleia e dores musculares, sobretudo nas panturrilhas, surgindo dias a semanas após a exposição. Por isso a alternativa D é a correta. A difteria é transmitida por gotículas respiratórias e afeta a garganta. O botulismo vem da ingestão de toxina em alimentos mal conservados e causa paralisia. A tuberculose é transmitida pelo ar e causa tosse prolongada. A meningite meningocócica também é de transmissão respiratória, sem relação com enchentes. Gabarito: D.",
+  "hash": "f440ee0825e61e0a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q53": {
+  "assunto": "Química ambiental: camada de ozônio, CFC",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta por que o desodorante usa isobutano, butano e propano. As reações mostram que o CFC, sob radiação UV na estratosfera, libera radicais cloro (Cℓ•), que destroem o ozônio (Cℓ• + O₃ → O₂ + CℓO•), regenerando-se em ciclo. Por isso o CFC foi banido como propelente. Os hidrocarbonetos leves citados são gases facilmente liquefeitos sob pressão e funcionam como propelentes, empurrando o produto para fora da lata. Como não possuem cloro, não geram radicais que ataquem o ozônio. Portanto, servem para substituir o CFC, como afirma a alternativa A. A alternativa B erra ao dizer que eles capturam o Freon da atmosfera. A C inventa uma decomposição espontânea no ar, que não ocorre. A D atribui aos hidrocarbonetos uma reação com UV liberando H₂, que não é a função deles no produto. A E afirma que eles destroem o CFC, o que é falso. Gabarito: A.",
+  "hash": "e619dcbe6e65ad62",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q54": {
+  "assunto": "Ondulatória: frequência, comprimento de onda",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como mudam o comprimento de onda e a velocidade quando a frequência da goteira cai. Inicialmente, caem duas gotas por segundo, logo f = 2 Hz, com λ = 25 cm = 0,25 m; confere-se v = λ·f = 0,25 × 2 = 0,5 m/s... porém o enunciado informa 1,0 m/s, valor que devemos tomar como dado. O ponto essencial é conceitual: a velocidade de propagação de uma onda depende apenas do meio (a água da piscina), e não da fonte. Assim, v continua igual a 1,0 m/s. Pela relação v = λ·f, se a frequência cai pela metade (de 2 Hz para 1 Hz) e v é constante, o comprimento de onda dobra, ficando maior que 25 cm. Isso corresponde à alternativa B. As alternativas A e C erram ao mudar a velocidade, que não depende da fonte. A D erra ao reduzir λ, pois menos gotas por segundo afastam as cristas. A E ignora que λ varia com a frequência. Gabarito: B.",
+  "hash": "6470e1e20d47566e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q55": {
+  "assunto": "Estática: equilíbrio de corpo extenso",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o diagrama das forças que as dobradiças exercem sobre a porta em equilíbrio. A porta tem peso aplicado no centro, afastado das dobradiças. Para haver equilíbrio de forças, a soma das componentes verticais das dobradiças deve equilibrar o peso, então ambas precisam ter componente para cima. Para haver equilíbrio de momentos, as componentes horizontais devem formar um binário que anule o torque do peso, que tende a girar a porta para baixo, afastando a parte de cima da parede. Assim, a dobradiça superior puxa a porta para fora (em direção à parede, à esquerda) e a inferior empurra a porta para dentro (à direita). Na alternativa D, a força superior aponta para cima e para a esquerda e a inferior para cima e para a direita, exatamente o necessário. Em A e B as forças são só horizontais e não sustentam o peso. Em C as forças são só verticais e não anulam o torque. Em E os sentidos horizontais estão invertidos, girando a porta para o lado errado. Gabarito: D.",
+  "hash": "8da5c1b86d5599e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q56": {
+  "assunto": "Ecologia: fluxo de energia, cadeias alimentares",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o significado da função interativa I no modelo de Odum. Na figura, a energia E entra em P₁ (plantas) pelo fluxo F₁; parte passa de P₁ para P₂ (herbívoro) por F₂. Em seguida, P₁ e P₂ enviam fluxos F₃ e F₄ para I, e de I sai o fluxo F₅ para P₃, o onívoro. Como o onívoro se alimenta tanto de plantas quanto de animais, I representa a proporção de P₁ ou de P₂ que é consumida por P₃, como diz a alternativa D. A herbivoria entre P₁ e P₂ (alternativa A) já está representada pelo fluxo F₂, e não por I. A polinização (B) não é transferência de alimento nem aparece no modelo. A alternativa C inverte o sentido, pois P₃ não alimenta P₁ e P₂. A E está errada porque a saída de energia do sistema é F₆, que parte de P₃. Gabarito: D.",
+  "hash": "eaa19b2571acf8e6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q57": {
+  "assunto": "Botânica: adaptações das plantas do cerrado",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estrutura adaptativa mais adequada para plantas lenhosas do cerrado, que enfrentam secas longas e queimadas periódicas. O fogo é o fator mais destrutivo para tecidos que permitem o crescimento, como as gemas, responsáveis pela rebrota. Gemas apicais protegidas por densa pilosidade ficam isoladas do calor, o que permite que a planta volte a brotar após o incêndio; os pelos também reduzem a perda de água. Por isso a alternativa D é a correta. A alternativa A contraria o padrão do cerrado, onde as cascas são grossas e suberosas, isolantes térmicas. Na B, os caules típicos são tortuosos, não retilíneos. Na C, as folhas do cerrado costumam ser coriáceas e grossas, e não membranosas. Na E, as raízes são profundas, para alcançar o lençol freático na seca, e não superficiais ou aéreas. Gabarito: D.",
+  "hash": "38eb416a065f7a52",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q58": {
+  "assunto": "Química orgânica: esterificação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ácido carboxílico e o álcool que formam o éster C₆H₅CO₂CH₂CH₃. Na esterificação, ácido + álcool → éster + água; a parte ligada à carbonila (R–CO–) vem do ácido e a parte ligada ao oxigênio (–O–R′) vem do álcool. Na fórmula, o grupo C₆H₅–CO– é o benzoíla, logo o ácido é o C₆H₅COOH, ácido benzoico. O grupo –O–CH₂CH₃ é o etóxi, logo o álcool é o CH₃CH₂OH, etanol. O éster é o benzoato de etila, e a resposta é a alternativa A. A alternativa B (ácido propanoico e hexanol) não forma anel aromático na posição correta. A C (ácido fenilacético e metanol) daria C₆H₅CH₂COOCH₃, de mesma fórmula molecular mas estrutura diferente. A D (ácido propiônico e cicloexanol) traria um anel saturado, não aromático. A E (ácido acético e álcool benzílico) formaria o acetato de benzila, outro isômero. Gabarito: A.",
+  "hash": "935b687d6b92d751",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q59": {
+  "assunto": "Estequiometria: combustão completa, massa",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a massa de butano cuja combustão completa produz 1 kg de CO₂. Equação balanceada: C₄H₁₀ + 13/2 O₂ → 4 CO₂ + 5 H₂O. Assim, 1 mol de butano (58 g) gera 4 mol de CO₂, isto é, 4 × 44 = 176 g. Montando a proporção: 58 g de C₄H₁₀ estão para 176 g de CO₂ assim como x está para 1000 g de CO₂. Logo x = 58 × 1000 / 176 ≈ 329,5 g ≈ 0,33 kg. Essa é a quantidade mínima de gás que deixa de ser queimada para evitar a emissão de 1 kg de CO₂, alternativa B. A alternativa A (0,25 kg) surge de erros de proporção, como dividir 1 kg por 4. A C (1,0 kg) supõe, sem cálculo, massas iguais. A D (1,3 kg) aproxima a razão 76/58, ignorando os 4 mol de CO₂. A E (3,0 kg) inverte a proporção, multiplicando em vez de dividir. Gabarito: B.",
+  "hash": "a236b9c202ad8f1c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q60": {
+  "assunto": "Cinemática: gráficos de movimento uniformemente variado",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o gráfico de posição em função do tempo para um trem que acelera, mantém velocidade constante e depois desacelera até parar. No primeiro terço, com aceleração constante a partir do repouso, a posição cresce como parábola de concavidade para cima, começando com inclinação nula. No segundo terço, velocidade constante gera um trecho reto e inclinado. No último terço, a desaceleração produz uma parábola com concavidade para baixo, cuja inclinação diminui até zero, quando o trem para, e a posição fica constante no fim. É exatamente o gráfico da alternativa C. A alternativa A mostra a posição parada no meio e depois diminuindo, como se o trem voltasse. A B tem concavidade final para cima, indicando aceleração no fim. A D mostra o trem parado no trecho do meio, quando deveria ter velocidade constante. A E usa retas, que representam velocidade constante, e também um trecho parado no meio. Gabarito: C.",
+  "hash": "771c45aa292351cc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q61": {
+  "assunto": "Eletrodinâmica: potência e eficiência luminosa",
+  "dificuldade": 3,
+  "explicacao": "A questão compara eficiências, definidas como fluxo luminoso dividido pela potência. A incandescente de 40 W emite 600 lm: eficiência = 600 / 40 = 15 lm/W. A fluorescente de 40 W emite 3 000 lm: 3 000 / 40 = 75 lm/W. Como a relação é linear, uma fluorescente de 8 W, com a mesma eficiência de 75 lm/W, emite 75 × 8 = 600 lm, ou seja, a mesma quantidade de luz da incandescente de 40 W, consumindo cinco vezes menos. Logo, a eficiência da incandescente é menor que a da fluorescente de 8 W, que produz a mesma luz, como diz a alternativa C. A alternativa A erra duas vezes: a eficiência não é maior e a luz não é menor. A B diz que a fluorescente de 40 W produz menos luz, mas ela produz 3 000 lm. A D justifica errado, pois as duas de 40 W consomem a mesma energia. A E afirma eficiências iguais, o que é falso. Gabarito: C.",
+  "hash": "aba99090e8b19396",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q62": {
+  "assunto": "Ecologia: espécies invasoras, híbridos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a consequência de peixes híbridos escaparem para rios e lagos e se reproduzirem. O ponto central é que, se forem férteis, os híbridos podem cruzar com as espécies nativas parentais. Com o tempo, os genes híbridos se espalham pela população natural, num processo chamado introgressão ou poluição genética, e a espécie original pode deixar de existir em sua forma pura, sendo geneticamente substituída. Também competem por recursos com as nativas. Assim, a alternativa B é a correta. A alternativa A é improvável, pois a poliploidia não é consequência esperada desse cruzamento. A C está errada porque peixes são consumidores, e o primeiro nível trófico é dos produtores. A D erra ao supor que os híbridos impediriam a interação entre as espécies parentais. A E é imprecisa, pois os descendentes apenas herdam combinações de genes; o código genético, que é universal, não é modificado. Gabarito: B.",
+  "hash": "bb114c450e4c4c04",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q63": {
+  "assunto": "Microbiologia e parasitologia: fermentação alcoólica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que faz a massa do pão crescer quando se usa fermento biológico. As leveduras realizam fermentação alcoólica, degradando açúcares em ausência de oxigênio: C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂. O gás carbônico liberado fica aprisionado na rede de glúten da massa, formando bolhas que a fazem crescer e ficar leve e macia; o etanol evapora no forno. Portanto, a alternativa A é a correta. A alternativa B se refere à fermentação lática, feita por bactérias e pelos músculos, e não produz gás. A C não se aplica, pois a água não é produto da fermentação e não expandiria a massa. A D cita o ATP, que é produzido, mas fica dentro das células como energia e não causa o crescimento. A E menciona calor, que é liberado em pequena quantidade e não é responsável pelo aumento de volume. Gabarito: A.",
+  "hash": "796a7bf9c89a4e7d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q64": {
+  "assunto": "Óptica: refração da luz",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o pescador deve mirar abaixo da posição em que vê o peixe. A luz que vem do peixe é a luz do ambiente refletida por ele. Ao passar da água para o ar, essa luz muda de meio e de velocidade e sofre refração, afastando-se da normal. O olho humano interpreta os raios como se viessem em linha reta, então enxerga a imagem do peixe mais acima e mais próxima da superfície do que ele realmente está. Por isso a lança deve ser lançada abaixo da imagem, e a explicação correta é a da alternativa E. A alternativa A erra porque, dentro da água homogênea, a luz se propaga em linha reta. As alternativas B e D partem da ideia errada de que os olhos emitem luz. A C fala em reflexão na superfície, mas a imagem do peixe se forma por raios que atravessam a superfície, e não que são refletidos por ela. Gabarito: E.",
+  "hash": "895d0656e3b3c867",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q65": {
+  "assunto": "Genética: expressão gênica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que explica as variações na produção de substâncias como alcaloides e flavonoides ao longo do ano, num mesmo indivíduo. O ponto-chave é que o genoma de uma planta permanece o mesmo durante toda a vida; o que muda é quais genes estão ativos. A regulação da expressão gênica faz com que certos genes sejam mais ou menos transcritos conforme estímulos ambientais, como radiação UV, temperatura ou ataque de herbívoros, e conforme a fase de desenvolvimento. Assim, a alternativa E está correta. A alternativa A erra, pois recombinação ocorre na formação de gametas e não para adaptar o indivíduo. A B contraria a constância do material genético. A C é falsa, já que o organismo não cria genes novos por necessidade. A D descreve mutações dirigidas, ideia lamarckista sem base, pois mutações são aleatórias e não ocorrem para atender a uma demanda. Gabarito: E.",
+  "hash": "bf910b095fb6b069",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q66": {
+  "assunto": "Química orgânica: substituição eletrofílica aromática",
+  "dificuldade": 5,
+  "explicacao": "A questão pede as estruturas I, II e III do gráfico de energia da reação do benzeno com Br₂ e catalisador. O texto diz que o eletrófilo forma um carbocátion e que depois pode ocorrer adição ou substituição. No gráfico, I é o intermediário no vale entre as duas barreiras: o carbocátion em que o anel recebeu Br e um H no mesmo carbono, com a carga positiva deslocalizada no anel ainda com duas ligações duplas. A partir dele há dois caminhos. O produto II, de energia mais alta, é o de adição: entra outro Br e o anel perde a aromaticidade, formando o 5,6-dibromocicloexa-1,3-dieno. O produto III, mais estável, é o de substituição: o carbocátion perde H⁺ e recupera a aromaticidade, gerando o bromobenzeno. Essa sequência é a da alternativa A. Na B, o produto II é aromático dibromado e o III não é aromático. Nas C, D e E, o carbocátion desenhado tem só uma dupla, como se o anel tivesse sido hidrogenado, e os produtos não correspondem às energias do gráfico. Gabarito: A.",
+  "hash": "d3b1fdb09129c1f2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q67": {
+  "assunto": "Hidrostática: pressão hidrostática, Stevin",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual altura determina a pressão da água na saída da ducha. Pelo teorema de Stevin, a pressão hidrostática num ponto depende apenas do desnível entre esse ponto e a superfície livre do líquido: p = d·g·h. Na figura, a ducha é ligada à saída do cano, cuja extremidade está marcada pela linha tracejada inferior à esquerda, e a superfície livre é o nível da água dentro da caixa. A altura que vai da superfície da água até a saída do cano é h3, logo é ela que determina a pressão, alternativa C. Como teste, 20 kPa exigem h = 20 000 / (1000 × 10) = 2 m de coluna de água. A alternativa A (h1) e a B (h2) partem do fundo da caixa ou de um ponto intermediário, e não da superfície. A D (h4) e a E (h5) vão até a curva mais baixa do cano, que não é o ponto de conexão da ducha. Gabarito: C.",
+  "hash": "846d94a5dd551926",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q68": {
+  "assunto": "Ecologia: nicho ecológico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual conceito ecológico corresponde à descrição do tamanduá. O texto informa hábitos solitários e noturnos, forma de repouso, maneira de se locomover, sons emitidos, reprodução com um filhote por gestação, cuidado com a cria e organização territorial. Todas essas informações dizem como a espécie vive, ou seja, o seu modo de vida e o papel que desempenha na comunidade. Esse conjunto de condições e comportamentos é o nicho ecológico, alternativa D. A alternativa A, hábitat, seria o lugar onde o animal vive, como uma floresta, o que o texto praticamente não descreve. O biótopo (B) é a área física com suas condições abióticas. O nível trófico (C) indicaria apenas a posição na cadeia alimentar, que nem é citada. O potencial biótico (E) é a capacidade máxima de reprodução em condições ideais, aspecto que aparece só de passagem na descrição. Gabarito: D.",
+  "hash": "81ca3954132192df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q69": {
+  "assunto": "Funções inorgânicas: ácidos, bases, pH",
+  "dificuldade": 2,
+  "explicacao": "A questão pede quais materiais podem amenizar o odor de peixe, causado por aminas, que têm caráter básico. Para neutralizar uma base, usa-se um ácido, isto é, um material com alta concentração de H₃O⁺, maior que 10⁻⁷ mol/L (pH menor que 7). Pela tabela: suco de limão tem 10⁻² mol/L (pH 2) e vinagre 10⁻³ mol/L (pH 3), ambos claramente ácidos; o leite tem 10⁻⁶ mol/L (pH 6), apenas levemente ácido; álcool tem 10⁻⁸ (pH 8), e sabão e barrilha têm 10⁻¹² (pH 12), sendo básicos. Logo, os apropriados são suco de limão ou vinagre, alternativa C. A alternativa A inclui álcool e sabão, que são básicos. A B inclui o álcool. A D inclui o sabão, que é básico, e o leite, muito pouco ácido. A E traz apenas materiais básicos, que não neutralizam as aminas. Gabarito: C.",
+  "hash": "b6e6d3edf8aed112",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q70": {
+  "assunto": "Química orgânica: tensoativos, detergentes",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que aplicar para-dodecil-benzenossulfonato de sódio ajuda a remediar o derramamento de hidrocarboneto. Essa substância é um detergente sintético, um tensoativo. Sua molécula tem uma parte apolar, a cadeia dodecil com o anel benzênico, que interage com o hidrocarboneto, e uma parte polar e iônica, o grupo sulfonato com sódio, que interage com a água. Assim, formam-se micelas que envolvem o hidrocarboneto e permitem dispersá-lo e solubilizá-lo na água, facilitando sua remoção e degradação. Esse é o sentido da alternativa D. A alternativa A inventa uma reação de substituição, que não ocorre. A B fala em hidrólise que vaporiza o hidrocarboneto, o que não acontece. A C sugere combustão, sem fundamento. A E afirma que o tensoativo solidifica o hidrocarboneto, o contrário do seu efeito de dispersão. Gabarito: D.",
+  "hash": "a60820779f28e01f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q71": {
+  "assunto": "Energia e trabalho: fontes de energia, matriz energética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a matriz energética de menor impacto e risco para um país plano, chuvoso, com ventos constantes, poucos recursos hídricos e sem combustíveis fósseis. A característica decisiva é a presença de ventos constantes, condição ideal para a energia eólica. Além disso, os aerogeradores não emitem gases de efeito estufa durante a operação nem produzem resíduos, o que torna essa fonte de baixo impacto. Assim, a alternativa E é a correta. A alternativa A, biocombustíveis, exige grandes áreas de cultivo e libera gases na queima. A B, solar, é prejudicada pelo clima chuvoso, com muitas nuvens, e não tinha baixo custo. A C, nuclear, gera rejeitos radioativos e risco de acidentes, ao contrário do que afirma. A D, hidráulica, depende de desníveis e de rios caudalosos, ausentes num país plano e com poucos recursos hídricos. Gabarito: E.",
+  "hash": "f5ff77df8beb69f3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q72": {
+  "assunto": "Cinemática: velocidade média, movimento uniforme",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tempo total da entrega, com o veículo sempre na velocidade máxima de cada trecho. Em movimento uniforme, t = d / v. Primeiro trecho: t₁ = 80 km / 80 km/h = 1,0 h. Segundo trecho: t₂ = 60 km / 120 km/h = 0,5 h. Somando, o tempo total é t = 1,0 + 0,5 = 1,5 h, alternativa C. A alternativa A (0,7 h) não resulta de cálculo coerente com os dados. A B (1,4 h) corresponde a dividir a distância total, 140 km, pela média aritmética das velocidades, 100 km/h, erro comum, pois o carro não passa tempos iguais nos dois trechos. A D (2,0 h) e a E (3,0 h) superestimam o tempo, como se o veículo andasse mais devagar do que o permitido. Gabarito: C.",
+  "hash": "93d711b99e664f3b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q73": {
+  "assunto": "Eletrodinâmica: circuitos elétricos, interruptores paralelos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o circuito em que mudar qualquer um dos dois interruptores sempre liga ou desliga a lâmpada. Cada interruptor tem um polo e dois terminais; a chave liga o polo ao terminal superior (posição I) ou ao inferior (posição II). Na ligação correta, chamada three-way, a fase entra no polo do primeiro interruptor, os dois terminais do primeiro são ligados aos dois terminais correspondentes do segundo, e o polo do segundo vai à lâmpada, que fecha o circuito no outro fio. Assim, a corrente passa quando as duas chaves estão na mesma posição e é interrompida quando estão em posições diferentes; trocar qualquer uma inverte o estado. É o arranjo da alternativa E. Em A, os interruptores estão em série, e um terminal fica solto, então um só pode impedir o outro de agir. Em B, um terminal do primeiro alimenta a lâmpada diretamente, sem depender do segundo. Em C e D, as conexões entre terminais e polos estão trocadas, e em algumas combinações a mudança de uma chave não altera a lâmpada. Gabarito: E.",
+  "hash": "f2d32d3bd13cbc6f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q74": {
+  "assunto": "Gravitação: movimento retrógrado dos planetas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a causa do laço na trajetória aparente de Marte em relação às estrelas fixas. A figura mostra Marte avançando, depois recuando por um tempo e voltando a avançar, o chamado movimento retrógrado aparente. A explicação está na diferença de velocidades orbitais: a Terra, mais próxima do Sol, percorre sua órbita mais depressa que Marte. Quando a Terra o alcança e ultrapassa, a linha de visada até Marte gira no sentido oposto, e ele parece andar para trás no céu, como um carro mais lento visto de outro que o ultrapassa. Essa é a alternativa A. A alternativa B é falsa, pois as estrelas estão longe demais para desviar Marte. A C exagera: a órbita de Marte é pouco excêntrica e não forma laços. A D erra, pois a atração entre Terra e Marte é pequena e não gera esse efeito. A E também atribui o laço a uma perturbação gravitacional, quando ele é apenas efeito de perspectiva. Gabarito: A.",
+  "hash": "076c47a949ae4646",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q75": {
+  "assunto": "Evolução: origem da vida, biogênese",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que os experimentos de Redi e Pasteur demonstraram contra a geração espontânea. Redi, no século XVII, colocou carne em frascos abertos e fechados com gaze e mostrou que larvas só apareciam onde moscas podiam pôr ovos. Pasteur, no século XIX, com os frascos de pescoço de cisne, mostrou que caldos fervidos permaneciam estéreis enquanto microrganismos do ar não chegassem a eles. Ambos sustentaram a biogênese: todo ser vivo se origina de outro ser vivo preexistente, alternativa C. Assim, as larvas no arroz vêm de ovos de moscas. A alternativa A não foi demonstrada por eles. A B trata da origem da vida no planeta, tema diferente. A D fala em parentesco evolutivo, assunto não investigado nesses experimentos. A E descreve justamente a geração espontânea, a teoria refutada. Gabarito: C.",
+  "hash": "24a5e41426faddf8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  }
 }
