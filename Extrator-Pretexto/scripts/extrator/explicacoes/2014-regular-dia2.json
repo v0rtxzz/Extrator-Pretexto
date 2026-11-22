@@ -251,6 +251,321 @@
   "hash": "8d046958b10e8b98",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2014-regular-d2-q136": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de barras e linhas, taxas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a taxa de desemprego aberto de dezembro de 2012, sabendo que o total é a soma das taxas de desemprego aberto e oculto. No gráfico, as barras de 2012 mostram as duas parcelas e a linha mostra o total de 2011. Em junho de 2012, a taxa de desemprego oculto foi 2,2%. Como em dezembro de 2012 ela teria sido a metade, vale 2,2 ÷ 2 = 1,1%. A taxa total de dezembro de 2012 seria igual à de dezembro de 2011, que a linha indica ser 9,0%. Então: aberto = total − oculto = 9,0 − 1,1 = 7,9%. O cuidado está em ler o valor certo em cada série: o oculto de junho de 2012 nas barras e o total de dezembro de 2011 na linha. A alternativa A, 1,1, é a taxa de desemprego oculto, não a de aberto. A alternativa B, 3,5, não corresponde a nenhuma combinação correta dos dados. A alternativa C, 4,5, é metade do total de dezembro de 2011. A alternativa D, 6,8, resulta de subtrair o oculto inteiro de junho (2,2) de 9,0. Gabarito: E.",
+  "hash": "1ec5750b41556870",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q137": {
+  "assunto": "Porcentagem: variação percentual",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a taxa de fecundidade em 2020, supondo que a variação percentual relativa de 2000 a 2010 se repita de 2010 a 2020. Pela tabela, a taxa era 2,38 em 2000 e 1,90 em 2010. A variação relativa é a razão entre os valores: 1,90 ÷ 2,38 ≈ 0,798, ou seja, uma queda de cerca de 20,2%. Repetir a mesma variação relativa significa multiplicar novamente pelo mesmo fator: 1,90 × 0,798 ≈ 1,52. Repare que não se deve repetir a queda absoluta (2,38 − 1,90 = 0,48), mas a percentual, aplicada sobre o novo valor de 2010. A alternativa A, 1,14, superestima a queda. A alternativa B, 1,42, é o que se obtém subtraindo a queda absoluta de 0,48 de 1,90. A alternativa D, 1,70, corresponde a uma queda bem menor que 20%. A alternativa E, 1,80, praticamente ignora a variação. Gabarito: C.",
+  "hash": "8a7c72c3dcfb6942",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q138": {
+  "assunto": "Porcentagem: razão percentual, comparação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as regiões em que o percentual de doadores por habitante foi menor ou igual ao do país. O quadro já traz a coluna doadores/habitantes, que se obtém dividindo o número de doadores pelo de habitantes. Nordeste: 820 959 ÷ 53 081 950 ≈ 1,5%; Norte: 232 079 ÷ 15 864 454 ≈ 1,5%; Sudeste: 1 521 766 ÷ 80 364 410 ≈ 1,9%; Centro-Oeste: 362 334 ÷ 14 058 094 ≈ 2,6%; Sul: 690 391 ÷ 27 386 891 ≈ 2,5%. Para o Brasil (total), 3 627 529 ÷ 190 755 799 ≈ 1,9%. Ficam abaixo ou no mesmo nível do país o Norte, o Nordeste e o Sudeste, este último com percentual igual ao nacional. O distrator mais forte é o Sudeste, que tem o maior número absoluto de doadores, mas também a maior população. A alternativa A inclui Centro-Oeste e Sul, que estão acima da média. A alternativa C inclui o Sul e exclui o Sudeste. A alternativa D inclui o Sul e exclui o Norte. A alternativa E traz Centro-Oeste e Sul, justamente as regiões com melhor índice. Gabarito: B.",
+  "hash": "b757f46824e2a45a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q139": {
+  "assunto": "Razão e proporção: grandezas inversamente proporcionais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a razão entre a nova largura e a largura antiga de uma porta cuja altura aumentou 1/8, mantendo a espessura e o custo com material. Manter o custo com o mesmo material significa manter o volume. Como a espessura não muda, o produto altura × largura deve ficar constante. Se a altura passa de h para h + h/8 = (9/8)h, chamamos de L a largura antiga e L' a nova: (9/8)h × L' = h × L, logo L' = (8/9)L. Assim, L'/L = 8/9. Altura e largura são inversamente proporcionais nessa situação: se uma é multiplicada por 9/8, a outra é multiplicada pelo inverso, 8/9. A alternativa A, 1/8, é só o aumento da altura. A alternativa B, 7/8, supõe que a largura diminui na mesma fração que a altura aumentou, o que não preserva a área. A alternativa C, 8/7, é maior que 1, aumentando a largura. A alternativa E, 9/8, é o fator da altura, não o da largura. Gabarito: D.",
+  "hash": "97182ead6543c00a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q140": {
+  "assunto": "Porcentagem: cálculo de porcentagens, tabelas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos litros por dia cada brasileiro economizaria ao adotar o consumo sugerido no quadro, mantendo igual o gasto com as demais atividades. O consumo médio é de 200 litros. Pelas porcentagens da ONU, as atividades do quadro (banho, mãos, dentes, descarga, cozinhar e beber) somam 25% + 33% + 27% = 85% do consumo, ou seja, 0,85 × 200 = 170 litros. Os 15% restantes (30 litros) não mudam. No quadro, o consumo moderado dessas atividades soma: banho 24,0 + descarga 18,0 + mãos 3,2 + dentes 2,4 + beber e cozinhar 22,0 = 69,6 litros. A economia é 170 − 69,6 = 100,4 litros por dia. A alternativa A, 30,0, é o consumo das demais atividades. A alternativa B, 69,6, é o novo consumo nas atividades do quadro, não a economia. A alternativa D, 130,4, resulta de subtrair 69,6 de 200, esquecendo que as demais atividades continuam. A alternativa E, 170,0, é o consumo atual nessas atividades. Gabarito: C.",
+  "hash": "4810c04e630f3f32",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q141": {
+  "assunto": "Medidas de tendência central: mediana",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o candidato com a maior mediana das quatro notas. Com quatro valores, a mediana é a média dos dois valores centrais depois de ordenados. K: 33, 33, 33, 34, mediana (33 + 33) ÷ 2 = 33. L: 32, 33, 34, 39, mediana (33 + 34) ÷ 2 = 33,5. M: 34, 35, 35, 36, mediana 35. N: 24, 35, 37, 40, mediana (35 + 37) ÷ 2 = 36. P: 16, 26, 36, 41, mediana (26 + 36) ÷ 2 = 31. A maior mediana é a de N, 36, mesmo ele tendo uma nota muito baixa (24) em português: a mediana não é afetada pelos valores extremos. O erro comum é não ordenar as notas antes de escolher os centrais. A alternativa A, K, tem mediana 33. A alternativa B, L, tem mediana 33,5. A alternativa C, M, tem notas regulares, mas mediana 35, menor que 36. A alternativa E, P, tem a maior nota isolada (41), mas mediana 31. Gabarito: D.",
+  "hash": "ab92d8a5a3278364",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q142": {
+  "assunto": "Geometria espacial: prisma trapezoidal, volume",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantas toneladas de forragem cabem num silo em forma de prisma reto de base trapezoidal. Dados: altura h = 2 m, largura do topo B = 6 m, comprimento C = 20 m. Para cada metro de altura, o topo tem 0,5 m a mais que o fundo; com 2 m de altura, a diferença é 1 m, então b = 6 − 1 = 5 m. A área do trapézio é (B + b) × h ÷ 2 = (6 + 5) × 2 ÷ 2 = 11 m². O volume do prisma é área da base × comprimento = 11 × 20 = 220 m³. Como 1 tonelada ocupa 2 m³, cabem 220 ÷ 2 = 110 toneladas. A alternativa B, 125, vem de supor o fundo igual a 6,5 m, somando a diferença em vez de subtrair. A alternativa C, 130, considera fundo e topo iguais a 6,5 m, ou outro erro nas larguras. A alternativa D, 220, é o volume em m³, sem dividir por 2. A alternativa E, 260, dobra o resultado da alternativa C. Gabarito: A.",
+  "hash": "ca613ac1e7549b8d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q143": {
+  "assunto": "Funções: análise de gráficos, taxa de variação",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o gráfico da altura h da água em função do tempo t numa escultura formada, de baixo para cima, por um tronco de cone que se estreita para cima, um cilindro e um tronco de cone que se alarga para cima. Com vazão constante, a velocidade de subida da água é inversamente proporcional à área da seção horizontal. Na parte de baixo, a seção diminui à medida que a água sobe, então h cresce cada vez mais rápido: curva com concavidade para cima. No cilindro, a seção é constante e h cresce em ritmo constante: trecho de reta. Na parte de cima, a seção aumenta, então h cresce cada vez mais devagar: curva com concavidade para baixo. O gráfico D mostra exatamente essa sequência: começa suave, fica retilíneo no meio e se achata no final. O gráfico A é uma reta única, que valeria para um recipiente cilíndrico. O gráfico B começa rápido e termina rápido, o que corresponde a uma ampulheta de cabeça para baixo e sem trecho reto. O gráfico C é uma única curva cada vez mais inclinada, como num cone invertido. O gráfico E tem trecho reto no meio, mas com as concavidades trocadas. Gabarito: D.",
+  "hash": "4fb9b60bd10eeea7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q144": {
+  "assunto": "Geometria espacial: cone, planificação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a forma do adesivo que cobre a superfície lateral de um cone circular reto da base até a metade da altura. Quando se planifica a superfície lateral de um cone, obtém-se um setor circular, cujo raio é a geratriz e cujo arco tem o comprimento da circunferência da base. A parte superior do cone, acima da metade da altura, é um cone menor semelhante, com metade da geratriz; sua lateral planificada é um setor menor, com o mesmo ângulo central e o mesmo vértice. Retirando esse setor menor do maior, sobra a região entre dois arcos concêntricos, limitada por dois segmentos radiais: um setor de coroa circular, com arco curvo em cima e embaixo. É a figura da alternativa E. A alternativa A, um triângulo, seria a face de uma pirâmide. A alternativa B, um trapézio de lados retos, seria a face de um tronco de pirâmide. A alternativa C tem o arco inferior curvo, mas o lado superior reto, o que não corresponde ao corte paralelo à base. A alternativa D, um setor circular completo, cobriria a lateral inteira até o vértice. Gabarito: E.",
+  "hash": "cb0de96a9bc1cdac",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q145": {
+  "assunto": "Função quadrática: determinação da lei",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a função polinomial de grau menor que 3 tal que f(0) = 0, f(10) = 10 e f(5) = 6. Escrevemos f(x) = ax² + bx + c. Como f(0) = 0, c = 0. De f(10) = 10: 100a + 10b = 10, ou seja, 10a + b = 1. De f(5) = 6: 25a + 5b = 6, ou seja, 5a + b = 6/5. Subtraindo a segunda da primeira: 5a = 1 − 6/5 = −1/5, logo a = −1/25. Então b = 1 − 10a = 1 + 10/25 = 7/5. A função é y = −x²/25 + 7x/5. Conferindo: f(5) = −1 + 7 = 6 e f(10) = −4 + 14 = 10. A alternativa B, y = −x²/10 + 2x, dá f(5) = 7,5. A alternativa C, y = x²/24 + 7x/12, dá f(5) ≈ 3,96. A alternativa D, y = 4x/5 + 2, dá f(0) = 2, contrariando a primeira condição. A alternativa E, y = x, mantém a nota 5 igual a 5. Gabarito: A.",
+  "hash": "0bdeabafdd97eeee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q146": {
+  "assunto": "Teoria dos números: número de divisores",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o número de divisores de N = 2ˣ · 5ʸ · 7ᶻ, excluindo o próprio N. Pela fatoração em primos, o total de divisores positivos é (x + 1)(y + 1)(z + 1), pois cada divisor escolhe um expoente de 0 a x para o 2, de 0 a y para o 5 e de 0 a z para o 7. Como N é múltiplo de 10, x ≥ 1 e y ≥ 1; como não é múltiplo de 7, z = 0. Excluindo o próprio N da contagem, ficam (x + 1)(y + 1)(z + 1) − 1 divisores. Com z = 0, isso equivale a (x + 1)(y + 1) − 1, mas, entre as opções, só a alternativa E tem esse valor. A alternativa A, x · y · z, vale zero, pois z = 0. A alternativa B, (x + 1)(y + 1), conta todos os divisores, incluindo o próprio N. A alternativa C, x · y · z − 1, daria −1. A alternativa D, (x + 1)(y + 1) · z, também se anula com z = 0. Gabarito: E.",
+  "hash": "951d36bf25dd89fe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q147": {
+  "assunto": "Geometria plana: desigualdade triangular",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos triângulos não congruentes podem ser formados com 17 palitos, tendo um lado de exatamente 6 palitos. Se um lado tem 6, os outros dois, a e b, somam 17 − 6 = 11. Para existir o triângulo, vale a desigualdade triangular: cada lado é menor que a soma dos outros dois, o que equivale a |a − b| < 6 (a condição a + b > 6 já é satisfeita, pois 11 > 6). Listando pares com a ≤ b e a + b = 11: (1, 10), diferença 9, não serve; (2, 9), diferença 7, não serve; (3, 8), diferença 5, serve; (4, 7), diferença 3, serve; (5, 6), diferença 1, serve. Ficam os triângulos de lados 6, 3, 8; 6, 4, 7; e 6, 5, 6, que são 3 triângulos distintos. A alternativa B, 5, conta todos os pares sem testar a desigualdade triangular. A alternativa C, 6, conta pares ordenados válidos, repetindo triângulos congruentes. As alternativas D, 8, e E, 10, contam combinações que incluem triângulos impossíveis ou repetidos. Gabarito: A.",
+  "hash": "721da695aad3c3ed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q148": {
+  "assunto": "Geometria analítica: circunferência, função",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a função cujo gráfico contém a trajetória do assento do balanço. A corda mede 2 m e está presa no topo do suporte, que é a origem do plano cartesiano. Assim, o assento descreve um arco de circunferência de centro (0, 0) e raio 2, cuja equação é x² + y² = 4. Como o assento fica sempre abaixo do ponto de fixação (a corda nem chega à horizontal), interessa a semicircunferência inferior, com y < 0. Isolando y: y² = 4 − x², logo y = −√(4 − x²). Assim, f(x) = −√(4 − x²). A alternativa A, −√(2 − x²), usa raio √2 em vez de 2. A alternativa B, √(2 − x²), além do raio errado, é a semicircunferência superior. A alternativa C, x² − 2, é uma parábola, não um arco de circunferência. A alternativa E, √(4 − x²), tem o raio certo, mas descreve a parte de cima, acima do suporte. Gabarito: D.",
+  "hash": "a037f54bb54d9484",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q149": {
+  "assunto": "Grandezas e medidas: tempo, divisão proporcional",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tempo mínimo para que 45 000 pessoas passem pelas catracas. São 5 portões com 4 catracas cada, totalizando 5 × 4 = 20 catracas. Como o público foi dividido igualmente, cada catraca recebe 45 000 ÷ 20 = 2 250 pessoas. Passando uma pessoa a cada 2 segundos, cada catraca leva 2 250 × 2 = 4 500 segundos. Como as catracas funcionam ao mesmo tempo, esse é o tempo total. Convertendo: 4 500 ÷ 60 = 75 minutos, ou seja, 1 hora e 15 minutos. A alternativa A, 1 hora, subestima o tempo. A alternativa C, 5 horas, e a alternativa D, 6 horas, não correspondem a nenhum cálculo correto com os dados. A alternativa E, 6 horas e 15 minutos, resulta de dividir o público apenas pelos 4 portões ou pelas catracas de um único portão, ignorando que as 20 funcionam simultaneamente. Gabarito: B.",
+  "hash": "680c04a4a3d79e7a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q150": {
+  "assunto": "Geometria espacial: paralelepípedo, planificação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o maior valor de x para que a soma das dimensões da caixa não passe de 115 cm. Na planificação, as faces laterais à direita mostram que uma dimensão é x e outra é 24 cm (a largura da face menor). A coluna da esquerda, com 90 cm de altura total, é formada pela face central e pelas duas abas de cima e de baixo, que têm 24 cm cada, pois correspondem à mesma dimensão de 24 cm. Logo, a terceira dimensão é 90 − 2 × 24 = 42 cm. A condição da Anac fica x + 24 + 42 ≤ 115, ou seja, x ≤ 49. O maior valor é 49 cm. A alternativa A, 25, resulta de usar 90 como uma das dimensões. A alternativa B, 33, não corresponde a uma leitura correta da figura. A alternativa C, 42, é a terceira dimensão da caixa, não o valor de x. A alternativa D, 45, considera apenas uma aba de 24 cm descontada de forma errada. Gabarito: E.",
+  "hash": "3733d6366b8c542e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q151": {
+  "assunto": "Geometria espacial: paralelepípedo, volume",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em quantos por cento a altura da lata deve diminuir para manter o volume, se as duas dimensões da base aumentam 25%. O volume de um paralelepípedo é comprimento × largura × altura. Multiplicando cada dimensão da base por 1,25, a área da base fica multiplicada por 1,25 × 1,25 = 1,5625. Para o volume continuar o mesmo, a altura deve ser multiplicada pelo inverso: 1 ÷ 1,5625 = 0,64. A nova altura é 64% da antiga, o que representa uma redução de 100% − 64% = 36%. As medidas da figura não são necessárias, pois o raciocínio vale para qualquer lata. A alternativa A, 14,4%, não corresponde a nenhum cálculo coerente. A alternativa B, 20,0%, seria a redução se apenas uma dimensão da base aumentasse 25%. A alternativa C, 32,0%, não respeita a conservação do volume. A alternativa E, 64,0%, é a fração que resta da altura, não a redução. Gabarito: D.",
+  "hash": "9072b424eea9921e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q152": {
+  "assunto": "Porcentagem: porcentagem de um total",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o novo percentual de esgoto tratado se o despejo sem tratamento cair de 8 para 4 bilhões de litros por dia. Se 36% do esgoto é tratado, 64% não é tratado, e esses 64% correspondem a 8 bilhões de litros. Logo, o total gerado é 8 ÷ 0,64 = 12,5 bilhões de litros por dia. Mantido esse total, com apenas 4 bilhões sem tratamento, a fração não tratada passa a ser 4 ÷ 12,5 = 0,32, ou seja, 32%. Portanto, o esgoto tratado passa a ser 100% − 32% = 68%. A alternativa A, 72%, dobra os 36% iniciais, supondo erradamente que reduzir pela metade o não tratado dobra o tratado. A alternativa C, 64%, é o percentual não tratado atual. A alternativa D, 54%, soma metade dos 36% aos 36%. A alternativa E, 18%, é metade do percentual tratado inicial. Gabarito: B.",
+  "hash": "dab40be5a56a1bef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q153": {
+  "assunto": "Leitura de gráficos e tabelas: gráficos de setores e barras",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o aumento de receita necessário para manter o lucro de 2013, já que só a folha salarial muda. Primeiro, calculamos o salário de cada categoria. Pelo Gráfico 1, da folha de R$ 400 000,00, 75% (R$ 300 000,00) vão para o ensino médio e 12,5% (R$ 50 000,00) para cada uma das outras duas categorias. Pelo Gráfico 2, em 2013 eram 50 funcionários de ensino fundamental, 150 de médio e 10 de superior. Salários: fundamental, 50 000 ÷ 50 = R$ 1 000; médio, 300 000 ÷ 150 = R$ 2 000; superior, 50 000 ÷ 10 = R$ 5 000. Em 2014 serão 70, 180 e 20 funcionários. Nova folha: 70 × 1 000 + 180 × 2 000 + 20 × 5 000 = 70 000 + 360 000 + 100 000 = R$ 530 000,00. O aumento de custo é 530 000 − 400 000 = R$ 130 000,00, que deve ser compensado pela receita. A alternativa A, R$ 114 285,00, e a alternativa E, R$ 213 333,00, vêm de proporções aplicadas ao número total de funcionários. A alternativa C, R$ 160 000,00, troca os salários das categorias de 12,5%. A alternativa D, R$ 210 000,00, não corresponde à variação correta da folha. Gabarito: B.",
+  "hash": "76f0b0f54bb79f48",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q154": {
+  "assunto": "Razão e proporção: comparação de razões",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o jogador com maior desempenho, definido como a razão entre as vezes em que derrubou todos os pinos e o número de jogadas. Calculando cada razão: Jogador I, 50 ÷ 85 ≈ 0,588; Jogador II, 40 ÷ 65 ≈ 0,615; Jogador III, 20 ÷ 65 ≈ 0,308; Jogador IV, 30 ÷ 40 = 0,75; Jogador V, 48 ÷ 90 ≈ 0,533. O maior valor é 0,75, do Jogador IV. O ponto principal é não se deixar levar pelo número absoluto de acertos: o Jogador IV teve menos acertos que I, II e V, mas em bem menos jogadas, o que lhe dá a melhor razão. A alternativa A, I, tem o maior número de acertos, mas razão 0,588. A alternativa B, II, tem razão 0,615. A alternativa C, III, tem o pior desempenho, 0,308. A alternativa E, V, tem razão 0,533, apesar de 48 acertos. Gabarito: D.",
+  "hash": "2071f5e1a740426a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q155": {
+  "assunto": "Medidas de tendência central: média ponderada",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a menor nota inteira de química que o candidato II precisa para vencer, com pesos 4 para química e 6 para física. Como os pesos somam 10 para todos, basta comparar as somas ponderadas. Pelo quadro, o candidato I tem química 20 e física 23: 4 × 20 + 6 × 23 = 80 + 138 = 218. O candidato III tem química 21 e física 18: 4 × 21 + 6 × 18 = 84 + 108 = 192. O candidato II tem física 25 e química desconhecida q: 4q + 6 × 25 = 4q + 150. Para vencer, precisa superar o maior valor, 218: 4q + 150 > 218, então 4q > 68 e q > 17. Como as notas são inteiras, a menor nota é 18. A alternativa B, 19, é suficiente, mas não é a menor. A alternativa C, 22, a alternativa D, 25, e a alternativa E, 26, também garantem a vitória, mas superam o mínimo necessário, provavelmente por usar média simples ou trocar os pesos. Gabarito: A.",
+  "hash": "ad9c92eeb2fd5a43",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q156": {
+  "assunto": "Escalas: escala e volume",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o volume real, em centímetros cúbicos, de um armário cujas dimensões no projeto, na escala 1 : 100, são 3 cm, 1 cm e 2 cm. A escala 1 : 100 indica que cada 1 cm no desenho corresponde a 100 cm na realidade. As dimensões reais são, portanto, 300 cm, 100 cm e 200 cm. O volume do paralelepípedo é o produto das três: 300 × 100 × 200 = 6 000 000 cm³. Outra forma de ver: o volume no projeto é 3 × 1 × 2 = 6 cm³, e como a escala linear é 100, o volume fica multiplicado por 100³ = 1 000 000. A alternativa A, 6, é o volume no projeto. A alternativa B, 600, multiplica o volume do projeto por 100, como se a escala valesse para o volume. A alternativa C, 6 000, multiplica por 1 000. A alternativa D, 60 000, multiplica por 10 000, como se a escala fosse de área. Gabarito: E.",
+  "hash": "414c3507b3c880d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q157": {
+  "assunto": "Medidas de tendência central: média, moda, mediana",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a cor e a numeração de sapato com mais reclamações. A numeração mais frequente entre os defeitos é, por definição, a moda dos dados, que a tabela indica ser 38. A média (36) e a mediana (37) não informam qual valor aparece mais vezes. Para a cor, os donos usaram 0 para branca e 1 para preta. A média desses zeros e uns é exatamente a proporção de sapatos pretos: 0,45 significa que 45% das reclamações foram de sapatos pretos e, portanto, 55% de sapatos brancos. A cor com mais reclamações é a branca. Assim, não serão mais encomendados os sapatos brancos e os de número 38. A alternativa B usa a mediana, 37. A alternativa C usa a média, 36. A alternativa D acerta o número, mas interpreta a média 0,45 como a proporção de sapatos pretos sendo maioria. A alternativa E erra a cor e usa a mediana. Gabarito: A.",
+  "hash": "dac0592a67a58607",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q158": {
+  "assunto": "Probabilidade: probabilidade condicional",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a sensibilidade do teste, definida como a probabilidade de o resultado ser positivo dado que o paciente tem a doença. É uma probabilidade condicional: o universo considerado são apenas os doentes. No quadro, entre os 200 indivíduos, 100 têm a doença A; desses, 95 tiveram resultado positivo e 5, negativo. Entre os 100 sadios, 15 tiveram resultado positivo e 85, negativo. A sensibilidade é 95 ÷ 100 = 0,95, ou seja, 95,0%. O erro comum é dividir pelo total de pessoas ou pelo total de positivos. A alternativa A, 47,5%, divide 95 pelos 200 indivíduos da amostra. A alternativa B, 85,0%, é a proporção de negativos entre os sadios, a chamada especificidade. A alternativa C, 86,3%, é a proporção de doentes entre os positivos (95 ÷ 110). A alternativa D, 94,4%, é a proporção de sadios entre os negativos (85 ÷ 90). Gabarito: E.",
+  "hash": "5ea0f16533bbc167",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q159": {
+  "assunto": "Geometria plana: distâncias, disposição de pontos",
+  "dificuldade": 5,
+  "explicacao": "A questão pede o número máximo de mudas num terreno de 11,5 m por 14 m, com pelo menos 3 m entre mudas e entre cada muda e as laterais. Descontando a margem de 3 m de cada lado, as covas devem ficar num retângulo útil de 8 m por 5,5 m. As filas são paralelas ao lado de 14 m, isto é, cada fila corre ao longo da dimensão de 8 m e comporta 3 mudas (nas posições 0, 3 e 6 m, ou 1,5, 4,5 e 7,5 m). Se as filas fossem alinhadas em quadrado, caberiam só 2 filas (distância de 3 m em 5,5 m), totalizando 6. Mas, intercalando as mudas de filas vizinhas (deslocadas 1,5 m), a distância entre filas pode ser √(3² − 1,5²) = √6,75 ≈ 2,6 m, mantendo 3 m entre mudas. Assim, cabem 3 filas, pois 2 × 2,6 = 5,2 ≤ 5,5. Total: 3 × 3 = 9 mudas. A alternativa A, 4, ignora a dimensão maior. A alternativa B, 8, não aproveita a terceira fila completa. A alternativa D, 12, desconsidera a margem de 3 m nas laterais. A alternativa E, 20, despreza o espaçamento mínimo. Gabarito: C.",
+  "hash": "61c1d1e69352b9f3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q160": {
+  "assunto": "Geometria espacial: projeção ortogonal",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a projeção ortogonal, sobre o piso, do caminho da mão que desliza no corrimão de A até D. O corrimão de uma escada caracol é uma hélice em torno de um eixo vertical. Ao projetar no piso, a altura desaparece e todos os pontos do corrimão caem sobre uma mesma circunferência; logo, a projeção é um arco de circunferência, não uma espiral. Na figura, P está no piso e A e E estão sobre a mesma vertical que passa por P, ou seja, de A até E o corrimão dá exatamente uma volta completa (360°). Como os cinco pontos são igualmente espaçados, há quatro intervalos de 90°. De A até D são três intervalos: 3 × 90° = 270°, isto é, três quartos de circunferência. A alternativa C mostra esse arco de três quartos de volta. A alternativa A mostra apenas um quarto de circunferência, que seria o trecho de A até B. A alternativa B mostra cerca de meia volta, que seria de A até C. As alternativas D e E mostram curvas que se fecham sobre si ou se cruzam, como espirais, o que não ocorre na projeção de uma hélice. Gabarito: C.",
+  "hash": "773b3c6180d07851",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q161": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o reagente com a maior quantidade de resultados acima da média do próprio reagente. Para cada coluna da tabela, calculamos a média dos cinco experimentos e contamos quantos valores a superam. Reagente 1: 1, 6, 6, 6, 11; soma 30, média 6; só o 11 fica acima, logo 1 resultado. Reagente 2: 0, 6, 7, 6, 5; soma 24, média 4,8; ficam acima 6, 7, 6 e 5, logo 4 resultados. Reagente 3: 2, 3, 8, 10, 11; soma 34, média 6,8; acima: 8, 10 e 11, logo 3. Reagente 4: 2, 4, 7, 8, 12; soma 33, média 6,6; acima: 7, 8 e 12, logo 3. Reagente 5: 1, 2, 9, 10, 11; soma 33, média 6,6; acima: 9, 10 e 11, logo 3. O reagente 2 tem 4 resultados acima da média, o maior número. A alternativa A, reagente 1, tem apenas 1 resultado acima da média, pois os três valores iguais a 6 coincidem com ela. As alternativas C, D e E, reagentes 3, 4 e 5, têm valores mais altos, mas só 3 resultados acima de suas médias. Gabarito: B.",
+  "hash": "20bc6eb15c185083",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q162": {
+  "assunto": "Função afim: função definida por faixas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o consumo máximo que reduz a conta em pelo menos 10%, considerando que a Cosip muda conforme a faixa de consumo. Hoje, com 150 kWh a R$ 0,50, a conta é 150 × 0,50 + 4,50 = 75 + 4,50 = R$ 79,50 (faixa de 140 a 200 kWh). Reduzir pelo menos 10% significa pagar no máximo 0,9 × 79,50 = R$ 71,55. Testando a faixa atual: 0,50c + 4,50 ≤ 71,55 dá c ≤ 134,1, que não pertence à faixa de 140 a 200; então o consumo terá de cair para a faixa de 100 a 140 kWh, com Cosip de R$ 3,00. Nela: 0,50c + 3,00 ≤ 71,55, logo 0,50c ≤ 68,55 e c ≤ 137,1 kWh, valor que está na faixa. A alternativa A, 134,1, usa a Cosip de R$ 4,50 sem verificar a faixa. A alternativa B, 135,0, reduz 10% do consumo, ignorando a Cosip. A alternativa D, 138,6, não corresponde ao cálculo correto com a Cosip da faixa. A alternativa E, 143,1, desconsidera a Cosip na nova conta. Gabarito: C.",
+  "hash": "d551eaf697f43de5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q163": {
+  "assunto": "Análise combinatória: princípio multiplicativo, permutações",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o número de formas de executar a estratégia: alugar sempre um filme de ação com um de comédia até acabarem as comédias e, depois, um de ação com um de drama. São 8 filmes de ação, 5 de comédia e 3 de drama, distribuídos em 5 locações de ação com comédia seguidas de 3 locações de ação com drama, num total de 8 locações em ordem. Os filmes de ação aparecem um em cada locação, então a ordem em que são vistos pode ser qualquer permutação deles: 8! formas. As comédias ocupam as 5 primeiras locações em qualquer ordem: 5! formas. Os dramas ocupam as 3 últimas em qualquer ordem: 3! formas. Pelo princípio multiplicativo, o total é 8! × 5! × 3!. Não há divisão por 2, pois em cada locação os dois filmes são de gêneros diferentes, e não há troca de papéis entre eles. A alternativa A soma parcelas quando deveria multiplicar. A alternativa C divide por 2⁸, como se a ordem dentro de cada par contasse duas vezes. A alternativa D divide por 2² sem justificativa. A alternativa E trata os 16 filmes como livres de gênero. Gabarito: B.",
+  "hash": "6b3364f3e786474a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q164": {
+  "assunto": "Probabilidade: eventos independentes, distribuição binomial",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a probabilidade de o teste terminar exatamente na quinta pergunta, sabendo que ele acaba na segunda resposta errada e que cada erro tem probabilidade 0,2 (acerto, 0,8). Para terminar na quinta, o candidato deve errar a quinta pergunta e ter errado exatamente uma das quatro anteriores. A pergunta errada entre as quatro primeiras pode ser qualquer uma: 4 posições possíveis. Cada sequência tem probabilidade 0,2 × 0,8³ × 0,2 = 0,04 × 0,512 = 0,02048. Multiplicando pelas 4 posições: 4 × 0,02048 = 0,08192. A alternativa A, 0,02048, considera apenas uma ordem para o primeiro erro, esquecendo as 4 posições possíveis. A alternativa C, 0,24000, não resulta de um cálculo coerente com o modelo. A alternativa D, 0,40960, é 0,8⁴, a probabilidade de acertar as quatro primeiras, caso em que o teste não termina na quinta. A alternativa E, 0,49152, não corresponde ao evento pedido. Gabarito: B.",
+  "hash": "fba9409e3d44c56c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q165": {
+  "assunto": "Grandezas e medidas: velocidade média, conversão de unidades",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a maior velocidade média permitida para que o tempo entre os radares seja de, no mínimo, 1 minuto e 24 segundos. Pela figura, os radares estão a 2,1 km um do outro. O tempo mínimo é 1 min 24 s = 84 s. Convertendo para horas: 84 ÷ 3 600 = 7/300 h. A velocidade média máxima é distância ÷ tempo = 2,1 ÷ (7/300) = 2,1 × 300 ÷ 7 = 630 ÷ 7 = 90 km/h. Outra forma: 2 100 m ÷ 84 s = 25 m/s, e 25 × 3,6 = 90 km/h. Qualquer velocidade maior faria o carro percorrer o trecho em menos de 84 s. A alternativa A, 25, é o valor em m/s, sem conversão para km/h. A alternativa B, 69, não corresponde a uma conversão correta. A alternativa D, 102, vem de tratar 1 minuto e 24 segundos como 1,24 minuto. A alternativa E, 110, ultrapassa o limite seguro. Gabarito: C.",
+  "hash": "e08ac0d4f9967040",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q166": {
+  "assunto": "Função afim: leitura e comparação de gráficos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o plano que oferece mais tempo de chamada para um gasto de exatamente R$ 30,00. No gráfico, basta traçar a reta horizontal de valor 30 e ver em que tempo cada plano a atinge: quanto mais à direita, mais minutos. O plano D começa em R$ 30,00 já com 0 minuto, então não dá tempo algum. O plano B é constante em R$ 50,00 e não permite gastar R$ 30,00. O plano A parte de cerca de R$ 23,00 e atinge R$ 30,00 por volta de 20 minutos. O plano E parte de zero e cresce rápido, atingindo R$ 30,00 por volta de 23 minutos. O plano C parte de cerca de R$ 5,00 e cresce mais devagar que o E, atingindo R$ 30,00 perto de 30 minutos, o maior tempo. A alternativa A dá menos minutos por causa do valor inicial alto. A alternativa B tem valor fixo de R$ 50,00. A alternativa D esgota os R$ 30,00 sem minuto algum. A alternativa E tem tarifa por minuto alta demais. Gabarito: C.",
+  "hash": "e140168a57295f53",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q167": {
+  "assunto": "Geometria espacial: cilindro e esfera, volume",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a redução de volume de uma pílula formada por um cilindro de 10 mm de comprimento com duas semiesferas nas pontas, quando o raio passa de 5 mm para 4 mm, usando π = 3. As duas semiesferas formam uma esfera inteira. Volume da pílula: V = πr² × 10 + (4/3)πr³. Para r = 5: cilindro 3 × 25 × 10 = 750; esfera (4/3) × 3 × 125 = 500; total 1 250 mm³. Para r = 4: cilindro 3 × 16 × 10 = 480; esfera (4/3) × 3 × 64 = 256; total 736 mm³. Redução: 1 250 − 736 = 514 mm³. Note que o comprimento do cilindro continua 10 mm, apenas o raio muda. A alternativa A, 168, a alternativa B, 304, e a alternativa C, 306, consideram só parte da pílula ou contam apenas uma semiesfera. A alternativa D, 378, também não soma corretamente as reduções do cilindro (270) e da esfera (244). Gabarito: E.",
+  "hash": "4a4de4ce291324de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q168": {
+  "assunto": "Porcentagem: razão percentual",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o percentual da área do território brasileiro destinado à agricultura. O texto informa que o país tem 853 milhões de hectares e que a agricultura, somando lavouras anuais e perenes, ocupa 80 milhões de hectares. O percentual é 80 ÷ 853 ≈ 0,0938, ou seja, cerca de 9,4%. O cuidado está em escolher a parte e o todo corretos: a agricultura é uma parte da agropecuária, mas a pergunta compara com o território inteiro. A alternativa A, 32,8%, é a fração da agropecuária (280 ÷ 853). A alternativa B, 28,6%, é a fração da agricultura em relação à agropecuária (80 ÷ 280). A alternativa C, 10,7%, usa um total errado como referência. A alternativa E, 8,0%, arredonda o território para 1 000 milhões de hectares. Gabarito: D.",
+  "hash": "5682f675340818d7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q169": {
+  "assunto": "Escalas: escala de redução",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a escala da reprodução que ocupa o máximo da região disponível, mantendo as proporções da gravura de 8 m por 6 m. A folha tem 42 cm por 30 cm, com 3 cm livres em cada margem, então a região disponível mede 42 − 6 = 36 cm por 30 − 6 = 24 cm. A gravura mede 800 cm por 600 cm. Para caber no comprimento, a razão máxima é 36 ÷ 800 = 1/22,2; para caber na altura, 24 ÷ 600 = 1/25. É preciso usar a menor das duas, para que as duas medidas caibam: 1/25. Conferindo: 800 ÷ 25 = 32 cm ≤ 36 cm e 600 ÷ 25 = 24 cm. A escala é 1 : 25. As alternativas A, 1 : 3, e B, 1 : 4, confundem as medidas, gerando desenhos muito maiores que a folha. A alternativa C, 1 : 20, usa a folha inteira, sem descontar as margens. A alternativa E, 1 : 32, não aproveita o máximo da região disponível. Gabarito: D.",
+  "hash": "f2cb5e9b1f947ad0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q170": {
+  "assunto": "Geometria plana: comprimento da circunferência",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o lado da folha quadrada que, enrolada em um cilindro de diâmetro d, dá exatamente 5 voltas completas. Como a espessura do papel é desprezível, cada volta consome um comprimento de papel igual ao comprimento da circunferência do cilindro, que é πd. Em 5 voltas, o papel enrolado mede 5 × πd = 5πd. Essa é a medida do lado da folha no sentido em que ela foi enrolada, e, como a folha é quadrada, é também a medida do lado. A alternativa A, πd, corresponde a uma única volta. A alternativa B, 2πd, corresponde a duas voltas. A alternativa C, 4πd, corresponde a quatro voltas. A alternativa E, 10πd, usa o raio no lugar do diâmetro de forma invertida, dobrando o resultado. Gabarito: D.",
+  "hash": "b91d306781a60c08",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q171": {
+  "assunto": "Porcentagem: cálculo de porcentagem",
+  "dificuldade": 1,
+  "explicacao": "A questão pede as cargas dos três pontos de sustentação quando a ponte suporta a carga máxima de 12 t, sabendo que o ponto central recebe 60% e o restante é dividido igualmente entre os outros dois. O ponto central recebe 60% de 12 = 0,6 × 12 = 7,2 t. Sobram 12 − 7,2 = 4,8 t, que se dividem igualmente: 4,8 ÷ 2 = 2,4 t para cada extremidade. As cargas, na ordem, são 2,4 t; 7,2 t; 2,4 t, cuja soma confere com 12 t. A alternativa A, com 8,4 t no centro, usa 70% em vez de 60%. A alternativa B, com 6,0 t no centro, usa 50%. A alternativa D atribui 4,8 t ao centro, que é o total das extremidades. A alternativa E inverte a lógica, deixando menos carga no centro. Gabarito: C.",
+  "hash": "d9110effc0b6a46f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q172": {
+  "assunto": "Aritmética: sistema de numeração posicional",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o número decimal representado no quipus da Figura 2. O texto explica que a posição dos nós na corda pendente indica milhares, centenas, dezenas e unidades, de cima para baixo, e que a ausência de nós representa zero. Na Figura 1, 2 nós nos milhares, 4 nas centenas, 5 nas dezenas e 3 nas unidades formam 2 453. Na Figura 2, há 3 nós na faixa dos milhares, nenhum nó na faixa das centenas, 6 nós nas dezenas e 4 nós nas unidades. O número é 3 064. A alternativa A, 364, ignora o zero das centenas e lê só três posições. A alternativa B, 463, inverte a ordem dos algarismos. A alternativa D, 3 640, desloca o zero para as unidades. A alternativa E, 4 603, lê os nós de baixo para cima. Gabarito: C.",
+  "hash": "f8ac32c20abb2261",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q173": {
+  "assunto": "Grandezas e medidas: conversão de área",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a área, em metros quadrados, de um terreno de 8 hectares, sabendo que 1 hectare equivale a 1 hectômetro quadrado. Um hectômetro mede 100 metros. Assim, 1 hm² é a área de um quadrado de 100 m de lado: 100 m × 100 m = 10 000 m². Portanto, 8 hectares correspondem a 8 × 10 000 = 80 000 m². O erro mais comum é converter área como se fosse comprimento, multiplicando por 100 em vez de 100² = 10 000. A alternativa A, 8, não faz conversão alguma. A alternativa B, 80, multiplica por 10. A alternativa C, 800, multiplica por 100, conversão válida para comprimento, não para área. A alternativa D, 8 000, multiplica por 1 000. Gabarito: E.",
+  "hash": "431e87b7c7e2cb00",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q174": {
+  "assunto": "Aritmética: divisão, grandezas de capacidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de recipiente que, instalado em 20 unidades por escola e cheio até a capacidade máxima, consome todo o álcool em gel dos galões. São 16 galões de 4 litros, ou seja, 16 × 4 = 64 litros. Divididos igualmente por 10 escolas, cada escola recebe 6,4 litros. Como cada escola terá 20 recipientes iguais, cada recipiente deve ter 6,4 ÷ 20 = 0,32 litro, que é a capacidade do recipiente III. Conferindo: 0,320 × 20 × 10 = 64 litros. A alternativa A, recipiente I, de 0,125 L, usaria só 25 litros. A alternativa B, recipiente II, de 0,250 L, usaria 50 litros. A alternativa D, recipiente IV, de 0,500 L, precisaria de 100 litros. A alternativa E, recipiente V, de 0,800 L, precisaria de 160 litros. Gabarito: C.",
+  "hash": "dfcc393b2ee00684",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q175": {
+  "assunto": "Porcentagem: porcentagens sucessivas, intervalos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o intervalo possível para a porcentagem P de luz que atravessa o vidro e a película. A luz passa primeiro pelo vidro, que deixa passar entre 70% e 90%, e depois pela película, que deixa passar entre 50% e 70% do que chegou até ela. As porcentagens se multiplicam, não se somam. O menor valor de P ocorre com as menores transparências: 0,70 × 0,50 = 0,35, ou 35%. O maior ocorre com as maiores: 0,90 × 0,70 = 0,63, ou 63%. Logo, P varia no intervalo [35 ; 63]. A alternativa B, [40 ; 63], erra o limite inferior. A alternativa C, [50 ; 70], é só a transparência da película. A alternativa D, [50 ; 90], junta o menor valor da película com o maior do vidro. A alternativa E, [70 ; 90], é só a transparência do vidro. Gabarito: A.",
+  "hash": "47310d5e5b3352ff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q176": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o dia da semana em que a quantidade total de bactérias, somando as espécies I e II, foi máxima. É preciso ler os dois valores de cada dia no gráfico e somá-los. Segunda: 350 + 1 250 = 1 600. Terça: 800 + 1 100 = 1 900. Quarta: 1 450 + 300 = 1 750. Quinta: 650 + 850 = 1 500. Sexta: 300 + 1 400 = 1 700. Sábado: 290 + 1 000 = 1 290. Domingo: 0 + 1 350 = 1 350. O total máximo, 1 900, ocorre na terça-feira. O distrator é olhar apenas o pico de uma das espécies. A alternativa B, quarta-feira, tem o pico da espécie I, mas a espécie II cai para 300. A alternativa C, quinta-feira, soma apenas 1 500. A alternativa D, sexta-feira, tem o pico da espécie II, com total 1 700. A alternativa E, domingo, tem a espécie I zerada. Gabarito: A.",
+  "hash": "8c34a0d1beb2b07d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q177": {
+  "assunto": "Geometria espacial: cubo, volume, proporção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tempo para encher o restante do depósito, formado por dois cubos, sabendo que a aresta do cubo de baixo é o dobro da do cubo de cima e que metade do cubo de baixo encheu em 8 minutos. Seja a a aresta do cubo de cima: seu volume é a³. O cubo de baixo tem aresta 2a e volume (2a)³ = 8a³. Metade dele, 4a³, encheu em 8 minutos. Falta encher a outra metade, 4a³, mais o cubo de cima, a³: total 5a³. Com vazão constante, se 4a³ levam 8 minutos, cada a³ leva 2 minutos, e 5a³ levam 10 minutos. O erro comum é achar que dobrar a aresta dobra o volume, quando na verdade o multiplica por 8. A alternativa A, 8, considera só a metade restante do cubo de baixo. A alternativa C, 16, é o tempo total para encher o cubo de baixo inteiro. A alternativa D, 18, e a alternativa E, 24, superestimam o volume do cubo de cima. Gabarito: B.",
+  "hash": "57d99ffd21fe3d0b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q178": {
+  "assunto": "Geometria plana: teorema de Pitágoras",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantas células solares retirar ou acrescentar para que a produção diária seja exatamente o consumo de 20 160 Wh. Cada célula é um retângulo de 6 cm por 8 cm; pela relação de Pitágoras, a diagonal mede √(6² + 8²) = √(36 + 64) = √100 = 10 cm. Como cada célula produz 24 Wh por centímetro de diagonal, cada uma gera 24 × 10 = 240 Wh por dia. O número de células necessário é 20 160 ÷ 240 = 84. Como o proprietário tem 100, deve retirar 100 − 84 = 16 células. A alternativa B, retirar 40, corresponde a um cálculo de produção por célula diferente. A alternativa C, acrescentar 5, e a alternativa D, acrescentar 20, supõem produção insuficiente, o que ocorre se a diagonal for trocada pela soma ou por um dos lados. A alternativa E, acrescentar 40, também parte de uma produção por célula subestimada. Gabarito: A.",
+  "hash": "d9da74ec158776ed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q179": {
+  "assunto": "Equações e inequações: equação do 1º grau",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a quantia que a pessoa leva semanalmente. Seja n a quantidade habitual do produto, que custa R$ 10,00. Ela leva 10n + 6 reais. Com o aumento de 20%, o preço passa para 10 × 1,2 = R$ 12,00, e esse dinheiro compra exatamente n − 2 unidades. Montando a equação: 10n + 6 = 12(n − 2). Daí 10n + 6 = 12n − 24, ou seja, 2n = 30 e n = 15. A quantia levada é 10 × 15 + 6 = R$ 156,00. Conferindo: 156 ÷ 12 = 13 = 15 − 2. A alternativa A, R$ 166,00, soma 6 a 160, sem satisfazer a equação. A alternativa C, R$ 84,00, não é compatível com o preço reajustado e com a diferença de duas unidades. A alternativa D, R$ 46,00, e a alternativa E, R$ 24,00, resultam de equações mal montadas. Gabarito: B.",
+  "hash": "1c2377777342fac6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q180": {
+  "assunto": "Grandezas e medidas: fusos horários, tempo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o horário máximo de partida de B, em hora local de B, para que o executivo chegue a A até as 13h, hora de A. O voo dura 6 horas. Na ida, ele sai de A às 15h (hora de A) e chega às 21h no horário de A; porém, em B, são 18h. Logo, B está 3 horas atrasada em relação a A. Na volta, para chegar a A às 13h (hora de A), ele deve sair de B 6 horas antes, ou seja, às 7h no horário de A. Convertendo para o horário de B, subtraímos 3 horas: 7h − 3h = 4h. A alternativa A, 16h, não considera a duração do voo corretamente. A alternativa B, 10h, soma a diferença de fuso em vez de subtrair. A alternativa C, 7h, é o horário de partida em hora de A, sem converter para B. A alternativa E, 1h, desconta a diferença de fuso duas vezes. Gabarito: D.",
+  "hash": "805699f056f84445",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2014-regular-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de cartaz, pronomes",
   "dificuldade": 2,
