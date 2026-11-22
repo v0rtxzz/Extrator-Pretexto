@@ -1,0 +1,177 @@
+{
+ "enem-2012-ppl-d2-q100": {
+  "assunto": "Gramática: colocação pronominal, mesóclise",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a frase em que aparece mesóclise. Pelo próprio enunciado, mesóclise é o pronome oblíquo átono intercalado no verbo, o que ocorre no futuro do presente ou no futuro do pretérito. Na alternativa D, \"tê-la-ia encontrado\", o verbo \"teria\" (futuro do pretérito) é partido em \"ter\" + \"ia\", e o pronome \"la\" fica no meio: tê-la-ia. É mesóclise, portanto. As outras frases mostram outras colocações. Em A, \"Não lhe negou\", há próclise atraída pela negação. Em B, \"que lhe falei\", próclise atraída pelo \"que\". Em C, \"Nunca um homem se achou\", próclise atraída pelo advérbio \"nunca\". Em E, \"dizendo-lhe\", há ênclise com verbo no gerúndio. Note que a D também traz ênclise em \"Referia-se\", mas o que importa é a mesóclise da segunda oração. Gabarito: D.",
+  "hash": "a022ceabfea8af29",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q101": {
+  "assunto": "Variação linguística: línguas indígenas, patrimônio linguístico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma inferência sobre a redução do número de línguas indígenas no Brasil. O texto informa que havia cerca de 1078 línguas indígenas em 1500 e restam aproximadamente 180, um decréscimo de 85%, e que várias estão em avançado processo de desaparecimento. Explica que isso resultou de uma política do Estado de impor o português, num processo chamado de glotocídio, ou seja, eliminação de línguas. O tom é de denúncia de uma perda. Como cada língua carrega a cultura de um povo, a redução significa perda de patrimônio linguístico e cultural, conforme a alternativa A. A alternativa B contradiz o texto, que fala em perda, não em preservação. A C chama de natural um processo que o texto atribui a uma política deliberada. A D inverte a causa: a política do Estado provocou a redução, e não o contrário. A E trata o desaparecimento como renovação necessária da língua, ideia sem base no texto. Gabarito: A.",
+  "hash": "9743f08b41a581ea",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q102": {
+  "assunto": "Variação linguística: variação histórica, arcaísmos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como é o vocabulário do rapaz na tira. O pai diz que a filha tem só 18 anos e conclui: \"Você deve ser muito mais velho que a minha filha!\". O rapaz, de aparência jovem, responde: \"Vosmecê está emitindo uma parvoíce!\". As palavras \"vosmecê\" (forma antiga de tratamento, origem de \"você\") e \"parvoíce\" (tolice) são termos arcaicos, que já não fazem parte da fala da geração atual. Assim, o modo de falar do rapaz confirma a dedução do pai de que ele é bem mais velho, o que gera o humor. Trata-se de vocabulário conservador, arcaico, como diz a alternativa E. A alternativa A erra, pois não é fala urbana atual. A B confunde formalidade com arcaísmo; as palavras são antigas, não apenas formais. A C associa a fala a classe social alta, o que a tira não sugere. A D aponta gíria juvenil, o oposto do que ocorre. Gabarito: E.",
+  "hash": "f02d51d02b8374da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q103": {
+  "assunto": "Tecnologias da informação e comunicação: tecnologia e cultura indígena",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o pressuposto em que Almir Suruí baseia sua argumentação. A introdução da entrevista mostra que, com a parceria com o Google, os suruís passaram a valorizar a história dos anciãos, guardar tradições em vídeos e fotos on-line e usar smartphones e GPS para delimitar terras e identificar desmatamentos. Na resposta, Almir afirma que, sem tecnologia, não haveria como dialogar sobre direitos e territórios, que os povos indígenas não podem mais ficar isolados e que a ferramenta serve para valorizar seu povo e buscar autonomia. Ou seja, as tecnologias trazem novas possibilidades para preservar uma cultura, alternativa D. A alternativa A contradiz o texto, que mostra a tecnologia valorizando a memória dos anciãos. A B ignora que a forma de transmitir tradições mudou com os registros on-line. A C é oposta à fala dele sobre um novo modelo de desenvolvimento. A E contraria o título: \"Não temos o direito de ficar isolados\". Gabarito: D.",
+  "hash": "7c88dba6926a9da7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q104": {
+  "assunto": "Interpretação de texto: leitura de gráfico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a leitura correta do gráfico de habilidades por idade. O eixo horizontal traz a idade (25 a 88 anos) e o vertical, a pontuação. Há três curvas: habilidade numérica, habilidade verbal e capacidade de resolver problemas, com uma faixa sombreada aproximadamente entre 40 e 67 anos. Nessa faixa, a habilidade verbal atinge seu máximo, cerca de 52 pontos perto dos 60 anos, e a capacidade de resolver problemas também chega ao pico, perto de 50 pontos, entre 46 e 53 anos. Assim, as duas se destacam entre 40 e 60 anos, como diz a alternativa A. A alternativa B é falsa: a habilidade numérica sobe entre 25 e 46 anos. A C também é falsa, pois a resolução de problemas cresce até cerca de 53 anos. A D erra, porque aos 40 anos as habilidades estão estáveis ou subindo; a queda acentuada vem depois dos 60. A E inverte o gráfico, que mostra queda forte da habilidade numérica após os 60. Gabarito: A.",
+  "hash": "66fa017e699a8768",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q105": {
+  "assunto": "Interpretação de texto: notícia, opinião",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que as declarações da cantora Adele sugerem sobre o comportamento dos artistas. Ela diz que gosta de estar bonita, mas é profissional: \"não faço questão de lançar moda. Música é para os ouvidos, não para os olhos. Vocês nunca vão me ver cantando de biquíni\". Ou seja, para ela, o que define a cantora é a música, a voz, e a roupa é secundária. A alternativa B traduz essa ideia: uma cantora competente constrói a carreira pelo desempenho vocal, sendo pouco relevante o figurino. A alternativa A atribui à mídia uma posição que é da cantora. A C diz o contrário do que ela afirma, pois ela não faz questão de lançar moda. A D fala da plateia, quando a opinião expressa é sobre o artista. A E inventa que ela oculta seu estado de espírito, mas o texto diz que ela expõe sua dor nas músicas. Gabarito: B.",
+  "hash": "05257de7b357d199",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q106": {
+  "assunto": "Literatura e outras artes: poesia e pintura, Chagall",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a relação entre o poema de Manuel Bandeira, que traduz um texto de Chagall, e a pintura Eu e a aldeia. No poema, o eu lírico diz que só é seu \"o país que trago dentro da alma\", no qual entra sem passaporte; as casas foram destruídas desde a infância e os habitantes vagam à procura de um lar. Trata-se de uma aldeia que só existe na memória. A tela de Chagall, de linguagem onírica, mostra em fragmentos sobrepostos a aldeia natal do pintor, com casas, animais e camponeses, lembranças reunidas na mente do artista. A ligação, portanto, está na memória e na lembrança do passado guardadas no íntimo do enunciador, alternativa B. A alternativa A fala em alegria na produção modernista, tema ausente. A C fala em refúgio na natureza, mas o refúgio é a alma. A D introduz rancor e ofício, que não aparecem. A E fala em exaustão e medo, sem base nas obras. Gabarito: B.",
+  "hash": "f6880ae4a688e30d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q107": {
+  "assunto": "Educação física: fisiologia, bioquímica e biomecânica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede exemplos, na ordem, das abordagens fisiológica, bioquímica e biomecânica do exercício. Pelo texto, a fisiologia trata das alterações durante a atividade, como a frequência cardíaca; logo, aumento da frequência cardíaca e da pressão arterial é fisiológico. A bioquímica trata dos processos metabólicos de produção de energia; logo, a quebra da glicose no ciclo de Krebs é bioquímica. A biomecânica relaciona-se à anatomia e aos movimentos e posturas; logo, o tamanho da passada na corrida é biomecânico. A sequência correta é frequência cardíaca, ciclo de Krebs e passada, alternativa D. As demais trazem os mesmos três exemplos em ordens erradas. Em A, a ordem começa pelo ciclo de Krebs, que é bioquímico. Em B, o ciclo de Krebs também abre a lista e a passada fica no meio. Em C, a passada aparece primeiro. Em E, a fisiologia está certa, mas passada e ciclo de Krebs estão trocados. Gabarito: D.",
+  "hash": "4a09693a4a103c5d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q108": {
+  "assunto": "Gêneros textuais: anúncio classificado, adjetivação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o recurso linguístico que o classificado usa para convencer o leitor a comprar o imóvel. Releia o anúncio: \"Linda residência rodeada por maravilhoso jardim com piscina e amplo espaço gourmet\", \"Rua tranquila\". As palavras \"linda\", \"maravilhoso\", \"amplo\" e \"tranquila\" são adjetivos que qualificam os substantivos e destacam as qualidades do produto, criando no leitor a imagem de um imóvel desejável. É o que afirma a alternativa B. A alternativa A erra, pois não há verbos no imperativo no anúncio. A C fala em enumeração para dar certeza, mas o efeito persuasivo vem da qualificação. A D destaca os numerais, que existem (1 000 m², 6 suítes), mas apenas informam dados, sem a carga valorativa dos adjetivos. A E é falsa: não há opinião de corretores no texto. Gabarito: B.",
+  "hash": "14a7810d5eeb7cf6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q109": {
+  "assunto": "Interpretação de texto: artigo de opinião, redes sociais",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por que, segundo a autora, as redes sociais são eficazes. Ela parte do verso \"Eu quero ter um milhão de amigos\" e explica que, na canção, isso é apenas metáfora de um desejo \"oceânico e inespecífico\": desejar é desejar tudo. As redes, porém, brincam com essa promessa, pois quem participa delas ultrapassa o limite do desejo e entra na potencialidade de realizá-lo, o que torna problemática a relação entre real e imaginário. O sucesso das redes vem, portanto, de alimentar uma idealização exagerada de desejos individuais, como diz a alternativa B. A alternativa A afirma que resolvem a solidão, o que a autora não diz. A C fala em preservar sentimentos, quando ela aponta que o sentido das relações é alterado. A D contraria o tom crítico, que não fala em vínculos fortes. A E também é falsa, pois o texto aponta confusão, e não confirmação, entre real e imaginário. Gabarito: B.",
+  "hash": "0d956a6c1af231ef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q110": {
+  "assunto": "Variação linguística: estrangeirismo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede como classificar as palavras \"cowboy\" e \"rock\" na canção de Chico Buarque. Ambas são palavras inglesas usadas em sua forma original, sem adaptação à grafia portuguesa, e revelam a influência da cultura norte-americana (filmes de faroeste e música) no imaginário infantil retratado na letra. O uso de termos de outra língua dentro do português chama-se estrangeirismo, como diz a alternativa E. A alternativa A erra, pois regionalismo é termo típico de uma região do Brasil. A B confunde: neologismo é palavra nova e o aportuguesamento geraria formas como \"caubói\" ou \"roque\", que não aparecem. A C fala em jargão profissional, linguagem de uma área técnica, o que não é o caso. A D é falsa, porque arcaísmo é termo antigo da língua, e as palavras eram atuais na época da canção. Gabarito: E.",
+  "hash": "40016efb4e4aba1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de tirinha, estereótipos de gênero",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o recurso que torna irônica a tirinha de Maitena, lida à luz da ideia de que homens e mulheres agem conforme padrões de gênero. No primeiro quadro, a legenda diz que, ao trazer o café, o garçom oferece adoçante à mulher; ela recusa e explica que quem está de dieta é o homem. No segundo, a conta é entregue ao homem, mas quem a pega é a mulher, que corrige o garçom: \"señorita!\". O garçom age por estereótipos antigos: a mulher seria a preocupada com a forma física e o homem, o provedor que paga. A ironia nasce justamente do choque entre esse estereótipo e a realidade atual, em que mulheres trabalham, pagam a conta e homens também fazem regime. Por isso a alternativa E está correta. A alternativa A erra, pois a tira mostra que os padrões existem. A B inverte o sentido: a tira critica, e não reforça, os estereótipos. A C não se sustenta, porque não há rechaço ao homem. A D exagera: o foco é a quebra do estereótipo, não um desconforto diante de machismo. Gabarito: E.",
+  "hash": "ee9b026644665945",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de tirinha, humor",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma inferência sobre a atitude do cliente na tirinha Candorville. O garçom pergunta \"Would you like dessert, sir?\" e o cliente responde \"No thanks. I'm full\" (não, obrigado, estou satisfeito). Em seguida, o garçom pergunta \"Would you like the check, then?\" (deseja a conta, então?) e o cliente responde no mesmo formato: \"No thanks. I'm broke\" (não, obrigado, estou sem dinheiro). O humor está no paralelismo: o cliente trata a conta como se fosse mais uma oferta que pode recusar, e sua expressão tranquila e sorridente mostra que está brincando. Trata-se de uma piada no momento de fechar a conta, o que confirma a alternativa E. A alternativa A erra, pois não há intimidação nem constrangimento ao garçom. A B não procede, já que ele conversa normalmente. A C inventa uma pessoa que não aparece. A D atribui ao cliente uma reclamação do serviço que não existe na tira. Gabarito: E.",
+  "hash": "b3ec1870d978edd5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de texto informativo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que o autor destaca ao associar a melancolia à identidade dos sefarditas. O texto diz que os descendentes dos judeus expulsos em 1492 guardam as chaves das antigas casas, continuam chamando-se \"sefarditas\" (espanhóis), mantêm o idioma sefardita e os costumes de origem e vivem, \"en la cocina y en los lances de amor, en las fiestas y en las ceremonias religiosas\", a melancolia de ser espanhóis. Ou seja, a melancolia está ligada à conservação de um modo de vida próprio da Espanha, nação da qual foram afastados, o que confirma a alternativa A. A alternativa B erra ao falar em língua hebraica; o texto menciona o idioma sefardita, de base espanhola. A C é absurda, pois a fidelidade é à nação, não às autoridades que os expulsaram. A D confunde: eles guardam as chaves, não mantêm as casas. A E fala em tradições impostas nas cidades de destino, ideia ausente do texto. Gabarito: A.",
+  "hash": "f2a6dc9d26c98519",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de texto informativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o argumento central do texto sobre o cuidado psicossocial de crianças afetadas pelo HIV/AIDS. Já o título, \"Home is where the heart is\", antecipa a ideia. O texto afirma que o coração do cuidado psicossocial está no lar e que a melhor forma de apoiar essas crianças é fortalecer os \"circles of care\" que as cercam. Mesmo as mais vulneráveis devem receber apoio em ambiente familiar, com compromisso, estabilidade e afeto individualizado, e só secundariamente devem ser oferecidos serviços diretos. Assim, o texto defende que a criança em ambiente familiar enfrenta melhor a doença, como diz a alternativa A. A alternativa B inverte a hierarquia defendida pelo texto. A C fala em famílias aprendendo umas com as outras, o que não é mencionado. A D contraria o texto, que valoriza a família e não o internamento. A E distorce a menção a \"external efforts\", que não trata de financiamento. Gabarito: A.",
+  "hash": "ea639fd6f3cc41c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de artigo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a proposta feita pelo artigo depois do panorama sobre o espanhol na África subsaariana. O texto explica que, pela ausência de um império colonial espanhol na região, o idioma é pouco conhecido ali, com exceção da Guiné Equatorial. Em contraste, a colonização portuguesa gerou cinco Estados lusófonos. A proposta aparece na última frase: convém promover o espanhol nesses países \"a partir de la afinidad con el portugués\". Em outras palavras, projetar o espanhol no território africano lusófono, como diz a alternativa A. A alternativa B erra, pois a Guiné Equatorial é citada apenas como exceção, não como alvo da proposta. A C é falsa: o texto não fala em substituir o português, e sim aproveitar a afinidade com ele. A D inventa uma fusão de línguas. A E desvia o foco: o objetivo é difundir o espanhol, não estudar o português africano. Gabarito: A.",
+  "hash": "f744f96e90d5f82b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de relato pessoal, vocabulário",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido de \"scared\" (assustada, com medo) no relato \"Scared fit\". A autora conta que, aos 62 anos, por anos de descuido com o corpo e a alimentação, desenvolveu pressão alta, diabetes tipo 2 e colesterol elevado. O médico disse que ela precisava emagrecer, comer bem e se exercitar se quisesse viver até idade avançada. Então ela conclui: \"I was scared I wouldn't see my grandkids and great-grandkids grow up\", ou seja, tinha medo de não ver os netos e bisnetos crescerem. Esse medo é das consequências do próprio descuido com a saúde, como afirma a alternativa D. A alternativa A erra, pois o problema era excesso de peso, não emagrecer demais. A B não aparece no texto, que não fala em exercícios pesados. A C usa a imagem do espelho, mas o espelho só mostra o problema, não é o objeto do medo. A E menciona doces, que não são citados. Gabarito: D.",
+  "hash": "4b8e5120699a1e05",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de carta do leitor",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a opinião do autor da carta sobre as escolhas de investimento dos governantes espanhóis. Ele lembra que, em 1991, um alemão achava loucura organizar Olimpíadas e Expo ao mesmo tempo. Depois lista os gastos espanhóis com trens de alta velocidade, autopistas e metrô, além de quantias que enriqueceram construtoras, partidos e políticos, enquanto a Alemanha investia em pesquisa e desenvolvimento. Por fim, diz \"yo no gasto lo que no tengo\" e responsabiliza os políticos pela situação atual, pedindo punição nas urnas. Logo, para o autor, a Espanha gastou o que não tinha em infraestrutura, e isso explica a crise, como diz a alternativa E. A alternativa A é falsa: quem fez os dois eventos foi a Espanha, e a frase é apenas a fala do alemão. A B iguala os países, que o texto contrapõe. A C apenas descreve as obras, sem a crítica do autor. A D é um dado verdadeiro do texto, mas não expressa a opinião sobre as escolhas espanholas. Gabarito: E.",
+  "hash": "186ebfaafd818572",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de texto informativo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tema do texto \"Our currency\". A palavra-chave do título, \"currency\", significa moeda, dinheiro em circulação. O texto informa que a Austrália foi o primeiro país a ter um sistema completo de cédulas de plástico (polímero), mais seguras contra falsificação e quatro vezes mais duráveis que as de papel. Diz ainda que a tecnologia permite imagens que retratam a história e a natureza do país, que as notas são mais limpas e recicláveis e, por fim, lista as moedas e cédulas existentes. Tudo isso descreve o sistema monetário australiano, alternativa B. A alternativa A toma um detalhe, a reciclagem, como tema. A C também usa um detalhe, a criação de imagens pelos artistas. A D fala em situação econômica, que o texto não discute. A E confunde \"bank notes\" com controle bancário, assunto ausente. Gabarito: B.",
+  "hash": "bb4022a9ec530289",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de artigo de opinião",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a origem da crítica feita no texto a um dos sentidos da palavra \"integración\". O autor contrapõe dois processos chamados de integração: a ALBA, baseada na solidariedade latino-americana, e o TLCAN, tratado entre EUA, Canadá e México. É este último que ele critica, chamando-o de \"verdadera anexión económica de México por parte de los Estados Unidos, mediante el comercio\", que levou milhões de camponeses à miséria, aprofundou a desigualdade e acelera a destruição ambiental. A pergunta é de onde derivam essas consequências: do enlace comercial dos países da América do Norte, alternativa E. As alternativas A e B citam consequências reais, mas não a causa que a pergunta pede. A C trata da ALBA, sentido que o autor elogia. A D também é efeito e, além disso, fala em crise econômica, termo que o texto não usa. Gabarito: E.",
+  "hash": "57b1278184e39182",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de texto, variação linguística",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como o texto discute a diversidade linguística a partir do ebonics, variedade falada por afro-americanos. O texto explica a origem do nome (ebony + phonics), afirma que se trata de uma fala natural, regida por regras sistemáticas, e dá o exemplo da omissão do verbo (\"He sick today\"). Em seguida diz que há grande controvérsia sobre o ebonics ser uma língua separada ou um dialeto, e que a maioria dos linguistas o considera um dialeto, já que seus falantes compartilham vocabulário e se entendem com os de inglês padrão. O eixo do texto, portanto, é a polêmica sobre legitimar o ebonics como língua, alternativa A. A alternativa B erra, pois o texto não o trata como mistura de línguas. A C fala em reconhecimento conquistado, ideia ausente. A D distorce: os linguistas o descrevem como sistemático, sem desprestígio. A E contraria o texto, que diz justamente que falantes de dialetos se compreendem. Gabarito: A.",
+  "hash": "00c77b9d3203896f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q96": {
+  "assunto": "Artes visuais: arte popular brasileira, Heitor dos Prazeres",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que retrata a pintura de Heitor dos Prazeres, artista popular carioca, ligado ao samba e às comunidades negras do Rio. Na tela, vemos pessoas negras dançando em roda, uma delas tocando pandeiro, diante de uma casa simples com telhado de palha, cercadas por coqueiro e vegetação. As figuras têm traços marcados, perspectiva imprecisa e sugerem movimento, como diz o enunciado. A cena é de festa, música e convivência alegre de uma população historicamente marginalizada, ou seja, uma confraternização, como afirma a alternativa A. A alternativa B erra ao falar em inconformismo: não há protesto na cena. A C fala em burguesia, mas a casa e os personagens indicam origem popular. A D vê instabilidade, enquanto a pintura transmite alegria e harmonia. A E restringe a cena à população nordestina, sem base na obra nem no artista. Gabarito: A.",
+  "hash": "06d9ad4bd00ba890",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q97": {
+  "assunto": "Educação física: esporte e formação humana",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como o texto apresenta o esporte. O autor destaca que buscar melhorar habilidades, encarar dificuldades e assumir o risco de ganhar ou perder tornam o jogador mais hábil e \"um ser humano mais competente\". Também valoriza aprender a lidar com o erro e a derrota, crescer com as falhas e superar decepções. O foco, portanto, não é o resultado, mas o crescimento pessoal e a formação do indivíduo, o que corresponde à alternativa C, que fala em educação, colaboração e autonomia numa perspectiva de crescimento pessoal. A alternativa A distorce a ideia de risco, que no texto é aprendizado, e não necessidade de vitória. A B descreve o esporte de alto rendimento, que não é a visão do autor. A D também privilegia espetáculo e rendimento. A E coloca a vitória como central, quando o texto valoriza justamente o aprendizado com a derrota. Gabarito: C.",
+  "hash": "a284bcde1635e124",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q98": {
+  "assunto": "Coesão e coerência: paralelismo, progressão textual",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o recurso que garante a progressão textual na crônica de Marina Colasanti. Observe o trecho: \"E, porque não tem vista, logo se acostuma a não olhar para fora. E, porque não olha para fora, logo se acostuma a não abrir todas as cortinas. E, porque não abre as cortinas...\". Há uma mesma estrutura repetida (\"E, porque..., logo se acostuma a...\"), e cada frase retoma a ideia final da anterior, num encadeamento em que um hábito leva ao outro. Essa repetição cria paralelismo sintático e de ideias e faz o texto avançar, como diz a alternativa B. A alternativa A erra, pois o vocabulário é simples e cotidiano. A C fala em blocos independentes, mas as frases são fortemente encadeadas. A D cita orações justapostas, quando há conectivos explícitos (\"e\", \"porque\"). A E é falsa: não há ambiguidade nem efeitos opostos. Gabarito: B.",
+  "hash": "9c44513c134bdfd2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q99": {
+  "assunto": "Semântica: polissemia, humor em tirinha",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o recurso que produz humor na tira de Laerte. O texto diz: \"Às vezes na vida temos que parar para um balanço\". Na linguagem figurada, fazer um balanço significa avaliar a própria vida, refletir sobre ganhos e perdas. Mas a imagem mostra o personagem literalmente sentado num balanço de parquinho, brincando. O humor nasce do choque entre os dois sentidos da mesma palavra, ou seja, da polissemia de \"balanço\", alternativa C. A alternativa A descreve o movimento do brinquedo, mas não explica o efeito cômico. A B fala do uso de \"temos\", que generaliza a fala, mas não é a fonte do humor. A D atribui à tira uma tese sobre ócio e trabalho que não está nela. A E propõe uma metáfora de caminho que não aparece. Gabarito: C.",
+  "hash": "413b3a3db397711c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
