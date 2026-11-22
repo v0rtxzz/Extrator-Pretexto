@@ -1,0 +1,632 @@
+{
+ "enem-2009-regular-d1-q01": {
+  "assunto": "Química ambiental: efeito estufa, desmatamento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma medida viável para combater o efeito estufa a partir do texto. O ponto-chave está no final: além da queima de combustíveis desde a Revolução Industrial, o desmatamento passou a contribuir diretamente para o aumento de CO₂ na atmosfera. Isso acontece porque a vegetação retira CO₂ do ar pela fotossíntese e armazena carbono na biomassa; quando a floresta é derrubada (e muitas vezes queimada), esse carbono volta para a atmosfera e o sumidouro deixa de existir. Logo, reduzir o desmatamento mantém o potencial da vegetação de absorver CO₂, o que ataca a causa apontada pelo texto. A alternativa A é absurda: não se reduz o calor irradiado pela Terra industrializando a produção primária. A B propõe queimar biomassa, que aumenta a emissão de gases estufa. A D sugere aumentar o vapor de água, que é ele próprio um gás estufa. A E erra porque os gases citados (CO₂, CH₄, N₂O) não são moléculas orgânicas polares e removê-los não é uma proposta viável. Gabarito: C.",
+  "hash": "8e9297f5c2516216",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q02": {
+  "assunto": "Fisiologia humana: metabolização do álcool",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o melhor título para o gráfico. Observe: o eixo vertical mostra a concentração de álcool no sangue (mg%) e o horizontal mostra o tempo, em horas, a partir da ingestão. Há quatro curvas, cada uma correspondente a uma quantidade diferente de álcool ingerida: todas sobem rapidamente, atingem um pico (cerca de 18, 45, 70 e 83 mg%) e depois caem até zero. Quanto maior a dose, mais alto o pico e mais tempo a curva leva para voltar a zero (de cerca de 2 horas na menor dose a cerca de 7 horas na maior). Portanto, o gráfico permite estimar o tempo necessário para o organismo metabolizar diferentes quantidades de álcool. A alternativa A erra ao falar em média ao longo do dia, já que o eixo é tempo após a ingestão. A B fala de frequência de ingestão, que não aparece no gráfico. A C fala em concentração mínima, mas as curvas mostram toda a variação, com destaque para os picos. A E confunde o gráfico com uma distribuição de frequências. Gabarito: D.",
+  "hash": "a6a0fa203e5cdcc0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q03": {
+  "assunto": "Saúde e doenças: vacinas, hiv",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta o que uma vacina eficiente contra o HIV deveria fazer. Vacina é um método de imunização ativa: introduz antígenos (vírus inativado, atenuado ou fragmentos dele) que estimulam o sistema imunológico a produzir anticorpos e células de memória. Assim, se a pessoa entrar em contato com o vírus de verdade, a resposta é rápida e impede a infecção. Por isso, uma vacina eficiente deve induzir a imunidade, protegendo o organismo da contaminação viral. A alternativa B erra porque vacinas não alteram o genoma de quem as recebe. A C troca os papéis: quem se liga ao vírus são os anticorpos, produzidos pelo organismo, e não antígenos. A D é falsa, pois o HIV é transmitido entre seres humanos, principalmente por relações sexuais, sangue e de mãe para filho, e não por animais. A E erra ao citar gotículas de saliva, que não são via de transmissão do HIV. Gabarito: A.",
+  "hash": "0ce3f812af6d388f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q04": {
+  "assunto": "Genética: genótipo e fenótipo",
+  "dificuldade": 2,
+  "explicacao": "A questão descreve plantas obtidas por clonagem de uma mesma planta e depois cultivadas em condições diferentes de luz. Clonagem produz indivíduos geneticamente idênticos, portanto todos os clones têm o mesmo genótipo. Já o fenótipo resulta da interação entre o genótipo e o ambiente. No escuro, as plantas não sintetizam clorofila adequadamente e ficam amareladas (estiolamento); à luz, ficam verdes. Assim, a diferença de cor foi causada pelo ambiente, e não por mudança genética: os grupos têm genótipos idênticos e fenótipos diferentes. A alternativa A erra porque a cor das folhas, que é fenótipo, ficou diferente. A C erra porque clones não diferem no genótipo. As alternativas D e E erram duplamente: os fenótipos não são iguais e não há variação genotípica entre clones. Gabarito: B.",
+  "hash": "e820a0d8c4e01824",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q05": {
+  "assunto": "Gravitação: modelos planetários, leis de kepler",
+  "dificuldade": 3,
+  "explicacao": "A questão apresenta a sucessão de modelos astronômicos (geocentrismo de Ptolomeu, heliocentrismo de Copérnico e órbitas elípticas de Kepler) e pede uma afirmação correta sobre esses estudiosos. O texto destaca que Kepler estudou Marte por cerca de trinta anos, com observações sistemáticas, concluiu que a órbita era elíptica, e que esse resultado foi generalizado para os demais planetas. Isso caracteriza o método científico: uma hipótese baseada em dados pode ser testada e, se confirmada, generalizada. A alternativa A erra ao considerar uma ideia mais valiosa por ser antiga; a ciência valoriza a capacidade de explicar os fenômenos. A B é anacrônica: o Rei Sol, Luís XIV, viveu no século XVII, depois de Copérnico. A C é falsa, pois na época de Copérnico a Igreja controlava fortemente o conhecimento, e o heliocentrismo enfrentou resistência. A D não tem apoio no texto e é anacrônica, já que a Alemanha unificada não existia. Gabarito: E.",
+  "hash": "8ad34dba5a6574fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q06": {
+  "assunto": "Ecologia: ciclo do carbono",
+  "dificuldade": 1,
+  "explicacao": "A questão pergunta como a queima de combustíveis fósseis interfere no ciclo do carbono. Petróleo, carvão e gás natural guardam carbono retirado da atmosfera há milhões de anos e armazenado no subsolo. Ao queimá-los, esse carbono é liberado rapidamente na forma de CO₂, em ritmo muito superior à capacidade de absorção pela fotossíntese e pelos oceanos. O resultado é o aumento da quantidade de carbono presente na atmosfera, o que intensifica o efeito estufa. A alternativa A inverte o processo: o carbono sai da Terra (subsolo) e vai para o ar. A B não procede, pois a queima não reduz a fotossíntese; o aumento de CO₂ pode até favorecê-la. A C não é consequência direta da queima de combustíveis. A E erra porque os oceanos tendem a absorver mais CO₂ quando sua concentração no ar aumenta, e não a perder carbono. Gabarito: D.",
+  "hash": "363f740fbbc753ac",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q07": {
+  "assunto": "Biotecnologia: dna recombinante, insulina",
+  "dificuldade": 1,
+  "explicacao": "A questão pergunta qual a consequência de produzir insulina pela técnica do DNA recombinante. O texto informa que bactérias Escherichia coli receberam o gene da insulina e passaram a fabricar o hormônio em maior quantidade e em um terço do tempo do método tradicional, que dependia do pâncreas de animais abatidos. Com mais insulina disponível, produzida mais rápido e idêntica à humana, o tratamento de pessoas com diabetes fica mais acessível e seguro, ou seja, há impacto favorável na saúde dos diabéticos. A alternativa A erra porque a técnica substitui a extração do pâncreas, em vez de aperfeiçoá-la. A B não tem relação com o processo descrito. A C confunde biotecnologia com síntese química: quem produz o hormônio é a bactéria. A E erra porque o organismo modificado é uma bactéria, não um animal. Gabarito: D.",
+  "hash": "66a1ccbf4322daa7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q08": {
+  "assunto": "Ecologia: impactos de hidrelétricas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um possível impacto da instalação de uma hidrelétrica numa região de quedas d’água cercadas por mata. Para gerar energia, a usina exige a construção de uma barragem e a formação de um reservatório, que alaga grandes áreas antes ocupadas por floresta. Com isso, os animais terrestres perdem seu habitat, e muitas espécies morrem ou precisam migrar. Esse é o impacto ambiental mais característico das hidrelétricas. A alternativa A não procede, pois a usina não costuma liberar metais na água. A C descreve um impacto típico de termelétricas; a hidrelétrica não aumenta expressivamente a emissão de CO₂. A D erra porque a água que passa pelas turbinas não é consumida, apenas segue o curso do rio. A E inverte o efeito: a represa retém sedimentos antes da barragem, aumentando a deposição nesse trecho. Gabarito: B.",
+  "hash": "c3a6d92395d801b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q09": {
+  "assunto": "Ecologia: paleoclima e distribuição da vegetação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que ocorre durante os períodos glaciais, segundo o texto. O trecho informa que, nesses períodos, o clima fica mais árido: as florestas pluviais se restringem e os habitats não florestais se expandem. Ora, se a vegetação não florestal se expande em clima seco, as plantas mais favorecidas são aquelas adaptadas à aridez, com estruturas que reduzem a perda de água (folhas pequenas, cutícula espessa, espinhos, raízes profundas). Essas plantas tendem a ocupar uma área de distribuição maior. A alternativa A contradiz o texto, que fala em expansão das áreas não florestais. A B generaliza sem base: o texto não fala em redução da diversidade total. A C descreve o cerrado restrito, quando na verdade ele, sendo vegetação não florestal, se expandiria. A E erra porque as florestas tropicais ficam restritas nos períodos glaciais. Gabarito: D.",
+  "hash": "ae7bbcacdc0bf1a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q10": {
+  "assunto": "Bioquímica: fotossíntese e respiração",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma conclusão sobre fotossíntese e respiração com base no texto. Ele afirma que a fotossíntese é o único processo biológico relevante que converte energia solar em energia química, armazenada nos carboidratos; todos os organismos usam essa energia na respiração; e até a biomassa e os combustíveis fósseis resultam da atividade fotossintética. Logo, em última análise, a vida na Terra depende da energia vinda do Sol. A alternativa A erra porque CO₂ e água são moléculas de baixo teor energético; os carboidratos é que são ricos em energia. A B atribui aos carboidratos uma função que é dos cloroplastos: os carboidratos armazenam a energia, não a convertem. A D inverte os papéis, pois a respiração libera CO₂, e quem retira carbono do ar é a fotossíntese. A E erra porque produzir biomassa retira CO₂ da atmosfera; o aumento vem da queima. Gabarito: C.",
+  "hash": "353dfb06ded808cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q11": {
+  "assunto": "Fisiologia humana: termorregulação",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta qual sistema é o principal responsável por manter a temperatura corporal entre 36 ºC e 37 ºC. O controle é feito pelo sistema nervoso, especificamente pelo hipotálamo, que funciona como um termostato. Em dias quentes ou durante exercícios, ele aciona mecanismos de perda de calor, como a sudorese: o suor evapora na pele e, ao evaporar, retira calor do corpo. Também promove a dilatação dos vasos periféricos, aumentando a troca de calor com o ambiente. A alternativa A erra porque enzimas digestivas não regulam temperatura. A B atribui ao sistema imunológico uma função que ele não tem. A D cita um efeito pontual (ondas de calor da menopausa), não o mecanismo principal. A E confunde sistemas: anticorpos são produzidos pelo sistema imunológico, não pelo endócrino. Gabarito: C.",
+  "hash": "ce9bb47617fd73f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q12": {
+  "assunto": "Equilíbrio químico: deslocamento, ph de sabões",
+  "dificuldade": 4,
+  "explicacao": "A questão pede em que condição de pH os sabões são mais eficientes. O texto mostra o equilíbrio de hidrólise do ânion estearato: CH₃(CH₂)₁₆COO⁻ + H₂O ⇌ CH₃(CH₂)₁₆COOH + OH⁻. O ácido carboxílico formado à direita é pouco solúvel e remove mal a gordura, então é preciso evitar que o equilíbrio se desloque para a direita. Pelo princípio de Le Chatelier, aumentar a concentração de um produto desloca o equilíbrio no sentido dos reagentes. Em pH básico há muitos íons OH⁻, que é produto da reação; o equilíbrio se desloca para a esquerda, mantendo o sabão na forma de ânion carboxilato, que é a forma ativa. Em pH ácido, os íons H⁺ consomem OH⁻ e o equilíbrio vai para a direita, formando o ácido pouco eficiente. Por isso, as alternativas B e E estão erradas. A C erra porque o meio neutro não favorece tanto a forma aniônica quanto o básico. A D ignora a dependência do equilíbrio com o pH. Gabarito: A.",
+  "hash": "00094a5f2a4b1feb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q13": {
+  "assunto": "Ecologia: impactos ambientais de rodovias",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma forma razoável de conciliar progresso social e conservação ambiental na construção de rodovias. O texto mostra os dois lados: as estradas integram comunidades isoladas, mas podem fragmentar habitats, prejudicar rios e facilitar a entrada de espécies exóticas. A solução equilibrada é permitir a obra quando sua necessidade for comprovada e depois de estudos de impacto ambiental que indiquem como contornar ou compensar os danos. É a lógica do desenvolvimento sustentável e do licenciamento ambiental. A alternativa A despreza o direito das populações rurais a acesso e qualidade de vida. A B propõe esvaziar o campo, o que agravaria problemas urbanos. A C usa apenas o critério financeiro e ignora a questão ambiental. A E minimiza os impactos, que muitas vezes são permanentes e difíceis de reverter. Gabarito: D.",
+  "hash": "736acee89ed0ff74",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q14": {
+  "assunto": "Energia e trabalho: rendimento de conversões",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a proposta que mais aumenta a eficiência geral do processo. A figura mostra três etapas: usina (E₁ = 0,35), linhas de transmissão (E₂ = 0,90) e iluminação (E₃ = 0,05). A eficiência geral é o produto: 0,35 × 0,90 × 0,05 ≈ 0,016, ou 1,6%. Para aumentá-la, é preciso melhorar a eficiência de alguma etapa. A etapa mais crítica é a lâmpada, com apenas 5%. Trocar lâmpadas incandescentes por fluorescentes, que convertem uma fração bem maior da energia em luz, e usar condutores melhores nas linhas, reduzindo perdas por efeito Joule, aumenta E₃ e E₂ ao mesmo tempo. A alternativa A só aumenta a entrada de energia, sem mudar o rendimento. A B é falsa: lâmpadas incandescentes geram muito calor e pouca luz. A C reduz o consumo, mas não a eficiência do processo. A D piora as linhas, pois cabos mais finos têm maior resistência e dissipam mais energia. Gabarito: E.",
+  "hash": "1281d880064015d2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q15": {
+  "assunto": "Eletroquímica: refino eletrolítico do cobre",
+  "dificuldade": 4,
+  "explicacao": "A questão pede quais impurezas se sedimentam abaixo do ânodo no refino eletrolítico do cobre. A série apresentada ordena os metais por força redutora crescente: ouro, platina, prata, cobre, chumbo, níquel e zinco. Força redutora é a tendência de o metal se oxidar, ou seja, perder elétrons. No ânodo, o cobre é oxidado a Cu²⁺. Metais com força redutora maior que a do cobre (chumbo, níquel e zinco) também se oxidam e passam para a solução como íons. Já os metais com força redutora menor (ouro, platina e prata), mais nobres, não se oxidam nas condições em que o cobre se oxida; eles apenas se desprendem do ânodo e se acumulam no fundo, formando a chamada lama anódica, que depois é comercializada. A alternativa A inclui metais que se dissolvem. A C lista justamente os que passam para a solução. As alternativas D e E misturam um metal que sedimenta com outro que se oxida. Gabarito: B.",
+  "hash": "a56127e5a7c47861",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q16": {
+  "assunto": "Genética: transcrição e tradução",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que se conclui do modelo apresentado. O esquema mostra o DNA se replicando, uma seta dupla entre DNA e RNA (transcrição e, no sentido inverso, transcrição reversa) e um único RNA originando, por tradução, três proteínas diferentes: a, b e c. Portanto, a partir de um mesmo produto da transcrição é possível obter diferentes variantes proteicas, o que, na prática, ocorre por processamento alternativo do RNA. A alternativa A erra porque o RNA também participa da síntese de proteínas, como mostra o modelo. A B contradiz a figura, que tem seta dupla entre DNA e RNA, indicando fluxo nos dois sentidos. A C erra porque, na transcrição, a fonte de informação é o DNA, não as proteínas. A E traz informações sobre a forma das moléculas que o modelo não apresenta. Gabarito: D.",
+  "hash": "32a6ed1f84964dd3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q17": {
+  "assunto": "Dinâmica: resultante centrípeta",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o raio mínimo das curvas para que a aceleração lateral não passe de 0,1 g. Primeiro, a velocidade do trem: ele percorre 403 km em 1 h 25 min, ou seja, 85 min = 5.100 s. Então v = 403.000 m ÷ 5.100 s ≈ 79 m/s, que se aproxima de 80 m/s. Nas curvas, a aceleração lateral é a centrípeta: a = v²/R. O limite é a = 0,1 × 10 = 1 m/s². Isolando o raio: R = v²/a = 80² ÷ 1 = 6.400 m. Se o raio fosse menor, a aceleração centrípeta ultrapassaria 1 m/s², tornando a viagem desconfortável. A alternativa A (80 m) confunde o valor da velocidade com o raio. A B (430 m) e a C (800 m) resultam de contas incompletas, sem elevar a velocidade ao quadrado corretamente. A D (1.600 m) corresponde a uma velocidade de 40 m/s, metade da real. Gabarito: E.",
+  "hash": "7ec3848c8eb1f1d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q18": {
+  "assunto": "Eletrodinâmica: corrente elétrica, capacidade de refrigeração",
+  "dificuldade": 4,
+  "explicacao": "A questão pede quais dados da tabela são essenciais para duas decisões: quantos ou quais aparelhos são necessários para retirar o calor produzido por 40 pessoas, e qual a espessura da fiação. Para a primeira, importa quanto calor cada aparelho consegue retirar por unidade de tempo, que é a capacidade de refrigeração (em kW ou BTU/h); basta comparar com o calor total gerado pelo público. Para a segunda, a espessura do fio depende da corrente elétrica que passa por ele, pois correntes maiores exigem fios mais grossos para evitar superaquecimento; o dado relevante é a corrente no ciclo frio, já que o aparelho funcionará refrigerando. A alternativa A usa vazão de ar, que não mede calor retirado, e potência, que sozinha não define o fio. A B acerta a corrente, mas troca a capacidade pela vazão. A C usa dados úteis para avaliar consumo, não para dimensionar. A D inclui a frequência, igual para todos os modelos e irrelevante para a fiação. Gabarito: E.",
+  "hash": "d9a7fabe7d3190b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q19": {
+  "assunto": "Eletrodinâmica: potência elétrica residencial",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a potência total com todos os aparelhos ligados, somando eletrodomésticos e lâmpadas. Aparelhos, pelo primeiro quadro: som 120 + chuveiro 3.000 + ferro 500 + televisor 200 + geladeira 200 + rádio 50 = 4.070 W. Agora as lâmpadas, pela área de cada cômodo na planta. Sala/cozinha: 3 × 3 = 9 m², faixa de 7,5 a 10,5, logo 100 W. Banheiro: 1,5 × 2,1 = 3,15 m², até 6,0, logo 60 W. Quarto: 2,8 × 3 = 8,4 m², logo 100 W. Corredor abaixo do banheiro: 1,5 × (3 − 2,1) = 1,5 × 0,9 = 1,35 m², logo 60 W. Total das lâmpadas: 100 + 60 + 100 + 60 = 320 W. Potência total: 4.070 + 320 = 4.390 W. A alternativa A considera só os aparelhos, sem as lâmpadas. As alternativas B, C e E resultam de classificar errado alguma área, por exemplo usando 100 W no banheiro ou no corredor ou esquecendo uma lâmpada. Gabarito: D.",
+  "hash": "357c04aa92a340a0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q20": {
+  "assunto": "Termologia: máquinas térmicas, rendimento",
+  "dificuldade": 4,
+  "explicacao": "A questão pede uma ação que economize energia sem reduzir a capacidade de geração da usina. O esquema mostra o ciclo: o combustível é queimado na caldeira, a água vira vapor, o vapor move a turbina ligada ao gerador, é condensado com água fria do lago e bombeado de volta. Boa parte da energia é perdida como calor, inclusive nos gases quentes que saem pela chaminé. Aproveitar esse calor residual para acionar outro gerador (cogeração) transforma energia que seria desperdiçada em eletricidade, aumentando o rendimento total sem mexer na geração principal. A alternativa A reduziria a geração, já que menos combustível significa menos vapor. A B prejudicaria a condensação do vapor, comprometendo o ciclo. A C poderia impedir o retorno adequado da água à caldeira. A D aumentaria as perdas de calor nos dutos, piorando o rendimento. Gabarito: E.",
+  "hash": "1510c50a399cef02",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q21": {
+  "assunto": "Citologia: meiose, mitose, ciclo de vida",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o esquema que representa o ciclo de vida humano. Nos seres humanos, o organismo adulto é diploide (2n). Nas gônadas, células passam por meiose e originam gametas haploides (n). Na fecundação, os gametas se unem e formam o zigoto diploide (2n), que se desenvolve por sucessivas mitoses até formar o adulto. Esse é o ciclo diplobionte com meiose gamética, representado na alternativa C: adulto 2n, meiose, gametas n, fecundação, zigoto 2n, mitose. A alternativa A mostra alternância de gerações (esporófito e gametófito), típica de plantas. A B coloca mitose na formação dos gametas e um zigoto haploide, o que é impossível após a fecundação de dois gametas n. A D usa mitose para formar gametas e meiose para o desenvolvimento do zigoto, o que reduziria o adulto a haploide. A E mostra um zigoto haploide, incompatível com a fecundação. Gabarito: C.",
+  "hash": "1f4ab85769d2bd72",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q22": {
+  "assunto": "Saúde e doenças: administração de fármacos, iontoforese",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma conclusão sobre o uso da iontoforese com base no texto. O problema inicial apresentado é que medicamentos ingeridos se espalham pelo corpo e agem em locais diferentes do alvo, causando efeitos indesejados. A iontoforese aplica uma corrente elétrica de baixa intensidade na pele, fazendo o fármaco atravessar as membranas e alcançar a circulação sem passar pelo estômago, perto do local de interesse. Assim, tende a reduzir os efeitos colaterais em comparação com a via oral. A alternativa A contradiz o texto, que descreve a técnica como indolor e não invasiva. A B não tem apoio: os pacientes relatam apenas formigamento. A C erra porque a técnica facilita, e não inibe, a ação do medicamento. A E é falsa, pois o texto explica que moléculas neutras também entram, pela eletrosmose. Gabarito: D.",
+  "hash": "44685b307e2057de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q23": {
+  "assunto": "Química ambiental: metais pesados, pilhas e baterias",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma medida que acabe definitivamente com a poluição por metais pesados de pilhas e baterias. A palavra-chave é definitivamente. Coleta, devolução e regras de descarte reduzem o problema, mas dependem do comportamento das pessoas e não eliminam o risco, como o próprio texto reconhece ao dizer que o problema persiste mesmo com a legislação. A única solução que ataca a origem é eliminar esses metais do produto: exigir que fabricantes pesquisem substitutos menos nocivos e não bioacumulativos. A alternativa A é inviável na sociedade atual e não resolve o lixo já existente. A B apenas diminui o descarte e protege o consumidor, sem eliminar a contaminação. As alternativas C e D tratam do descarte correto, que ameniza, mas não acaba com o problema, já que parte das pilhas ainda vai para o lixo comum. Gabarito: E.",
+  "hash": "5410d4aaa2102443",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q24": {
+  "assunto": "Termologia: umidade relativa do ar",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma conclusão a partir do texto e do gráfico. O gráfico mostra que, de madrugada, a temperatura é baixa (cerca de 3 ºC) e a umidade relativa é alta (cerca de 71% por volta das 6 h). À tarde, com o Sol, a temperatura sobe até cerca de 11 ºC por volta das 16 h, e a umidade relativa cai para cerca de 47%. Como a umidade relativa é a razão entre o vapor existente e o máximo que o ar suporta naquela temperatura, o ar mais quente comporta mais vapor e a umidade relativa diminui. Assim, a insolação, ao aquecer o ar, provoca variação da umidade relativa. A alternativa B não se conclui do gráfico, que mostra umidade relativa, não quantidade absoluta de vapor. A C erra: as grandezas variam de modo inverso. A D contradiz a definição, que é uma razão, não um valor absoluto. A E traz uma informação sazonal que o gráfico de um único dia não permite afirmar. Gabarito: A.",
+  "hash": "7bc65c4d3cf8512a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q25": {
+  "assunto": "Saúde e doenças: testes diagnósticos, sensibilidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a interpretação correta do quadro usando as definições de sensibilidade e especificidade. Do quadro: entre 50 infectados, 45 deram positivo e 5 negativo; entre 950 não infectados, 38 deram positivo e 912 negativo. Sensibilidade = 45 ÷ 50 = 0,90, ou 90%. Especificidade = 912 ÷ 950 = 0,96, ou 96%. Assim, a cada 100 infectados, o teste classifica 90 como positivos. A alternativa A erra porque há 38 falsos positivos; o número 5 corresponde aos falsos negativos. A C confunde: entre 100 não infectados, 96 seriam negativos, não positivos. A D erra porque profilaxia é prevenção, não tratamento de falsos positivos. A E inverte a lógica: maior sensibilidade significa menos falsos negativos. Gabarito: B.",
+  "hash": "69ec6cb03fc33a11",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q26": {
+  "assunto": "Funções inorgânicas: força de ácidos, chuva ácida",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quais ácidos citados conferem maior acidez à chuva, considerando concentrações iguais. Nesse caso, o que importa é a força do ácido, isto é, seu grau de ionização em água: quanto mais o ácido se ioniza, mais íons H⁺ libera e menor é o pH. Para oxiácidos, uma regra prática é subtrair o número de hidrogênios ionizáveis do número de oxigênios: diferença 2 ou mais indica ácido forte. H₂SO₄: 4 − 2 = 2, forte. HNO₃: 3 − 1 = 2, forte. H₂SO₃: 3 − 2 = 1, moderado. HNO₂: 2 − 1 = 1, moderado. H₂CO₃ é um ácido fraco e instável. Logo, os mais fortes são H₂SO₄ e HNO₃. A alternativa A inclui o HNO₂, moderado. A B inclui o H₂SO₃, moderado. A C reúne os dois moderados. A E reúne o ácido carbônico, fraco, e o sulfuroso, moderado. Gabarito: D.",
+  "hash": "aea12e6a78394a63",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q27": {
+  "assunto": "Gravitação: peso e movimento orbital",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma avaliação da frase do astronauta: o telescópio teria massa grande, mas peso pequeno. Massa é a medida da inércia do corpo e não muda com o local. Peso é a força de atração gravitacional da Terra sobre o corpo. A 560 km de altitude, a distância ao centro da Terra é cerca de 6.400 + 560 = 6.960 km, e a gravidade ainda vale cerca de 85% do valor na superfície. Portanto, o peso do telescópio não é pequeno; é justamente essa força que funciona como resultante centrípeta e o mantém em órbita. A sensação de ausência de peso vem do fato de astronauta e telescópio estarem em queda livre juntos. A alternativa A erra ao dizer que a gravidade não atua. A B confunde o peso com a atração criada pela própria massa do telescópio. A C erra porque as leis de Kepler valem para satélites artificiais e não servem para medir massa e peso. A E erra ao negar a força-peso e ao avaliar massa pelo volume. Gabarito: D.",
+  "hash": "6cea2e7c55d58423",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q28": {
+  "assunto": "Ecologia: sucessão ecológica, espécies pioneiras",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a melhor estratégia para reflorestar uma mata ciliar quase totalmente desmatada. Sem as árvores, o dossel não existe mais e o solo fica exposto a muita luz. Por isso, o reflorestamento deve começar com espécies pioneiras, que se desenvolvem bem sob sol pleno e, com o tempo, criam sombra para as espécies de estágios posteriores da sucessão. Na tabela, as espécies 2, 3 e 5 tiveram desenvolvimento bom sob sol pleno e pior sob sombreamento forte, perfil típico de pioneiras. A alternativa A erra porque a espécie 8 teve desenvolvimento ruim ao sol, enquanto a 1 foi razoável. A C erra porque espécies exóticas não são necessárias e podem prejudicar o ecossistema; há nativas adaptadas. A D erra porque a espécie 7 teve desempenho ruim em quase todas as condições. A E contradiz a situação, pois a área desmatada não tem mais dossel fechado. Gabarito: B.",
+  "hash": "5467a0f175c2e7f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q29": {
+  "assunto": "Atomística: isótopos, estabilidade nuclear",
+  "dificuldade": 3,
+  "explicacao": "A questão pede, a partir do gráfico de núcleos estáveis, quantos nêutrons os isótopos estáveis do elemento com 50 prótons possuem em relação ao número de prótons. (Observação: o elemento com Z = 50 é o estanho; o antimônio tem Z = 51, mas isso não altera a leitura pedida.) No gráfico, localize Z = 50 no eixo horizontal e suba até os pontos de núcleos estáveis: eles ficam aproximadamente entre N = 62 e N = 74. A reta Z = N passa por N = 50 nesse ponto, e os pontos estáveis estão acima dela. Fazendo a diferença: 62 − 50 = 12 e 74 − 50 = 24. Logo, esses isótopos têm entre 12 e 24 nêutrons a mais que prótons. As alternativas A e E erram ao indicar menos nêutrons que prótons, pois os pontos estão acima da reta Z = N. A B erra porque nenhum núcleo estável com Z = 50 fica sobre a reta. A C subestima o excesso de nêutrons. Gabarito: D.",
+  "hash": "487d9f98e7bd5d13",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q30": {
+  "assunto": "Eletrodinâmica: efeito joule, calorimetria",
+  "dificuldade": 5,
+  "explicacao": "A questão compara quanta gasolina é gasta para aquecer a mesma água de duas formas. Primeiro, o calor necessário: 200 L de água equivalem a 200.000 g. Q = m·c·ΔT = 200.000 × 4,19 × (55 − 20) = 200.000 × 4,19 × 35 ≈ 2,93 × 10⁷ J. Por combustão direta, isso custa 1 litro de gasolina. Agora o gerador: ele fornece 110 V a um resistor de 11 Ω. A potência dissipada é P = U²/R = 110² ÷ 11 = 12.100 ÷ 11 = 1.100 W. O tempo para fornecer o calor é t = Q/P = 2,93 × 10⁷ ÷ 1.100 ≈ 26.700 s, ou cerca de 7,4 horas. Como o gerador consome 1 litro por hora, gasta aproximadamente 7 litros. Portanto, o gerador consome cerca de sete vezes mais gasolina que a combustão direta, por causa das perdas na conversão de calor em eletricidade. A alternativa A ignora essas perdas. As alternativas B e C erram o fator calculado. A E inverte a comparação. Gabarito: D.",
+  "hash": "ff0c0b7c92da6b54",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q31": {
+  "assunto": "Ondulatória: ondas eletromagnéticas, frequência",
+  "dificuldade": 4,
+  "explicacao": "A questão pergunta qual tecnologia escolher para obter a mesma cobertura com o menor número de antenas, supondo iguais a intensidade de transmissão e o nível de recepção. O número de antenas depende do alcance de cada uma, ou seja, de como a intensidade do sinal diminui com a distância. No modelo considerado, a intensidade de uma onda eletromagnética que se espalha a partir da antena diminui com o quadrado da distância, pois a mesma potência se distribui por áreas cada vez maiores; esse decaimento não depende da frequência. Como as potências e os níveis de recepção são iguais, o alcance é o mesmo e o engenheiro pode escolher qualquer uma das duas. A alternativa A erra porque o GSM, de maior frequência, tem menor comprimento de onda. A B traz o efeito Doppler, irrelevante para o alcance. A C erra porque todas as ondas eletromagnéticas se propagam com a mesma velocidade no ar. A D usa uma justificativa sem sentido físico para o alcance. Gabarito: E.",
+  "hash": "aaff07aaa83ec672",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q32": {
+  "assunto": "Física moderna: raios x, absorção da radiação",
+  "dificuldade": 3,
+  "explicacao": "A questão descreve uma radiação de comprimento de onda bem menor que o ultravioleta, ou seja, raios X, atravessando o pescoço até um filme que escurece quanto mais radiação recebe. Na imagem, os ossos (vértebras e crânio) aparecem claros, e os tecidos moles aparecem escuros. Isso indica que pouca radiação passou pelos ossos: eles absorvem mais raios X. Os ossos são ricos em cálcio, elemento de número atômico maior que o dos átomos que predominam nos tecidos moles (carbono, hidrogênio, oxigênio e nitrogênio), e a absorção de raios X cresce com o número atômico. A alternativa A erra porque ionizar um átomo não o transforma em outro elemento. A C inverte a relação: o cálcio absorve mais que o carbono. A D fala em refração, que não é o fenômeno responsável pelo contraste. A E não explica a diferença entre osso e tecido mole. Gabarito: B.",
+  "hash": "c527aa955580f192",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q33": {
+  "assunto": "Evolução: seleção natural, camuflagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o mecanismo evolutivo que explica a semelhança entre a cor da pelagem dos ratos e a cor do solo de cada região. Em cada ambiente, ratos com pelagem parecida com o solo ficam camuflados e são menos vistos por predadores, como aves de rapina. Eles sobrevivem mais e deixam mais descendentes, transmitindo os genes dessa coloração. Ao longo das gerações, cada população passa a ter a cor que mais combina com seu substrato. Essa sobrevivência e reprodução diferenciadas definem a seleção natural. A alternativa A é falsa: a cor da pelagem não vem de pigmentos do solo ingeridos. A B erra porque o fluxo gênico tende a homogeneizar as populações, e não a manter as diferenças. A D erra porque a mutação não ocorre mais em certos solos nem é dirigida pelo ambiente. A E descreve o lamarckismo, já descartado. Gabarito: C.",
+  "hash": "ec8c5c0d1050078a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q34": {
+  "assunto": "Microbiologia e parasitologia: decomposição, compostagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta o que acontece se a compostagem for feita sem o umedecimento periódico. A compostagem é a decomposição da matéria orgânica por microrganismos, como bactérias e fungos. Esses seres precisam de água para seu metabolismo: é no meio aquoso que ocorrem as reações enzimáticas e a absorção de nutrientes. Sem umidade, a atividade microbiana diminui muito ou para, e a matéria orgânica não é decomposta, de modo que o adubo não se forma adequadamente. A alternativa A erra porque o mau cheiro está ligado a excesso de umidade e falta de oxigênio, não à secura. A B descreve o resultado de forma confusa e não aponta a causa. A D erra porque a falta de água reduz a atividade dos microrganismos e, portanto, o aquecimento do composto. A E se aplica a ambientes sem oxigênio, que não é o caso, já que o material é revirado. Gabarito: C.",
+  "hash": "0661d1b7523daf13",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q35": {
+  "assunto": "Termologia: calorimetria, energia solar",
+  "dificuldade": 5,
+  "explicacao": "A questão pede o comprimento do refletor necessário para aquecer 1 m³ (1.000 kg) de água de 20 °C a 100 °C em uma hora. Calor necessário: Q = m·c·ΔT = 1.000 × 4.200 × 80 = 3,36 × 10⁸ J. Potência necessária: P = Q/t = 3,36 × 10⁸ ÷ 3.600 ≈ 9,33 × 10⁴ W. Como cada metro quadrado do refletor recebe 800 W, a área necessária é A = 93.300 ÷ 800 ≈ 117 m². O refletor tem 6 m de largura, então o comprimento é L = 117 ÷ 6 ≈ 19,4 m, que está entre 15 m e 21 m. A alternativa B corresponde a erro na conversão ou nos dados. A C (105 m a 125 m) corresponde ao valor da área, esquecendo de dividir pela largura. As alternativas D e E resultam de esquecer a divisão pelo tempo em segundos ou de confundir unidades. Gabarito: A.",
+  "hash": "73e17f83664e75f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q36": {
+  "assunto": "Química orgânica: conjugação, polaridade das moléculas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a molécula mais adequada como filtro solar, segundo dois critérios do texto: ter anel aromático conjugado com grupo carbonila (alternância de ligações simples e duplas) e ter, numa extremidade, uma parte apolar que reduza a solubilidade em água. Na alternativa E, o anel aromático está ligado a uma dupla C=C, que por sua vez está ligada à carbonila de um éster: a conjugação se estende do anel até a C=O. Do outro lado do éster há uma cadeia carbônica ramificada (2-etil-hexila), apolar, que torna a molécula pouco solúvel em água. A alternativa A tem a conjugação, mas termina em ácido carboxílico, grupo polar, sem cadeia apolar. A B tem cadeia apolar e carbonila, mas não tem anel aromático. A C tem anel e cadeia apolar, mas não tem carbonila. A D tem anel, carbonila e cadeia apolar, mas dois carbonos saturados entre o anel e a carbonila interrompem a conjugação. Gabarito: E.",
+  "hash": "c4e0ceefa0f1e1da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q37": {
+  "assunto": "Óptica: cor dos objetos, visão",
+  "dificuldade": 3,
+  "explicacao": "A questão pergunta como uma pessoa sem o funcionamento dos cones enxergaria um objeto branco iluminado só por luz vermelha. Um objeto branco reflete todas as cores que recebe; iluminado apenas com vermelho, reflete luz vermelha. Para uma pessoa com visão normal, ele pareceria vermelho. Mas o texto explica que quem distingue cores são os cones; os bastonetes só percebem a intensidade da luz, sem separar comprimentos de onda. Sem cones, a pessoa recebe a luz refletida apenas pelos bastonetes e percebe somente níveis de claridade, ou seja, vê o objeto em tons de cinza. A alternativa A erra porque os bastonetes continuam ativos. A B erra porque o objeto não emite branco; reflete só o vermelho recebido. A C não tem justificativa: nada no caso produziria verde. A E descreve a percepção de quem tem cones funcionando. Gabarito: D.",
+  "hash": "595e1a00b690b100",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q38": {
+  "assunto": "Termologia: dilatação volumétrica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ganho do dono do posto, em uma semana, por aquecer o álcool antes de vendê-lo. Ao ser aquecido de 5 °C para 35 °C, o álcool dilata e o mesmo combustível passa a ocupar mais litros. Dilatação volumétrica: ΔV = V₀·γ·ΔT = 20.000 × 1 × 10⁻³ × 30 = 600 L por dia. Esses 600 litros a mais são vendidos a R$ 1,60, gerando 600 × 1,60 = R$ 960,00 por dia. Em uma semana: 7 × 960 = R$ 6.720,00, valor entre R$ 6.000,00 e R$ 6.900,00. As alternativas A e B correspondem aproximadamente ao ganho de um dia ou a um cálculo com o preço de compra. A C resulta de erros no número de dias ou no preço. A E superestima o ganho, por exemplo usando a diferença errada de temperatura. Gabarito: D.",
+  "hash": "fe0049f53c315469",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q39": {
+  "assunto": "Termologia: máquinas frigoríficas, segunda lei",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma afirmação correta sobre as transformações de energia na geladeira. A geladeira é uma máquina frigorífica: retira calor do interior, que está mais frio, e o entrega ao ambiente externo, mais quente. Pela segunda lei da termodinâmica, o calor só flui espontaneamente do corpo quente para o frio; para fazer o caminho inverso, é preciso realizar trabalho, fornecido pelo compressor. Logo, o fluxo de calor do interior para o exterior é não espontâneo. A alternativa A erra porque, na expansão, o gás absorve calor do interior, em vez de ceder energia. A C erra porque o calor cedido ao meio externo é igual ao calor retirado mais o trabalho do compressor, sendo maior. A D inverte a lógica: quanto melhor o isolamento, mais eficiente a geladeira. A E é falsa, pois abrir a porta deixa entrar calor e aumenta o consumo. Gabarito: B.",
+  "hash": "d3f4c5fd7ffe4daa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q40": {
+  "assunto": "Biotecnologia: nanotecnologia, riscos ambientais",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta por que o uso de nanopartículas exige estudos mais detalhados. O texto mostra que, em escala nanométrica, os materiais apresentam propriedades peculiares de reatividade, condutividade e resistência. Por serem extremamente pequenas, essas partículas podem atravessar poros e canais das membranas celulares e entrar em células e tecidos de forma imprevisível. Como seus efeitos sobre os seres vivos e sobre o ambiente ainda não são bem conhecidos, é prudente estudá-los antes de ampliar seu uso. A alternativa A erra porque tamanho pequeno não torna as partículas radioativas. A B é falsa: já existem técnicas para caracterizar nanopartículas. A C erra porque testes podem ser feitos em vários tipos de organismos e células. A E erra duas vezes: não há imunidade garantida e bactérias são bem maiores que um bilionésimo de metro, medindo micrômetros. Gabarito: D.",
+  "hash": "6d3f077ce6a5f940",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q41": {
+  "assunto": "Genética: dna mitocondrial, herança materna",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a melhor fonte de DNA para confirmar o parentesco de uma vítima carbonizada com um casal. O texto dá duas pistas: o material está muito degradado, e o número de cópias de uma molécula por célula aumenta a chance de encontrar DNA intacto. Cada célula tem centenas a milhares de mitocôndrias, e cada uma tem várias cópias do DNA mitocondrial. Além disso, o DNAmt é herdado da mãe, então pode ser comparado com o da suposta mãe, confirmando o vínculo. Por isso, o DNAmt é a melhor opção. A alternativa B erra porque o cromossomo X tem no máximo duas cópias por célula, número muito pequeno. A C erra ao chamar o DNAmt de nuclear; ele fica nas mitocôndrias. A D é falsa: o cromossomo Y é transmitido só aos filhos homens e não existe em mulheres. A E erra porque cada autossomo tem apenas duas cópias por célula, não 44. Gabarito: A.",
+  "hash": "2164def88f83aacc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q42": {
+  "assunto": "Ecologia: impactos da carcinicultura, produtividade primária",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma perturbação ambiental esperada pela descarga de efluentes de fazendas de camarão perto de um manguezal. O texto informa que esses efluentes contêm matéria orgânica, compostos nitrogenados, fosfatos e partículas sólidas em suspensão. As partículas deixam a água turva e dificultam a penetração da luz. Como o fitoplâncton depende da luz para a fotossíntese, sua atividade diminui e a produtividade primária do ambiente marinho fica comprometida, afetando toda a cadeia alimentar. A alternativa A descreve um processo natural de reciclagem, não uma perturbação. A B erra porque os ambientes marinhos são relativamente estáveis e sensíveis a alterações físico-químicas. A C inverte a nitrificação: o nitrito é o intermediário e o nitrato é o produto final. A D erra porque o manguezal tem baixa diversidade vegetal, e o crescimento excessivo de algas não se deve a isso. Gabarito: E.",
+  "hash": "7d2e603424f381cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q43": {
+  "assunto": "Termoquímica: entalpia de combustão",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a ordem crescente dos combustíveis segundo o calor liberado por mol de CO₂ produzido. Para isso, divida a entalpia de combustão pelo número de mols de CO₂ formados, que é igual ao número de carbonos da molécula. Metano, CH₄: 1 mol de CO₂, 890 ÷ 1 = 890 kJ por mol de CO₂. Butano, C₄H₁₀: 4 mols de CO₂, 2.878 ÷ 4 ≈ 720 kJ por mol de CO₂. Octano, C₈H₁₈: 8 mols de CO₂, 5.471 ÷ 8 ≈ 684 kJ por mol de CO₂. Em ordem crescente: octano (gasolina), butano (GLP) e metano (gás natural). Ou seja, o gás natural é o que libera mais energia para cada mol de CO₂ emitido. A alternativa B inverte a posição do gás natural. A C e a E misturam a ordem. A D apresenta a ordem decrescente, que resultaria de comparar os valores sem dividir pelo número de carbonos. Gabarito: A.",
+  "hash": "ef4cfd5c505abe5e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q44": {
+  "assunto": "Soluções: concentração em massa, destilação",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a concentração de etanol no resíduo da destilação. Faça um balanço de massa. Mistura inicial: 800 kg com 20% de etanol, ou seja, 0,20 × 800 = 160 kg de etanol. Destilado: 100 kg de álcool a 96%, ou seja, 96 kg de etanol. Resíduo: massa total 800 − 100 = 700 kg, contendo 160 − 96 = 64 kg de etanol. Concentração do resíduo: 64 ÷ 700 ≈ 0,0914, ou cerca de 9,1%, valor entre 9,0% e 9,2%. A alternativa A supõe que todo o etanol foi destilado, o que não ocorre. A B resulta de dividir 64 kg pela massa inicial de 800 kg. A C provém de erro nas subtrações. A E superestima a concentração, por exemplo desconsiderando o etanol que saiu no destilado de forma correta. Gabarito: D.",
+  "hash": "0fd38d56e3a62c4d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q45": {
+  "assunto": "Eletrodinâmica: associação de resistores",
+  "dificuldade": 4,
+  "explicacao": "A questão pede as três lâmpadas com mesma corrente. Todas são iguais, com resistência R. Analise o circuito do fim para o início. L7 e L8 estão em série: 2R. L5 e L6 também estão em série: 2R. Esses dois ramos estão em paralelo: 2R ∥ 2R = R. Esse conjunto está em série com L4: R + R = 2R. Esse ramo está em paralelo com L2 e L3 em série (2R): 2R ∥ 2R = R. Tudo isso em série com L1: resistência total 2R. Se a corrente total é I, ela passa inteira por L1. No primeiro nó, divide-se entre dois ramos de mesma resistência: I/2 por L2 e L3 e I/2 por L4. Depois, I/2 se divide igualmente: I/4 por L5 e L6 e I/4 por L7 e L8. Assim, L2, L3 e L4 têm a mesma corrente I/2 e o mesmo brilho. A alternativa A inclui L1, com corrente I. A C e a D misturam lâmpadas com I/2 e I/4. A E mistura L4 (I/2) com L7 e L8 (I/4). Gabarito: B.",
+  "hash": "f78e59eeb23f195e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q46": {
+  "assunto": "Antiguidade: Egito antigo, poder faraônico",
+  "dificuldade": 2,
+  "explicacao": "A questão contrapõe o olhar atual sobre os monumentos egípcios, vistos como atração turística, ao seu significado no passado. No Egito antigo, pirâmides, tumbas e templos eram expressões do poder do faraó, considerado um deus vivo e senhor das terras e das pessoas. Sua construção exigia a mobilização de enormes contingentes de trabalhadores, submetidos à servidão coletiva e ao trabalho compulsório imposto pelo Estado. Assim, esses monumentos simbolizavam, entre outros aspectos, a capacidade do faraó de controlar e explorar grandes massas populacionais. A alternativa B inventa uma migração em busca de trabalho que não corresponde ao contexto. A C erra ao tratar as construções como solução para problemas econômicos. A D apresenta o trabalho forçado como mera ordenação social de desocupados. A E atribui à população uma crítica à religião que não existia nessa sociedade teocrática. Gabarito: A.",
+  "hash": "33326e1701bfff2e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q47": {
+  "assunto": "Idade Moderna: absolutismo, sociedade de corte",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um exemplo de residência real que teve grande papel político e se tornou patrimônio artístico e cultural. O texto de Norbert Elias trata da Corte do Antigo Regime francês, a casa de habitação dos reis da França. O exemplo máximo é o palácio de Versalhes, construído por Luís XIV, o Rei Sol, no século XVII. Ali o monarca reunia e controlava a nobreza por meio da etiqueta e dos privilégios, fazendo do palácio um centro do poder absolutista. Hoje é museu e patrimônio mundial. A alternativa B é um museu, não uma residência real. A C é um templo religioso. A D é residência presidencial dos Estados Unidos, fora do contexto do Antigo Regime francês. A E é um túmulo do Egito antigo, não uma casa de habitação. Gabarito: A.",
+  "hash": "cc049f4a969c837f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q48": {
+  "assunto": "Brasil Colônia: sepultamentos, hierarquia social",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma afirmação correta sobre práticas sociais ligadas aos sepultamentos em diferentes épocas. No Brasil colonial, os mortos eram enterrados dentro das igrejas, e o local da sepultura refletia a posição social: pessoas importantes ficavam perto do altar, membros de irmandades em áreas próprias, e pobres e escravizados em locais menos prestigiados ou fora do templo. Assim, o sepultamento seguia a hierarquia social. A alternativa A erra porque os gregos valorizavam muito os rituais fúnebres. A B é falsa: na Idade Média a Igreja controlava fortemente os ritos ligados à morte. A D distorce o contexto, pois as críticas a gastos e práticas religiosas vieram sobretudo dos reformadores protestantes. A E é falsa, já que o luto não foi abandonado após a Revolução Francesa. Gabarito: C.",
+  "hash": "e5c75e2a02889c8b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q49": {
+  "assunto": "Idade Média: usos políticos da memória medieval",
+  "dificuldade": 4,
+  "explicacao": "A questão pede um exemplo de como a Idade Média foi reinterpretada segundo os interesses de épocas posteriores. O caso mais claro é o de Hitler, que chamou seu regime de III Reich para apresentá-lo como herdeiro do Sacro Império Romano Germânico, o primeiro Reich, e do Império Alemão, o segundo. Essa associação usava o passado medieval como fonte de prestígio e legitimidade para o projeto nazista, revelando mais sobre o contexto dos anos 1930 do que sobre o próprio Medievo. A alternativa B erra porque o Concílio Vaticano II buscou modernizar a Igreja, não restaurar valores medievais. A C fala dos primeiros cristãos, que pertencem à Antiguidade. A D inverte a situação: Napoleão evocou Carlos Magno, mas seu fortalecimento político veio de suas vitórias e do contexto pós-revolucionário. A E erra porque Hollywood, em geral, exaltou a cavalaria. Gabarito: A.",
+  "hash": "a8a0cdde49492b87",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q50": {
+  "assunto": "Século XX: guerras e Guerra Fria: origens das guerras mundiais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede fatores que estiveram na origem dos conflitos da primeira metade do século XX, período das duas guerras mundiais. A disputa imperialista por colônias e a crise desse sistema colonial geraram rivalidades entre as potências. O nacionalismo exacerbado alimentou tensões na Primeira Guerra e, depois, a ascensão de regimes totalitários, como o nazismo e o fascismo, levou ao expansionismo que desencadeou a Segunda Guerra. A alternativa B inclui a corrida nuclear, característica da Guerra Fria, posterior a 1945. A C cita a Revolução Cubana, de 1959. A D traz o terceiro-mundismo e o expansionismo soviético, típicos da segunda metade do século. A E inclui a unificação alemã, de 1871, e a Revolução Bolchevique, que foi consequência da Primeira Guerra, não sua causa. Gabarito: A.",
+  "hash": "70238b782a78ba2f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q51": {
+  "assunto": "Século XX: guerras e Guerra Fria: nazifascismo, juventudes totalitárias",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica da atuação dos movimentos juvenis que sustentaram o nazismo e os fascismos. O texto destaca dois pontos: a mobilização em torno de ideias grandiosas de nação e a obediência cega a um único líder. Organizações como a Juventude Hitlerista e a Opera Nazionale Balilla eram fortemente doutrinadas, intolerantes a qualquer divergência e treinadas em moldes paramilitares; seus membros participavam de perseguições, intimidações e agressões contra judeus, comunistas, liberais e demais opositores. Esse sectarismo, isto é, a adesão fanática e exclusiva a um grupo, somado à violência contra os inimigos do regime, é exatamente o que descreve a alternativa A. A alternativa B está errada, pois regimes totalitários suprimiam direitos, não os ensinavam. A C confunde a propaganda de saúde e vigor físico com o papel político central desses grupos. A D contradiz o texto: não havia diálogo, apenas obediência ao líder. A E descreve mais o populismo latino-americano do que a ação radical e violenta das juventudes totalitárias. Gabarito: A.",
+  "hash": "2dde3ab78322cdbb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q52": {
+  "assunto": "Século XX: guerras e Guerra Fria: Cortina de Ferro, blocos militares",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o nome dado à divisão da Europa em dois blocos durante a Guerra Fria. O texto descreve a separação entre o bloco ocidental capitalista, reunido na OTAN, e o bloco oriental socialista, reunido no Pacto de Varsóvia. Essa fronteira política, ideológica, militar e econômica que atravessava o continente foi chamada de Cortina de Ferro, expressão popularizada por Winston Churchill em discurso de 1946, quando afirmou que uma cortina de ferro havia descido sobre a Europa, de Stettin, no Báltico, a Trieste, no Adriático. Por isso a alternativa A está correta. A alternativa B é um distrator forte, mas o Muro de Berlim, erguido em 1961, foi apenas um símbolo local dessa divisão, restrito à cidade de Berlim. A C se refere a um bloco de integração econômica posterior, que hoje reúne países dos dois antigos lados. A D é um tratado internacional sobre proteção de zonas úmidas. A E foi a conferência da ONU de 1972 sobre meio ambiente, sem relação com a bipolaridade. Gabarito: A.",
+  "hash": "c686a955539b7380",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q53": {
+  "assunto": "Século XX: guerras e Guerra Fria: movimentos de 1968, contracultura",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma avaliação dos movimentos sociais de 1968. O trecho, de um jornal estudantil de Paris, mostra um movimento que defende participação política de todos, autonomia, partilha do poder e recusa de rótulos, ou seja, um movimento claramente político e cultural ao mesmo tempo. Em 1968 houve protestos estudantis e operários na França, manifestações contra a Guerra do Vietnã nos EUA, a Primavera de Praga e mobilizações no Brasil e no México. Esse ambiente de contestação deixou como herança novas formas de luta: o pacifismo, o ambientalismo, o feminismo e a defesa dos direitos de negros, homossexuais e outras minorias, como afirma a alternativa E. A alternativa A erra ao negar a conotação política, que o próprio texto evidencia. A B ignora que houve mobilizações em países em desenvolvimento e no bloco socialista. A C inverte o efeito: o legado foi de contestação, não de fortalecimento conservador. A D subestima a repercussão política, visível na crise do governo De Gaulle e na própria Primavera de Praga. Gabarito: E.",
+  "hash": "7e7af781b6ef40aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q54": {
+  "assunto": "Povos indígenas: Yanomami, visão de natureza",
+  "dificuldade": 1,
+  "explicacao": "A questão é de interpretação: pede o que os Yanomami acreditam, segundo o texto. O ponto central é a ideia de que a floresta, urihi, é uma entidade viva, dotada de um sopro vital chamado wixia. O texto diz que, graças a esse sopro úmido, as plantas crescem, que a floresta não morre se não for desmatada e que a presença de folhas e água prova que ela está viva. Portanto, wixia é aquilo que permite à floresta manter-se por meio de processos vitais, como afirma a alternativa E. A alternativa A interpreta de modo literal e biológico a frase sobre a floresta não se decompor, que tem sentido simbólico de permanência. A B contraria o texto, que rejeita ver a floresta como objeto de exploração econômica. A C também contraria o texto, que alerta para a ameaça representada pelos brancos que desmatam. A D cria uma hierarquia inexistente: folhas e água são apresentadas como sinais do sopro vital, e não como algo menos importante. Gabarito: E.",
+  "hash": "fd1f7f9dd704d233",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q55": {
+  "assunto": "Geopolítica e conflitos: nova ordem mundial, conflitos étnicos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o panorama estratégico real do mundo após a Guerra Fria, contrastando-o com a expectativa otimista citada no enunciado, de menos conflitos e de multipolaridade. Com o fim da bipolaridade, a disputa entre EUA e URSS deixou de organizar os conflitos, e ganharam força tensões que antes estavam contidas: guerras nacionalistas e étnicas, como na ex-Iugoslávia e em Ruanda, extremismos religiosos e ameaças transnacionais, como terrorismo, narcotráfico e crime organizado, sobretudo após o 11 de setembro de 2001. É isso que descreve a alternativa A. A alternativa B erra porque os gastos militares, especialmente dos EUA, continuaram muito altos e houve instabilidade nos Bálcãs e na Ásia. A C é falsa, já que as grandes potências seguiram intervindo diretamente, como no Afeganistão e no Iraque. A D ignora os testes nucleares da Índia, do Paquistão e da Coreia do Norte. A E contradiz a realidade: os EUA agiram várias vezes à revelia da ONU, como na invasão do Iraque em 2003. Gabarito: A.",
+  "hash": "f8d705684aa28488",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q56": {
+  "assunto": "Filosofia política: democracia liberal, direito de propriedade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede, a partir do texto, a forma de inclusão social típica da tradição política dos EUA. O texto afirma que o cidadão se sente incluído pelo exercício dos direitos políticos e pela ideia de direito de propriedade, cabendo ao governo protegê-lo; assim, mesmo quem tem pouco se sente cidadão pleno. Ou seja, democracia e oportunidade econômica individual aparecem associadas: ser cidadão envolve poder possuir, prosperar e ter essa posse garantida. Essa relação é sintetizada na alternativa D. A alternativa A distorce o papel do governo, que garante direitos, mas não submete o indivíduo a uma tutela. A B contraria o texto, que diz que o pequeno proprietário também se sente cidadão pleno, sem hierarquia por posses. A C é incompatível com uma tradição centrada na propriedade privada individual. A E exagera: o texto fala em direito de propriedade, não em obrigação de todos serem proprietários. Gabarito: D.",
+  "hash": "7b2ca0e81817d527",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q57": {
+  "assunto": "Cultura e sociedade: moral e economia, Tocqueville",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma inferência sobre a visão de Tocqueville acerca dos norte-americanos. No trecho, a opinião pública condena a falta de moral porque ela desvia a atenção da busca do bem-estar e prejudica a harmonia doméstica, considerada essencial ao sucesso dos negócios. Ou seja, a moralidade, inclusive a castidade, é valorizada também por sua utilidade econômica: uma vida familiar ordenada favorece o trabalho e a prosperidade. Essa ligação entre conduta moral e progresso econômico está na alternativa D. A alternativa A é o oposto do texto, já que a virtude não é descuidada, mas exigida. A B exagera ao falar em garantia de enriquecimento rápido; o texto apenas associa moral e sucesso nos negócios. A C também contraria o trecho, em que a honra está diretamente ligada ao comportamento ético. A E inverte a relação: é a falta de moral, e não a castidade, que perturba a harmonia doméstica. Gabarito: D.",
+  "hash": "864b2e673f5d73ef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q58": {
+  "assunto": "Filosofia antiga: Aristóteles, cidadania na pólis",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que o trecho da Política, de Aristóteles, revela sobre a cidadania grega. O texto afirma que, na cidade ideal, os cidadãos não devem dedicar-se a trabalhos triviais, ao comércio ou à agricultura, porque o lazer, isto é, o tempo livre, é indispensável às qualidades morais e à atividade política. Logo, a cidadania é pensada como privilégio de quem não precisa trabalhar para viver, ou seja, dos grupos superiores, sustentados pelo trabalho de escravos, estrangeiros e camponeses. Trata-se de uma concepção política hierarquizada, como afirma a alternativa B. A alternativa A faz um juízo moral anacrônico, que não é o que o trecho permite compreender. A C erra ao dizer que todos os habitantes participavam: mulheres, escravos e estrangeiros eram excluídos. A D inventa a vinculação do tempo livre aos tribunais, ausente do texto. A E atribui o trecho à realidade ateniense, quando Aristóteles descreve um modelo ideal de cidade. Gabarito: B.",
+  "hash": "b18b78a45eb1fc70",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q59": {
+  "assunto": "Cultura e sociedade: intérpretes do Brasil, formação nacional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a frase que sintetiza o ponto de vista comum aos três intérpretes do Brasil citados. Para Caio Prado Jr., a formação se completaria ao superar a inorganicidade herdada da colônia; para Sérgio Buarque, quando o país superasse a herança portuguesa, rural e autoritária; para Celso Furtado, quando o comando econômico passasse para dentro do país. Em todos os casos, o texto insiste que a conclusão do processo está no futuro, que agora parece remoto. Assim, o Brasil aparece como um projeto sempre adiado, uma promessa que nunca se cumpre, o que corresponde à ideia de eterna esperança da alternativa B. A alternativa A sugere progresso efetivo, o oposto do diagnóstico de formação incompleta. A C exalta passado e presente, enquanto os autores apontam carências. A D e a E são frases ufanistas, centradas na natureza e na grandeza territorial, sem relação com a ideia de formação incompleta. Gabarito: B.",
+  "hash": "d3deb3b31f9b9ddc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q60": {
+  "assunto": "Cidadania e direitos: voto feminino, constituições republicanas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a comparação dos dois artigos especificamente quanto ao gênero dos eleitores. A Constituição de 1934 diz expressamente que são eleitores os brasileiros de um e de outro sexo, incorporando o voto feminino, conquistado pelo Código Eleitoral de 1932. Já a de 1891 fala apenas em cidadãos maiores de 21 anos; na prática e na interpretação da época, esse termo designava somente homens, e as mulheres não podiam votar. A necessidade de a Carta de 1934 explicitar os dois sexos confirma que antes eles não eram incluídos. Por isso a alternativa E está correta. A alternativa A é verdadeira quanto à idade, mas não responde ao critério pedido, que é o gênero. A B e a D erram ao afirmar que o texto de 1891 incluía as mulheres. A C é falsa, pois ambas as Cartas limitavam o eleitorado, por idade, alistamento e, em 1891, por sexo, além da exclusão de analfabetos. Gabarito: E.",
+  "hash": "11114ed95c788137",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q61": {
+  "assunto": "Era Vargas: Estado Novo, Constituição de 1937",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que Francisco Campos, autor da Constituição de 1937, defendia. O texto mostra uma visão autoritária: o eleitor seria apático, os partidos levariam à desordem e o Judiciário independente geraria injustiça. Em contraste, só o Executivo centralizado em Getúlio Vargas daria racionalidade ao Estado, pois Vargas teria providencial intuição do bem e da verdade e seria um gênio político. Ou seja, Vargas é apresentado como o homem capaz de governar com inteligência e correção, exatamente o que diz a alternativa E. Essa exaltação do líder sustentou ideologicamente o Estado Novo. A alternativa A exagera: o texto fala em apatia, desordem e ineficiência, não em má intenção. A B contradiz a defesa entusiasmada de Vargas, que não é visto como mal nem como transitório. A C e a D são incompatíveis com a crítica de Campos à democracia de partidos e ao liberalismo. Gabarito: E.",
+  "hash": "a3f219801cdaa1d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q62": {
+  "assunto": "Era Vargas: propaganda, trabalhismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a contribuição do programa Hora do Brasil durante o Estado Novo. O texto informa que o ministro do Trabalho falava semanalmente pela Rádio Nacional para explicar as novas leis trabalhistas. No contexto da propaganda varguista, organizada pelo DIP, o rádio servia para apresentar os direitos trabalhistas, como a CLT de 1943, como dádivas do governo, e não como conquistas dos trabalhadores. Isso reforçava a imagem de Vargas como pai dos pobres, protetor das massas, base do trabalhismo e do apoio popular ao governo, como afirma a alternativa D. A alternativa A inverte a lógica oficial, que ocultava as lutas operárias anteriores. A B erra, pois o objetivo era tutelar e controlar os trabalhadores, não dar-lhes autonomia. A C é falsa, já que greves eram reprimidas no Estado Novo. A E também é incorreta: o regime não estimulava debate político autônomo entre os trabalhadores. Gabarito: D.",
+  "hash": "1e5cda8901e8a4f1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q63": {
+  "assunto": "Brasil Colônia: Inquisição, religiosidade colonial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ponto de vista da Inquisição sobre o caso relatado: uma mulher que deu ao marido pós de ossos de defunto, ensinados como coisas diabólicas, para que o casamento fosse harmonioso. Para a Igreja, a vida conjugal era regulada pelo sacramento do matrimônio e pelos ensinamentos cristãos. Recorrer a feitiçaria e a práticas atribuídas ao diabo para resolver problemas do casamento era desviar-se da fé e da autoridade eclesiástica. Assim, o que a Inquisição condenava era a busca de soluções fora da Igreja, como indica a alternativa E. A alternativa A desloca o problema para o engano do marido, quando a preocupação era religiosa. A B exagera: o diabo não era visto como concorrente à altura da Igreja, e nem todo desvio era punido com fogueira. A C atribui à Inquisição uma preocupação sanitária que ela não tinha. A D é anacrônica, pois a noção de feminismo não existia no século XVI. Gabarito: E.",
+  "hash": "4ea2dd2714cdbc84",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q64": {
+  "assunto": "Geopolítica e conflitos: colonização, formação dos Estados",
+  "dificuldade": 4,
+  "explicacao": "A questão pede uma conclusão correta sobre a formação dos Estados nos continentes citados. O texto mostra três situações distintas de colonização: na América Latina, transplante de instituições europeias, porque as locais foram eliminadas ou eram frágeis; na África, fronteiras arbitrárias que geraram conflitos; na Ásia, superposição a sistemas sofisticados que sobreviveram. O que une esses casos é a relação entre colonizador europeu e colonizado; essa é a distinção fundamental entre a Europa, que formou seus Estados de modo próprio, e os demais continentes, como afirma a alternativa B. A alternativa A erra ao dizer que faltavam recursos naturais no Brasil, o que o texto não sustenta e a história contradiz. A C generaliza indevidamente, pois o texto diz que as instituições latino-americanas eram frágeis ou foram eliminadas. A D troca os casos: foram as do México e do Peru que se eliminaram; as brasileiras eram frágeis. A E iguala modelos que o texto contrasta, já que só na Ásia o espírito anterior sobreviveu. Gabarito: B.",
+  "hash": "48d174a9c4ca068d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q65": {
+  "assunto": "Brasil Império: independência, tensões raciais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como se percebem conflitos raciais na época da independência. As trovas do Recife dizem que marinheiros, termo para portugueses, e caiados, isto é, brancos, deviam acabar, para que só pardos e pretos habitassem o país. O texto liga essas trovas à revolta escrava do Haiti, que levou à independência e ao fim da escravidão sob liderança negra. Assim, as notícias e rumores sobre o Haiti circulavam entre escravos e mestiços pobres e alimentavam desejos de mudança radical, o que assustava as elites. Isso está na alternativa A. A alternativa B mistura a questão racial com a Noite das Garrafadas, conflito de 1831 entre brasileiros e portugueses no Rio, sem relação com as trovas. A C contradiz as trovas, que não expressam apoio à monarquia. A D interpreta mal o termo marinheiros, que designava portugueses, não a elite branca dos portos. A E inventa expulsões de líderes negros independentistas, ausentes do texto. Gabarito: A.",
+  "hash": "4ed6b4ef4d09c1b1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q66": {
+  "assunto": "Geopolítica e conflitos: política externa brasileira",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a conclusão sobre a política externa brasileira no século XX. O texto afirma que o Brasil construiu sua inserção internacional com inteligência de longo prazo e cálculo de oportunidade, buscou autonomia decisória no século XX e se firmou, de Vargas aos militares, como ator responsável e previsível, com pragmatismo mantido e aperfeiçoado na democracia. Ou seja, mesmo num sistema internacional marcado por hegemonias, britânica e depois norte-americana, o país mostrou capacidade de decidir por conta própria, como diz a alternativa E. A alternativa A contraria o tom do texto, que destaca colheita de resultados, e não marginalidade. A B afirma que as possibilidades são mínimas, ao passo que o texto fala em concepções e teoria própria. A C diz que as brechas não foram aproveitadas, o oposto do cálculo de oportunidade elogiado. A D inventa consultas à população; o texto menciona debates das elites, não participação popular. Gabarito: E.",
+  "hash": "a458efc024ed2257",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q67": {
+  "assunto": "Revoluções e século XIX: Revolução Industrial, trabalho artesanal",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por que a forma de trabalhar mudou com a Revolução Industrial, segundo o texto de Thompson. O trecho mostra que, antes da mecanização, havia pequenos fazendeiros-tecelões, que dividiam o tempo entre o cultivo de suas pequenas propriedades e a tecelagem. Com a expansão dos teares mecânicos, eles abandonaram a terra para se concentrar apenas em tecer, perderam prestígio e ficaram dependentes dos teares mecanizados e dos fornecedores de matéria-prima, sofrendo queda de rendimentos. A mudança, portanto, se evidencia em relação a um período anterior em que tecelagem e agricultura de subsistência se combinavam, como afirma a alternativa D. A alternativa A é genérica e fala em invenção do tear, que já existia; o texto trata da mecanização. A B não aparece no texto, que destaca a equiparação de artesãos a imigrantes. A C contradiz o trecho, que mostra perda de valor da qualificação. A E fala em fábricas, enquanto o texto trata de tecelões manuais dependentes. Gabarito: D.",
+  "hash": "81676387cf5541a4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q68": {
+  "assunto": "Espaço agrário: modernização agrícola, recursos naturais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede consequências econômicas, sociais e ambientais da modernização agropecuária após a Revolução Industrial. Com máquinas, fertilizantes, defensivos e irrigação, a produção agrícola cresceu muito, mas esse modelo passou a consumir mais recursos naturais: solo, água, minérios para adubos e, sobretudo, energia, para movimentar máquinas, produzir insumos e transportar safras. Ao mesmo tempo, a industrialização e a urbanização ampliaram a demanda geral por energia e matérias-primas. Por isso a alternativa C está correta. A alternativa A é falsa: a fome persiste, ligada mais à distribuição de renda e de alimentos do que à produção. A B inverte o processo, já que houve êxodo rural e crescimento das cidades. A D também inverte: a agricultura moderna depende intensamente de adubos e corretivos. A E erra porque a mecanização reduz a necessidade de mão de obra no campo, diminuindo o emprego no setor primário. Gabarito: C.",
+  "hash": "58cc7f67060b3cf8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q69": {
+  "assunto": "Cultura e sociedade: literatura e decadência aristocrática",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o recurso expressivo pelo qual o romance representa a desagregação da aristocracia rural. No trecho, a casa dos Meneses tem móveis de jacarandá, cristais, pratas, marfins e opalinas que denunciam um passado ilustre, mas agora há desordem e relaxamento; as pratas estão semi-empoeiradas, o esplendor está esvanecido e o conforto é apenas uma sobrevivência de coisas idas. O mundo se desagrega, roído por um mal oculto, como um tumor. Assim, a casa é descrita como espaço em ruína, com objetos que perderam o brilho e uma vida que é só lembrança de um passado em vias de desaparecer, como afirma a alternativa E. A alternativa A erra, pois o texto reconhece que ali se respirava conforto. A B toma literalmente a comparação com o espetáculo mágico. A C inventa um calor humano que não aparece no trecho. A D contradiz o texto, que fala em desordem e poeira, e não em cuidado e asseio. Gabarito: E.",
+  "hash": "1a74964e9683b703",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q70": {
+  "assunto": "Brasil Império: ferrovias, imigração e café",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que as ferrovias foram importantes para os projetos de colonização com imigrantes europeus. O relato de Davatz mostra que, antes delas, a viagem de Santos a Ibicaba levava no mínimo cinquenta horas por estradas de terra, sem hospedagem adequada. Com a ferrovia Santos-Jundiaí, de 1867, e seus ramais, o tempo caiu para menos de um dia, ligando o interior cafeeiro ao porto. Assim, o café pôde avançar para o oeste paulista, e os fazendeiros conseguiram levar imigrantes a fazendas cada vez mais distantes do litoral, como afirma a alternativa B. A alternativa A contradiz o texto, que considera a viagem penosa e longa. A C é falsa: os colonos chegavam pobres, sem capital para investir no escoamento. A D inverte o processo, já que a mão de obra europeia foi justamente a escolhida para substituir os escravizados. A E erra, pois a maioria dos imigrantes trabalhou como colono assalariado ou parceiro, não como grande proprietário. Gabarito: B.",
+  "hash": "54e7f3a932ba9611",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q71": {
+  "assunto": "Urbanização: cidades globais, rede urbana",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] O texto da alternativa E está truncado (termina em \"relacionadas ao\"), o que indica falha na extração. A questão pede a característica das cidades globais, ligadas às inovações tecnológicas que transformaram o uso do espaço. Cidades globais, como Nova York, Londres, Tóquio e São Paulo, são centros de comando da economia mundial: concentram sedes de multinacionais, bolsas, bancos, serviços avançados e fluxos de informação. Elas se consolidaram com a internacionalização da economia a partir do fim dos anos 1970, apoiada na revolução técnico-científica-informacional, na abertura de mercados e na financeirização. Por isso a alternativa D está correta. A alternativa A é falsa, porque há hierarquia entre as cidades globais, com Nova York, Londres e Tóquio no topo. A B não se sustenta: essas cidades são marcadas por individualismo e fragmentação social. A C inverte a realidade, já que nelas a polarização social e a segregação urbana costumam se aprofundar. A E não pode ser avaliada por estar incompleta. Gabarito: D.",
+  "hash": "7da9367d63061f6b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q72": {
+  "assunto": "Globalização: tecnologias de informação, educação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se depreende do texto sobre os impactos culturais da difusão das tecnologias de informação. O texto diz que populações urbanas e rurais usam a parafernália digital como fonte de educação e cultura, convivendo com formas tradicionais e orais; que o contato com valores de outras sociedades pode gerar apreço ou ressentimento; e que, além da educação letrada, é preciso criar estratégias de alfabetização eletrônica, um novo modelo de educação. Essa combinação de contato entre culturas e necessidade de reformular a educação aparece na alternativa A. A alternativa B toma uma possibilidade mencionada, a de ressentimentos, como regra geral e fala em apropriação para benefício próprio, ideia ausente do texto. A C diz que a educação tradicional se torna obsoleta, mas o texto defende sua permanência ao lado da eletrônica. A D contradiz o texto, que vê as tecnologias como fonte de educação e cultura. A E também contradiz, pois o texto inclui explicitamente as zonas rurais. Gabarito: A.",
+  "hash": "0a7ca19607361475",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q73": {
+  "assunto": "Industrialização: desconcentração econômica, fronteira agrícola",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma inferência sobre as transformações econômicas no território brasileiro a partir do mapa de PIB por habitante em 2004. O mapa mostra os tons mais escuros, acima da média nacional, não só em São Paulo, Rio de Janeiro e no Sul, mas também em estados como Mato Grosso e Amazonas, enquanto o Nordeste aparece nos tons mais claros. Isso reflete o avanço da fronteira econômica sobre o Centro-Oeste e o Norte nas últimas décadas: expansão do agronegócio de soja e gado, a Zona Franca de Manaus, a mineração e o crescimento de serviços e cidades nessas regiões, envolvendo os três setores da economia, como afirma a alternativa D. A alternativa A é desmentida pelo próprio mapa, que mostra fortes contrastes regionais. A B contraria a ideia de desenvolvimento dessas regiões, visível nos estados mais escuros. A C é falsa, pois o Sudeste segue como maior polo industrial, apesar da desconcentração. A E exagera: o Nordeste tem PIB per capita baixo, mas não viveu retração contrária ao restante do país. Gabarito: D.",
+  "hash": "275b43acd87e6623",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q74": {
+  "assunto": "Antiguidade: cidades-Estado gregas, sociedades pré-colombianas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a semelhança entre a Grécia antiga, de 750 a 338 a.C., e as cidades do Xingu, de 1200 a 1600 d.C. O texto informa que as cidades-Estado gregas, como Atenas, Esparta e Tebas, eram independentes umas das outras, mas compartilhavam a língua e um centro religioso, Delfos. Sobre o Xingu, descreve quinze cidades muradas, cada uma com sua população, ligadas por estradas a centros cerimoniais. Em ambos os casos, há cidades autônomas que mantêm vínculos culturais e religiosos, o que torna correta a alternativa C. A alternativa A atribui as epidemias também à Grécia, o que o texto não diz. A B é falsa: o texto não menciona democracia no Xingu, e a democracia está associada a Atenas, não a Tebas. A D faz uma afirmação sobre a língua do Xingu que o texto não sustenta. A E também não tem base no texto, que não fala em arte ou filosofia no Xingu. Gabarito: C.",
+  "hash": "711eee9c5f4a5e6e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q75": {
+  "assunto": "População: migrações internas, inchaço urbano",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se depreende do texto sobre a migração de nordestinos para o Sudeste. Os dados do IBGE mostram que o fluxo cresceu 7,6% nos anos 1990 e que a maioria dos migrantes exerce trabalhos manuais não qualificados, 48,6%, ou funções que não exigem formação profissional, 13,5%, com nível de vida abaixo do da população estável do Sudeste. Grande número de pessoas chegando às cidades, com baixa renda e baixa qualificação, pressiona habitação, transporte e serviços públicos e favorece a expansão de periferias e favelas. Esse crescimento urbano sem infraestrutura proporcional é o chamado inchaço urbano, citado na alternativa C. A alternativa A não tem base no texto, que não menciona ações de governo. A B também não aparece no texto e é desmentida pela baixa qualificação dos migrantes. A D inventa uma valorização do trabalho manual que os dados não indicam. A E faz um juízo positivo sobre a falta de qualificação que o texto não sustenta. Gabarito: C.",
+  "hash": "2bdaf4050e9d2e24",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q76": {
+  "assunto": "Espaço agrário: concentração fundiária, fome",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um fator que explique a subalimentação na América do Sul, apesar do aumento da produção e da integração entre indústria e agricultura. O enunciado já dá a pista ao associar a fome a conflitos pela posse da terra. O problema, portanto, não é falta de produção, e sim a concentração fundiária: grande parte das terras pertence a latifúndios, muitos deles improdutivos ou voltados à exportação, enquanto muitos camponeses têm pouca ou nenhuma terra para plantar alimentos. Essa estrutura agrária arcaica, herdada da colonização, gera exclusão, pobreza rural e disputas violentas, como afirma a alternativa C. A alternativa A é falsa, pois países como Brasil e Argentina são grandes exportadores agrícolas. A B erra porque há excedente de mão de obra no campo, e não escassez. A D inverte causa e efeito: os conflitos decorrem da concentração de terras, e a produção vem crescendo. A E é incorreta, já que a agricultura mecanizada costuma voltar-se à exportação de commodities. Gabarito: C.",
+  "hash": "edfcfc2e55ee1ab9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q77": {
+  "assunto": "Espaço agrário: conflitos no campo, leitura de mapa",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a leitura do mapa de vítimas fatais em conflitos no campo entre 1985 e 1996. No mapa, cada círculo representa o número de assassinatos, e a maior concentração de círculos grandes aparece no sudeste do Pará, norte do Tocantins e oeste do Maranhão, área conhecida como Bico do Papagaio, na confluência dos rios Araguaia e Tocantins. Essa região, de expansão da fronteira agropecuária, foi palco de intensa disputa entre posseiros, grileiros e fazendeiros, com episódios como o massacre de Eldorado dos Carajás, em 1996. Por isso a alternativa B está correta. A alternativa A erra, pois a região das Missões, no Rio Grande do Sul, tem poucos e pequenos círculos. A C também não se confirma: o oeste baiano não concentra os maiores números. A D é falsa, já que o norte de Mato Grosso tem círculos esparsos, bem menores que os do Bico do Papagaio. A E erra porque a Zona da Mata mineira apresenta poucos registros. Gabarito: B.",
+  "hash": "874db34593deb9b6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q78": {
+  "assunto": "Espaço agrário: estrutura fundiária, leitura de gráfico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a leitura do gráfico de área ocupada por tipo de imóvel rural em 2006. No Brasil, os imóveis improdutivos ocupam 63,8%, contra 28,7% dos produtivos e 7,5% dos minifúndios. Nas regiões, os improdutivos superam as demais categorias no Norte (82,6%), no Nordeste (69,7%), no Sudeste (48,4% contra 42,6%) e no Centro-Oeste (63,5%); só no Sul os produtivos lideram (47,2% contra 38,3%). Logo, a predominância vale no país e em quatro de cinco regiões, como afirma a alternativa A. A alternativa B tira uma conclusão sem base: improdutivo diz respeito ao uso da terra, não à fertilidade do solo. A C erra a conta, pois 28,7 + 7,5 = 36,2%, muito abaixo de 63,8%. A D é falsa porque o Norte tem o menor percentual de produtivos (12,1%), e não o segundo menor. A E acerta o menor percentual de minifúndios (2,0%), mas a conclusão é infundada: muita terra improdutiva favorece, e não inviabiliza, a reforma agrária. Gabarito: A.",
+  "hash": "7a1bb28212743d0f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q79": {
+  "assunto": "Cidadania e direitos: trabalho escravo contemporâneo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que os grupos de defesa dos direitos humanos são fundamentais no combate ao trabalho escravo nas regiões citadas. O texto afirma que o poder público é fraco no Norte, Nordeste e Centro-Oeste, sofre com falta de informações por causa das distâncias e da intimidação dos fazendeiros, e que ONGs e a Pastoral da Terra agem acionando as autoridades públicas e dando aulas sobre direitos sociais e trabalhistas. Ou seja, esses grupos levam denúncias ao Ministério Público e conscientizam os trabalhadores, como diz a alternativa D. A alternativa A é absurda, pois trabalho escravo não se resolve com reajuste salarial negociado, e sim com libertação e punição. A B desloca o problema para direitos do consumidor, sem relação com o texto. A C erra porque os grupos acionam as autoridades, e não as substituem. A E também é incorreta: as aulas são dadas aos trabalhadores, não a servidores públicos. Gabarito: D.",
+  "hash": "594ce71c9001fd2d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q80": {
+  "assunto": "Questões ambientais: impactos da exploração de recursos",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma consequência da crescente intensificação da exploração de recursos naturais, facilitada pela tecnologia. O texto lembra que o ser humano sempre transformou o espaço, mas que a intensidade dessa exploração variou e aumentou ao longo da história. Com mais técnica, extraem-se, transportam-se e consomem-se recursos em escala muito maior, o que amplia também o risco de acidentes e impactos ambientais graves. Derramamentos de petróleo por navios, como o do Exxon Valdez, em 1989, são exemplos de desastres de grandes proporções ligados a essa intensificação, como afirma a alternativa B. A alternativa A é falsa, pois o comércio internacional cresceu, e não diminuiu. A C contradiz a realidade, já que as desigualdades econômicas persistem. A D erra ao chamar biomas de improdutivos e ao supor que viraram centros industriais; o desmatamento serve mais à agropecuária e à exploração de madeira. A E inverte os dados: o crescimento vegetativo é maior nos países menos desenvolvidos. Gabarito: B.",
+  "hash": "4f9e362dd674178f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q81": {
+  "assunto": "Questões ambientais: desenvolvimento sustentável",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o significado do princípio de sustentabilidade, muito citado em fóruns internacionais. O conceito de desenvolvimento sustentável foi consagrado pelo Relatório Brundtland, Nosso Futuro Comum, de 1987, e reforçado na Rio-92: é o desenvolvimento que satisfaz as necessidades do presente sem comprometer a capacidade de as gerações futuras atenderem às suas próprias necessidades. Ele integra três dimensões, a econômica, a social e a ambiental, o que corresponde exatamente à alternativa E. A alternativa A descreve o contrário do que a sustentabilidade propõe, pois afirma ser impossível manter uma atividade sem danos. A B fala em incompatibilidade, enquanto a ideia sustentável busca conciliar crescimento e preservação. A C exclui a conservação dos recursos naturais, que é justamente um dos pilares do conceito. A D reduz a sustentabilidade à proteção da biodiversidade das florestas tropicais, um aspecto importante, mas parcial. Gabarito: E.",
+  "hash": "fe451b509bce74e6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q82": {
+  "assunto": "Geopolítica e conflitos: disputa pelo Ártico, recursos energéticos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede, além do grande potencial, outro fator que torna atraente a exploração de petróleo e minérios no Ártico. O texto, que fala em uma Guerra Fria sobre o Ártico, mostra que o degelo pode liberar reservas hoje inacessíveis e desperta a cobiça das potências. O principal concorrente em petróleo é o Oriente Médio, região marcada por guerras, conflitos religiosos, instabilidade política e dependência dos países importadores em relação à OPEP. O Ártico, cercado por países como Rússia, EUA, Canadá, Noruega e Dinamarca, oferece um ambiente geopolítico mais estável para investimentos e abastecimento, como afirma a alternativa A. A alternativa B não se sustenta, pois as condições climáticas extremas tornam improvável um povoamento significativo. A C erra porque são as potências, e não os países em desenvolvimento, que disputam a região. A D é absurda, já que a exploração aumentaria a poluição em um ambiente frágil. A E inverte os fatos: a matriz energética mundial é dominada por fontes fósseis, e não renováveis. Gabarito: A.",
+  "hash": "e10e48f8e0fdc8d1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q83": {
+  "assunto": "Energia: reservas de petróleo e gás natural",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que a Venezuela aparece nas duas classificações. Nos gráficos de reservas provadas até 2008, a Venezuela ocupa a 9ª posição em gás natural, com cerca de 4,1 trilhões de m³, e a 7ª em petróleo, com cerca de 79,7 bilhões de barris. Estar entre os dez maiores detentores de reservas de petróleo e gás ao mesmo tempo faz do país um ator de peso no mercado internacional de energia; ele é, inclusive, membro fundador da OPEP. Portanto, a presença nos dois rankings se explica por ser uma grande potência energética mundial, como diz a alternativa E. A alternativa A não tem relação com o volume de reservas e, além disso, a adesão da Venezuela ao Mercosul ainda não estava concluída em 2009. A B é falsa, pois a Venezuela explora petróleo há décadas. A C é incorreta, já que toda exploração de hidrocarbonetos causa impacto ambiental. A D não explica a classificação, que se baseia apenas no tamanho das reservas, e não em seu destino. Gabarito: E.",
+  "hash": "21d4fb4de4cf6614",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q84": {
+  "assunto": "Brasil Colônia: tratados de limites, expansão territorial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma conclusão a partir do mapa dos tratados de limites entre Portugal e Espanha. O mapa mostra a linha de Tordesilhas (1494), com o território português original em faixa listrada a leste, e, em cinza, o território português com base no Tratado de Madri (1750), que avança muito para oeste dessa linha, incorporando grande parte da Amazônia, do Centro-Oeste e do Sul. O Tratado de Madri, apoiado no princípio do uti possidetis, reconheceu a posse das terras efetivamente ocupadas por bandeirantes, missionários e colonos portugueses, como afirma a alternativa C. A alternativa A erra, pois a foz do Amazonas ficava a oeste da linha de Tordesilhas, em área espanhola. A B também é falsa: Tordesilhas era um meridiano imaginário, e não usava rios como limite. A D erra porque, com San Ildefonso (1777-1778), Portugal perdeu os Sete Povos em relação a Madri, mas ainda tinha muito mais território que em Tordesilhas. A E confunde tratados de limites com divisão administrativa interna. Gabarito: C.",
+  "hash": "b5aa431344c1f161",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q85": {
+  "assunto": "Clima: clima árido, irrigação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a figura que mostra uso de tecnologia para a produção diante de uma restrição climática. A legenda da alternativa D indica zonas irrigadas por aspersão na Arábia Saudita, e a imagem mostra grandes círculos de cultivo em meio a uma paisagem árida, típicos do pivô central, um braço irrigador que gira em torno de um eixo. A Arábia Saudita tem clima desértico, com chuvas escassas; a irrigação, muitas vezes com água de aquíferos profundos, contorna justamente essa limitação climática e permite produzir alimentos no deserto. Por isso a alternativa D está correta. A alternativa A, a produção de vinho no Chile, aproveita um clima favorável à uva, sem superar uma restrição climática evidente. A B mostra agricultura de pequeno porte, de baixa tecnologia. A C, o confinamento de bovinos, é uma técnica produtiva que não está ligada a uma restrição do clima. A E aproveita o vento como recurso energético, sem contornar uma limitação climática para a produção agrícola. Gabarito: D.",
+  "hash": "f0f526662aed3445",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q86": {
+  "assunto": "Questões ambientais: aquecimento global, desmatamento",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma inferência que una as duas charges. Na primeira, intitulada Polo Sul 2100, dois pinguins suam sob um sol forte, ao lado de um cacto e de ossos, e um deles exclama Óxente!, expressão nordestina: o polo virou um ambiente semelhante ao sertão, sugerindo aquecimento extremo. Na segunda, um menino indígena e o pai estão diante de uma floresta derrubada e queimada, e o filho diz entender por que precisam de cesta básica para sobreviver. Juntas, as charges relacionam o desmatamento e as queimadas das florestas tropicais, que liberam gás carbônico e intensificam o efeito estufa, ao aquecimento global, cujos efeitos atingem regiões distantes como os polos. É o que afirma a alternativa D. A alternativa A contradiz a ideia de que há padrões climáticos que estão sendo alterados. A B não se apoia nas charges, que mostram a intervenção nos trópicos. A C exagera, pois as queimadas são só uma das causas. A E erra ao restringir os processos naturais à escala regional. Gabarito: D.",
+  "hash": "82f173a79d7152f2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q87": {
+  "assunto": "Clima: semiárido, irrigação e fruticultura",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma afirmação correta sobre as regiões classificadas por grau de aridez no mapa da América do Sul. O mapa mostra áreas superáridas e áridas na faixa litorânea do Pacífico, no Peru e no Chile, e na Patagônia argentina, além de áreas semiáridas no interior do Nordeste brasileiro. No semiárido nordestino, a irrigação moderna, como no vale do São Francisco, em Petrolina e Juazeiro, permitiu a produção de frutas, como manga e uva, voltadas à exportação, integrando essas áreas ao comércio internacional, como diz a alternativa B. A alternativa A erra ao atribuir essas zonas à ação humana; elas resultam sobretudo de fatores naturais, como a corrente fria de Humboldt e a barreira dos Andes. A C é falsa, pois o semiárido era habitado por povos indígenas muito antes da Idade Moderna. A D é contrariada pelo próprio mapa, que mostra aridez também na Patagônia, região temperada. A E erra porque a vegetação varia entre essas áreas e a caatinga, por exemplo, tem valor econômico. Gabarito: B.",
+  "hash": "c422b711a269ef97",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q88": {
+  "assunto": "Clima: precipitação, mudanças climáticas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a explicação para as mudanças esperadas nos padrões de precipitação em razão das mudanças climáticas. A chuva depende diretamente da temperatura: o ar aquecido evapora mais água e pode conter mais vapor, e a condensação ocorre quando o ar se resfria, por ascensão, frentes ou relevo. Ao alterar a temperatura, a ação humana interfere nesse ciclo em escala local, como nas ilhas de calor urbanas e no desmatamento, e em escala global, com a intensificação do efeito estufa. Isso torna a distribuição das chuvas mais irregular, com secas em algumas áreas e chuvas intensas em outras, como afirma a alternativa E. A alternativa A erra, pois o aquecimento aumenta a evaporação e pode intensificar a formação de nuvens em certas regiões. A B apenas descreve o funcionamento normal das chuvas frontais, sem relação com a mudança climática. A C generaliza indevidamente, já que nem todo o planeta ficará mais árido. A D cria uma relação sem fundamento entre elevação do nível do mar e redução das chuvas continentais. Gabarito: E.",
+  "hash": "babd4de2e3f87de0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q89": {
+  "assunto": "Urbanização: cidades planejadas, Brasília",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por que as duas ideias do texto estão em oposição. A primeira é a objeção a Brasília: uma cidade planejada nunca teria desenvolvimento natural, pois a vida social e cultural não poderia ser construída. A segunda é a resposta de Mário Pedrosa: quem critica esquece que o próprio Brasil, como quase toda a América, foi criação do homem ocidental, ou seja, foi construído de forma planejada, e nem por isso deixou de ter vida social e cultural. Assim, a primeira ideia vê as cidades como organismos que devem nascer espontaneamente, e a segunda apresenta um exemplo histórico do contrário, como afirma a alternativa E. A alternativa A erra ao dizer que os exemplos não têm respaldo histórico, quando a colonização da América é um fato histórico. A B inventa a ideia de que a América seria exemplo a ser evitado. A C chama a colonização de exemplo utópico, termo que o texto não aplica a ela. A D inverte as posições: a primeira afirmação critica a construção de cidades, e a segunda não aponta problemas. Gabarito: E.",
+  "hash": "2d4e7a72db92a3dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d1-q90": {
+  "assunto": "Biomas e vegetação: Pantanal, nascentes no cerrado",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a medida mais eficaz para conservar a planície pantaneira e sua biodiversidade. O texto mostra que o Pantanal depende das áreas de planalto do cerrado, como a chapada dos Guimarães e a serra dos Parecis, onde ficam as cabeceiras dos rios. São essas nascentes que mantêm o nível das águas nas cheias e asseguram a vazão durante a estiagem, e o volume delas vem diminuindo. O desmatamento do cerrado para a agropecuária reduz a infiltração, seca nascentes e provoca erosão, que assoreia os rios. Assim, a medida mais eficaz é controlar o desmatamento e a erosão nas nascentes, como afirma a alternativa D. A alternativa A protege apenas a planície, ignorando que o problema está nas cabeceiras. A B ataca ameaças reais, mas não resolve a questão hídrica central do texto. A C agravaria o problema, pois mais pastagens significam mais desmatamento. A E alteraria o pulso natural de cheias e secas, essencial aos ecossistemas pantaneiros. Gabarito: D.",
+  "hash": "501a8c3e815d06d5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
