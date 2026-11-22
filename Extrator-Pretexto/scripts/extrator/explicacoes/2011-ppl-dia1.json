@@ -1,0 +1,177 @@
+{
+ "enem-2011-ppl-d1-q01": {
+  "assunto": "Questões ambientais: sociedade e natureza, degradação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede que se identifique, a partir do texto de Ross, uma causa e uma consequência da interferência humana no ambiente. O texto afirma que, quanto mais o ser humano evolui tecnicamente, mais interfere na dinâmica da natureza, gerando impactos que transformam o ambiente natural. Assim, a resposta precisa apresentar uma atividade técnico-econômica como causa e um impacto negativo sobre os ecossistemas como consequência. A alternativa A faz exatamente isso: a extração de matérias-primas para a siderurgia (minério de ferro, carvão vegetal) é uma causa típica de intervenção, e a degradação de ecossistemas é sua consequência direta, como se observa em áreas de mineração e desmatamento. A alternativa B é incoerente, pois a redução de investimentos não provoca diretamente a perda de espécies. A C erra ao chamar de aproximação o que é, na verdade, transformação e degradação. A D associa o fim de incentivos ao turismo a um equilíbrio ecológico sem relação lógica. A E aponta uma consequência possível, mas a produtividade em si não é a causa apresentada pelo texto. Gabarito: A.",
+  "hash": "401827b50944774b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q02": {
+  "assunto": "Movimentos sociais: movimento ambientalista, sustentabilidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta em que aspecto o movimento ambientalista influenciou a mudança de postura das grandes empresas. O texto mostra que a crise ambiental do fim do século XX questionou a racionalidade econômica dominante e fez surgir organizações da sociedade civil interessadas em outra relação entre sociedade e natureza. A pressão desses movimentos, somada à opinião pública e ao consumidor mais exigente, levou as empresas a incorporar o discurso e as práticas de sustentabilidade e de responsabilidade socioambiental nos lugares onde atuam, como tratamento de resíduos, reflorestamento e certificações. Por isso a alternativa E está correta. A alternativa A contradiz a própria ideia de crise, pois afirma que os recursos têm reposição adequada. A B atribui a mudança aos direitos civis e ao poder público, e não aos movimentos sociais. A C afirma, sem base, que as empresas usam cada vez menos recursos naturais. A D descreve um descarte de dejetos com avaliação posterior dos danos, o oposto de uma postura preventiva. Gabarito: E.",
+  "hash": "17294842b03eb2f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q03": {
+  "assunto": "Energia: hidrelétricas, impactos socioambientais",
+  "dificuldade": 2,
+  "explicacao": "A questão trata dos impactos da usina de Belo Monte, no rio Xingu, sobre os grupos que vivem na região. O texto apresenta o dilema: o país precisa de energia para crescer, mas há dúvidas se uma grande usina no meio da Amazônia é a melhor saída. Grandes hidrelétricas inundam extensas áreas, alteram a vazão dos rios, afetam a pesca e deslocam populações indígenas, ribeirinhas e extrativistas, cujas atividades dependem diretamente do território e do rio. Desse modo, o impacto central sobre esses atores é o risco de deterioração das atividades tradicionais provocado pelas transformações territoriais, como afirma a alternativa C. A alternativa A inverte a relação, pois a energia gerada atende sobretudo a centros urbanos e indústrias, não às atividades tradicionais. A B é otimista demais, já que os empregos da obra são temporários e não absorvem os atingidos. A D supõe, sem fundamento, que os benefícios superarão os prejuízos locais. A E naturaliza os impactos como inevitáveis, o que o texto questiona. Gabarito: C.",
+  "hash": "f56b4730f0eabb22",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q04": {
+  "assunto": "Espaço agrário: biotecnologia, transgênicos",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um argumento que mostre uma desvantagem da biotecnologia para a sociedade, enquanto o texto de apoio lista apenas impactos positivos. Basta, portanto, separar as alternativas que descrevem vantagens daquela que aponta um problema. A principal crítica aos organismos geneticamente modificados é a incerteza sobre seus efeitos de longo prazo na saúde humana e no ambiente, o que fundamenta o princípio da precaução e as exigências de rotulagem. Por isso a alternativa D está correta: o desconhecimento acerca dos possíveis efeitos sobre a saúde é uma desvantagem. A alternativa A descreve um benefício, a criação de alimentos com propriedades nutritivas diferenciadas. A B também é vantagem, pois novas variedades ampliam as opções de cultivo. A C aponta a maior resistência a insetos, um ganho para o produtor. A E menciona a adaptação de culturas a solos e climas diferentes, outra vantagem produtiva. Gabarito: D.",
+  "hash": "34c19c1e169a9443",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q05": {
+  "assunto": "Era Vargas: Estado Novo, propaganda e trabalhismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia política presente no discurso de Vargas de 1º de maio de 1938, durante o Estado Novo. No trecho, Vargas pergunta quais seriam as aspirações das massas operárias e ele mesmo responde: ordem e trabalho. Ou seja, o presidente atribui aos trabalhadores exatamente os valores que sustentavam seu regime autoritário, centralizador e anticomunista. Essa é a lógica do trabalhismo e da propaganda estado-novista: apresentar o projeto do governo como se fosse um desejo vindo do povo, legitimando o poder e desmobilizando conflitos. Por isso a alternativa E está correta. A alternativa A é falsa, pois o regime reprimia a ação popular autônoma e jamais estimularia o povo a tomar o poder. A B erra porque o Estado Novo era anticomunista e não tinha posições socialistas a disfarçar. A C exagera, já que o discurso não trata de nazifascismo nem se dirige à elite. A D é incompatível com um regime que fechou o Congresso e extinguiu os partidos. Gabarito: E.",
+  "hash": "98929e0e7a38b505",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q06": {
+  "assunto": "Trabalho: sistema fabril, divisão do trabalho",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a consequência da expropriação do saber fazer do trabalhador pelo sistema de fábrica. O texto de Decca afirma que a tecnologia fabril não serviu apenas para aumentar a produtividade, mas principalmente para controlar, disciplinar e hierarquizar o processo de trabalho. Antes, o artesão dominava todas as etapas da produção; na fábrica, o processo é fragmentado em tarefas simples e repetitivas, comandadas por capatazes e pelo ritmo das máquinas. Com isso, o trabalhador perde o conhecimento do todo e se afasta do produto final, fenômeno que Marx chamou de alienação. É o que descreve a alternativa B. A alternativa A fala da desestruturação de atividades artesanais, mas não é a consequência central apontada sobre o controle do trabalho. A C inverte o fluxo histórico, que foi do campo para a cidade. A D descreve o sistema doméstico ou a manufatura anterior à fábrica. A E erra ao afirmar que o assalariamento valorizou o trabalho, quando o texto destaca controle e disciplina. Gabarito: B.",
+  "hash": "ac6cc390829701b8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q07": {
+  "assunto": "Meios de comunicação e indústria cultural: globalização, internet",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o fator da revolução informacional que altera a vida social. O texto de Giddens destaca que, graças à globalização e à internet, pessoas em lugares tão distantes quanto Caracas e o Cairo recebem as mesmas músicas, notícias e filmes, participando de uma única ordem informacional. O ponto central é a rapidez e a simultaneidade com que a informação circula pelo planeta, o que muda hábitos, consumo e formas de interação. Por isso a alternativa B, que fala da velocidade com que as informações são disponibilizadas em todo o mundo, está correta. A alternativa A não tem apoio no texto, que não trata de diminuição da interação social. A C contradiz o texto, que fala de grande fluxo de informações. A D introduz a ideia de mais tempo para o lazer, ausente no fragmento. A E menciona desemprego entre jovens, tema que não aparece. Gabarito: B.",
+  "hash": "4cff4493a7266cb4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q08": {
+  "assunto": "Movimentos sociais: MST, luta pela terra",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta quais processos deram origem e formaram a identidade do MST. O texto de Bernardo Mançano Fernandes mostra que a luta pela terra é antiga no Brasil, passando por indígenas, escravizados, trabalhadores livres e imigrantes, até desembocar nas lutas camponesas. O MST, fundado em 1984, nasce desse acúmulo histórico e se consolida com as ocupações de latifúndios improdutivos e a conquista de assentamentos de reforma agrária. Assim, a alternativa D, que relaciona suas raízes ao crescimento da luta pela terra e à implantação de assentamentos, está correta. A alternativa A é falsa, pois não houve expropriação de multinacionais partilhada entre trabalhadores. A B erra ao dizer que a política neoliberal reduziu os conflitos fundiários, que na verdade persistiram. A C trata dos chamados brasiguaios, fenômeno que não define a identidade do movimento. A E inverte a escala, já que a luta passou do local para o nacional. Gabarito: D.",
+  "hash": "935b1d3b8831c0fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q09": {
+  "assunto": "Biomas e vegetação: Mata Atlântica, desmatamento",
+  "dificuldade": 1,
+  "explicacao": "A questão pergunta qual bioma brasileiro sofreu de forma mais profunda e irreversível a apropriação humana. A resposta é a Mata Atlântica, que ocupava a faixa litorânea onde começou a colonização portuguesa. Ela foi explorada desde o pau-brasil, depois substituída por cana-de-açúcar, café e pastagens, e hoje abriga as maiores cidades do país. Restam apenas cerca de 7% a 12% de sua cobertura original, conforme a fonte, o que faz dela o bioma mais devastado. Por isso a alternativa D está correta. A alternativa A trata da Amazônia, que sofre forte desmatamento recente, mas ainda conserva a maior parte da floresta. A B fala do Cerrado, muito degradado pela agropecuária, mas em processo mais recente e menos completo. A C cita o Pantanal, relativamente bem preservado e afetado sobretudo pela pecuária. A E erra ao apontar o assoreamento como causa de desmatamento na Mata dos Cocais. Gabarito: D.",
+  "hash": "a3ecb3b92d5784b2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q10": {
+  "assunto": "Cartografia: sensoriamento remoto, monitoramento ambiental",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma forma de vigilância eficiente para um bioma extenso e caro de fiscalizar, a Mata Atlântica. A palavra-chave é vigilância de grandes áreas: a ferramenta que permite acompanhar o desmatamento de forma ampla, periódica e relativamente barata é o sensoriamento remoto, com imagens de satélite. No Brasil, o INPE e a Fundação SOS Mata Atlântica usam esse recurso para gerar o Atlas dos Remanescentes Florestais, e o próprio levantamento citado na reportagem foi feito assim. Logo, a alternativa E está correta. A alternativa A trata de capacitação dos fiscais, útil, mas que não resolve a vigilância de uma área enorme. A B erra ao dizer que reservas tornam áreas intocáveis e isentas de degradação. A C confunde conceitos, pois unidades de conservação não garantem por si só o fim do desmatamento. A D é falsa, porque as terras indígenas pertencem à União, com usufruto dos povos indígenas. Gabarito: E.",
+  "hash": "265492982de4d066",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q11": {
+  "assunto": "Urbanização: enchentes, impermeabilização do solo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um fator socioespacial, além da chuva intensa, que explica enchentes como a do Rio de Janeiro em 2010. Nas grandes cidades, a substituição da vegetação e do solo exposto por asfalto, concreto e construções reduz drasticamente a infiltração da água. Com isso, o escoamento superficial aumenta, as galerias e rios canalizados não dão conta do volume e ocorrem alagamentos rápidos e violentos. Esse processo é a impermeabilização dos solos urbanos, apontada na alternativa D. A alternativa A, coleta seletiva, ajuda a reduzir lixo nos bueiros, portanto atenua enchentes em vez de provocá-las. A B, recuperação de várzeas, devolve ao rio sua área de transbordamento e também reduz inundações. A C, dragagem de rios e canais, aumenta a capacidade de escoamento e é medida de prevenção. A E apresenta o ordenamento urbano como causa, quando ele é justamente uma forma de evitar ocupações de risco. Gabarito: D.",
+  "hash": "490a417d84b75196",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q12": {
+  "assunto": "Brasil Colônia: plantation, pacto colonial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia portuguesa para concretizar seus objetivos mercantis na América. O texto de Boris Fausto descreve a política metropolitana: incentivo à empresa comercial baseada em poucos produtos exportáveis em grande escala, apoiada na grande propriedade, para acumular riqueza em Portugal. Esse é o modelo da plantation açucareira, com latifúndio, monocultura e trabalho escravo, combinado ao monopólio comercial do pacto colonial e à ocupação do território para garantir a posse. A alternativa B sintetiza exatamente esses elementos: agricultura tropical em grandes propriedades, monopólio comercial e povoamento. A alternativa A é falsa, pois as treze colônias do norte tiveram características distintas e não serviram de modelo. A C erra ao colocar a pecuária como atividade principal, quando ela era complementar ao açúcar. A D fala em desocupação da terra, o oposto da colonização. A E contraria a história, já que a escravização indígena foi praticada e o comércio não integrou os nativos. Gabarito: B.",
+  "hash": "897bc3165ca254af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q13": {
+  "assunto": "Filosofia contemporânea: memória e tempo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o significado de memória segundo o texto de Marilena Chauí. A autora afirma que a memória não é simples lembrar ou recordar, mas uma forma fundamental de nossa relação com o tempo: ela dá sentido ao passado, diferenciando-o do presente, e ao mesmo tempo pode permitir esperar e compreender o futuro. Portanto, a memória evoca o que está ausente, o passado, e projeta sentido para o que virá. A alternativa E resume essa ideia ao definir memória como o potencial de evocar o passado apontando para o futuro. A alternativa A reduz a memória a reter lembranças, o que o texto nega explicitamente. A B fala em perda da relação com o presente, enquanto o texto diz que o passado pode fazer parte do presente. A C novamente limita a memória à capacidade de lembrar fatos passados. A D inverte o sentido, pois a memória conserva o passado em vez de apagá-lo. Gabarito: E.",
+  "hash": "d3d650d62f0ea961",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q14": {
+  "assunto": "Povos indígenas: trabalho compulsório, visão colonial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o contexto do posicionamento de Luís Vilhena, no século XVIII, sobre como tratar os índios. O autor defende brandura e afago para domesticar os nativos, perdoando seus excessos atribuídos à barbaridade e à falta de leis, e os compara aos africanos como mais mansos e tratáveis. Esse discurso revela a visão europeia do indígena como ser a ser moldado, uma espécie de papel em branco, que deveria ser civilizado e enquadrado no trabalho compulsório da colônia, como nos aldeamentos e no Diretório pombalino. Por isso a alternativa C está correta. A alternativa A é anacrônica, pois não havia indústrias na colônia. A B também é anacrônica, já que a abolição só ocorreu em 1888. A D erra ao chamar a escravidão indígena de mão de obra assalariada. A E inverte a cronologia, porque a tendência foi a substituição do indígena pelo africano, e não o contrário. Gabarito: C.",
+  "hash": "c01c35701719bcf5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q15": {
+  "assunto": "Brasil Império: voto censitário, cidadania",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um período com eleições legislativas e uma restrição à cidadania política correspondente. No Império, a Constituição de 1824 estabeleceu o voto censitário: só votava quem comprovasse renda mínima, e para ser eleito exigia-se renda ainda maior. Essa exigência valeu durante o Segundo Reinado, inclusive após a Lei Saraiva de 1881, que manteve o critério de renda e passou a excluir analfabetos. Assim, a alternativa B, Segundo Reinado com exigência de renda, está correta. A alternativa A erra na restrição, pois no Primeiro Reinado os analfabetos não eram formalmente excluídos. A C cita a exclusão de escravos na Primeira República, quando a escravidão já havia sido abolida em 1888. A D é falsa, pois nunca se exigiu curso superior para votar na República de 1945 a 1964. A E é incorreta, já que as mulheres votam no Brasil desde 1932. Gabarito: B.",
+  "hash": "ec4ccd75cd5f433d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q16": {
+  "assunto": "Brasil Colônia: invasões holandesas, União Ibérica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o objetivo dos holandeses ao propor a ocupação do Brasil, segundo o conselheiro Walbeeck. Antes da União Ibérica, os holandeses eram parceiros de Portugal no negócio do açúcar, financiando engenhos, refinando e distribuindo o produto na Europa. Com Portugal sob domínio espanhol a partir de 1580, a Espanha, em guerra com as Províncias Unidas, impôs embargos aos holandeses e os afastou desse comércio. O texto mostra a solução: ocupar a região produtora, enviar o açúcar diretamente à Holanda sem os impostos portugueses e vender manufaturas baratas ao Brasil, destruindo o comércio português. Trata-se de romper o embargo e ampliar os lucros açucareiros, como diz a alternativa C. A alternativa A erra ao falar em rede de refino no Brasil, pois o refino era feito na Europa. A B fala em produzir fora dos domínios lusos, quando o plano era ocupar uma área portuguesa. A D não corresponde ao texto, que trata de açúcar, não de diversificação. A E erra, pois as Antilhas holandesas ainda não eram produtoras nessa época. Gabarito: C.",
+  "hash": "48f0aa9e482f00cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q17": {
+  "assunto": "Cartografia: projeções cartográficas, Mercator",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as características da projeção de Mercator, frequentemente citada como exemplo de visão eurocêntrica do mundo. Mercator, criada em 1569 para a navegação, é uma projeção cilíndrica conforme: preserva os ângulos e, portanto, as formas dos continentes em pequenas áreas, mas distorce as superfícies, que ficam cada vez mais ampliadas em direção aos polos. Por isso a Groenlândia parece do tamanho da África, embora seja cerca de 14 vezes menor, e a Europa aparece exagerada. Seus paralelos e meridianos são linhas retas que se cruzam em ângulos retos. A alternativa C descreve corretamente essas propriedades. A alternativa A descreve uma projeção cônica. A B descreve uma projeção plana ou azimutal. A D corresponde a uma projeção equivalente, como a de Peters, que preserva áreas e altera formas. A E é impossível, pois nenhuma projeção conserva ao mesmo tempo formas e áreas. Gabarito: C.",
+  "hash": "f257150a07ff8062",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q18": {
+  "assunto": "Revoluções e século XIX: escravidão e capitalismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a relação entre escravidão e capitalismo que os dois textos sugerem para o século XIX. Losurdo afirma que a escravidão atingiu seu máximo desenvolvimento justamente em virtude do sucesso das revoluções liberais, ou seja, o mundo liberal contribuiu para seu crescimento. Tavares mostra que o capitalismo comercializou escravos para o Brasil, o Caribe e o sul dos Estados Unidos, e que o tráfico persistiu após 1831 porque ainda oferecia respostas ao capitalismo. Nos dois casos, a escravidão aparece como peça funcional do sistema, fornecendo algodão, açúcar e café baratos e lucros com o tráfico. Assim, a alternativa C, contribuição da escravidão para o desenvolvimento do capitalismo, está correta. A alternativa A simplifica, pois a escravidão na América é anterior ao capitalismo industrial. A B e a D são falsas, porque nenhum texto fala em superação do capitalismo. A E inventa um novo sistema surgido da fusão, ideia ausente nos textos. Gabarito: C.",
+  "hash": "557191b5351648b4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q19": {
+  "assunto": "Ditadura militar: AI-5, autoritarismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o conceito kantiano de despotismo se aplica ao Brasil após o AI-5. Kant define despotismo como o governo em que o chefe do Estado executa arbitrariamente leis que dá a si mesmo, substituindo a vontade pública pela vontade particular. O AI-5, de dezembro de 1968, permitiu ao presidente fechar o Congresso, cassar mandatos, suspender direitos políticos, suspender o habeas corpus para crimes políticos e legislar por decreto. O Executivo passou a criar e aplicar as próprias regras, sem controle dos demais poderes, o que corresponde ao autoritarismo nas relações de poder, como afirma a alternativa A. A alternativa B é o oposto do despotismo. A C é falsa, pois o poder foi concentrado pelo Estado, não usurpado pelo povo. A D trata de sociedade sem classes, conceito ligado ao marxismo e alheio ao texto. A E descreve a separação de poderes, justamente o que o AI-5 anulou. Gabarito: A.",
+  "hash": "4944916676eafc73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q20": {
+  "assunto": "Revoluções e século XIX: Revolução Industrial, ludismo",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] O texto descreve a destruição de armações de malha (ludismo), o que corresponde à alternativa D, e não à C indicada como gabarito oficial. A questão trata da reação dos trabalhadores ingleses às transformações da Revolução Industrial nas primeiras décadas do século XIX. O fragmento de Thompson relata os distúrbios de Nottingham, em 1811: uma manifestação de malharistas por trabalho e melhor remuneração foi dissolvida pelo exército e, à noite, sessenta armações de malha foram destruídas, com aplauso da multidão. Esse episódio é típico do movimento ludista. Quanto à alternativa C, a conquista de direitos trabalhistas por sindicatos combativos corresponde a um momento posterior, pois as associações operárias foram proibidas pelas Combination Acts até 1824 e só se fortaleceram ao longo do século. A alternativa A trata das petições, mais associadas ao cartismo dos anos 1830 e 1840. A B fala de preços de alimentos e moradia, tema ausente no texto. A E é falsa, pois a jornada de oito horas não foi conquistada nesse período. Gabarito: C.",
+  "hash": "1a99551bf48d86a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q21": {
+  "assunto": "Globalização: especialização produtiva, comércio internacional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede onde se percebe a coesão, estratégia espacial de redução de custos, no caso das gravatas chinesas vendidas no Brás. A reportagem mostra que Shengzhou, no leste da China, concentra a produção de gravatas a ponto de oferecer as mais baratas do mundo, mais baratas que na Índia e muito mais que na Europa. Essa concentração de empresas de um mesmo ramo numa localidade gera economias de escala, fornecedores próximos e mão de obra especializada, formando um polo produtivo que abastece mercados distantes. Logo, a coesão aparece na especialização produtiva da indústria local, alternativa E. A alternativa A fala de mão de obra intelectualizada, quando a vantagem chinesa está na mão de obra barata e pouco qualificada. A B é falsa, pois a globalização amplia as redes de telecomunicação. A C descreve a fragmentação da montagem pelo mundo, o contrário da concentração em Shengzhou. A D é incoerente, já que as distâncias não aumentam, apenas são vencidas mais facilmente. Gabarito: E.",
+  "hash": "886a4d994221cb96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q22": {
+  "assunto": "Revoluções e século XIX: Comuna de Paris",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que a Comuna de Paris, de 1871, é considerada uma experiência política importante. Vale notar que o enunciado fala em guerra contra a Rússia, mas a derrota de Napoleão III ocorreu na Guerra Franco-Prussiana, contra a Prússia. Após a derrota e o governo conservador de Thiers, os trabalhadores parisienses tomaram a cidade e organizaram, por cerca de dois meses, um governo popular com representantes eleitos e revogáveis, separação entre Igreja e Estado, ensino laico e medidas em favor dos operários, propondo uma federação de comunas autônomas. O texto de apoio define revolução como mudança profunda em todos os níveis, e a Comuna foi vista como a primeira tentativa de um Estado dos trabalhadores, como afirma a alternativa C. A alternativa A é falsa, pois não se instituiu voto por categoria profissional. A B erra, já que a Comuna durou apenas cerca de 72 dias. A D contraria seu caráter de classe, voltado aos trabalhadores. A E inventa milícias comandadas por antigos generais, quando a Guarda Nacional era formada pelo próprio povo. Gabarito: C.",
+  "hash": "3115cc4bfb440242",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q23": {
+  "assunto": "Cultura e sociedade: mentalidade coletiva, práticas sociais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede que tipo de ações influencia as práticas sociais e os valores de uma época, segundo o texto. Prechter afirma que moda, literatura, música, cinema, esportes, política, vida familiar e até o mercado de ações refletem a mentalidade de uma época, e que os preços das ações indicam o otimismo e a psicologia das multidões. Ou seja, os valores predominantes surgem da interação entre muitos indivíduos e campos da vida social, formando uma mentalidade coletiva. Por isso a alternativa B, ações sociais interativas, está correta. A alternativa A contradiz o texto, que mostra a economia ligada às demais esferas, e não isolada. A C fala em ações psicológicas individuais, mas o texto destaca a psicologia das multidões, coletiva. A D introduz a ideia de ações intuitivas herdadas, que não aparece no fragmento. A E restringe a influência ao âmbito local, enquanto o texto trata da mentalidade de toda uma época. Gabarito: B.",
+  "hash": "ff012e2b5d9b1481",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q24": {
+  "assunto": "Filosofia política: Hannah Arendt, propaganda e democracia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a implicação da publicidade de massa para a democracia, à luz do texto sobre Hannah Arendt. O fragmento afirma que toda propaganda, política ou comercial, parte da ideia de que as massas podem ser conquistadas, dominadas e conduzidas, e por isso contém um elemento de coerção. Para Arendt, a política se realiza na esfera pública, pelo debate livre entre cidadãos que se reconhecem como iguais. Se a opinião é produzida por técnicas de persuasão e manipulação, a discussão racional perde espaço e os cidadãos tornam-se receptores passivos. Logo, a consequência é o declínio do debate político na esfera pública, alternativa E. A alternativa A é o oposto, pois a coerção enfraquece a sociedade civil. A B também é contrária, já que a propaganda tende a ocultar ou distorcer, não a dar transparência. A C erra porque a propaganda une retórica e política em vez de separá-las. A D inverte o sentido, pois a publicidade de massa favorece, e não combate, a distorção de informações. Gabarito: E.",
+  "hash": "aa4a03305c737b78",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-ppl-d1-q25": {
+  "assunto": "Movimentos sociais: diversidade sexual, LGBT",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que fundamenta a criação de grupos como o GPH e outros coletivos LGBT, considerando a incompreensão e a intolerância que ainda cercam a diversidade sexual. O texto descreve um espaço de acolhimento onde jovens conversam, esclarecem dúvidas e falam das dificuldades dessa fase da vida, apoiados também por suas famílias. Esses grupos existem porque a homofobia e o preconceito geram medo, isolamento e exclusão; reunir-se fortalece a autoestima, oferece informação e ajuda a enfrentar a discriminação. Por isso a alternativa D está correta. A alternativa A é contraditória, pois se os pais fossem em geral liberais o grupo de apoio não seria necessário. A B erra ao apontar normas legais como base, quando a motivação é justamente a falta de proteção e aceitação. A C fala em participação político-partidária, e o texto diz que o que une o grupo não é política. A E reduz o movimento a uma estratégia de mercado, ausente no texto. Gabarito: D.",
+  "hash": "5df1da88dd7681de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
