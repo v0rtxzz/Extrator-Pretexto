@@ -13,8 +13,8 @@ ano, dia e categoria ficam no **motor** de cada ano, em `scripts/extrator/perfis
 | 2025 | `v2025` | 6 | 555 | 0 | 238 |
 | 2024 | `v2024` | 4 | 370 | 0 | 198 |
 | 2023 | `v2023` | 4 | 370 | 1 | 188 |
-| 2022 | `v2022` | 7 | 640 | 202 | 656 |
-| 2021 | `v2021` | 7 | 640 | 30 | 357 |
+| 2022 | `v2022` | 4 | 370 | 4 | 232 |
+| 2021 | `v2021` | 4 | 370 | 8 | 249 |
 | 2020 | `v2020` | 7 | 640 | 11 | 340 |
 | 2019 | `v2019` | 4 | 370 | 5 | 183 |
 | 2018 | `v2018` | 4 | 370 | 6 | 214 |
@@ -27,7 +27,7 @@ ano, dia e categoria ficam no **motor** de cada ano, em `scripts/extrator/perfis
 | 2011 | `v2011` | 4 | 370 | 6 | 200 |
 | 2010 | `v2010` | 4 | 370 | 54 | 177 |
 | 2009 | `v2009` | 2 | 180 | 4 | 101 |
-| **Total** | | **81** | **7465** | **341** | **4211** |
+| **Total** | | **75** | **6925** | **121** | **3679** |
 <!-- /ESTADO-POR-ANO -->
 
 A tabela é gerada por `python scripts/extrator/estado.py` a partir dos SQLs, das imagens e das correções manuais.
@@ -127,14 +127,14 @@ Tudo fica em cache em `scripts/extrator/explicacoes/PROVA.json`, por hash do con
 reaproveita o cache, e uma questão cujo texto mudou volta a ficar pendente. Questões anuladas ficam com as três
 colunas nulas.
 
-**Sem API (como foi feito nesta versão: as 7 448 questões não anuladas estão preenchidas; as 157 marcadas `[REVISAR]` estão em `relatorios/REVISAR-IA.md`).** Uma sessão do Claude Code escreve as três colunas com
+**Sem API (como foi feito nesta versão: as 6 910 questões não anuladas estão preenchidas; as 135 marcadas `[REVISAR]` estão em `relatorios/REVISAR-IA.md`).** Uma sessão do Claude Code escreve as três colunas com
 `scripts/extrator/explicar_manual.py`, lendo as questões direto dos SQLs gravados:
 
 ```bash
 python scripts/extrator/explicar_manual.py estado                       # quanto falta, por prova
 python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20  # próximas 20 pendentes (com os assuntos aceitos)
 python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json   # valida gabarito, 1–5 e assunto
-python scripts/extrator/explicar_manual.py copiar 2022-digital-dia1-ingles 2022-digital-dia1-espanhol
+python scripts/extrator/explicar_manual.py copiar 2020-digital-dia1-ingles 2020-digital-dia1-espanhol
 python scripts/extrator/explicar_manual.py aplicar 2025-regular-dia1    # regrava o SQL da prova com o cache
 ```
 
@@ -333,7 +333,7 @@ que aparece como diferença em quase todas as provas. Nesse caso compare o códi
 | 2011 PPL | Gabarito oficial da 2ª aplicação incluído em `provas/2011/ppl/`. |
 | 2009–2016 | Dia 1 = Humanas + Natureza; idiomas nas questões 91–95. Fontes Arial sem Unicode decodificadas pela ordem de glifos (`decodificar_cid`). |
 | 2017+ | Dia 1 = Linguagens + Humanas; idiomas nas questões 1–5. |
-| 2020–2022 digital | Layout de tela (uma questão por página, botões no lugar das letras). Em 2022 digital, 193 questões tinham as alternativas de texto recortadas como imagem; o texto foi recuperado do PDF. |
+| 2020 digital | Layout de tela (uma questão por página, botões no lugar das letras). É a única edição digital no banco: em 2021 e 2022 o caderno digital tinha as mesmas questões (mesma numeração e gabarito) do regular, por isso foi removido (veja `supabase/REMOVER-DIGITAL-2021-2022.sql`). |
 | 2021 | Fontes Arial com glifos `gNN`, decodificadas pelo nome do glifo (`cid_por_nome_de_glifo`), sem OCR. |
 | 2024, 2025 | Motores de referência (`v2024` é o código-base dos anos antigos; `v2025` é o código congelado de 2025). |
 

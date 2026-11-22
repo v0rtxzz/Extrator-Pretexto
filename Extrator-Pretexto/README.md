@@ -6,11 +6,13 @@ as imagens recortadas.
 
 | | |
 |---|---|
-| Provas | 81 (todas as edições de 2009 a 2025, cadernos regular, PPL, digital, 2ª e 3ª aplicação) |
-| Questões | 7 465, com gabarito oficial |
-| Imagens | 4 211 recortes (apoio e alternativas) |
-| Correções manuais | 341 questões conferidas e corrigidas à mão a partir do PDF |
-| Colunas de IA | 7 448 questões (todas as não anuladas) com explicação, dificuldade e assunto |
+| Provas | 75 (todas as edições de 2009 a 2025: cadernos regular, PPL, 2ª e 3ª aplicação e o digital de 2020*) |
+| Questões | 6 925, com gabarito oficial |
+| Imagens | 3 679 recortes (apoio e alternativas) |
+| Correções manuais | 121 questões conferidas e corrigidas à mão a partir do PDF |
+| Colunas de IA | 6 910 questões (todas as não anuladas) com explicação, dificuldade e assunto |
+
+\* Em 2021 e 2022 o caderno digital repetia as questões do regular (mesma numeração e gabarito) e foi removido; para tirá-lo de um banco já carregado, rode `supabase/REMOVER-DIGITAL-2021-2022.sql`.
 
 O detalhamento por ano está em [docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md#estado-por-ano).
 
@@ -23,6 +25,7 @@ supabase/
   schema.sql                 Schema da tabela public.questoes
   ADICIONAR_COLUNAS_IA.sql   Migração: colunas explicacao, dificuldade e assunto (banco existente)
   ATUALIZAR-ANO-CATEGORIA-diaN.sql    Carga de cada prova (upsert pelo id da questão)
+  REMOVER-DIGITAL-2021-2022.sql       Remove do banco o digital de 2021 e 2022 (duplicava o regular)
 scripts/extrator/
   extrair_textos.py          Extrator (uma prova ou um ano)
   perfis.py                  Motor de cada ano (v2009 … v2025) e ajustes por dia/categoria
@@ -89,12 +92,12 @@ recorte das imagens, aplicado automaticamente a cada execução. Veja o guia com
 | `dificuldade` | 1 (muito fácil) a 5 (muito difícil), estimada pela leitura da questão (sem microdados) |
 | `assunto` | `Assunto geral: específico`, ex.: `Geometria plana: triângulos` (geral de uma lista fixa por matéria) |
 
-Estão preenchidas em todas as 7 448 questões não anuladas (as 17 anuladas ficam nulas). Distribuição da dificuldade:
-1 = 752, 2 = 2 297, 3 = 2 711, 4 = 1 370, 5 = 318.
+Estão preenchidas em todas as 6 910 questões não anuladas (as 15 anuladas ficam nulas). Distribuição da dificuldade:
+1 = 713, 2 = 2 150, 3 = 2 504, 4 = 1 255, 5 = 288.
 
 São escritas pelo Claude **sem API**, por sessões do Claude Code, com `scripts/extrator/explicar_manual.py`, e ficam
 em cache em `scripts/extrator/explicacoes/`. Explicações que começam com `[REVISAR]` merecem uma conferência humana
-(a IA discordou do gabarito ou achou o texto corrompido): são 157, listadas em
+(a IA discordou do gabarito ou achou o texto corrompido): são 135, listadas em
 [relatorios/REVISAR-IA.md](./relatorios/REVISAR-IA.md). Detalhes em
 [docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md#42-colunas-de-ia-explicacao-dificuldade-e-assunto).
 

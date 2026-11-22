@@ -2,9 +2,9 @@
 
 A IA marcou estas questões ao escrever a explicação: discordou do gabarito oficial ou achou o texto extraído corrompido/incompleto (fórmula, imagem ou trecho faltando). O gabarito oficial foi mantido em todas. Vale uma conferência humana com o PDF; se o texto da questão for corrigido (correção manual), a questão volta a ficar pendente em `explicar_manual.py estado`.
 
-Gerado a partir de `scripts/extrator/explicacoes/`.
+Gerado por `python scripts/extrator/explicar_manual.py revisar`.
 
-**Total: 157 questões em 52 provas.**
+**Total: 135 questões em 49 provas.**
 
 ## 2025-ppl-dia2 (2)
 
@@ -52,43 +52,6 @@ Gerado a partir de `scripts/extrator/explicacoes/`.
 | Nº | id | Gabarito | Motivo apontado |
 |---|---|---|---|
 | 145 | `enem-2022-regular-d2-q145` | E | Pela leitura direta, o pacote especial teria 500 000 moedas no total; o gabarito 400 000 só aparece comparando com um único pacote básico |
-
-## 2022-digital-dia2 (7)
-
-| Nº | id | Gabarito | Motivo apontado |
-|---|---|---|---|
-| 117 | `enem-2022-digital-d2-q117` | C | O enunciado está truncado no extrator, mas a imagem deixa claro que mármore reage com ácido clorídrico liberando um gás |
-| 120 | `enem-2022-digital-d2-q120` | E | O enunciado está truncado no extrator, mas o quadro e o trecho visível mostram ensaios com catalase e H₂O₂ variando apenas a temperatura |
-| 145 | `enem-2022-digital-d2-q145` | E | Com os dados extraídos, o pacote especial teria 10 000 gemas e 500 000 moedas, valor sem alternativa; o gabarito 400 000 corresponde a 8 000 gemas, possível erro no texto |
-| 147 | `enem-2022-digital-d2-q147` | C | Com os dados extraídos, o aumento calculado é de 240%, fora da escala de classificação; o gabarito bom só se confirma se algum dado do texto original for diferente |
-| 159 | `enem-2022-digital-d2-q159` | B | A sequência de treinos e repousos que define o ciclo não aparece no texto extraído, então não é possível conferir o cálculo |
-| 162 | `enem-2022-digital-d2-q162` | C | No gráfico extraído não aparece o valor do setor infantil no dia 20; a resolução usa 7 000, coerente com a queda linear indicada |
-| 175 | `enem-2022-digital-d2-q175` | E | O enunciado está truncado no extrator; pelo trecho visível, o estudante escreveu em algarismos o valor de R$ 1,35 bilhão |
-
-## 2022-digital-dia1-ingles (8)
-
-| Nº | id | Gabarito | Motivo apontado |
-|---|---|---|---|
-| 3 | `enem-2022-digital-d1-q03-ing` | B | A imagem da tirinha de Tom Gauld não consta no registro da questão, o que impede conferir os detalhes visuais |
-| 32 | `enem-2022-digital-d1-q32` | A | O infográfico aparece fragmentado em pedaços de imagem (títulos e trechos soltos), sem a estrutura completa por faixa etária |
-| 49 | `enem-2022-digital-d1-q49` | B | A figura citada no enunciado (PAZ, A |
-| 65 | `enem-2022-digital-d1-q65` | B | O enunciado da questão não foi extraído; restaram apenas a imagem e as alternativas |
-| 74 | `enem-2022-digital-d1-q74` | C | O enunciado chegou truncado, restando apenas o final ('aproveitamento da energia solar é a reduzida') |
-| 78 | `enem-2022-digital-d1-q78` | E | O enunciado chegou truncado ('a distância entre o avistados e a cidade de Perth.. |
-| 82 | `enem-2022-digital-d1-q82` | B | O enunciado não foi extraído; restaram só o mapa e as alternativas |
-| 88 | `enem-2022-digital-d1-q88` | E | O apoio e o enunciado chegaram truncados (faltam partes da carta e da pergunta), mas é possível identificar o tema |
-
-## 2022-digital-dia1-espanhol (7)
-
-| Nº | id | Gabarito | Motivo apontado |
-|---|---|---|---|
-| 32 | `enem-2022-digital-d1-q32` | A | O infográfico aparece fragmentado em pedaços de imagem (títulos e trechos soltos), sem a estrutura completa por faixa etária |
-| 49 | `enem-2022-digital-d1-q49` | B | A figura citada no enunciado (PAZ, A |
-| 65 | `enem-2022-digital-d1-q65` | B | O enunciado da questão não foi extraído; restaram apenas a imagem e as alternativas |
-| 74 | `enem-2022-digital-d1-q74` | C | O enunciado chegou truncado, restando apenas o final ('aproveitamento da energia solar é a reduzida') |
-| 78 | `enem-2022-digital-d1-q78` | E | O enunciado chegou truncado ('a distância entre o avistados e a cidade de Perth.. |
-| 82 | `enem-2022-digital-d1-q82` | B | O enunciado não foi extraído; restaram só o mapa e as alternativas |
-| 88 | `enem-2022-digital-d1-q88` | E | O apoio e o enunciado chegaram truncados (faltam partes da carta e da pergunta), mas é possível identificar o tema |
 
 ## 2021-regular-dia2 (5)
 

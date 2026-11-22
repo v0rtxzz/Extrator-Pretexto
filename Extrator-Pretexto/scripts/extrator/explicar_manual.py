@@ -12,7 +12,8 @@ reaproveita, e é gravado direto no SQL, sem reextrair a prova.
     python scripts/extrator/explicar_manual.py pacote 2025-regular-dia1 20 # próximas 20 questões pendentes
     python scripts/extrator/explicar_manual.py assuntos matematica         # assuntos gerais aceitos
     python scripts/extrator/explicar_manual.py salvar 2025-regular-dia1 arquivo.json
-    python scripts/extrator/explicar_manual.py copiar 2022-digital-dia1-ingles 2022-digital-dia1-espanhol
+    python scripts/extrator/explicar_manual.py copiar 2020-digital-dia1-ingles 2020-digital-dia1-espanhol
+    python scripts/extrator/explicar_manual.py revisar                     # relatorios/REVISAR-IA.md
     python scripts/extrator/explicar_manual.py aplicar [2025-regular-dia1 ...]          # grava no SQL (todas, sem nome)
 
 Formato do arquivo de `salvar` (por questão; numa questão já explicada, "explicacao" pode ser omitida):
@@ -239,12 +240,36 @@ def cmd_aplicar(nomes):
         print(f'{p}: {n} questão(ões) com dados de IA no SQL')
 
 
+def cmd_revisar():
+    """Escreve relatorios/REVISAR-IA.md: explicações que a IA marcou com [REVISAR], por prova."""
+    por, n = {}, 0
+    for p in sorted(provas(), reverse=True):
+        _, c = cache(p)
+        for q in _validas(p):
+            t = _entrada(c, q).get('explicacao', '')
+            if t.startswith('[REVISAR]'):
+                motivo = t[len('[REVISAR]'):].strip().split('. ')[0].strip()[:220].replace('|', '/')
+                por.setdefault(p, []).append(f"| {q['numero']} | `{q['id']}` | {q['gabarito']} | {motivo} |")
+                n += 1
+    lin = ['# Explicações marcadas [REVISAR]', '',
+           'A IA marcou estas questões ao escrever a explicação: discordou do gabarito oficial ou achou o texto '
+           'extraído corrompido/incompleto (fórmula, imagem ou trecho faltando). O gabarito oficial foi mantido em '
+           'todas. Vale uma conferência humana com o PDF; se o texto da questão for corrigido (correção manual), a '
+           'questão volta a ficar pendente em `explicar_manual.py estado`.', '',
+           'Gerado por `python scripts/extrator/explicar_manual.py revisar`.', '',
+           f'**Total: {n} questões em {len(por)} provas.**', '']
+    for p, linhas in por.items():
+        lin += [f'## {p} ({len(linhas)})', '', '| Nº | id | Gabarito | Motivo apontado |', '|---|---|---|---|'] + linhas + ['']
+    (RAIZ / 'relatorios' / 'REVISAR-IA.md').write_text('\n'.join(lin), encoding='utf-8')
+    print(f'relatorios/REVISAR-IA.md: {n} questões em {len(por)} provas')
+
+
 if __name__ == '__main__':
     a = sys.argv[1:]
     cmds = {'estado': lambda: cmd_estado(), 'assuntos': lambda: cmd_assuntos(a[1] if len(a) > 1 else None),
             'pacote': lambda: cmd_pacote(a[1], a[2] if len(a) > 2 else 20),
             'salvar': lambda: cmd_salvar(a[1], a[2]), 'copiar': lambda: cmd_copiar(a[1], a[2]),
-            'aplicar': lambda: cmd_aplicar(a[1:])}
+            'aplicar': lambda: cmd_aplicar(a[1:]), 'revisar': lambda: cmd_revisar()}
     if not a or a[0] not in cmds:
         sys.exit(__doc__)
     cmds[a[0]]()

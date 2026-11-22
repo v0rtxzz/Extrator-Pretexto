@@ -55,16 +55,10 @@
 | 2020-ppl-dia2 | v2020 | REVISAR | 90/90 | 0 | 0 | 1 | 9 | 0 | 22 | 1 | 0 |
 | 2020-regular-dia1 | v2020 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2020-regular-dia2 | v2020 | REVISAR | 90/90 | 0 | 0 | 2 | 11 | 0 | 11 | 0 | 0 |
-| 2021-digital-dia1-espanhol | v2021 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2021-digital-dia1-ingles | v2021 | OK | 90/90 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2021-digital-dia2 | v2021 | OK (conferido) | 90/90 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 |
 | 2021-ppl-dia1 | v2021 | OK | 95/95 | 0 | 0 | 1 | 4 | 0 | 0 | 0 | 0 |
 | 2021-ppl-dia2 | v2021 | OK | 90/90 | 0 | 0 | 0 | 7 | 0 | 0 | 0 | 0 |
 | 2021-regular-dia1 | v2021 | OK | 95/95 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
 | 2021-regular-dia2 | v2021 | OK | 90/90 | 0 | 0 | 1 | 8 | 0 | 0 | 0 | 0 |
-| 2022-digital-dia1-espanhol | v2022 | OK | 90/90 | 0 | 0 | 0 | 90 | 0 | 0 | 0 | 0 |
-| 2022-digital-dia1-ingles | v2022 | OK | 90/90 | 0 | 0 | 0 | 89 | 0 | 0 | 0 | 0 |
-| 2022-digital-dia2 | v2022 | REVISAR | 90/90 | 0 | 0 | 1 | 57 | 9 | 13 | 1 | 0 |
 | 2022-ppl-dia1 | v2022 | OK | 95/95 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
 | 2022-ppl-dia2 | v2022 | OK (conferido) | 90/90 | 0 | 0 | 0 | 14 | 0 | 0 | 1 | 0 |
 | 2022-regular-dia1 | v2022 | OK | 95/95 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -88,7 +82,7 @@
 
 ## Pendências (não confirmadas)
 
-Itens que a auditoria acusa e que ainda não foram conferidos na página. As 7 465 questões estão completas; estes são possíveis detalhes de texto.
+Itens que a auditoria acusa e que ainda não foram conferidos na página. As 6 925 questões estão completas; estes são possíveis detalhes de texto.
 
 - **2009-regular-dia2**: Fórmulas "r⎜1−sen…", "r⎜1−cos…", "r⎜1−tg…" (pág. 29): conferir a questão.
 - **2012-ppl-dia1**: Palavra "Emissões" (pág. 15, rótulo de diagrama de alternativa): conferir o recorte.
@@ -98,7 +92,6 @@ Itens que a auditoria acusa e que ainda não foram conferidos na página. As 7 4
 - **2020-digital-dia2**: 9 palavras (págs. 25, 51, 74: "vacinas", "longo", "abaixo", "consegue", "ordenar"…).
 - **2020-ppl-dia2**: "3×" (pág. 29) e um "+" (pág. 26).
 - **2020-regular-dia2**: "9!×" (pág. 24) e "s-1".
-- **2022-digital-dia2**: 9 palavras (págs. 35 e 38: "solução", "catalítica", "decompõe", "peróxido"…) e "3 2" (pág. 24).
 - **2023-ppl-dia2**: Trecho "sp o" (pág. 25).
 
 ## Avisos conferidos (falsos alarmes)
@@ -121,7 +114,6 @@ Avisos da auditoria já conferidos: não indicam erro no SQL.
 - **2020-digital-dia2**: Cabeçalho/rodapé da página ("AZUL", "2º dia", "Rascunho", número da questão no topo da tela). (números 137…180).
 - **2020-ppl-dia2**: Notação: o PDF escreve "10–2", "g-1", "mol–1"; o SQL tem "10⁻²", "g⁻¹", "mol⁻¹" (conferido no SQL).
 - **2020-regular-dia2**: Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q94: rótulos (1) e (2) das fórmulas).
-- **2021-digital-dia2**: Q157: "rótulos embaralhados" é falso alarme (enunciado e matriz conferidos). Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q170, π).
 - **2022-ppl-dia2**: Notação: o PDF escreve "10–2", "g-1", "mol–1"; o SQL tem "10⁻²", "g⁻¹", "mol⁻¹" (conferido no SQL). Linha corrigida à mão (scripts/extrator/manuais/): a contagem de letras perdidas é feita antes da correção. (Q123).
 - **2023-ppl-dia2**: Notação: o PDF escreve "10–2", "g-1", "mol–1"; o SQL tem "10⁻²", "g⁻¹", "mol⁻¹" (conferido no SQL). Texto que está dentro de uma imagem recortada (figura, infográfico, esquema). (Q159: alternativas com π em fração).
 
