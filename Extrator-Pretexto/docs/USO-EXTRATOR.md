@@ -117,7 +117,7 @@ Tudo fica em cache em `scripts/extrator/explicacoes/PROVA.json`, por hash do con
 reaproveita o cache, e uma questão cujo texto mudou volta a ficar pendente. Questões anuladas ficam com as três
 colunas nulas.
 
-**Sem API (como foi feito nesta versão).** Uma sessão do Claude Code escreve as três colunas com
+**Sem API (como foi feito nesta versão: as 7 448 questões não anuladas estão preenchidas; as 157 marcadas `[REVISAR]` estão em `relatorios/REVISAR-IA.md`).** Uma sessão do Claude Code escreve as três colunas com
 `scripts/extrator/explicar_manual.py`, lendo as questões direto dos SQLs gravados:
 
 ```bash

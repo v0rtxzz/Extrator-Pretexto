@@ -10,6 +10,7 @@ as imagens recortadas.
 | Questões | 7 465, com gabarito oficial |
 | Imagens | 4 211 recortes (apoio e alternativas) |
 | Correções manuais | 341 questões conferidas e corrigidas à mão a partir do PDF |
+| Colunas de IA | 7 448 questões (todas as não anuladas) com explicação, dificuldade e assunto |
 
 O detalhamento por ano está em [docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md#estado-por-ano).
 
@@ -34,6 +35,7 @@ scripts/extrator/
   assuntos.json              Assuntos gerais aceitos na coluna assunto, por matéria
   explicacoes/               Cache das colunas de IA, por prova
 relatorios/GRAVACAO.md       Relatório da última gravação (status de cada prova)
+relatorios/REVISAR-IA.md     Explicações marcadas [REVISAR] pela IA (conferir com o PDF)
 docs/USO-EXTRATOR.md         Guia completo do extrator
 ```
 
@@ -85,9 +87,13 @@ recorte das imagens, aplicado automaticamente a cada execução. Veja o guia com
 | `dificuldade` | 1 (muito fácil) a 5 (muito difícil), estimada pela leitura da questão (sem microdados) |
 | `assunto` | `Assunto geral: específico`, ex.: `Geometria plana: triângulos` (geral de uma lista fixa por matéria) |
 
+Estão preenchidas em todas as 7 448 questões não anuladas (as 17 anuladas ficam nulas). Distribuição da dificuldade:
+1 = 752, 2 = 2 297, 3 = 2 711, 4 = 1 370, 5 = 318.
+
 São escritas pelo Claude **sem API**, por sessões do Claude Code, com `scripts/extrator/explicar_manual.py`, e ficam
 em cache em `scripts/extrator/explicacoes/`. Explicações que começam com `[REVISAR]` merecem uma conferência humana
-(a IA discordou do gabarito ou achou o texto corrompido). Detalhes em
+(a IA discordou do gabarito ou achou o texto corrompido): são 157, listadas em
+[relatorios/REVISAR-IA.md](./relatorios/REVISAR-IA.md). Detalhes em
 [docs/USO-EXTRATOR.md](./docs/USO-EXTRATOR.md#42-colunas-de-ia-explicacao-dificuldade-e-assunto).
 
 ## Aplicar no projeto da plataforma
