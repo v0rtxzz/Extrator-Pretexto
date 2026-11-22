@@ -1,0 +1,632 @@
+{
+ "enem-2013-regular-d1-q01": {
+  "assunto": "População: distribuição, conflitos indígenas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede que se compare dois mapas: o primeiro mostra a distribuição da população brasileira, com grandes círculos concentrados na faixa litorânea e no Centro-Sul (São Paulo, Rio de Janeiro, Salvador, Fortaleza); o segundo mostra terras indígenas e os confrontos envolvendo garimpeiros, madeireiros, fazendeiros e posseiros, muito mais numerosos na Amazônia e no Centro-Oeste. Onde a ocupação é antiga e fortemente urbanizada, como no litoral, as terras indígenas foram há muito tempo reduzidas ou absorvidas, de modo que restam poucas áreas em disputa. Já nas frentes de expansão do interior, ainda há territórios indígenas extensos e pressão de atividades econômicas, o que gera conflitos. Assim, a menor incidência de disputas se explica pela concentração histórica da urbanização. A fertilização natural dos solos não tem relação com os conflitos. A expansão da fronteira agrícola explica justamente a maior incidência de conflitos. A migração de retorno não é retratada nos mapas. Reservas extrativistas são outra categoria de unidade e não explicam o padrão. Gabarito: E.",
+  "hash": "d3c99a23ad4c543d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q02": {
+  "assunto": "Urbanização: periferização, especulação imobiliária",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a causa da expansão das periferias urbanas. O texto de Maricato descreve o enorme crescimento das cidades brasileiras para assentar uma população urbana crescente, ressaltando que esse crescimento não respondeu satisfatoriamente às necessidades de moradia e serviços. Na urbanização brasileira, o rápido aumento da população urbana, somado à valorização das áreas centrais e bem equipadas pela especulação imobiliária, empurra a população de baixa renda para áreas cada vez mais distantes, baratas e precárias, ampliando a periferia. Por isso, a alternativa correta associa crescimento populacional urbano e especulação imobiliária. A atração por serviços explica a migração para a cidade, mas não a periferização em si. A delimitação de áreas para ocupação organizada contraria o caráter desordenado da expansão periférica. Políticas públicas de moradia e direito à cidade tenderiam a reduzir a segregação, não a causá-la. A reurbanização de áreas centrais para manter trabalhadores próximos ao emprego também diminuiria a expansão periférica. Gabarito: A.",
+  "hash": "3e1d5dee2fe34a20",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q03": {
+  "assunto": "Questões ambientais: paisagem cultural, patrimônio",
+  "dificuldade": 2,
+  "explicacao": "A questão pergunta por que a paisagem carioca recebeu o título de Patrimônio Mundial como Paisagem Cultural. Essa categoria da Unesco reconhece lugares em que a interação entre a ação humana e o meio natural produziu algo excepcional. No caso do Rio de Janeiro, o valor está no encontro entre elementos naturais marcantes, como montanhas, baía, mar e floresta, e a ocupação urbana que se moldou a eles, com o Pão de Açúcar, o Corcovado, a Floresta da Tijuca, o Aterro do Flamengo e as praias. É essa relação sociedade-natureza singular que justifica o título, como indica a fala sobre a paisagem como imagem da civilização brasileira. O corpo artístico local não é critério para paisagem cultural. A imagem internacional da metrópole é consequência, não fundamento do reconhecimento. Os prédios da antiga capital seriam patrimônio arquitetônico, não paisagístico. A diversidade cultural da cidade não é o foco da categoria paisagem cultural. Gabarito: E.",
+  "hash": "5a7a52f30f58401d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q04": {
+  "assunto": "Filosofia moderna: Descartes, dúvida metódica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o procedimento que, segundo Descartes e seu comentador, viabiliza a reconstrução do conhecimento. No texto I, Descartes percebe que recebeu muitas opiniões falsas como verdadeiras e decide desfazer-se de todas elas para recomeçar e fundar um saber firme. No texto II, o comentador explica que a busca de uma certeza radical exige uma dúvida também radical, que ocupe todo o espaço: só o que resistir a ela será certeza. Trata-se da dúvida metódica, que consiste em questionar de forma ampla e profunda as ideias recebidas. Retomar o método da tradição é o oposto do projeto cartesiano, que rompe com a tradição escolástica. Investigar a consciência de homens menos esclarecidos não aparece nos textos. Não se trata de apagar saberes da memória, mas de submetê-los à dúvida. Dispensar ideias de questionamento contraria a radicalidade da dúvida; a evidência é ponto de chegada, não de partida. Gabarito: B.",
+  "hash": "15f13991f44ed4b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q05": {
+  "assunto": "Brasil Colônia: carta de Caminha, catequese",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o objetivo enfatizado no trecho da carta de Caminha. O relato descreve a terra, com praias e arvoredos, informa que ainda não se encontraram ouro, prata ou metais, elogia os bons ares e conclui que o melhor fruto que dela se pode tirar será salvar esta gente. Essa frase final revela a dimensão religiosa do projeto colonizador português: a conversão dos nativos ao cristianismo, isto é, a catequese, apresentada como o maior proveito diante da falta de metais preciosos. Descrever a cultura local para enaltecer a prosperidade portuguesa não corresponde ao trecho, que nem trata da cultura indígena. Não há transmissão de conhecimentos indígenas sobre o potencial econômico. O texto não realça a pobreza dos nativos como prova de superioridade. Também não há crítica ao modo de vida indígena nem menção à ausência de trabalho. Gabarito: A.",
+  "hash": "4d564c136bae234d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q06": {
+  "assunto": "América: conquista espanhola, astecas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o sentido do canto asteca sobre os últimos dias de Tenochtitlán, tomada pelos espanhóis de Cortés em 1521. O poema descreve dardos quebrados, casas destelhadas, águas tingidas de vermelho e afirma que os escudos, que eram o resguardo do povo, não detiveram a desolação. Essas imagens mostram que houve luta e resistência armada, mas que ela fracassou diante de um poder percebido como superior, o dos conquistadores e seus aliados. Por isso o sentido é o de uma resistência frustrada. A destruição da cultura é tema relacionado, mas o poema enfatiza a batalha e a derrota, não a perda cultural. O extermínio das populações pelo exército espanhol vai além do que o texto registra. A dissolução da memória dos antepassados não aparece; o próprio canto é um registro de memória. Não há profecia, pois o texto narra fatos já ocorridos. Gabarito: B.",
+  "hash": "968301bc6acc731b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q07": {
+  "assunto": "População: fecundidade, crescimento vegetativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a consequência demográfica do processo mostrado no gráfico. A taxa de fecundidade total, número médio de filhos por mulher, ficou estável perto de 6 entre 1940 e 1960 (6,16; 6,21; 6,28) e depois caiu continuamente: 5,76 em 1970, 4,35 em 1980, 2,85 em 1990, 2,38 em 2000 e 1,90 em 2010, abaixo do nível de reposição de cerca de 2,1. Com menos nascimentos e mortalidade já em queda, a diferença entre natalidade e mortalidade, o crescimento vegetativo, diminui. A população absoluta brasileira continuou crescendo no período, embora mais devagar. A proporção de adultos aumenta, e não diminui, com a queda da fecundidade. Políticas de controle da natalidade seriam uma possível causa, não consequência, e o Brasil não adotou um programa oficial amplo. A renovação da população economicamente ativa tende a diminuir, pois entram menos jovens. Gabarito: B.",
+  "hash": "68bf5034a37351d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q08": {
+  "assunto": "Geopolítica e conflitos: guerra civil espanhola, antifascismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a perspectiva política comum que mobilizou voluntários de 53 nacionalidades nas Brigadas Internacionais. Na Guerra Civil Espanhola (1936-1939), o governo republicano enfrentou os militares rebeldes liderados por Franco, apoiados pela Itália fascista e pela Alemanha nazista. Comunistas, socialistas, liberais e outras correntes, embora divergentes entre si, uniram-se na defesa da República contra o avanço da extrema direita, em uma lógica de frente antifascista típica dos anos 1930. Por isso o elemento comum era o combate ao fascismo. A crítica ao stalinismo não poderia ser comum, já que as Brigadas eram coordenadas pelos comunistas ligados à URSS. A rejeição ao federalismo não foi o motor da mobilização internacional. O corporativismo era associado aos regimes fascistas, combatidos pelos brigadistas. O anarquismo era apenas uma das correntes do lado republicano, não a perspectiva comum. Gabarito: B.",
+  "hash": "52263b300a6c4d33",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q09": {
+  "assunto": "Transportes e circulação: intermodalidade",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a justificativa para a integração de modais de transporte no Brasil. O texto afirma que a intermodalidade permite um sistema de transportes condizente com a escala geográfica do país. O Brasil tem dimensões continentais, e a produção, sobretudo agrícola, avançou para o interior, longe dos portos. Combinar rodovias, ferrovias e hidrovias permite usar, em cada trecho, o meio mais adequado, com ferrovias e hidrovias barateando o transporte de grandes volumes em longas distâncias. Assim, a justificativa está nas grandes distâncias e na busca de redução de custos. As variações climáticas não são o fator determinante para a escolha de modais. A formação geológica não impede o uso de um único modal. A produção agrícola intensiva está, em grande parte, longe dos portos, e não próxima. A intermodalidade trata de fluxos materiais de cargas, sem relação com sua diminuição frente aos imateriais. Gabarito: B.",
+  "hash": "c57764cffa776364",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q10": {
+  "assunto": "Filosofia política: Maquiavel, natureza humana",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a concepção de ser humano em Maquiavel. No trecho de O príncipe, ele afirma que é mais seguro ser temido do que amado porque os homens são ingratos, volúveis, simuladores, covardes e ávidos de lucro: enquanto recebem benefícios, oferecem tudo, mas, quando o perigo chega, revoltam-se. O realismo político maquiaveliano parte, portanto, da observação de que os homens agem movidos por interesses, o que torna seu comportamento inconstante e pouco confiável, exigindo do governante prudência e capacidade de se fazer temer. A ideia de uma virtude natural para o bem é o oposto do que o texto descreve; além disso, virtù em Maquiavel é qualidade do governante. Fortuna, em Maquiavel, é o acaso, não riqueza. O estado pré-social com direitos naturais pertence aos contratualistas, como Locke. A sociabilidade natural e pacífica remete a Aristóteles e contraria o trecho. Gabarito: C.",
+  "hash": "538d568426ab3816",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q11": {
+  "assunto": "Primeira República: política dos governadores",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que foi fortalecido pelo acordo político criticado por Paulo Prado. A política dos governadores, organizada por Campos Sales, estabelecia que o governo federal apoiaria as oligarquias que dominavam cada estado, e estas garantiriam a eleição de bancadas favoráveis ao presidente. Nos estados, os coronéis controlavam votos por meio do voto de cabresto. Os círculos concêntricos do texto mostram essa cadeia de compromissos que vai do município ao poder central. O resultado foi o domínio de grupos oligárquicos regionais, especialmente de São Paulo e Minas Gerais, sobre a federação. O poder militar perdeu protagonismo após os primeiros governos da República. O presidencialismo não buscava limitar os coronéis; ao contrário, apoiava-se neles. A intervenção federal nos estados era evitada pelo pacto, que garantia autonomia às oligarquias aliadas. Não havia isonomia: o governo favorecia as facções situacionistas. Gabarito: C.",
+  "hash": "a7dd700b14ce81ef",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q12": {
+  "assunto": "Cultura e sociedade: carnaval, cultura popular",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que a atuação das Grandes Sociedades revela sobre o carnaval do fim do século XIX. O texto mostra que essas sociedades, ligadas às elites, pretendiam abolir o entrudo e outras brincadeiras populares de origem colonial, substituindo-as por desfiles considerados civilizados, inspirados em Veneza. A população, porém, não abriu mão de suas práticas e entendia que o entrudo poderia coexistir com os desfiles. Há, portanto, um conflito entre projetos distintos de festa: as tradições populares tornaram-se objeto de disputa entre grupos sociais. As distinções sociais não foram deixadas de lado; ao contrário, ficaram evidentes. As aspirações da elite não impediram a festa fora dos clubes, já que os desfiles ocorriam nas ruas. O texto não menciona extinção de liberdades individuais por autoridades. Não há referência a perseguições policiais nem a xenofobia; as elites, aliás, valorizavam modelos estrangeiros. Gabarito: D.",
+  "hash": "5bbd8b81dda43bca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q13": {
+  "assunto": "Era Vargas: voto feminino",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual direito conquistado pelas mulheres é criticado na caricatura de 1934. A imagem mostra uma mulher grande e autoritária, de braço erguido, discursando à mesa, enquanto um homem e uma criança aparecem diminuídos e chorosos; a legenda pergunta se haverá ainda quem resista à poderosa influência do partido Mulherista. A referência a partido e a influência política aponta para a participação feminina na política, conquistada com o Código Eleitoral de 1932 e confirmada pela Constituição de 1934, que garantiram o voto feminino. A charge ridiculariza essa conquista, sugerindo uma inversão de papéis no lar. A redivisão do trabalho doméstico não era um direito legal conquistado na época. A liberdade de orientação sexual não está em questão. A equiparação salarial não aparece na imagem. O divórcio só foi aprovado no Brasil em 1977. Gabarito: E.",
+  "hash": "e296c4ed8e302179",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q14": {
+  "assunto": "Biomas e vegetação: caatinga, xerofilia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de vegetação descrito por Euclides da Cunha em Os sertões. O trecho fala de uma vegetação espinhenta, de folhas urticantes, gravetos secos, árvores sem folhas e galhos retorcidos, imutável e desolada ao longo de léguas. Essa é a caatinga, bioma do semiárido nordestino, formado por plantas xerófilas, isto é, adaptadas à escassez de água: perdem as folhas na estação seca, têm espinhos e caules retorcidos para reduzir a perda de água. Florestas latifoliadas têm folhas largas e ocorrem em áreas úmidas, o oposto do descrito. A transição para mata de grande porte não aparece; a paisagem é homogênea e baixa. A adaptação à elevada salinidade caracteriza manguezais e vegetação halófila. A cobertura perenifólia mantém as folhas o ano todo, ao contrário das árvores sem folhas do texto. Gabarito: A.",
+  "hash": "1ca916584e3f114e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q15": {
+  "assunto": "Teoria sociológica: Marx, infraestrutura e superestrutura",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a consequência da relação entre economia e política no pensamento de Marx. O trecho afirma que, na produção social, os homens estabelecem relações de produção que constituem a estrutura econômica da sociedade, o fundamento real sobre o qual se erguem as superestruturas política e jurídica e as formas de consciência. Para o materialismo histórico, portanto, é a produção material, ou seja, o trabalho humano organizado em determinadas relações, que funda a vida social, e não as ideias ou o Estado. Daí a correção da afirmação de que o trabalho se constitui como fundamento real da produção material. O proletariado não é contemplado pela mais-valia; ela é o trabalho não pago apropriado pelo capitalista. Marx aponta contradição, e não compatibilidade, entre forças produtivas capitalistas e progresso humano. A autonomia da sociedade civil não cresce proporcionalmente à economia nesse esquema. A consciência de classe revolucionária é atribuída ao proletariado, não à burguesia. Gabarito: B.",
+  "hash": "97fd4d2619c42e1d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q16": {
+  "assunto": "Trabalho: flexibilização, taylorismo e fordismo",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que muda no controle do trabalho do modelo flexível em relação ao taylorismo-fordismo. No taylorismo e no fordismo, o controle era exercido sobre o processo: tempos e movimentos cronometrados, linha de montagem, supervisão direta no espaço da fábrica. Sennett mostra que, no trabalho em tempo flexível, o trabalhador escolhe o local e o horário, mas não controla mais o processo; a supervisão sobre os ausentes do escritório é até maior. Isso ocorre porque o controle passa a incidir sobre metas, prazos e resultados entregues, e não sobre cada etapa da execução. As tecnologias de informação, no texto, ampliam o poder sobre o trabalhador em vez de democratizar as relações. Não há transferência de estruturas burocráticas para o lar, mas descentralização física do trabalho. A terceirização não é tratada no trecho. A flexibilização tende a enfraquecer os sindicatos, e não a fortalecê-los. Gabarito: E.",
+  "hash": "b383007543512418",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q17": {
+  "assunto": "Industrialização: fordismo e toyotismo",
+  "dificuldade": 3,
+  "explicacao": "A questão compara dois modelos de produção representados na imagem. No modelo 1, o fornecedor envia insumos para um estoque, a produção ocorre e os produtos vão para outro estoque antes de chegar ao cliente: é o modelo fordista, que produz em massa antecipadamente. No modelo 2, o cliente faz uma requisição à produção, que requisita ao fornecedor, e as entregas ocorrem conforme a demanda: é o just in time do toyotismo, com estoques mínimos. Produzir para estocar pode gerar acúmulo de mercadorias sem compradores, ou seja, crise de superprodução; produzir sob demanda reduz esse risco. O fator que diferencia os modelos é, portanto, a necessidade de armazenamento. A origem da matéria-prima é a mesma nos dois esquemas, o fornecedor. A qualificação da mão de obra não é representada na imagem. A velocidade de processamento não explica a superprodução. A amplitude do mercado consumidor não aparece como diferença. Gabarito: D.",
+  "hash": "230badf8389aee91",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q18": {
+  "assunto": "História da África e afro-brasileira: estereótipos, cinema",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que a memória construída por esses filmes enfatiza e o que negligencia sobre a África. O texto critica comédias de Hollywood que retratam o continente como um lugar cheio de tribos doidas e rituais de desenho animado, e lembra que o filme americano mais bem-sucedido ambientado na África, O rei Leão, nem tem personagens humanos. Ou seja, enfatiza-se o exotismo, uma visão estereotipada de algo estranho e selvagem, enquanto se negligenciam as culturas africanas reais, diversas e complexas. A ordem da resposta também importa: primeiro o enfatizado, depois o negligenciado. A história e a natureza não correspondem, pois a natureza é até destacada. Sociedade e economia não são o foco do clichê. Comércio e ambiente não aparecem no texto. A diversidade é justamente o que se negligencia, e não o que se enfatiza. Gabarito: B.",
+  "hash": "9c105c0f4a96d5aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q19": {
+  "assunto": "Globalização: fluxos de mercadorias e pessoas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as duas situações cuja coexistência a canção ressalta. Os versos mostram mercadorias, capitais e matérias-primas circulando livremente pelo mundo: empresas japonesas em Hong Kong com matéria-prima brasileira para o mercado americano, pilhas americanas na Nova Guiné, gasolina árabe na África do Sul. No final, porém, crianças iraquianas fugidas da guerra não conseguem visto para entrar na Disneylândia. O contraste revela a globalização: trocas econômicas ampliadas convivem com restrição seletiva ao deslocamento de pessoas, sobretudo pobres e refugiados. O acirramento do controle alfandegário contradiz a livre circulação de mercadorias descrita. Controle informacional e barreiras fitossanitárias não aparecem nos versos. A desregulamentação financeira não é tratada; a canção destaca a negação do visto, ausente nessa alternativa. Protecionismo comercial é o oposto da intensa circulação de produtos retratada. Gabarito: B.",
+  "hash": "1e4524060b6f53d4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q20": {
+  "assunto": "Ditadura militar: AI-2, bipartidarismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que a charge de Finados de 1965 revela sobre os direitos políticos da época. A imagem traz siglas de vários partidos, como PSD, PTB, UDN, PSP e PSB, apresentados como mortos no dia de Finados. Em outubro de 1965, o Ato Institucional nº 2 do regime militar extinguiu todos os partidos existentes desde 1945, e logo depois o Ato Complementar nº 4 criou um bipartidarismo controlado: a Arena, governista, e o MDB, oposição consentida. A charge registra, portanto, a morte do pluripartidarismo e a adoção do bipartidarismo regulado. Não foram extintos apenas os partidos nanicos, mas todos, inclusive os grandes. Os partidos estaduais haviam desaparecido em 1937 e não foram retomados. O fisiologismo não foi superado, e a medida não teve essa finalidade. A representação parlamentar foi esvaziada, não valorizada, pelo autoritarismo. Gabarito: C.",
+  "hash": "eb8a449f18e4f18a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q21": {
+  "assunto": "Geopolítica e conflitos: questão palestina",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o significado da mudança feita pelo Google ao substituir territórios palestinos por Palestina. A expressão territórios palestinos indica áreas ocupadas ou em disputa, sem status de Estado; Palestina designa uma entidade política com identidade própria. A mudança acompanhou a decisão da Assembleia Geral da ONU, em 2012, de elevar a Palestina a Estado observador não membro. O gesto, portanto, sinaliza o reconhecimento de uma autoridade jurídica palestina no plano internacional. Não houve surgimento de país binacional, que reuniria israelenses e palestinos em um mesmo Estado. A mudança não representa fortalecimento de movimentos antissemitas. Os assentamentos judaicos na Cisjordânia não foram esvaziados. As fronteiras nacionais palestinas continuam indefinidas e em negociação, de modo que o gesto não as estabelece. Gabarito: D.",
+  "hash": "df8e65921864e58f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q22": {
+  "assunto": "Filosofia política: Montesquieu, separação dos poderes",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o modelo político que garante a divisão e independência dos poderes defendidas por Montesquieu. Para ele, a liberdade só existe se o poder contiver o poder: se a mesma pessoa ou grupo fizer as leis, executá-las e julgar, haverá abuso. A separação entre Legislativo, Executivo e Judiciário cria um sistema de freios e contrapesos em que cada poder limita os demais. Isso supõe um Estado de direito em que governantes e instituições estejam submetidos a limites. Exercer tutela sobre atividades jurídicas e políticas significaria concentrar controle, contrariando a independência. Consagrar o poder pela autoridade religiosa remete ao absolutismo de direito divino. Concentrar o poder em elites técnico-científicas também viola a divisão. Reunir legislar, julgar e executar em um governante, mesmo eleito, é exatamente o que Montesquieu condena. Gabarito: D.",
+  "hash": "9f1c0036d6b94e33",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q23": {
+  "assunto": "Cultura e sociedade: representações da morte",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de processo identificado por Duby ao comparar como as sociedades lidam com a morte. Na Idade Média, a crença em outro mundo e na ressurreição fazia da morte uma passagem celebrada entre parentes e vizinhos. Na contemporaneidade, a perda do sentimento religioso transformou a morte em provação aterrorizante, salto para o desconhecido. O que mudou foi o modo como a sociedade compreende e representa a morte, ou seja, suas representações sociais. A mercantilização das crenças não é mencionada. O texto fala em perda do sentimento religioso, mas não afirma uma disseminação do ateísmo em países cristãos. Não há referência à aproximação entre ciência e Igreja. O autor não apresenta a mudança como amadurecimento; ao contrário, mostra a morte tornando-se fonte de medo. Gabarito: B.",
+  "hash": "c3a1b2efaa6ab2f5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q24": {
+  "assunto": "Filosofia contemporânea: Foucault, panóptico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tipo de mecanismo pelo qual o poder disciplinar, simbolizado pelo panóptico, é exercido. Bentham descreve um edifício circular com celas na circunferência e o inspetor no centro, de onde pode ver todos sem ser visto. Michel Foucault usou esse modelo para explicar a sociedade disciplinar: o poder moderno atua de forma sutil, pela vigilância permanente, pela organização do espaço e do tempo e pela possibilidade constante de ser observado, levando os indivíduos a se autocontrolar e a ter seus corpos adestrados. É o olhar, e não a força bruta, o principal instrumento. O olho divino remete a mecanismos religiosos, que não são a base do modelo. A alienação ideológica é um conceito marxista, diferente da disciplina dos corpos. A tortura física é típica do suplício pré-moderno, que a disciplina substitui. O controle não resulta de acordos consensuais entre os vigiados. Gabarito: D.",
+  "hash": "3ef03de7003506e2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q25": {
+  "assunto": "Meios de comunicação e indústria cultural: redes sociais",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o sentido da crítica feita pela charge. Nos quadrinhos, a moça pergunta ao blogueiro se ele está no Orkut, no MSN, no MySpace, no Facebook e no Twitter; ele responde que está em todos. No último quadro, ela conclui: você está em tantos lugares, por isso raramente te vejo no mundo real. O humor está no paradoxo de alguém muito conectado e, ao mesmo tempo, ausente das relações presenciais. A charge, portanto, questiona se a integração às redes virtuais significa de fato integração social. Ela não considera as relações sociais menos importantes que as virtuais; critica justamente essa inversão. Não enaltece a pretensão de estar em todos os lugares, mas a ironiza. Não pretende descrever com precisão as sociedades globalizadas. Também não trata a internet como o espaço mais eficaz para relações sociais, ideia que a tirinha contesta. Gabarito: A.",
+  "hash": "f4ed4716dfffc095",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q26": {
+  "assunto": "Antiguidade: Roma, Lei das Doze Tábuas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que esteve relacionado à passagem das leis orais às leis escritas em Roma. O texto mostra que, sem legislação escrita, os patrícios manipulavam a justiça a seu favor; em 451 a.C., os plebeus conseguiram eleger os decênviros para redigir as leis, o que deu origem à Lei das Doze Tábuas. Com leis escritas e conhecidas por todos, os plebeus, homens livres antes excluídos de muitos direitos, passaram a ter garantias jurídicas e ampliaram progressivamente sua participação na vida política. Trata-se, portanto, da extensão da cidadania aos homens livres. O sufrágio universal masculino não existia em Roma, cujo voto era organizado por critérios de riqueza. A República romana era aristocrática, não democrática. Direitos sociais são conquistas contemporâneas. A tripartição dos poderes é uma formulação moderna, associada a Montesquieu. Gabarito: B.",
+  "hash": "23ed7007a9d2b994",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q27": {
+  "assunto": "Filosofia antiga: Aristóteles, felicidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como Aristóteles entende a felicidade. No trecho, ele afirma que a felicidade é a melhor, a mais nobre e a mais aprazível coisa do mundo e que esses atributos estão reunidos nas atividades mais excelentes. Para Aristóteles, toda ação humana visa a algum bem, e a felicidade, a eudaimonia, é o bem supremo, buscado por si mesmo e não em vista de outra coisa. Por isso ela é a finalidade última das ações e condutas humanas, alcançada pela prática da virtude. Bens materiais e títulos são meios, não o fim último. Plenitude espiritual e ascese pessoal remetem a tradições religiosas, não à ética aristotélica. O conhecimento de verdades imutáveis e perfeitas lembra mais Platão. Sucesso individual e reconhecimento público, ligados à honra, não são a felicidade em si para Aristóteles. Gabarito: C.",
+  "hash": "6d91ce3d3be75d87",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q28": {
+  "assunto": "Espaço agrário: terraceamento, erosão",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo imediato da técnica agrícola mostrada na imagem. A fotografia mostra uma encosta íngreme transformada em degraus sucessivos, com plantações em faixas que acompanham as curvas do relevo: são os terraceamentos, associados ao plantio em curvas de nível. Em terrenos inclinados, a água da chuva escorre com velocidade e arrasta a camada superficial do solo, provocando a erosão laminar. Os terraços quebram a declividade, reduzem a velocidade do escoamento e favorecem a infiltração, protegendo o solo. A preservação de nascentes depende da proteção da vegetação nas suas áreas, não do terraceamento. A técnica não diminui a contaminação química por agrotóxicos. Ela não tem relação com sementes transgênicas. Os degraus estreitos, ao contrário, dificultam a mecanização intensiva. Gabarito: A.",
+  "hash": "ef342a312b563dfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q29": {
+  "assunto": "História da África e afro-brasileira: congada, cultura",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o processo evidenciado pela festa da Coroação do Rei do Congo. O texto descreve um cortejo com criados ricamente vestidos, cavalos e o embaixador do Rei do Congo anunciando a coroação, aplaudidos pelo povo. Essa festa, realizada por africanos escravizados e seus descendentes, retomava a memória de reinos africanos, mas dentro do contexto colonial e católico, associada às irmandades religiosas, como a de Nossa Senhora do Rosário. Elementos africanos e portugueses foram combinados e ganharam novos sentidos, o que caracteriza uma ressignificação cultural, origem das congadas. Não se trata de exclusão, pois o texto mostra a festa aplaudida publicamente. A imposição religiosa ignora o papel ativo dos africanos na recriação da festa. Acomodação política não é o foco do trecho, que trata de cultura. Não há supressão simbólica; os símbolos africanos são reafirmados. Gabarito: E.",
+  "hash": "f28f17f4f0e44576",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q30": {
+  "assunto": "Espaço agrário: reforma agrária, concentração fundiária",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como cada texto associa a reforma agrária. O texto I, do MST, denuncia a concentração fundiária, em que cerca de 1% dos proprietários controla 46% das terras, e defende ocupar latifúndios improdutivos e terras griladas, que não cumprem a função social prevista na Constituição de 1988: a reforma agrária aparece como correção de uma distorção histórica. O texto II defende propriedades produtivas e geradoras de emprego, compara o pequeno produtor a um pequeno lojista com dificuldades e diz que apoiar empresas produtivas é mais barato que apoiar a reforma agrária: ela seria um prejuízo ao agronegócio. Inchaço urbano e crítica ao minifúndio não correspondem ao texto I. Renda nacional e mercado externo não são mencionados. Contenção da mecanização e êxodo rural não aparecem. Privatização de estatais não tem relação com os textos. Gabarito: E.",
+  "hash": "36207023ef81e83f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q31": {
+  "assunto": "Mundo contemporâneo: apartheid, África do Sul",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual legado precisava ser superado para consolidar a democracia sul-africana, segundo Desmond Tutu. No encerramento da Comissão da Verdade e Reconciliação, ele fala em encarar a besta do passado e propõe uma sociedade em que as pessoas valham não por irrelevâncias biológicas, mas por serem pessoas. A expressão irrelevâncias biológicas remete à cor da pele, critério do apartheid, regime de segregação racial que vigorou de 1948 até o início dos anos 1990 e negava direitos políticos e civis à maioria negra. Superar esse legado segregacionista era condição para universalizar a cidadania. O populismo e a cooptação de dissidentes não caracterizam o apartheid. O termo totalitarista não descreve o foco do texto, que é racial. A estagnação econômica não é a questão central. Também não se trata de fundamentalismo ou conflito religioso. Gabarito: C.",
+  "hash": "945fe0f7d0329f22",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q32": {
+  "assunto": "Brasil Império: imigração, mão de obra",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o objetivo que opunha Estado e elite agrária nas mudanças do campo no Império. O texto é a resposta do diretor das Terras Públicas ao senador Vergueiro, fazendeiro que trouxe imigrantes europeus pelo sistema de parceria. O diretor lembra que, antes, os fazendeiros compravam escravos sem nenhum auxílio do governo e pergunta por que não deveriam obter, também à sua custa, os novos braços, de outra qualidade, isto é, os imigrantes. Com o fim do tráfico em 1850, a elite cafeeira pressionava o Estado para financiar a vinda de trabalhadores estrangeiros; o debate girava em torno de uma política de subsídio à imigração. Ocupar terras do interior não é o tema do trecho. A proteção do trabalhador estrangeiro não está em discussão. O tráfico interprovincial não é mencionado. A agricultura de subsistência não interessava aos fazendeiros, que queriam mão de obra para a grande lavoura. Gabarito: C.",
+  "hash": "3b26595651dfae98",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q33": {
+  "assunto": "Brasil Império: imagem dos monarcas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a ideia evocada por cada imagem. A primeira, a pintura de Moreaux sobre a Independência, mostra D. Pedro I a cavalo, erguendo o chapéu, cercado por uma multidão de pessoas comuns, homens, mulheres e crianças que o saúdam com entusiasmo. A cena constrói a imagem de um líder aclamado pelo povo, de liderança popular. A segunda, a fotografia de D. Pedro II, mostra o imperador idoso, de barbas brancas, sentado calmamente, em trajes civis sóbrios: representa um monarca sereno, sábio e estável, associado ao longo período de estabilidade política do Segundo Reinado. Habilidade militar e riqueza pessoal não são as ideias centrais. Instabilidade econômica e herança europeia não aparecem nas imagens. Isolamento político contradiz a multidão em torno de D. Pedro I. Nacionalismo exacerbado e inovação administrativa não são sugeridos pela fotografia tranquila de D. Pedro II. Gabarito: B.",
+  "hash": "4e2d59a4efe0ea25",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q34": {
+  "assunto": "Urbanização: países subdesenvolvidos, êxodo rural",
+  "dificuldade": 4,
+  "explicacao": "A questão pede em que aspecto se percebe a unidade da urbanização em África, Ásia e América Latina, apesar das diferenças de impacto. Nessas regiões, a urbanização foi tardia e acelerada, ocorrendo sobretudo na segunda metade do século XX, com intenso êxodo rural ainda em curso e com a formação das maiores aglomerações urbanas do mundo, como Lagos, Mumbai, Daca, São Paulo e Cidade do México. Esse traço comum é demográfico: concentração das maiores metrópoles nos países em desenvolvimento e continuidade do fluxo campo-cidade. A integração entre cidades locais e globais varia bastante entre as regiões. Não há semelhança histórica e cultural que una os três continentes. A organização das cidades não atravessa fronteiras nacionais. A revolução agrícola, ao contrário, expulsou o homem do campo, e não o fixou. Gabarito: C.",
+  "hash": "e9434506254bd83e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q35": {
+  "assunto": "Movimentos sociais: Indignados, democracia direta",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a proposta que sintetiza as reivindicações dos Indignados espanhóis de 2011. O texto descreve a multidão na Puerta del Sol gritando que os políticos não os representam e um jovem exigindo submeter a referendo o resgate dos bancos. As duas demandas revelam crise de representação: os manifestantes rejeitavam decisões tomadas por partidos e parlamentares sem consulta e queriam que os cidadãos decidissem diretamente questões importantes, por meio de referendos e assembleias. Isso corresponde à democracia direta. O voto universal já existia na Espanha. A pluralidade partidária também já existia, e os jovens criticavam justamente os partidos. A autonomia legislativa não responde à rejeição da representação. A imunidade parlamentar é privilégio dos representantes, alvo da crítica dos manifestantes. Gabarito: B.",
+  "hash": "61ceda1814225b6c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q36": {
+  "assunto": "Filosofia moderna: Kant, revolução copernicana",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a relação entre as duas posições confrontadas no trecho de Kant. A posição tradicional supunha que o conhecimento se regula pelos objetos: o sujeito apenas recebe o que as coisas são. Kant propõe testar a hipótese inversa, de que os objetos se regulam pelo nosso conhecimento, ou seja, pelas formas e categorias do sujeito. Assim como Copérnico inverteu a relação entre Terra e Sol, Kant inverte a relação entre sujeito e objeto. São, portanto, pontos de vista opostos sobre a natureza do conhecimento. Nenhuma das posições afirma a impossibilidade do conhecimento; Kant quer fundá-lo, não aderir ao ceticismo. A alternativa sobre interdependência descreve a síntese kantiana, não o confronto entre as duas posições. A primazia das ideias sobre os objetos vale só para a nova hipótese. Kant não recusa ambas: adota a segunda. Gabarito: A.",
+  "hash": "c95358a9e3ec732c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q37": {
+  "assunto": "Energia: hidrelétricas na Amazônia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual mudança técnica no território causou, na última década, fortes impactos sociais, culturais e econômicos sobre comunidades locais, sobretudo na Amazônia Legal. Milton Santos fala em acréscimos técnicos que renovam a materialidade do território. Na Amazônia, o grande exemplo são as usinas hidrelétricas, como Belo Monte, no Xingu, Jirau e Santo Antônio, no Madeira, e as usinas do Tocantins. Essas obras alagam extensas áreas, deslocam populações ribeirinhas e indígenas, alteram a pesca e atraem grande número de migrantes, gerando impactos profundos. Reformas de aeroportos nas capitais não atingem comunidades locais amazônicas de forma intensa. Estádios para eventos esportivos se concentraram nas capitais e não são específicos da Amazônia. A instalação de cabos de comunicação tem impacto local reduzido. Torres de telefonia móvel também não provocam deslocamentos ou transformações dessa escala. Gabarito: C.",
+  "hash": "cf64116ea42d7afd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q38": {
+  "assunto": "História da África e afro-brasileira: cultura afro-brasileira",
+  "dificuldade": 1,
+  "explicacao": "A questão pede como analisar manifestações culturais de origem africana, segundo o texto. O trecho afirma que a recuperação da herança africana deve considerar o movimento, a pluralidade e a complexidade da cultura, sem resgate ingênuo do passado nem cultivo nostálgico, buscando perceber o próprio rosto cultural brasileiro. Isso significa que capoeira e candomblé não são cópias da África, mas criações que nasceram da interação entre valores africanos e a experiência histórica vivida no Brasil, inclusive a escravidão. Considerá-las mera reprodução de costumes africanos contraria a ideia de movimento cultural. Afirmar que perderam a relação com o passado ignora a herança africana valorizada pelo texto. O texto não fala em distanciamento entre negros e brancos. Também não compara a complexidade cultural de africanos e europeus. Gabarito: C.",
+  "hash": "881041de1400d4db",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q39": {
+  "assunto": "República populista: governo JK, Plano de Metas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido da ironia da charge sobre o desenvolvimentismo de JK. Na imagem, JK, bem vestido, aponta para um painel repleto da palavra META, referência ao Plano de Metas, e diz ao Jeca que ele agora tem automóvel, asfalto e gasolina brasileiros. O Jeca, magro, de roupas remendadas e chapéu de palha, responde pedindo um prato de feijão brasileiro; a legenda é Meta de Faminto. A crítica mostra que o crescimento industrial e rodoviário não chegou à maioria pobre, sobretudo no campo: o crescimento econômico aprofundou contradições sociais e espaciais. As rodovias não diminuíram as desigualdades regionais, que a charge evidencia. A modernização industrial não dinamizou a produção de alimentos, daí a fome do Jeca. Os bens duráveis não elevaram os salários dos trabalhadores, e a inflação corroía o poder de compra. A charge não fala em frentes de trabalho no interior. Gabarito: C.",
+  "hash": "73db024028937199",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q40": {
+  "assunto": "Brasil Império: condição feminina, patriarcalismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a representação do feminino comum aos dois textos do século XIX. No texto I, o padre Lopes da Gama critica a mulher que acorda tarde, lê romances, olha a rua da janela e gasta horas com penteado, piano e francês: o comentário julga como a mulher deveria se comportar, segundo um modelo masculino e moralista. No texto II, Macedo descreve janelas com treliças como gaiolas em que pais e maridos guardavam filhas e esposas, afastadas da sociedade. Em ambos, a mulher aparece controlada e vigiada pelos homens da família: é a submissão de gênero sustentada pela família patriarcal. O acesso a produtos de beleza ligado à abertura dos portos não é o ponto comum. A ampliação do entretenimento para diferentes classes não aparece. Não há disputa masculina pelas damas da corte. O casamento cristão e a herança não são mencionados. Gabarito: A.",
+  "hash": "ced4b3c1a708152a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q41": {
+  "assunto": "Filosofia moderna: ciência, Bacon e Descartes",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como a filosofia moderna de Descartes e Bacon e o Iluminismo concebem a investigação científica. O texto mostra que o programa moderno de dominar a natureza não nasceu do mero desejo de poder, mas da aspiração de libertar o homem e enriquecer sua vida. Nessa visão, a ciência é a expressão mais elevada da razão humana e torna-se modelo de saber, inspirando outras áreas que buscam progresso, com seu método rigoroso e sua capacidade de transformar o mundo. Expor a essência da verdade e encerrar definitivamente as disputas é pretensão exagerada que o texto não sustenta. A ciência não precisaria substituir a filosofia, já que esses autores eram filósofos. Eliminar discursos éticos e religiosos não fazia parte do projeto de Descartes e Bacon. Impor limites aos debates acadêmicos não aparece no texto. Gabarito: C.",
+  "hash": "eaa21abfefa01e25",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q42": {
+  "assunto": "Questões ambientais: chuva ácida",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma consequência direta do problema atmosférico mostrado no esquema. A imagem mostra fábricas e veículos emitindo dióxido de enxofre e óxidos de nitrogênio, que reagem com o vapor de água nas nuvens formando ácido sulfúrico (H₂SO₄) e ácido nítrico (HNO₃). Esses ácidos retornam como chuva, neve e neblina ácidas e precipitação seca, gerando danos na vegetação, lixiviação ácida do solo, toxicidade pelo alumínio e desaparecimento da vida aquática. O problema é a chuva ácida, intensificada com a industrialização. Entre as alternativas, a consequência direta é a redução da flora, indicada no esquema pelos danos nas folhas e nas árvores. A elevação das marés relaciona-se ao aquecimento global. A erosão das encostas está ligada ao desmatamento e ao escoamento. A laterização resulta de clima quente e úmido, não da chuva ácida. A fragmentação de rochas não é consequência direta destacada no esquema. Gabarito: A.",
+  "hash": "c1a5d41350b9c512",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q43": {
+  "assunto": "Energia: energia eólica, fontes renováveis",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a consequência da opção tecnológica descrita na notícia para o sistema energético brasileiro. O texto trata da instalação de 230 turbinas no Complexo Eólico Alto Sertão, na Bahia, com capacidade de 375 MW. A energia eólica usa a força dos ventos, fonte renovável e limpa, abundante no litoral e no sertão nordestino. A instalação desses parques diversifica a matriz elétrica e amplia a participação das fontes renováveis, reduzindo a dependência das hidrelétricas em períodos de seca e das termelétricas. A notícia não indica redução no uso de eletricidade, mas aumento da oferta. Bioenergia vem da biomassa, como etanol e bagaço de cana, não do vento. A demanda urbano-industrial não é contida por um aumento de geração. A energia geotérmica, do calor interno da Terra, é praticamente inexistente no Brasil. Gabarito: C.",
+  "hash": "251b46a41648b86f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q44": {
+  "assunto": "Brasil Império: abolicionismo, Joaquim Nabuco",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o projeto de Joaquim Nabuco para o fim da escravidão. No trecho de O abolicionismo, ele rejeita a guerra servil, as insurreições, os atentados locais e a guerra civil como nos Estados Unidos, e afirma que é no Parlamento, e não em fazendas, quilombos, ruas ou praças, que se ganharia ou perderia a causa da liberdade. Seu projeto, portanto, é o da abolição pela via legal e parlamentar, por meio de leis aprovadas pelos representantes. Copiar o modelo haitiano seria aceitar a revolução dos escravizados, que ele recusa. Ações judiciais por alforrias individuais não são o caminho proposto, que é legislativo e geral. O texto não trata de indenizações aos senhores. A libertação paternalista, como concessão dos senhores, também não é o que Nabuco defende no trecho. Gabarito: C.",
+  "hash": "b93fe14ec239f24d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q45": {
+  "assunto": "Cidadania e direitos: direitos LGBT",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a condição necessária para a dimensão política da transformação descrita. O autor lembra que, quando nasceu, relações homossexuais eram ilegais em quase todos os estados americanos, gays não podiam trabalhar no governo federal e não havia políticos abertamente gays. A mudança relatada envolve a conquista de direitos civis e políticos por um grupo antes discriminado: legalidade de suas relações, acesso a cargos públicos e representação política. Isso só foi possível com a ampliação da noção de cidadania, estendendo a esses grupos direitos antes negados. A reformulação de concepções religiosas pode ter ocorrido em parte, mas não é condição necessária da dimensão política. A manutenção de ideologias conservadoras iria contra a transformação. Cotas nas listas partidárias não são mencionadas e não existem nesse caso. A composição étnica da população não tem relação com o tema. Gabarito: A.",
+  "hash": "179a12ff6615d171",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q46": {
+  "assunto": "Eletroquímica: eletrólito, condução iônica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a função da camada central de eletrólito polimérico no músculo artificial. A figura mostra um sanduíche: dois filmes de polipirrol nas faces e o eletrólito no meio; com corrente elétrica, uma face fica positiva e a outra negativa, e o conjunto se curva. O texto explica que a face oxidada recebe ânions e se expande, enquanto a face reduzida expulsa ânions e se contrai. Para que os ânions saiam de um filme e entrem no outro, eles precisam atravessar o meio central, que contém um sal inorgânico dissolvido no polímero. O eletrólito, portanto, permite a difusão de íons sob a diferença de potencial, fechando o circuito elétrico como numa pilha. Não há radiação de partículas a absorver. O movimento não é dilatação térmica, mas inserção e expulsão de íons. Num eletrólito a condução é iônica, não por elétrons livres. A polarização de moléculas não explica a expansão e a contração descritas. Gabarito: B.",
+  "hash": "df1b82e8fe7f3256",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q47": {
+  "assunto": "Estequiometria: mol, constante de Avogadro",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número mínimo de átomos de cálcio a ingerir por dia. O texto diz que o brasileiro consome 500 mg e que a quantidade recomendada é o dobro, ou seja, 1 000 mg = 1 g de cálcio por dia. Com a massa molar de 40 g/mol, o número de mols é n = 1 g ÷ 40 g/mol = 0,025 mol = 2,5 × 10⁻² mol. Multiplicando pela constante de Avogadro: 2,5 × 10⁻² × 6 × 10²³ = 15 × 10²¹ = 1,5 × 10²² átomos. A alternativa A, 7,5 × 10²¹, corresponde aos 500 mg consumidos, e não ao valor recomendado. A alternativa C, 7,5 × 10²³, resulta de errar a conversão de miligrama para grama. As alternativas D e E também vêm de erros de unidade ou de multiplicar pela massa molar em vez de dividir. Gabarito: B.",
+  "hash": "6309627bbe4866cd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q48": {
+  "assunto": "Termologia: radiação térmica, absorção e emissão",
+  "dificuldade": 3,
+  "explicacao": "A questão compara a taxa de variação de temperatura das garrafas preta e branca no aquecimento e no resfriamento. A figura mostra as duas garrafas com termômetros, à mesma distância de uma lâmpada incandescente. Superfícies escuras absorvem mais radiação do que as claras, que refletem boa parte dela; assim, com a lâmpada acesa, a garrafa preta esquenta mais rapidamente. Pela lei de Kirchhoff da radiação, um bom absorvedor é também um bom emissor: depois que a lâmpada é desligada, a garrafa preta emite radiação térmica com mais eficiência e, além disso, está mais quente em relação ao ambiente, portanto esfria mais rapidamente. Logo, a taxa é maior nas duas etapas. As alternativas com taxas iguais ignoram a diferença de absorção e de emissão entre as cores. Dizer que a preta aquece mais devagar contraria a absorção maior do preto. Afirmar que ela esfria mais devagar ignora que bons absorvedores são bons emissores. Gabarito: E.",
+  "hash": "609bf8de93762d3e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q49": {
+  "assunto": "Radioatividade: meia-vida",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a massa de carbono-11 que resta após cinco meias-vidas, partindo de 1,00 g. A cada meia-vida, a massa do nuclídeo cai pela metade. Após n meias-vidas, m = m₀ × (½)ⁿ. Com n = 5: m = 1,00 g × (½)⁵ = 1,00 g ÷ 32 = 0,03125 g. Convertendo para miligramas: 0,03125 g × 1 000 = 31,25 mg, o valor mais próximo é 31,3 mg. O tempo de meia-vida de 20,4 min não precisa ser usado, já que o tempo de aquisição foi dado diretamente em número de meias-vidas, cerca de 102 min. A alternativa A, 0,200, vem de dividir 1 por 5 e errar a unidade. A alternativa B não corresponde a nenhuma divisão sucessiva coerente. A alternativa C, 9,80, não resulta de cinco divisões por 2. A alternativa E, 200, corresponde a 1 000 mg ÷ 5, tratando o decaimento como linear. Gabarito: D.",
+  "hash": "0ba6251b474f83b7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q50": {
+  "assunto": "Saúde e doenças: vacinação, imunidade",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a contribuição de Edward Jenner para a saúde humana. Ele inoculou num menino o material das feridas da varíola bovina, que causa doença branda; o garoto teve infecção leve e se recuperou. Meses depois, ao receber o pus da varíola humana, não adoeceu: o contato prévio com o vírus semelhante e menos agressivo induziu imunidade. Esse foi o princípio da vacinação, palavra derivada de vacca, que permitiu prevenir a varíola, erradicada em 1980, e serviu de base para vacinas contra muitas outras doenças infectocontagiosas no mundo. O experimento não demonstrou multiplicação viral em matéria orgânica. A vacina é preventiva, não tratamento de doenças já instaladas. O experimento, aliás, seria considerado antiético hoje, pois usou uma criança sem as garantias atuais. A transmissão de vírus animais ao homem não foi a contribuição principal. Gabarito: A.",
+  "hash": "52e25a1c1b866874",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q51": {
+  "assunto": "Química ambiental: poluição atmosférica, termelétricas",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual fonte de energia causa especialmente poluição do ar, alvo dos métodos da Química Verde. Termelétricas geram eletricidade pela queima de combustíveis, como carvão, óleo diesel, óleo combustível e gás natural. Essa combustão libera para a atmosfera gás carbônico (CO₂), óxidos de enxofre e de nitrogênio, que causam chuva ácida, monóxido de carbono e material particulado. Por isso, é nas termelétricas que mais se justificam métodos para reduzir ou eliminar a poluição atmosférica, como filtros, dessulfurização e combustíveis mais limpos. Hidrelétricas causam impactos como alagamento de áreas e alteração de ecossistemas, mas não emitem poluentes do ar em sua operação. Usinas geotérmicas têm emissões pequenas em comparação à queima de combustíveis. A energia solar não envolve combustão. A energia eólica também não emite poluentes atmosféricos ao gerar eletricidade. Gabarito: B.",
+  "hash": "c44a25de73f7f9ec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q52": {
+  "assunto": "Ondulatória: ondas eletromagnéticas, interferência",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a propriedade das ondas que justifica desligar aparelhos eletrônicos no avião. Celulares e outros aparelhos emitem e recebem ondas de rádio, assim como os equipamentos de comunicação entre pilotos e torre de controle. Se as frequências forem próximas, os sinais dos aparelhos podem ser captados pelos receptores da cabine e superpor-se aos sinais de comunicação, gerando ruído e interferência. Receptores são sintonizados em faixas de frequência, por isso o que importa é a proximidade de frequências. Ter fases opostas é uma situação particular de interferência destrutiva, não a propriedade geral que justifica a medida. Ondas eletromagnéticas não são audíveis; som é onda mecânica. Intensidades inversas não fazem sentido físico como justificativa. Mesma amplitude não basta para haver interferência na sintonia; o essencial é a frequência. Gabarito: E.",
+  "hash": "ea75289db3bec26e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q53": {
+  "assunto": "Fisiologia humana: absorção intestinal, vilosidades",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a função do aumento das vilosidades intestinais nas serpentes que passam longos períodos de jejum. As vilosidades são dobras da mucosa do intestino delgado, ricamente vascularizadas, onde ocorre a absorção dos nutrientes digeridos. Quanto mais numerosas e desenvolvidas, maior a área de contato entre a parede intestinal e o conteúdo alimentar, permitindo absorver mais nutrientes de cada presa; a irrigação sanguínea intensa leva esses nutrientes rapidamente para o corpo. Isso é vantajoso para animais que comem raramente. As vilosidades não aumentam o comprimento do trato digestório. A irrigação serve para absorção e transporte, não para liberar calor. As vilosidades estão no intestino, e não estão ligadas à digestão proteica no estômago. Diminuir o tempo de permanência do alimento reduziria o aproveitamento, o oposto do necessário. Gabarito: B.",
+  "hash": "39d880c39c756b3c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q54": {
+  "assunto": "Química orgânica: poliésteres, hidrólise",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como obter etilenoglicol a partir do PET. O PET é um poliéster, formado pela condensação do ácido tereftálico com o etilenoglicol, com liberação de água. Suas unidades estão unidas por ligações éster. A reação inversa da esterificação é a hidrólise: na presença de água, em meio ácido ou básico, as ligações éster se rompem e regeneram o ácido tereftálico e o etilenoglicol (1,2-etanodiol), que podem ser reutilizados como matérias-primas. Essa é a chamada reciclagem química. A solubilização apenas dissolveria o polímero, sem quebrar as ligações. A combustão transformaria o material em CO₂ e H₂O, destruindo a matéria-prima. A trituração é processo físico, que reduz o tamanho das peças sem alterar as moléculas. A fusão também é física: derrete o plástico, mas não libera o etilenoglicol. Gabarito: D.",
+  "hash": "94d11bee13981d05",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q55": {
+  "assunto": "Fisiologia humana: hormônios, anticoncepcional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o gráfico que representa a concentração de estrogênio (E) e progesterona (P) no sangue de uma mulher que tomou um comprimido por dia, sem interrupção, durante seis meses. A pílula fornece doses diárias constantes desses hormônios sintéticos, mantendo seus níveis estáveis no sangue. Esses níveis elevados e constantes inibem, por retroalimentação negativa, a liberação de FSH e LH pela hipófise, impedindo a ovulação e o ciclo hormonal natural. O gráfico A mostra exatamente isso: duas linhas horizontais, E e P, constantes ao longo do tempo. O gráfico B mostra subida e oscilação de E, sem estabilidade. O gráfico C reproduz picos parecidos com os de um ciclo menstrual natural, que a pílula suprime. O gráfico D mostra aumento contínuo, como se os hormônios se acumulassem indefinidamente. O gráfico E mostra crescimento após um período estável, sem justificativa, já que a dose diária é sempre a mesma. Gabarito: A.",
+  "hash": "b03ca06e08f6ccb4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q56": {
+  "assunto": "Fisiologia humana: circulação, válvulas venosas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que a demonstração de Harvey relaciona à circulação sanguínea. O torniquete no braço impede o retorno do sangue pelas veias superficiais, que incham. Ao pressionar um ponto da veia e empurrar o sangue em direção ao cotovelo, isto é, em direção ao coração, Harvey observava que um trecho do vaso ficava vazio e não se enchia de novo pelo lado de cima. Isso ocorre porque as veias têm válvulas que só permitem o fluxo em direção ao coração, impedindo o refluxo. Assim, a experiência demonstra a circulação em sentido único e o papel das válvulas venosas. A pressão arterial não é o objeto da demonstração, feita em veias. A circulação linfática não está envolvida. A contração cardíaca não é observada no experimento. O transporte de gases não pode ser avaliado por esse procedimento. Gabarito: B.",
+  "hash": "4c27445701d61b73",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q57": {
+  "assunto": "Hidrostática: pressão atmosférica, Stevin",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como a pressão atmosférica interfere no escoamento da garrafa tampada e destampada. Com a garrafa tampada, a água tenderia a sair pelos furos, mas, para isso, seria preciso entrar ar para ocupar o espaço; como o ar não entra, a pressão interna no topo diminui e a pressão atmosférica externa, maior que a interna na altura dos furos, impede a saída da água. Com a garrafa destampada, a pressão atmosférica atua igualmente sobre a superfície livre da água e sobre os furos, anulando seu efeito. A velocidade de saída passa a depender apenas da pressão da coluna de água acima de cada furo, d·g·h; por isso, o jato do furo mais baixo é mais forte. As alternativas que dizem que a velocidade depende ou é proporcional à pressão atmosférica ignoram que ela atua dos dois lados. As que falam em impedir a entrada de ar por ser menor que a pressão interna invertem a relação de pressões. Gabarito: A.",
+  "hash": "31d0020010801b49",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q58": {
+  "assunto": "Química orgânica: isomeria geométrica, nomenclatura",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a estrutura do citral trans, isômero de odor mais intenso. Pelo texto, o citral é um aldeído (C₁₀H₁₆O) com cadeia principal de oito carbonos, numerada a partir do carbono do grupo CHO, ligações duplas nos carbonos 2 e 6 e metilas nos carbonos 3 e 7. Na estrutura A, a cadeia parte do CHO, há dupla entre C2 e C3, metila no C3, dupla entre C6 e C7 e metila no C7; além disso, a cadeia principal continua em lados opostos da dupla C2=C3, o que caracteriza o isômero trans (geranial). Na estrutura B, a metila está no carbono 2, não no 3. Na C, a substituição está correta, mas a cadeia segue do mesmo lado da dupla C2=C3, isômero cis. Nas estruturas D e E, a segunda dupla está entre C5 e C6 e o carbono 7 não tem dupla, o que não corresponde à descrição; E ainda é cis. Gabarito: A.",
+  "hash": "f145ec27a52f3f0d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q59": {
+  "assunto": "Ecologia: decomposição, ciclo do oxigênio",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que acontece com a concentração de O₂ perto do solo onde uma árvore caiu. Em florestas maduras, a produção de O₂ pela fotossíntese se iguala ao consumo pela respiração. Quando uma árvore morre e cai, sua matéria orgânica passa a ser decomposta por fungos, bactérias e outros organismos. A decomposição aeróbia é, em essência, respiração: consome O₂ e libera CO₂. Por isso, no local da queda, a concentração de O₂ próximo ao solo diminui temporariamente. A ideia de economia de O₂ pela ausência das árvores ignora a decomposição. O crescimento de árvores jovens ocorre depois e não compensa de imediato o consumo dos decompositores. Não haverá igualdade, pois a decomposição desequilibra localmente o balanço. A falta de fotossíntese da árvore morta não é a explicação principal, já que ela também deixou de respirar. Gabarito: A.",
+  "hash": "d86c868e8b76db1e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q60": {
+  "assunto": "Evolução: seleção natural, sucesso reprodutivo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o canibalismo sexual, aparentemente desvantajoso para os machos, foi mantido pela evolução. O texto mostra que as fêmeas que comem os machos obtêm nutrientes importantes e produzem mais ovos. Como o macho já copulou e inseminou a fêmea antes de ser devorado, seus genes estarão nos ovos fertilizados. Assim, ao servir de alimento, ele aumenta o número de descendentes que carregam seus próprios genes. Do ponto de vista evolutivo, importa o sucesso reprodutivo, e não a sobrevivência individual: o comportamento favorece tanto a fêmea quanto o macho. A ocupação de diferentes nichos ecológicos não tem relação com o fenômeno. O macho transmite seus genes, pois a cópula ocorreu antes. Impedir a reprodução futura do macho seria desvantagem, não explicação para a evolução do comportamento. A variabilidade genética da população não é reduzida por esse comportamento. Gabarito: B.",
+  "hash": "1f6172f414fe6173",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q61": {
+  "assunto": "Hidrostática: princípio de Pascal, prensa hidráulica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a força que a bomba deve exercer no fluido para elevar o cadeirante com velocidade constante. Primeiro, a massa total sobre a plataforma: 65 kg + 15 kg + 20 kg = 100 kg. Com velocidade constante, a força resultante é nula, então o pistão deve exercer força igual ao peso: P = m·g = 100 × 10 = 1 000 N. Pelo princípio de Pascal, a pressão é transmitida integralmente pelo fluido: F₁/A₁ = F₂/A₂. Como a área do pistão é 5 vezes a área da tubulação da bomba, F₁ = F₂ × (A₁/A₂) = 1 000 ÷ 5 = 200 N. A alternativa A, 20 N, viria de dividir também por g ou por 50. A alternativa B, 100 N, corresponde a confundir massa com força. A alternativa D, 1 000 N, é o peso total, sem a multiplicação de força da prensa. A alternativa E, 5 000 N, multiplica em vez de dividir. Gabarito: C.",
+  "hash": "4eba7dd307f8f829",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q62": {
+  "assunto": "Citologia: mitocôndrias, DNA extranuclear",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual organela de levedura poderia receber transgenes, seguindo a mesma estratégia usada com cloroplastos em plantas. A inserção em cloroplastos funciona porque essa organela tem DNA próprio e maquinaria para expressar genes, incluindo ribossomos; além disso, cada célula tem muitas cópias da organela, o que aumenta a produção de proteína. Leveduras são fungos e não têm cloroplastos, mas têm mitocôndrias, que também possuem DNA próprio, ribossomos e capacidade de síntese proteica, segundo a teoria endossimbiótica. Assim, a mitocôndria é a organela análoga. O lisossomo realiza digestão intracelular e não tem material genético. O peroxissomo atua na degradação de peróxidos e ácidos graxos, sem DNA próprio. O complexo golgiense modifica e empacota proteínas, mas não tem genes. O retículo endoplasmático participa da síntese e do transporte, porém não possui DNA próprio. Gabarito: B.",
+  "hash": "4292194f62ecf5ee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q63": {
+  "assunto": "Ecologia: competição interespecífica, espécies exóticas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a explicação para o desaparecimento dos cascudos após o represamento do rio Paraná. O texto informa que espécies exóticas, mapará e corvina, aumentaram em número quase ao mesmo tempo em que os cascudos desapareceram, e que as três têm nichos ecológicos semelhantes. Espécies diferentes com nichos parecidos disputam os mesmos recursos, como alimento e espaço: é a competição interespecífica. Com a represa favorecendo as espécies introduzidas, a competição se intensificou e a espécie nativa foi excluída. A redução do fluxo gênico afetaria a variabilidade, mas não explica o desaparecimento simultâneo à chegada das exóticas. A competição intraespecífica ocorre dentro da mesma espécie e não é o foco. O isolamento geográfico não é mencionado. O nicho não foi extinto, pois continua sendo ocupado pelas espécies exóticas. Gabarito: C.",
+  "hash": "d1df493f661d4324",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q64": {
+  "assunto": "Equilíbrio químico: pH, constante de ionização",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o pH mais adequado para a desinfecção com cloro. O agente mais eficiente é o ácido hipocloroso, HClO, cerca de 80 vezes mais desinfetante que o ânion ClO⁻. O HClO ioniza-se segundo HClO + H₂O ⇌ H₃O⁺ + ClO⁻, com pKₐ = 7,53. Quando pH = pKₐ, há quantidades iguais de HClO e ClO⁻; com pH abaixo do pKₐ, o excesso de H₃O⁺ desloca o equilíbrio para a esquerda e predomina o HClO. Em pH 5, cerca de 2,5 unidades abaixo do pKₐ, praticamente todo o cloro está como HClO, o que torna a desinfecção mais efetiva sem tornar a água excessivamente ácida. pH 0 é extremamente ácido, impróprio para água de abastecimento e desloca a primeira reação no sentido de liberar Cl₂. pH 7 está próximo do pKₐ, com ainda bastante ClO⁻. Em pH 9 e 14, predomina o hipoclorito, menos eficiente. Gabarito: B.",
+  "hash": "01826c96c6a3d107",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q65": {
+  "assunto": "Ondulatória: equação fundamental, frequência",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a frequência da ola mexicana. Os dados são a velocidade de propagação, 45 km/h, e o fato de cada período, isto é, cada comprimento de onda, conter 16 pessoas separadas por 80 cm. Convertendo a velocidade: 45 km/h ÷ 3,6 = 12,5 m/s. O comprimento de onda é λ = 16 × 0,80 m = 12,8 m. Pela equação fundamental da ondulatória, v = λ·f, então f = v/λ = 12,5 ÷ 12,8 ≈ 0,98 Hz, valor mais próximo de 1,0 Hz. As alternativas A e B subestimam a frequência e as alternativas D e E a superestimam; resultam de erros na conversão de km/h para m/s ou no cálculo do comprimento de onda, como usar 45 ÷ 12,8 ≈ 3,5 sem converter a velocidade. Gabarito: C.",
+  "hash": "3458ce99d5182d3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q66": {
+  "assunto": "Cinemática: movimento circular, polias",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a montagem que dá menor velocidade linear à serra. As figuras mostram o motor com a polia 1, pequena, ligada por correia a outra polia; as polias 2, menor, e 3, maior, são coaxiais, e a serra de fita passa pela polia 3 na montagem P e pela polia 2 na montagem Q. Polias ligadas por correia têm a mesma velocidade linear na periferia, e a de maior raio gira com menor frequência (v = 2πRf). Polias coaxiais têm a mesma frequência. Na montagem Q, a correia liga a polia 1 à polia 3, de raio grande, que gira devagar; a polia 2, coaxial, gira com essa mesma frequência baixa e, como tem raio pequeno, a serra tem velocidade linear pequena. Na montagem P ocorre o contrário: a polia 2 gira rápido e a serra está na polia 3, maior, com velocidade alta. A alternativa B erra ao dizer que as polias 1 e 3 têm frequências iguais. As alternativas C e D escolhem P, que é a montagem mais rápida. A alternativa E erra ao dizer que as coaxiais 2 e 3 justificam a escolha por velocidades diferentes. Gabarito: A.",
+  "hash": "fc4ef31d21bd06ee",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q67": {
+  "assunto": "Química ambiental: efeito estufa, sequestro de carbono",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como a agricultura pode ajudar a reduzir o agravamento do efeito estufa. O texto diz que a agricultura pode emitir ou sequestrar CO₂, CH₄ e N₂O, conforme o manejo da matéria orgânica do solo. Ao aumentar a quantidade de matéria orgânica no solo, por meio de plantio direto, cobertura com palhada e adubação verde, o carbono retirado da atmosfera pelas plantas fica armazenado no solo, em vez de voltar ao ar como CO₂. Isso é o sequestro de carbono. Evitar a rotação de culturas empobrece o solo e reduz a matéria orgânica. Liberar o CO₂ do solo aumenta o efeito estufa. Queimar a matéria orgânica emite CO₂ e outros gases. Reduzir os resíduos vegetais diminui o carbono armazenado no solo. Gabarito: C.",
+  "hash": "b1f3ae6568d3e4f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q68": {
+  "assunto": "Química orgânica: funções orgânicas, estrutura",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a estrutura do glifosato a partir das informações do texto e de seus produtos de degradação. O texto diz que o glifosato pertence ao grupo das glicinas e tem os grupos carboxila (ácido carboxílico), amino e fosfonato. Os produtos de degradação mostrados são a sarcosina, CH₃–NH–CH₂–COOH, e o AMPA, H₂N–CH₂–PO₃H₂. A molécula original deve conter as duas partes unidas pelo nitrogênio: HOOC–CH₂–NH–CH₂–PO₃H₂. A quebra da ligação entre o N e o CH₂ ligado ao grupo carboxila, ou ao fósforo, gera esses produtos. Essa é a estrutura B, com fórmula C₃H₈NO₅P. A estrutura A tem um fosfato ligado por oxigênio, formando éster, e não um fosfonato com ligação C–P. A C tem o grupo amino num carbono da cadeia, sem o NH ligando dois grupos CH₂. A D tem uma cetona e um fosfato éster. A E é uma amida ligada a um fosfato, sem carboxila. Gabarito: B.",
+  "hash": "b95fd634442ccd06",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q69": {
+  "assunto": "Funções inorgânicas: neutralização, drenagem ácida",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a substância mais indicada para corrigir a drenagem ácida de minas. A equação mostra que a oxidação da pirita, FeS₂, produz sulfato de ferro(III) e ácido sulfúrico, H₂SO₄, tornando a água muito ácida. Para corrigir, é preciso neutralizar o ácido com uma substância de caráter básico, barata e pouco tóxica. O carbonato de calcio, CaCO₃, presente no calcário, reage com o ácido: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂, elevando o pH. O sulfeto de sódio é básico, mas pode liberar H₂S, gás tóxico, em meio ácido. O cloreto de amônio é um sal de caráter ácido, que pioraria o problema. O dióxido de enxofre é óxido ácido e formaria mais ácido. O dióxido de carbono também é óxido ácido, formando ácido carbônico. Gabarito: E.",
+  "hash": "80a21c0e70605e75",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q70": {
+  "assunto": "Biotecnologia: teste de DNA, paternidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual casal pode ser o pai e a mãe biológicos do bebê. No teste de DNA, cada banda do filho deve ter vindo do pai ou da mãe; portanto, toda banda escura do bebê precisa aparecer em pelo menos um dos dois. Na figura, o bebê tem bandas nas linhas 3, 4, 7, 9, 10, 11, 12 e 14, contando de cima para baixo. No casal 3, o pai tem bandas nas linhas 3, 4, 9, 10, 12 e 13, e a mãe nas linhas 6, 7, 9, 11, 12 e 14. Juntos, cobrem todas as bandas do bebê: 3 e 4 e 10 do pai; 7, 11 e 14 da mãe; 9 e 12 de ambos. Bandas dos pais ausentes no filho são normais, pois cada filho herda só parte delas. No casal 1, faltam as linhas 4, 7 e 10, entre outras. No casal 2, faltam bandas como a 4 e a 7. No casal 4, a linha 7 não aparece em nenhum dos dois. No casal 5, faltam as linhas 3, 4 e 7. Gabarito: C.",
+  "hash": "637969ea26e2894d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q71": {
+  "assunto": "Soluções: concentração, diluição",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o volume máximo da solução de varfarina que pode ser injetado sem risco de hemorragia. A concentração no plasma não pode ultrapassar 4,0 mg/L. O fármaco se dissolve apenas no plasma, que corresponde a 60% do volume sanguíneo: 0,60 × 5,0 L = 3,0 L de plasma. A massa máxima permitida é 4,0 mg/L × 3,0 L = 12 mg. A solução do medicamento tem 3,0 mg/mL, então o volume máximo é 12 mg ÷ 3,0 mg/mL = 4,0 mL. As alternativas A, B e C ficam abaixo do limite permitido e não representam o máximo pedido; a A, por exemplo, levaria o plasma a apenas 1,0 mg/L, o mínimo eficaz. A alternativa E, 6,7 mL, usa todo o volume de sangue (4,0 × 5,0 = 20 mg; 20 ÷ 3 ≈ 6,7 mL), ignorando que o fármaco fica só no plasma. Gabarito: D.",
+  "hash": "f06f15841351c1d7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q72": {
+  "assunto": "Eletrodinâmica: amperímetro e voltímetro",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o esquema correto para medir a tensão na geladeira, a corrente total e a corrente na lâmpada. A figura de apoio mostra geladeira, tomada e lâmpada ligadas em paralelo entre fase e neutro. O voltímetro deve ser ligado em paralelo com o aparelho, e o amperímetro, em série com o trecho cuja corrente se quer medir. No esquema E, o voltímetro está ligado entre fase e neutro, em paralelo com a geladeira, medindo sua tensão; um amperímetro está no fio neutro principal, por onde passa toda a corrente; e o outro está em série com a lâmpada. No esquema A, o voltímetro está em série com a geladeira, o que impediria seu funcionamento. Nos esquemas B, C e D, um amperímetro está ligado diretamente entre fase e neutro, o que provocaria curto-circuito. Em B e C, o amperímetro da lâmpada está em paralelo com ela, e não em série. Gabarito: E.",
+  "hash": "62bf036bffea3a9a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q73": {
+  "assunto": "Citologia: complexo golgiense, secreção",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a linhagem de microalga com maior rendimento na secreção de polímeros. A secreção depende principalmente do complexo golgiense, que modifica, concentra e empacota substâncias em vesículas que são lançadas para fora da célula. O gráfico mostra a proporção de organelas em cada linhagem: o complexo golgiense ocupa 50% na linhagem I, 40% na II, 35% na III, 20% na IV e 15% na V. Como o núcleo é 20% em todas, o que diferencia as linhagens é a proporção das demais organelas, e a linhagem I tem a maior quantidade de complexo golgiense. A linhagem II tem mais retículo endoplasmático, 35%, mas menos Golgi. A III e a V têm muitas mitocôndrias, ligadas à produção de energia, não à secreção. A IV tem mais retículo endoplasmático, 40%, mas apenas 20% de Golgi. Gabarito: A.",
+  "hash": "c9852d9ec5eca4dc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q74": {
+  "assunto": "Eletroquímica: eletrólise, produção de alumínio",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em que processo industrial se usa o mesmo princípio da decomposição da água descrita por Sacks. O trecho relata a eletrólise: usando a energia de uma pilha, a água acidulada ou salgada é decomposta em hidrogênio e oxigênio, num processo não espontâneo provocado pela corrente elétrica. Industrialmente, a eletrólise é empregada na obtenção do alumínio a partir da bauxita: a alumina, Al₂O₃, é dissolvida em criolita fundida e submetida à eletrólise ígnea, com redução dos íons Al³⁺ a alumínio metálico no cátodo. O ouro de pepitas já está na forma metálica e é separado por processos físicos. O calcário é obtido por extração mineral, não por eletrólise. O ferro é produzido em alto-forno, pela redução dos óxidos com carvão. A amônia é sintetizada pelo processo Haber-Bosch, com catalisador e alta pressão, sem eletrólise. Gabarito: C.",
+  "hash": "3525240fcd899dec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q75": {
+  "assunto": "Eletrodinâmica: potência elétrica, leis de Ohm",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como trocar a resistência para manter a potência ao passar de 110 V para 220 V. A potência dissipada é P = U²/R. Se a tensão dobra, U² fica quatro vezes maior; para P não mudar, a nova resistência precisa ser quatro vezes maior: R₂ = 4R₁. Pela segunda lei de Ohm, R = ρL/A, em que L é o comprimento e A, a área da seção reta. Mantendo o material e o comprimento, quadruplicar R exige reduzir a área à quarta parte. O dobro do comprimento apenas dobraria a resistência, e a potência ficaria duas vezes maior. A metade do comprimento reduziria a resistência, aumentando ainda mais a potência. A metade da área também só dobraria R. O quádruplo da área reduziria R a um quarto, com potência dezesseis vezes maior. Gabarito: E.",
+  "hash": "114c6804e4852ee5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q76": {
+  "assunto": "Dinâmica: força de atrito",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a direção e o sentido da força de atrito que o chão exerce nos pés de quem sobe uma rampa. Ao caminhar, o pé empurra o chão para trás, tendendo a escorregar para baixo da rampa. O atrito estático se opõe a essa tendência de deslizamento do pé em relação ao chão, e por isso aponta para a frente, isto é, para cima da rampa. Como o atrito é sempre tangente à superfície de contato, ele é paralelo ao plano inclinado. Assim, o atrito é paralelo ao plano e tem o mesmo sentido do movimento da pessoa, sendo ele a força que a impulsiona. A força perpendicular ao plano é a normal, não o atrito. O atrito no sentido contrário ao movimento confunde a oposição ao deslizamento do pé com a oposição ao movimento do corpo. Horizontal não é correto, pois a superfície é inclinada. A direção vertical para cima corresponde à reação ao peso, não ao atrito. Gabarito: C.",
+  "hash": "69bcbcc1a35984c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q77": {
+  "assunto": "Estequiometria: cálculo de massa, porcentagem",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a massa de CO₂ formada ao converter 2,5 toneladas de ferro-gusa em aço doce. O teor de carbono passa de cerca de 3,3% para 0,3%, ou seja, eliminam-se aproximadamente 3,0% da massa como carbono. Massa de carbono removida: 3,0% de 2 500 kg = 0,03 × 2 500 = 75 kg. Esse carbono é oxidado: C + O₂ → CO₂. Pela proporção em massa, 12 g de C formam 44 g de CO₂ (12 + 2 × 16). Então, massa de CO₂ = 75 kg × 44/12 = 75 × 3,67 ≈ 275 kg. A alternativa A, 28 kg, não corresponde à proporção da reação. A alternativa B, 75 kg, é a massa de carbono eliminada, não a de CO₂. A alternativa C, 175 kg, não resulta da relação 44/12. A alternativa E, 303 kg, aproxima-se de usar os 3,3% totais de carbono, ignorando que 0,3% permanece no aço. Gabarito: D.",
+  "hash": "56189418ac33edf4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q78": {
+  "assunto": "Saúde e doenças: rubéola, vacinação",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que as campanhas contra a rubéola passaram a vacinar homens jovens, tendo em vista a síndrome da rubéola congênita. A SRC ocorre quando uma gestante se infecta e o vírus atinge o feto, podendo causar aborto e malformações. Com muitas mulheres já vacinadas, os homens não imunizados continuavam podendo contrair o vírus e transmiti-lo, por via respiratória, a gestantes suscetíveis. Vaciná-los interrompe a circulação do vírus e protege indiretamente as grávidas. Não há indicação de que os homens fiquem mais expostos ao vírus. Eles não transmitem a infecção diretamente ao feto; a transmissão vertical ocorre da mãe para o feto. Imunidade não é transferida do homem para a parceira. Também não há maior suscetibilidade dos homens ao vírus. Gabarito: B.",
+  "hash": "a7eb6116d0c2ae55",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q79": {
+  "assunto": "Eletrodinâmica: corrente elétrica, campo elétrico",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que explica a lâmpada acender quase instantaneamente, segundo o modelo clássico de corrente. Nesse modelo, os fios já estão cheios de elétrons livres. Ao fechar a chave, o campo elétrico gerado pela pilha se estabelece em todo o circuito quase à velocidade da luz, e os elétrons livres de todos os pontos, inclusive os do filamento, começam a se mover ao mesmo tempo. Os elétrons, porém, se deslocam com velocidade de arrasto muito pequena, da ordem de milímetros por segundo. Portanto, a rapidez está no estabelecimento do campo elétrico. O fluido elétrico é uma ideia antiga, não o modelo clássico de corrente. As cargas negativas não atravessam o circuito rapidamente; sua velocidade média é baixa. A bateria não precisa liberar cargas até o filamento, pois elas já estão lá. Não há choque entre cargas positivas e negativas no filamento. Gabarito: D.",
+  "hash": "e1f28ba5ea339bb3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q80": {
+  "assunto": "Ecologia: produtividade primária, manguezais",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual grupo contribui diretamente para a alta produtividade dos manguezais, associada à produção primária líquida. Produção primária é a matéria orgânica produzida por organismos autótrofos por meio da fotossíntese; a produção líquida é o que sobra após o gasto da respiração e fica disponível aos demais níveis tróficos. Entre os seres citados, apenas as algas são produtoras fotossintetizantes, base da cadeia alimentar. Aves são consumidores e não produzem matéria orgânica a partir de energia luminosa. Peixes também são consumidores. Insetos são consumidores ou decompositores, sem realizar fotossíntese. Caranguejos atuam na reciclagem de detritos, mas não fazem produção primária. Gabarito: B.",
+  "hash": "d2e038f7861664f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q81": {
+  "assunto": "Propriedades da matéria e separação de misturas: tratamento de água",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o método usado para retirar o sulfato de alumínio com as impurezas aderidas. No tratamento de água, o sulfato de alumínio, em meio alcalino, forma hidróxido de alumínio, que gera flocos gelatinosos aos quais as impurezas se aderem: é a floculação. Esses flocos precisam então ser separados da água. Na flotação, bolhas de ar são injetadas e aderem aos flocos, que sobem e formam uma camada na superfície, retirada por raspagem; é o método indicado pelo gabarito para essa separação. A levigação usa corrente de água para separar sólidos de densidades diferentes, como no garimpo de ouro. A ventilação separa sólidos leves de pesados com corrente de ar, como na separação de cascas de grãos. A peneiração separa sólidos de tamanhos diferentes e não reteria flocos em suspensão. A centrifugação aceleraria a sedimentação, mas é inviável no grande volume de uma estação de tratamento. Gabarito: A.",
+  "hash": "b76f535737c88c3d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q82": {
+  "assunto": "Ondulatória: frequência, som",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] As alternativas foram extraídas corrompidas (frações perdidas); pelo gabarito, a alternativa A deve ser ½. A questão pede a razão entre as frequências do Dó central e do Dó maior, a partir das formas de onda mostradas em intervalos de tempo iguais T. Na figura do Dó central, o intervalo T vai de um pico principal ao pico equivalente seguinte, contendo um ciclo completo. Na figura do Dó maior, no mesmo intervalo T, o padrão se repete duas vezes, com três picos principais delimitando dois ciclos. Como a frequência é o número de ciclos por unidade de tempo, a frequência do Dó maior é o dobro da do Dó central. Portanto, f(Dó central)/f(Dó maior) = 1/2 = ½, o que corresponde a uma oitava acima na música. Razões como 2, 1, 4 ou ¼ não correspondem à contagem de ciclos na figura: 2 inverteria a relação, 1 ignoraria a diferença de ciclos e 4 ou ¼ suporiam quatro ciclos em T. Gabarito: A.",
+  "hash": "81a27edcde55f417",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q83": {
+  "assunto": "Eletrodinâmica: ponte de Wheatstone, divisor de tensão",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a leitura do voltímetro numa ponte de Wheatstone quando Rₛ = 100 Ω. O circuito mostra uma fonte de 10 V ligada ao vértice superior, com o vértice inferior aterrado (0 V). O ramo esquerdo tem 470 Ω em cima e Rₛ = 100 Ω embaixo; o terminal + do voltímetro está entre eles. O ramo direito tem 470 Ω em cima e 120 Ω embaixo; o terminal − está entre eles. Cada ramo funciona como divisor de tensão. Ramo esquerdo: V₊ = 10 × 100/(470 + 100) = 1 000/570 ≈ 1,75 V. Ramo direito: V₋ = 10 × 120/(470 + 120) = 1 200/590 ≈ 2,03 V. Leitura: V₊ − V₋ ≈ 1,75 − 2,03 ≈ −0,28 V ≈ −0,3 V. A alternativa A, +6,2 V, e a E, −6,2 V, não correspondem aos divisores de tensão. A alternativa B, +1,7 V, é só o potencial de um dos nós. A alternativa C, +0,3 V, tem o sinal invertido, pois o terminal + está no ponto de menor potencial. Gabarito: D.",
+  "hash": "5317a72f76be1289",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q84": {
+  "assunto": "Ecologia: espécies invasoras",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a vantagem que faz as populações de espécies invasoras crescerem tanto. No ambiente de origem, uma espécie tem seu crescimento limitado por predadores, parasitas e doenças que coevoluíram com ela. Ao chegar a um ambiente novo, como os corais do Pacífico trazidos ao litoral do Rio de Janeiro, ela geralmente não encontra esses inimigos naturais, e a resistência ambiental fica reduzida. Assim, sua população cresce rapidamente e ocupa o espaço das espécies nativas, competindo por espaço e alimento. A ausência de genes deletérios não é característica de espécies invasoras. Nenhuma espécie se adapta a qualquer clima ou condição ambiental. Consumir toda a variedade de alimentos disponível é exagero e não é a explicação geral. Maior tamanho corporal não é vantagem comum às espécies invasoras. Gabarito: B.",
+  "hash": "1c91e9564291645b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q85": {
+  "assunto": "Eletromagnetismo: força magnética em condutor",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a intensidade do campo magnético para que a barra percorra a distância até a catraca. A figura mostra a barra de comprimento L, com corrente i para cima, no campo B entrando no plano; a força magnética empurra a barra para a esquerda, contra a mola, até a posição C da catraca. A distância percorrida é x = v·t = 5 m/s × 6 × 10⁻³ s = 0,03 m = 3 cm. No equilíbrio final, a força magnética iguala a força elástica: B·i·L = k·x. Força elástica: k·x = 5 × 10⁻² N/cm × 3 cm = 0,15 N. Com i = 6 A e L = 5 cm = 0,05 m: B = 0,15 ÷ (6 × 0,05) = 0,15 ÷ 0,30 = 0,5 T = 5 × 10⁻¹ T. A alternativa B, 5 × 10⁻² T, erra por uma potência de dez, típica de conversão incorreta de unidades. A alternativa C, 5 × 10¹ T, também resulta de erro de unidades. As alternativas D e E, 2 × 10⁻² T e 2 T, não respeitam o equilíbrio entre força magnética e elástica. Gabarito: A.",
+  "hash": "5243a265838ffdab",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q86": {
+  "assunto": "Ligações químicas: forças intermoleculares",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o tipo de interação que torna o poliacrilato de sódio mais eficiente que a celulose na retenção de água. A figura mostra o poliacrilato (1) com grupos carboxilato, COO⁻ Na⁺, isto é, com íons na estrutura; e a celulose (2) com vários grupos OH. A água é uma molécula polar, um dipolo. Os íons do poliacrilato interagem com a água por interações íon-dipolo, mais intensas. Já a celulose, sem cargas, interage com a água por ligações de hidrogênio, entre seus grupos OH e as moléculas de água, que são mais fracas que as interações íon-dipolo. Dipolo-dipolo não descreve a interação de um polímero iônico com a água. Íon-íon exigiria íons nas duas partes, e a água não é íon. Atribuir íon-dipolo à celulose inverte as interações. Dipolo induzido-dipolo induzido não descreve a celulose, que é polar. Gabarito: E.",
+  "hash": "e280bb59302cb4d5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q87": {
+  "assunto": "Dinâmica: força resultante, velocidade limite",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o gráfico da força resultante sobre o paraquedista. No salto, a força resultante é peso menos resistência do ar. No início, a velocidade é pequena e a resistência também, então a resultante é grande e para baixo (positiva). À medida que a velocidade aumenta, a resistência cresce e a resultante diminui, até zerar na velocidade limite, antes de T_A. Ao abrir o paraquedas, a resistência aumenta bruscamente e supera o peso: a resultante fica negativa, para cima, com grande intensidade, freando o paraquedista. Com a redução da velocidade, a resistência diminui e a resultante volta a tender a zero, até a nova velocidade limite. O gráfico B mostra exatamente isso. O gráfico A mostra a resultante negativa crescendo sem limite após T_A. Os gráficos C e E mostram a resultante aumentando no início, o oposto do esperado. O gráfico D não mostra a frenagem após a abertura. Gabarito: B.",
+  "hash": "f453b5f41eb97201",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q88": {
+  "assunto": "Genética: herança mitocondrial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede com quem comparar o DNA mitocondrial do rapaz para identificá-lo. As mitocôndrias do zigoto vêm quase exclusivamente do óvulo, pois as do espermatozoide não são transmitidas. Assim, o DNA mitocondrial é herdado apenas pela linhagem materna: o rapaz tem o mesmo DNA mitocondrial da mãe, que o herdou da avó materna. Entre os familiares disponíveis, só a avó materna compartilha esse DNA. O pai não transmite DNA mitocondrial ao filho. O filho e a filha do rapaz herdaram o DNA mitocondrial da mãe deles, não do rapaz. O avô materno tem o DNA mitocondrial da mãe dele, que não passa adiante para os filhos. Gabarito: D.",
+  "hash": "90ce1842e0e13a0d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q89": {
+  "assunto": "Termologia: calorimetria, trocas de calor",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a razão entre a massa de água quente (70 °C) e de água fria (25 °C) para obter água a 30 °C. Em um sistema isolado, o calor cedido pela água quente é igual ao calor recebido pela fria: Q = m·c·ΔT. Como as duas são água, c é o mesmo e se cancela: m_q × (70 − 30) = m_f × (30 − 25). Então m_q × 40 = m_f × 5, e m_q/m_f = 5/40 = 0,125. A alternativa A, 0,111, corresponde a 5/45, usando a diferença total de 45 °C. A alternativa C, 0,357, e a D, 0,428, comparam temperaturas, como 25/70 e 30/70, e não variações de temperatura. A alternativa E, 0,833, equivale a 25/30, também sem usar o balanço de calor. Gabarito: B.",
+  "hash": "e81afd7296627bb9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-regular-d1-q90": {
+  "assunto": "Química orgânica: classificação de carbonos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em que parte do NanoKid há carbono quaternário, isto é, carbono ligado a outros quatro carbonos. Na figura, as mãos são os grupos ligados às extremidades das triplas ligações do tórax: cada uma é um grupo terc-butila, desenhado com um carbono central de onde saem três metilas e a ligação com a cadeia. Esse carbono central está ligado a quatro carbonos, sendo quaternário. A cabeça é um anel com dois oxigênios, e o carbono que liga a cabeça ao tórax está ligado a dois oxigênios, um carbono e um hidrogênio, então não é quaternário. O tórax e o abdômen são anéis benzênicos e triplas ligações, com carbonos ligados a no máximo três carbonos. Os pés são cadeias lineares de três carbonos, com carbonos primários e secundários. Gabarito: A.",
+  "hash": "5b96b0ebc20f1f9a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
