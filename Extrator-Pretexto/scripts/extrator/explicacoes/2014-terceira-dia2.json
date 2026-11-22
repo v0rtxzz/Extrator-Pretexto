@@ -1,475 +1,665 @@
 {
  "enem-2014-terceira-d2-q100": {
+  "assunto": "Funções da linguagem: função conativa, imperativo",
+  "dificuldade": 3,
   "explicacao": "A questão pede o recurso que expressa de forma mais incisiva a persuasão, isto é, a tentativa de levar o leitor a agir. O texto conversa com o leitor de várias maneiras: usa \"seu cérebro\", a primeira pessoa do plural (\"entendemos\", \"somos\", \"nossa\") e avaliações. Mas o único recurso que dá uma ordem direta é o modo imperativo, no fim: \"Siga adiante e entenda\" e \"aproveite\". O imperativo é a marca típica da função apelativa ou conativa, pois convoca o leitor a continuar lendo a matéria, que é o objetivo da introdução. Por isso, a alternativa D é a correta. A alternativa A aproxima o leitor, mas não o convoca a agir. A B e a C criam identificação entre autor e leitor, um recurso de envolvimento, e não de apelo direto. A E traz uma avaliação, que até ajuda a convencer, mas de modo menos incisivo que uma ordem. Gabarito: D.",
   "hash": "88f5021307acf64c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q101": {
+  "assunto": "Interpretação de texto: reportagem",
+  "dificuldade": 1,
   "explicacao": "A questão pede uma desvantagem dos sites de busca de médicos, já que praticidade e gratuidade são as vantagens. O último parágrafo traz a resposta: \"O problema é que eles não garantem os dados fornecidos pelos médicos\". Nenhum dos médicos ouvidos enviou diploma na inscrição, e a checagem pelos conselhos de medicina só confirma especialização e processos. Ou seja, o problema é a confiabilidade, a veracidade das informações cadastradas, como afirma a alternativa C. A alternativa A erra, pois o texto não fala de especialidades indisponíveis. A B não procede, porque os filtros de busca são apresentados como funcionalidade normal. A D inventa uma dificuldade com o mapa, que é descrito como simples de usar. A E não se sustenta, já que o texto até observa que alguns sites trazem quase nenhum dado sobre os médicos, e não excesso de informação. Gabarito: C.",
   "hash": "6e17252c1fc678d6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q102": {
+  "assunto": "Gêneros textuais: charge",
+  "dificuldade": 1,
   "explicacao": "A questão pede o que a charge de Caco Galhardo critica. Na imagem, uma família está largada no sofá, com olhos vidrados, diante de um televisor desenhado como uma lata de lixo tombada. Da tela escorre uma pilha de lixo, cercada de moscas e de linhas que indicam mau cheiro, espalhando-se até os pés dos espectadores. A metáfora visual é direta: a TV despeja lixo sobre o público, que o consome passivamente. A crítica recai, portanto, sobre a baixa qualidade da programação televisiva oferecida à população, como diz a alternativa D. A alternativa A erra porque a família está junta, mas apática, e o foco não é a união. A B contradiz a imagem, em que todos assistem hipnotizados, sem desinteresse. A C ignora a ironia: não há contentamento com bens, mas crítica ao conteúdo. A E fala em intolerância do público, quando a charge mostra justamente aceitação passiva. Gabarito: D.",
   "hash": "23f21d3d3ed213a5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q103": {
+  "assunto": "Publicidade e linguagem midiática: anúncio turístico",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta para que serve a expressão \"Consulte aéreo\" no anúncio de pacote turístico para o Havaí. Em propagandas de agências de viagem, a palavra \"aéreo\" designa o trecho de avião. Quando o anúncio mostra o preço do roteiro (hospedagem, passeios etc.) e acrescenta \"Consulte aéreo\", ele avisa que a passagem não está incluída naquele valor e que o cliente precisa pedir o preço dela à parte. É uma ressalva, um alerta ao consumidor, como afirma a alternativa C. A alternativa A fala da variação de preço conforme a data, ideia que a expressão não traz. A B sugere que o turista pesquise sozinho, mas a mensagem é consultar a própria agência. A D inventa uma exigência de comprar só pacotes com passagem. A E também erra, pois o anúncio não recomenda outra companhia aérea. Gabarito: C.",
   "hash": "d29cc84ad0249ec4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q104": {
+  "assunto": "Argumentação: vozes de especialistas",
+  "dificuldade": 4,
   "explicacao": "A questão pede onde aparece a relativização do valor do nome próprio, ou seja, a ideia de que o nome importa, mas não é tão determinante quanto o título sugere. James Bruning defende que o nome pode ter força determinante sobre o destino, por causa das expectativas que cria nos outros, posição que reforça o título. Já Francisco Martins, autor do livro Nome próprio (UnB), reconhece que o nome marca a identidade, mas afirma que não conduz a um destino específico: a pessoa constrói a identidade e toma posse do nome, que \"pesa, mas não é decisivo\". Essa é a relativização, presente na tese de Martins, como indica a alternativa B. A alternativa A erra porque Bruning sustenta o peso do nome. A C não procede, já que os dois não refutam a mesma ideia. A D e a E erram ao dizer que um professor endossa ou confirma o outro, quando suas posições são diferentes. Gabarito: B.",
   "hash": "4d4e27f216804db3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q105": {
+  "assunto": "Variação linguística: falar caipira",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta o que caracteriza linguisticamente a identidade sertaneja na letra de Tonico e Tinoco. Basta observar a grafia das palavras: \"pinhero\", \"violero\", \"brasilero\", \"faiz lembrá\", \"alembro\", \"chorá\", \"as moda\", \"dos fandango\", \"das siriema\", \"boiadero\", \"minero\". São marcas da fala coloquial caipira: redução do ditongo ei para e, queda do r final dos infinitivos, a forma \"faiz\", o prefixo em \"alembro\" e a concordância só no artigo. Essas escolhas lexicais, que imitam a oralidade do homem do sertão, são o que registra e preserva essa identidade, como afirma a alternativa C. A alternativa A erra porque os adjetivos são poucos e não constituem a marca linguística principal. A B fala de defesa da natureza, tema ausente. A D aponta o romantismo, que é conteúdo, e não traço linguístico. A E é insuficiente, pois o \"você\" aparece uma vez e não define a identidade sertaneja. Gabarito: C.",
   "hash": "4a435036d8641ef3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q106": {
+  "assunto": "Publicidade e linguagem midiática: persuasão, campanha ambiental",
+  "dificuldade": 2,
   "explicacao": "A questão pede a que o anúncio sobre a Amazônia tenta levar o leitor. A imagem mostra uma tesoura cujas lâminas são duas folhas de árvore, abaixo do endereço meiaamazonianao.org.br e da pergunta \"SERÁ?\". A tesoura remete ao corte, ao desmatamento, e as folhas lembram que é a própria floresta que está sendo cortada. O nome da campanha (\"meia Amazônia não\") alerta que a floresta pode ser reduzida pela metade, e o \"SERÁ?\" provoca o leitor a refletir sobre isso. O objetivo persuasivo é, portanto, conscientizá-lo da importância de preservar a floresta, um bem de todos, como diz a alternativa E. A alternativa A exagera ao falar em reunir argumentos para lutar contra desmatadores. A B é absurda, pois o problema é o desmatamento, não o reflorestamento. A C fala em procurar desmatadores, ação que o anúncio não sugere. A D muda o foco para a autodefesa diante de um desmatamento mundial, que não é o tema. Gabarito: E.",
   "hash": "85891f46a88a68f6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q107": {
+  "assunto": "Educação física: danças folclóricas",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma característica das danças folclóricas. O texto as apresenta como danças sociais ligadas aos costumes e às tradições de um povo, transmitidas de geração a geração, cujas marcas principais são integração, socialização, prazer e respeito às tradições. Ou seja, elas só fazem sentido dentro do contexto da comunidade que as pratica: seus gestos remetem a situações do cotidiano, como colheita, trabalho e festas religiosas, e expressam a visão de mundo daquele grupo. É o que afirma a alternativa C, ao chamá-las de contextuais. A alternativa A erra, pois o refinamento técnico é típico de danças cênicas como o balé, não do folclore. A B mistura manifestações folclóricas com funk e hip hop, que são danças urbanas contemporâneas. A D diminui o ritmo e a expressão, que são essenciais nessas danças. A E contradiz o texto, que fala em valorização da comunidade e não em massificação. Gabarito: C.",
   "hash": "b1ddc96128d33e0c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q108": {
+  "assunto": "Funções da linguagem: função fática",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função da linguagem predominante no diálogo telefônico de Drummond. Pelas funções de Jakobson, a função fática é aquela centrada no canal: serve para abrir, manter ou testar o contato entre emissor e receptor. No texto, as falas quase não trazem informação; são do tipo \"Alô? Quem fala?\", \"Com quem deseja falar?\", \"Não se lembra mais da minha voz?\", \"Faça um esforço\". As personagens giram em torno da tentativa de estabelecer e sustentar a comunicação, o que o próprio enunciado aponta ao falar em insistência em manter o contato. Por isso, predomina a função fática, alternativa B. A alternativa A, metalinguística, exigiria a linguagem falando de si mesma. A C, referencial, centra-se em transmitir informações objetivas, o que mal acontece. A D, emotiva, destacaria os sentimentos do emissor. A E, conativa, aparece pontualmente no \"Faça um esforço\", mas não é a função dominante. Gabarito: B.",
   "hash": "e6ffeae02d4e117c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q109": {
+  "assunto": "Educação física: capoeira, resistência",
+  "dificuldade": 3,
   "explicacao": "A questão pede como foi a trajetória social da capoeira antes de seu reconhecimento como patrimônio. O texto diz que ela nasceu como estratégia de resistência dos negros escravizados e que enfrentou preconceitos e rejeições até ser reconhecida pelo IPHAN. Historicamente, essa rejeição foi oficial: o Código Penal de 1890 tratava a capoeira como crime, associando-a à vadiagem e à desordem, e ela só começou a ser aceita na década de 1930, com a abertura de academias e a mudança de postura do governo Vargas. Isso corresponde à alternativa D. A alternativa A inverte a história, pois não houve apoio do Estado, e sim perseguição. A B diminui a capoeira como luta, o que o texto não faz. A C afirma que instituições oficiais a ensinavam, o que contraria a marginalização descrita. A E fala de normas que ampliaram seus sentidos libertários, ideia ausente do texto e que não explica o preconceito sofrido. Gabarito: D.",
   "hash": "f26a38246d043eaf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q110": {
+  "assunto": "Variação linguística: norma padrão, verbo ter",
+  "dificuldade": 3,
   "explicacao": "A questão pede um recurso coloquial que seja, ao mesmo tempo, um desvio da norma padrão. A coluna Finíssima começa assim: \"Adorei a pergunta, darling! Tem muita gente que não sabe se comportar no elevador\". Na norma padrão, o verbo com sentido de existir é haver, impessoal: \"Há muita gente\". O uso de ter nesse sentido é muito comum na fala brasileira e aproxima o texto do leitor, mas foge à norma culta, como diz a alternativa B. A alternativa A erra porque palavras estrangeiras não são desvio gramatical, e o argumento de afronta à identidade nacional é preconceituoso. A C trata adorei como exagero emotivo, o que não é questão de norma padrão. A D erra porque o imperativo, como em \"anote\" e \"espere\", é perfeitamente correto na norma culta e típico de textos instrucionais. A E também erra: bate-papo é palavra informal, mas não é desvio gramatical. Gabarito: B.",
   "hash": "52be7c340359e28c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q111": {
+  "assunto": "Gêneros textuais: charge, ironia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função da charge. Nela, um camelô, ao lado de uma banca de CDs, ergue um disco e grita: \"Programa antipirataria!! 1 é trei reáu! 2 é cinco!\". O humor nasce da contradição: o próprio programa contra a pirataria está sendo vendido como produto pirata, num comércio ambulante a preço baixíssimo. A imagem sugere que a pirataria é tão disseminada que engole até as ferramentas criadas para combatê-la. Assim, a charge ironiza, com bom humor, o fracasso das iniciativas oficiais contra a pirataria, como diz a alternativa A. A alternativa B erra porque a fala reproduz a oralidade do vendedor sem tom de denúncia preconceituosa; o alvo é a ineficácia do combate. A C fala em divulgar projetos governamentais, quando a charge os satiriza. A D não procede, pois não há apoio explícito a movimentos. A E erra porque a ironia não incentiva o comércio pirata, apenas o expõe. Gabarito: A.",
   "hash": "aeb4bb8338a5525d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q112": {
+  "assunto": "Argumentação: argumento de autoridade",
+  "dificuldade": 2,
   "explicacao": "A questão pede a estratégia usada pelo autor para convencer o leitor sobre a inclusão digital. O texto quase inteiro é construído com as falas de Roberto Aparici, professor visitante da UFBA: ele critica programas centrados só na redução de preços, compara isso a achar que alguém estará alfabetizado ao ganhar uma caneta e defende a alfabetização digital. O jornalista se apoia, portanto, na autoridade de um especialista para dar credibilidade às ideias, o chamado argumento de autoridade, como diz a alternativa D. A alternativa A erra porque a inclusão digital interessa justamente aos excluídos, não aos favorecidos. A B não procede, pois o texto não ensina a usar programas. A C erra: a redução de preços é criticada como política, e não informada como novidade. A E contradiz o texto, que diz ser preciso ir além do teclado e do mouse. Gabarito: D.",
   "hash": "20238963aaf6cb0e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q113": {
+  "assunto": "Tecnologias da informação e comunicação: wiki, colaboração",
+  "dificuldade": 1,
   "explicacao": "A questão pede a situação em que o wiki seria mais adequado. O texto define os wikis como ferramentas que permitem o acesso livre à informação e a colaboração entre pessoas, mesmo distantes, no desenvolvimento de um projeto. Termina com o convite \"Entre, leia e participe\" e com a ideia de que, no trabalho colaborativo, dois mais dois pode ser cinco. As palavras-chave são liberdade e colaboração, ou seja, construção coletiva e on-line. Entre as opções, a produção coletiva de um dicionário on-line é a que reúne essas duas características, como diz a alternativa D. A alternativa A erra porque trabalho individual contraria a ideia de colaboração. A B e a C tratam de impressão e formatação, tarefas que não exigem colaboração nem são o propósito do wiki. A E fala em publicar livros já prontos de autores clássicos, sem construção coletiva. Gabarito: D.",
   "hash": "1a5a139826a71fb9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q114": {
+  "assunto": "Educação física: padrões de corpo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que os jovens devem considerar importante, tendo em vista hábitos saudáveis e a reflexão crítica sobre os modelos de corpo. O texto mostra que a pressão estética leva muitos adolescentes a dietas radicais e a distúrbios como anorexia e bulimia, e que falta conhecimento sobre uma dieta equilibrada associada a exercícios. A atitude crítica é entender que o corpo considerado ideal não é natural nem neutro: é uma construção influenciada por fatores sociais, culturais, políticos e econômicos, como a mídia e a indústria da beleza. É o que afirma a alternativa C. A alternativa A propõe seguir os modelos sociais, o oposto da crítica pedida. A B repete o \"fechar a boca\", que o texto aponta como caminho perigoso. A D sugere dieta padronizada para alcançar o corpo ideal, mais uma vez aceitando o padrão. A E fala em adequar-se ao que a sociedade exige, o que também contraria a reflexão crítica. Gabarito: C.",
   "hash": "6ba615e557fb6520",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q115": {
+  "assunto": "Educação física: saúde, padrões de beleza",
+  "dificuldade": 2,
   "explicacao": "A questão pede o efeito das discussões atuais sobre saúde, beleza e alimentação. O texto mostra os jovens entre duas pressões: as doenças do sedentarismo, como hipertensão, diabetes e obesidade, e o apelo a padrões de beleza ligados a produtos, dietas e exercícios. Por isso eles estão na linha de frente dos cuidados com o corpo e a saúde. Essas discussões, portanto, estimulam ações voltadas a conquistar e manter um corpo saudável, como diz a alternativa B. A alternativa A erra, pois o apelo ao consumo tende a aumentar, e não diminuir, a venda de suplementos. A C fala de esportes coletivos como o futebol, que o texto não menciona. A D afirma um resultado concreto, a queda mundial do diabetes, sem apoio no texto. A E inverte a ideia: o texto fala do chamamento a padrões de beleza, não de questioná-los. Gabarito: B.",
   "hash": "b2dbb200ecc75039",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q116": {
+  "assunto": "Gramática: formação de palavras, neologismo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o processo de formação das palavras desmoçou e deslimites, do poema de Manoel de Barros. As duas não existem no dicionário: foram criadas pelo poeta com o prefixo des-, que indica negação ou retirada. Desmoçar é deixar de ser moça, perder a virgindade; deslimites é a ausência de limites. Criar palavras novas é o neologismo, recurso típico de Manoel de Barros e de Guimarães Rosa, que exploram a liberdade da linguagem poética. O próprio poema diz que só as palavras continuam com seus deslimites. Por isso a alternativa B está correta. A alternativa A erra porque as palavras são formadas com elementos do próprio português, não vêm de outra língua. A C fala de arcaísmo, mas não se trata de termos antigos em desuso. A D fala de brasileirismo, termo próprio do português do Brasil já dicionarizado. A E menciona jargão profissional, que não tem relação com o poema. Gabarito: B.",
   "hash": "3306c898bc88ba9f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q117": {
+  "assunto": "Educação física: corpo e mídia",
+  "dificuldade": 3,
   "explicacao": "A questão pede a concepção de corpo e de exercício presente na imagem, lida à luz do texto de apoio. O texto afirma que os discursos sobre exercício são fortemente influenciados pela mídia e que o envelhecimento natural passa a ser visto como descuido de quem o aparenta. Ou seja, a mensagem dominante é que o corpo deve permanecer jovem, musculoso e atlético, e que o exercício é o caminho para afastar a velhice e, com isso, obter sucesso e aceitação social. É o que traduz a alternativa B. A alternativa A descreve a visão mecanicista do corpo como máquina, que não é o foco do texto. A C fala de saúde e respeito ao desenvolvimento humano, justamente o que esse discurso deixa de lado ao condenar o envelhecimento. A D apresenta uma visão integral do corpo, contrária à valorização apenas estética. A E sugere acesso universal ao aprimoramento estético, ideia que não aparece. Gabarito: B.",
   "hash": "eeef7be00240ebab",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q118": {
+  "assunto": "Teatro e dança: jogo teatral",
+  "dificuldade": 4,
   "explicacao": "A questão pede como se desenvolve a ação espontânea no jogo teatral proposto por Viola Spolin. O texto diz que a plateia costuma ser pouco estimulada por emoções do passado e que o jogador no palco não explora as próprias emoções por um processo de identificação subjetiva, mas atua em função do momento presente. Assim, a espontaneidade nasce do aqui e agora: o ator vive emoções novas, surgidas na própria cena, em vez de recorrer à memória de sentimentos antigos. É o que afirma a alternativa D. A alternativa A erra, pois o jogo não oculta a atuação e valoriza a renovação das emoções. A B propõe estimular lembranças do passado, o oposto do texto. A C fala em explorar os próprios sentimentos, prática que o texto rejeita. A E associa a proposta ao processo subjetivo do ator, que Spolin justamente deixa de lado. Gabarito: D.",
   "hash": "e6dbafd8c1668991",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q119": {
+  "assunto": "Literatura brasileira: poesia, Adélia Prado",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que revela a expressão poética de Resumo, de Adélia Prado. O poema condensa a vida de Leonora em poucos versos: gerou filhos e netos, deu à casa sua graça e vai morrer de câncer. Os trechos decisivos são o jeito de pousar a cabeça para o retrato, de quem \"afinal, aceitou ser dispensável\", e o fato de que ela espera \"sem uivos\" a sepultura, a tampa e a inscrição. A mulher cumpriu o papel doméstico que lhe foi destinado e aceita, sem protesto, tanto essa condição quanto a morte. Isso é resignação diante da condição social imposta, alternativa E. A alternativa A fala de contradições e infelicidade, mas o poema destaca aceitação, não conflito. A B fala em frustração, quando o tom é de conformismo. A C sugere busca de identidade, ausente em quem aceitou ser dispensável. A D fala de subterfúgios de uma existência complexa, e a vida descrita é simples e resumida. Gabarito: E.",
   "hash": "061f130280509484",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q120": {
+  "assunto": "Tecnologias da informação e comunicação: rádio, televisão",
+  "dificuldade": 3,
   "explicacao": "A questão pede os efeitos sociais das duas transmissões. No texto I, a adaptação radiofônica de A guerra dos mundos, feita por Orson Welles em 1938, imitava um noticiário tão bem que parte da população acreditou numa invasão marciana real e ficou histérica: a ficção alterou o modo como os ouvintes percebiam a realidade. No texto II, a novela Escrava Isaura fez tanto sucesso que, em Cuba, o governo suspendeu o racionamento de energia no horário da exibição, ou seja, interferiu numa decisão oficial. Esses dois efeitos estão na alternativa D. A alternativa A fala em negação dos avanços tecnológicos e resistência a regimes totalitários, ideias ausentes. A B menciona queda no número de leitores e veto a autores, que os textos não citam. A C erra porque o rádio mostrou força, não limitação. A E exagera ao falar em alteração da hegemonia política de Cuba, já que houve só uma medida pontual. Gabarito: D.",
   "hash": "7c877a793524ce67",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q121": {
+  "assunto": "Tecnologias da informação e comunicação: exclusão digital",
+  "dificuldade": 2,
   "explicacao": "A questão pede o problema discutido nos dois textos. O texto I compara o acesso à cibercultura à pirâmide social brasileira: apesar de telecentros, pontos de cultura e computadores nas escolas, os conectados continuam sendo, em grande maioria, os das camadas mais altas. O texto II, um quadrinho do projeto Quadrinhos para a cidadania, também critica os usos sociais das tecnologias de informação. O ponto comum é a distância entre o avanço tecnológico e o acesso real de todas as classes a ele, isto é, a exclusão digital, como diz a alternativa A. A alternativa B fala de restrição financeira a regiões, tema que não aparece. A C restringe o problema à falta de laboratórios nas escolas públicas, quando o texto I cita até políticas já implantadas. A D culpa a formação dos alunos e o uso inadequado dos equipamentos, sem relação com a desigualdade social. A E trata da falta de professores, também ausente dos textos. Gabarito: A.",
   "hash": "a0562d77a05c6353",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q122": {
+  "assunto": "Literatura brasileira: Guimarães Rosa",
+  "dificuldade": 4,
   "explicacao": "A questão pede o que o narrador Riobaldo revela no fragmento de Grande sertão: veredas. O trecho é feito de perguntas: \"Mas, a gente estava com Deus? Jagunço podia?\", \"Que podia?\", \"se estava em permissão de fé para esperar de Deus perdão de proteção?\". Riobaldo reconhece que o jagunço é criatura paga para matar e roubar e se pergunta, \"quente\", isto é, aflito, se alguém assim pode contar com a proteção divina. A resposta simples de Jõe, \"Nós vive...\", não resolve a questão. O que se revela é a inquietação de quem não sabe se os jagunços podem ou não ser protegidos por Deus, como diz a alternativa A. A alternativa B fala em insatisfação profunda com a condição de jagunço, mas o foco é a dúvida religiosa. A C erra porque Jõe é descrito como um tolo do Jequitinhonha, e a resposta não satisfaz. A D amplia demais o tema para a vida após a morte. A E fala em arrependimento e medo da perdição, que o trecho não expressa. Gabarito: A.",
   "hash": "54a15972a2e120c7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q123": {
+  "assunto": "Literatura brasileira: poesia e prosa",
+  "dificuldade": 4,
   "explicacao": "A questão pede os elementos que aproximam o poema A despropósito, de Adélia Prado, da prosa. O texto conta uma pequena cena: um homem olha a telha, tem uma lembrança da infância, é chamado para jantar e comenta a qualidade das telhas antigas. A forma acompanha essa narrativa: há travessão (\"Ah! — falou\"), discurso de personagem (\"vem jantar, que esfria\", \"Qualidade de telha é essas de antigamente\"), versos longos com pontuação de oração comum, sem métrica nem rima, e marcas de oralidade, como a concordância popular \"é essas\". Esses traços da narrativa estão reunidos na alternativa A. A alternativa B erra porque o poema usa metáfora, como a telha que parece um quadrado de doce. A C é incompleta, pois personagem e memória não bastam para caracterizar a aproximação formal com a prosa. A D erra porque não há alternância sistemática de discursos na voz do eu lírico. A E fala de narrador em primeira pessoa, mas o poema é narrado em terceira pessoa. Gabarito: A.",
   "hash": "17334c71a0dfb470",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q124": {
+  "assunto": "Variação linguística: internetês, tirinha",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que indica o último quadrinho da tira de Orlandeli. No primeiro quadro, o tio decide pedir ajuda ao sobrinho para entender o novo acordo ortográfico, achando que os jovens não têm os vícios das regras antigas. Ele escreve uma mensagem em norma padrão e recebe a resposta em linguagem de internet: \"Falaaaaa Tiunnnnmm!! Blz???\", \"Axo q Naumm eh dificium naumm\", \"Passa aki em ksaaaaaa\", com emoticons e risadas. Diante disso, o tio desiste: \"Melhor pensar em outra coisa\". O humor está no fato de ele não estar familiarizado com a linguagem dos chats e mensagens instantâneas e perceber que o sobrinho não é bom modelo ortográfico, como diz a alternativa B. A alternativa A inverte a situação, pois o sobrinho entendeu e respondeu. A C erra porque houve comunicação, só que em outro registro. A D tira uma lição que a tira não propõe. A E generaliza demais, já que a tira mostra só o uso do internetês, sem provar que o sobrinho desconhece a norma. Gabarito: B.",
   "hash": "160be863cac2c89f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q125": {
+  "assunto": "Gêneros textuais: lei, linguagem denotativa",
+  "dificuldade": 3,
   "explicacao": "A questão pede como a objetividade e a formalidade do gênero lei aparecem na estrutura do artigo 5º da Constituição. Uma lei precisa ser compreendida da mesma forma por todos, sem ambiguidades nem interpretações subjetivas. Por isso, usa palavras em sentido literal, denotativo, sem figuras de linguagem: vida, liberdade, igualdade, segurança e propriedade significam exatamente o que dizem. Essa é a marca apontada na alternativa C. A alternativa A erra porque a sufixação, presente em inviolabilidade, não é o que garante objetividade. A B fala de ordem indireta, mas o artigo segue a ordem direta, sujeito e predicado, como em \"Todos são iguais perante a lei\". A D erra porque o artigo é um período composto, com oração reduzida de gerúndio (\"garantindo-se...\"). A E não procede, pois não há substantivos compostos relevantes no trecho. Gabarito: C.",
   "hash": "ac30f545141d2b2c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q126": {
+  "assunto": "Coesão e coerência: conectivo concessivo",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta que relação de sentido o conectivo \"apesar de\" (linha 1) expressa no texto. A frase é: \"É impossível ter cãibras no coração, apesar de ser comum pacientes se queixarem de dores semelhantes a uma contratura no órgão\". \"Apesar de\" é uma locução concessiva: introduz um fato que poderia levar à conclusão oposta, mas que não impede a afirmação principal. Ou seja, mesmo que muita gente relate dores parecidas com cãibra, isso não muda o fato de que o coração não tem cãibras. Por isso a relação é de concessão, alternativa B. A alternativa A erra porque os motivos da impossibilidade vêm depois, com \"Isso porque\", e não com \"apesar de\". A C fala em causa da doença, mas o trecho não explica nenhuma causa. A D erra porque o conectivo não conclui, ele contrapõe. A E não procede, pois não há efeitos de cãibras sendo apresentados. Gabarito: B.",
   "hash": "4a4baab7590037fb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q127": {
+  "assunto": "Interpretação de texto: mapa, conflito sírio",
+  "dificuldade": 4,
   "explicacao": "A questão pede a conclusão que a disposição dos símbolos no mapa da Síria permite tirar. A legenda mostra as relações do governo de Bashar Assad com os vizinhos: afinidade com Líbano, Iraque e Irã; perda de apoio da Turquia e da Jordânia; rixa antiga com Israel. São três governos que apoiam e três que não apoiam o regime, um equilíbrio que ajuda a explicar por que o conflito continuava indefinido, como diz a alternativa B. A alternativa A erra porque o mapa indica afinidade entre Síria e Iraque, sem nada sobre preocupação internacional desnecessária. A C é contrariada pelas setas de refugiados saindo para a Turquia e a Jordânia. A D erra porque o maior número de mortos está em Homs (3060), e não junto ao rio Eufrates, onde fica Dayr az Zawr (301). A E também erra: Israel aparece com o símbolo de rixa antiga, sem mudança de posição. Gabarito: B.",
   "hash": "2679d29122d6b594",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q128": {
+  "assunto": "Literatura brasileira: conto, direitos autorais",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo do texto de Verônica Stigger. A narrativa é absurda e irônica: José tatuou na barriga um verso de um poeta morto; a família do poeta o vê na praia, considera a exibição um oferecimento da obra ao público num local coletivo, processa José, ganha a causa e leva a tatuagem, que acaba emoldurada na sala. O exagero, chegando a arrancar a pele de alguém como objeto de posse, satiriza a ideia de que os herdeiros controlam qualquer uso da obra. Com isso, o texto provoca a reflexão sobre até onde vão os direitos autorais, como diz a alternativa A. A alternativa B erra porque o foco não é a circulação do texto poético em geral, mas o conflito de propriedade. A C afirma uma tese que o texto não explicita. A D fala de perda do caráter sagrado da poesia, ideia ausente. A E menciona políticas de divulgação, tema que não aparece. Gabarito: A.",
   "hash": "93192f11f0789ea6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q129": {
+  "assunto": "Educação física: futebol, mercantilização",
+  "dificuldade": 3,
   "explicacao": "A questão pede como se caracterizam as transformações do futebol descritas por Galeano. O autor fala de uma \"triste viagem do prazer ao dever\": ao virar indústria e espetáculo, o futebol foi expulsando a beleza do jogar só por prazer, como um menino que brinca com uma bola, sem relógio e sem juiz. A tecnocracia do esporte impôs velocidade e força, e o resultado é um jogo que \"renuncia à alegria, atrofia a fantasia e proíbe a ousadia\". Ou seja, vão desaparecendo os sentidos sociais e estéticos próprios dos jogos e brincadeiras populares, como diz a alternativa D. A alternativa A erra porque o texto não fala em menor competitividade. A B acerta ao citar a mercantilização, mas erra ao dizer que ela aumentou os praticantes, quando o texto fala em poucos protagonistas e muitos espectadores. A C menciona regionalismos, que não aparecem. A E contradiz o texto ao falar em elevação estética. Gabarito: D.",
   "hash": "74c4bc0a1219a6e2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q130": {
+  "assunto": "Literatura brasileira: realismo fantástico",
+  "dificuldade": 3,
   "explicacao": "A questão pede de onde nasce a situação singular vivida pelas personagens no conto de José J. Veiga. O fragmento mostra uma máquina misteriosa que passou a ocupar o centro da vida da cidade: as datas cívicas, antes comemoradas no coreto ou no campo de futebol, agora acontecem ao pé dela; os candidatos disputam comícios à sua sombra, gerando brigas; e só o vigário ainda não lhe rendeu homenagem. O inusitado está no modo como um objeto novo transforma costumes, rituais e relações da comunidade, ou seja, no impacto sociocultural da inovação, como diz a alternativa D. A alternativa A erra porque a resistência do vigário é um detalhe, não um afastamento geral da religião. A B fala em medo da tecnologia, quando há, ao contrário, fascínio e culto. A C reduz tudo às disputas eleitorais, que são só um dos efeitos. A E fala em conflito entre classes sociais, que não aparece. Gabarito: D.",
   "hash": "3d750a71a28ff95f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q131": {
+  "assunto": "Literatura brasileira: pré-modernismo, Lima Barreto",
+  "dificuldade": 4,
   "explicacao": "A questão pede o sentido da expressão \"tirania doméstica\" para descrever o governo de Floriano Peixoto no romance de Lima Barreto. O narrador compara o Estado a uma casa: quem se comporta mal, como um bebê, leva castigo, só que, em escala nacional, o castigo vira prisão e morte para quem faz oposição. Na economia, faltando dinheiro, emitem-se mais notas, como se põe mais água na sopa quando chegam visitas. O presidente age como um chefe de família autoritário, que decide tudo, pune os desobedientes e administra o país como o orçamento de casa. Esse modelo é patriarcal, tanto na política quanto na economia, como afirma a alternativa D. A alternativa A erra porque o regime era intervencionista e punitivo, não omisso. A B confunde: infantilizados são os governados, tratados como crianças. A C fala de nepotismo, que o texto não menciona. A E erra porque a imagem é de pai autoritário, e não de líder populista. Gabarito: D.",
   "hash": "b235017da3889b9e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q132": {
+  "assunto": "Coesão e coerência: repetição, Machado de Assis",
+  "dificuldade": 4,
   "explicacao": "A questão pede a função das repetições no trecho de Memórias póstumas de Brás Cubas. O narrador anuncia uma transição e a executa encadeando termos: \"meu delírio começou em presença de Virgília; Virgília foi o meu grão pecado de juventude; não há juventude sem meninice; meninice supõe nascimento\". Cada palavra final é retomada no início da oração seguinte, numa espécie de escada que leva, \"sem esforço\", do delírio ligado a Virgília ao dia do nascimento, em 1805. A repetição serve, portanto, para fazer a passagem entre dois momentos distintos da narrativa, como diz a alternativa A. A alternativa B erra porque o encadeamento acelera e brinca com a transição, em vez de atrasar o tema principal. A C fala em reforçar o amor por Virgília, que não é o objetivo. A D menciona monotonia e velhice, ausentes no trecho. A E erra porque a sequência vai de trás para frente e o narrador ironiza a própria arte, sem buscar precisão cronológica. Gabarito: A.",
   "hash": "57e8f49efea4c1e2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q133": {
+  "assunto": "Música: trilha sonora de animação",
+  "dificuldade": 2,
   "explicacao": "A questão pede para que a música Real in Rio foi composta. O texto descreve a cena da animação Rio, de Carlos Saldanha, em que as aves dançam ao som da batucada, e informa que a canção, de Sérgio Mendes, Carlinhos Brown e Siedah Garrett, era a esperança brasileira no Oscar de 2012. Uma canção que concorre ao Oscar disputa o prêmio de melhor canção original, ou seja, foi feita especialmente como tema central da trilha sonora do filme, como diz a alternativa C. A alternativa A erra porque o texto critica a canção por repetir clichês, não por sintetizar estilos cariocas. A B não procede, já que compor em inglês não é o propósito da obra. A D fala de samba-enredo, gênero que não é mencionado. A E reduz a canção ao acompanhamento de uma única cena, quando ela é o tema do filme. Gabarito: C.",
   "hash": "69d60b7f7c5295c5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q134": {
+  "assunto": "Gêneros textuais: editorial",
+  "dificuldade": 1,
   "explicacao": "A questão pede uma característica do gênero editorial presente no texto Tragédia anunciada. O editorial expressa a opinião do próprio veículo, não de um autor individual, e por isso costuma ocupar um espaço fixo no jornal, sem assinatura. Trata de temas atuais: aqui, a baixa execução de verbas para prevenção de desastres naturais e a recente criação do Cenad. O texto é claramente opinativo, com expressões como \"inépcia político-administrativa\", \"descaso\", \"omissão\" e \"sinistra contabilidade de vítimas\". Isso confirma a alternativa B: espaço específico e opinião sobre assuntos atuais. A alternativa A erra porque o editorial não é assinado. A C fala de estudos científicos, que não aparecem. A D erra porque o gênero é argumentativo, não narrativo. A E contradiz o texto, que é parcial e crítico. Gabarito: B.",
   "hash": "257bf799abbf42ff",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q135": {
+  "assunto": "Coesão e coerência: coesão referencial",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função da expressão \"medida similar\" na progressão do texto. A notícia apresenta primeiro a lei aprovada em Israel, que obriga anúncios a informar o uso de editores de imagem. Em seguida diz: \"O parlamento francês está discutindo uma medida similar, porém mais dura\". A expressão retoma a lei israelense e a compara com a proposta francesa, ligando as duas informações, um mecanismo de coesão referencial. É o que diz a alternativa D. A alternativa A erra porque \"similar\" apenas compara, sem crítica. A B não procede, já que a expressão é comum e não busca erudição. A C erra ao dizer que a lei francesa foi aprovada e retifica a israelense, quando ela ainda está em discussão. A E confunde, pois a informação sobre embalagens e campanhas vem depois e não é antecipada por \"medida similar\". Gabarito: D.",
   "hash": "30aa1bfa12a1293b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q136": {
+  "assunto": "Sequências e progressões: progressão aritmética, média",
+  "dificuldade": 3,
   "explicacao": "A questão pede quantos dias o atleta deve treinar para que a média diária seja 1 700 m. As distâncias formam uma progressão aritmética: a₁ = 1 000 m e razão r = 200 m. Numa PA, a média dos termos é a média entre o primeiro e o último: (a₁ + aₙ)/2. Então (1 000 + aₙ)/2 = 1 700, o que dá aₙ = 3 400 − 1 000 = 2 400 m. Agora usamos o termo geral: aₙ = a₁ + (n − 1)·r, ou seja, 2 400 = 1 000 + (n − 1)·200. Daí (n − 1)·200 = 1 400 e n − 1 = 7, logo n = 8 dias. Conferindo: a soma é Sₙ = (1 000 + 2 400)·8/2 = 13 600 m, e 13 600 ÷ 8 = 1 700 m por dia. A alternativa A, 9 dias, daria média de 1 800 m. A C, 5 dias, daria 1 400 m. A D, 4 dias, daria 1 300 m. A E, 2 dias, daria apenas 1 100 m. Gabarito: B.",
   "hash": "b2cdb9f9a87ee70d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q137": {
+  "assunto": "Grandezas e medidas: velocidade média, conversão",
+  "dificuldade": 3,
   "explicacao": "A questão pede quais multas o motorista recebeu. No primeiro medidor, ele percorreu 0,5 m em 0,024 s. A velocidade é v = 0,5/0,024 ≈ 20,83 m/s. Convertendo: 20,83 × 3,6 = 75 km/h. Uma conta mais direta: 0,5 × 3,6 = 1,8 e 1,8 ÷ 0,024 = 75 km/h. Como 72 < 75 ≤ 90, a primeira multa é grave. Depois ele reduziu 10 km/h e passou pelo segundo medidor a 75 − 10 = 65 km/h. Como 60 < 65 ≤ 72, a segunda multa é média. O motorista recebeu, portanto, uma multa grave e uma média, alternativa C. A alternativa A esquece a primeira infração. A B esquece a segunda, pois 65 km/h ainda passa do limite. A D erra porque 75 km/h não ultrapassa 90 km/h. A E também erra, já que nenhuma das velocidades passa de 90 km/h. Gabarito: C.",
   "hash": "4321c467c2732543",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q138": {
+  "assunto": "Razão e proporção: remição de pena",
+  "dificuldade": 4,
   "explicacao": "A questão pede quanto tempo a pessoa ficará presa se trabalhar todos os dias, sabendo que a cada 3 dias de trabalho 1 dia de pena é perdoado. A pena é de 10 anos, cerca de 3 650 dias. A cada 3 dias de prisão com trabalho, ela cumpre 3 dias e ganha 1 de desconto, o que equivale a 4 dias de pena. Assim, o tempo real t satisfaz t + t/3 = 3 650, ou seja, 4t/3 = 3 650, e t = 3 650 × 3/4 = 2 737,5 dias. Em anos, basta fazer 10 × 3/4 = 7,5 anos. A pessoa ficará presa cerca de 7 anos e meio, entre 7 e 8 anos, alternativa E. As alternativas A, B e C dão tempos muito curtos, que exigiriam descontos muito maiores. A D, entre 6 e 7 anos, vem de um erro comum: descontar 1/3 da pena (10 − 3,33 ≈ 6,7 anos), como se cada 3 dias trabalhados abatessem 1 dia sem contar o próprio dia perdoado como pena cumprida. Gabarito: E.",
   "hash": "7a1cde5adc8bb237",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q139": {
+  "assunto": "Razão e proporção: expressão algébrica",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma expressão para o número máximo de lapiseiras compradas com z reais, sabendo que x lapiseiras custam y reais. Primeiro achamos o preço de uma lapiseira: y/x reais. Com z reais, o número de lapiseiras é o dinheiro dividido pelo preço unitário: z ÷ (y/x) = z·x/y. Como não se compra fração de lapiseira, o máximo é o maior inteiro menor ou igual a x·z/y, que é a alternativa A. Uma checagem com números: se 2 lapiseiras custam 6 reais (x = 2, y = 6), cada uma custa 3 reais; com 30 reais compram-se 10, e de fato x·z/y = 2·30/6 = 10. A alternativa B, y·z/x, inverte a razão e daria 90. A C, z/(y·x), daria 2,5. A D, z/y, daria 5, pois trata y como preço de uma unidade. A E, z/x, daria 15, sem sentido como quantidade. Gabarito: A.",
   "hash": "6f5ce715cc81d4b4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q140": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de dispersão",
+  "dificuldade": 3,
   "explicacao": "A questão usa o gráfico do Ipea, em que o eixo vertical mostra o crescimento econômico (quanto mais alto, mais crescimento) e o horizontal mostra a igualdade (quanto mais à esquerda, maior igualdade). Primeiro, filtramos as áreas que ficam acima do investimento em exportação: Educação, Saúde e investimento em construção civil. Bolsa Família e Previdência Social ficam abaixo da exportação, por isso estão fora. Entre as três selecionadas, a que mais promove igualdade é a que está mais à esquerda: a Saúde aparece mais à esquerda que a Educação, e a construção civil fica do lado da menor igualdade. Logo, a resposta é Saúde, alternativa E. A alternativa A, Bolsa Família, é a que gera maior redução da desigualdade, mas contribui menos para o crescimento que a exportação. A B, Educação, gera mais crescimento, mas menos igualdade que a Saúde. A C fica à direita do eixo, com menor igualdade. A D está abaixo da exportação no crescimento. Gabarito: E.",
   "hash": "7dd95a1e64b57868",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q141": {
+  "assunto": "Probabilidade: tabela de porcentagens",
+  "dificuldade": 2,
   "explicacao": "A questão pede a probabilidade de uma brasileira com mais de 10 anos, escolhida ao acaso, ter oito anos ou mais de estudo. Basta usar a linha das mulheres na tabela, que já está em porcentagem do total de mulheres. Oito anos ou mais corresponde às faixas \"8 a 10\" e \"11 ou mais\": 17,1% + 33,4% = 50,5%. Essa é a alternativa D. Conferindo, a linha das mulheres soma 10,0 + 11,8 + 27,4 + 17,1 + 33,4 = 99,7%, praticamente 100%, o que confirma que a tabela dá a distribuição dentro do grupo feminino. A alternativa A, 17,1%, considera só a faixa de 8 a 10 anos. A B, 29,6%, é o valor dos homens com 11 anos ou mais. A C, 34,5%, soma as faixas de 8 a 10 de homens e mulheres. A E, 63,0%, soma as faixas de 11 anos ou mais dos dois sexos. Gabarito: D.",
   "hash": "f574fbdb06751550",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q142": {
+  "assunto": "Geometria plana: polígonos regulares, pavimentação",
+  "dificuldade": 3,
   "explicacao": "A questão pede duas formas poligonais regulares que podem revestir um piso, isto é, que cobrem o plano sem sobras nem sobreposições usando só uma forma. Para isso, a soma dos ângulos em torno de um vértice deve ser 360°, então o ângulo interno precisa dividir 360°. Ângulo interno do polígono regular de n lados: 180°·(n − 2)/n. Triângulo: 60°, e 360 ÷ 60 = 6, serve. Quadrado: 90°, 360 ÷ 90 = 4, serve. Pentágono: 108°, 360 ÷ 108 ≈ 3,33, não serve. Hexágono: 120°, 360 ÷ 120 = 3, serve. Heptágono: ≈ 128,6°, não serve. Octógono: 135°, 360 ÷ 135 ≈ 2,67, não serve. Os únicos polígonos regulares que pavimentam sozinhos são triângulo, quadrado e hexágono. Assim, a alternativa B, triângulo e hexágono, é a correta. A A traz o pentágono, a C o octógono, a D o heptágono e a E o octógono, nenhum dos quais pavimenta o plano. Gabarito: B.",
   "hash": "62bf04e71e9cf27c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q143": {
+  "assunto": "Função afim: lei de formação",
+  "dificuldade": 1,
   "explicacao": "A questão pede a expressão do valor pago P em função dos quilômetros rodados x. O aluguel tem uma parte fixa, R$ 60,00 pela diária, e uma parte variável, R$ 1,50 por quilômetro. Considerando um dia de aluguel, o valor é a parte fixa somada a 1,50 vezes os quilômetros: P = 60 + 1,50x, uma função afim em que 60 é o coeficiente linear e 1,50 o coeficiente angular. Exemplo: rodando 100 km, paga-se 60 + 150 = R$ 210,00. Essa é a alternativa C. A alternativa A soma indevidamente 1,50 ao valor fixo, cobrando um quilômetro a mais. A B troca os papéis, multiplicando os 60 reais pelos quilômetros. A D multiplica tudo por x, como se não houvesse parte fixa. A E ignora a diária de R$ 60,00. Gabarito: C.",
   "hash": "b0495dd4f995e0f2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q144": {
+  "assunto": "Razão e proporção: consumo diário",
+  "dificuldade": 2,
   "explicacao": "A questão pede quantos litros por dia a pessoa de 80 kg deve acrescentar ao que já bebe para atingir o consumo ideal. Consumo ideal: 35 mL por quilo, então 80 × 35 = 2 800 mL = 2,8 L por dia. Consumo atual: 6 galões de 20 L em 60 dias, ou seja, 6 × 20 = 120 L em 60 dias, o que dá 120 ÷ 60 = 2 L por dia. A diferença é 2,8 − 2,0 = 0,8 L por dia, alternativa D. A alternativa A, 4,8, soma os valores em vez de subtrair. A B, 2,8, é o consumo ideal total, sem descontar o que a pessoa já bebe. A C, 2,0, é o consumo atual. A E, 0,4, corresponderia à metade da diferença, um erro de conta. Gabarito: D.",
   "hash": "18f47590e0505e65",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q145": {
+  "assunto": "Função afim: comparação de planos",
+  "dificuldade": 4,
   "explicacao": "A questão pede qual mudança de plano gera o menor custo total, sabendo que só uma conta pode migrar. Plano atual: 30 + 0,20 × (minutos − 90). Funcionário 1 (170 min): 30 + 0,20 × 80 = R$ 46,00. Funcionário 2 (195 min): 30 + 0,20 × 105 = R$ 51,00. Plano Dourado (franquia 120, R$ 0,22, fixo 20): funcionário 1 paga 20 + 0,22 × 50 = R$ 31,00, economia de 15; funcionário 2 paga 20 + 0,22 × 75 = R$ 36,50, economia de 14,50. Plano Parceria (franquia 110, R$ 0,25, fixo 15): funcionário 1 paga 15 + 0,25 × 60 = R$ 30,00, economia de 16; funcionário 2 paga 15 + 0,25 × 85 = R$ 36,25, economia de 14,75. A maior economia, R$ 16,00, ocorre ao passar o funcionário 1 para o Plano Parceria, alternativa B. A alternativa A economiza só 15. A C economiza 14,50. A D economiza 14,75. A E não economiza nada. Gabarito: B.",
   "hash": "423ce8ff52615461",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q146": {
+  "assunto": "Matemática financeira: rendimento, taxas",
+  "dificuldade": 3,
   "explicacao": "A questão pede o melhor fundo para aplicar R$ 60 000,00, considerando o retorno em 12 meses e a taxa de administração. O que importa é o ganho líquido, ou seja, o retorno depois de descontada a taxa. Se a taxa incide sobre o rendimento, o retorno líquido é retorno × (1 − taxa): WWWW: 27,5% × 0,88 = 24,2%; BBBT: 24,7% × 0,85 ≈ 21,0%; BGT Capital: 29,5% × 0,87 ≈ 25,7%; JGPF: 25,9% × 0,86 ≈ 22,3%; IKPQ: 23,9% × 0,89 ≈ 21,3%. Mesmo que se fizesse a subtração simples (retorno − taxa), a ordem não muda: BGT Capital fica com 16,5 pontos, contra 15,5 do WWWW, 12,9 do IKPQ, 11,9 do JGPF e 9,7 do BBBT. Com R$ 60 000,00, o BGT Capital renderia cerca de 0,257 × 60 000 ≈ R$ 15 400,00 líquidos, o maior valor. Logo, a resposta é a alternativa B. A alternativa A, BBBT, tem o pior resultado líquido. A C, IKPQ, tem a menor taxa, mas retorno baixo. A D, JGPF, fica em posição intermediária. A E, WWWW, é a segunda melhor, mas perde para o BGT Capital. Gabarito: B.",
   "hash": "723fd545f2f8be1a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q147": {
+  "assunto": "Razão e proporção: comparação de promoções",
+  "dificuldade": 3,
   "explicacao": "A questão pede a promoção mais econômica de creme dental. Para comparar, calculamos que fração do total levado a pessoa realmente paga, o que equivale ao preço por unidade: embalagem 1, leve 3 pague 2: 2/3 ≈ 0,667; embalagem 2, leve 4 pague 3: 3/4 = 0,75; embalagem 3, leve 5 pague 4: 4/5 = 0,80; embalagem 4, leve 7 pague 5: 5/7 ≈ 0,714; embalagem 5, leve 10 pague 7: 7/10 = 0,70. Quanto menor a fração, mais barato sai cada unidade. A menor é 2/3, da embalagem 1: paga-se cerca de 66,7% do valor, um desconto de aproximadamente 33%. A alternativa A é a correta. A alternativa B dá desconto de 25%. A C, de 20%. A D, cerca de 28,6%. A E, 30%, chega perto, mas ainda perde para a embalagem 1. Gabarito: A.",
   "hash": "8a96de97659dc9ea",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q148": {
+  "assunto": "Geometria analítica: deslocamentos em malha",
+  "dificuldade": 3,
   "explicacao": "[REVISAR] Pelo deslocamento calculado (2,5 km ao norte e 0,5 km a oeste), a malha da alternativa A não parece corresponder à descrição; conferir as imagens das alternativas e o gabarito. A questão pede a malha que mostra o ponto inicial A e o ponto final B de Cleber, com quadrados de 500 m de lado. Convertendo os trajetos: ½ km = 500 m para o sul (1 quadrado); 2 km = 2 000 m para o leste (4 quadrados); 3 000 m para o norte (6 quadrados); 10/4 km = 2,5 km = 2 500 m para o oeste (5 quadrados). Somando na direção norte–sul: 6 para o norte − 1 para o sul = 5 quadrados para o norte. Na direção leste–oeste: 4 para o leste − 5 para o oeste = 1 quadrado para o oeste. Assim, B deve ficar 5 quadrados acima de A e 1 quadrado à esquerda, considerando o norte para cima. Nas malhas apresentadas, as alternativas B, C e D mostram deslocamentos de 5 quadrados na horizontal e 2 na vertical, que não correspondem a esse resultado. O gabarito oficial indica a alternativa A. Gabarito: A.",
   "hash": "01dadde22468b4b9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q149": {
+  "assunto": "Geometria espacial: planificação, menor caminho",
+  "dificuldade": 4,
   "explicacao": "A questão pede o menor caminho da formiga do vértice J ao vértice P, andando sobre a superfície da caixa destampada. No espaço, o menor caminho sobre faces é obtido planificando a caixa: abrindo duas faces vizinhas num mesmo plano, a menor distância entre dois pontos é o segmento de reta que os une. Abrindo a face lateral JNQM sobre o fundo NOPQ (elas têm em comum a aresta NQ), J e P ficam no mesmo plano, e o segmento JP cruza a aresta NQ; na figura, esse ponto de cruzamento é R, o ponto médio de NQ. Por isso, o caminho J → R → P, desenhado na alternativa E, é o menor. A alternativa A liga J a P em linha reta pelo interior da caixa, o que a formiga não pode fazer, pois deve andar sobre a superfície. A B desce a aresta JN e depois cruza o fundo em diagonal, formando um ângulo, o que é mais longo que a reta da planificação. A C segue três arestas (JN, NO e OP), um caminho claramente maior. A D usa a diagonal JO da face frontal e depois a aresta OP, também com uma quebra que aumenta o percurso. Gabarito: E.",
   "hash": "bf8a8c41fc5058a3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q150": {
+  "assunto": "Grandezas e medidas: área, conversão de unidades",
+  "dificuldade": 2,
   "explicacao": "A questão pede o número de peças de cerâmica de 20 cm × 20 cm para 100 mil casas de 45 m². Primeiro, a área de uma peça: 20 cm = 0,2 m, então 0,2 × 0,2 = 0,04 m². Peças por casa: 45 ÷ 0,04 = 1 125 peças. Para 100 mil casas: 1 125 × 100 000 = 112 500 000 peças, ou seja, 112 500 mil. Essa é a alternativa E. A alternativa A, 11,25 mil, erra a conversão de unidades e a multiplicação pelo total de casas. A B, 180 mil, não corresponde a nenhuma conta coerente com os dados. A C, 225 mil, provavelmente vem de usar 20 cm como área ou de outro erro de conversão. A D, 22 500 mil, resulta de dividir 45 por 0,2, esquecendo de elevar ao quadrado o lado da peça. Gabarito: E.",
   "hash": "c8ddefa279a885f5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q151": {
+  "assunto": "Grandezas e medidas: notação científica, área",
+  "dificuldade": 3,
   "explicacao": "A questão pede a menor extensão do gelo marinho do Ártico em 2007, em metros quadrados. O texto diz que a medida de 2011, 5,56 milhões de km², é 220 mil km² maior que o recorde de 2007. Logo, 2007: 5,56 milhões − 0,22 milhão = 5,34 milhões de km² = 5,34 × 10⁶ km². Agora convertemos: 1 km = 10³ m, então 1 km² = (10³)² m² = 10⁶ m². Assim, 5,34 × 10⁶ × 10⁶ = 5,34 × 10¹² m², alternativa D. A alternativa A soma ou combina os números de forma errada e não faz a conversão. A B mantém o valor em km², sem converter. A C converte como se 1 km² valesse 10³ m², esquecendo de elevar ao quadrado. A E usa um valor numérico errado, 214,44, que não resulta da subtração correta. Gabarito: D.",
   "hash": "481b7eeca58ff964",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q152": {
+  "assunto": "Porcentagem: variação percentual",
+  "dificuldade": 3,
   "explicacao": "A questão pede o estado com maior queda percentual de acidentes entre 2011 e 2012. Calculamos a variação relativa: queda ÷ valor de 2011. Santa Catarina: 388 → 395, houve aumento. Rio de Janeiro: 378 → 302, queda de 76; 76 ÷ 378 ≈ 20,1%. Pernambuco: 178 → 129, queda de 49; 49 ÷ 178 ≈ 27,5%. Pará: 107 → 78, queda de 29; 29 ÷ 107 ≈ 27,1%. Mato Grosso: 71 → 85, houve aumento. A maior queda percentual é a de Pernambuco, alternativa C. A alternativa A erra porque Santa Catarina teve aumento. A B tem a maior queda absoluta (76 acidentes), mas a menor queda percentual entre os estados que reduziram. A D chega perto, com cerca de 27,1%, mas fica abaixo de Pernambuco. A E erra porque Mato Grosso também teve aumento. Gabarito: C.",
   "hash": "34d258dbcb62fa02",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q153": {
+  "assunto": "Porcentagem: descontos, arrecadação",
+  "dificuldade": 4,
   "explicacao": "A questão pede o hotel com maior diferença na taxa de arrecadação entre 2010 e 2011. A arrecadação é proporcional ao preço da diária vezes a ocupação. Tomando o preço de 2010 como 1, a taxa de 2010 é a própria ocupação, e a de 2011 é (1 − desconto) × nova ocupação. Hotel 1: 0,9 × 80% = 72%, contra 70%: diferença de 2 pontos. Hotel 2: 0,85 × 100% = 85%, contra 60%: 25 pontos. Hotel 3: 0,8 × 60% = 48%, contra 10%: 38 pontos. Hotel 4: 0,75 × 90% = 67,5%, contra 30%: 37,5 pontos. Hotel 5: 0,7 × 60% = 42%, contra 40%: 2 pontos. A maior diferença é a do hotel 3, com 38 pontos percentuais, alternativa C. A alternativa A justifica pela ocupação antes do desconto, o que não mede arrecadação. A B usa a ocupação depois do desconto, ignorando a redução do preço. A D aponta o hotel 4, cuja diferença, 37,5, é um pouco menor. A E escolhe pelo maior desconto, critério que não garante maior arrecadação. Gabarito: C.",
   "hash": "122938cf729e6453",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q154": {
+  "assunto": "Geometria espacial: planificação de prisma",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que Dora deve acrescentar ao pentágono desenhado por Alberto para obter a planificação de um prisma reto. Um prisma tem duas bases iguais e paralelas e faces laterais retangulares (no prisma reto), uma para cada lado da base. Se a base é um pentágono, o prisma pentagonal reto tem 2 bases pentagonais e 5 faces laterais retangulares, num total de 7 faces. Como Alberto já desenhou um pentágono, falta outro pentágono e os cinco retângulos, alternativa C. A alternativa A esquece quatro faces laterais. A B coloca só quatro retângulos, quando a base tem cinco lados. A D e a E acrescentam dois pentágonos, o que daria três bases no total, já que um pentágono foi desenhado. Gabarito: C.",
   "hash": "e3494f23ebeed292",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q155": {
+  "assunto": "Porcentagem: cálculo simples",
+  "dificuldade": 1,
   "explicacao": "A questão pede quantas das 3 580 pessoas pesquisadas fazem bom controle do diabetes, sabendo que são 15% do total. Basta calcular 15% de 3 580: 0,15 × 3 580 = 537. Uma forma prática: 10% de 3 580 é 358 e 5% é a metade disso, 179; somando, 358 + 179 = 537. Essa é a alternativa D. A alternativa A, 27, e a B, 53, resultam de erros de vírgula, como tomar 0,75% ou 1,5%. A C, 239, não corresponde ao percentual dado. A E, 1 074, é o dobro do valor correto, equivalente a 30%. Gabarito: D.",
   "hash": "1a38973882860f14",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q156": {
+  "assunto": "Grandezas e medidas: velocidade, razão",
+  "dificuldade": 3,
   "explicacao": "A questão pede quanto o tempo de viagem precisaria diminuir para o avião ser supersônico. A velocidade média do voo foi 3 600 km ÷ 4 h = 900 km/h. O número Mach é M = 900 ÷ 1 200 = 0,75, ou seja, o avião é subsônico, e Bia estava errada. Para ser supersônico, é preciso M ≥ 1,2, ou seja, velocidade de pelo menos 1,2 × 1 200 = 1 440 km/h. Nessa velocidade, o tempo para percorrer 3 600 km seria 3 600 ÷ 1 440 = 2,5 h. A redução mínima do tempo é 4 − 2,5 = 1,5 h, alternativa B. A alternativa A, 1,0 h, levaria a 3 h e 1 200 km/h, ou M = 1,0, que é só transônico. A C e a D não correspondem a nenhuma condição de fronteira das categorias. A E, 2,5 h, é o tempo da nova viagem, não a redução. Gabarito: B.",
   "hash": "c033e57775b48f82",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q157": {
+  "assunto": "Porcentagem: aumento percentual, estimativa",
+  "dificuldade": 3,
   "explicacao": "A questão pede quantas pessoas passarão fome em 2050 segundo as estimativas. Em 2010, a produção de alimentos era suficiente para 5,5 bilhões de pessoas. Se a produção de 2050 for 40% maior, ela atenderá 5,5 × 1,4 = 7,7 bilhões de pessoas. Como a população estimada para 2050 é de 9 bilhões, passarão fome 9 − 7,7 = 1,3 bilhão de pessoas, alternativa B. A alternativa A, 1,2, não sai de nenhuma conta coerente com os dados. A C, 1,4, resulta de aplicar os 40% sobre o número de famintos de 2010 (1 × 1,4). A D, 2,2, e a E, 2,3, vêm de cálculos incorretos com a população ou com o percentual, como usar 6,5 bilhões como base. Gabarito: B.",
   "hash": "0117bc786c3ccc1d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q158": {
+  "assunto": "Sequências e progressões: progressão aritmética",
+  "dificuldade": 2,
   "explicacao": "A questão pede as posições dos 8 novos telefones entre os quilômetros 30 e 480, com distâncias iguais. Com os 2 telefones já existentes, serão 10 telefones no total, formando 9 intervalos iguais. A distância total é 480 − 30 = 450 km, logo cada intervalo mede 450 ÷ 9 = 50 km. Os novos telefones ficam em 30 + 50 = 80, 130, 180, 230, 280, 330, 380 e 430, e o próximo seria 480, o que confere. Essa é a alternativa D. A alternativa A começa no próprio km 30 e usa intervalos de 60 km, sem chegar a 480. A B usa intervalos de 45 km, dividindo 450 por 10. A C usa intervalos de 48 km. A E usa intervalos de 51 km. Nenhuma delas termina coerentemente em 480. Gabarito: D.",
   "hash": "d1a5dc8869448f95",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q159": {
+  "assunto": "Função afim: gráfico, proporcionalidade",
+  "dificuldade": 2,
   "explicacao": "A questão pede quais curvas representam fluidos newtonianos. Pela definição dada, o fluido newtoniano tem duas propriedades: a tensão cisalhante cresce linearmente com o gradiente de velocidade, com inclinação não nula, e a tensão é zero quando o gradiente é zero. No gráfico, isso corresponde a uma reta que passa pela origem e sobe. A curva A é uma reta crescente, mas começa em 10 Pa, não na origem. A curva B parte da origem, mas é curva, pois a inclinação aumenta, então não é linear. A curva C é uma reta que sai da origem (0, 0) e chega a 16 Pa em 8 s⁻¹, com inclinação 2, cumprindo as duas condições. A curva D é horizontal, com inclinação nula. Logo, só C é newtoniano, alternativa C. A alternativa A falha por não passar pela origem. A B falha por não ser linear. A D falha por ter coeficiente angular zero. A E inclui A, que não serve. Gabarito: C.",
   "hash": "b20559fdb76c6b5f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q160": {
+  "assunto": "Razão e proporção: frações",
+  "dificuldade": 1,
   "explicacao": "A questão pede a fração da renda mensal que será usada em cada prestação. O refrigerador custa R$ 1 800,00, pagos em 12 parcelas iguais sem juros: 1 800 ÷ 12 = R$ 150,00 por mês. A renda é R$ 1 200,00, então a fração é 150/1 200. Simplificando, dividindo numerador e denominador por 150, obtemos 1/8, alternativa C. A alternativa A, 1/18, confunde os números do problema. A B, 1/12, é a fração do preço total paga em cada parcela, não da renda. A D, 2/3, é a razão entre a renda e o preço (1 200/1 800). A E, 3/2, é a razão inversa, preço sobre renda. Gabarito: C.",
   "hash": "5044498763f029a4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q161": {
+  "assunto": "Equações e inequações: equação do 2º grau",
+  "dificuldade": 3,
   "explicacao": "A questão pede o valor de X para que 42 pessoas tenham sido ajudadas até o fim da terça-feira. Na segunda-feira, X pessoas são ajudadas. Vinte e quatro horas depois, na terça, cada uma dessas X pessoas ajuda outras X, o que dá X · X = X² novas pessoas. O total é X + X² = 42, ou seja, X² + X − 42 = 0. Resolvendo: Δ = 1 + 168 = 169, √169 = 13, e X = (−1 ± 13)/2, o que dá X = 6 ou X = −7. Como X é número de pessoas, X = 6. Conferindo: 6 + 36 = 42. A resposta é a alternativa B. A alternativa A, 2, dá 2 + 4 = 6. A C, 7, dá 7 + 49 = 56. A D, 14, e a E, 21, vêm de dividir 42 por 3 ou por 2, sem considerar a multiplicação da corrente. Gabarito: B.",
   "hash": "49910d6ae79edd4f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q162": {
+  "assunto": "Grandezas e medidas: conversão de tempo",
+  "dificuldade": 1,
   "explicacao": "A questão pede o tempo mínimo de durabilidade da moeda de 1 real. O texto diz que a cédula durava de 8 a 11 meses e que a durabilidade do metal é 30 vezes maior que a do papel. Para o mínimo, usamos a menor duração da cédula: 8 meses × 30 = 240 meses. Convertendo para anos: 240 ÷ 12 = 20 anos, alternativa A. A alternativa B, 28 anos, não corresponde a nenhum cálculo direto com os dados. A C, 30 anos, considera a cédula durando 1 ano, o que não é o mínimo. A D, 240 anos, esquece de converter meses em anos. A E, 330 anos, usa a duração máxima de 11 meses (11 × 30 = 330) e também não converte para anos. Gabarito: A.",
   "hash": "f2c430c7b2ce2f28",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q163": {
+  "assunto": "Teoria dos números: mínimo múltiplo comum",
+  "dificuldade": 2,
   "explicacao": "A questão pede depois de quantos dias os três produtos voltarão a ser aplicados no mesmo dia. Isso é o mínimo múltiplo comum entre 40, 32 e 28. Fatorando: 40 = 2³ × 5; 32 = 2⁵; 28 = 2² × 7. O MMC usa cada fator primo com o maior expoente: 2⁵ × 5 × 7 = 32 × 35 = 1 120 dias, alternativa D. A alternativa A, 100, é a soma dos três intervalos. A B, 140, é o MMC só de 28 e 40, ou de 28 e 5. A C, 400, não é múltiplo de 32 nem de 28. A E, 35 840, é o produto 40 × 32 × 28, um múltiplo comum, mas não o menor. Gabarito: D.",
   "hash": "a64832bc2491974a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q164": {
+  "assunto": "Probabilidade: valor esperado, lucro médio",
+  "dificuldade": 4,
   "explicacao": "A questão pede qual seguradora tem maior lucro médio por veículo e de quanto é esse lucro. O lucro médio é o valor recebido menos o valor esperado de indenização, isto é, probabilidade de roubo vezes o valor pago. Seguradora X: 2 000 − 0,01 × 42 000 = 2 000 − 420 = R$ 1 580,00. Seguradora Y: 3 000 − 0,01 × 63 000 = 3 000 − 630 = R$ 2 370,00. A Y tem o maior lucro médio, R$ 2 370,00, alternativa B. A alternativa A, R$ 2 970,00, desconta só 1% do próprio preço do seguro (3 000 − 30). A C, R$ 2 340,00, usa um desconto incorreto. A D traz o lucro certo da X, mas ele é menor que o da Y. A E também aponta a X, com valor errado. Gabarito: B.",
   "hash": "a28502714c3ce426",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q165": {
+  "assunto": "Escalas: área, frações",
+  "dificuldade": 4,
   "explicacao": "A questão pede a área máxima para centro comunitário, quiosques e praças, que não pode passar de 2/5 da área do terreno. No mapa, o terreno é formado por 10 quadrados de 10 cm de lado: 2 na primeira fileira, 3 na segunda, 3 na terceira e 2 na última. Na escala 1 : 1 000, 10 cm no mapa equivalem a 10 × 1 000 = 10 000 cm = 100 m no real. Cada lote mede, então, 100 m × 100 m = 10 000 m², e o terreno inteiro tem 10 × 10 000 = 100 000 m². A área máxima é 2/5 × 100 000 = 40 000 m², alternativa A. As alternativas B, C, D e E (4 000, 400, 40 e 4 m²) resultam de erros na escala, como aplicar o fator 1 000 apenas uma vez à área, sem elevar ao quadrado, ou converter centímetros em metros de forma incorreta. Gabarito: A.",
   "hash": "6a19e33bdfd246df",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q166": {
+  "assunto": "Funções: gráfico por partes, interpretação",
+  "dificuldade": 5,
   "explicacao": "A questão pede o gráfico da quantidade Q da substância nas sete primeiras horas. Cada dose aumenta Q em 2 unidades instantaneamente e, nas duas horas seguintes, Q cai linearmente até o valor que havia antes da dose, ou seja, cai 2 unidades em 2 horas, 1 unidade por hora. Antes de tudo, Q = 1. Em t = 0, primeira dose: Q salta para 3 e começa a cair 1 por hora. Em t = 1, Q = 2, e o paciente toma a segunda dose por engano: Q salta para 4. A partir daí, cai até o valor anterior à dose, 2, chegando lá em t = 3. Em t = 3, nova dose: 4, caindo para 2 em t = 5; em t = 5, outra dose: 4, caindo para 2 em t = 7. O gráfico começa em 3, desce até 2 em t = 1 e depois mostra três segmentos de 4 até 2, exatamente como na alternativa A. A alternativa B começa em 2, ignorando a unidade inicial. A C mostra a primeira queda de 3 até 1 em uma hora, com inclinação errada. A D e a E terminam cada ciclo em zero, o que contraria a regra de voltar ao valor anterior à dose. Gabarito: A.",
   "hash": "577e470bc78f789a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q167": {
+  "assunto": "Função afim: taxa de variação",
+  "dificuldade": 3,
   "explicacao": "[REVISAR] O símbolo \"þ\" nas alternativas parece ser o sinal de menos corrompido na extração (x − 2004). A questão pede a expressão do número de mortes N no ano x, com crescimento anual constante entre 2004 e 2008. Crescimento constante significa função afim, com taxa igual ao aumento total dividido pelo número de anos. Aumento: 38 300 − 35 100 = 3 200 mortes em 2008 − 2004 = 4 anos, logo 3 200 ÷ 4 = 800 mortes por ano. Contando os anos a partir de 2004, o tempo decorrido é x − 2004, e o valor inicial é 35 100. Então N = 800(x − 2004) + 35 100. Conferindo: em 2004, N = 35 100; em 2008, N = 800 × 4 + 35 100 = 38 300. Essa é a alternativa B. A alternativa A usa o ano x diretamente, o que daria valores absurdos, como 800 × 2004. A C esquece o valor inicial de 35 100. A D usa 3 200 como taxa anual, quando esse é o aumento em quatro anos. A E combina os dois erros. Gabarito: B.",
   "hash": "db1b4bc5f9c52f1d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q168": {
+  "assunto": "Razão e proporção: proporção, progressão geométrica",
+  "dificuldade": 3,
   "explicacao": "A questão pede a taxa de desemprego de julho de 2012, supondo que a razão entre 2010 e 2011 seja a mesma que entre 2011 e 2012. No gráfico, julho de 2010 tem 6,9% e julho de 2011 tem 6%. Montamos a proporção: 6,9/6 = 6/x. Multiplicando cruzado: 6,9x = 36, então x = 36 ÷ 6,9 ≈ 5,22%. Esse valor está entre 5,0 e 5,5, alternativa B. Note que as taxas formam uma progressão geométrica decrescente: cada ano é cerca de 0,87 vezes o anterior. A alternativa A, entre 4,0 e 4,5, corresponderia a uma queda bem maior. A C, entre 5,5 e 6,1, vem de subtrair a mesma diferença de forma errada ou de inverter a razão. A D e a E dão valores maiores ou iguais ao de 2011, o que contraria a tendência de queda da razão. Gabarito: B.",
   "hash": "913f644393195e18",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q169": {
+  "assunto": "Medidas de tendência central: média, mediana",
+  "dificuldade": 2,
   "explicacao": "A questão pede a mediana e a média do número de medalhas olímpicas do Brasil de 1976 a 2008. Os valores são: 2, 4, 8, 6, 3, 15, 12, 10 e 15, ou seja, 9 dados. Para a mediana, colocamos em ordem: 2, 3, 4, 6, 8, 10, 12, 15, 15. Com 9 valores, a mediana é o 5º termo: 8. Para a média, somamos: 2 + 4 + 8 + 6 + 3 + 15 + 12 + 10 + 15 = 75, e 75 ÷ 9 ≈ 8,3. A resposta é mediana 8 e média 8,3, alternativa D. A alternativa A erra as duas medidas. A B acerta a média, mas usa 7 como mediana, provavelmente sem ordenar os dados. A C acerta a mediana, mas erra a média. A E confunde mediana com moda, já que 15 é o valor que mais se repete. Gabarito: D.",
   "hash": "e1baaea5c5e7979e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q170": {
+  "assunto": "Porcentagem: aumentos sucessivos",
+  "dificuldade": 3,
   "explicacao": "A questão pede a arrecadação aproximada de 2007, sabendo que em 2005 foram arrecadados cerca de 700 bilhões de reais. A tabela traz o crescimento em relação ao ano anterior: 12,0% em 2006 e 12,0% em 2007. Aumentos sucessivos se aplicam de forma composta, multiplicando por 1,12 a cada ano. Em 2006: 700 × 1,12 = 784 bilhões. Em 2007: 784 × 1,12 = 878,08 bilhões, aproximadamente 878, alternativa E. A alternativa A, 724, e a B, 738, não correspondem a aumentos de 12%. A C, 784, é o valor de 2006, e não de 2007. A D, 868, vem de somar 24% de uma vez sobre 700 (700 × 1,24), esquecendo que o segundo aumento incide sobre o valor já aumentado. Gabarito: E.",
   "hash": "fa7a55b1c4bce990",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q171": {
+  "assunto": "Função afim: valor numérico",
+  "dificuldade": 1,
   "explicacao": "A questão pede o consumo mensal da família com a função C = 500 + 0,8Y. A renda Y é a soma dos salários: 3 000 + 4 000 = R$ 7 000,00. Substituindo: C = 500 + 0,8 × 7 000 = 500 + 5 600 = R$ 6 100,00, alternativa D. Repare que c₀ = 500 é o gasto fixo e 0,8 indica que 80% da renda vai para o consumo. A alternativa A, R$ 2 900,00, usa só o salário do pai: 500 + 0,8 × 3 000. A B, R$ 3 300,00, usa a média dos salários como renda: 500 + 0,8 × 3 500. A C, R$ 3 700,00, usa só o salário da mãe: 500 + 0,8 × 4 000. A E, R$ 6 600,00, soma o gasto fixo duas vezes, aplicando a fórmula a cada salário separadamente. Gabarito: D.",
   "hash": "81c4544c6a53fa19",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q172": {
+  "assunto": "Medidas de tendência central: média, mediana",
+  "dificuldade": 3,
   "explicacao": "A questão pede a mediana e a média do IPCA de janeiro a outubro de 2011. Os 10 valores são: 0,83; 0,80; 0,79; 0,77; 0,47; 0,15; 0,16; 0,37; 0,53; 0,43. Em ordem crescente: 0,15; 0,16; 0,37; 0,43; 0,47; 0,53; 0,77; 0,79; 0,80; 0,83. Com 10 valores, a mediana é a média dos dois centrais, o 5º e o 6º: (0,47 + 0,53)/2 = 0,50. A soma é 0,15 + 0,16 + 0,37 + 0,43 + 0,47 + 0,53 + 0,77 + 0,79 + 0,80 + 0,83 = 5,30, e a média é 5,30 ÷ 10 = 0,53. Mediana 0,50 e média 0,53: alternativa B. A alternativa A troca a ordem das medidas. A C erra a média. A D erra as duas medidas. A E acerta a média, mas erra a mediana, talvez por não ordenar os dados. Gabarito: B.",
   "hash": "a1653f539ccf3383",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q173": {
+  "assunto": "Escalas: planta baixa, margens",
+  "dificuldade": 3,
   "explicacao": "[REVISAR] O texto extraído traz só \"1 500 cm\" e perde a outra medida da casa (largura de 900 cm), necessária para a resolução. A questão pede as dimensões da folha em que a planta da casa foi desenhada na escala 1 : 30, com margens de 6 cm em cada lado. Na figura original, a casa mede 1 500 cm de comprimento e 900 cm de largura. Na escala 1 : 30, cada medida real é dividida por 30: comprimento 1 500 ÷ 30 = 50 cm e largura 900 ÷ 30 = 30 cm. A folha precisa ainda das margens: 6 cm de cada lado, ou seja, 12 cm a mais em cada dimensão. Comprimento da folha: 50 + 12 = 62 cm. Largura: 30 + 12 = 42 cm. A resposta é 62 e 42, alternativa E. A alternativa A dá só o tamanho do desenho, sem margens. A B acrescenta margens só na largura. A C soma apenas 6 cm em cada dimensão, contando uma margem só. A D acrescenta margens só no comprimento. Gabarito: E.",
   "hash": "fc847643889a859f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q174": {
+  "assunto": "Geometria espacial: volume, gráfico de funções",
+  "dificuldade": 5,
   "explicacao": "A questão pede o gráfico das alturas da água h₁ (cilindro) e h₂ (prisma) em função do volume V. No cilindro de raio R, V = πR²h₁, então h₁ = V/(πR²). No prisma de base quadrada com lado igual ao diâmetro 2R, V = 4R²h₂, então h₂ = V/(4R²). As duas alturas são funções lineares de V, cujos gráficos são retas que passam pela origem. Como π ≈ 3,14 é menor que 4, a área da base do cilindro, πR², é menor que a do prisma, 4R². Para o mesmo volume, quem tem base menor sobe mais: h₁ > h₂. Assim, a reta de h₁ é mais inclinada e fica acima da de h₂, como na alternativa B. A alternativa A também mostra retas, mas com h₂ acima de h₁. A C e a D mostram curvas que crescem cada vez mais devagar, o que não acontece com seção constante. A E mostra curvas que crescem cada vez mais rápido, o que também não corresponde a reservatórios de seção constante. Gabarito: B.",
   "hash": "9c8bcd23c5cb44b8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q175": {
+  "assunto": "Aritmética: frações",
+  "dificuldade": 2,
   "explicacao": "A questão pede a fração da capacidade do caminhão distribuída no terceiro abastecimento. Tomando a capacidade como 1: no primeiro, distribuiu-se 1/4, restando 3/4. No segundo, 1/3 do restante: 1/3 × 3/4 = 1/4. Até aqui foram 1/4 + 1/4 = 1/2. O terceiro abastecimento usou todo o resto: 1 − 1/2 = 1/2, alternativa D. Em litros: 32 000 ÷ 4 = 8 000 no primeiro; restam 24 000, dos quais 1/3, 8 000, no segundo; sobram 16 000 L, que são metade de 32 000. A alternativa A, 2/7, não sai das frações dadas. A B, 1/3, confunde a fração do segundo abastecimento com a do terceiro. A C, 5/12, vem de calcular 1/3 sobre o total (1 − 1/4 − 1/3). A E, 7/12, soma as frações dadas, 1/4 + 1/3. Gabarito: D.",
   "hash": "d03ff998a666508a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q176": {
+  "assunto": "Aritmética: sistema de numeração egípcio",
+  "dificuldade": 2,
   "explicacao": "[REVISAR] A imagem do número egípcio parece cortada: mostra só um símbolo de 10 000, sete de 100 e dois bastões, o que não corresponde a nenhuma alternativa. A questão pede a conversão de um número escrito no sistema egípcio, que é aditivo: cada símbolo tem um valor fixo (bastão 1, arco 10, espiral 100, flor de lótus 1 000, dedo 10 000, peixe 100 000, homem 1 000 000) e o número é a soma de todos eles. Pelo gabarito oficial, o número completo deve ter 1 símbolo de 1 000 000, 2 de 100 000, 3 de 10 000, nenhum de 1 000, 7 de 100, nenhum de 10 e 2 de 1: 1 000 000 + 200 000 + 30 000 + 700 + 2 = 1 230 702, alternativa D. A alternativa A, 12 372, ignora as ordens mais altas. A B, 1 230 072, troca as centenas pelas dezenas. A C, 1 203 702, troca as dezenas de milhar pelos milhares. A E, 1 237 200, desloca os algarismos finais. Gabarito: D.",
   "hash": "5a3283eebad8cef0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q177": {
+  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "dificuldade": 4,
   "explicacao": "A questão pede quantos dias faltam para o aluno completar pelo menos 272 exercícios. O número de exercícios por dia forma uma PA de razão 2. No 11º dia ele resolveu 22, então a₁₁ = a₁ + 10 × 2 = 22, o que dá a₁ = 2. A sequência é 2, 4, 6, ..., e a soma dos n primeiros termos é Sₙ = (2 + 2n)·n/2 = n(n + 1). Queremos n(n + 1) ≥ 272. Testando: 16 × 17 = 272. Logo, ele atinge a meta exatamente no 16º dia. Como já completou 11 dias, faltam 16 − 11 = 5 dias, alternativa A. Conferindo: até o 11º dia, S₁₁ = 11 × 12 = 132; nos dias 12 a 16 ele resolve 24 + 26 + 28 + 30 + 32 = 140; total 272. A alternativa B, 6, passaria da meta sem necessidade. A C, 9, não sai do cálculo. A D, 16, é o total de dias, não os dias restantes. A E, 20, não corresponde a nenhuma conta correta. Gabarito: A.",
   "hash": "e900499a653b37dc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q178": {
+  "assunto": "Trigonometria: máximo e mínimo, seno",
+  "dificuldade": 4,
   "explicacao": "A questão pede o máximo e o mínimo de Q(t) = 600/(6 + 4 sen(wt)). O seno varia entre −1 e 1, então o denominador 6 + 4 sen(wt) varia entre 6 − 4 = 2 e 6 + 4 = 10. Como o numerador 600 é fixo e positivo, Q é máximo quando o denominador é mínimo e mínimo quando o denominador é máximo. Máximo: 600 ÷ 2 = 300 toneladas. Mínimo: 600 ÷ 10 = 60 toneladas. A resposta é 300 e 60, alternativa D. A alternativa A, 600 e 100, considera o seno variando de forma errada, como denominador entre 1 e 6. A B, 600 e 150, também erra o intervalo do denominador. A C acerta o máximo, mas erra o mínimo. A E acerta o mínimo, mas usa 100 como máximo, dividindo 600 por 6, como se o seno fosse zero. Gabarito: D.",
   "hash": "893a309c7b0739c9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q179": {
+  "assunto": "Medidas de tendência central: média ponderada",
+  "dificuldade": 3,
   "explicacao": "A questão pede a média das notas diferentes de 10. Se 100 pessoas deram nota média 9,3, a soma de todas as notas é 100 × 9,3 = 930. As 64 notas 10 somam 640. Sobram 930 − 640 = 290 pontos, distribuídos entre 100 − 64 = 36 pessoas. A média dessas pessoas é 290 ÷ 36 ≈ 8,06, ou seja, cerca de 8,05, alternativa A. A alternativa B, 8,60, não sai das contas corretas. A C, 9,30, é a média geral, não a das demais notas. A D, 9,65, e a E, 9,75, são maiores que a média geral, o que é impossível, já que retirar as notas 10, as mais altas, só pode baixar a média. Gabarito: A.",
   "hash": "2c8470b9ef72c75b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q180": {
+  "assunto": "Grandezas e medidas: área de retângulos",
+  "dificuldade": 2,
   "explicacao": "A questão pede a economia semanal de água ao irrigar um campo com as dimensões mínimas, em vez das máximas. Pela figura, o comprimento vai de 90 a 120 m e a largura de 75 a 90 m. Campo máximo: 120 × 90 = 10 800 m². Campo mínimo: 90 × 75 = 6 750 m². Diferença: 10 800 − 6 750 = 4 050 m². Com 6 L por m² por dia, a economia diária é 4 050 × 6 = 24 300 L. Em uma semana: 24 300 × 7 = 170 100 L, alternativa C. A alternativa A, 24 300, é a economia de um único dia. A B, 64 800, é o gasto diário do campo máximo (10 800 × 6). A D, 283 500, é o gasto semanal do campo mínimo (6 750 × 6 × 7). A E, 453 600, é o gasto semanal do campo máximo (10 800 × 6 × 7). Gabarito: C.",
   "hash": "254b71de62be4274",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de carta, opinião",
+  "dificuldade": 3,
   "explicacao": "A questão pede a opinião do autor da carta sobre as escolhas de investimento dos governantes espanhóis. O texto começa lembrando a pergunta de um alemão em 1991: nem a próspera Alemanha se arriscaria a organizar Olimpíadas e Expo ao mesmo tempo, mas a Espanha fez isso. Depois o autor lista as grandes obras feitas desde então, como trens de alta velocidade, autopistas e metrô, e diz que muito dinheiro foi parar no bolso de construtoras, partidos e políticos. A frase-chave é \"yo no gasto lo que no tengo\": a Espanha gastou o que não tinha em infraestrutura, e por isso os políticos são responsáveis pela crise atual, que deve ser punida nas urnas. É exatamente o que diz a alternativa E. A alternativa A distorce o texto, pois a Alemanha apenas não quis fazer os dois eventos. A B iguala os países, mas o texto os contrasta. A C descreve as obras sem a crítica do autor. A D traz um dado verdadeiro sobre a Alemanha, mas não expressa a opinião sobre os investimentos espanhóis. Gabarito: E.",
   "hash": "0a18b8b2817dd5f6",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de letra de canção",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta qual é, segundo a letra de \"The war song\", a causa da guerra. A canção repete \"War war is stupid / And people are stupid\", ou seja, a guerra é uma estupidez porque as pessoas agem sem juízo. Em seguida aparece a explicação: \"People fill the world with narrow confidence\" (confiança estreita, mesquinha) e, sobretudo, \"What's mine is my own / I won't give it to you / No matter what you say\". Esses versos mostram o egoísmo, o individualismo de quem não divide nada. Juntando as duas ideias, a guerra resulta da insensatez humana (stupid) somada ao individualismo, como afirma a alternativa D. A alternativa A fala em luta pelo poder, tema que não aparece na letra. A B menciona falta de diálogo, que não é o foco. A C traz superpopulação e fome, ausentes do texto. A E confunde individualismo com inveja: os versos falam de não dar o que é seu, e não de desejar o que é do outro. Gabarito: D.",
   "hash": "745c59dc06fe2175",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de artigo",
+  "dificuldade": 3,
   "explicacao": "A questão quer saber o que o artigo propõe depois de comentar a presença do espanhol na África subsaariana. O texto explica que, como a Espanha não teve um império colonial contemporâneo na região, o espanhol é pouco conhecido ali, com exceção da Guiné Equatorial. Em contraste, a colonização portuguesa gerou cinco Estados oficialmente lusófonos. A proposta aparece na última frase: convém promover o espanhol nesses países a partir da afinidade com o português, língua já consolidada. Ou seja, o autor sugere levar o espanhol aos países africanos de língua portuguesa, como diz a alternativa A. A alternativa B erra porque a Guiné Equatorial é citada só como exceção. A C fala em substituir o português, o que o texto não propõe; ele usa o português como ponte. A D fala em fusão de línguas, ideia inexistente no artigo. A E inverte o foco, pois o objetivo é difundir o espanhol, não estudar o português africano. Gabarito: A.",
   "hash": "a63ed020a8fb1ace",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de texto informativo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o objetivo do movimento Slow Food. O texto diz que ele foi criado para combater o fast food e a vida acelerada, o desaparecimento das tradições alimentares locais e o desinteresse das pessoas pelo que comem: de onde vem, que gosto tem e como nossas escolhas alimentares afetam o resto do mundo. Acrescenta a valorização de produtos locais e da estação e o combate aos pesticidas e à engenharia genética. Há, portanto, dois eixos: o interesse pela alimentação e a preocupação com o impacto ambiental das escolhas, síntese que está na alternativa B. A alternativa A é radical demais, pois o movimento quer contrabalançar (counteract), não eliminar o fast food. A C contradiz o texto, que é contra pesticidas e alimentos transgênicos. A D erra porque o movimento valoriza o local, não a globalização das tradições. A E também erra: a ideia é preservar as culturas regionais, não transformá-las. Gabarito: B.",
   "hash": "792fcb2dc33a2d66",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de texto, identidade",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que o autor destaca ao ligar a melancolia à identidade dos sefarditas. O texto conta que os descendentes dos judeus expulsos da Espanha em 1492 ainda guardam as chaves das casas dos antepassados, continuam se chamando sefarditas (espanhóis) e mantêm o idioma sefardita e os costumes de origem. A última frase resume: na cozinha, no amor, nas festas e nas cerimônias religiosas, eles vivem a melancolia de ser espanhóis. Ou seja, a melancolia vem de conservar um modo de vida da nação de onde foram arrancados, o que corresponde à alternativa A. A alternativa B erra porque a língua preservada é o sefardita, de base espanhola, e não o hebraico. A C inventa uma lealdade às autoridades que os expulsaram. A D confunde: eles guardam as chaves, não as casas. A E fala em tradições impostas nas cidades de destino, quando o texto trata das tradições de origem. Gabarito: A.",
   "hash": "f2a6dc9d26c98519",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de notícia",
+  "dificuldade": 2,
   "explicacao": "A questão pede o tema do trecho do New York Times sobre o Japão em 2011. O texto afirma que o país ainda sofre com o terremoto e o tsunami de março de 2011 e com a crise nuclear e os vazamentos de radiação que eles provocaram. Depois comenta o abalo sobre uma nação já desgastada (economia estagnada, população envelhecendo, paralisia política), o longo processo de desmontagem da usina e os mais de 160 mil desalojados. O fio condutor é uma crise que atinge o país inteiro e que teve origem no abalo sísmico, como resume a alternativa C. A alternativa A erra, pois o texto não trata de mudanças no governo. A B exagera ao falar em devastação total do país. A D é apenas um detalhe e ainda distorce o texto, que fala da suspensão de ordens de evacuação. A E é contrariada pelo texto, que diz que para muitos a crise está longe de acabar e que a desmontagem levará décadas. Gabarito: C.",
   "hash": "c09ab9d4438cd7fc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de reportagem",
+  "dificuldade": 2,
   "explicacao": "A questão pede o motivo de Alberto ter abandonado o Facebook. No terceiro parágrafo, ele conta que brigou com um parente próximo e decidiu excluí-lo da lista de amigos. Na hora de fazer isso, porém, sentiu-se ridículo \"al reparar en lo enganchado que yo estaba a esa red\", isto é, ao perceber o quanto estava viciado na rede, e preferiu eliminar a si mesmo. A briga foi apenas o estopim; o motivo real foi a consciência da própria dependência, como diz a alternativa C. A alternativa A usa o dado dos 20 minutos, que é uma média geral por visita, e não algo ligado a Alberto. A B fala de perda de interesse pela rotina, o que não aparece no depoimento. A D associa o caso à exposição da intimidade familiar, mas a falta de privacidade é um motivo citado de forma geral, não por ele. A E erra porque Alberto continua em outras redes justamente por razões profissionais. Gabarito: C.",
   "hash": "db2d6732920e474b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q94-ing": {
+  "assunto": "Língua inglesa: tirinha, humor",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta de onde vem o humor da tira de Peanuts. Nos três primeiros quadros, Lucy mostra a Linus as folhas caindo, explica que isso acontece todo ano como um dos ciclos da natureza e diz que há uma lição a aprender, perguntando se ele sabe qual é. Espera-se uma reflexão sobre a vida, a passagem do tempo ou a renovação. No último quadro, Linus responde \"Don't be a leaf... be a tree!\" (não seja uma folha, seja uma árvore). A graça está nessa conclusão inesperada e prática: ele tira do ciclo natural uma lição só sua, a de ser quem fica de pé, e não quem cai. Ou seja, Linus interpreta o ciclo da natureza à sua própria maneira, como diz a alternativa A. A B erra porque a lição de moral pretendida por Lucy não chega a ser dada. A C não se sustenta, pois a expressão de Lucy é neutra. A D inventa um ciclo de dois anos, quando o texto diz \"every year\". A E exagera, já que Linus não ironiza a explicação, apenas a reinterpreta. Gabarito: A.",
   "hash": "572ad9d6b7a0d26c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de texto informativo",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que as rádios comunitárias argentinas fizeram na época do boom (1985 a 1990). O texto diz que quase 3 mil emissoras de baixa potência abriram os microfones a radialistas populares, aos vizinhos e às pessoas comuns, e influenciaram a programação comercial com novos formatos em que a opinião do cidadão tinha papel central, sem hierarquias nem condicionamentos. Isso fortaleceu o debate democrático. A ideia de novos formatos centrados na opinião pública corresponde à alternativa D, que fala em um novo paradigma centrado na opinião pública. A alternativa A troca abrir espaço para radialistas por gerar empregos, o que o texto não afirma. A B confunde baixa potência com baixo custo. A C erra porque a participação era na programação, não em comerciais. A E contradiz o texto, que destaca justamente a ausência de condicionamentos. Gabarito: D.",
   "hash": "125daee08d2d7c43",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q95-ing": {
+  "assunto": "Língua inglesa: intenção comunicativa de catálogo",
+  "dificuldade": 1,
   "explicacao": "A questão pede a intenção dos autores do catálogo sobre o Paraná. O texto apresenta números sobre a população e, em seguida, chama o estado de \"melting pot of several ethnic groups\" e \"land of all peoples\", listando imigrantes de várias origens: poloneses, italianos, ucranianos, japoneses, alemães, sírios, libaneses e outros. Afirma ainda que todos contribuíram para a língua, a literatura, as festas religiosas e a culinária, e que essa rica variedade étnica é cuidadosamente preservada, dando ao estado uma tipologia humana única. Tudo isso mostra a intenção de enfatizar a diversidade cultural paranaense, como diz a alternativa A. A alternativa B erra porque o texto não destaca culturas predominantes. A C fala em fragmentação, quando o texto descreve integração e preservação. A D contradiz a ideia de terra de todos os povos, sem hierarquia entre culturas. A E não procede, pois não há comparação com outros estados. Gabarito: A.",
   "hash": "0bee524104a3bc89",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q96": {
+  "assunto": "Figuras de linguagem: eufemismo",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta qual é o efeito do eufemismo \"ir ao teatro\" no trecho de Missa do galo. Eufemismo é a figura que troca uma expressão desagradável ou chocante por outra mais branda. No conto, Meneses diz que vai ao teatro, mas na verdade passa a noite com a amante, uma senhora separada do marido. A careta da sogra e o riso abafado das escravas mostram que todos em casa sabem do que se trata, e o narrador só entende depois. Ao dizer \"ir ao teatro\" em vez de \"ir encontrar a amante\", a expressão disfarça e suaviza o adultério, isto é, uma transgressão matrimonial, como afirma a alternativa E. A alternativa A erra porque eufemismo atenua, e quem exagera é a hipérbole. A B confunde com personificação, que não ocorre. A C inverte o sentido, pois o eufemismo esconde o sentido literal. A D é contrária ao texto, já que a expressão encobre justamente a quebra do compromisso. Gabarito: E.",
   "hash": "461c77e0b3fd2400",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q97": {
+  "assunto": "Literatura brasileira: intertextualidade, crítica ao consumo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o objetivo comum do anúncio Garoto propaganda e do poema Eu etiqueta. No poema de Drummond, o eu lírico enumera objetos pessoais cheios de marcas, que viram \"letras falantes\", \"gritos visuais\" e \"ordens de uso\", até concluir que se tornou \"homem-anúncio itinerante, / Escravo da matéria anunciada\". O tom é crítico e irônico: estar na moda significa perder a identidade e se submeter às marcas. O anúncio, pelo próprio título, trabalha a mesma ideia de pessoa transformada em propaganda ambulante. Os dois textos, portanto, levam o leitor a refletir criticamente sobre a sujeição imposta pelo mercado de consumo, como diz a alternativa A. A alternativa B reduz a crítica a um simples desagrado. A C erra porque não há descrição minuciosa do cotidiano desde o nascimento. A D inverte a visão, pois a moda aparece como escravidão, não como inserção social. A E fala em comparar etiquetas, quando o foco é criticar a dependência delas. Gabarito: A.",
   "hash": "f10c349cf8e58ff9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q98": {
+  "assunto": "Artes visuais: dadaísmo",
+  "dificuldade": 3,
   "explicacao": "A questão relaciona a obra O gigante acéfalo, de Max Ernst, ao Dadaísmo. O enunciado lembra que o movimento nasceu do choque com a Primeira Guerra Mundial e rejeitava os valores tradicionais e a estética clássica. Os dadaístas montavam imagens absurdas e ilógicas, muitas vezes com colagens e fragmentos, para recriar a realidade de forma desconcertante. Um gigante sem cabeça já anuncia isso: uma figura deformada, que nega as proporções e a harmonia exigidas pela arte acadêmica. A obra recria o real para atacar os padrões estéticos vigentes, como afirma a alternativa B. A alternativa A erra porque o Dadaísmo não busca explicar a racionalidade, mas expor o absurdo. A C descreve melhor o Cubismo ou o abstracionismo geométrico. A D fala em exaltação individual, o oposto da perplexidade dadaísta. A E tem um tom sentimental que não combina com a ironia e a provocação do movimento. Gabarito: B.",
   "hash": "778ddd1273b33fd2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q99": {
+  "assunto": "Literatura brasileira: literatura de cordel",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que a leitura do texto sobre o cordel permite. O autor reconhece que muitos ainda o consideram literatura menor, mas defende que ele exprime a história, os sentimentos, os costumes e os sonhos do povo nordestino. Mostra também que cordéis e cantorias tiveram funções educativas, sanitárias e até políticas, e conclui que, assim, foi se formando a memória coletiva desse povo. O texto, portanto, ressalta a importância do cordel e sua ligação com a preservação da memória cultural, como diz a alternativa C. A alternativa A erra pelo \"exclusivamente\", já que a função política é só uma entre várias. A B também exagera ao dizer que o cordel é a única forma de expressão do nordestino, e o próprio texto cita o repente e a xilogravura. A D fala do custo dos folhetos, assunto ausente. A E contradiz o texto, que rebate justamente a ideia de baixo valor literário. Gabarito: C.",
   "hash": "c9872336ebf8e16a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
