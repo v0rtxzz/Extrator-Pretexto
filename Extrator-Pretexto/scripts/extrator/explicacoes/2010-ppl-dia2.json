@@ -1,0 +1,177 @@
+{
+ "enem-2010-ppl-d2-q100": {
+  "assunto": "Literatura portuguesa: lírica camoniana, intertextualidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a temática comum entre os fragmentos de Hilda Hilst e de Camões. No Texto I, o eu lírico ouve que não podia odiar nem temer o outro “porque tu eras eu”, e conclui que seria como odiar e temer a si mesma: o outro e o eu se tornam um só. No Texto II, Camões afirma que “transforma-se o amador na cousa amada”, de tanto imaginar, e por isso o amante nada mais deseja, “pois em mim tenho a parte desejada”. Em ambos, portanto, o ser amado passa a habitar o próprio eu lírico, numa fusão de dois seres em um, como diz a alternativa A. A alternativa B é errada porque Hilda Hilst nega o ódio a si mesma; o verso diz justamente que não seria possível odiar. A C inventa uma resistência do ser amado em Camões. A D afirma dissociação, o oposto da fusão presente nos textos. A E erra ao dizer que o Texto I trata do ódio, quando ele trata da impossibilidade de odiar o outro, que é parte do eu. Gabarito: A.",
+  "hash": "7da3c5551bf8e362",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q101": {
+  "assunto": "Interpretação de texto: oralidade e escrita",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o texto, uma história em quadrinhos de Caco Xavier, mostra sobre a relação entre oralidade e escrita. Os quadros superiores informam que Buda não escreveu nenhuma palavra, Sócrates nenhum livro e Cristo nenhuma frase. Os inferiores mostram que os discípulos de Buda registraram seus sermões em sutras, Platão divulgou as palavras de Sócrates em diálogos e os apóstolos escreveram os Evangelhos e cartas, e assim surgiram o budismo, a filosofia ocidental e o cristianismo. A conclusão é que a escrita registrou ensinamentos que eram orais e permitiu que se espalhassem e durassem por séculos, como afirma a alternativa B. A alternativa A é errada porque a tirinha não sugere que os registros modificaram as ideias originais. A C atribui uma superioridade da escrita que o texto não afirma; os mestres eram figuras orais de enorme importância. A D é falsa, pois nada indica descrédito da oralidade. A E contradiz a tira, que mostra a escrita posterior às falas. Gabarito: B.",
+  "hash": "aec16b13b2b9dc88",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q102": {
+  "assunto": "Publicidade e linguagem midiática: persuasão",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo predominante da peça publicitária, considerando a organização das informações. O anúncio divide a página em duas colunas: “Este é o Leco”, um cachorro que tem três refeições diárias, consultas regulares, lugar quente para dormir, carinho e alguém que se preocupa com ele; e “Este é o João”, um menino cuja coluna está praticamente vazia, apenas com “Ele tem 4 anos de idade”. O contraste choca o leitor e prepara o apelo final, no imperativo: “Apadrinhe. [...] Seja o melhor amigo de uma criança”. A organização em oposição e o verbo no imperativo mostram que o foco é convencer o leitor a aderir à causa do apadrinhamento, como afirma a alternativa A (função conativa). A alternativa B descreve a função fática, de testar o canal, o que não ocorre. A C limita o anúncio a informar, mas os dados servem para persuadir. A D corresponde à função emotiva, centrada no emissor, e não no destinatário. A E é errada porque a estética está a serviço do conteúdo. Gabarito: A.",
+  "hash": "070743e0f7126da9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q103": {
+  "assunto": "Variação linguística: formação histórica do português brasileiro",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que condicionou a formação da língua geral e de suas duas variedades no Brasil colonial. O texto explica que os missionários aprendiam as línguas indígenas para catequizar, que as línguas se influenciaram e que surgiu uma língua geral, “desdobrada em duas variedades: o abanheenga, ao sul, e o nheengatu, ao norte”. A divisão entre sul e norte indica que as variedades acompanharam a maneira como as línguas indígenas, de base tupi, já estavam distribuídas pelo território antes da chegada dos portugueses. Por isso a alternativa E afirma que a formação foi condicionada pela distribuição espacial anterior dessas línguas. A alternativa A inverte o interesse: eram os portugueses que queriam cristianizar os índios. A B é errada porque os portugueses não pretendiam aprimorar o saber linguístico indígena, e sim usá-lo para catequizar e explorar. A C atribui aos índios uma percepção de inferioridade de suas línguas, sem apoio no texto. A D contradiz o texto, pois quem aprendia as línguas nativas eram os missionários. Gabarito: E.",
+  "hash": "5016dee3c8eaf049",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q104": {
+  "assunto": "Tecnologias da informação e comunicação: internet e comunicação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede de onde resultam as transformações na comunicação humana trazidas pela Internet, segundo o texto de Castells. O autor compara dois marcos: o alfabeto grego, que preencheu a lacuna entre discurso oral e escrito, e as tecnologias eletrônicas, cujos textos permitem flexibilidade, feedback, interação e reconfiguração muito maiores, alterando o próprio processo de comunicação. Na Internet, escrita, fala, som e imagem convivem no mesmo ambiente e circulam instantaneamente por todo o planeta, rompendo barreiras de tempo e espaço. É o que afirma a alternativa C: a quebra das fronteiras do tempo e do espaço na integração das modalidades escrita, oral e audiovisual. A alternativa A fala da mídia impressa, que é muito anterior à Internet. A B sustenta um esvaziamento da cultura alfabetizada, o que o texto não afirma; a escrita continua presente no meio eletrônico. A D atribui a mudança à TV e ao rádio, que não são o foco. A E refere-se à mídia impressa e à informação visual, sem relação com a interatividade da rede. Gabarito: C.",
+  "hash": "1e1f810d1415e3f8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q105": {
+  "assunto": "Gêneros textuais: currículo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em que parte do currículo deve entrar o prêmio “Aluno Destaque do Ensino Médio – Menção Honrosa”. É preciso conhecer a função de cada seção do modelo. Identificação pessoal reúne nome, estado civil, endereço e contatos. Formação lista os cursos regulares concluídos, como ensino médio ou graduação. Experiência profissional registra empregos, cargos e atividades. Qualificação profissional traz cursos complementares ligados à atuação no trabalho. Já Informações adicionais é o espaço para dados relevantes que não se encaixam nas demais seções, como prêmios, distinções, trabalho voluntário e idiomas. Uma menção honrosa escolar é um reconhecimento, não um curso nem um emprego, por isso deve ir para Informações adicionais, alternativa D. A alternativa A é errada porque o prêmio não identifica o candidato. A B é um distrator, mas a seção registra a escolaridade, não premiações. A C trata de trabalho, e o prêmio não é experiência profissional. A E se refere a cursos de capacitação, e não a honrarias. Gabarito: D.",
+  "hash": "d5b9bb902bb84fe2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q106": {
+  "assunto": "Publicidade e linguagem midiática: campanha institucional",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o principal objetivo da propaganda sobre a dengue. O anúncio começa com “Você sabe que dengue mata. Você sabe como combater. Então você já sabe o que fazer depois de ler a revista”, e segue: “Mobilize sua família e seus vizinhos. Esta luta é de todos nós”. O selo “Brasil unido contra a dengue” e as ilustrações com ações práticas, como tampar tonéis, encher pratinhos de areia, fechar a caixa d'água e não deixar água acumulada, mostram que o foco é levar o leitor a agir contra os criadouros do mosquito. Assim, a alternativa B, convencer as pessoas a se mobilizarem para eliminar os agentes causadores da doença, traduz a intenção central. A alternativa A é errada porque o texto parte justamente do pressuposto de que o leitor já sabe como combater. A C fala do caráter institucional, que é característica, e não objetivo, do anúncio. A D reduz o texto a informar, quando ele quer mobilizar. A E destaca a orientação sobre sintomas, que é secundária, no rodapé. Gabarito: B.",
+  "hash": "e242f7b9a023c212",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q107": {
+  "assunto": "Literatura brasileira: Romantismo, nacionalismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em que característica romântica, entre as apontadas por Massaud Moisés no Texto II, se centra o poema de Casimiro de Abreu. O Texto II lista os traços do Romantismo: o “eu”, a anarquia, o liberalismo, o sentimentalismo e o nacionalismo. No Texto I, o eu lírico, longe da terra natal e temendo morrer jovem, pede a Deus que o deixe ouvir o sabiá na laranjeira, rever os “sítios gentis” onde brincava na infância e ver “o céu de meu Brasil”. Há, portanto, exaltação da pátria intensificada pela distância e pela saudade da paisagem da infância, o que corresponde ao nacionalismo saudosista da alternativa B. A alternativa A inverte o sentido: estar longe do Brasil é sofrimento, não bem-estar. A C erra ao falar em versos sem métrica rigorosa, pois o poema é metrificado e rimado. A D atribui ao poema negação do passado, quando ele o idealiza. A E troca as emoções: a tristeza está no presente e a alegria está na infância lembrada. Gabarito: B.",
+  "hash": "c6c0681927989cac",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q108": {
+  "assunto": "Artes visuais: arte popular, artesanato",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a visão sobre artesanato e arte popular coerente com uma tendência inclusiva da relação entre arte e educação. O texto questiona onde ficam artistas e artesãos, grupos sem reconhecimento formal, vistos sob perspectivas polarizadas entre artesanato, cultura erudita e cultura popular. Uma postura inclusiva rompe essa hierarquia e reconhece que o artista popular e o artesão produzem conhecimento e expressam, em seu trabalho, valores, técnicas e modos de vida de sua comunidade. É o que afirma a alternativa C: eles são portadores de saber cultural capazes de exprimir determinada formação cultural. A alternativa A é errada porque trata o artesanato como algo estático e condenado, visão excludente. A B é preconceituosa ao negar capacidade intelectual a quem não domina a leitura. A D inventa normas rígidas aprendidas em escolas preparatórias, o que não caracteriza o saber popular, geralmente transmitido pela tradição. A E limita o alcance cultural do artesanato, contrariando a perspectiva inclusiva. Gabarito: C.",
+  "hash": "d0b07cf31cefd069",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q109": {
+  "assunto": "Coesão e coerência: coesão referencial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a que termo se refere a palavra “lá” no trecho “Mas lá, como aqui, o reality gera controvérsia”. Trata-se de um advérbio de lugar usado como elemento de coesão referencial: ele retoma um lugar já citado. O parágrafo anterior fala do “mundo árabe”, onde o programa The Millions' Poet é exibido pela Abu Dhabi TV e lidera a audiência no golfo pérsico. Logo depois, o texto contrapõe “lá” e “aqui”: “aqui” é o Brasil, onde existe o BBB, e “lá” é o mundo árabe, onde há o programa de poetas. A frase seguinte confirma isso ao citar a polêmica do BBB e a discussão sobre direitos da mulher no mundo árabe. Portanto, a alternativa C está correta. A alternativa A e a B apontam pessoas (o vencedor, o poeta), mas “lá” se refere a lugar. A D confunde “lá” com “aqui”, que é o termo que remete ao Brasil. A E aponta o programa, e não um local. Gabarito: C.",
+  "hash": "06b539cfa9e46582",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q110": {
+  "assunto": "Variação linguística: registro formal e informal",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que a tirinha de Calvin e Haroldo rompe a expectativa do leitor. Nos três primeiros quadros, Calvin apresenta sua escultura de neve com vocabulário típico da crítica de arte: diz ter entrado na “fase abstracionista”, que a peça retrata “a impossibilidade da imagem tradicional de expressar algum sentido no mundo de hoje” e que, abandonando a representação, se expressa pela “forma pura” e por uma “forma mais visceral”. No último quadro, Haroldo observa que a obra é monocromática, e Calvin responde, de modo simples e coloquial: “Ah, qual é! É só neve”. O humor nasce da quebra brusca de registro: depois de tanto jargão especializado, Calvin abandona a pose de artista e usa linguagem informal, como afirma a alternativa D. A alternativa A é errada porque a última fala é informal, não formal. A B inverte os papéis, já que Haroldo não imita o discurso de Calvin. A C é falsa, pois quadrinhos admitem qualquer registro. A E não se sustenta: Haroldo entende e até usa o termo “monocromática”. Gabarito: D.",
+  "hash": "ab33e462972e360f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de texto informativo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede que se identifique a que estão associados o comportamento e os passos do homem e da mulher na cueca, dança nacional do Chile. A resposta está no segundo parágrafo do texto: segundo alguns folcloristas, a coreografia tem explicação zoomórfica, pois vem de “clueca”, termo que se refere aos movimentos da galinha (“polla”) quando é cortejada pelo galo (“gallo”). Por isso o homem imita a roda e o entusiasmo do galo em sua conquista amorosa, enquanto a mulher adota postura defensiva e esquiva. Ou seja, os papéis dos dois dançarinos reproduzem o cortejo entre galo e galinha, como afirma a alternativa C. A alternativa A cita apenas um detalhe do papel feminino, não a origem do comportamento de ambos. A B confunde: a origem espanhola é só uma das hipóteses sobre a história da dança, e o texto diz que ela não está claramente definida. A D menciona só o entusiasmo masculino, que é consequência da imitação do galo. A E fala de nacionalismo, ideia ausente da explicação sobre os passos. Gabarito: C.",
+  "hash": "9f6a90ff65fa8c92",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de reportagem",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a causa da crise da indústria fonográfica apontada pelo texto da revista Speak Up. O primeiro parágrafo é decisivo: a indústria está em crise, com demissões contínuas, “because CD sales are plummeting as youngsters prefer to download their music from the Internet, usually free of charge”. Ou seja, as vendas de CDs despencam porque os jovens preferem baixar músicas pela Internet, geralmente sem pagar. É exatamente o que diz a alternativa B: o acesso a músicas, geralmente sem custo, pela Internet. A alternativa A é errada porque o texto não fala em desinteresse dos jovens por gêneros musicais, e sim em mudança na forma de consumo. A C inverte o sentido: a compilação de álbuns étnicos é justamente o que faz a Putumayo crescer, não uma causa de crise. A D inventa a ausência de artistas populares, que não é mencionada. A E distorce o texto: os artistas desconhecidos aparecem como trunfo da Putumayo, não como causa de crise. Gabarito: B.",
+  "hash": "3920c3234f93f770",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q92-esp": {
+  "assunto": "Língua espanhola: tema e palavras-chave",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tema do texto sobre a votação eletrônica no Brasil e as palavras-chave que o confirmam. O texto descreve a “urna electrónica con teclado numérico para la emisión del voto”, seus “botones especiales”, suas características físicas e destaca que o sistema brasileiro unifica, na mesma máquina, a identificação do eleitor (“elector”), a emissão e a apuração do voto. O título da fonte, “Voto electrónico en Brasil”, reforça o foco. Assim, o tema é o sistema brasileiro de votação eletrônica, e as palavras urna, teclado, voto, botones e elector são as que melhor o sustentam, como na alternativa D. A alternativa A reduz o texto à funcionalidade genérica de computadores, sem considerar o voto. A B fala de evolução das máquinas modernas, assunto que o texto não desenvolve. A C destaca a segurança da informação, que é só uma das características citadas. A E trata de linguagem matemática, relação sem qualquer apoio no texto, já que “numérico” apenas qualifica o teclado. Gabarito: D.",
+  "hash": "820619425cd9e971",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de texto informativo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a informação quantificada que o texto dá sobre as cáries nos molares dos seis anos. O trecho relevante é: “Over 25% of 6 to 7 year old children have beginning cavities in one of the molars”. A expressão “over 25%” significa “mais de 25%”, e “6 to 7 year old children” corresponde a crianças entre seis e sete anos. Portanto, as cáries iniciais nesses dentes ocorrem em mais de 25% das crianças dessa faixa etária, como afirma a alternativa A. A alternativa B troca “over” (mais de) por “menos de”, invertendo o sentido. A C fala em pequena minoria, o que contradiz a ideia de mais de um quarto das crianças. A D erra a faixa etária, pois o texto trata de crianças de 6 a 7 anos, não acima de 7. A E inventa um prazo de dezenas de anos, informação que não aparece no texto; ao contrário, ele alerta para cáries já na infância. Gabarito: A.",
+  "hash": "2df5e9e7e617c5be",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q93-esp": {
+  "assunto": "Língua espanhola: humor em tirinha",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em que momento a tira de Nik atinge o clímax do humor. Na tirinha, Gaturro conta a Ágatha que vive um “tórrido romance” com a professora Ruda Vinagretti. Ágatha pergunta se a professora sabe disso, e ele explica: todos os dias manda uma carta de amor e ela a devolve “con marcas de rouge”, isto é, com marcas de batom. No último quadro, Ágatha desfaz a ilusão: “¡¡Son los errores de ortografía corregidos en rojo!!”. As marcas vermelhas não são beijos, mas correções de ortografia. O humor nasce justamente dessa quebra de expectativa: Ágatha desconstrói a interpretação romântica de Gaturro sobre as intenções da professora, como diz a alternativa D. A alternativa A é errada porque o primeiro quadro só apresenta a situação, sem o desfecho cômico. A B destaca a entonação de Gaturro, que não é o clímax. A C erra porque não é a professora que interpreta mal, e sim Gaturro. A E não se sustenta, pois Ágatha participa ativamente e é ela quem produz a revelação final. Gabarito: D.",
+  "hash": "6a3c97dd797ac6ba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de texto informativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como o rap brasileiro é caracterizado no texto. O primeiro parágrafo define o hip hop em geral; o segundo trata do Brasil. Ali se lê que o rap brasileiro “has served as a reflection of political, social, and racial issues plaguing the disenfranchised youth in the suburbs of São Paulo and Rio”, ou seja, funciona como reflexo de questões políticas, sociais e raciais que afligem os jovens marginalizados das periferias. Também se diz que letras e nomes de bandas e músicas remetem às questões sociopolíticas dessas comunidades. Logo, o rap é um instrumento de reflexão crítica do jovem da periferia, como afirma a alternativa B. A alternativa A distorce: o estilo internacional aparece em alguns grupos, mas os nomes de bandas e músicas remetem às questões locais. A C fala de irreverência e vestimentas, assunto ausente. A D atribui ao rap menor prestígio, ideia que o texto não traz; ao contrário, a cena brasileira é apontada como uma das principais do mundo. A E remete aos primeiros adeptos, tema do Bronx, não do Brasil. Gabarito: B.",
+  "hash": "dc7230b1461af6a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede os fatos que, segundo o fragmento, atestam a vitória na tourada de Ubrique. O texto informa que Jesulín, toureiro natural da cidade, foi “profeta en su tierra” numa tarde triunfal, “con un resultado de tres orejas y salida por la puerta grande”. Na tradição taurina, o toureiro recebe orelhas do touro como prêmio pelo bom desempenho, e sair pela porta grande (o portão principal) é a consagração máxima. O próprio título reforça: os toureiros saíram “a hombros por la puerta grande”. Assim, a alternativa D, que cita o acúmulo de orelhas e a saída pelo portão principal, reúne os indicadores de vitória. A alternativa A menciona abraço do adversário, que não aparece. A B cita a hospedagem no hotel, mero detalhe do ambiente, e uma família real inexistente no texto. A C fala de fã-clubes e títulos de nobreza, sem apoio no fragmento. A E aponta curiosos e o apreço de uma mulher rica, que descrevem o clima do evento, mas não comprovam o triunfo. Gabarito: D.",
+  "hash": "997f6999abdcfd77",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de poema",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que é revelado à pessoa na letra de Crystal Ball. O vidente oferece, por 25 centavos, ver a vida do cliente na bola de cristal e “adivinha” tudo o que ele comeu no almoço: salada de atum, purê de batatas, couve, sopa de ervilha, suco de maçã, leite achocolatado e mousse de limão. Na última estrofe, ele confessa que não descobriu isso olhando a bola, “But just by looking at your dress”, ou seja, apenas olhando a roupa da pessoa. Se o cardápio inteiro está visível na roupa, é porque a pessoa se sujou durante o almoço, como afirma a alternativa C. O humor está na quebra da expectativa: em vez de prever o futuro, o vidente lê manchas de comida. A alternativa A não tem apoio, pois não há boa notícia. A B confunde “crystal ball” com colar de pedras. A D toma “dress” como compra de vestidos, o que o texto não sugere. A E distorce os “twenty-five cents”, que são o preço da consulta, não uma moeda achada. Gabarito: C.",
+  "hash": "c24431e782c31e53",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de texto turístico",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quais aspectos, além da língua e da literatura, fazem parte do roteiro “Camino de la lengua”. O primeiro parágrafo trata do tema original: as Glosas Emilianenses, a gramática de Nebrija e escritores como Cervantes e Unamuno. Em seguida, o texto avisa que a literatura “no es el único atractivo” e descreve: “Nuestra ruta está llena de palacios, conventos, teatros y restaurantes. La riqueza gastronómica de esta región es algo que el viajero debe tener muy en cuenta”. Palácios, conventos e teatros remetem à arquitetura; restaurantes e riqueza gastronômica remetem à culinária. Por isso, a alternativa E, aspectos arquitetônicos e gastronômicos, está correta. A alternativa A fala em aspectos místicos, que o texto não menciona. A B cita aspectos educacionais, que não são o atrativo extra apresentado. A C propõe enriquecimento, confundindo a palavra “riqueza”, que se refere à gastronomia. A D menciona conflito religioso, embora conventos apareçam apenas como construções a visitar. Gabarito: E.",
+  "hash": "eba36a42caa3791c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q95-ing": {
+  "assunto": "Língua inglesa: ironia em cartum",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a postura do autor do cartum ao descrever os recursos de um celular. O título “This gadget is everything I have ever wanted” parece elogio, mas cada legenda revela o contrário: telefone “so that annoying callers can bother me at any time”; editor de texto para que o trabalho inacabado esteja sempre com ele; mecanismo dobrável para que o aparelho tenha um lugar natural para quebrar; teclas minúsculas que causam lesão por esforço repetitivo; fones que o fazem parecer um idiota e incomodar os outros. Essa contradição entre o elogio aparente e as críticas constitui sarcasmo, como afirma a alternativa B. A alternativa A é errada porque o flip é apresentado como ponto de quebra, não como proteção. A C ignora que as teclas pequenas são criticadas por causar lesões. A D toma ao pé da letra a ironia sobre ligações chatas a qualquer hora. A E desconsidera que ter o trabalho inacabado sempre junto é apresentado como incômodo. Gabarito: B.",
+  "hash": "5d54b2cea9e8ab3f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q96": {
+  "assunto": "Educação física: salto, fases do movimento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a afirmação correta sobre o salto, movimento presente no cotidiano, nas artes, nas lutas e nos esportes, ilustrado por três figuras em situações diferentes. Do ponto de vista da educação física, saltar é perder momentaneamente o contato dos pés com o solo, e todo salto se organiza em fases: a impulsão (quando o corpo aplica força contra o chão e é projetado), o voo (fase aérea) e a queda ou aterrissagem (retomada do contato com o solo). É o que diz a alternativa E. A alternativa A é errada porque o salto pode ser em várias direções, e é a impulsão que determina quanto tempo o corpo fica no ar. A B inverte a ordem: o impulso acontece antes do voo, a partir do apoio no solo, e não é dado só pelos braços. A C ignora que o tempo de voo varia conforme a modalidade e a força aplicada. A D é errada porque nem todo salto exige corrida prévia e todo salto depende de um apoio para impulsionar. Gabarito: E.",
+  "hash": "748162b1c475c2d8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q97": {
+  "assunto": "Argumentação: estratégias argumentativas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia argumentativa presente no fragmento sobre o computador. O texto reúne falas de pessoas diferentes: um jornalista diz que a humanidade viveu milênios sem computador; um escritor afirma preferir a máquina de escrever ou a mão; um profissional liberal reconhece que o computador mudou a carreira de todos; um professor diz que nenhuma disciplina hoje se concebe sem ele; e, para um físico, ele é imprescindível na investigação subatômica. Essas posições são contrastantes: as duas primeiras relativizam a importância do computador, e as demais o consideram essencial. Ao colocá-las lado a lado, o texto confronta pontos de vista, como afirma a alternativa C. A alternativa A é errada porque não se comparam elementos entre si, e sim opiniões divergentes. A B e a D falam de reduplicação e repetição, mas cada voz traz informação nova. A E, citação de autoridade, é um distrator forte, porém as pessoas não são citadas para validar uma única tese, e sim para mostrar visões diferentes. Gabarito: C.",
+  "hash": "9d8e243100dc0997",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q98": {
+  "assunto": "Literatura brasileira: poesia marginal",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que a produção da geração de 1970, a chamada poesia marginal, valoriza, tendo como exemplo o poema “Reclame”, de Chacal. Essa geração, ligada à contracultura, produzia poemas curtos, coloquiais, muitas vezes rodados em mimeógrafo, com humor, ironia e experimentação. No poema, Chacal imita um anúncio de ótica (“ótica olho vivo / agradece a preferência”), mas subverte o gênero: a sugestão “use lentes / ... ou transforme o mundo” mistura propaganda e engajamento, num tom brincalhão. Assim, a alternativa A, que fala em experimentalismo em versos curtos e tom jocoso, sintetiza essas marcas. A alternativa B é um distrator forte, mas o poema usa a linguagem publicitária para ironizá-la, não para valorizar a sociedade de consumo. A C descreve a poesia concreta, que privilegiava a forma, o que não é o caso. A D remete aos neossimbolistas, movimento sem relação com a geração mimeógrafo. A E erra porque os versos são livres, sem uniformidade métrica. Gabarito: A.",
+  "hash": "bd5dcb3ff84adc23",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2010-ppl-d2-q99": {
+  "assunto": "Gêneros textuais: tipologia descritiva",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tipo de sequência textual predominante no trecho de Murilo Mendes sobre a prima Julieta. O texto se dedica a caracterizar a personagem: ela “irradiava um fascínio singular”, “era a feminilidade em pessoa”, caminhava “em ritmo lento, agitando a cabeça para trás, remando os belos braços brancos”, tinha cabeleira loura com reflexos metálicos, ancas poderosas, olhos verde-azulados que “borboleteavam” e voz rouca e ácida. São traços visuais, auditivos e de movimento, percebidos pelo narrador desde menino. Construir a imagem de alguém por meio de características captadas pelos sentidos é o que define a sequência descritiva, como afirma a alternativa D. A alternativa A é errada porque as informações são subjetivas, cheias de impressões, e não explicativas. A B não se aplica, pois não há instruções. A C erra porque não há sucessão de acontecimentos no tempo; a menção ao primeiro encontro apenas situa a descrição. A E é falsa, pois o narrador não defende uma tese para convencer o leitor. Gabarito: D.",
+  "hash": "3700531398ad8c91",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
