@@ -173,5 +173,180 @@
   "explicacao": "A questão pede como Platão se posiciona, segundo o texto, diante da relação entre razão e sensação. O fragmento diz que Platão herdou de Parmênides a ideia de que o objeto de conhecimento é um objeto da razão, e não da sensação, e que era preciso privilegiar o racional em detrimento do sensível. Na Doutrina das Ideias, o mundo sensível oferece apenas opinião (dóxa), mutável e imperfeita, enquanto o verdadeiro conhecimento (epistéme) vem do intelecto que alcança as Ideias. Por isso a alternativa D está correta: a razão gera conhecimento, a sensação não. A alternativa A exagera, pois o texto fala em estabelecer uma relação entre os dois planos, não em abismo intransponível. A B inverte a hierarquia platônica. A C atribui a Parmênides uma inseparabilidade que o texto não menciona. A E erra ao dizer que Parmênides considerava a sensação superior, quando ele privilegiava a razão. Gabarito: D.",
   "hash": "00ddcbbfb444f87c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q26": {
+  "assunto": "Energia: combustíveis fósseis, transportes",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um impacto ambiental da tecnologia predominante nos transportes, o motor a combustão movido a derivados de petróleo, e uma medida para reduzir seu uso. A queima de gasolina e diesel libera grandes quantidades de dióxido de carbono, gás que intensifica o efeito estufa e contribui para o aquecimento global, cuja consequência inclui o derretimento das calotas polares. Para reduzir o uso desses motores, a medida mais eficaz é incentivar transportes de massa, como metrôs, trens e ônibus, que levam muitas pessoas consumindo menos combustível por passageiro. Por isso a alternativa C está correta. A alternativa A propõe barreiras acústicas, que reduzem o ruído, mas não o uso do motor. A B associa a chuva ácida à estatização da indústria automobilística, medida que não reduz o consumo. A D trata de remediar doenças com remédios, sem diminuir o uso da tecnologia. A E cita um impacto real, mas a criminalização da emissão de CO₂ é medida inviável e desproporcional. Gabarito: C.",
+  "hash": "dc60db45d32e8254",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q27": {
+  "assunto": "Espaço agrário: quebradeiras de coco, conflitos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a origem da organização do movimento das quebradeiras de coco-babaçu. O texto afirma que essas mulheres vivem em situação de exclusão e se organizam em luta pela conquista da terra, pela libertação dos babaçuais e pela autonomia produtiva, tendo como referência o acesso tradicional aos recursos naturais. A expressão babaçu livre remete ao fato de que muitos babaçuais ficaram dentro de fazendas cercadas, e os proprietários passaram a impedir a entrada das quebradeiras ou a cobrar pelo coco. Por isso a alternativa E está correta. A alternativa A fala de violência e homicídios, fatores não apontados no texto como causa do movimento. A B contradiz o texto, que destaca justamente a construção de uma identidade coletiva. A C menciona escassez de água por açudes, tema ausente. A D cita o avanço da soja, que não é a causa apresentada no fragmento. Gabarito: E.",
+  "hash": "4cdb3de820e52c0e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q28": {
+  "assunto": "Filosofia antiga: pré-socráticos, arché",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ponto em comum entre as explicações de Anaxímenes e de Basílio Magno sobre a origem do universo. Anaxímenes, filósofo pré-socrático, afirma que o ar é o elemento originário de tudo, e que as demais coisas surgem de sua rarefação e condensação. Basílio, filósofo cristão medieval, critica os jônios e Demócrito e afirma que Deus é o princípio de todas as coisas. Apesar das diferenças, ambos buscam um princípio originário, uma arché, que explique a existência do mundo. Por isso a alternativa D está correta. A alternativa A não serve para Basílio, cuja tese é teológica. A B não se aplica a Anaxímenes, que não refutava filósofos da religião. A C erra porque a filosofia pré-socrática surge justamente como rompimento com explicações míticas. A E vale apenas para Basílio, não para Anaxímenes. Gabarito: D.",
+  "hash": "de6cc5f215ac387a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q29": {
+  "assunto": "Geologia e relevo: tectonismo, terremotos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em que áreas os terremotos afetam mais intensamente as populações. Abalos sísmicos ocorrem quando a tensão acumulada nas rochas, principalmente nos limites entre placas tectônicas e em falhas geológicas, é liberada de forma brusca, propagando ondas que fazem o solo vibrar. Assim, as populações mais expostas vivem perto das zonas onde essa tensão geológica é aliviada, como o Círculo de Fogo do Pacífico, o Japão, o Chile e a região do Himalaia. Por isso a alternativa A está correta. A alternativa B trata da erosão superficial, processo externo e lento que não gera tremores. A C cita o intemperismo químico, que decompõe rochas sem provocar abalos. A D fala de aquíferos profundos, reservatórios de água sem relação direta com sismos. A E menciona depósitos sedimentares, ligados a processos exógenos de acumulação, não à liberação de energia interna. Gabarito: A.",
+  "hash": "731f36d9e7b4882e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q30": {
+  "assunto": "Filosofia moderna: racionalismo e empirismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a comparação entre as posições de Descartes e Hume sobre o conhecimento. Descartes, racionalista, afirma que os sentidos já o enganaram e que é prudente não confiar neles; o conhecimento seguro deve vir da razão. Hume, empirista, propõe que toda ideia legítima deve derivar de uma impressão sensorial; se não houver impressão correspondente, a ideia carece de significado. Assim, os sentidos ocupam lugares opostos: para um, são fonte de dúvida; para o outro, são a origem do conhecimento. Por isso a alternativa E está correta. A alternativa A vale apenas para Hume. A B contradiz Hume, que propõe justamente suspeitar das ideias. A C erra porque o criticismo é a corrente de Kant, posterior e distinta dos dois. A D atribui a ambos um ceticismo radical que nenhum dos trechos sustenta. Gabarito: E.",
+  "hash": "b599a2d9fbbfb578",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q31": {
+  "assunto": "Filosofia política: Maquiavel, humanismo renascentista",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como o trecho de O Príncipe revela a ligação de Maquiavel com o humanismo renascentista. O autor reconhece a opinião de que os acontecimentos dependem de Deus e do acaso, mas afirma que a fortuna decide apenas metade de nossos atos, cabendo ao livre-arbítrio o controle da outra metade. Ao valorizar a capacidade humana de agir e interferir na história, Maquiavel expressa a confiança renascentista na razão e na ação autônoma do homem, que se torna centro das explicações. Por isso a alternativa C está correta. A alternativa A inverte o sentido, pois o texto relativiza a interferência divina. A B exagera, já que o autor admite a influência do acaso em metade dos atos. A D erra porque os humanistas valorizavam o passado clássico como fonte de aprendizado. A E fala em unidade entre fé e razão, ideia mais próxima da escolástica medieval. Gabarito: C.",
+  "hash": "8ba274fe7d524201",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q32": {
+  "assunto": "Clima: vulnerabilidade climática, sociedade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quando uma sociedade se torna mais vulnerável às variações climáticas, entendendo vulnerabilidade como a suscetibilidade de sofrer por causas climáticas. As atividades do setor primário, como agricultura, pecuária e pesca, dependem diretamente de chuva, temperatura e regularidade das estações. Uma seca, uma geada ou uma enchente podem destruir safras e rebanhos, afetando renda e abastecimento. Logo, sociedades com economia concentrada nesse setor ficam mais expostas aos efeitos do clima, o que torna a alternativa A correta. As demais alternativas descrevem fatores que reduzem a vulnerabilidade. A B, com estoques elevados de alimentos, permite enfrentar quebras de safra. A C, com transportes articulados, facilita levar recursos às áreas afetadas. A D, com matriz energética diversificada, diminui a dependência de fontes sensíveis ao clima, como a hidrelétrica. A E, com tecnologia agrícola, como irrigação e sementes adaptadas, torna a produção menos dependente das condições naturais. Gabarito: A.",
+  "hash": "74995522d49d54a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q33": {
+  "assunto": "Globalização: empresas transnacionais, trabalho",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma consequência social das estratégias das empresas globais descritas por Sevcenko. O texto mostra que uma mesma corporação distribui suas atividades pelo mundo conforme as vantagens de cada lugar: sede onde os impostos são menores, produção onde os salários são mais baixos, capitais onde os juros são maiores. Essa lógica faz fábricas e escritórios mudarem de lugar com frequência, fechando unidades e abrindo outras, o que obriga os trabalhadores a trocar de emprego, de função ou de cidade. Isso corresponde ao aumento da mobilidade ocupacional, como afirma a alternativa B. A alternativa A é falsa, pois as empresas buscam justamente fugir da carga tributária, pressionando sua redução. A C contradiz a globalização, que acirra a competição. A D erra porque essas empresas miram mercados globais. A E é incorreta, já que a mobilidade do capital tende a reduzir o poder de planejamento dos Estados. Gabarito: B.",
+  "hash": "6d046019b65d6aa6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q34": {
+  "assunto": "Hidrografia: ocupação da Amazônia pelos rios",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o padrão do primeiro eixo de ocupação da Amazônia, que, segundo o texto, seguiu o sentido Leste-Oeste desde o período colonial até meados do século XIX, de forma linear e articulada. Nessa época, a densa floresta dificultava o deslocamento por terra, e os grandes rios, especialmente o Amazonas e seus afluentes, funcionavam como as principais vias de penetração e transporte. Missões religiosas, fortes e vilas surgiram ao longo das margens, ligados entre si pela navegação fluvial. Por isso a alternativa E está correta. A alternativa A erra ao restringir a ocupação ao litoral, quando o texto fala de avanço para o interior. A B menciona centros agrícolas modernos, inexistentes nesse período. A C cita ferrovias entre áreas de mineração, que não marcaram essa fase. A D descreve faixas ao longo de estradas, característica do eixo Sul-Norte recente, com rodovias como a Belém-Brasília e a Transamazônica. Gabarito: E.",
+  "hash": "b74767105174099b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q35": {
+  "assunto": "Povos indígenas: aldeamentos, política pombalina",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o motivo da criação dos aldeamentos indígenas em Goiás, segundo a política pombalina. A carta de D. Marcos de Noronha mostra a desconfiança entre indígenas e brancos e a distinção entre índios civilizados e brutos, revelando a intenção de enquadrar os nativos aos padrões coloniais. A política de Pombal, com o Diretório dos Índios, buscava integrar os indígenas como súditos da Coroa, sob controle de administradores, transformando-os em mão de obra disciplinada e útil à economia colonial. Por isso a alternativa E está correta. A alternativa A exagera o papel das rebeliões, que não aparecem no texto como causa da política. A B cita epidemias, que existiram, mas não explicam a criação dos aldeamentos. A C é falsa, pois Pombal reduziu o poder das ordens religiosas e expulsou os jesuítas. A D erra porque a política pombalina chegou a estimular casamentos mistos. Gabarito: E.",
+  "hash": "ae02b444ff0f6457",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q36": {
+  "assunto": "Industrialização: desconcentração industrial",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um fator que contribuiu para a desconcentração industrial no Brasil a partir dos anos 1970, quando a indústria passou a se expandir para o Sul e para pontos do Centro-Oeste, Nordeste e Norte. Para que uma empresa separe suas unidades produtivas da sede administrativa, é preciso comunicação rápida e eficiente entre lugares distantes. O desenvolvimento das telecomunicações e da informática permitiu coordenar fábricas espalhadas pelo território, mantendo o comando em grandes centros como São Paulo. Por isso a alternativa E está correta. A alternativa A é falsa, pois portos obsoletos dificultariam, e não estimulariam, a produção em novas áreas. A B fala em estatização, que não explica o movimento, marcado depois por privatizações. A C inverte a realidade, já que os incentivos fiscais, inclusive na guerra fiscal entre estados, atraíram indústrias. A D cita políticas protecionistas, que não se relacionam à distribuição territorial da produção. Gabarito: E.",
+  "hash": "47e117e89b2100fe",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q37": {
+  "assunto": "Geologia e relevo: escudos cristalinos, recursos minerais",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que destaca a história geológica dos crátons das Guianas e Sul-Amazônico, formados por escudos cristalinos ricos em minérios. Esses terrenos são do Pré-Cambriano, os mais antigos do país, compostos por rochas metamórficas e magmáticas. Durante sua longa história, ocorreram intrusões de magma, como as graníticas, que se solidificaram em profundidade e concentraram minerais metálicos. Daí a riqueza em ferro e manganês que atrai mineradoras, como em Carajás e na Serra do Navio. Por isso a alternativa A está correta. A alternativa B erra a era, pois o Cenozoico é muito recente e os crátons são pré-cambrianos. A C fala em formação da maior planície, que resulta de deposição sedimentar, não do arrasamento de escudos. A D associa petróleo e gás a terrenos cristalinos, quando esses recursos se formam em bacias sedimentares. A E atribui a escultura do relevo ao intemperismo físico por variação térmica, que não define a história geológica dessas regiões úmidas. Gabarito: A.",
+  "hash": "5975e1f09d6c47ab",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q38": {
+  "assunto": "Hidrografia: irrigação, impactos nos rios",
+  "dificuldade": 3,
+  "explicacao": "A questão pede um impacto socioambiental das técnicas de irrigação usadas no Brasil. O texto lembra que a irrigação consome mais de 2/3 da água retirada de rios, lagos e lençóis, e que há competição crescente pelo recurso. Para levar água às lavouras, constroem-se canais, barragens e sistemas de bombeamento que desviam parte dos rios, alterando seus cursos e vazões, como em projetos no Nordeste e no Cerrado. Isso afeta populações ribeirinhas, a pesca e o abastecimento a jusante, configurando o redirecionamento dos cursos fluviais, alternativa E. A alternativa A aponta um efeito econômico, e não um impacto socioambiental; a irrigação, aliás, encarece a produção. A B pode ocorrer pelo uso de agroquímicos, mas não é o efeito direto das técnicas de irrigação destacado. A C relaciona-se ao tráfego de máquinas pesadas, não à irrigação. A D é falsa, pois a irrigação não acelera a fertilização natural do solo. Gabarito: E.",
+  "hash": "770295c4cd75a3f6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q39": {
+  "assunto": "Espaço agrário: modernização, êxodo rural",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o efeito comum das mudanças no campo descritas nos dois textos. O Texto I mostra camponeses europeus do século XIX que, libertos da servidão, perderam o acesso à terra e se tornaram trabalhadores volantes ou assalariados ocasionais. O Texto II descreve o agronegócio globalizado na América Latina, que amplia a ocupação de terras e muda a forma de controle e exploração do solo. Em ambos os casos, as transformações desestruturam o modo de vida tradicional dos camponeses, que perdem terra e trabalho e acabam migrando para as cidades ou para outros países, muitas vezes em condições precárias. Por isso a alternativa E está correta. A alternativa A reduz o êxodo à busca de estudo pelos jovens, sem relação com os textos. A B fala em fixação no campo, o contrário do processo descrito. A C atribui ao Estado um protagonismo não mencionado. A D descreve efeitos produtivos, mas não responde como as mudanças afetam a vida das populações. Gabarito: E.",
+  "hash": "6749359a321d0804",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q40": {
+  "assunto": "Brasil Colônia: escravidão, Padre Vieira",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a quem Padre Antônio Vieira compara a Paixão de Cristo no sermão. O trecho fala de pessoas que, no engenho, padecem como Cristo: passam noites sem dormir e dias sem descansar, estão despidas, famintas, maltratadas e sofrem com ferros, prisões, açoites e chagas. Essas condições descrevem os escravizados africanos que trabalhavam na produção de açúcar. Vieira, embora criticasse os abusos, recomendava paciência, prometendo-lhes o merecimento do martírio. Por isso a alternativa E está correta. A alternativa A fala de comerciantes nos portos, que não sofriam castigos físicos. A B cita mestres de açúcar, trabalhadores especializados e geralmente livres ou em condição melhor. A C menciona jesuítas e ameríndios, quando o cenário é o engenho. A D trata dos senhores, que exerciam a dominação, e não o sofrimento descrito. Gabarito: E.",
+  "hash": "dbf5fd38086719f6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q41": {
+  "assunto": "Era Vargas: sindicalismo corporativista",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a concepção de organização sindical apresentada no documento do Estado Novo. O texto afirma que o sindicalismo brasileiro, fugindo da luta de classes, é instrumento de harmonia e cooperação entre capital e trabalho, e que não se limita a um sindicalismo puramente operário voltado contra o patrão. Trata-se do modelo corporativista de Vargas, no qual os sindicatos ficavam sob tutela do Ministério do Trabalho e deveriam promover a conciliação entre empregados e empregadores, sob mediação do Estado. Por isso a alternativa C está correta. A alternativa A exagera ao dizer que o modelo elimina os conflitos; ele pretendia conciliá-los e controlá-los. A B fala em limitar direitos patronais, o que o texto não menciona. A D trata de estrangeiros, tema ausente. A E é falsa, pois o Estado Novo assumiu papel central na regulação trabalhista, com a CLT. Gabarito: C.",
+  "hash": "2b76ea1598e07828",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q42": {
+  "assunto": "Questões ambientais: uso sustentável da água",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma estratégia capaz de alterar a lógica de consumo de água descrita no texto, em que o uso cresceu duas vezes mais que a população no século XX. Para romper essa tendência, é preciso consumir menos água nova a cada atividade. A reutilização hídrica, como o reúso de efluentes tratados na indústria, na irrigação e na limpeza urbana, além do aproveitamento de água de chuva, permite atender às necessidades sem retirar mais água dos mananciais. Por isso a alternativa A está correta. A alternativa B é inadequada, pois a irrigação por aspersão perde muita água por evaporação e aumenta o consumo. A C ajuda a proteger nascentes, mas não muda diretamente a lógica de uso. A D é vaga e não garante economia de água. A E incentiva orgânicos, o que reduz agrotóxicos, mas não altera o volume consumido. Gabarito: A.",
+  "hash": "aa7a698031854b99",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q43": {
+  "assunto": "Cultura e sociedade: migração nordestina, música",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o elemento identitário presente na letra de A vida de viajante, de Luiz Gonzaga e Hervê Cordovil. O eu lírico diz que sua vida é andar pelo país, guardando recordações das terras por onde passou e dos amigos que deixou nos sertões, à espera de um dia descansar feliz. A letra expressa a experiência do deslocamento, com saudade e constante partida, muito ligada à vivência do migrante nordestino que saía de sua terra em busca de trabalho. Por isso a alternativa C está correta. A alternativa A fala da natureza do sertão, que não é descrita na letra. A B cita a seca, que não aparece no trecho. A D menciona desigualdade regional, tema implícito em outras canções, mas não neste fragmento. A E trata da discriminação nos grandes centros, também ausente da letra. Gabarito: C.",
+  "hash": "c8df3b6fb155211a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q44": {
+  "assunto": "Brasil Colônia: religiosidade popular, festas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o viajante francês estranhou a festa de São Gonçalo em Salvador, em 1717. Ele descreve uma igreja onde padres, mulheres, frades, cavalheiros e escravos dançavam e gritavam misturados, e até o vice-rei foi obrigado a participar. Para um europeu, acostumado a uma religiosidade mais contida e hierarquizada, era surpreendente ver a devoção vivida coletivamente, com festa, música e contato entre grupos sociais distintos. As festas religiosas coloniais tinham esse caráter comunitário de partilha da fé. Por isso a alternativa D está correta. A alternativa A é falsa, pois a dança dentro da igreja fugia aos preceitos da hierarquia romana. A B contradiz o texto, já que a autoridade foi obrigada a dançar pelo povo. A C erra ao concluir que os padres pertenciam às camadas populares. A E exagera, pois a mistura momentânea da festa não harmonizava de fato a relação entre senhores e escravizados. Gabarito: D.",
+  "hash": "df0ac6cc83c3db6f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q45": {
+  "assunto": "Espaço agrário: transgênicos, fome e desigualdade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a contradição do espaço rural brasileiro ligada à modificação produtiva da charge, os transgênicos. Na charge, uma planta pergunta à outra, transgênica, por que ainda falta alimento no mundo se haviam inventado uma planta para acabar com a fome; a outra responde que não sabe. A crítica é que o aumento da produção agrícola, impulsionado pela biotecnologia e pela expansão das áreas cultivadas, sobretudo de commodities como soja e milho, não resolveu a fome, pois o problema está na distribuição desigual da renda e da terra. Por isso a alternativa A está correta. A alternativa B aponta um efeito da mecanização, mas não a contradição sugerida pela charge, que trata de fome. A C fala em valorização da subsistência, oposta à lógica do agronegócio. A D associa os transgênicos a núcleos policultores, quando eles se ligam à monocultura. A E erra ao falar em retração das exportações, que na verdade cresceram. Gabarito: A.",
+  "hash": "0780cc525b33115f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q46": {
+  "assunto": "Química ambiental: reciclagem, três erres",
+  "dificuldade": 1,
+  "explicacao": "A questão pede um exemplo de reciclagem dentro da política dos três erres. Reciclar significa transformar o material descartado em matéria-prima para fabricar novos produtos, por meio de um processo físico ou químico, como fusão ou moagem. Reutilizar, por outro lado, é usar o objeto novamente, com a mesma função ou outra, sem reprocessar o material. Derreter latas de alumínio para produzir lingotes, que depois serão usados em novas peças, é reciclagem típica, o que torna a alternativa B correta. A alternativa A é reutilização, pois a garrafa retornável é lavada e enchida de novo. A C também é reutilização, com o saco plástico servindo de saco de lixo. A D é reutilização das embalagens para guardar alimentos. A E envolve apenas cortar a garrafa PET em tiras, dando-lhe nova função sem reprocessar o material, o que caracteriza reutilização. Gabarito: B.",
+  "hash": "0af45e8584780c56",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q47": {
+  "assunto": "Hidrostática: pressão, área de contato",
+  "dificuldade": 1,
+  "explicacao": "A questão pede como trocar os pneus dos tratores para reduzir a compactação do solo. A compactação depende da pressão exercida sobre o solo, dada por p = F/A, em que F é a força (o peso do trator) e A é a área de contato. Como o peso da máquina não muda, a única forma de diminuir a pressão é aumentar a área de contato, usando pneus mais largos. Assim, o mesmo peso se distribui por uma superfície maior e o solo é menos comprimido. Por isso a alternativa A está correta. A alternativa B erra porque pneus estreitos diminuem a área e aumentam a pressão. A C afirma que pneus largos aumentam a pressão, o que contraria a fórmula. A D, embora a relação esteja certa, aumentar a pressão agravaria a compactação. A E fala de pneus mais altos, o que não amplia a área de contato com o solo. Gabarito: A.",
+  "hash": "eabbca02be581b21",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q48": {
+  "assunto": "Biotecnologia: transgênicos, expressão gênica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como a característica de interesse se manifesta no milho transgênico. Ao inserir o gene de outra espécie no genoma do milho, forma-se um DNA recombinante. Para que esse gene gere uma característica, ele precisa ser expresso: primeiro ocorre a transcrição, em que o DNA serve de molde para a síntese de RNA mensageiro; depois, a tradução, em que os ribossomos leem o RNAm e produzem a proteína correspondente. É essa proteína, como uma toxina contra insetos, que confere a nova característica. Por isso a alternativa E está correta. A alternativa A erra porque a simples duplicação do DNA não produz característica. A B cita o RNA transportador, que leva aminoácidos, mas não carrega a informação do gene. A C fala em DNA não hibridizado, isto é, sem o gene inserido. A D atribui a característica ao DNA original e à síntese de carboidratos, sem relação com o gene transferido. Gabarito: E.",
+  "hash": "5c3e965de462297c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q49": {
+  "assunto": "Química orgânica: funções orgânicas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as funções orgânicas presentes ao mesmo tempo nas estruturas da piretrina e da coronopilina. Na piretrina, identificam-se um anel com carbonila ligada a dois carbonos (cetona) e o grupo carboxila ligado a outro carbono por um oxigênio, R–COO–R′ (éster), além de duplas ligações C=C. Na coronopilina, há também uma carbonila no anel ligada a dois carbonos (cetona), uma hidroxila ligada a carbono saturado (álcool) e um éster cíclico, a lactona, com o grupo –COO– dentro do anel. As funções comuns às duas moléculas são, portanto, cetona e éster, o que torna a alternativa B correta. A alternativa A erra porque não há éter, ou seja, oxigênio ligado apenas a dois carbonos sem carbonila. A C inclui álcool, presente só na coronopilina. A D cita aldeído, que exigiria carbonila na ponta da cadeia, ausente nas duas. A E menciona éter e ácido carboxílico, que não aparecem nas estruturas. Gabarito: B.",
+  "hash": "5f87e5a293a1bd86",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q50": {
+  "assunto": "Energia e trabalho: energia potencial elástica",
+  "dificuldade": 2,
+  "explicacao": "A questão pede em qual dispositivo ocorre a mesma conversão de energia do carrinho a corda. Ao puxar o carrinho para trás, a criança comprime a mola, que armazena energia potencial elástica. Ao soltá-lo, a mola volta à forma original e essa energia se transforma em energia cinética, colocando o carrinho em movimento. No estilingue acontece o mesmo: o elástico esticado armazena energia potencial elástica, que, ao ser liberada, se converte em energia cinética da pedra. Por isso a alternativa E está correta. A alternativa A, o dínamo, converte energia cinética em energia elétrica. A B, o freio, transforma energia cinética em energia térmica pelo atrito. A C, o motor a combustão, converte energia química do combustível em energia térmica e depois mecânica. A D, a usina hidrelétrica, transforma energia potencial gravitacional da água em energia cinética e, então, em elétrica. Gabarito: E.",
+  "hash": "f4817af812c7c152",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  }
 }
