@@ -1,0 +1,352 @@
+{
+ "enem-2014-regular-d2-q100": {
+  "assunto": "Gêneros textuais: aforismo, Grande sertão: veredas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gênero de que se aproxima o desabafo de Riobaldo. No trecho, o narrador resume a vida em frases curtas e gerais: a vida embrulha tudo, esquenta e esfria, aperta e afrouxa, e o que ela quer da gente é coragem. Não há relato de um fato específico, mas uma reflexão sintética, com valor de verdade geral sobre a existência. Esse tipo de enunciado breve e sentencioso é o aforismo, como afirma a alternativa D. A A fala em diário, mas o trecho não registra lembranças datadas nem fatos pessoais. A B cita fábula, gênero narrativo com personagens, geralmente animais, e moral explícita ao fim, o que não ocorre. A C aponta notícia, mas não há informação sobre acontecimento. A E menciona crônica, gênero que parte de fatos do cotidiano, enquanto o trecho é uma máxima abstrata. Gabarito: D.",
+  "hash": "6be7c754e81269f4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q101": {
+  "assunto": "Coesão e coerência: referenciação, pronomes",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a relação correta entre um elemento coesivo e o trecho a que ele se refere. Em “Há qualquer coisa de especial nisso de botar a cara na janela em crônica de jornal”, o pronome “nisso” é catafórico: anuncia o que vem logo depois, “botar a cara na janela em crônica de jornal”. Por isso a alternativa A está correta. Na B, “assim”, em “andava meio assim”, não parafraseia “é como me botarem no colo”; esta expressão explica o efeito dos estímulos. Na C, o “isso” de “eu não fazia isso” retoma “botar a cara na janela”, e não “escondia em poesia e ficção”. Na D, “alguns” se refere a leitores que discorrem sobre o assunto, sem antecipar a frase citada. Na E, “essa” em “essa brincadeira séria” retoma a experiência de escrever crônicas, e não exatamente “janela do jornal”. Gabarito: A.",
+  "hash": "49d22a0d415818ed",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q102": {
+  "assunto": "Música: vanguarda, conceito de música",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que representa, na proposta de Schafer, a imagem de John Cage abrindo a porta da sala de concerto para os ruídos da rua. O autor conta que, ao tentar definir música com a turma, foi preciso rejeitar as definições costumeiras, porque a vanguarda ampliou as fronteiras do som. A cena de Cage é uma metáfora dessa ampliação: os ruídos, antes considerados extramusicais, passam a fazer parte da composição, ventilando a música com conceitos novos. Assim, a alternativa D está correta. A A lê a porta aberta como democratização do acesso à sala de concerto, tema que não está em jogo. A B toma a imagem de forma literal, como se a música saísse do teatro, quando são os sons da rua que entram. A C inverte a ideia: Cage representa a vanguarda, não uma postura conformista. A E fala em atrair público, objetivo ausente do texto. Gabarito: D.",
+  "hash": "3d5d7d99deb7fbff",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q103": {
+  "assunto": "Argumentação: tese e contra-argumentação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o posicionamento da autora no texto. Marisa Lajolo começa expondo o discurso corrente: a leitura estaria em crise, com práticas precárias, jovens sem familiaridade com livros, falta de bibliotecas e livros caros. Em seguida vem a virada, marcada pelo “Mas”: pesquisas acadêmicas indicam que talvez não seja exatamente assim, pois os brasileiros leem, só que livros que as pesquisas tradicionais não consideram. A autora, portanto, relativiza e questiona a existência dessa crise com base em dados acadêmicos, como afirma a alternativa D. A A fala no papel dos professores, que não é tratado. A B erra porque a crítica às pesquisas tradicionais é por não considerarem certos livros, não por culparem as bibliotecas. A C inverte o texto, que menciona positivamente o investimento das políticas educacionais. A E reproduz o discurso que a autora justamente põe em dúvida. Gabarito: D.",
+  "hash": "fff80f0060ca3b9b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q104": {
+  "assunto": "Variação linguística: adequação ao contexto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que significa dominar a língua, se não existe um único “português correto”. Possenti afirma que a escola deve aceitar a mudança da língua, mas que isso não significa deixar de corrigir. A outra dimensão é que, no mundo real da escrita, há estilos diferentes: contratos e manuais de instrução, juízes do Supremo e cordelistas, editoriais e cadernos de cultura. Cada texto pede uma forma adequada à sua situação. Logo, dominar a língua é saber adequar as formas linguísticas a diferentes tipos de texto e contexto, alternativa D. A A erra ao descartar a informalidade, que é adequada em certos gêneros. A B restringe a norma padrão a textos de ampla circulação, critério que o autor não usa. A C toma o jornalismo como modelo único, mas o autor mostra que o próprio jornal tem estilos variados. A E fala em desprezar a gramática, o que o autor nega ao dizer que a escola deve continuar corrigindo. Gabarito: D.",
+  "hash": "e993a04910553ddb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q105": {
+  "assunto": "Publicidade e linguagem midiática: campanha social, metáfora",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função da metáfora do pesadelo na propaganda contra a violência sexual infantil. A peça mostra um monstrinho escuro formado pelas palavras “Para algumas crianças o pesadelo chega antes do sono”, e abaixo há o apelo “Denuncie qualquer caso de violência sexual infantil. Ligue 100.”. O pesadelo, normalmente associado ao medo vivido em sonho, aqui é real e acontece acordado: a metáfora traduz o terror e o sofrimento que o abuso representa para a criança. Ao dimensionar essa violência, a peça leva o adulto a agir por meio da denúncia, como afirma a alternativa C. A A erra o público: o anúncio se dirige a adultos, não às crianças vítimas. A B restringe o problema a meninas e fala em prender criminosos, o que não está no anúncio. A D lê a metáfora literalmente, como se o abuso fosse noturno. A E também é literal, supondo que a criança confunda o abuso com sonho. Gabarito: C.",
+  "hash": "c4ca8919808f9bba",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q106": {
+  "assunto": "Variação linguística: marcadores conversacionais, oralidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função da repetição de “né” na transcrição de uma fala espontânea. O “né”, redução de “não é?”, é um marcador conversacional: o falante o usa para checar se o ouvinte está acompanhando, pedir sua concordância e manter o canal de comunicação aberto enquanto organiza o relato. Por isso é uma estratégia típica de manutenção da interação oral, alternativa B. A A é preconceituosa e falsa: marcadores como “né” aparecem na fala de pessoas de qualquer escolaridade. A C erra porque o “né” não estabelece relações lógicas de causa, oposição ou conclusão entre as ideias; essa tarefa cabe aos conectivos. A D atribui o uso a uma região, mas o marcador é comum em todo o país. A E não procede, já que o “né” aparece espalhado pelo relato, inclusive em trechos pouco relevantes, sem destacar a informação principal. Gabarito: B.",
+  "hash": "10c41fd571e555aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q107": {
+  "assunto": "Tecnologias da informação e comunicação: blogs, gêneros digitais",
+  "dificuldade": 1,
+  "explicacao": "A questão pede como o blog se destaca depois de ultrapassar sua função inicial. O texto diz que o blog surgiu como uma espécie de diário pessoal, expondo a vida e a rotina de alguém, mas deixou de ter essa como única função e passou a ser também espaço de discussão de ideias, trocas e divulgação de informações. Acrescenta que sua força está em permitir que qualquer pessoa publique ideias e opiniões e que milhões comentem, criando um grande debate aberto. Isso corresponde à alternativa B, espaço para exposição de opiniões e circulação de ideias. A A fala em relações de amizade, quando o texto menciona união em torno de interesses comuns, não amizade. A C diz que o blog substitui o diário, mas o texto afirma que ele foi além dessa função. A D cita aperfeiçoamento da escrita virtual, ideia ausente. A E retoma a divulgação da rotina, que é justamente a função inicial superada. Gabarito: B.",
+  "hash": "d0777baee1e55dc3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q108": {
+  "assunto": "Literatura brasileira: Modernismo, Manuel Bandeira",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que dá expressividade ao poema “Camelôs”, de Manuel Bandeira, à luz da proposta modernista de tirar poesia do cotidiano. O poema enumera objetos banais vendidos nas calçadas, como balõezinhos, macaquinho que trepa no coqueiro, perereca que pula e canetinhas que nunca escreverão; reproduz o pregão de um camelô; e termina elevando esses vendedores a “demiurgos de inutilidades” que dão aos adultos tristes “uma lição de infância”. Ou seja, elementos corriqueiros e dispersos ganham tratamento lírico e sentido poético, como afirma a alternativa C. A A fica só na superfície: há um inventário, mas a expressividade vem da transfiguração lírica, não da lista. A B fala em reflexão sobre a pobreza, tema que não é o foco. A D destaca a interlocução, recurso pontual no poema. A E inverte o sentido, pois o poema celebra a infância que os camelôs devolvem aos homens. Gabarito: C.",
+  "hash": "c4e1dc61f5f170df",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q109": {
+  "assunto": "Literatura brasileira: Realismo, Machado de Assis, ironia",
+  "dificuldade": 4,
+  "explicacao": "A questão pede em que momento Brás Cubas refina a ironia ao descrever o cunhado Cotrim. O narrador finge defendê-lo, mas cada justificativa o condena. O ponto mais agudo é quando admite que Cotrim mandava escravos ao calabouço, de onde voltavam escorrendo sangue, e o desculpa dizendo que, por ter sido contrabandista de escravos, habituara-se ao trato mais duro, e que não se pode atribuir à índole de um homem o que é puro efeito de relações sociais. A suposta atenuante revela a crueldade naturalizada e critica a sociedade escravocrata, alternativa B. A A erra ao dizer que o narrador se confessa injustiçado na herança; ele diz ter sido injusto com Cotrim. A C, D e E citam elementos do texto, mas o amor aos filhos, as irmandades e o retrato a óleo são detalhes secundários da mesma estratégia, não o ápice da ironia; além disso, o narrador não menospreza nem acusa abertamente Cotrim. Gabarito: B.",
+  "hash": "651251ab68e84e38",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q110": {
+  "assunto": "Funções da linguagem: metalinguagem, crônica",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual função da linguagem predomina no texto e em que ela se constitui. Vinicius de Moraes escreve uma crônica cujo assunto é a própria crônica: fala da arte ingrata de escrever prosa do cotidiano, do cronista diante da máquina buscando um fato, do recurso de olhar em torno e, em último caso, do assunto da falta de assunto. Quando o código fala de si mesmo, temos a função metalinguística, e aqui ela se constitui nas dificuldades de escrever uma crônica por meio de uma crônica, alternativa E. As alternativas A, B, C e D citam elementos que de fato aparecem no texto, como a comparação entre cronista e ficcionista, as fontes de inspiração, os assuntos possíveis e o papel da vida do cronista, mas são aspectos parciais do conteúdo e não caracterizam a função da linguagem predominante, que é a reflexão da crônica sobre o próprio fazer. Gabarito: E.",
+  "hash": "76a7fd5170826014",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q111": {
+  "assunto": "Semântica: modalização, verbo dever",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o valor do verbo “dever” no trecho “a água potável deve acabar logo, em 2050”. Trata-se de um recurso de modalização: o falante não afirma um fato consumado, mas apresenta uma hipótese provável sobre o futuro. O contexto reforça esse sentido, pois o texto começa com “As teorias mais pessimistas dizem” e, em seguida, descreve um cenário catastrófico: banho apenas duas vezes por semana, racionamento rigoroso, falta de carne e de grãos. Portanto, “dever” expressa uma previsão, e o conteúdo dessa previsão é trágico, já que envolve o fim da água potável. A alternativa A erra porque não há constatação, e sim projeção. A B fala de habilidade das comunidades, ideia ausente do trecho. A C menciona substituição de recursos, o que o texto não aborda. A E sugere ficção, mas o texto se apoia em teorias e dados, não em narrativa inventada. Gabarito: D.",
+  "hash": "4f3a5ea5b077dce4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q112": {
+  "assunto": "Interpretação de texto: reportagem sobre tecnologia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que, segundo o texto de abertura da reportagem “Viva a nova TV!”, as novas tecnologias farão pela televisão. O trecho decisivo diz que a TV do futuro “permite assistir ao que você quer, quando quer”, que a segunda tela é um tablet ou smartphone e que o engajamento nas redes sociais ganha importância. A ênfase está na personalização: o espectador passa a escolher conteúdo e horário, ou seja, a TV atende aos desejos individuais usando recursos tecnológicos avançados. Por isso a alternativa B é a correta. A A fala em trocar aparelhos antigos, o que o texto não menciona. A C exagera: as redes sociais aparecem como complemento, não como função principal da TV. A D trata de técnicas de apresentação e captação de imagens, tema ausente. A E contraria o tom entusiasmado do texto, que celebra a nova TV em vez de diminuí-la. Gabarito: B.",
+  "hash": "002c1da96027c3f4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q113": {
+  "assunto": "Literatura brasileira: Barroco, Gregório de Matos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o tema do soneto de Gregório de Matos. O poema compara a libertação do povo hebreu da tirania do Faraó com a situação da Bahia: um enviado “pela alta Majestade” livrou a cidade de “tão triste cativeiro” e de “tão vil calamidade”, extirpando “o Faraó do povo brasileiro”. A analogia bíblica serve para falar de política: o “Faraó” baiano é um governante opressor, cuja saída é celebrada. A crítica não é feita de modo explícito, com nomes e acusações diretas, mas por meio da alegoria religiosa, por isso é velada e atinge a forma de governo vigente na colônia. A alternativa A fala de ceticismo social, ausente no tom celebratório. A B exagera ao ver preocupação com identidade nacional. A D erra, pois a referência cristã é apenas instrumento da comparação, não objeto de reflexão. A E inventa práticas pagãs, que não aparecem no poema. Gabarito: C.",
+  "hash": "e16c3441041bcde6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q114": {
+  "assunto": "Argumentação: argumento por dados",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia argumentativa usada para provar que o gosto musical do brasileiro mudou desde os anos 1970. Depois de expor três grupos com visões estereotipadas, o autor afirma que a realidade é outra e apresenta a prova: uma pesquisa pioneira do Ibope, feita entre 2012 e 2013, que mostra o sertanejo como gênero preferido de mais da metade do país, seguido de longe pela MPB e pelo pagode. É esse dado de pesquisa que sustenta a tese, configurando um argumento por comprovação estatística. A alternativa B descreve uma parte do texto, mas a classificação como estereótipo não comprova nada sozinha. A C erra, pois os estrangeirismos são apenas nomes de gêneros, sem função argumentativa. A D aponta uma ironia que não é o eixo da argumentação. A E fala em elitismo e preconceito, e a menção a Chico e Caetano não demonstra a mudança de gosto. Gabarito: A.",
+  "hash": "3578414646adb583",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q115": {
+  "assunto": "Publicidade e linguagem midiática: anúncio de recrutamento",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia do anúncio para recrutar talentos. A peça traz o título “Queremos seu talento, exatamente como ele é” e, logo abaixo, uma série de perguntas: “Você já foi chamado de nerd?”, “É louco por novas tecnologias?”, “Está entre os melhores alunos das melhores faculdades?”. Essas perguntas desenham o perfil do candidato desejado e convidam o leitor a se reconhecer nele, o que torna a interação mais dinâmica; em seguida vem a conclusão “Você é perfeito para nós”. Assim, a alternativa B descreve corretamente o recurso. A A erra porque o anúncio não aceita qualquer talento: as perguntas filtram um perfil específico. A C exagera o papel da descrição da empresa, que aparece só depois. A D está errada, pois o nerd é valorizado, não tratado com estereótipo negativo. A E toma um elemento visual decorativo como estratégia principal. Gabarito: B.",
+  "hash": "6f8a0607af3a991f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q116": {
+  "assunto": "Interpretação de texto: impacto social da linotipo",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o impacto social da linotipo, e não seu efeito técnico. O texto diz que a máquina venceu a lentidão da composição manual, mas destaca, em termos sociais, que ela passou a “produzir impressos a baixo custo, o que levou informação às massas, democratizou a informação” e revolucionou a educação, já que antes jornais, revistas e livros didáticos eram caros e pouco acessíveis. Logo, a contribuição social foi tornar acessíveis os materiais informativos. A alternativa A contradiz o texto, que fala em rapidez, não em lentidão. A B e a C tratam de aspectos técnicos da composição, e não do impacto na sociedade, que é o foco do enunciado. A E fala de imagens em revistas, assunto que o texto não aborda. Gabarito: D.",
+  "hash": "6dc30fb04f82f8fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q117": {
+  "assunto": "Literatura e outras artes: cordel e xilogravura",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o efeito da combinação entre impressão manual e xilogravura na produção do cordel. O texto mostra que, “na contramão do progresso”, as oficinas do Cariri conservam velhas máquinas, fazem a chapa letra por letra e talham a capa em madeira, e afirma que a manutenção desse sistema antigo “faz parte da filosofia do trabalho”. Ou seja, preservar essas técnicas artesanais é uma forma de manter a essência da tradição popular do cordel, que resiste à modernização. A alternativa A erra, pois o texto apenas informa que a xilogravura antecedeu o clichê, sem defender superioridade. A B fala em renovação, quando o texto enfatiza a conservação. A C confunde a hipótese sobre a origem da xilogravura com a função atual dos folhetos. A D trata da busca das origens, que o texto diz ser ignorada, mas não aponta como objetivo da técnica. Gabarito: E.",
+  "hash": "e339631230da98a2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q118": {
+  "assunto": "Variação linguística: variação histórica, léxico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o texto de Fernando Sabino evidencia sobre a variação da língua. O cronista mostra palavras que “envelhecem e caem como folhas secas”: quem diz “fita de cinema”, “artista”, “banho de mar”, “automóvel”, “defluxo” ou “trem de ferro” revela pertencer a uma geração anterior, enquanto os mais novos dizem “filme”, “ator”, “praia”, “carro”, “resfriado”. A renovação do léxico, portanto, é percebida quando se comparam os modos de falar de gerações diferentes, o que caracteriza variação histórica. A alternativa A erra, pois o texto observa a mudança, mas não prescreve o uso de palavras novas. A C trata de variação geográfica, que não aparece. A D fala de pronúncia e classe social, aspectos ausentes. A E generaliza a ocorrência em todas as regiões, algo que o texto não discute. Gabarito: B.",
+  "hash": "828d1d5b7cf99f40",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q119": {
+  "assunto": "Literatura brasileira: Pré-Modernismo, Augusto dos Anjos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede marcas de literatura de transição no soneto de Augusto dos Anjos. Formalmente, o poema conserva traços do Parnasianismo e do Simbolismo: é um soneto, com versos decassílabos, rimas ricas e vocabulário raro. Porém, essa forma tradicional recebe uma expressividade nova e chocante, com termos científicos (“carbono e amoníaco”, “epigênesis”), imagens de decomposição (“o verme — este operário das ruínas”) e um eu lírico atormentado, marcado por angústia e pessimismo existencial. Essa mistura de conservação formal, inovação expressiva e desconcerto existencial define a transição pré-modernista. A alternativa A erra ao dizer que soneto e rimas antecipam o Modernismo, que os rejeitou. A B fala em resgate do Simbolismo, mas o poema não se dedica a isso. A C afirma restituição da visão naturalista, quando o cientificismo é usado de modo expressivo e angustiado. A E vê poesia descritiva com valores morais, o que não corresponde ao soneto. Gabarito: D.",
+  "hash": "505129c08ff30fbc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q120": {
+  "assunto": "Literatura brasileira: crônica, ironia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o caráter da crônica de Dalton Trevisan quanto ao tema e aos recursos expressivos. O texto narra, com frases curtas e tom aparentemente neutro, as investidas do velho Abílio sobre as freguesas com a pergunta ambígua “Como é o negócio?”, seus encontros com a dona Julietinha e a tentativa de chantagem do vizinho, que repete o mesmo bordão. A expressão “negócio”, as insinuações e o desfecho (“Então você quer o velho e não quer o moço? Olhe que eu conto!”) revelam um olhar malicioso e irônico sobre a vida entre vizinhos, cheia de adultérios e segredos. A alternativa A erra, pois não há reflexão filosófica. A B fala em nostalgia, ausente no tom seco do narrador. A D supõe crítica depreciativa explícita, mas o narrador não julga, apenas expõe com malícia. A E atribui ao texto um objetivo pedagógico que ele não tem. Gabarito: C.",
+  "hash": "b3c8c5342531cf65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q121": {
+  "assunto": "Gêneros textuais: editorial",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função social do editorial revelada pelo texto. O jornal retoma um fato já noticiado, o lixo jogado na estrada vicinal entre Rio Claro e Ajapi, mas agora com posicionamento explícito: chama a atitude de “falta de educação”, questiona o leitor (“por que não o fazer no local ideal?”), defende a reciclagem e alerta para o mau exemplo aos jovens. Isso mostra a função do editorial: interpretar criticamente fatos relevantes, expressando a opinião do veículo para orientar a opinião pública. A alternativa A descreve a função da notícia, não do editorial. A B erra, pois o próprio texto diz que o tema aparece “mais uma vez”. A C toma a indignação como função do gênero, quando ela é apenas um efeito possível. A E confunde o ponto de vista do autor da notícia com o do veículo, que é quem se posiciona no editorial. Gabarito: D.",
+  "hash": "cb76f3deb339dbd2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q122": {
+  "assunto": "Artes visuais: Neoconcretismo, arte participativa",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a vertente da arte contemporânea inaugurada por obras como Bicho de bolso, de Lygia Clark. Os “Bichos” são esculturas de placas de metal unidas por dobradiças, que só se completam quando o público as manipula, mudando sua forma. O espectador deixa de apenas contemplar e passa a participar da construção da obra, aproximando a arte da experiência cotidiana. Essa proposta participativa é marca do Neoconcretismo e abriu caminho para a arte interativa contemporânea. A alternativa B fala de objetos cotidianos reaproveitados, característica dos ready-mades, não dos Bichos. A C atribui à obra técnicas artesanais e valores culturais, o que não é seu foco. A D trata de captação de imagens por meios óticos, como fotografia e cinema. A E fala em produção em série, ideia ligada à pop art, e não à proposta de Lygia Clark. Gabarito: A.",
+  "hash": "9a728e015187c378",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q123": {
+  "assunto": "Música: choro e samba",
+  "dificuldade": 2,
+  "explicacao": "A questão pede gêneros da música popular brasileira que usam o cavaquinho e o violão, instrumentos comuns nas antigas colônias portuguesas, segundo Henrique Cazes. No Brasil, o choro tem como formação típica o regional, com flauta, cavaquinho, violão e pandeiro, e o samba também se apoia no cavaquinho e no violão, ao lado da percussão. Por isso, choro e samba são os exemplos adequados. A alternativa A traz maracatu e ciranda, baseados sobretudo em percussão. A B inclui o baião, cuja base é sanfona, zabumba e triângulo. A D cita chula e siriri, manifestações regionais sem esse instrumental característico como marca. A E combina xote, ligado à sanfona, e frevo, executado por bandas de metais. Gabarito: C.",
+  "hash": "2eb34cd45acbddb6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q124": {
+  "assunto": "Literatura brasileira: Simbolismo, Cruz e Sousa",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como o soneto “Vida obscura” traduz o conflito entre a sensibilidade de Cruz e Sousa e a realidade. O poema fala de um “ser humilde entre os humildes seres” cujo sofrimento ninguém percebeu: “Ninguém sentiu o teu espasmo obscuro”, “Ninguém te viu o sentimento inquieto, magoado, oculto”. Esse ser atravessou a vida “no silêncio escuro”, preso a “trágicos deveres”, e carregou uma “cruz infernal”. Trata-se de um sofrimento silencioso, tácito, imposto pelo mundo “negro e duro”, o que se relaciona à experiência do poeta, negro e filho de escravizados, que enfrentou forte discriminação. A alternativa B interpreta “embriagado” como vício, mas o termo indica êxtase. A C fala de tarefas degradantes, leitura literal demais. A D menciona frustração amorosa, ausente no poema. A E confunde a imagem da “cruz” com vocação religiosa. Gabarito: A.",
+  "hash": "6bc105288e3e2820",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q125": {
+  "assunto": "Variação linguística: gíria e efeito de humor",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a origem do humor na crônica de Verissimo. O texto reconta um episódio bíblico solene, a visita dos reis magos e a reação de Herodes, usando gírias e expressões informais: “negócio seguinte”, “ouviram um plá”, “se flagraram”, “não eram de dar cascata”, “ficou grilado”, “Joia”, “o coroa”. Há ainda anacronismos, como perguntar em que canal o Guri vai se apresentar e se ele tem baixo elétrico. O humor nasce justamente do contraste entre a seriedade do tema religioso e a linguagem coloquial e moderna. A alternativa A erra, pois a linguagem é informal, não rebuscada. A B destaca as perguntas, que são apenas um elemento a mais, não a fonte do humor. A C fala de caracterização de lugares, que quase não existe. A D inverte a lógica: são as gírias que aparecem fora de contexto, não os termos bíblicos. Gabarito: E.",
+  "hash": "94453d587984381a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q126": {
+  "assunto": "Teatro e dança: rubricas no texto teatral",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o papel das rubricas, como “arrepelando-se de raiva” e “Batendo com o pé”, na encenação. As rubricas são indicações do autor sobre gestos, tons e movimentos, mas o espetáculo teatral é uma criação coletiva: diretor e atores reinterpretam o texto, podem modificar falas, cenário, figurino e também as indicações cênicas. Assim, as rubricas funcionam como uma possibilidade, uma sugestão que pode ser seguida ou alterada, do mesmo modo que outros elementos do texto. A alternativa A trata a fidelidade ao autor como obrigatória, o que não ocorre no teatro. A C chama as rubricas de irrelevantes, mas elas orientam a leitura e a encenação. A D as considera exigência definidora do gênero, exagero que ignora a liberdade da montagem. A E diz que anulam a autonomia do diretor, o que é falso. Gabarito: B.",
+  "hash": "5308d5c92a33cb87",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q127": {
+  "assunto": "Literatura e outras artes: intertextualidade, charge",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o recurso verbal que liga a charge de Iotti ao painel Guernica, de Picasso. A imagem recria a cena de destruição do quadro, inserindo um carro, e o texto verbal fala em “quadro dramático” no trânsito do feriadão de carnaval. A expressão é polissêmica: “quadro” pode significar pintura, remetendo diretamente à obra de Picasso, e também situação ou cenário, referindo-se ao caos das estradas. É esse duplo sentido que costura o diálogo entre as duas obras. A alternativa A erra, pois “trânsito no feriadão” não se refere a Guernica, que trata de um bombardeio. A B atribui ao verbo “é” um papel que ele não tem. A C chama “trânsito” de pejorativo, o que não procede. A D enfatiza “sempre”, palavra que não cria a ligação com a pintura. Gabarito: E.",
+  "hash": "2dbf925d63695812",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q128": {
+  "assunto": "Coesão e coerência: conjunção mas, argumentação",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o valor da conjunção “mas” no poema de Geir Campos, além de sua função sintática de adversativa. Os versos se organizam em pares: primeiro uma ação de aceitação (“Morder o fruto amargo e não cuspir”, “Cumprir o trato injusto e não falhar”, “Sofrer o esquema falso e não ceder”), depois, introduzida por “mas”, a ação de denúncia (“avisar aos outros quanto é amargo/injusto/falso”). O “mas” introduz justamente o que o eu lírico considera mais importante: a tarefa de alertar os outros, que prepara a mudança para “um mundo novo e muito mais humano”. É, portanto, o argumento mais forte de cada sequência. A alternativa A fala em verbos semelhantes, quando há contraste. A B diz que as ações são inconciliáveis, mas o poema as realiza juntas. A D erra, pois não há causa a reforçar. A E aponta intensidade de problemas, sentido que a conjunção não expressa. Gabarito: C.",
+  "hash": "7d6a827b8ed4112e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q129": {
+  "assunto": "Variação linguística: variação regional, nordeste",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o verso que singulariza uma forma típica do falar popular regional. Em “Vou mostrar pr’esses cabras”, a palavra “cabra”, usada no sentido de sujeito, homem, rapaz, é marca característica do falar nordestino, região de origem do xaxado e do repertório de Luiz Gonzaga. Além disso, a contração “pr’esses” reforça a oralidade. Esse é o verso que mais claramente identifica uma variedade regional. A alternativa A traz “desaforo”, palavra de uso geral no português. A B apresenta “tou”, redução coloquial comum em todo o país, não específica de uma região. A D é apenas um chamamento com nomes próprios. A E usa “chita”, tecido conhecido nacionalmente, e “morena linda”, expressão comum em várias regiões. Gabarito: C.",
+  "hash": "c88f242f9dd94fb2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q130": {
+  "assunto": "Interpretação de texto: segurança da informação",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a necessidade apontada pelo texto diante da espionagem corporativa. Além de reconhecer que o Brasil está mal no quesito segurança, o texto traz a proposta do conselheiro do CGI: o país tem condições de desenvolver tecnologia própria, e o governo deve usar seu poder de compra de softwares e hardwares para fomentar empresas, produzir conhecimento e construir “uma cadeia de produção nacional” em segurança cibernética. Em resumo, é preciso promover a indústria de segurança da informação. A alternativa A erra, pois o texto diz que a sociedade já “caiu em si”. A C menciona fóruns internacionais, ausentes no texto. A D distorce a sugestão de canais de denúncia, que não é a necessidade central. A E fala em treinamento do país, enquanto a proposta é de desenvolvimento produtivo e tecnológico. Gabarito: B.",
+  "hash": "c2660e29a87891b0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q131": {
+  "assunto": "Interpretação de texto: charge, crítica social",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o alvo da crítica da charge sobre o robô Opportunity, enviado a Marte para mandar informações à Terra. Na charge, em vez de enviar dados científicos, o robô aparece envolvido com autorretratos, as famosas selfies, comportamento típico dos usuários de redes sociais. O humor nasce da transferência desse hábito humano para uma máquina de pesquisa, o que satiriza a obsessão contemporânea em produzir e divulgar fotos de si mesmo, inclusive em situações em que isso não faz sentido. Portanto, a crítica recai sobre a circulação digital excessiva de autorretratos. A alternativa A fala de gastos com robôs, tema ausente. A B critica a exploração espacial, o que a charge não faz. A D sugere vulgarização das descobertas, leitura que desvia do foco nas selfies. A E aponta mecanização das atividades humanas, quando ocorre o inverso: a máquina imita um hábito humano. Gabarito: C.",
+  "hash": "7fbbb45c6c6058c9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q132": {
+  "assunto": "Interpretação de texto: ditados populares, intertextualidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como prima Constança usa os ditados populares, definidos no Texto I como frases de verdade comprovada que contêm norma de conduta. No Texto II, ela cita vários provérbios (“Casamento e mortalha, no céu se talha”, “Deus escreve direito por linhas tortas”), mas o narrador revela sua intenção: ela os dizia “procurando interpretar os desígnios de Deus, transformar os seus desejos nos desígnios de Deus”, enquanto ia “tomar suas providências”. Ou seja, os ditados servem para legitimar o que ela própria quer fazer, justificando suas ações. A alternativa A erra, pois o uso é intencional, não mero hábito. A B ignora que ela manipula os ditados. A D diz que eles solucionam um problema, mas quem age são as providências dela. A E toma ao pé da letra a orientação divina, quando o texto mostra que ela disfarça desejos pessoais como vontade de Deus. Gabarito: C.",
+  "hash": "a4f85f0be540c280",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q133": {
+  "assunto": "Música: hip-hop e identidade juvenil",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como se caracteriza a presença do hip-hop no Brasil. O texto mostra que, nos anos 1970, os “bailes black” nas periferias, embalados pela black music americana, disseminaram um estilo que buscava “a valorização da cultura negra, tanto na música como nas roupas e nos penteados”, como no movimento Black Rio. Essa valorização da cultura negra por meio da música, da moda e do comportamento é uma forma de afirmação da identidade dos jovens que participam desse universo. A alternativa A reduz o fenômeno a lazer, quando o texto destaca a valorização cultural. A B erra, pois a indústria fonográfica apenas descobriu o filão depois. A C fala de subversão da proposta original, ideia ausente. A E vê mera reprodução da música norte-americana, ignorando a apropriação e ressignificação feitas pelos jovens brasileiros. Gabarito: D.",
+  "hash": "4de02d4013d97ccf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q134": {
+  "assunto": "Variação linguística: empréstimos linguísticos, história",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que os empréstimos linguísticos são importantes na constituição do português do Brasil. O texto aponta palavras indígenas, africanas e trazidas pelos imigrantes como traço distintivo do português brasileiro, e mostra que, após a vinda da família real e a Independência, o Brasil passou a receber empréstimos europeus sem a intermediação de Portugal. Esses empréstimos, portanto, registram na língua episódios da história do país: a colonização, o contato com povos indígenas e africanos, a imigração e a autonomia política. A alternativa B erra, pois as línguas não se fundiram num só idioma. A C supõe uma língua criada para ser acessível, ideia ausente. A D contradiz o texto, que mostra a divergência entre Brasil e Portugal. A E faz uma comparação de complexidade que o texto não sustenta. Gabarito: A.",
+  "hash": "a934ffd3c1fbb8e5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q135": {
+  "assunto": "Publicidade e linguagem midiática: linguagem verbal e não verbal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o elemento da propaganda que comunica a ideia de transformação social e redução da violência pela palavra. A peça funde dois objetos com sentidos opostos: uma arma de fogo, símbolo da violência, e um megafone, instrumento que amplifica a voz. Essa associação visual sugere a substituição da força pela palavra, ou seja, propõe que a voz seja a “arma” para transformar a sociedade. A alternativa A fala da predominância de tons claros, elemento estético sem esse significado. A C destaca a inicial maiúscula de “voz”, detalhe gráfico que não sustenta sozinho a ideia de combate à violência. A D descreve a mão com o megafone, mas omite a arma, que é essencial para o contraste. A E menciona a propagação do som, que remete à voz, mas não à diminuição da violência. Gabarito: B.",
+  "hash": "8d046958b10e8b98",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de cartaz, pronomes",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a finalidade das marcas de primeira pessoa do plural no cartaz da campanha de amamentação. O texto do cartaz diz “Las mujeres podemos lactar durante el embarazo y en tándem, siendo una práctica natural y respetuosa con nuestros hijos”. Repare que o verbo “podemos” e o possessivo “nuestros” colocam quem fala dentro do grupo das mulheres e mães: o enunciador se apresenta como uma delas, falando de igual para igual com a leitora. Esse recurso cria identificação e proximidade, tornando a mensagem mais acolhedora e convincente, sem tom de ordem. Por isso a alternativa D está correta. A alternativa A erra ao falar em formalidade; o nós inclusivo aproxima, não formaliza. A B fala em impor valores, mas o tom é de partilha, não de imposição. A C sugere uma voz coletiva forjada para garantir adesão, leitura exagerada do recurso. A E confunde o nós com a voz institucional das associações, que aparece só nos logotipos. Gabarito: D.",
+  "hash": "673b9f6adae7c306",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de reportagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tema da matéria apresentada pelo título “A Tall Order” e pelo subtítulo “The sky isn’t the limit”. As duas expressões fazem trocadilho com altura: “a tall order” é uma tarefa difícil, e “o céu não é o limite” sugere ir além do convencional. O texto conta que o arquiteto Charles Wee, cansado de arranha-céus, projetou a Infinity Tower, em Seul, um prédio de 150 andares que pode “desaparecer” ao toque de um botão, pois funciona como uma enorme tela que projeta em sua fachada a imagem do que está atrás dele. Trata-se, portanto, de inovação tecnológica aplicada a um novo arranha-céu em Seul, como diz a alternativa A. A B distorce a palavra “confession”, que só introduz o tédio do arquiteto. A C cita a Califórnia, onde ele apenas trabalhou no início da carreira. A D é o contrário do texto: Wee rejeitou a corrida pelo prédio mais alto. A E generaliza a menção às cidades asiáticas. Gabarito: A.",
+  "hash": "ce2244a92e65b7d7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de texto ensaístico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o dilema do emigrante segundo o autor. O texto apresenta duas atitudes possíveis: viver preso à pátria de origem, cultivando a nostalgia, ou mergulhar na nova cultura, cortando raízes. O ponto central vem no fim: o drama do emigrante é que essa escolha quase nunca é possível em termos absolutos, e, como o mestiço, ele se sente parte de dois mundos sem se integrar por completo a nenhum deles. Essa condição de estar entre duas culturas, sem pertencer plenamente a uma só, é o que se chama de entrelugar. Por isso a alternativa A está correta. A B fala de instabilidade da vida no outro país, aspecto que o texto não discute. A C contraria o texto, que mostra o passado sempre presente pela nostalgia. A D descreve só uma das atitudes, não o dilema. A E também corresponde a apenas um dos caminhos, e o autor diz justamente que a ruptura total não se realiza. Gabarito: A.",
+  "hash": "90d6ef56d1288ac3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de letra de canção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o alvo do protesto na canção “Masters of War”, de Bob Dylan (1963), contexto da Guerra Fria. O eu lírico se dirige aos “senhores da guerra”: os que constroem armas, aviões e bombas, que se escondem atrás de muros e de mesas, que colocam uma arma na mão dele e fogem quando as balas voam, e que mentem como Judas ao dizer que uma guerra mundial pode ser vencida. A crítica, portanto, recai sobre o sistema formado por fabricantes de armamentos e dirigentes que lucram com a guerra e enviam outros para lutar, ou seja, guerras movidas por interesses econômicos. Isso corresponde à alternativa C. A A fala em expansão territorial, tema ausente da letra. A B ataca os soldados, mas o eu lírico se coloca ao lado de quem recebe a arma. A D trata das famílias dos mortos, não mencionadas. A E fala em despreparo dos homens, ideia que não aparece. Gabarito: C.",
+  "hash": "6b66c4159853e3d3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de texto literário",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a percepção do escritor sobre a realidade paraguaia no fragmento. Logo na abertura, o narrador diz que viu “muchas cosas tristes”. Em seguida descreve a terra, de fertilidade “incoercible y salvaje”, que sufoca o homem: ele lança uma semente e nascem cem plantas diferentes, sem saber qual é a sua. Também os caminhos abertos foram devorados pela vegetação, desfeitos pelas inundações e apagados pelo abandono. O tom é de tristeza e impotência diante de uma natureza que vence o esforço humano, isto é, desalento frente às adversidades naturais, como afirma a alternativa A. A B não procede: o autor não demonstra conhecimento botânico, e sim espanto. A C erra porque a terra é fértil demais, não impossível de cultivar. A D extrapola, já que o texto lamenta a perda dos caminhos, não propõe novos. A E culpa o agricultor, quando o texto atribui a dificuldade à natureza. Gabarito: A.",
+  "hash": "3aabb6e713ec09c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de poema",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido dos versos finais de “The Road Not Taken”, considerando a vida como uma viagem. Os versos dizem: duas estradas se separavam num bosque, e eu escolhi a menos percorrida, e isso fez toda a diferença. Na metáfora, as estradas são escolhas da vida; optar pela menos percorrida significa fugir do caminho mais comum, uma decisão ousada. O último verso avalia essa escolha de forma positiva, pois ela foi decisiva para quem o eu lírico se tornou. Por isso a alternativa A, que fala em festejar a ousadia da escolha, está correta. A B fala em lamento e em muitas bifurcações, mas o trecho cita apenas uma e não há tom de queixa. A C lê “less traveled” de forma literal, como se ele viajasse pouco. A D introduz a superação de dificuldades, ideia ausente. A E fala em várias estradas percorridas, quando o poema destaca uma única escolha. Gabarito: A.",
+  "hash": "114619ecaf55e026",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q94-esp": {
+  "assunto": "Língua espanhola: expressões idiomáticas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se infere da expressão “me hace sudar la gota gorda” sobre o ato de escrever para Vargas Llosa. A expressão idiomática equivale, em português, a “suar a camisa” ou “dar um duro danado”: indica grande esforço. No mesmo período, o autor diz que escrever “me cuesta mucho trabajo” e fala da ameaça de paralisia e de seca da imaginação, além de passar meses e anos construindo uma história. Tudo isso reforça que a escrita exige empenho intenso, ou seja, demanda expressiva dedicação, como afirma a alternativa E. A A menciona memória e fantasia, que aparecem no texto, mas não decorrem da expressão destacada. A B fala em imaginação inspiradora, ideia contrária ao esforço descrito. A C trata das experiências de vida como base, outro trecho do texto. A D cita entusiasmo e motivação, que não traduzem “sudar la gota gorda”. Gabarito: E.",
+  "hash": "bdd27fdcbea3e83c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de página da web",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que a internauta Kate Watts fez no site WeFeedback. A página explica que, no mundo desenvolvido, temos comida saborosa o tempo todo e que, se dermos de volta o valor de um desses pratos, podemos mudar a vida de crianças famintas em idade escolar. No formulário, Kate escreve que quer compartilhar “a sushi platter”, que costuma pagar 20 dólares e escolhe 3 porções, total de 60 dólares; a caneca informa que ela alimentará 240 crianças, e o botão diz “Feed them now”. O topo mostra ainda “meals fed to 354,774 children”. Ela fez, portanto, uma doação para caridade, alternativa C. A A erra: ela não comprou comida, apenas usou o preço do sushi como referência. A B não procede, pois não há concurso. A D também não, já que não se trata de pesquisa de opinião. A E confunde doar dinheiro com trabalho voluntário. Gabarito: C.",
+  "hash": "7e567fdf5ddfcbfb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de poema",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tema do poema “El robo”, de Circe Maia. O poema contrasta duas percepções do tempo: para as crianças, o dia tem amplos espaços, e as horas são ruas desimpedidas e avenidas abertas; para os adultos, o tempo se estreita, tudo fica apertado e oprimido, os dias se atropelam, mal amanhece e já é meio-dia, e logo a luz foge para o entardecer. No final, uma voz diz que o dia se foi entre voltas e voltas, e o eu lírico conclui que algum ladrão oculto rouba sua vida. O “roubo” do título é, portanto, a passagem rápida do tempo, e o tom é de angústia, como diz a alternativa C. A A confunde as crianças do poema com crianças abandonadas. A B fala em excesso de trabalho, que não é mencionado. A D lê o ladrão de forma literal, como violência urbana. A E aponta repressão de sentimentos, tema ausente. Gabarito: C.",
+  "hash": "e8ebc170a7ea75a7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de notícia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que caracteriza o Globish segundo o texto. A notícia mostra um coreano e um colombiano conversando num inglês que o falante nativo ao lado não entende. O criador, Jean-Paul Nerrière, diz que o Globish não é uma língua, e sim uma ferramenta de comunicação, sem pretensão de carregar uma cultura. O texto o define como um “English lite”: um meio de simplificar o idioma e dar-lhe regras para que seja entendido por todos. Ou seja, altera a estrutura do inglês para viabilizar a comunicação internacional, como afirma a alternativa D. A A contradiz o criador, para quem o Globish não tem status de língua nem veicula cultura. A B é desmentida pelo exemplo inicial, em que o nativo não entende a conversa. A C também é negada: Nerrière não o vê como projeto utópico tipo esperanto. A E erra porque o Globish é justamente diferente do inglês dos nativos. Gabarito: D.",
+  "hash": "8a5b8f03a5081645",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q96": {
+  "assunto": "Interpretação de texto: intertextualidade, notícia e cartaz",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a relação entre a notícia (Texto I) e o cartaz (Texto II) sobre doação de órgãos. A notícia informa que o número de doadores e de transplantes aumentou em 2012 e que seis estados zeraram a fila de espera por córnea. Note que isso vale apenas para córneas e apenas para alguns estados; não significa que a doação deixou de ser necessária. O cartaz mostra um homem sorridente com o apelo “Seja um doador de órgãos. Avise a sua família.”. Os textos se completam: a notícia mostra o resultado positivo das doações, e o cartaz incentiva que elas continuem. Por isso a alternativa B está correta. A A erra ao dizer que o país superou a necessidade de doação. A C trata a notícia como persuasiva, mas ela é informativa. A D exagera: a notícia é completa sem o cartaz. A E inventa posições opostas, já que ambos são favoráveis à doação. Gabarito: B.",
+  "hash": "9d9684b018dd60e8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q97": {
+  "assunto": "Educação física: esporte e mídia, lutas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o sentido das mudanças de regras incorporadas ao MMA. O texto diz que a modalidade já foi vista como vale-tudo, mas agora tem regras e acompanhamento médico obrigatório para apagar o estigma negativo; também menciona o ringue de oito lados, pensado para dar mais espaço às lutas, e o fato de o MMA superar o boxe como evento. Isso mostra um processo de esportivização: a violência é regulada para proteger os atletas, e a luta é formatada como produto atraente para o público e a mídia, isto é, esporte de espetáculo. Essa é a alternativa E. A A fala em valores lúdicos e lazer para diferentes populações, o que não aparece. A B diz o contrário do texto, que fala em reduzir a violência. A C erra ao apontar a entrada nas academias de ginástica como objetivo. A D fala em defesa pessoal, quando o foco é a competição. Gabarito: E.",
+  "hash": "96197306c5dac35b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q98": {
+  "assunto": "Educação física: suplementação, corpo e mídia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o texto informa sobre a relação entre atividade física e uso de suplementos alimentares. O texto afirma que os suplementos podem beneficiar apenas um pequeno grupo, como atletas competitivos com dieta desequilibrada, mas que adolescentes ativos os usam cada vez mais, muitas vezes acima das doses recomendadas. O segundo parágrafo é decisivo: a mídia estimula esse consumo ao veicular o mito do corpo ideal, e a indústria investiu US$ 46 bilhões em propaganda para persuadir consumidores, encontrando nos adolescentes, em fase de autoafirmação, um público receptivo. Isso corresponde à alternativa B. A A diz que o suplemento é indispensável, o oposto do texto. A C cita musculação para promoção da saúde, ideia não presente. A D menciona distúrbios metabólicos, que o texto não aborda. A E erra porque o possível benefício se refere a atletas, não a quem não pratica atividade física. Gabarito: B.",
+  "hash": "3367e96ba071ddd2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2014-regular-d2-q99": {
+  "assunto": "Literatura brasileira: prosa contemporânea, violência urbana",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ponto comum entre os dois fragmentos, que relacionam campo, cidade, violência e desemprego. No Texto I, João Guedes deixa a campanha (o campo) e, em três anos de pobreza na cidade, se degrada: morre sem dinheiro, dois meses após sair da cadeia por roubo de ovelha. No Texto II, o narrador, ex-presidiário, procura qualquer emprego na cidade, mas todos pedem referências, e a única que ele tem é do diretor do presídio. Nos dois casos, a pobreza de origem se soma à falta de oportunidades no meio urbano, empurrando as personagens para a criminalidade ou mantendo-as nela. Essa é a ideia da alternativa C. A A naturaliza o crime como inerente ao ser humano, o que os textos não sustentam. A B generaliza a cidade grande; Boa Ventura é uma cidadezinha. A D inclui a escolaridade, não mencionada. A E fala em complacência das leis, mas ambos foram presos. Gabarito: C.",
+  "hash": "f7bb2ca46a6ea3eb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
