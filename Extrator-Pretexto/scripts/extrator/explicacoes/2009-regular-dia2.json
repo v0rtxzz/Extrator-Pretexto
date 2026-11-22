@@ -1,0 +1,177 @@
+{
+ "enem-2009-regular-d2-q100": {
+  "assunto": "Funções da linguagem: função emotiva, quadrinhos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se constata na segunda fala do escritor entrevistado nos quadrinhos. O repórter pergunta qual foi a maior motivação para publicar o livro. O escritor responde que publica um livro para parar de escrevê-lo e, em seguida, desabafa, em tom exaltado: não aguentava mais escrever, reescrever, revisar, acrescentar, suprimir, consertar palavrinhas. A repetição da conjunção \"e\", as letras que se espaçam e o gesto exasperado reforçam a carga emocional da fala. O objetivo, portanto, é expressar o seu sentimento de cansaço e exaustão em relação ao processo de produção do livro, como diz a alternativa E. A alternativa A é falsa, pois ele não tenta impedir publicação alguma. A alternativa B erra, já que ele não define a palavra motivação. A alternativa C não se sustenta, porque a fala é um desabafo direto, sem metáforas ou metonímias relevantes. A alternativa D falha porque a fala não é objetiva nem informativa, e sim emotiva. Gabarito: E.",
+  "hash": "6addde7e8fa4db48",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q102": {
+  "assunto": "Teatro e dança: elementos do espetáculo teatral",
+  "dificuldade": 2,
+  "explicacao": "A questão parte de um texto teórico sobre o gênero dramático, que define seus elementos (personagens, ação, situação e tema), e pede uma conclusão correta sobre os elementos de um espetáculo teatral. O texto mostra que o tema é a ideia que o dramaturgo deseja expor e que o texto dramático se complementa na atuação. Na prática teatral, o texto cênico pode ser criado a partir de qualquer material: contos, lendas, romances, poemas, crônicas, notícias, imagens e fragmentos, por meio de adaptação e dramaturgia. Por isso a alternativa C está correta. A alternativa A erra, pois o teatro é arte essencialmente coletiva, envolvendo autor, diretor, atores e técnicos. A alternativa B contradiz a ideia de situação ligada à ação, já que o cenário dialoga com o tema e com a atuação. A alternativa D despreza o corpo do ator, fundamental na comunicação cênica. A alternativa E separa iluminação e som do espetáculo, quando eles integram sua construção desde a produção. Gabarito: C.",
+  "hash": "d5fa02fe66e2d306",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q103": {
+  "assunto": "Educação física: aptidão física, saúde",
+  "dificuldade": 2,
+  "explicacao": "A questão define aptidão física como a capacidade de usar o corpo de forma eficiente nas atividades cotidianas e pede quando uma pessoa tem boa aptidão física. A chave está na palavra \"eficiente\" e na referência às atividades do dia a dia: ter boa aptidão é conseguir realizar as tarefas diárias sem esforço excessivo, e isso vale para qualquer faixa etária, pois cada idade tem suas próprias demandas. Por isso a alternativa C está correta. A alternativa A reduz a aptidão à postura, apenas um de muitos aspectos. A alternativa B fala em exercitar-se por períodos curtos, o que indica pouca resistência, e não boa aptidão. A alternativa D contém uma contradição: quem tem boa aptidão realiza as atividades com vigor e fadiga leve, não de moderada a intensa. A alternativa E descreve uma pessoa sem reservas de energia, o que também indica baixa aptidão. Gabarito: C.",
+  "hash": "26934f97d45ac778",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q104": {
+  "assunto": "Tecnologias da informação e comunicação: hipertexto, autoria",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que, segundo o texto de Marcuschi, o hipertexto muda a noção tradicional de autoria. O texto explica que, diferentemente do texto impresso, lido de forma linear, o hipertexto oferece múltiplos caminhos; o leitor se move entre blocos de forma não sequencial, toma decisões, pode inserir informações novas e criar novos caminhos, tornando-se um leitor-navegador mais ativo. Como dois leitores dificilmente farão o mesmo percurso, cada um monta sua própria versão do texto. Assim, a autoria se divide, e é o leitor quem constrói a versão final, como afirma a alternativa A. A alternativa B contradiz o texto, pois o autor perde o controle absoluto. A alternativa C erra ao dizer que os limites entre leitor e autor ficam mais claros, quando na verdade se tornam difusos. A alternativa D nega o papel ativo do leitor, central no texto. A alternativa E ignora que o leitor pode inserir novos conteúdos e caminhos. Gabarito: A.",
+  "hash": "835435a6b503fdeb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q105": {
+  "assunto": "Gêneros textuais: histórias em quadrinhos, oralidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que os quadrinhos de La Vie en Rose exemplificam sobre o gênero história em quadrinhos. Na tirinha, dois personagens veem o HTML chegar e o cumprimentam: \"Fala, HTML! Como vão as coisas?\". Ele responde com códigos de programação e, no último quadro, entre as marcações, aparece \"Numa boa, e vocês?\". A estrutura é a de um cumprimento informal em conversa presencial, com saudação, pergunta e resposta, e expressões coloquiais como \"Fala\" e \"Numa boa\". Isso mostra que as HQs reproduzem na escrita traços da conversação face a face, como afirma a alternativa D, exemplificada pelo segundo quadrinho. A alternativa A erra, pois a imagem é essencial para entender a situação. A alternativa B é falsa, já que a fala em código HTML justamente dificulta a compreensão, gerando o humor. A alternativa C não se aplica, pois não há variação expressiva de espessura das letras ligada a sentimentos. A alternativa E erra, porque a posição dos balões não é casual e segue a ordem de leitura. Gabarito: D.",
+  "hash": "3d6125c1aedd14bf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q106": {
+  "assunto": "Tecnologias da informação e comunicação: impactos sociais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o papel das novas tecnologias de informação e comunicação no contexto social e econômico descrito no texto. O texto fala da explosão da informação a partir da metade do século XX e afirma que a informática e a internet geram impactos sociais e culturais, aceleram a globalização e ampliam as trocas simbólicas entre sociedades e culturas diferentes. Ou seja, essas tecnologias permitem registrar, circular e compartilhar conhecimento de modo mais amplo e interativo, contribuindo para o desenvolvimento social, como afirma a alternativa D. A alternativa A é exagerada, pois registros históricos existem muito antes das novas tecnologias. A alternativa B contradiz o texto, que destaca impactos culturais e sociais, portanto ligados às ciências humanas. A alternativa C limita indevidamente seu alcance ao jornalismo. A alternativa E é falsa, porque o texto fala em impactos já consolidados, e não em estágio experimental. Gabarito: D.",
+  "hash": "26c8fe4af1b6b594",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q107": {
+  "assunto": "Argumentação: estratégias argumentativas",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a estratégia argumentativa predominante no texto II, em contraste com o texto I. O texto I enumera vantagens do plástico, como atoxicidade, inércia, leveza e possibilidade de reciclagem. O texto II, peça publicitária do Instituto Akatu, apresenta constatações sobre os efeitos das sacolas: são leves e voam ao vento, entopem esgotos e bueiros, causam enchentes e são encontradas no estômago de animais marinhos. A partir desses fatos, conclui que as sacolas têm custo incalculável para o meio ambiente, levando o leitor a evitar seu uso. A argumentação se baseia em informações apresentadas como fatos, como diz a alternativa E. A alternativa A erra, pois não há previsões para o futuro. A alternativa B destaca a morte de animais, que é apenas um dos dados informados, e não o apelo predominante. A alternativa C fala em orientar modos de uso consciente, o que o texto não faz. A alternativa D exagera ao falar em intimidação, já que o tom é informativo. Gabarito: E.",
+  "hash": "39e8b967e2eefdde",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q108": {
+  "assunto": "Interpretação de texto: comparação entre textos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a comparação correta entre os dois textos sobre o plástico. O texto I enfatiza a presença do plástico no cotidiano e suas vantagens: não contamina, protege o produto, é leve e é 100% reciclável, com a única ressalva de que a reciclagem ainda é pouco aproveitada. O texto II alerta para os danos ambientais das sacolas plásticas descartáveis: enchentes, entupimento de bueiros e morte de animais marinhos. Assim, o texto I mostra a versatilidade e as vantagens do plástico, e o texto II alerta para os problemas ambientais decorrentes das embalagens não recicladas, como afirma a alternativa B. A alternativa A inverte os papéis, pois o texto I não faz alerta sobre a reciclagem. A alternativa C erra ao dizer que o texto I não tem ressalva, já que ele lamenta a baixa reciclagem. A alternativa D atribui posicionamentos de fabricantes e consumidores que não aparecem. A alternativa E distorce os dois textos: o I nega a contaminação e o II critica as sacolas. Gabarito: B.",
+  "hash": "db2efb0ef8def55b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q109": {
+  "assunto": "Variação linguística: registro coloquial, tempos verbais",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que revela a linguagem da tirinha de Hagar. No primeiro quadrinho, alguém pergunta a Hagar se ele consertou o vazamento do barco, e ele responde que não. No segundo, com todos afundando, um tripulante diz: \"Pensei que você tinha consertado!\". A forma \"tinha consertado\", o pretérito mais-que-perfeito composto, é a preferida na fala cotidiana, enquanto a norma mais formal usaria o simples \"consertara\". Esse uso do tempo verbal marca o caráter coloquial do diálogo, como diz a alternativa C. A alternativa A erra, pois não há expressões arcaicas, apesar de os personagens serem vikings. A alternativa B é oposta ao que se vê, já que o registro é informal. A alternativa D não procede, porque o vocabulário é comum, sem termos técnicos de emergência. A alternativa E não se sustenta, pois o diálogo não busca estabelecer hierarquia; o humor vem da incoerência entre a resposta de Hagar e a reação do tripulante. Gabarito: C.",
+  "hash": "1f59418fff0508cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q110": {
+  "assunto": "Tecnologias da informação e comunicação: democratização da informação",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que o Portal Domínio Público exemplifica, considerando a função social da informação. O texto diz que o portal propõe o compartilhamento de conhecimentos de forma equânime e gratuita, com uma biblioteca virtual aberta a todos os usuários da internet, e que seu objetivo é promover o amplo acesso a obras literárias, artísticas e científicas em domínio público ou com divulgação autorizada. Acesso gratuito, amplo e para toda a população caracteriza a democratização da informação, como afirma a alternativa C. A alternativa A fala em dependência das escolas públicas, ideia ausente no texto. A alternativa B menciona tecnologia convencional, quando se trata de ambiente virtual, e o foco não é interação entre pessoas. A alternativa D contradiz o caráter gratuito do portal. A alternativa E restringe o público a acadêmicos e educadores, mas o texto inclui a população em geral. Gabarito: C.",
+  "hash": "91d9e2b0a23e1959",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q111": {
+  "assunto": "Variação linguística: tradição oral, identidade cultural",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que é importante preservar produções como a canção folclórica Cuitelinho. O enunciado lembra que a canção foi transmitida por gerações, revela a forma de falar de um povo e registra um momento histórico. A letra traz traços do falar caipira, como \"bera\", \"espaia\", \"parentaia\", \"bataia\" e \"oio\", e menciona a entrada em terras paraguaias em tempo de revolução, alusão à Guerra do Paraguai. Por ser passada oralmente de geração em geração, ela guarda memória linguística e histórica, ajudando a formar a identidade nacional, como afirma a alternativa C. A alternativa A não se ajusta, pois o foco é o registro de um momento histórico e da cultura, não a ficção. A alternativa B erra, porque as formas são variantes populares, não neologismos. A alternativa D é preconceituosa e não tem base, já que se trata de variação, não de incorreção. A alternativa E é falsa, pois a canção mostra variação, e não padronização. Gabarito: C.",
+  "hash": "b5a61abc20c6ff18",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q112": {
+  "assunto": "Literatura e outras artes: Quinhentismo, pintura de Eckhout",
+  "dificuldade": 3,
+  "explicacao": "A questão relaciona a pintura \"Índio Tapuia\", de Albert Eckhout, artista holandês que esteve no Brasil no século XVII, com o trecho da carta de Pero Vaz de Caminha, de 1500, e pede uma conclusão correta. Caminha descreve os nativos: pardos, avermelhados, de bons rostos, andando nus sem vergonha. Eckhout retrata um indígena com seus traços físicos e adornos. Ambos são registros feitos por europeus sobre os habitantes de uma terra que seria colonizada; o ponto comum é justamente a representação desse habitante nativo, como afirma a alternativa C. A alternativa A erra, pois as obras são anteriores ao Romantismo e não expressam melancolia. A alternativa B é injusta com o texto de Caminha, que é descritivo e documental, não fantasioso. A alternativa D atribui um contraste explícito entre culturas que não é o eixo das obras, centradas na descrição do nativo. A alternativa E é falsa, pois nem o trecho nem a pintura tratam de catequese. Gabarito: C.",
+  "hash": "bd720a4aa47e979d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q113": {
+  "assunto": "Tecnologias da informação e comunicação: exclusão digital",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o significado da expressão Divisão Digital, também chamada de Exclusão Digital, Brecha ou Abismo Digital. O próprio texto dá pistas: as novas tecnologias de informação e comunicação estão presentes em todos os meios produtivos, e os termos \"exclusão\" e \"abismo\" indicam que nem todos têm acesso a elas. Quem não tem acesso a computadores, internet e formação para usá-los fica excluído de conhecimentos e habilidades exigidos pelo mercado, e isso aprofunda as desigualdades sociais que já existiam, atingindo sobretudo as populações menos favorecidas. É o que afirma a alternativa D. A alternativa A descreve uma classificação de áreas de aplicação, sem relação com exclusão. A alternativa B fala de áreas do conhecimento não contempladas, não de pessoas excluídas. A alternativa C compara empreendimentos, desviando-se da dimensão social do conceito. A alternativa E trata de uma proposta pedagógica, que nada tem a ver com o sentido de divisão. Gabarito: D.",
+  "hash": "35f8e2bb2922c63c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q114": {
+  "assunto": "Publicidade e linguagem midiática: consumo consciente",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a mudança de comportamento que o texto e a imagem querem provocar no leitor. O texto informa que as metrópoles consomem muitos produtos feitos com recursos da Amazônia e propõe uma atitude: diminuir os impactos à floresta comprando produtos com selos de certificação. Explica ainda que, para receber o selo, os produtos devem ser fabricados sob dez princípios éticos, como respeito à legislação ambiental e aos direitos dos povos indígenas e das populações da floresta. Logo, a mudança desejada é o consumidor certificar-se de que o produto seguiu esses princípios éticos, como afirma a alternativa D. A alternativa A inverte o sentido, pois não se incentiva o consumo de produtos amazônicos em si. A alternativa B restringe a alimentos, quando os exemplos são lápis, móveis, cosméticos e materiais de construção. A alternativa C fala em padronização industrial, não em certificação ética. A alternativa E se aproxima, mas o selo não garante o tratamento dos recursos de cada produto, e sim o cumprimento de princípios éticos. Gabarito: D.",
+  "hash": "aef726fdba77b129",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q115": {
+  "assunto": "Teatro e dança: dança indígena, tradição cultural",
+  "dificuldade": 4,
+  "explicacao": "A questão pede de onde vem o valor da diversidade artística e da tradição cultural na dança Xavante descrita no texto. O autor explica que todos os tipos de dança vêm dos primeiros xavantes, que descobriram pela sabedoria como seria a cultura do povo, e que essa celebração existe até hoje; ou seja, há preservação de uma herança ancestral. Ao mesmo tempo, o padrinho sonha com um determinado canto e planeja para que todos o entoem, o que introduz cantos novos dentro da tradição. A alternativa E resume bem essa combinação entre a gestualidade herdada dos antepassados e a novidade dos cantos. A alternativa A erra, pois a dança é coletiva e orientada pelos padrinhos. A alternativa B toma a forma física, consequência da prática, como origem do valor cultural. A alternativa C fala em multiculturalidade, mas a dança expressa a cultura de um único povo. A alternativa D contradiz o texto, que descreve planejamento feito pelos padrinhos. Gabarito: E.",
+  "hash": "f4ac4c6b605f4538",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q116": {
+  "assunto": "Funções da linguagem: função poética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a função da linguagem predominante no poema de Manuel Bandeira. O texto chama atenção para sua própria construção: repetição anafórica de \"O vento varria\", paralelismo entre as estrofes, inversão da enumeração (\"as folhas, os frutos, as flores\" retornam como \"de frutos, de flores, de folhas\"), aliteração em \"v\" que sugere o som do vento e o paradoxo de que, quanto mais o vento leva, mais a vida fica cheia. Quando a mensagem se volta para sua própria elaboração formal e artística, predomina a função poética, como afirma a alternativa E. A alternativa A erra, pois não há teste do canal de comunicação. A alternativa B não procede, já que o poema não explica o significado de palavras. A alternativa C falha porque o leitor não é chamado a agir. A alternativa D não se aplica, pois o texto não tem caráter informativo sobre fatos reais, e sim expressivo e estético. Gabarito: E.",
+  "hash": "6296eb3846430787",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q91": {
+  "assunto": "Artes visuais: arte afro-brasileira, Rubem Valentim",
+  "dificuldade": 4,
+  "explicacao": "A questão parte da ideia de Darcy Ribeiro de que existem vários Brasis, cada um com sua cultura, e pede a obra que representa a arte brasileira de matriz negro-africana. O ponto central é reconhecer o artista e o repertório visual ligado às religiões afro-brasileiras. Rubem Valentim, pintor e escultor baiano, construiu sua obra a partir dos símbolos do candomblé e da umbanda, como as ferramentas dos orixás (o oxê de Xangô, o abebé de Oxum, as flechas de Oxóssi), transformados em emblemas geométricos de cores fortes. Essa síntese entre geometria construtiva e signos religiosos de origem africana faz de sua obra o exemplo mais claro da vertente negra da cultura brasileira, e por isso a alternativa A está correta. Athos Bulcão é conhecido pelos azulejos modernistas de Brasília, de padrão geométrico sem vínculo com a matriz africana. Rubens Gerchman trabalha com a cultura de massa urbana e a pop art. Victor Vasarely é um artista húngaro-francês da op art, portanto nem sequer brasileiro. Gougon, no contexto da questão, não remete aos símbolos religiosos afro-brasileiros que caracterizam a obra pedida. Gabarito: A.",
+  "hash": "b23f8c824aa7239b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q92": {
+  "assunto": "Variação linguística: registro formal e informal",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o motivo da mudança repentina no modo de falar da gerente durante a conversa telefônica. No início, ela usa linguagem formal e profissional: \"Boa tarde. Em que eu posso ajudá-lo?\", \"O senhor é nosso cliente?\". Quando o cliente se identifica, ela percebe que fala com um conhecido e passa a usar apelido (\"Julinho\"), vocativo informal (\"cara\"), formas reduzidas típicas da oralidade (\"Cê tá\", \"pra\", \"inda\") e convite pessoal. Trata-se de adequação do registro à situação comunicativa: com um amigo, a informalidade é a escolha natural. Por isso a alternativa A está correta. A alternativa B é insuficiente, pois o fato de ser funcionário não explica a intimidade; o que muda tudo é ela reconhecer um amigo. A alternativa C não tem base no texto, que só diz que ele trabalhava em Uberlândia. A alternativa D erra ao falar em intimidade forçada, já que dizer o nome completo é formal. A alternativa E ignora que o interesse profissional manteria o registro formal. Gabarito: A.",
+  "hash": "70c48fcf02646e4c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q93": {
+  "assunto": "Interpretação de texto: leitura de quadro, teste",
+  "dificuldade": 2,
+  "explicacao": "A questão apresenta o quadro de resultados de um teste sobre redes sociais e pede a quem se dirigem as propostas de mudança de comportamento. O teste define três perfis. O pragmático usa as redes como complemento às amizades e à vida profissional, sem problema algum. O aprendiz é um novato que ainda não descobriu como usar os sites, e também não recebe crítica. Apenas o fanático recebe uma recomendação de mudança: sua presença na internet está predominando sobre a vida real, e por isso deve sair mais de casa e encontrar os amigos pessoalmente. Logo, a preocupação com hábitos e a sugestão de mudança se dirigem a quem dedica mais tempo às redes do que ao convívio pessoal, como afirma a alternativa D. A alternativa A fala de adolescentes e sites de entretenimento, que não aparecem no teste. A alternativa B trata de aperfeiçoamento profissional, tema ausente. A alternativa C descreve o pragmático, que não recebe sugestão de mudança. A alternativa E descreve o interesse do aprendiz, sem proposta de mudança. Gabarito: D.",
+  "hash": "4297b3a0922d3345",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q94": {
+  "assunto": "Música: gêneros musicais, chorinho",
+  "dificuldade": 2,
+  "explicacao": "A questão apresenta fotos de grupos musicais e um texto que define música como combinação de sons ao longo do tempo, resultando em produtos diferentes conforme instrumentos, estilo, origem e época. Pede-se a afirmação correta sobre os grupos. A figura 1 mostra um regional típico do choro, com instrumentos como violão, cavaquinho, pandeiro e flauta; o chorinho é um gênero característico da música popular brasileira, surgido no Rio de Janeiro no fim do século XIX. Por isso a alternativa A está correta. A alternativa B erra ao chamar de clássica a música de Tom Jobim, ligado à bossa nova. A alternativa C atribui a uma formação de jazz representantes da música erudita europeia, como Beethoven e Mozart. A alternativa D falha porque a figura 4 mostra o Led Zeppelin, banda de rock com instrumentos amplificados e volume muito acima de 30 a 40 decibéis. A alternativa E contradiz o próprio texto, que fala em infinidade de combinações e produtos diferentes. Gabarito: A.",
+  "hash": "a726dde35e0b3e70",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q95": {
+  "assunto": "Teatro e dança: balé, vanguardas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que o balé Parade, de 1917, reflete sobre seu contexto social, a partir da descrição do texto. O trecho destaca elementos novos em todas as partes do espetáculo: cenário e figurino de Picasso com efeito surpreendente, música de Satie que mistura jazz, música popular e sons reais como tiros, máquina de escrever, sirenes, dínamos e aeroplanos, e uma coreografia feita de colagem de ações isoladas. Esses sons e imagens remetem ao mundo urbano e industrial do início do século XX, marcado pelas inovações tecnológicas. Assim, o balé incorpora essas novidades na cena, na música, na coreografia e no figurino, como afirma a alternativa D. A alternativa A contradiz o texto, que mostra grande mistura cultural. A alternativa B erra a época: em 1917 ocorria a Primeira, e não a Segunda Guerra Mundial. A alternativa C fala em disputa, quando o texto descreve integração de linguagens. A alternativa E é oposta à ideia de colagem e justaposição, que rompe com a narrativa linear. Gabarito: D.",
+  "hash": "74b8f677e34ba134",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q96": {
+  "assunto": "Funções da linguagem: função conativa, imperativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede os recursos usados na campanha do Ministério da Saúde sobre a Influenza A para envolver o leitor e conseguir sua adesão. Observando o cartaz, o texto se dirige diretamente ao leitor com pronomes de segunda pessoa do discurso, ainda que na forma de tratamento \"você\": \"Se você esteve ou manteve contato\", \"cubra sua boca\". Além disso, usa verbos no imperativo, que dão ordens e orientações: \"Entre em contato\", \"Evite a contaminação\", \"cubra\", \"utilize\", \"lave-as\". Esses dois recursos aproximam o texto do leitor e o convocam a agir, característica típica de campanhas institucionais com função apelativa. Por isso a alternativa C está correta. A alternativa A cita a enumeração e os títulos, que organizam a informação, mas não são o principal meio de adesão. A alternativa B aponta orações condicionais e temporais, presentes, mas secundárias. A alternativa D fala de metáforas, que não aparecem no texto. A alternativa E menciona o telefone, que é informação de serviço, não recurso linguístico de envolvimento. Gabarito: C.",
+  "hash": "79704928d7a6c0ab",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q97": {
+  "assunto": "Gêneros textuais: campanha institucional",
+  "dificuldade": 1,
+  "explicacao": "A questão pede de que modo o cartaz do Ministério da Saúde sobre a Influenza A busca solucionar um problema social. O texto se organiza em duas partes: a primeira lista os sintomas (febre alta repentina acima de 38 graus, tosse, dor de cabeça, dores musculares e nas articulações, dificuldade respiratória) e indica o que fazer, entrar em contato com o Disque Epidemiologia; a segunda, sob o título \"Evite a contaminação\", ensina procedimentos como cobrir a boca e o nariz ao tossir, lavar as mãos e usar máscaras. Portanto, o texto orienta a população sobre sintomas e formas de prevenção, como diz a alternativa D. A alternativa A não procede, pois não há descrição da situação do país. A alternativa B erra porque o texto não fala em risco de morte. A alternativa C fala em iminência de pandemia, informação ausente no cartaz. A alternativa E é falsa, já que não há convocação geral para exames, apenas contato em caso de sintomas e contato com área de risco. Gabarito: D.",
+  "hash": "3b8ae8be1006a5a2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q98": {
+  "assunto": "Figuras de linguagem: sonoridade, coloquialismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o trecho da canção de Lobão em que o autor explora, ao mesmo tempo, o extrato sonoro do idioma, isto é, efeitos de som como rima, aliteração e paronomásia, e o uso de termos coloquiais. Nos versos \"lobo-bolo / Tipo pra rimar com ouro de tolo?\", há jogo sonoro evidente: \"lobo\" e \"bolo\" invertem as sílabas e rimam com \"tolo\". Além disso, aparecem marcas de coloquialidade: \"tipo\", usado como expressão informal equivalente a \"como se\", e \"pra\", redução de \"para\". As duas condições pedidas estão presentes, e por isso a alternativa D está correta. A alternativa A tem aliteração em \"b\", mas vocabulário culto (\"bardo\", \"brada\", \"brida\"). A alternativa B usa linguagem elevada, com \"velas pandas\", sem coloquialismo. A alternativa C traz uma imagem metafórica, sem destaque sonoro nem termo coloquial. A alternativa E explora o inglês, com estrangeirismo, mas não o par som e coloquialidade da língua portuguesa pedido. Gabarito: D.",
+  "hash": "ab601a1cce6f2723",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2009-regular-d2-q99": {
+  "assunto": "Literatura brasileira: Simbolismo, Cruz e Sousa",
+  "dificuldade": 3,
+  "explicacao": "A questão pede os elementos formais e temáticos do Simbolismo presentes no soneto Cárcere das almas, de Cruz e Sousa. Na forma, o poema é um soneto com rimas ricas e métrica rigorosa (decassílabos), vocabulário raro e sonoro, maiúsculas alegorizantes (\"Espaço da Pureza\", \"Dor\", \"Céu\", \"Mistério\") e musicalidade. No tema, trata a alma presa ao corpo e ao mundo material, sonhando com a transcendência, o infinito e o mistério, ou seja, uma abordagem metafísica e espiritual de questões universais. Isso corresponde exatamente à alternativa C: refinamento estético da forma e tratamento metafísico de temas universais. A alternativa A erra ao falar em linguagem simples e direta, oposta ao estilo simbolista. A alternativa B aponta lirismo amoroso, que não aparece no poema. A alternativa D atribui preocupação social, ausente no texto. A alternativa E descreve o verso livre e os temas cotidianos do Modernismo, não do soneto rimado e metrificado de Cruz e Sousa. Gabarito: C.",
+  "hash": "d0b7c4d42cb844fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
