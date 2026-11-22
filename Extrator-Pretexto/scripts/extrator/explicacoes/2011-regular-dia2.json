@@ -1,0 +1,352 @@
+{
+ "enem-2011-regular-d2-q100": {
+  "assunto": "Publicidade e linguagem midiática: intertextualidade, dito popular",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o leitor precisa para entender o anúncio das “Noites do Terror”. A imagem mostra pés de um cadáver, com a etiqueta de necrotério presa ao dedo trazendo o nome da atração, e a frase “Quem é morto sempre aparece”. Essa frase retoma o dito popular “Quem é vivo sempre aparece”, usado para cumprimentar alguém que sumiu, trocando “vivo” por “morto” para combinar com o tema de terror e convidar o público. Entender a propaganda exige reconhecer esse intertexto. A alternativa A não basta: identificar-se com o público não explica o jogo da frase. A B fala em sátira às atrações de terror, mas o anúncio as promove. A C diz que os pés foram escolhidos aleatoriamente, quando a etiqueta no dedo é típica de necrotério. A E confunde “do” e “de”; o efeito depende do dito popular, não do sentido literal do nome. Gabarito: D.",
+  "hash": "c0a6b6a9cf106187",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q101": {
+  "assunto": "Música: ironia em canção popular",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que torna atual a canção de Noel Rosa. A letra descreve alguém que tem palacete, joias, criados e automóvel “sem ter nenhuma herança ou parente”, cujo dinheiro “nasce de repente” e que “acha nas ruas” anéis e dinheiro, além de promover festas de caridade. Esse tom de falsa ingenuidade é irônico: insinua que a riqueza tem origem duvidosa, tema que continua presente na sociedade atual, como lembra o Texto II. A alternativa B reduz a crítica aos ricos sem herança, quando o alvo é o enriquecimento suspeito. A C atribui maldade ao povo, mas a pergunta “com maldade” é justamente a desconfiança legítima. A D inverte: quem clama pela honestidade é o povo, não privilegiados. A E toma os eventos beneficentes como foco, quando eles são só mais um sinal irônico da hipocrisia. Gabarito: A.",
+  "hash": "e2011f210df38067",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q102": {
+  "assunto": "Literatura brasileira: Guimarães Rosa, Grande Sertão",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como o trecho de Grande Sertão: Veredas evidencia a relação entre agregados e fazendeiros. Riobaldo conta que Zé-Zim, seu meeiro, não cria nada porque gosta de mudar, e que, como outros, um dia vai embora; Riobaldo lhe dá “proteção”. Em seguida lembra que a mesma proteção foi dada à sua mãe pela família Guedes, que os levou junto quando se mudou. O pobre é livre para partir, “giro-o-giro no vago dos gerais”, mas depende de um protetor proprietário para existir. Essa dupla condição de homem livre e dependente dificulta sua vida material. A alternativa A contraria o texto, pois Riobaldo diz dar proteção. A B fala de transformação de meeiro em proprietário, ausente do trecho. A C culpa os moradores por preguiça, leitura preconceituosa sem base. A E erra porque Riobaldo se aproxima dos agregados ao lembrar que viveu essa condição. Gabarito: D.",
+  "hash": "a57873cc33dc546b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q103": {
+  "assunto": "Interpretação de texto: crônica, ponto de vista",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o ponto de vista do cronista sobre o fim do livro impresso. Braulio Tavares compara a discussão à da suposta extinção do cordel e admite que os folhetos talvez desapareçam, mas afirma que os poemas continuarão publicados e lidos em outros suportes. A metáfora central é “O texto é uma espécie de alma imortal, capaz de reencarnar em corpos variados”: página impressa, Braille, PDF etc. Logo, ele defende que os textos continuarão vivos e reproduzíveis em novas tecnologias, mesmo que os livros desapareçam. A alternativa A contraria a tese: os poemas de cordel sobreviverão. A B afirma a permanência do livro impresso, mas o autor admite seu possível fim. A C fala do fim do prazer de ler impressos, ideia ausente. A E diz que a leitura de obras literárias acabará, o oposto do que o texto defende. Gabarito: D.",
+  "hash": "7d04d3b009ba360f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q104": {
+  "assunto": "Variação linguística: fala popular e identidade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que Noel Rosa propõe, por meio da metalinguagem, em Não tem tradução. O samba fala da própria linguagem: a gíria criada no morro foi aceita pela cidade, o que o malandro pronuncia “é brasileiro, já passou de português”, e “as rimas do samba não são I love you”, enquanto expressões como “alô boy” soam como conversa de telefone. Há uma crítica a quem tem “mania de exibição” com palavras estrangeiras e uma valorização da fala popular como marca legítima da identidade nacional. A alternativa A inverte a proposta, que rejeita os estrangeirismos. A B fala em preservar o português padrão, mas Noel elogia justamente a gíria, que “já passou de português”. A D fala em mudar valores sociais pelo novo ritmo, ideia ausente. A E diz que a malandragem foi aculturada, quando o samba a defende como autêntica. Gabarito: C.",
+  "hash": "fb0ec3252bdf7c59",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q105": {
+  "assunto": "Teatro e dança: dança folclórica",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que a dança, como elemento folclórico, revela. O texto afirma que as danças folclóricas representam tradições e cultura das regiões e estão ligadas a aspectos religiosos, festas, lendas, fatos históricos, acontecimentos do cotidiano e brincadeiras. Isso mostra que a dança expressa múltiplas dimensões de um povo: afetivas, históricas, ideológicas, intelectuais e espirituais, refletindo seu modo de estar no mundo. A alternativa B erra ao desconsiderar fatos históricos, explicitamente citados. A C fala em sobrepor aspectos políticos, ideia ausente e restritiva. A D propõe um ranking de originalidade, sem qualquer apoio. A E desvaloriza as lendas como inverdades com função apenas lúdica, contrariando a ideia de expressão cultural. Gabarito: A.",
+  "hash": "d6eaef948b393f80",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q106": {
+  "assunto": "Coesão e coerência: conectivos e retomada",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a análise dos mecanismos de coesão do fragmento. A expressão “Além disso” acrescenta um novo benefício do estilo de vida saudável (controle da pressão, do colesterol e da glicose) aos já citados, marcando a sequenciação e a adição de ideias. A alternativa B erra porque “mas também”, no par “não só… mas também”, indica adição, não contraste. A C erra porque “como” introduz exemplos (morte súbita, derrame), não uma generalização. A D erra porque “Também” acrescenta mais um benefício, sem valor de justificativa. A E erra porque “fatores” retoma “diminuir o estresse e aumentar a capacidade física”, que somados reduzem as chances de infarto, e não os níveis de colesterol e glicose. Gabarito: A.",
+  "hash": "b8201f23b347417e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q107": {
+  "assunto": "Artes visuais: arquitetura, Niemeyer",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que se observa no desenho de Niemeyer das colunas do Palácio da Alvorada. O croqui mostra poucos traços: cada coluna toca a laje superior num ponto fino e se abre em duas grandes curvas opostas que descem até a base, formando um desenho leve e marcante. A legenda reforça: as colunas seriam mais fáceis de construir “sem aquelas curvas”, mas “foram elas que o mundo inteiro copiou”. Portanto, há traçado simples de amplas linhas curvas opostas, resultando em formas marcantes. A alternativa A fala de capitel, elemento das colunas clássicas que não aparece no desenho. A C diz que as curvas geram saliência e distorção na base, o que não se vê. A D fala em peso e rebuscamento, contrários à leveza do traço. A E aponta excesso ornamental, mas o desenho é sóbrio. Gabarito: B.",
+  "hash": "4a4de3afecd4742c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q108": {
+  "assunto": "Educação física: lutas e artes marciais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o verdadeiro objetivo das lutas, mal compreendido por torcidas e gangues que se apropriam de seus golpes. O texto lembra que, antes de virarem esporte, as artes marciais tinham objetivo guerreiro ou um apelo filosófico como concepção de vida. Esse lado filosófico é o que se perde no uso violento: as lutas permitem desenvolver o autocontrole, o respeito ao adversário e a formação do caráter. A alternativa A repete a origem guerreira, que não é o objetivo a ser valorizado hoje. A C reduz a luta a golpes agressivos de defesa pessoal, justamente a visão equivocada criticada. A D afirma mudança nos princípios filosóficos, ideia ausente do texto. A E reproduz trecho do texto sobre a disseminação, mas não responde ao objetivo educativo da prática. Gabarito: B.",
+  "hash": "a9416d5692948d07",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q109": {
+  "assunto": "Interpretação de texto: objetivo do autor",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o objetivo do autor ao discutir o envelhecimento. O texto apresenta Cícero, que nota que todas as idades têm encantos e dificuldades e aponta o paradoxo de desejarmos vida longa e, ao alcançá-la, cairmos em melancolia. A conclusão revela a intenção: “Ler as palavras de Cícero sobre envelhecimento pode ajudar a aceitar melhor a passagem do tempo”. Portanto, o autor quer mostrar que é possível aceitar o envelhecimento sem angústia. A alternativa A é verdade óbvia, mas não é o objetivo argumentativo. A B fala em contar fatos, mas o texto é opinativo e quer convencer. A C contraria o texto, que fala dos encantos de todas as idades. A D propõe lutar contra o envelhecimento, o oposto de aceitá-lo. Gabarito: E.",
+  "hash": "02825f5f2a46f507",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q110": {
+  "assunto": "Artes visuais: arte contemporânea, ressignificação do objeto",
+  "dificuldade": 4,
+  "explicacao": "A questão pede as características da obra Tronco com cadeira, de Nelson Leirner, relacionada ao texto de Aniela Jaffé. A imagem mostra uma cadeira comum encaixada num tronco de árvore bruto, como se tivesse se fundido a ele. A cadeira perde sua função de sentar; segundo o texto, o objeto é exaltado, ganha significado “mágico” e sua “realidade intrínseca foi anulada”. Isso caracteriza a releitura do objeto, deslocado de seu uso cotidiano para gerar novos sentidos, numa proposta que se afasta da representação e se aproxima do abstrato, do simbólico. A alternativa A fala em funcionalidade, mas a cadeira justamente perde a função. A B cita futurismo e geometria abstrata, sem relação com a peça. A C menciona construtivismo e módulos, ausentes. A E fala em representação figurativa do cotidiano, mas o objeto não representa o cotidiano: é retirado dele e ressignificado. Gabarito: D.",
+  "hash": "31764a7e6eb88990",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q111": {
+  "assunto": "Gêneros textuais: anedota",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o gênero do texto “No capricho”. Trata-se de uma narrativa curta, com poucos personagens (Adãozinho e o delegado), situação simples e um desfecho surpreendente que provoca o riso: depois de chamar a mulher do quadro de feia, o caboclo descobre que é a mãe do delegado e tenta consertar dizendo que é “uma feiura caprichada”. A marcação da fala caipira, o tom de causo e o final engraçado são típicos da anedota, cujo objetivo é divertir. A alternativa B não serve, pois a crônica reflete literariamente sobre o cotidiano, e aqui tudo converge para a piada. A C erra porque não há depoimento de experiência pessoal do narrador. A D fala em fatos verídicos descritos minuciosamente, o que não ocorre num causo inventado e enxuto. A E fala em registro impessoal de situações reais, característica da reportagem, ausente aqui. Gabarito: A.",
+  "hash": "10ec2163357331d0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q112": {
+  "assunto": "Artes visuais: arte rupestre e grafite",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o elemento comum entre a pintura rupestre da Toca do Salitre (Piauí), no Texto I, e o grafite urbano, no Texto II. A primeira imagem mostra figuras humanas estilizadas pintadas na rocha; a segunda, figuras humanas contorcidas e letras grafitadas num muro da cidade. Em ambos os casos, pessoas usam paredes como suporte para expressar ideias, crenças e visões de mundo do seu tempo, deixando registro da sociedade em que vivem. A alternativa A fala em tintas naturais, que não valem para o grafite feito com spray. A B fala em inovação técnica, o que não une as duas manifestações. A D e a E falam em uso restrito pelas classes dominantes ou pela elite, ideia contrária ao grafite, visto como arte marginal, e sem base para a arte rupestre. Gabarito: C.",
+  "hash": "1e99b441c5ab33a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q113": {
+  "assunto": "Literatura brasileira: Manuel Bandeira, Modernismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede para onde aponta o contraste entre campo e cidade no poema Estrada, de Manuel Bandeira. O eu lírico prefere a estrada da roça à avenida urbana, pois ali cada criatura é única. A vida rural parece calma, quase parada, mas tudo tem “caráter impressivo que faz meditar”: um enterro a pé, a carrocinha de leite e o murmúrio da água, que sugere “Que a vida passa! que a vida passa! / E que a mocidade vai acabar”. Assim, a observação da aparente inércia rural leva à percepção da efemeridade da vida. A alternativa A inverte a preferência do eu lírico, que valoriza a estrada. A C restringe a meditação à juventude e fala em opção pelo bucólico, sem captar o tema central da passagem do tempo. A D e a E exageram o tom: o poema constata a fugacidade com serenidade, sem insegurança nem medo da morte. Gabarito: B.",
+  "hash": "2996a2366b37b1c2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q114": {
+  "assunto": "Artes visuais: cubismo, Picasso",
+  "dificuldade": 3,
+  "explicacao": "A questão pede as características plásticas de Guernica, de Picasso. A imagem mostra um grande painel em tons de preto, branco e cinza, com figuras fragmentadas e simbólicas: o cavalo agonizante, a mãe com o filho morto, a lâmpada em forma de olho, o braço com a lamparina, a figura que grita com os braços erguidos. Os planos se sobrepõem e várias dimensões do bombardeio aparecem ao mesmo tempo, sem perspectiva realista, voltadas frontalmente ao espectador. Por isso é um painel ideográfico, monocromático, que renuncia à representação fiel da realidade. A alternativa B erra ao falar em forma fotográfica e perspectiva clássica, recusadas pelo cubismo. A C diz que a obra é sem emoção, quando expressa dor intensa. A D fala em minimizar a dor humana, o oposto da obra. A E repete o erro do caráter fotográfico e da ausência de sentimento. Gabarito: A.",
+  "hash": "b07756186247a082",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q115": {
+  "assunto": "Argumentação: cidadania e letramento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que o autor faz ao afirmar que ler e escrever não bastam para garantir a cidadania. O texto reconhece que a leitura e a escrita viabilizam melhor participação social, mas sustenta que a condição cidadã no Brasil depende, sobretudo, da ruptura com o ciclo da pobreza que penaliza grande parte da população. Trata-se, portanto, de uma avaliação crítica da condição cidadã do brasileiro. A alternativa A erra porque o autor não critica os processos de alfabetização. A B é vaga: o texto não descreve o domínio da leitura no Brasil. A C fala em incentivo à participação comunitária, que não é o objetivo do argumento. A E diz que o texto define instrumentos eficazes para elevar a condição social, o que ele não faz; apenas aponta a necessidade de romper com a pobreza. Gabarito: D.",
+  "hash": "5a97074ed8200834",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q116": {
+  "assunto": "Literatura brasileira: Gilka Machado, Simbolismo e Modernismo",
+  "dificuldade": 4,
+  "explicacao": "A questão pede quais traços modernistas aparecem no poema Lépida e leve, de Gilka Machado. O texto explora a palavra “língua” em vários sentidos ao mesmo tempo: órgão do corpo, ligado ao beijo e ao erotismo (“velosa e doce”, “que me vestes quase”), e linguagem (“que me convences de que sou frase”, “carne de som que à ideia emprestas”). Por meio dessa polissemia, a voz feminina constrói sua identidade e seu desejo, e o léxico é renovado com criações como “língua-lama” e “língua-resplendor”. A alternativa A erra porque o poema é metafórico e formalmente cuidadoso. A B contraria o texto, que mostra a mulher apropriando-se da linguagem. A C fala em questionar o trabalho intelectual da mulher, ideia ausente. A D menciona simplificação verbal, mas a linguagem é elaborada e rica. Gabarito: E.",
+  "hash": "dde0d7f4eaa7164e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q117": {
+  "assunto": "Literatura brasileira: Naturalismo, O Cortiço",
+  "dificuldade": 3,
+  "explicacao": "A questão pede por que o trecho de O Cortiço mostra a prevalência do elemento brasileiro sobre o português. No início, o fado “harmonioso e nostálgico dos desterrados” deixa todos tristes, inclusive os brasileiros. De repente, o cavaquinho e o violão rompem com um chorado baiano, e bastam os primeiros acordes da música crioula para despertar o sangue de toda aquela gente, com notas cada vez mais ardentes e sensuais. A música brasileira envolve a todos e cala a melancolia do fado, simbolizando a força do meio brasileiro sobre o português, tema típico do Naturalismo. A alternativa A erra porque o fado não tem personagens nomeados, mas isso não é o critério de prevalência. A B fala de cenário natural, ausente do trecho. A D inverte: o brasileiro é marcado pela sensualidade, não pelo sentimentalismo. A E fala de habilidade instrumental, sem apoio no texto. Gabarito: C.",
+  "hash": "bd2c6c1a55cfab32",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q118": {
+  "assunto": "Literatura brasileira: metapoesia, função da literatura",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que o poema “Guardar” afirma ao tratar a poesia como forma de guardar. O texto redefine o verbo: guardar não é trancar em cofre, mas olhar, admirar, iluminar e ser iluminado, velar por algo. Por isso “melhor se guarda o voo de um pássaro / Do que um pássaro sem voos”, e se escreve e se declama um poema “para guardá-lo”. O poema conserva vivas a experiência, a emoção e o olhar humano sobre as coisas, reforçando o papel da literatura em promover a subjetividade e os valores humanos. A alternativa A fala em estudos históricos, ausentes do texto. A B opõe lembranças individuais a narrativas coletivas, comparação que o poema não faz. A D propõe restringir a literatura a quem tem maior repertório, ideia contrária ao gesto de publicar e declamar. A E afirma superioridade da escrita poética, hierarquia que o texto não estabelece. Gabarito: C.",
+  "hash": "4f4a352d4f95b687",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q119": {
+  "assunto": "Variação linguística: formação do português brasileiro",
+  "dificuldade": 2,
+  "explicacao": "A questão pede de que resulta o patrimônio linguístico brasileiro, segundo o texto de Teyssier. O autor afirma que, durante muito tempo, português e tupi “viveram lado a lado como línguas de comunicação”: os bandeirantes usavam o tupi, e Vieira relata que, em São Paulo, as famílias de portugueses e índios falavam em casa a língua dos índios, enquanto o português era aprendido na escola. Isso evidencia uma convivência pacífica e o uso simultâneo das duas línguas. A alternativa A erra, pois a escola ensinava português, não era contribuição indígena. A B e a D falam de diferenças entre as línguas, tema que o texto não discute. A C desloca o foco para a literatura de Vieira, citado apenas como testemunho histórico. Gabarito: E.",
+  "hash": "51e07ed7a4720345",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q120": {
+  "assunto": "Funções da linguagem: função emotiva",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que caracteriza a função emotiva na canção de Geraldo Vandré. A função emotiva, ou expressiva, está centrada no emissor e revela seus sentimentos e sua atitude pessoal. Na letra, isso aparece no uso da primeira pessoa e na exposição da dor amorosa: “A dor que foi maior do que é capaz meu coração”, “eu vou voltar pra mim / Seguir sozinho assim / Até me consumir ou consumir toda essa dor”. A alternativa B descreve a função referencial, voltada a informações objetivas. A C corresponde à função conativa ou apelativa, que busca persuadir o receptor. A D define a função metalinguística, em que a linguagem fala de si mesma. A E refere-se à função fática, que testa ou mantém o canal de comunicação. Gabarito: A.",
+  "hash": "ff2ebbfd4ff9971c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q121": {
+  "assunto": "Funções da linguagem: função referencial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede por que predomina a função referencial na notícia sobre o Aquífero Alter do Chão. A função referencial está centrada no assunto e busca transmitir informações de modo objetivo. O texto apresenta dados precisos: volume estimado de 86 000 km³ de água doce, localização sob Amazonas, Pará e Amapá, comparação com o Aquífero Guarani, de 45 000 km³, e a fala de um geólogo da UFPA como fonte. Assim, o autor prioriza aspectos objetivos e precisos. A alternativa A fala em opiniões, mas a notícia não expõe a opinião do autor. A C corresponde à função conativa, de persuasão. A D corresponde à função poética, centrada na elaboração estética. A E fala em aspectos subjetivos, contrários à objetividade da notícia. Gabarito: B.",
+  "hash": "794eff78fbc0210c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q122": {
+  "assunto": "Publicidade e linguagem midiática: metalinguagem",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a estratégia reforçada pelo recurso gráfico do anúncio do Conar. O título diz “O Conar existe para coibir os exageros na propaganda.” e, logo abaixo, aparece riscada a frase “E ele é 100% eficiente nesta missão.”. O próprio anúncio corta o exagero que seria típico de uma propaganda, mostrando na prática o que o órgão combate. O texto segue a mesma linha: admite não ser perfeito, recusa o eufemismo “meia-verdade” e avisa que não arredondou 29 para 30 anos. A peça usa a linguagem publicitária para falar da própria publicidade, ou seja, subverte o fazer publicitário pela metalinguagem. A alternativa A erra porque o destaque não está no título em detrimento do resto, mas na frase riscada. A B cita a 1ª pessoa do plural, que não é o recurso gráfico em questão. A C fala na história do órgão, mencionada apenas de passagem. A E aponta jogo de palavras, quando o efeito é visual. Gabarito: D.",
+  "hash": "c55540d9c30036c6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q123": {
+  "assunto": "Publicidade e linguagem midiática: anúncio institucional",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo do texto do Conar, considerando autoria, vocabulário e argumentos. O anúncio foi publicado numa revista de grande circulação, usa linguagem acessível e próxima (“cá entre nós”, “viu só?”) e explica quem é o Conar, qual sua missão de zelar pela ética na publicidade e como qualquer pessoa que se sinta enganada por uma peça publicitária pode fazer uma reclamação. O destinatário é o consumidor em geral, e o objetivo é informá-lo sobre a atuação do órgão. A alternativa B erra ao restringir o público aos publicitários. A C fala em chefes de família, público não indicado no texto. A D e a E se dirigem a empresários e empresas, mas o texto fala diretamente ao leitor comum e à sua possibilidade de denunciar. Gabarito: A.",
+  "hash": "c3e70b17fa019ce9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q124": {
+  "assunto": "Publicidade e linguagem midiática: estratégias persuasivas",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o principal recurso argumentativo do anúncio de campanha de inverno. O título diz “Se no inverno é difícil acordar, imagine dormir.” O leitor reconhece a pequena dificuldade de sair da cama no frio e é levado, pelo jogo entre “acordar” e “dormir”, a comparar seu incômodo com o de milhões de necessitados que, por causa da fome e do frio, nem conseguem dormir. Assim, o problema do leitor é relativizado diante do problema alheio, e o texto pede uma doação para que ele “durma com a consciência tranquila”. A alternativa A fala em ideário populista, inexistente no anúncio. A B diz que o tratamento informal suaviza a seriedade, o que não ocorre. A C afirma que a linguagem figurada desvia a atenção do apelo financeiro, mas o pedido de depósito é explícito. A D fala em supervalorizar as condições dos necessitados, quando os numerais indicam a dimensão do problema. Gabarito: E.",
+  "hash": "e3384e43a2cf5cd0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q125": {
+  "assunto": "Variação linguística: língua e identidade nacional",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a reflexão proposta pelo texto sobre o Museu da Língua Portuguesa. O fragmento diz que o conceito do museu é apresentar o idioma como algo vivo e “fundamental para o entendimento do que é ser brasileiro” e que a forma como falamos o português é “talvez a melhor expressão da brasilidade”. O foco é, portanto, a importância da língua para a construção da identidade nacional. A alternativa A fala em inauguração e investimento em cultura, que o texto não menciona. A C cita afetividade do brasileiro, ideia ausente. A D trata de políticas públicas, assunto que não aparece. A E menciona diversidade étnica, não abordada no trecho. Gabarito: B.",
+  "hash": "c5cf538c1c54d9fd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q126": {
+  "assunto": "Argumentação: cartas de leitor, comparação de textos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o ponto comum entre as duas cartas de leitores sobre desastres. O Texto I afirma que não se pode culpar as vítimas nem a natureza e conclui que “sobram desculpas esfarrapadas e falta competência da classe política”. O Texto II critica governo e prefeitura por culparem os moradores e exigirem realocação, e propõe um serviço preventivo nos moldes do SUS, sugerindo que o poder público não age como deveria. Ambos, portanto, apontam a incapacidade política de agir com diligência diante dos problemas sociais. A alternativa A fala em trabalho voluntário contínuo, que nenhum dos textos defende. A B diz que as catástrofes são indevidamente atribuídas aos políticos, o oposto do que os leitores afirmam. A D aparece só no Texto II. A E contraria ambos, que defendem ações preventivas. Gabarito: C.",
+  "hash": "be6e945564b77f35",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q127": {
+  "assunto": "Publicidade e linguagem midiática: verbal e não verbal",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia do anúncio de adoçante com o mote “Mude sua embalagem”. A imagem mostra um saco de açúcar com formato de barriga flácida, inclusive com umbigo, e no canto um sachê fino de adoçante. A associação é direta: consumir açúcar leva a um corpo fora de forma, e trocar a “embalagem” pelo adoçante sugere um corpo mais magro. A alternativa A fala em ridicularizar o cliente, mas o anúncio usa humor sem atacar o consumidor. A B cita a tendência de hábitos saudáveis em geral, enquanto o foco é a troca de um produto específico. A C critica industrializados, mas o adoçante também é industrializado. A E incentiva prática esportiva, que o anúncio não menciona; a solução proposta é o adoçante. Gabarito: D.",
+  "hash": "12a3c13f93410105",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q128": {
+  "assunto": "Variação linguística: norma brasileira e europeia",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a ideia principal do texto de Dinah Callou sobre normas linguísticas. O fragmento afirma que normas prestigiadas e estigmatizadas se sobrepõem no território brasileiro, “sem, contudo, anular a interseção de usos que configuram uma norma nacional distinta da do português europeu”, e que a bifurcação entre as variantes começou a partir do século XVIII. Portanto, o texto chama a atenção para a existência de usos que caracterizam uma norma brasileira diferente da de Portugal. A alternativa A fala em desconsideração das normas populares pelos falantes cultos, ideia ausente. A B distorce o século XVIII, que marca a separação das variantes, não a difusão do português de Portugal. A D contraria o texto, que cita normas cultas locais e populares. A E propõe rejeitar usos frequentes, o oposto da visão descritiva do texto. Gabarito: C.",
+  "hash": "f8064602a992635e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q129": {
+  "assunto": "Gramática: pronomes retos e oblíquos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que “arrasar eles” é inadequado segundo a norma padrão. Na tira, a cobra diz “Vamos massacrá-los!” e depois “Vamos arrasar eles”; a outra interrompe: “Mas antes, vamos acertar o pronome”. O humor vem da preocupação gramatical em meio ao ataque. Na norma padrão, o pronome reto “eles” exerce função de sujeito, enquanto o objeto direto deve ser expresso pelo pronome oblíquo: “arrasá-los”. Usar o pronome reto como objeto contraria a marcação das funções sintáticas. A alternativa A erra porque “arrasar eles” é comum na fala. A C erra, pois não há problema de concordância verbal. A D erra, já que a frase não fica ambígua. A E erra porque não há dois sujeitos; o problema é o pronome de sujeito em posição de objeto. Gabarito: B.",
+  "hash": "aafd2eb8f4fd96c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q130": {
+  "assunto": "Variação linguística: variação regional, léxico",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o que revela a variedade de nomes para a Manihot utilissima. O texto lista aipim, castelinha, macaxeira, maniva e maniveira e afirma que as designações “podem variar de região”, sem mudar a espécie: é sempre a mesma planta, a mandioca. Trata-se de variação linguística regional, ou diatópica, na nomeação de um mesmo referente. A alternativa B erra porque mandioca não é nome exclusivo da Amazônia. A C erra porque “pão-de-pobre” deve valer em todo o território nacional, segundo o texto. A D erra ao dizer que os nomes designam espécies diferentes. A E erra porque os nomes variam conforme a região, não conforme particularidades da planta. Gabarito: A.",
+  "hash": "acf127c13ad12e97",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q131": {
+  "assunto": "Variação linguística: norma padrão e uso real",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a conclusão coerente com o texto sobre a pluralidade de normas. A autora afirma que certos usos, como “tem” por “há”, “para mim fazer” e “aluga-se casas”, ocorrem “até mesmo em falantes que dominam a variedade padrão”, pois revelam tendências de mudança da língua que não podem ser bloqueadas por um ideal linguístico. Assim, mesmo falantes escolarizados mostram a diferença entre a norma idealizada da gramática e a norma efetivamente praticada. A alternativa A atribui esses usos a estudantes que desconhecem fala e escrita, mas o texto os vê como tendências da língua. A C fala em dificuldades de escrita de moradores de regiões, interpretação ausente. A D atribui intenção de esconder ignorância, juízo de valor que o texto rejeita. A E trata o uso de “ter” como erro, contrariando a visão descritiva da autora. Gabarito: B.",
+  "hash": "e0af03e2596400e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q132": {
+  "assunto": "Variação linguística: empréstimos e identidade indígena",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que revela a adaptação de termos da informática para o guarani pela aldeia Sapucaí. O cacique disse que não queriam chamar o computador de “computador”, e a comunidade criou “aiú irú rive” (caixa para acumular a língua), além de “angojhá” para mouse e “oventã” para windows. Em vez de adotar os estrangeirismos, os guaranis usam a própria língua para nomear a nova tecnologia, preservando sua identidade cultural mesmo usando ferramentas de outros grupos. A alternativa A fala de possibilidades de comunicação, mas não explica a criação de palavras. A B descreve o uso da internet para documentos, sem relação com a adaptação vocabular. A D trata da adesão ao projeto do CDI, apenas contexto da chegada da rede. A E fala da apropriação gradual da tecnologia, sem destacar a conservação do idioma. Gabarito: C.",
+  "hash": "e8d9fd1be40e6214",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q133": {
+  "assunto": "Educação física: postura corporal e tecnologia",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o problema físico ilustrado na imagem. A charge retoma a famosa sequência da evolução humana: do macaco curvado ao homem ereto, que carrega lança e ferramentas. No último quadro, porém, o homem aparece sentado diante do computador, novamente curvado, com as costas arqueadas e a cabeça projetada para a tela. A crítica é que o uso contínuo e inadequado do computador provoca má postura corporal, como uma volta ao corpo encurvado. A alternativa A fala em dores de cabeça, estresse e família, que não aparecem na imagem. A B fala em diminuição de problemas de visão, sem relação com o desenho. A C menciona cientistas com LER, o que não está representado. A D cita sedentarismo e obesidade, mas a figura destaca a postura, não o peso. Gabarito: E.",
+  "hash": "034a231316585bb2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q134": {
+  "assunto": "Tecnologias da informação e comunicação: charge, impacto tecnológico",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que a metáfora evolucionista da charge sugere sobre o impacto tecnológico. A sequência mostra o ser humano se erguendo e incorporando ferramentas (lança, arado, britadeira) até terminar sentado e curvado diante do computador. A última etapa sugere que a nova tecnologia passou a moldar o próprio homem, que agora depende dela no trabalho e no cotidiano, a ponto de seu corpo se adaptar à máquina. Surge, assim, um homem dependente de um novo modelo tecnológico. A alternativa B fala de inventos que destroem a realidade, ideia exagerada. A C trata de exclusão digital, tema ausente da imagem. A D diz que os equipamentos dificultam o trabalho, o que a charge não afirma. A E afirma retrocesso causado pela lança e pela máquina, mas essas etapas aparecem como avanço; só a postura final ironiza a evolução. Gabarito: A.",
+  "hash": "014332af00c43db3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q135": {
+  "assunto": "Tecnologias da informação e comunicação: redes sociais, concisão",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma conclusão coerente sobre o Twitter, a partir do texto. O fragmento afirma que a premissa do microblog é dizer algo em 140 caracteres, que ele abriga usos variados, de diário a literatura e jornalismo, e que entender seu sucesso pode ajudar a aprimorar “um recurso vital à escrita: a concisão”. Assim, o Twitter estimula frases claras e objetivas, o que potencializa a comunicação interativa. A alternativa A diz que é recurso elitizado, ideia ausente, já que o número de usuários só cresce. A B afirma que serve para aquisição da escrita, o que o texto não sustenta. A C e a D o consideram pouco útil ou prejudicial, contrariando a avaliação positiva do texto. Gabarito: E.",
+  "hash": "3925308af8a86158",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de reportagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido do neologismo “desmachupizar”, criado a partir de Machu Picchu. O texto explica que é preciso buscar visitantes nas demais atrações do Peru, porque a cidadela inca concentra o turismo: representa cerca de 70% da receita do setor, e a Unesco adverte que o monumento está “cercano al punto de saturación”, recomendando que o governo não promova a captação de novos visitantes. Assim, “desmachupizar” significa diminuir a dependência e a pressão turística sobre Machu Picchu, ou seja, o problema é o excesso de turistas na terra dos incas. A alternativa A inverte a situação, pois não há escassez de turistas. A B cita o lago Titicaca apenas como destino complementar, sem falar de acesso difícil. A C exagera: fala-se em saturação, não em destruição da arqueologia. A E contraria o texto, que diz que o país tem muitas atrações, inclusive Arequipa. Gabarito: D.",
+  "hash": "bba3381aebab741b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de notícia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que a expressão “university graduates” revela sobre a pesquisa. O texto afirma que ir à universidade parece reduzir o risco de morrer de doença coronariana e que quem deixa a escola antes dos 16 anos tem cinco vezes mais chance de sofrer um ataque cardíaco e morrer do que os graduados. A expressão marca o polo de maior escolaridade da comparação, de modo que a conclusão da pesquisa é: maior nível de estudo, menor risco de ataque do coração. A alternativa A confunde os 10 000 pacientes estudados com o número de pessoas atacadas pela doença. A B distorce os 16 anos, que é a idade de abandono escolar, não de ocorrência da doença. A C fala de divulgação acadêmica, assunto ausente do texto. A D trata de alerta a jovens americanos, mas o estudo é americano com pacientes do mundo todo e não menciona campanha. Gabarito: E.",
+  "hash": "39431a55a278945c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q92-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a intenção revelada pelo título da palestra “Muerto por el código: transparencia de software en los dispositivos médicos implantables”. A expressão “muerto por el código” já antecipa o tema: falhas de programação em aparelhos implantados, como marca-passos, podem matar. O texto confirma isso ao falar do “riesgo potencialmente mortal de los defectos informáticos” e da ameaça crescente à saúde pública, além de lembrar que o software permanece oculto a pacientes e médicos. Portanto, o objetivo é alertar sobre os riscos mortais de certos softwares de uso médico. A alternativa A fala em novas experiências de tratamento, o que não aparece. A C atribui as falhas aos médicos, mas o problema está no código, não na implantação. A D sugere divulgação comercial de lançamentos, oposta ao tom de alerta. A E promete listar defeitos mais comuns, o que o texto não faz; ele cita falhas em outras áreas apenas como comparação. Gabarito: B.",
+  "hash": "b4be65f16593ad97",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de charge",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que a aluna tenta fazer na charge. No quadro está escrito “Reports due today!” (relatórios para entregar hoje), e a estudante diz: “My report is about how important it is to save paper, electricity, and other resources. I’ll send it to you telepathically.” Ou seja, ela não traz nenhum relatório e usa o próprio tema, a economia de papel e energia, como desculpa para entregá-lo “por telepatia”. O humor está justamente nesse argumento esperto para convencer a professora de que o trabalho foi feito. A alternativa A fala de trabalho já entregue, o que não ocorreu. A B supõe elogio ao tema, mas ela não avalia o tema, apenas o usa como pretexto. A C trata de sugerir novas pesquisas, ausente da fala. A D menciona reclamação de prazo, mas a aluna não contesta a data, apenas tenta driblar a entrega. Gabarito: E.",
+  "hash": "973f188721712c65",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de texto informativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma das tarefas das delegações nacionais na 34ª Sessão do Comitê do Patrimônio Mundial. O segundo parágrafo diz que o Comitê reúne mais de 180 delegações “para deliberar sobre las nuevas candidaturas y el estado de conservación y de riesgo de los bienes ya declarados Patrimonio Mundial”. Logo, discutir o estado de conservação dos bens já declarados é exatamente uma das funções citadas. A alternativa A troca os papéis: o Icomos fornece análises, e o texto não fala em reuniões das delegações com ele. A B confunde a Convenção de 1972, que respalda o Comitê, com uma cerimônia de recepção. A C atribui ao Ministério da Cultura as análises, que vêm de Icomos, ICCROM e IUCN; o ministério apenas dá as boas-vindas. A E fala da organização da próxima reunião, tarefa não mencionada. Gabarito: D.",
+  "hash": "8704f5aa3388d2ca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de reportagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o tema do projeto Mappiness. O texto explica que se trata de um aplicativo que pede ao usuário que registre seu humor e sua situação, e cita o site do projeto: “We’re particularly interested in how people’s happiness is affected by their local environment ― air pollution, noise, green spaces”. Portanto, o foco é a relação entre o nível de felicidade das pessoas e o ambiente em que estão. A alternativa A toma a frase “We were happier during the war” como tema, mas ela só ilustra a diferença entre felicidade e bem-estar. A B transforma uma dúvida do autor (“Will it work?”) no objeto do projeto. A C inventa conversas ao celular com familiares; o celular é só o meio de registro. A E menciona grafites, ausentes do texto. Gabarito: D.",
+  "hash": "6b1dfb66e9cf8032",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de texto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede como o tango é reconhecido dentro da história argentina. O texto mostra uma trajetória de mudanças: nasce nos bairros pobres de Buenos Aires, passa ao cabaré e à classe média, nos anos 1920 “se anima incluso a traspasar las fronteras del país” e chega aos salões de Paris, e hoje “revive” em versões de grupos de rock e em filmes estrangeiros “que lo divulgan por el mundo entero”. Assim, o tango é reconhecido por sobreviver e se difundir, ultrapassando as fronteiras do país. A alternativa A contraria o texto, que descreve transformações. A B é desmentida pela chegada a Paris e ao mundo. A D erra porque o caráter “malevo” primitivo foi substituído por nova poesia. A E ignora que as novas composições seguiram concepções estéticas de Londres e Paris. Gabarito: C.",
+  "hash": "997507d4082f9997",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q94-ing": {
+  "assunto": "Língua inglesa: interpretação de letra de canção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o alerta feito por Bob Marley em War. A letra repete a estrutura “until… war”: enquanto a filosofia que considera uma raça superior e outra inferior não for desacreditada, enquanto houver cidadãos de primeira e de segunda classe e enquanto a cor da pele importar mais que a cor dos olhos, haverá guerra em toda parte (“everywhere is war”). Logo, a canção alerta para a persistência da guerra enquanto existirem diferenças raciais e sociais. A alternativa A contraria o texto: os africanos dizem que vão lutar, não ficar inertes. A C fala de diferenças culturais entre países africanos, tema ausente. A D inventa um conflito entre moçambicanos e angolanos, quando ambos aparecem como vítimas de regimes opressores. A E inverte o sentido: as diferenças são apresentadas como causa real da guerra, não como justificativa frágil. Gabarito: B.",
+  "hash": "6c2df0c64a5b45eb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q95-esp": {
+  "assunto": "Língua espanhola: interpretação de texto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a intenção do texto, a partir da frase final “Es necesario saber para empezar a actuar...”. O texto apresenta dados sobre o lixo no México, relaciona consumo e descarte e, no penúltimo parágrafo, enumera vantagens da separação e da reciclagem: economia de energia, de água potável e de matérias-primas e menor impacto nos ecossistemas. A frase final indica que o leitor precisa conhecer essas informações para agir; o propósito é informar sobre a importância da reciclagem para a conservação ambiental. A alternativa B fala de alimentos contaminados, assunto inexistente; “focos de infección” refere-se aos lixões. A C exagera ao dizer que o consumismo é o gerador de todos os dejetos e ignora a proposta de reciclar. A D distorce: a economia de tempo e dinheiro vem da reciclagem, não dos lixões. A E culpa os consumidores de material reciclável, o que o texto não faz. Gabarito: A.",
+  "hash": "f0a503d9687c5d3e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de tirinha",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a origem do humor na tira de Garfield. Jon pergunta se Garfield lembra de sua ex-namorada Jodell e, para identificá-la, acrescenta “You know… the psycho?” (a maluca). Garfield pensa: “You’ll have to be more specific” (você vai ter que ser mais específico). A graça está nessa resposta: a característica “maluca” não serve para identificar Jodell, porque Garfield conhece as ex-namoradas de Jon e considera mais de uma delas maluca. A alternativa A erra ao dizer que Garfield não sabia; ele sabe até demais. A B contradiz a tira: Jodell não é a única maluca. A C inventa que Garfield acha a ex sensata e Jon o maluco. A E fala em Jon não entender a cara de Garfield, mas a fala é um pensamento, e o humor não depende da reação de Jon. Gabarito: D.",
+  "hash": "0d3da02012e16cbf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q96": {
+  "assunto": "Educação física: corpo, estética e saúde",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que aumentou de procura segundo o texto. O fragmento afirma que, na modernidade, o corpo passou a ser “modelado pelos exercícios físicos da moda”, que novas práticas “passaram a convocar as pessoas a modelarem seus corpos” e que se multiplicaram academias e salas de musculação. O foco é a busca por um padrão estético de corpo, o que se associa a dietas que restringem ou exageram certos macronutrientes e a exercícios para ganho de massa muscular e modelagem corporal. A alternativa A trata de exercícios aquáticos e envelhecimento, não citados. A B diz “sem preocupação com padrões de beleza”, o oposto do texto. A C fala de emagrecimento saudável e prevenção de prejuízos metabólicos, ideia ausente. A D propõe relaxamento e reeducação postural, que não têm relação com modelar o corpo. Gabarito: E.",
+  "hash": "7a813980f8f165af",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q97": {
+  "assunto": "Tecnologias da informação e comunicação: redes sociais, infográfico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica da amizade assimétrica no infográfico “Amizade pós-moderna”. A imagem mostra que a amizade assimétrica não é recíproca: posso adicionar ou seguir alguém sem pedir permissão. Como ponto positivo, o infográfico diz que ela “torna muito mais fácil a formação de laços e comunidades”; como contra, que é mais difícil virar amizade íntima, pois a interação é pública. Exemplos: Twitter, Tumblr, Buzz. Assim, ela facilita a interação entre pessoas por interesses comuns. A alternativa A descreve o contrário: quem limita o acesso e reduz contatos é a amizade simétrica. A B fala em anonimato obrigatório, o que não aparece; o infográfico só diz que se pode seguir sem o outro saber. A C contradiz o contra apontado, que é a dificuldade de laços íntimos. A E menciona proximidade física, ausente da imagem. Gabarito: D.",
+  "hash": "c5ca9dcb673a939f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q98": {
+  "assunto": "Tecnologias da informação e comunicação: hipertexto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica do hipertexto segundo Marcuschi. O texto o define como escrita eletrônica não sequencial e não linear, em que o leitor define interativamente o fluxo da leitura, sem se prender a uma sequência fixa, tornando-se “simultaneamente coautor do texto final”. Portanto, o hipertexto permite ao leitor escolher seu próprio percurso, sem sequência predeterminada, numa atividade mais coletiva e colaborativa. A alternativa A diz que desfavorece o leitor, enquanto o texto o apresenta como ganho de autonomia. A B fala em forma artificial e menosprezo pela escrita tradicional, juízo ausente do texto. A C recomenda evitar o hipertexto nas pesquisas, sem apoio no fragmento. A D afirma que toda informação da internet é segura e verdadeira, generalização falsa e não mencionada. Gabarito: E.",
+  "hash": "bc4fe916ea7d39cf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2011-regular-d2-q99": {
+  "assunto": "Literatura brasileira: João Cabral, Morte e Vida Severina",
+  "dificuldade": 3,
+  "explicacao": "A questão relaciona o trecho de Morte e Vida Severina à análise de Secchin. Severino tenta se identificar, mas cada traço que apresenta (o nome, a mãe Maria, o pai Zacarias, a sesmaria) é compartilhado por muitos outros, e por isso pergunta “Como então dizer quem fala?”. O Texto II explica que quanto mais o personagem se define, menos se individualiza, pois seus traços biográficos são partilhados por outros homens. A resposta à pergunta, portanto, é que Severino representa coletivamente os outros Severinos, retirantes nordestinos na mesma condição de miséria. A alternativa A erra porque a descrição não individualiza, apenas generaliza. A B fala em resignação, que não é o ponto do fragmento. A D faz do personagem uma projeção do poeta em crise, ideia sem base. A E inventa orgulho de descender do coronel; Zacarias apenas explica por que o nome é comum. Gabarito: C.",
+  "hash": "a13be150c7d1531f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
