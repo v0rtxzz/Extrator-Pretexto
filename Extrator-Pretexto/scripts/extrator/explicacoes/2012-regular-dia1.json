@@ -1,0 +1,177 @@
+{
+ "enem-2012-regular-d1-q01": {
+  "assunto": "Idade Moderna: absolutismo, imagem do rei",
+  "dificuldade": 3,
+  "explicacao": "A questão pede que se interprete a charge sobre Luís XIV à luz da ideia de que a imagem do rei foi fabricada para sustentar a soberania absolutista. A charge mostra três figuras: as roupas reais sozinhas (peruca, manto, salto alto), um homem baixo, calvo e frágil sem adornos e, por fim, esse mesmo homem vestido, transformado no majestoso Rei Sol. A mensagem é que a grandeza do monarca é construída simbolicamente: o corpo político, cheio de signos de poder, encobre as limitações do corpo físico do indivíduo. Por isso a alternativa E está correta, pois destaca a vestimenta como elemento constitutivo da imagem real. A alternativa A erra ao tomar a humanidade do rei como mensagem central, quando a charge mostra justamente o disfarce dela. A B inverte a lógica, pois não há unidade, e sim contraste entre aparência pública e pessoa privada. A C é incorreta porque o rei absolutista não se apresentava como despretensioso nem distante do poder. A D é falsa porque o foco não é o refinamento estético, e sim a função política da roupa. Gabarito: E.",
+  "hash": "8394ff0fe671b98d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q02": {
+  "assunto": "Filosofia moderna: Kant, esclarecimento",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido de Esclarecimento (Aufklärung) no texto de Kant. O trecho define o esclarecimento como a saída do homem da menoridade, isto é, da incapacidade de usar o próprio entendimento sem a direção de outro, e resume seu lema em ter coragem de servir-se da própria razão. Trata-se, portanto, da conquista da autonomia racional: o indivíduo maior é aquele que pensa por si mesmo, sem tutela. Por isso a alternativa A está correta, ao associar o esclarecimento à reivindicação de autonomia da razão como expressão da maioridade. A alternativa B erra ao tratar a razão como algo menor diante de verdades eternas, o oposto da valorização kantiana. A C fala em imposição heterônoma, contrária à ideia de autonomia. A D associa a libertação a verdades religiosas, quando o texto fala do uso próprio do entendimento. A E distorce o texto ao falar em emancipação diante de ideologias produzidas pela razão, tema que não aparece no fragmento. Gabarito: A.",
+  "hash": "7a4c5cfb271e4196",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q03": {
+  "assunto": "Teoria sociológica: processo civilizador, controle social",
+  "dificuldade": 4,
+  "explicacao": "A questão pede que se relacione o argumento de Joel Birman (Texto I) à teoria de Norbert Elias (Texto II). Elias afirma que nenhuma sociedade sobrevive sem canalizar pulsões e controlar comportamentos, por meio de limitações que as pessoas impõem umas às outras. Birman, por sua vez, atribui a violência brasileira não a uma natureza mais agressiva do povo, mas à fragilidade do exercício e do reconhecimento da cidadania e à ausência do Estado em vários territórios. Juntando as duas ideias, o problema brasileiro seria a dificuldade histórica de construir mecanismos de controle social legítimos, ligados à cidadania e a valores democráticos. Por isso a alternativa D está correta. A alternativa A cria uma incompatibilidade entre democracia e polícia que nenhum dos textos afirma. A B menciona heranças ditatoriais, ausentes do argumento. A C fala em forças militares e ondas migratórias, temas estranhos aos textos. A E restringe o problema às instituições legislativas, enquanto Birman fala de cidadania e presença do Estado de forma mais ampla. Gabarito: D.",
+  "hash": "b4f07bf3192c1762",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q04": {
+  "assunto": "Século XX: guerras e Guerra Fria: Segunda Guerra Mundial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede que se identifique o contexto histórico da capa da primeira revista do Capitão América, de 1941, que mostra o herói com a bandeira norte-americana no peito socando Hitler. O próprio texto de apoio menciona tempos de guerra e o sopapo no Führer, ou seja, o líder da Alemanha nazista. O personagem foi criado como propaganda do esforço de guerra dos Estados Unidos contra os regimes totalitários do Eixo, especialmente o nazismo, na Segunda Guerra Mundial. Por isso a alternativa B está correta. A alternativa A erra a guerra, pois a Tríplice Aliança pertence à Primeira Guerra Mundial e Hitler ainda não governava. A C refere-se à Guerra Fria, posterior à capa e ao alvo representado. A D cita a Guerra do Vietnã, das décadas de 1960 e 1970. A E fala do terrorismo pós-2001, totalmente fora do contexto da imagem. Gabarito: B.",
+  "hash": "40a7010e308d3199",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q05": {
+  "assunto": "História da África e afro-brasileira: identidade cultural afro-brasileira",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o efeito, segundo Robert Slenes, do contato entre africanos de diferentes regiões provocado pela escravidão no Brasil. O texto afirma que os próprios escravizados descobriram a África no Brasil: ao serem misturados e transportados, perceberam entre si elos culturais mais profundos, na língua e na religião. Esse reconhecimento de afinidades permitiu a construção de laços comuns e de uma identidade nova, compartilhada, que não era simplesmente a de cada etnia de origem. Por isso a alternativa A está correta, ao falar da formação de uma identidade cultural afro-brasileira. A alternativa B erra ao falar em superação da cultura africana pela europeia, o oposto do que o texto sugere. A C contradiz a ideia de elos comuns ao enfatizar conflitos étnicos. A D afirma a manutenção das especificidades de cada etnia, quando o texto destaca justamente a aproximação entre elas. A E trata de indígenas, assunto ausente do fragmento. Gabarito: A.",
+  "hash": "721ef10cc6895f62",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q06": {
+  "assunto": "Movimentos sociais: direitos civis nos EUA",
+  "dificuldade": 1,
+  "explicacao": "A questão pede os objetivos do movimento liderado por Martin Luther King nos Estados Unidos dos anos 1950 e 1960. No sul do país vigoravam as leis de segregação racial, que separavam negros e brancos em escolas, transportes e espaços públicos, além de restringir o direito de voto. No trecho do discurso Eu tenho um sonho, King usa a metáfora de um cheque a ser trocado para cobrar da nação as promessas de liberdade e justiça contidas em seus documentos fundadores. O movimento, de caráter não violento, buscava a conquista dos direitos civis para a população negra, o que torna a alternativa A correta. A alternativa B contradiz a pregação pacífica de King. A C fala em supremacia religiosa, embora as igrejas fossem apenas espaço de organização. A D reduz a luta ao mercado de trabalho, que era só uma parte das reivindicações. A E não corresponde ao objetivo central, que era igualdade jurídica e fim da segregação. Gabarito: A.",
+  "hash": "f11b35f4de661a89",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q07": {
+  "assunto": "Filosofia política: Montesquieu, liberdade e lei",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica da democracia ressaltada por Montesquieu no trecho. O autor distingue independência de liberdade política: fazer o que se quer não é liberdade. Para ele, liberdade é o direito de fazer tudo o que as leis permitem, pois, se um cidadão pudesse fazer o que elas proíbem, os outros também poderiam, e ninguém seria livre de fato. Assim, a liberdade está condicionada à conformidade com as leis, o que torna a alternativa B correta. A alternativa A associa cidadania a decidir por si mesmo, ideia que o texto critica. A C fala em participação no poder livre da submissão às leis, o contrário do argumento. A D admite agir contra a proibição desde que se aceitem as consequências, o que Montesquieu nega como liberdade. A E reduz a liberdade à vontade e aos valores pessoais, ignorando o papel das leis. Gabarito: B.",
+  "hash": "b11672e5394e2ee3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q08": {
+  "assunto": "Século XX: guerras e Guerra Fria: independência da Índia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido do cartum de 1932, intitulado O dilema de Lord Willingdon, sobre as prisões de Gandhi. A imagem mostra o vice-rei britânico trancando Gandhi na prisão de Yeravda; porém, do lado de fora, surge uma multidão incontável de pessoas com a aparência de Gandhi. A ironia é clara: prender o líder não resolve o problema, pois sua causa e seu método de resistência não violenta já haviam se multiplicado entre a população indiana. Isso mostra a impossibilidade de deter o movimento, como afirma a alternativa D. A alternativa A fala em ineficiência do judiciário, tema que a charge não aborda. A B é falsa, pois a multidão representa adesão a Gandhi, não apoio à prisão. A C contradiz o caráter pacífico do movimento retratado. A E erra porque o dilema do vice-rei mostra preocupação, não indiferença. Gabarito: D.",
+  "hash": "6105dab005f599f5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q09": {
+  "assunto": "Filosofia contemporânea: Habermas, minorias e democracia",
+  "dificuldade": 5,
+  "explicacao": "A questão pede como, segundo Habermas, a reivindicação de direitos culturais de minorias encontra amparo nas democracias. O texto mostra que, mesmo com igualdade formal, normas sobre língua, educação, religião ou família costumam refletir o autoentendimento de uma cultura majoritária, gerando conflitos com minorias. Para Habermas, a saída está na ética do discurso: as diferentes visões de mundo devem ser levadas ao debate público, em condições de igualdade, aceitando apenas a força do melhor argumento. Assim, a coexistência das diferenças se torna possível porque nenhuma cultura impõe seus valores sem justificação pública. Por isso a alternativa C está correta. A alternativa A propõe secessão, solução que rompe a comunidade democrática em vez de incluí-la. A B defende reunificação em torno de uma cultura nacional, que repetiria a dominação da maioria. A D exige que o indivíduo abandone suas tradições, negando o direito cultural reivindicado. A E fala no desaparecimento de toda limitação, algo irreal e não proposto pelo autor. Gabarito: C.",
+  "hash": "8586fef9fe27413e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q10": {
+  "assunto": "América: colonização espanhola",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a implicação espacial do interesse econômico espanhol revelado na carta de Colombo. O navegador destaca os indícios de ouro em Veragua e a possibilidade de extraí-lo à vontade, evidenciando que a colonização espanhola foi fortemente orientada pela exploração de metais preciosos. Para garantir a extração, a arrecadação de tributos e o envio das riquezas à metrópole, a Coroa fundou cidades e centros administrativos, que organizavam o território e fiscalizavam a circulação do ouro e da prata. Por isso a alternativa E está correta. A alternativa A erra porque os indígenas foram explorados como mão de obra, não expulsos para fortalecer o clero. A B toca na conquista, mas não expressa a relação com o interesse econômico mineral destacado no texto. A C confunde catequese, voltada aos indígenas, com exploração do trabalho africano. A D fala em policultura para povoamento, quando a lógica era extrativista e mercantil. Gabarito: E.",
+  "hash": "8355655f1af9b462",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q11": {
+  "assunto": "Idade Moderna: Revolução Gloriosa, Bill of Rights",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a peculiaridade inglesa expressa na Declaração de Direitos de 1689 e o regime predominante na Europa continental. O documento, resultado da Revolução Gloriosa, proíbe o rei de suspender leis, de cobrar impostos sem o consentimento do Parlamento e exige convocações frequentes deste. Ou seja, o poder do soberano passa a ser limitado pelo Parlamento, origem da monarquia constitucional inglesa. Enquanto isso, na França, na Espanha e em outros Estados continentais vigorava o absolutismo, com o rei concentrando poderes. Por isso a alternativa B está correta. A alternativa A fala em redução da influência papal e teocracia, que não correspondem ao documento nem ao regime continental. A C menciona república, inexistente nas grandes monarquias da época. A D refere-se a presidente e parlamentarismo, figuras anacrônicas. A E cita congresso e presidencialismo, também inadequados ao contexto europeu do século XVII. Gabarito: B.",
+  "hash": "3cf768b9991e3a9f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q12": {
+  "assunto": "Era Vargas: Revolução Constitucionalista de 1932",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a referência histórica usada no cartaz da Revolução Constitucionalista de 1932 para mobilizar os paulistas contra Vargas. O cartaz traz, em primeiro plano, a figura de um bandeirante, personagem que a elite paulista transformou em símbolo de coragem, desbravamento e grandeza regional. Ao associar o levante ao bandeirantismo, os constitucionalistas buscavam despertar o orgulho paulista e apresentar a luta como continuidade de uma tradição heroica de São Paulo. Por isso a alternativa D está correta. A alternativa A erra ao apontar a experiência francesa, que não aparece no cartaz. A B confunde o destaque à bandeira paulista com ideais republicanos gerais, quando o foco é a identidade regional. A C atribui o protagonismo às Forças Armadas, enquanto a figura central é o bandeirante. A E fala da figura de Vargas, que não é o elemento central da mensagem visual. Gabarito: D.",
+  "hash": "b0b34d4b2880b686",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q13": {
+  "assunto": "Era Vargas: patrimônio histórico, SPHAN",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o objetivo da criação do SPHAN, em 1937, de acordo com as ideias de Rodrigo Melo Franco de Andrade. O texto lamenta que obras de arte e bens de interesse histórico tenham desaparecido ou se arruinado e defende que o projeto governamental pretende evitar o perecimento e a evasão desse patrimônio, considerado bem comum. A ideia central, portanto, é proteger da destruição os bens representativos da cultura nacional por meio da ação do Estado, como diz a alternativa D. A alternativa A, embora lembre o contexto do Estado Novo, não corresponde ao que o texto destaca, que é a preservação, e não o controle da memória. A B fala em transferir a responsabilidade à iniciativa privada, contrária à proposta de ação pública. A C trata de escolher personagens a cultuar, tema ausente do texto. A E fala em apurar culpados, o que não é a finalidade do órgão. Gabarito: D.",
+  "hash": "dab9515a5428d663",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q14": {
+  "assunto": "Transportes e circulação: gargalos logísticos, portos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma consequência territorial da longa espera de navios no porto de Santos. O texto mostra que, somadas, as esperas equivalem a 11 anos em apenas dez meses, revelando um sério gargalo logístico. Como o Brasil é grande exportador de produtos agrícolas, como soja, açúcar e café, que dependem de portos para chegar ao mercado externo, a demora no embarque eleva custos, gera perdas e dificulta o escoamento, reduzindo a competitividade e o volume exportado. Por isso a alternativa C está correta. A alternativa A é inviável, pois o modal aéreo é caro e inadequado para grandes volumes de grãos. A B relaciona o problema a serviços financeiros, sem ligação com o texto. A D supõe uma reorientação comercial para vizinhos que não decorre do congestionamento portuário. A E afirma estagnação da indústria de alta tecnologia por concentração de investimentos em infraestrutura, o oposto do problema descrito, que é justamente a falta de investimento. Gabarito: C.",
+  "hash": "bca8d4df84a2177f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q15": {
+  "assunto": "Ditadura militar: caso Herzog, imprensa",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o que indica o abaixo-assinado dos jornalistas após a morte de Vladimir Herzog, em 1975, nas dependências do DOI-Codi. A versão oficial de suicídio era contestada, e os jornalistas apontam inconsistências e pedem que a Justiça realize novas diligências para a completa elucidação dos fatos. O documento revela, portanto, a expectativa de que houvesse investigação e responsabilização dos culpados, como afirma a alternativa E. A alternativa A é falsa, pois o abaixo-assinado nasce justamente da desconfiança quanto ao cumprimento das leis. A B erra porque o regime militar ainda vigorava em 1976. A C inverte a situação, já que Herzog foi vítima do aparato repressivo do Estado, não de grupos de esquerda. A D afirma uma punição que não ocorreu naquele momento; o texto expressa apenas a esperança de esclarecimento. Gabarito: E.",
+  "hash": "6393528c76a17431",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q16": {
+  "assunto": "Antiguidade: Império Romano, expansionismo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a característica política romana representada no mosaico de Lod, feito por volta de 300 d.C. na província da Judeia. O mosaico exibe animais exóticos de várias regiões, como leões, elefantes, girafas, peixes e aves, além de embarcações, compondo um panorama de fauna africana e mediterrânea. Essa diversidade evoca a vastidão do Império Romano, que dominava territórios na Europa, na Ásia e no norte da África, e a circulação de seres e mercadorias entre eles. Por isso a alternativa E, expansionismo associado à diversidade dos territórios conquistados, está correta. A alternativa A é anacrônica, pois as Cruzadas são medievais. A B fala em exaltação da cultura local, quando a imagem reúne elementos de muitos lugares. A C aponta uma influência estética, não uma característica política. A D atribui ao mosaico a ideia de selvageria dos dominados, sem base na imagem. Gabarito: E.",
+  "hash": "dacd6f6fe67ca62e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q17": {
+  "assunto": "Brasil Império: Primeiro Reinado, Noite das Garrafadas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que revelam a fria recepção de D. Pedro I em Minas Gerais e a Noite das Garrafadas, em 1831. No fim do Primeiro Reinado, o imperador acumulava desgaste: outorgara a Constituição de 1824 com o Poder Moderador, dissolvera a Constituinte, reprimira a Confederação do Equador e era visto como favorável aos portugueses. Os conflitos entre brasileiros e portugueses no Rio expressavam a oposição crescente ao estilo autoritário de governo, que culminaria na abdicação em abril de 1831. Por isso a alternativa E está correta. A alternativa A erra ao ver racismo no conflito, que opunha grupos políticos e nacionais. A B inverte o sentido, pois os episódios não demonstram apoio à xenofobia como posição política. A C fala em críticas ao federalismo, quando muitos opositores defendiam justamente mais autonomia provincial. A D menciona repúdio ao republicanismo, que não era o centro da disputa. Gabarito: E.",
+  "hash": "53a7627912b51745",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q18": {
+  "assunto": "Cultura e sociedade: paisagem, pertencimento",
+  "dificuldade": 1,
+  "explicacao": "A questão pede qual dimensão da paisagem, além da forma concreta, aparece no texto de Paul Claval. O autor afirma que a paisagem é portadora de memória, ajuda a construir sentimentos de pertencimento e cria uma atmosfera para festas e comemorações. Todos esses elementos remetem a significados, afetos e lembranças que as pessoas atribuem ao espaço, isto é, a uma dimensão simbólica e subjetiva da paisagem. Por isso a alternativa E está correta. A alternativa A fala em apropriação política, não mencionada no texto. A B trata do uso econômico de recursos, também ausente. A C cita limitação privada do uso do espaço, ideia sem relação com o fragmento. A D aponta a composição natural por elementos físicos, que corresponde justamente à forma concreta, e não à dimensão adicional pedida. Gabarito: E.",
+  "hash": "4d0b66eb5a7ab386",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q19": {
+  "assunto": "Trabalho: fordismo, linha de montagem",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a base da organização fabril mostrada na imagem do início do século XX, uma linha de montagem de automóveis. Esse modelo, associado ao fordismo e às ideias de Taylor, fragmentava a produção em tarefas simples, e cada trabalhador ficava fixo em seu posto repetindo o mesmo movimento enquanto a esteira trazia as peças. O objetivo era aumentar a produtividade e padronizar a produção em massa, à custa de um trabalho monótono e repetitivo. Por isso a alternativa C está correta. A alternativa A é falsa, pois o operário perdia a autonomia e o controle sobre o processo. A B menciona divisão sexual do trabalho, que não é o princípio do modelo retratado. A D erra porque o sistema dispensava qualificação, usando mão de obra semiqualificada. A E contradiz a lógica fordista, que não valorizava a criatividade do trabalhador. Gabarito: C.",
+  "hash": "bbf4b071c3ccbfc4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q20": {
+  "assunto": "Espaço agrário: concentração fundiária na África",
+  "dificuldade": 4,
+  "explicacao": "A questão pede uma característica socioespacial e seu desdobramento na ocupação rural da África subsaariana. O texto aponta a expropriação de terras pelos colonizadores e a desigualdade racial no acesso a elas, que persistiu após a independência: mesmo com a redução da população branca, a terra continuou concentrada nas mãos dessa minoria. As melhores terras foram destinadas a grandes propriedades voltadas à exportação, enquanto a maioria pobre foi empurrada para áreas menos férteis e marginais. Por isso a alternativa E está correta. A alternativa A fala em domínio fundiário pelo poder público, não sustentado pelo texto. A B começa bem, com a discriminação no acesso à terra, mas erra no desdobramento, pois não houve controle da especulação. A C afirma crescimento do consumo das famílias camponesas, incompatível com a expropriação. A D descreve expansão de assentamentos familiares e do rural sobre o urbano, o contrário do processo de concentração. Gabarito: E.",
+  "hash": "b05b4add18e37847",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q21": {
+  "assunto": "Globalização: crises de 1929 e 2008",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a principal diferença entre a crise de 1929 e a crise iniciada em 2008, que os textos comparam. A crise de 1929 resultou da superprodução industrial e agrícola nos Estados Unidos, sem consumo correspondente, o que levou à queda de preços, à especulação na bolsa e ao crash. Já a crise atual, como sugere o Texto I ao falar de forças econômicas sem rosto no ciberespaço, nasceu da especulação financeira, da expansão desmedida do crédito, especialmente imobiliário, e da desregulação dos mercados. Por isso a alternativa B está correta. A alternativa A atribui 1929 à Primeira Guerra e a crise atual a gastos militares, causas inadequadas. A C culpa a concorrência europeia e os BRICS, o que não explica nenhuma das crises. A D fala em excesso de proteção ao setor produtivo, quando 1929 ocorreu num contexto liberal. A E inverte a realidade ao atribuir a crise atual ao excesso de regulação. Gabarito: B.",
+  "hash": "ad6178838e991608",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q22": {
+  "assunto": "Cultura e sociedade: contracultura, anos 1960",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a inovação dos movimentos dos anos 1960, como Maio de 1968 e os protestos contra a Guerra do Vietnã, simbolizada em slogans como Amor e não guerra e Quando penso em revolução quero fazer amor. Esses movimentos de contracultura uniram a crítica política, contra guerras, autoritarismo e consumismo, à defesa da liberdade individual, sexual e comportamental. O corpo, o prazer e o modo de vida passaram a ser vistos como espaços de luta política, unindo libertação social e libertação individual. Por isso a alternativa C está correta. A alternativa A erra ao centrar o movimento numa crise econômica europeia causada por guerras coloniais. A B associa os protestos à organização partidária comunista, quando eram difusos e críticos também à esquerda tradicional. A D é oposta ao espírito da época, que contestava a moral sexual tradicional. A E erra ao falar em reconhecimento da cultura das gerações passadas, pois os jovens se opunham a ela. Gabarito: C.",
+  "hash": "c44846090d51c9fc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q23": {
+  "assunto": "Cultura e sociedade: padrões corporais, obesidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a consequência do discurso de disciplinarização dos corpos presente no texto. A autora afirma que engordamos quando somos gulosos, fala em pecado da gula e diz que todo obeso declarou guerra à balança. Esse discurso transfere a responsabilidade pela obesidade inteiramente ao indivíduo, tratando-a como falta de controle e fraqueza moral, sem considerar fatores sociais, genéticos ou de saúde. O resultado é a culpabilização individual, como afirma a alternativa D. A alternativa A fala em tratamentos alternativos e redução de gastos com remédios, ideia ausente do texto. A B é incorreta porque o discurso não democratiza a beleza, e sim reforça um padrão excludente. A C propõe uma crise na indústria de alimentos, sem relação com o fragmento. A E relaciona o discurso ao aumento da longevidade e da população, conclusão sem base no texto. Gabarito: D.",
+  "hash": "bd83bf5923aa0a2d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q24": {
+  "assunto": "População: pirâmides etárias, fecundidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a interpretação conjunta das pirâmides etárias da população urbana e rural do Brasil em 1991 e 2010. A base de uma pirâmide, que representa as crianças de 0 a 4 anos, indica o nível de fecundidade. No gráfico urbano, a base de 2010 é bem estreita, com cerca de 3,5% para cada sexo, e já menor que em 1991, mostrando forte queda dos nascimentos. Na área rural, a base é mais larga em ambos os anos, indicando que as famílias rurais ainda têm proporcionalmente mais filhos. Comparando as duas figuras, conclui-se que a fecundidade é proporcionalmente menor na área urbana, o que torna a alternativa A correta. A alternativa B é falsa, pois no campo a proporção masculina tende a ser maior, já que as mulheres migram mais para as cidades. A C contradiz os gráficos, que mostram redução da base rural. A D erra, pois o topo das pirâmides se alarga, indicando maior longevidade. A E é falsa, já que a proporção de idosos urbanos cresceu. Gabarito: A.",
+  "hash": "52f84df5de2c91aa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-regular-d1-q25": {
+  "assunto": "Filosofia antiga: Platão, teoria das Ideias",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como Platão se posiciona, segundo o texto, diante da relação entre razão e sensação. O fragmento diz que Platão herdou de Parmênides a ideia de que o objeto de conhecimento é um objeto da razão, e não da sensação, e que era preciso privilegiar o racional em detrimento do sensível. Na Doutrina das Ideias, o mundo sensível oferece apenas opinião (dóxa), mutável e imperfeita, enquanto o verdadeiro conhecimento (epistéme) vem do intelecto que alcança as Ideias. Por isso a alternativa D está correta: a razão gera conhecimento, a sensação não. A alternativa A exagera, pois o texto fala em estabelecer uma relação entre os dois planos, não em abismo intransponível. A B inverte a hierarquia platônica. A C atribui a Parmênides uma inseparabilidade que o texto não menciona. A E erra ao dizer que Parmênides considerava a sensação superior, quando ele privilegiava a razão. Gabarito: D.",
+  "hash": "00ddcbbfb444f87c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ }
+}
