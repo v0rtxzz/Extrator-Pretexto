@@ -251,6 +251,321 @@
   "hash": "47301daa551a22bf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2013-ppl-d2-q136": {
+  "assunto": "Porcentagem: porcentagem de porcentagem, gráficos de setores",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quantos milhões de toneladas de lixo vão para os lixões, combinando os dois gráficos de setores. O primeiro mostra que, dos 61 milhões de toneladas produzidos em 2010, 30% são recicláveis; o segundo mostra que, do lixo destinado a aterros e lixões, 18% vai para os lixões. Pelo enunciado, só o lixo não reciclável vai para aterros ou lixões, ou seja, 100% − 30% = 70% do total. Passo 1: 0,70 × 61 = 42,7 milhões de toneladas não recicláveis. Passo 2: 18% disso vai para os lixões: 0,18 × 42,7 ≈ 7,69 milhões de toneladas. O valor obtido é cerca de 7,6 a 7,7 milhões, e a alternativa mais próxima, a única compatível com esse raciocínio, é 7,6. A alternativa A não corresponde a nenhuma etapa correta do cálculo. A alternativa C (10,9) aplica os 18% sobre os 61 milhões, esquecendo de excluir os recicláveis. A alternativa D (42,7) é apenas o total não reciclável, sem aplicar os 18%. A alternativa E não tem relação com os dados do gráfico. Gabarito: B.",
+  "hash": "f755b924fde2b991",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q137": {
+  "assunto": "Razão e proporção: comparação de quantidades",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quantos pés de alface fornecem a mesma quantidade de carboidratos de uma bolacha recheada. Os dados importantes são: uma bolacha tem 15 g de carboidratos e um pé de alface tem 0,5 g. As informações sobre proteínas servem apenas como distrator. Basta dividir: 15 ÷ 0,5 = 30. Portanto, seriam necessários 30 pés de alface para igualar os carboidratos de uma única bolacha, o que mostra a grande diferença nutricional entre os dois alimentos, mensagem central do texto sobre hábitos alimentares. A alternativa A (50) não resulta de nenhuma divisão correta entre os dados. A alternativa C (14) se aproxima da diferença 15 − 0,5, uma subtração em vez de divisão. A alternativa D (8) poderia vir de uma comparação indevida com as proteínas (1,9 ÷ 0,5 ≈ 4) ou de erro de conta. A alternativa E (7) também não corresponde à razão entre os carboidratos. Gabarito: B.",
+  "hash": "df8a17bf6329fb9c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q138": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede qual aluno tem a menor média nas 7 avaliações da tabela. Como todos fizeram o mesmo número de provas, basta comparar as somas das notas. Aluno 1: 4,2 + 4,2 + 3,2 + 3,2 + 3,5 + 4,2 + 3,2 = 25,7, média ≈ 3,67. Aluno 2: 8 + 2,5 + 1 + 4 + 3 + 4 + 8 = 30,5, média ≈ 4,36. Aluno 3: 8 + 5 + 0,5 + 3 + 2,5 + 4,6 + 8,6 = 32,2, média = 4,6. Aluno 4: 9 + 3,5 + 5 + 8,5 + 3,5 + 7 + 6 = 42,5, média ≈ 6,07. Aluno 5: 6 + 8 + 4 + 7 + 9 + 7 + 6 = 47, média ≈ 6,71. A menor média é a do aluno 1, que nunca tira nota muito baixa, mas também nunca passa de 4,2. A alternativa B (aluno 2) atrai por ter a nota 1, mas suas notas 8 elevam a média. A alternativa C (aluno 3) tem a menor nota isolada (0,5), porém média 4,6. As alternativas D e E têm as maiores médias da turma. Gabarito: A.",
+  "hash": "39aea9caf90cadc2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q139": {
+  "assunto": "Sequências e progressões: progressão aritmética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o ano da segunda aparição do cometa Halley anterior a 2012. As aparições citadas (1836, 1911, 1986 e 2061) formam uma progressão aritmética de razão 75, pois 1911 − 1836 = 75, 1986 − 1911 = 75 e 2061 − 1986 = 75. Contando para trás a partir de 2012: a primeira aparição anterior a 2012 é a de 1986; a segunda anterior é a de 1986 − 75 = 1911. Portanto, o ano procurado é 1911. O cuidado aqui é interpretar bem a expressão \"segunda aparição anterior\", contando a partir do ano mais próximo de 2012. A alternativa A (1836) seria a terceira aparição anterior a 2012. A alternativa B (1862) não pertence à sequência de razão 75. A alternativa D (1937) também não é termo da progressão. A alternativa E (1986) é a primeira aparição anterior a 2012, não a segunda. Gabarito: C.",
+  "hash": "d9dfde6a32448299",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q140": {
+  "assunto": "Porcentagem: taxa de crescimento",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma estimativa para o 2º trimestre de 2012, supondo que a taxa de crescimento de 2011 para 2012 seja igual à de 2010 para 2011. O gráfico mostra 64,8 milhões (2009), 73,7 milhões (2010) e 77,8 milhões (2011). Passo 1: taxa de 2010 para 2011 = 77,8 ÷ 73,7 ≈ 1,0556, ou seja, crescimento de cerca de 5,56%. Passo 2: aplicando a mesma taxa: 77,8 × 1,0556 ≈ 82,1 milhões. Note que a taxa é relativa (percentual), não um acréscimo absoluto. A alternativa B (83,3) não corresponde à taxa correta. A alternativa C (86,7) resulta de somar a diferença de 2009 para 2010 (8,9 milhões) a 77,8, usando o período errado. A alternativa D (93,4) e a E (99,8) superestimam muito o crescimento, possivelmente aplicando taxas de outros intervalos ou somando variações acumuladas. Gabarito: A.",
+  "hash": "8112c0fdb99dea45",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q141": {
+  "assunto": "Geometria espacial: volume do cilindro",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] As alternativas vieram corrompidas na extração (radicais perdidos); a resposta esperada é r’ = r√2/2. A questão pede a relação entre o raio r’ da nova lata de 175 mL e o raio r da lata de 350 mL, mantendo-se a mesma altura h mostrada na figura. O volume de um cilindro é V = πr²h. Para a lata nova: πr’²h = ½ · πr²h. Cancelando π e h: r’² = r²/2. Extraindo a raiz: r’ = r/√2 = r√2/2 ≈ 0,707r. Ou seja, reduzir o volume à metade com a mesma altura não reduz o raio à metade, pois o volume depende do quadrado do raio. A alternativa correta é a que expressa r’ = r√2/2. Dividir o raio por 2 (r/2) reduziria o volume a um quarto. Manter o raio igual a r não reduziria o volume. Uma raiz cúbica só apareceria se todas as dimensões fossem reduzidas na mesma proporção (semelhança), o que não é o caso. Gabarito: C.",
+  "hash": "90bc9479d29965c0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q142": {
+  "assunto": "Grandezas e medidas: comprimentos",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a largura máxima da escrivaninha que cabe entre as duas camas na parede de 5 m, respeitando 0,4 m de circulação entre a escrivaninha e cada cama. O esboço mostra que cada cama tem 1,2 m de largura e fica a 0,4 m da parede lateral. Somando o que ocupa a parede de 5 m, além da escrivaninha: 0,4 (parede–cama) + 1,2 (cama) + 0,4 (cama–escrivaninha) + 0,4 (escrivaninha–cama) + 1,2 (cama) + 0,4 (cama–parede) = 4,0 m. Sobra: 5 − 4,0 = 1,0 m para a escrivaninha. A alternativa A (0,8 m) desconta 0,2 m a mais do que o necessário. A alternativa C (1,4 m) considera apenas três dos quatro espaços de 0,4 m. A alternativa D (1,6 m) não corresponde a nenhum desconto coerente com o esboço. A alternativa E (1,8 m) considera apenas os dois afastamentos das paredes e esquece a circulação junto à escrivaninha. Gabarito: B.",
+  "hash": "a6f8498e744b14fa",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q143": {
+  "assunto": "Medidas de tendência central: média aritmética",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a média da produção brasileira de trigo nas cinco safras de 2005/06 a 2009/10, lidas no gráfico de barras. Os valores são: 4,87; 2,44; 4,09; 6,01 e 5,4 milhões de toneladas. Soma: 4,87 + 2,44 = 7,31; 7,31 + 4,09 = 11,40; 11,40 + 6,01 = 17,41; 17,41 + 5,4 = 22,81. Média: 22,81 ÷ 5 = 4,562 ≈ 4,56 milhões de toneladas. A alternativa A (4,87) é o valor da safra 2005/06, que também é a mediana dos dados (2,44; 4,09; 4,87; 5,4; 6,01), não a média. A alternativa B (4,70) não corresponde à média nem a nenhum valor do gráfico. A alternativa D (4,49) resulta de erro de soma ou de leitura. A alternativa E (4,09) é apenas o valor da safra 2007/08. Gabarito: C.",
+  "hash": "26b9283b75e48f0c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q144": {
+  "assunto": "Razão e proporção: divisão proporcional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a quantidade total, em gramas, da cor B necessária para as duas tinturas. Para a mãe, a proporção C : B é 1 : 3, ou seja, de cada 4 partes, 3 são de B; como ela usa 60 g, a cor B corresponde a ¾ × 60 = 45 g. Para Luíza, a proporção C : B é 3 : 1, então de cada 4 partes apenas 1 é de B; como ela usa 120 g, a cor B corresponde a ¼ × 120 = 30 g. Total de cor B: 45 + 30 = 75 g. A alternativa A (60) inverte a proporção da mãe ou soma valores parciais incorretos. A alternativa C (90) aplica a proporção da mãe ao cabelo de Luíza (¾ × 120). A alternativa D (105) resulta de trocar as proporções entre as duas (¼ × 60 + ¾ × 120 = 15 + 90). A alternativa E (180) é o total de tintura, somando B e C. Gabarito: B.",
+  "hash": "a97c17b6a2cbfbbd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q145": {
+  "assunto": "Razão e proporção: razão áurea",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual candidata tem as medidas mais próximas da proporção áurea, Φ ≈ 1,618, exigindo que M1/M3 e M3/M2 (a relação entre as medidas da figura) se aproximem de Φ. Calculando: candidata I: 11/7 ≈ 1,57 e 7/5,5 ≈ 1,27. Candidata II: 10,5/6,5 ≈ 1,615, mas 6,5/4,5 ≈ 1,44. Candidata III: 11,5/6,5 ≈ 1,77 e 6,5/3,5 ≈ 1,86. Candidata IV: 10/6,5 ≈ 1,54 e 6,5/4 = 1,625. Candidata V: 10,5/6,5 ≈ 1,615 e 6,5/4 = 1,625. Só a candidata V tem as duas razões muito próximas de 1,618. A candidata I tem as duas razões afastadas de Φ. A candidata II acerta a primeira razão, mas erra a segunda. A candidata III tem as duas razões acima de Φ. A candidata IV acerta a segunda razão, mas não a primeira. Gabarito: E.",
+  "hash": "819c6c55119fb7eb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q146": {
+  "assunto": "Geometria plana: áreas de polígonos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o custo para pintar as partes pretas e brancas, sabendo que as partes cinza custaram R$ 320,00 e que o preço da tinta é o mesmo, então o custo é proporcional à área. Seja a a medida de AB = BC = CD = DE; o lado do quadrado é 4a e sua área é 16a². O losango branco tem vértices nos pontos médios dos lados (como C), logo ocupa metade do quadrado: 8a². Cada canto cinza é um triângulo retângulo isósceles de catetos a (ângulos de 45°), com área a²/2; os quatro somam 2a². A parte preta é o restante: 16a² − 8a² − 2a² = 6a². Como 2a² custam R$ 320,00, cada a² custa R$ 160,00. Preto: 6 × 160 = R$ 960,00; branco: 8 × 160 = R$ 1 280,00. A alternativa A subestima as áreas preta e branca. A alternativa B usa proporções 4 e 6 em vez de 6 e 8. A alternativa D e a E superestimam as áreas, talvez considerando o cinza como um único triângulo menor. Gabarito: C.",
+  "hash": "9d63f992cbf5b5c8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q147": {
+  "assunto": "Escalas: conversão de medidas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a diferença, em centímetros, entre as alturas das maquetes dos vulcões Puyehue (2 440 m) e Mauna Loa (12 000 m), feitas na escala 1 : 40 000. Primeiro, convertemos as alturas para centímetros: 2 440 m = 244 000 cm e 12 000 m = 1 200 000 cm. Na escala, cada 40 000 cm reais viram 1 cm na maquete. Puyehue: 244 000 ÷ 40 000 = 6,1 cm. Mauna Loa: 1 200 000 ÷ 40 000 = 30 cm. Diferença: 30 − 6,1 = 23,9 cm. Também se pode fazer direto: (12 000 − 2 440) m = 9 560 m = 956 000 cm, e 956 000 ÷ 40 000 = 23,9 cm. A alternativa A (1,26) e a B (3,92) resultam de erros de conversão de unidades. A alternativa C (4,92) também envolve erro de casas decimais. A alternativa D (20,3) não corresponde à diferença correta das maquetes. Gabarito: E.",
+  "hash": "e51c77c6436b66b3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q148": {
+  "assunto": "Funções: análise de gráficos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o gráfico da distância F(x) da partícula ao centro O, ao percorrer o contorno do quadrado de lado 2 cm partindo de M, ponto médio de AB. Pela figura, O está a 1 cm de cada lado. Em M, a distância é 1 (mínima). Ao andar t cm sobre o lado, a distância vale √(1 + t²), crescendo até √2 ≈ 1,41 no vértice B (x = 1). Depois diminui até 1 no ponto médio de BC (x = 2), volta a √2 em C (x = 3), 1 no meio de CD (x = 4), √2 em D (x = 5), 1 no meio de DA (x = 6), √2 em A (x = 7) e 1 ao voltar a M (x = 8). O gráfico correto é, portanto, periódico, oscilando entre 1 e √2, com quatro picos (nos vértices) e mínimos nos pontos médios, com trechos curvos (não retos), pois √(1 + t²) não é função afim. É esse o comportamento representado na alternativa A. As demais alternativas apresentam valores mínimos ou máximos errados (como começar em zero), número incorreto de oscilações ou formato incompatível com a trajetória. Gabarito: A.",
+  "hash": "fb38d5f44c69392f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q149": {
+  "assunto": "Grandezas e medidas: volume e capacidade",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o volume mínimo do novo reservatório. O reservatório atual tem 30 m³ = 30 000 litros (1 m³ = 1 000 L) e recebe hoje 20 000 litros por dia, ficando com 10 000 litros ociosos. Com a nova fonte, o volume diário passa a ser 20 000 + 25 000 = 45 000 litros = 45 m³. Como o reservatório atual comporta 30 m³, falta espaço para 45 − 30 = 15 m³. Assim, o novo reservatório precisa ter, no mínimo, 15 m³. A alternativa B (25 m³) ignora a capacidade ociosa do reservatório existente e reserva espaço para toda a água da fonte nova. A alternativa C (37,5 m³) não resulta de nenhuma conta coerente com os dados. A alternativa D (45 m³) é o volume total extraído, como se o reservatório antigo não existisse. A alternativa E (57,5 m³) superestima ainda mais a necessidade. Gabarito: A.",
+  "hash": "5f4bceb68e6ababb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q150": {
+  "assunto": "Função quadrática: vértice, valor máximo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a quantidade de bonés por pacote que maximiza o lucro L(x) = −x² + 12x − 20. Como o coeficiente de x² é negativo (a = −1), a parábola tem concavidade voltada para baixo e o máximo ocorre no vértice. A abscissa do vértice é xᵥ = −b/(2a) = −12/(2 · (−1)) = 6. Assim, pacotes com 6 bonés dão o lucro máximo, que vale L(6) = −36 + 72 − 20 = 16. Outra forma de ver: as raízes de L são 2 e 10, e o vértice fica no ponto médio, (2 + 10)/2 = 6. A alternativa A (4) não é o ponto médio das raízes. A alternativa C (9) não corresponde ao vértice. A alternativa D (10) é uma das raízes, onde o lucro é zero. A alternativa E (14) dá lucro negativo. Gabarito: B.",
+  "hash": "8983da8e2e6e215b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q151": {
+  "assunto": "Razão e proporção: conversão de moedas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a cotação da libra em dólares, a partir das cotações dadas: 1 dólar = 1,6 real, 1 euro = 2,4 reais e 1 libra = 1,1 euro. O caminho é converter a libra para reais e depois para dólares. Passo 1: 1 libra = 1,1 euro = 1,1 × 2,4 = 2,64 reais. Passo 2: como 1 dólar custa 1,6 real, 2,64 reais equivalem a 2,64 ÷ 1,6 = 1,65 dólar. Portanto, 1 libra vale 1,65 dólar. A alternativa A (4,224) multiplica 2,64 por 1,6 em vez de dividir. A alternativa B (2,64) é a cotação da libra em reais, não em dólares. A alternativa D (1,50) é a razão entre euro e dólar (2,4 ÷ 1,6), esquecendo o fator 1,1. A alternativa E (1,36) não corresponde a nenhuma conversão correta. Gabarito: C.",
+  "hash": "8ff7df185d5b8a96",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q152": {
+  "assunto": "Função afim: comparação de planos",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o número mínimo de minutos para que o pacote laranja seja mais vantajoso que o azul. O laranja custa R$ 143,00 até 300 minutos; o azul custa R$ 80,00 até 100 minutos e R$ 0,90 por minuto excedente. Para x entre 100 e 300 minutos, o azul custa 80 + 0,90(x − 100), enquanto o laranja continua em R$ 143,00. O laranja passa a ser mais vantajoso quando 80 + 0,90(x − 100) > 143, isto é, 0,90(x − 100) > 63, logo x − 100 > 70 e x > 170. Com x = 170, os custos empatam (R$ 143,00); com x = 171, o azul custa R$ 143,90, e o laranja fica mais barato. Acima de 300 minutos, o laranja continua mais barato, pois cobra menos por minuto excedente. A alternativa A (70) é apenas o número de minutos excedentes do azul. A alternativa B (126) não resulta da comparação correta. A alternativa D (300) é a franquia do laranja. A alternativa E (400) ignora que a vantagem começa bem antes. Gabarito: C.",
+  "hash": "2d2c5d59c180db30",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q153": {
+  "assunto": "Aritmética: divisão, voltas completas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o local mais próximo de onde Camile parou após caminhar 4 125 m, no sentido anti-horário, em torno de uma praça circular de 500 m. Dividindo: 4 125 ÷ 500 = 8 voltas completas e resto 125 m. As 8 voltas a trazem de volta ao ponto de partida; restam 125 m, que correspondem a 125/500 = ¼ da volta, ou seja, 90°. Na figura, o ponto de partida está embaixo, e os locais estão distribuídos a cada 45° (oito locais). Andando um quarto de volta no sentido anti-horário a partir da parte de baixo, ela sobe pela direita, passa pelo centro cultural (45°) e chega à padaria (90°), no extremo direito da praça. A alternativa A (centro cultural) corresponde a apenas ⅛ de volta. A alternativa B (drogaria) seria o resultado no sentido horário. A alternativa C (lan house) também corresponde ao sentido horário, com ⅛ de volta. A alternativa D desconsidera o resto de 125 m. Gabarito: E.",
+  "hash": "542f943f63a7a297",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q154": {
+  "assunto": "Porcentagem: cálculo do total",
+  "dificuldade": 4,
+  "explicacao": "A questão pede quantas pessoas terão de pagar multa, mantida a média de 90 000 declarações por hora nos últimos 4 dias. Passo 1: total estimado. Como 16,2 milhões correspondem a 60%, o total é 16,2 ÷ 0,6 = 27 milhões. Passo 2: faltam 27 − 16,2 = 10,8 milhões de declarações. Passo 3: em 4 dias, com 24 horas por dia, há 96 horas; a 90 000 por hora, entram 96 × 90 000 = 8 640 000 = 8,64 milhões. Passo 4: os que ficarão de fora (e pagarão multa) são 10,8 − 8,64 = 2,16 milhões. A alternativa B (4,05) não corresponde a nenhuma etapa correta. A alternativa C (6,21) e a D (7,65) resultam de erros no total ou na contagem de horas. A alternativa E (8,64) é o número de declarações que ainda serão entregues no prazo, não o de atrasadas. Gabarito: A.",
+  "hash": "a316c9613abfe379",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q155": {
+  "assunto": "Porcentagem: cálculo direto",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quantos trabalhadores do turismo precisariam ter a carteira assinada para regularizar os informais. O texto informa que o setor chegou a 1,8 milhão de trabalhadores e que cerca de 60% deles estão no mercado informal. O dado de aumento de 15% entre 2002 e 2006 é apenas contexto e não entra na conta. Basta calcular 60% de 1,8 milhão: 0,6 × 1 800 000 = 1 080 000, ou seja, 1,08 milhão. A alternativa A (270 mil) corresponde a 15% de 1,8 milhão, usando a porcentagem errada. A alternativa B (720 mil) é o número de trabalhadores formais (40%). A alternativa C (810 mil) não corresponde à porcentagem pedida. A alternativa E (1,35 milhão) também usa uma porcentagem inadequada (75%). Gabarito: D.",
+  "hash": "ec4b23e3ae8c8317",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q156": {
+  "assunto": "Escalas: ampliação e redução",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a relação entre o tamanho real da pegada e o tamanho dela na foto. A nota de dólar serve de referência: mede 15 cm na realidade e 3 cm na foto, então a escala de redução é 15 ÷ 3 = 5, isto é, cada medida real é 5 vezes a medida na imagem. Como a pegada mede 6 cm na foto, seu tamanho real é 6 × 5 = 30 cm. Logo, a marca no chão é 5 vezes maior que a marca na imagem. A alternativa B (5 cm maior) confunde a razão com uma diferença. A alternativa C (9 cm maior) não corresponde a nenhuma comparação correta. A alternativa D (12 cm maior) seria a diferença entre as cédulas (15 − 3), não a relação das pegadas. A alternativa E (12 vezes maior) não corresponde à escala da foto. Gabarito: A.",
+  "hash": "5db204db817ad960",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q157": {
+  "assunto": "Equações e inequações: equação do segundo grau",
+  "dificuldade": 5,
+  "explicacao": "A questão pede o número atual de caminhões, já com a capacidade reduzida em meia tonelada. Seja n o número de caminhões com capacidade máxima c: n · c = 90, logo c = 90/n. Com a redução, são n + 6 caminhões com capacidade c − 0,5: (n + 6)(c − 0,5) = 90. Expandindo: nc − 0,5n + 6c − 3 = 90. Como nc = 90, sobra 6c − 0,5n − 3 = 0. Substituindo c = 90/n: 540/n − 0,5n − 3 = 0. Multiplicando por 2n: 1 080 − n² − 6n = 0, ou n² + 6n − 1 080 = 0. Δ = 36 + 4 320 = 4 356, √Δ = 66, e n = (−6 + 66)/2 = 30. Antes eram 30 caminhões de 3 t; hoje são 30 + 6 = 36 caminhões de 2,5 t (36 × 2,5 = 90). A alternativa B (30) é o número antigo de caminhões, antes da redução. As alternativas C (19), D (16) e E (10) não satisfazem as duas condições do problema. Gabarito: A.",
+  "hash": "73c9a1c7676a1d90",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q158": {
+  "assunto": "Geometria plana: áreas de setores e segmentos circulares",
+  "dificuldade": 5,
+  "explicacao": "A questão pede a área do terreno iluminada pelas lâmpadas em C e D, cada uma iluminando um círculo de raio 5 m, com AC = BD = 2,5 m (use √3 ≈ 1,7 e π ≈ 3). C está no lado inferior do terreno; como a largura é 10 m, a parte do círculo dentro do terreno é um semicírculo, mas cortado pela parede lateral, que está a 2,5 m de C. Semicírculo: ½ · π · 5² = 37,5 m². Parte cortada: a parede é uma corda a 2,5 m do centro; cos θ = 2,5/5 = ½, então θ = 60° e o ângulo central do segmento é 120°. Área do segmento circular inteiro: setor de 120° menos triângulo = ⅓ · 3 · 25 − ½ · 25 · (√3/2) = 25 − 12,5 · 0,85 = 25 − 10,625 = 14,375 m². Só metade desse segmento fica do lado do terreno do semicírculo: 7,1875 m². Área iluminada por uma lâmpada: 37,5 − 7,1875 ≈ 30,31 m². Como D é simétrica a C e os círculos não se sobrepõem (31,5 m de comprimento), o total é 2 × 30,31 ≈ 60,6 ≈ 61 m². A alternativa A (30) é a área de uma só lâmpada. A alternativa B (34) e a C (50) resultam de cortes errados. A alternativa E (69) ignora o recorte da parede. Gabarito: D.",
+  "hash": "2a8dc4239c8c0c77",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q159": {
+  "assunto": "Probabilidade: probabilidade condicional",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a probabilidade de a peça defeituosa ter sido produzida pela máquina M, sabendo que a peça escolhida é defeituosa. Trata-se de probabilidade condicional: o espaço amostral passa a ser apenas o conjunto das peças defeituosas. A máquina M produz 60 peças defeituosas e a máquina N produz 120, totalizando 60 + 120 = 180 peças com defeito. Logo, P(M | defeituosa) = 60/180 = 1/3. O total de peças produzidas (5 000) não entra no denominador, porque já se sabe que a peça é defeituosa. A alternativa A (3/100) é a taxa de defeito da máquina M (60/2 000). A alternativa B (1/25) é a taxa de defeito da máquina N (120/3 000). A alternativa D (3/7) mistura as taxas de defeito das máquinas (3% e 4%) como se fossem igualmente prováveis. A alternativa E (2/3) é a probabilidade de a peça defeituosa ser da máquina N. Gabarito: C.",
+  "hash": "a1093ccc27ad663d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q160": {
+  "assunto": "Porcentagem: taxa de crescimento relativo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o número de veículos em 2020, supondo que a taxa de crescimento relativo de 2000 a 2010 se repita na década seguinte. O gráfico mostra 30 milhões de veículos em 2000 e 66 milhões em 2010. A taxa relativa é a razão 66 ÷ 30 = 2,2, ou seja, a frota foi multiplicada por 2,2 (crescimento de 120%). Aplicando o mesmo fator para 2010–2020: 66 × 2,2 = 145,2 milhões de veículos. A alternativa A (79,2) aplica apenas 20% de aumento. A alternativa B (102,0) soma o crescimento absoluto de 36 milhões (66 + 36), tratando o crescimento como linear, e não relativo. A alternativa C (132,0) apenas dobra o valor de 2010. A alternativa D (138,0) não corresponde a nenhuma taxa coerente com o gráfico. Gabarito: E.",
+  "hash": "f33b22c99366d92b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q161": {
+  "assunto": "Porcentagem: gráficos de setores",
+  "dificuldade": 2,
+  "explicacao": "A questão pede quantas pessoas, num estado com 400 000 epilépticos, se recuperam com medicamentos ou se curam com cirurgia. No gráfico de setores, 70% conseguem se recuperar com medicamentos e 15% curam-se com cirurgia para retirada da porção doente do cérebro. Os outros setores (6% com eletrodos e 9% que não se livram das crises) não entram na conta. Somando as duas porcentagens pedidas: 70% + 15% = 85%. Aplicando ao total do estado: 0,85 × 400 000 = 340 000 pessoas. A alternativa A (42 000) não corresponde a nenhuma porcentagem pedida. A alternativa B (60 000) é só o grupo da cirurgia (15%). A alternativa C (220 000) não corresponde à soma correta. A alternativa D (280 000) considera apenas os medicamentos (70%). Gabarito: E.",
+  "hash": "f4ed4a7e74361961",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q162": {
+  "assunto": "Aritmética: números reais na reta numérica",
+  "dificuldade": 3,
+  "explicacao": "[REVISAR] Os sinais negativos das fichas parecem ter se perdido na extração; pelas alternativas, as fichas seriam X = √3, Y = −1/2, Z = 3/2 e T = −2,5. A questão pede o tabuleiro em que Clara posiciona corretamente as quatro fichas (40 pontos), sabendo que cada linha pontilhada marca 1 unidade. É preciso estimar os valores: √3 ≈ 1,73, um pouco à direita do meio entre 1 e 2; 3/2 = 1,5, exatamente no meio entre 1 e 2, logo Z fica imediatamente à esquerda de X; −1/2 = −0,5, no meio entre −1 e 0; −2,5, no meio entre −3 e −2. Na alternativa D, T está entre −3 e −2, Y entre −1 e 0, e Z e X estão próximos entre 1 e 2, com Z (1,5) à esquerda de X (1,73), exatamente como deve ser. As demais alternativas trocam a ordem de Z e X, colocam fichas negativas do lado positivo ou erram o intervalo entre as linhas pontilhadas, e por isso não garantem os quatro acertos. Gabarito: D.",
+  "hash": "e7f55dc77ac610da",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q163": {
+  "assunto": "Geometria plana: elementos geométricos",
+  "dificuldade": 1,
+  "explicacao": "A questão pede quais elementos geométricos formam os contornos das partes claras do símbolo internacional de acesso. Observando a figura, a cabeça e a roda da cadeira são contornadas por curvas que são partes de circunferências (a roda, por exemplo, é aberta, logo é um arco), e o corpo e a cadeira são contornados por trechos retos com começo e fim, isto é, segmentos de reta. É importante distinguir os termos: reta é infinita, segmento tem extremidades; circunferência é a curva fechada inteira, arco é uma parte dela; círculo e coroa circular são regiões (áreas), não contornos. Assim, os contornos são arcos de circunferências e segmentos de retas. A alternativa A fala em retas (infinitas) e círculos (regiões). A alternativa B usa retas e circunferências completas. A alternativa C acerta os arcos, mas usa retas em vez de segmentos. A alternativa D cita coroas circulares, que são regiões, não contornos. Gabarito: E.",
+  "hash": "860a422b4c337ae1",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q164": {
+  "assunto": "Porcentagem: cálculo do total",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o valor total reservado para a compra mensal, sabendo que sobraram R$ 88,00 e que o gráfico mostra os gastos em porcentagem desse total. Somando as porcentagens gastas: 30,2% (carnes e embutidos) + 17,5% (produtos de limpeza) + 12,4% (frutas e verduras) + 22,3% (massas e enlatados) = 82,4%. Logo, a sobra corresponde a 100% − 82,4% = 17,6% do total. Assim: 0,176 × T = 88, e T = 88 ÷ 0,176 = 500. O valor reservado foi R$ 500,00, dos quais R$ 412,00 foram gastos. A alternativa A (106,80) e a B (170,40) não correspondem a nenhuma relação correta entre sobra e porcentagem. A alternativa C (412,00) é o valor gasto, não o total reservado. A alternativa E (588,00) soma 88 a 500, contando a sobra duas vezes. Gabarito: D.",
+  "hash": "65f70b9c23123b58",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q165": {
+  "assunto": "Grandezas e medidas: área e custo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede qual piso gera o menor custo para cobrir 4 m × 6 m = 24 m² = 240 000 cm², sem perdas. Basta calcular quantas peças cada piso exige e o custo total (ou o preço por cm²). Piso I: 20 × 20 = 400 cm²; 240 000 ÷ 400 = 600 peças × R$ 15 = R$ 9 000. Piso II: 30 × 20 = 600 cm²; 400 peças × R$ 20 = R$ 8 000. Piso III: 25 × 25 = 625 cm²; 384 peças × R$ 25 = R$ 9 600. Piso IV: 16 × 25 = 400 cm²; 600 peças × R$ 20 = R$ 12 000. Piso V: 40 × 40 = 1 600 cm²; 150 peças × R$ 60 = R$ 9 000. O menor custo é o do piso II. A alternativa A (piso I) custa R$ 9 000. A alternativa C (piso III) custa R$ 9 600. A alternativa D (piso IV) é a mais cara, R$ 12 000. A alternativa E (piso V) tem a maior peça, mas custa R$ 9 000. Gabarito: B.",
+  "hash": "5b6c58994f972b86",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q166": {
+  "assunto": "Probabilidade: probabilidade geométrica",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a quantidade de prêmios que João tem a menor probabilidade de ganhar, num lançamento aleatório. Em probabilidade geométrica, a chance é proporcional à área da região. No alvo, quatro círculos se sobrepõem: há regiões dentro de um só círculo (1 prêmio), de dois (2 prêmios), de três (3 prêmios) e a região central comum aos quatro círculos (4 prêmios). Dentro dessa região central está o quadrado ABCD, cujos vértices são os pontos de encontro das circunferências; acertar o quadrado dá os 4 prêmios mais o extra, ou seja, 5 prêmios. Assim, ganhar exatamente 4 prêmios só acontece nas quatro finíssimas lâminas entre os lados do quadrado e os arcos que passam por A, B, C e D. Essas lâminas têm área muito menor que a do quadrado e que a das demais regiões, logo exatamente 4 prêmios é o resultado menos provável. As alternativas A, B e C correspondem a regiões amplas do alvo. A alternativa E corresponde ao quadrado, que é maior que as lâminas. Gabarito: D.",
+  "hash": "efae9655532fdfe2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q167": {
+  "assunto": "Porcentagem: aumento percentual",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o aumento percentual de polpa necessário para que um néctar com 30% de polpa passe a ser suco, que exige pelo menos 50% de polpa. A armadilha é confundir aumento em pontos percentuais com aumento percentual. A diferença é de 50 − 30 = 20 pontos percentuais, mas o aumento relativo é calculado sobre o valor inicial: 20 ÷ 30 ≈ 0,667, ou seja, cerca de 67%. Em uma caixa de 1 litro, isso significa passar de 300 mL para 500 mL de polpa: 200 mL a mais sobre 300 mL, aproximadamente 67%. A alternativa A (20%) é a diferença em pontos percentuais. A alternativa C (80%) não corresponde à razão correta. A alternativa D (167%) é o fator 50/30 ≈ 1,67 interpretado como aumento. A alternativa E (200%) não tem relação com os dados. Gabarito: B.",
+  "hash": "aced865c3cd1fe01",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q168": {
+  "assunto": "Teoria dos números: potências de dez",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o número de algarismos do gugolplex. Um gugol é 1 seguido de 100 zeros, isto é, 10¹⁰⁰. O gugolplex é 10 elevado a um gugol: 10^(10¹⁰⁰). Uma potência 10ⁿ escreve-se como o algarismo 1 seguido de n zeros, portanto tem n + 1 algarismos. Por exemplo, 10² = 100 tem 3 algarismos. No caso do gugolplex, n = 10¹⁰⁰, então ele tem 10¹⁰⁰ zeros mais o algarismo 1, totalizando 10¹⁰⁰ + 1 algarismos. A alternativa A (100) é o número de zeros do gugol. A alternativa B (101) é o número de algarismos do gugol. A alternativa C (10¹⁰⁰) conta apenas os zeros do gugolplex, esquecendo o algarismo 1. A alternativa E usa o expoente 1 000 em vez de 100. Gabarito: D.",
+  "hash": "308feb3f8fc188ca",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q169": {
+  "assunto": "Probabilidade: contagem de casos favoráveis",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a chance de o passageiro ser sorteado para uma poltrona do meio (entre duas pessoas). Na figura, as fileiras têm a configuração ABC e DEF, e as poltronas do meio são B e E. Se as 38 fileiras fossem completas, seriam 38 × 6 = 228 poltronas, com 76 do meio, e a chance seria exatamente ⅓ ≈ 33%. Porém, a figura mostra quatro fileiras (junto às saídas) com apenas duas poltronas de cada lado, sem poltrona do meio. Então: total = 34 × 6 + 4 × 4 = 204 + 16 = 220 poltronas; poltronas do meio = 34 × 2 = 68. Probabilidade = 68 ÷ 220 ≈ 0,309 ≈ 31%. Como 31% não é inferior a 30%, o passageiro desiste. A alternativa B (33%) ignora as fileiras incompletas. A alternativa C (35%) superestima a proporção. As alternativas D (68%) e E (69%) correspondem à chance de não ficar no meio, ou confundem o número 68 com porcentagem. Gabarito: A.",
+  "hash": "f680dab4945b7938",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q170": {
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por quantos dias consecutivos o chip, com capacidade de 9,5 km = 9 500 m, consegue armazenar o treino. As distâncias diárias formam uma progressão aritmética: a₁ = 300 m e razão r = 200 m, logo aₙ = 300 + 200(n − 1) = 200n + 100. A soma dos n primeiros dias é Sₙ = n(a₁ + aₙ)/2 = n(300 + 200n + 100)/2 = 100n² + 200n. Precisamos de Sₙ ≤ 9 500: n² + 2n ≤ 95. Para n = 8: 64 + 16 = 80, ou seja, S₈ = 8 000 m (cabe). Para n = 9: 81 + 18 = 99, ou seja, S₉ = 9 900 m (ultrapassa). Portanto, o chip armazena 8 dias completos. A alternativa A (7) desperdiça um dia que ainda caberia. A alternativa C (9) ultrapassa 9 500 m. As alternativas D (12) e E (13) usam erroneamente só o último termo ou a razão, e não a soma acumulada. Gabarito: B.",
+  "hash": "0d56d3e3b1af7e42",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q171": {
+  "assunto": "Matemática financeira: juros compostos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a dívida em 01/05/2012, pagando sempre o mínimo de 20% (regra vigente desde dezembro de 2011) e com juros de 10% sobre o saldo devedor. Em 01/03: fatura de R$ 1 000,00; paga 20% (R$ 200,00) e restam R$ 800,00; com juros de 10%, a fatura de 01/04 é 800 × 1,1 = R$ 880,00. Em 01/04: paga 20% (R$ 176,00) e restam R$ 704,00; com juros, a fatura de 01/05 é 704 × 1,1 = R$ 774,40. Em resumo, a cada mês a dívida é multiplicada por 0,8 × 1,1 = 0,88: 1 000 × 0,88² = 774,40. A alternativa A (600,00) subtrai 20% por mês sem juros. A alternativa B (640,00) aplica só os pagamentos de 20% sobre o saldo, sem juros. A alternativa C (722,50) usa o mínimo antigo de 15% sem juros (1 000 × 0,85²). A alternativa E (874,22) não corresponde à regra de pagamento vigente. Gabarito: D.",
+  "hash": "d9ff8f30e3708bf8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q172": {
+  "assunto": "Escalas: escala e área",
+  "dificuldade": 3,
+  "explicacao": "A questão pede quanto aumentou, em cm², a área do desenho da planta ao passar da escala 1 : 50 para 1 : 40. O apartamento mede 6 m × 8 m = 600 cm × 800 cm. Na escala 1 : 50: 600 ÷ 50 = 12 cm e 800 ÷ 50 = 16 cm; área = 12 × 16 = 192 cm². Na escala 1 : 40: 600 ÷ 40 = 15 cm e 800 ÷ 40 = 20 cm; área = 15 × 20 = 300 cm². Aumento: 300 − 192 = 108 cm². A alternativa A (0,0108) resulta de erro de conversão de unidades. A alternativa C (191,88) também mistura unidades. A alternativa D (300) é a área nova, não o aumento. A alternativa E (43 200) não corresponde a áreas do desenho, e sim a uma conta com medidas reais. Gabarito: B.",
+  "hash": "8b974b54860821e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q173": {
+  "assunto": "Função quadrática: modelagem",
+  "dificuldade": 5,
+  "explicacao": "A questão pede o faturamento F em função do número de pessoas P. A cada aumento de R$ 2,00 no preço, o público cai 40 pessoas. Seja k o número de aumentos: preço = 10 + 2k e P = 1 000 − 40k. Isolando k: k = (1 000 − P)/40. Substituindo no preço: 10 + 2 · (1 000 − P)/40 = 10 + (1 000 − P)/20 = 10 + 50 − P/20 = 60 − P/20. O faturamento é preço × público: F = P · (60 − P/20) = −P²/20 + 60P. Verificação: com P = 1 000, F = −50 000 + 60 000 = 10 000, que confere com o texto. A alternativa B tem os sinais trocados e daria faturamento negativo. A alternativa C (−P² + 1 200P) dá valores absurdos (para P = 1 000, F = 200 000). A alternativa D esquece de multiplicar o 60 por P. A alternativa E também tem sinais trocados. Gabarito: A.",
+  "hash": "56261a86f15a2efd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q174": {
+  "assunto": "Grandezas e medidas: consumo e custo",
+  "dificuldade": 4,
+  "explicacao": "A questão pede quanto a lavagem manual fica mais cara que a da máquina em 30 dias, com 2 lavagens diárias, ou seja, 60 lavagens. Lavagem manual: 60 × 90 L = 5 400 L = 5,4 m³; custo = 5,4 × 6,25 = R$ 33,75. Máquina: água = 60 × 16 L = 960 L = 0,96 m³, custo = 0,96 × 6,25 = R$ 6,00; energia = 60 × 0,9 kWh = 54 kWh, custo = 54 × 0,45 = R$ 24,30; total = 6,00 + 24,30 = R$ 30,30. Diferença: 33,75 − 30,30 = R$ 3,45. A alternativa A (1,72) corresponde a metade da diferença, como se houvesse uma lavagem por dia. A alternativa C (4,72) resulta de erro no custo da energia ou da água. A alternativa D (9,45) esquece parte do custo da máquina. A alternativa E (27,75) compara apenas os custos de água, ignorando a energia. Gabarito: B.",
+  "hash": "ab2181a368bfd83c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q175": {
+  "assunto": "Probabilidade: frequência relativa",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a atividade de menor grau de risco, definido como a probabilidade de acidente, isto é, afastamentos ÷ número de empregados. Não basta olhar o menor número absoluto de acidentes ou de empregados; é preciso comparar as razões. Administração pública: 2 000 ÷ 1 138 000 ≈ 0,0018 = 0,18%. Crédito: 6 000 ÷ 524 000 ≈ 1,15%. Agropecuária: 8 000 ÷ 1 414 000 ≈ 0,57%. Comércio: 24 000 ÷ 4 097 000 ≈ 0,59%. Serviços: 34 000 ÷ 6 241 000 ≈ 0,54%. As demais têm riscos ainda maiores (indústria pesada ≈ 1,34%). O menor risco é o da administração pública, cerca de 0,18%. A alternativa A calcula corretamente o risco do crédito, mas ele não é o menor. A alternativa B traz um valor errado para o crédito. A alternativa C usa um critério errado, o número de empregados. A alternativa E acerta a atividade, mas pelo motivo errado (número absoluto de afastamentos). Gabarito: D.",
+  "hash": "1913558ae5c08cbc",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q176": {
+  "assunto": "Funções exponencial e logarítmica: decaimento exponencial",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tipo de função que modela uma população de bactérias reduzida pela metade a cada hora. Se a população inicial é N₀, após 1 hora fica N₀ · ½, após 2 horas N₀ · (½)², e após t horas N(t) = N₀ · (½)ᵗ. A variável t aparece no expoente e a base é constante, o que caracteriza uma função exponencial (aqui decrescente, pois a base ½ está entre 0 e 1). A alternativa A (afim) exigiria redução de uma quantidade fixa por hora, não de uma fração fixa. As alternativas B (seno) e C (cosseno) descrevem fenômenos periódicos, que sobem e descem. A alternativa D (logarítmica crescente) indica aumento, mas a população diminui. Gabarito: E.",
+  "hash": "315ee66a0631894a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q177": {
+  "assunto": "Sequências e progressões: padrões figurais",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o total de fichas da 15ª figura da sequência de barcos. Observando a figura, cada barco tem uma vela triangular e um casco. Vela: na figura n, há linhas com 1, 2, ..., n fichas, total n(n + 1)/2 (1, 3, 6, 10). Casco: na figura n, há n linhas com n + 1 fichas cada, total n(n + 1) (2, 6, 12, 20). Total na figura n: n(n + 1)/2 + n(n + 1) = 3n(n + 1)/2. Conferindo: figura 1 tem 3, figura 2 tem 9, figura 3 tem 18 e figura 4 tem 30, como no desenho. Para n = 15: 3 × 15 × 16 ÷ 2 = 360 fichas (120 na vela e 240 no casco). A alternativa A (45) e a B (87) não seguem o padrão. A alternativa C (120) conta apenas a vela. A alternativa D (240) conta apenas o casco. Gabarito: E.",
+  "hash": "b0f67dace16d8944",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q178": {
+  "assunto": "Razão e proporção: comparação de grandezas",
+  "dificuldade": 3,
+  "explicacao": "A questão pede em quais experimentos a fonte se afastou do ouvinte. Pelo efeito Doppler descrito, a fonte se afasta quando a frequência ouvida é menor que f e se aproxima quando é maior. É preciso escrever todas em função de f. Experimento 1: f₁ = 1,1f, maior que f (aproximação). Experimento 2: f₂ = 0,99 · f₁ = 0,99 · 1,1f = 1,089f, ainda maior que f (aproximação), embora menor que f₁. Experimento 3: de f₁ = 0,9f₃, temos f₃ = f₁ ÷ 0,9 = 1,1f ÷ 0,9 ≈ 1,22f (aproximação). Experimento 4: f₄ = 0,9f, menor que f (afastamento). Só no experimento 4 a fonte se afastou. A alternativa A inclui experimentos com frequência maior que f. A alternativa B erra ao incluir 2 e 3. A alternativa C erra ao comparar f₂ com f₁, e não com f. A alternativa D erra ao ler f₁ = 0,9f₃ como se f₃ fosse menor. Gabarito: E.",
+  "hash": "8652d40197a67fcd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q179": {
+  "assunto": "Matemática financeira: juros compostos, leitura de gráfico",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o saldo devedor inicial, o comportamento da parcela mensal de juros e a taxa de juros, a partir do gráfico. No tempo 0, a dívida é de R$ 500,00. Os valores seguintes são aproximadamente 560, 630, 725, 825, 925 e 1 040. Os acréscimos mensais são 60, 70, 95, 100, 100 e 115 reais: não são iguais, então a parcela de juros é variável (a curva não é uma reta, típico de juros sobre juros). A taxa do primeiro mês é 60 ÷ 500 = 0,12 = 12%; no segundo, 70 ÷ 560 = 12,5%. Em todo o período, os juros ficam acima de 10% ao mês. Logo: R$ 500,00; variável; superior a 10% ao mês. A alternativa A diz parcela constante e taxa inferior a 10%. As alternativas B e D usam R$ 560,00, que é o saldo após 1 mês. A alternativa E erra ao dizer taxa inferior a 10%. Gabarito: C.",
+  "hash": "31dfd339803dbf24",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q180": {
+  "assunto": "Razão e proporção: aplicação de fórmula",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o tamanho estimado da população pelo método de captura e recaptura, com a fórmula N = n₁ · n₂ / m₂, que vem da proporção m₂/n₂ = n₁/N (a fração de marcados na segunda amostra reflete a fração de marcados na população). Os dados são: n₁ = 120 marcados na primeira amostragem, n₂ = 150 indivíduos na segunda amostragem e m₂ = 100 que já tinham marcação. Assim: N = 120 × 150 ÷ 100 = 18 000 ÷ 100 = 180 indivíduos. A alternativa A (188) não resulta da fórmula. A alternativa C (125) inverte a relação, usando 150 × 100 ÷ 120. A alternativa D (96) e a E (80) também resultam de trocar os papéis de n₁, n₂ e m₂ na fórmula. Gabarito: B.",
+  "hash": "d6e6ec6ccc9998f0",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2013-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de charge",
   "dificuldade": 2,
