@@ -1,475 +1,665 @@
 {
  "enem-2010-regular-d2-q100": {
+  "assunto": "Artes visuais: apropriação, releitura",
+  "dificuldade": 2,
   "explicacao": "A questão pede a imagem em que o artista atual se apropria de outras imagens e mistura personagens de épocas diferentes. O texto de apoio lembra que os neoclássicos já misturavam passado e presente. Hoje, a apropriação aparece em montagens que combinam obras consagradas com figuras da cultura de massa. Na alternativa C, \"Monabean\", o rosto do personagem Mr. Bean, de uma série de TV dos anos 1990, foi inserido na Mona Lisa, pintada por Leonardo da Vinci no início do século XVI. A montagem inclui até o ursinho de pelúcia do personagem. A figura renascentista convive, numa mesma imagem, com um personagem contemporâneo, o que corresponde exatamente ao que o enunciado descreve. As demais alternativas, A, B, D e E, não juntam numa mesma composição personagens de épocas históricas distintas a partir de imagens apropriadas, por isso não atendem ao que o enunciado pede. Gabarito: C.",
   "hash": "59f1e9afd67deb80",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q101": {
+  "assunto": "Publicidade e linguagem midiática: persuasão",
+  "dificuldade": 1,
   "explicacao": "A questão pede o objetivo básico do texto publicitário de uma loja de eletroeletrônicos. O anúncio diz: \"Mostre que sua memória é melhor do que a de computador e guarde esta condição: 12x sem juros\". Ele faz um jogo com a palavra \"memória\", que é ao mesmo tempo a capacidade humana de lembrar e um componente do computador, e desafia o leitor a lembrar da condição de pagamento. Os verbos no imperativo (\"mostre\", \"guarde\") e a oferta de parcelamento sem juros têm uma meta clara: levar o leitor a comprar. O objetivo é influenciar o comportamento do leitor por meio de apelos ao consumo, como diz a alternativa A. A alternativa B está errada, pois o anúncio estimula o consumo em vez de combatê-lo. A C fala em defender o conhecimento de informática, o que não ocorre. A D menciona facilitar o uso de equipamentos, que não é o foco. A E toma a comparação entre homem e máquina como questionamento sério, quando ela é só um recurso persuasivo. Gabarito: A.",
   "hash": "a60122830466fa24",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q102": {
+  "assunto": "Figuras de linguagem: ironia em crônica",
+  "dificuldade": 4,
   "explicacao": "A questão pede o trecho em que a autora reage com ironia à influência da internet. Na crônica, ela faz um teste on-line chamado \"O que Freud diria de você\" e fica encantada com o resultado. Depois, responde tudo de outro jeito e recebe exatamente o mesmo diagnóstico, o que mostra que o teste não tem valor nenhum. Lido à luz desse desfecho, o trecho \"Fiquei radiante: eu havia realizado uma consulta paranormal com o pai da psicanálise\" ganha sentido irônico. A autora exagera o próprio entusiasmo e zomba da credulidade de quem leva a sério esse tipo de teste. Por isso a alternativa E está correta. A alternativa A apenas relata o que ela fez na segunda tentativa. A B reproduz o resultado do teste, sem comentário da autora. A C narra o início da história de forma neutra. A D descreve o procedimento de responder às perguntas, também sem ironia. Gabarito: E.",
   "hash": "074d54a6124d2840",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q103": {
+  "assunto": "Gêneros textuais: texto expositivo",
+  "dificuldade": 2,
   "explicacao": "A questão pede a finalidade do texto sobre o transtorno do comer compulsivo. O texto define a síndrome (episódios de ingestão exagerada sem métodos compensatórios), diferencia-a da bulimia, descreve os sentimentos associados, como culpa e vergonha, e apresenta dados: cerca de 2% da população, mais comum em mulheres de 20 a 30 anos, e 30% de quem procura tratamento para obesidade. É um texto expositivo, que apresenta o transtorno de modo geral e informativo, como afirma a alternativa D. A alternativa A erra ao dizer que o texto fornece orientações: ele não traz recomendações nem tratamentos. A B fala em narrar a vida de pessoas, mas não há narrativa nem personagens. A C atribui ao texto conselhos para perder peso, o que não aparece. A E diz que o texto encaminha as pessoas para mudar hábitos alimentares, e ele não tem esse caráter de orientação. Gabarito: D.",
   "hash": "bd316bcb5a6212ef",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q104": {
+  "assunto": "Coesão e coerência: conectivos, oposição, adição",
+  "dificuldade": 4,
   "explicacao": "A questão pede como se organiza a argumentação de que a gentileza vai além da boa educação. Observe os conectivos. Em \"ela é difícil de ser encontrada, mas fácil de ser identificada\", o \"mas\" marca oposição. Na sequência, o \"e\" em \"e acompanha pessoas generosas e desprendidas\" acrescenta informações, e o texto continua somando características: a gentileza é uma atitude desobrigada que se manifesta no cotidiano. A estrutura argumentativa, portanto, combina oposição e adição de ideias, como afirma a alternativa E. A alternativa A erra, pois não há encadeamento de causa e consequência entre fatos. A B fala em condições para atitudes educadas, mas o texto não usa estruturas condicionais. A C menciona uma finalidade da gentileza, que o texto não apresenta. A D descreve uma sequência temporal de fatos, própria da narração, ausente nesse texto conceitual. Gabarito: E.",
   "hash": "5ed1fa8fe0840728",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q105": {
+  "assunto": "Artes visuais: impressionismo",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma característica técnica do Impressionismo, ilustrada pela tela \"Mulher com sombrinha\", de Monet (1875). Os impressionistas pintavam ao ar livre e queriam captar o efeito passageiro da luz natural sobre as coisas. Para isso, usavam pinceladas rápidas e soltas, com cores puras aplicadas lado a lado diretamente na tela, sem misturá-las antes na paleta. A mistura acontecia no olho do observador, o que dava luminosidade e vibração à pintura. É o que descreve a alternativa D. A alternativa A erra ao falar em cores idealizadas, pois os impressionistas buscavam registrar as cores observadas. A B contradiz o estilo, que evitava o preto e os contornos nítidos. A C também fala em imagens idealizadas, quando o objetivo era a observação direta. A E descreve o sfumato renascentista, enquanto os impressionistas faziam sombras coloridas. Gabarito: D.",
   "hash": "a9a3b639f2748f3e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q106": {
+  "assunto": "Teatro e dança: danças folclóricas brasileiras",
+  "dificuldade": 2,
   "explicacao": "A questão pede a manifestação que não pode ser identificada como dança folclórica brasileira. O texto de apoio define o folclore como retrato da cultura de um povo e a dança folclórica como representação de valores, crenças e trabalho de uma região. O enunciado acrescenta que essas manifestações são criadas, recriadas e perpetuadas pelo próprio povo. O balé não se encaixa nessa definição: é uma dança erudita de origem europeia, com técnica codificada e apresentada como espetáculo por bailarinos e músicos profissionais. Ele não nasce da tradição popular brasileira, por isso a alternativa D é a resposta. O Bumba-meu-boi (A) é um auto popular, com crítica social, morte e ressurreição do boi. A Quadrilha junina (B) une festejos religiosos e celebrações de colheita. O Congado (C) encena um reinado africano em homenagem a santos. O Carnaval (E), com o samba derivado do batuque africano, também é expressão da cultura popular brasileira. Gabarito: D.",
   "hash": "230d3b7a78659719",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q107": {
+  "assunto": "Gramática: neologismo, formação de palavras",
+  "dificuldade": 2,
   "explicacao": "A questão pede a classificação da palavra \"corasamborim\", na canção \"Carnavália\", dos Tribalistas. O próprio enunciado explica a formação: coração + samba + tamborim. Trata-se de uma palavra inventada pelos autores, que funde três vocábulos já existentes no português por meio da aglutinação, um mecanismo de formação de palavras disponível na língua. O resultado expressa ao mesmo tempo os instrumentos da escola de samba e o estado emocional do eu lírico. Uma criação lexical nova como essa é um neologismo, como afirma a alternativa B. A alternativa A está errada, pois os elementos que formam a palavra são do próprio português, e não de outras línguas. A C erra porque gíria é uso compartilhado por um grupo social, e a palavra é criação individual e poética. A D falha, já que o termo não pertence a uma região geográfica. A E também está errada, pois não se trata de vocabulário técnico de uma área de atividade. Gabarito: B.",
   "hash": "6bfcc391332d0ccf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q108": {
+  "assunto": "Tecnologias da informação e comunicação: livro digital, acesso",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma inferência que relacione a capa da revista sobre o lançamento do livro digital com o mapa da cobertura de telefonia celular necessária para baixar publicações para o Kindle. No mapa, a cobertura se concentra no Sul, no Sudeste e no litoral do Nordeste, enquanto grande parte do Norte e do Centro-Oeste aparece praticamente em branco. Assim, o livro digital cria a expectativa de democratizar a leitura, mas essa promessa esbarra na cobertura insuficiente de internet por celular em várias regiões. É o que afirma a alternativa B. A alternativa A ignora a limitação mostrada no mapa ao dizer que o livro digital eliminará as distâncias. A C afirma que os livros impressos ficarão obsoletos e que os digitais serão gratuitos, ideias ausentes dos textos. A D fala em garantir a democratização, o que o mapa desmente. A E promete melhora na qualidade da leitura apesar das adversidades geográficas, justamente o que a falta de cobertura impede. Gabarito: B.",
   "hash": "974649f89a223241",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q109": {
+  "assunto": "Tecnologias da informação e comunicação: chat, interação",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que faz do chat uma nova forma de comunicação, segundo o texto. O texto explica que o chat é uma conversa em tempo real, ou seja, síncrona, e que, para entrar numa sala, o participante escolhe um nick, um apelido que o identifica durante a conversa. Assim, o diálogo flui instantaneamente sem que a identidade real das pessoas seja exposta, o que caracteriza a nova forma de interação descrita na alternativa A. A alternativa B erra ao falar em pessoas pré-selecionadas e em monitoramento por autoridades, pois o usuário apenas escolhe a sala. A C contradiz o texto, que denuncia justamente a falta de controle de idade e o acesso de crianças a conteúdos inadequados. A D menciona gravação das conversas, assunto que o texto não aborda. A E fala em limite de participantes, informação que também não aparece no texto. Gabarito: A.",
   "hash": "5a4d6df3c0082ff5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q110": {
+  "assunto": "Educação física: capacidades físicas, flexibilidade",
+  "dificuldade": 2,
   "explicacao": "A questão pede a capacidade física que predomina no movimento da imagem. A foto mostra uma praticante de ginástica rítmica apoiada no espaldar, em pé sobre uma perna e com a outra elevada quase na vertical, segura pela mão acima da cabeça. É um grande afastamento das pernas, que exige ampla mobilidade do quadril e alongamento muscular. Essa é a definição de flexibilidade: a amplitude máxima de movimento em uma ou mais articulações, sem lesão. Por isso a alternativa C está correta. A velocidade (A) envolveria gestos rápidos e sucessivos, e a posição na foto é estática. A resistência (B) se refere a manter o esforço por longo tempo, o que a imagem não evidencia. A agilidade (D) exige mudanças rápidas de direção, ausentes numa postura parada. O equilíbrio (E) até participa da posição, mas a atleta se apoia no espaldar, e o que se destaca é a amplitude da perna erguida. Gabarito: C.",
   "hash": "d9e60dc30c1432eb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q111": {
+  "assunto": "Gêneros textuais: comparação de textos, instrucional",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que caracteriza o texto I, já que o texto II é um passo a passo dirigido ao leitor. O texto II, \"Dicas para usar melhor o Twitter\", usa o imperativo (\"coloque-se\", \"aprecie com moderação\", \"não tente ler tudo\") para orientar o comportamento do usuário. O texto I tem outra função. Ele começa com uma mensagem de exatamente 140 caracteres, um exemplo do próprio formato do serviço, e depois explica o que é o Twitter: uma mistura de blog e celular, com mensagens curtas enviadas a todos os seguidores. Também comenta que vivemos a era da exposição e que a ideia de privacidade vai mudar. Exemplificar e explicar o novo serviço que reinventa a privacidade é o que diz a alternativa C. A alternativa A fala em investigar a internet, o que o texto não propõe. A B atribui ao texto I o caráter instrucional, que pertence ao texto II. A D trata de perigos nas relações de trabalho, tema ausente. A E menciona uma enquete que não existe no texto. Gabarito: C.",
   "hash": "e50ad90bfb810d83",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q112": {
+  "assunto": "Gêneros textuais: notícia",
+  "dificuldade": 2,
   "explicacao": "A questão pede a análise dos elementos que compõem a notícia. O texto relata uma ação, a operação do Ibama que incinerou 110 quilômetros de redes de pesca ilegal na divisa entre Pará, Maranhão e Tocantins. Informa também a finalidade: preservar a atividade a longo prazo e evitar a extinção dos peixes durante a reprodução. Por fim, apresenta o resultado: cerca de 15 toneladas de peixes apreendidas e doadas a instituições de caridade. Ação, finalidade e resultado é exatamente o que afirma a alternativa C. A alternativa A erra, pois a notícia relata fatos e não constrói argumentação contra a pesca ilegal. A B falha porque o título \"O dia em que o peixe saiu de graça\" é criativo e destaca só a doação, sem resumir o conteúdo. A D está errada, já que a notícia se dirige ao leitor da revista, e não a órgãos de governo. A E atribui ao texto a intenção de mobilizar movimentos sociais, que ele não tem. Gabarito: C.",
   "hash": "2fca4a80044e3695",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q113": {
+  "assunto": "Coesão e coerência: conectivo mas",
+  "dificuldade": 4,
   "explicacao": "A questão pede a função do conectivo \"mas\" nas duas vezes em que aparece no trecho de Clarice Lispector. Na primeira ocorrência, \"Mas o vento batendo nas cortinas [...] lembrava-lhe que se quisesse podia parar\", o \"mas\" tem valor adversativo: opõe o cansaço doméstico (o calor, o fogão enguiçado) à possibilidade de descanso. Na segunda, \"não outras, mas essas apenas\", ele não marca propriamente oposição: retifica e reforça a ideia anterior, enfatizando que Ana plantou somente aquelas sementes. Portanto, o conectivo cumpre funções discursivas diferentes em cada contexto, como afirma a alternativa E. A alternativa A contradiz essa diferença de sentido. A B e a C estão erradas porque o \"mas\" pode iniciar frase sem prejudicar a compreensão, como o próprio texto demonstra. A D atribui ao conectivo uma ideia de sequência temporal, que ele não expressa em nenhuma das ocorrências. Gabarito: E.",
   "hash": "ab426c65fb4a8bd5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q114": {
+  "assunto": "Argumentação: posicionamento do autor",
+  "dificuldade": 4,
   "explicacao": "A questão pede o posicionamento do autor sobre comportamentos herdados da Inquisição. Ele conta que perguntou a sociólogos, historiadores e psicólogos se comportamentos daquela época poderiam ter se perpetuado, e a maioria respondeu que não, porque nenhum comportamento resiste tanto tempo sem reforço. Em seguida vem a virada: \"Não sou psicólogo nem sociólogo para discordar, mas tenho a impressão de que existem alguns comportamentos estranhos na sociedade brasileira\" que seriam resquícios da Inquisição. O \"mas\" introduz a posição do autor, que contesta a opinião dos especialistas, como diz a alternativa B. A alternativa A erra, pois o autor fala de comportamentos na sociedade brasileira, e não em Portugal e na Espanha. A C sugere uma divergência entre os próprios especialistas, que na maioria concordaram. A D diz que o autor relativiza esses comportamentos, quando ele afirma que existem. A E inverte a posição: quem questiona essa herança são os especialistas, não o autor. Gabarito: B.",
   "hash": "f1f809aac4f5d2be",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q115": {
+  "assunto": "Variação linguística: contato entre línguas",
+  "dificuldade": 4,
   "explicacao": "A questão pede a conclusão comum aos dois textos sobre as línguas. O primeiro discute a influência das línguas indígenas no português do Brasil e argumenta que dois séculos de bilinguismo dificilmente deixariam de deixar marcas, ou seja, elementos dessas línguas sobrevivem no português. O segundo trata da Pedra de Roseta: o egípcio antigo, que não tinha mais falantes, foi preservado em registro escrito e pôde ser decifrado séculos depois por comparação com o grego. Nos dois casos, elementos de uma língua permanecem mesmo quando ela deixa de ser falada, o que corresponde à alternativa B. A alternativa A erra, pois a decifração da Pedra mostra justamente que é possível traduzir. A C é desmentida pela escrita egípcia, que sobreviveu à sociedade que a produziu. A D fala em estrutura gramatical idêntica, algo que nenhum dos textos afirma. A E inventa semelhança de letras e palavras entre egípcio e grego, quando a comparação foi possível por se tratar do mesmo texto em versões diferentes. Gabarito: B.",
   "hash": "e109ddff51da7dea",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q116": {
+  "assunto": "Gêneros textuais: biografia",
+  "dificuldade": 2,
   "explicacao": "A questão pede as características do gênero do texto sobre Machado de Assis. O fragmento é um trecho de biografia: apresenta a vida de uma personalidade real seguindo a ordem dos acontecimentos, como nascimento no Rio de Janeiro em 1839, filiação, morte precoce da mãe, criação pela madrasta e matrícula na escola pública. A organização é narrativa, com fatos encadeados no tempo, e a linguagem é objetiva e informativa, como diz a alternativa E. A alternativa A erra ao falar em fatos ficcionais, pois tudo o que é narrado é real. A B fala em representações generalizadas sobre membros da sociedade, quando o texto trata de um único indivíduo. A C atribui ao texto uma estrutura argumentativa, mas ele não defende tese, apenas relata. A D menciona questões controversas e intimidade em detrimento dos feitos públicos, enquanto o texto abre justamente com a lista das atividades literárias do escritor. Gabarito: E.",
   "hash": "38b6cbf6e4d92c5e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q117": {
+  "assunto": "Literatura brasileira: ultrarromantismo, Álvares de Azevedo",
+  "dificuldade": 4,
   "explicacao": "A questão pede o fundamento do lirismo do soneto de Álvares de Azevedo, autor da segunda geração romântica, o ultrarromantismo. O eu lírico descreve um estado de prostração: o palor da morte cobre o rosto, o alento desfalece, o corpo exausto não consegue repousar. A causa é a mágoa pela perda, o adeus da amada (\"o teu adeus, minha saudade\"). Diante disso, ele não age: apenas lamenta e implora que ela volte os olhos para ele por piedade. É a melancolia que paralisa e impede qualquer reação diante da perda, como diz a alternativa B. A alternativa A erra, pois o tema não é a morte como fato irreversível, e sim o abatimento causado pelo abandono. A C fala em descontrole emocional, mas o soneto é organizado e contido no lamento. A D atribui ao eu lírico o desejo de morrer, quando ele pede esperança para continuar vivendo. A E menciona gosto pela escuridão como solução, ideia que o texto não sustenta. Gabarito: B.",
   "hash": "f32629de030783e8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q118": {
+  "assunto": "Literatura brasileira: marginalidade social, prosa",
+  "dificuldade": 3,
   "explicacao": "A questão pede o ponto comum entre os trechos de Jorge Amado e de Dalton Trevisan, que tratam de personagens marginalizados. Em \"Capitães da Areia\", os meninos de rua dormem num trapiche, pelo assoalho e debaixo da ponte, expostos ao vento e à chuva. No conto de Trevisan, os bêbados vivem sob o velho ingazeiro, nos fundos do mercado de peixe, à margem do rio Belém, e se alimentam das sobras. Nos dois textos, o lugar onde os personagens vivem, um espaço abandonado e periférico, funciona como marca da exclusão social, como afirma a alternativa D. A alternativa A não vale para Trevisan, cujo narrador é distanciado e irônico. A B não vale para Jorge Amado, que trata os meninos com lirismo e simpatia. A C erra, pois os trechos não detalham o cotidiano nem a origem social dos personagens. A E fala em crítica direta, mas, em ambos, a crítica é sugerida, e em Trevisan aparece pela ironia. Gabarito: D.",
   "hash": "cab88a40f279c273",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q119": {
+  "assunto": "Tecnologias da informação e comunicação: Wikipédia, colaboração",
+  "dificuldade": 2,
   "explicacao": "A questão pede a causa da falta de confiança no conteúdo da Wikipédia, segundo o texto. O texto explica que a Wikipédia é uma enciclopédia colaborativa, feita e atualizada por qualquer internauta. Por ter como lema a escrita coletiva, seus textos podem ser editados e reeditados por pessoas do mundo inteiro, o que abre espaço para sabotagens deliberadas e contribuições erradas. Por isso não se pode confiar integralmente no que se lê. É exatamente a causa apontada na alternativa A. A alternativa B afirma que a falta de confiança limita a disseminação do saber, conclusão que o texto não tira. A C atribui o problema à facilidade de acesso à página, quando a questão é a possibilidade de edição. A D fala em aumento da procura por enciclopédias impressas, dado ausente do texto. A E responsabiliza o desconhecimento do usuário, mas o texto aponta o modo como a enciclopédia é produzida. Gabarito: A.",
   "hash": "9d6c687f8a07461b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q120": {
+  "assunto": "Educação física: fundamentos do voleibol",
+  "dificuldade": 2,
   "explicacao": "A questão pede os fundamentos do voleibol mostrados na sequência de três fotos. Na figura 1, o jogador está parado atrás da linha de fundo, segurando a bola à frente do corpo para executar o saque, que coloca a bola em jogo. Na figura 2, o atleta se lança ao chão, com os braços estendidos, para recuperar uma bola baixa: é a defesa. Na figura 3, junto à rede, dois jogadores saltam com os braços erguidos diante de um adversário que acaba de golpear a bola por cima da rede, momento da cortada, o principal recurso de ataque. A sequência saque, defesa e ataque corresponde à alternativa A. A alternativa B erra ao falar em arremessar a bola e ao tratar o bloqueio como ataque. A C diz que a bola entra em jogo pelo toque e que se corta para defender, o que contraria as regras e as imagens. A D não identifica o saque nem a defesa mostrados. A E começa pela cortada, mas a primeira imagem é um saque. Gabarito: A.",
   "hash": "44190a12a4321de9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q121": {
+  "assunto": "Argumentação: acordo ortográfico, pertinência",
+  "dificuldade": 5,
   "explicacao": "A questão pede o argumento que foge da discussão sobre a validade do Acordo Ortográfico para fins de unificação da língua. As alternativas A, B, D e E tratam diretamente da unificação. A, do presidente da ABL, celebra o acordo como marco que unifica a grafia. B, de João Pereira Coutinho, rejeita-o em defesa das consoantes etimológicas e da pluralidade. D, de Vasco Graça Moura, afirma que o acordo não leva a unidade nenhuma. E, do presidente do Instituto Português do Oriente, discute que tipo de unidade a lusofonia deveria buscar. Já a alternativa C, do ministro da Cultura de Portugal, desloca o foco para a dimensão econômica e política: fala em internacionalizar o português como \"marca econômica\" e compara o valor de Fernando Pessoa ao da Portugal Telecom. Por não discutir a unificação ortográfica em si, esse argumento é o que foge ao debate. Gabarito: C.",
   "hash": "782e778f87d4b007",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q122": {
+  "assunto": "Interpretação de texto: tabagismo passivo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que os dois textos sobre tabagismo procuram demonstrar. O texto I define o fumante passivo, afirma que \"quem não fuma não é obrigado a respirar a fumaça dos outros\" e apresenta dados: 79% dos europeus e 88% dos não fumantes norte-americanos estão expostos, e na Nova Zelândia o fumo passivo é a terceira causa de morte. O texto II é uma charge: um homem fuma tranquilo enquanto a fumaça, desenhada como um fantasma ameaçador, invade a boca do não fumante ao lado, que se assusta. Os dois textos mostram que o não fumante também sofre os danos do cigarro e, por isso, deve ser respeitado e protegido, como afirma a alternativa D. A alternativa A fala em quantidade de nicotina recomendada, assunto ausente. A B propõe aumentar o fumo passivo para garantir o prazer de fumar, o oposto da mensagem. A C atribui a solução à conscientização do fumante passivo, quando quem precisa mudar é o fumante. A E põe no fumante passivo a responsabilidade de evitar a fumaça, contrariando o texto I. Gabarito: D.",
   "hash": "34e3fdbc43ba3227",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q123": {
+  "assunto": "Artes visuais: surrealismo, Dalí",
+  "dificuldade": 3,
   "explicacao": "A questão pede a característica das imagens produzidas pelo \"método paranoico-crítico\" de Salvador Dalí. O enunciado informa que esse estilo se baseava na interpretação dos sonhos e nos estudos de Freud. A pintura de Dalí, com seus relógios moles e girafas em chamas, cria cenas oníricas: mistura elementos reconhecíveis da realidade com associações absurdas típicas do sonho, unindo consciente e inconsciente num universo pessoal. É o que descreve a alternativa B. A alternativa A erra ao falar em civismo imposto pelo governo espanhol, pois o método nada tem de cívico, apesar do apoio do pintor a Franco. A C fala em razão inflexível e em formas vinculadas ao real, o contrário da proposta surrealista. A D menciona sobriedade e cores discretas, que não correspondem às imagens perturbadoras de Dalí. A E fala em conduzir o enredo histórico de personagens, o que não define o método. Gabarito: B.",
   "hash": "9451ead206366bb7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q124": {
+  "assunto": "Gêneros textuais: texto jornalístico opinativo",
+  "dificuldade": 3,
   "explicacao": "A questão pede o objetivo do autor do texto jornalístico sobre o choque entre satélites. O texto não se limita a noticiar a colisão sobre a Sibéria. Ele constrói um ponto de vista: compara a órbita a uma \"avenida congestionada\", afirma que \"era questão de tempo\" para ocorrer um acidente e conclui que o episódio \"chama a atenção para os riscos\" do lixo espacial, que poderia danificar o Hubble e ameaçar astronautas. Os números (3 000 satélites ativos, 17 000 fragmentos) servem de base a esse alerta. São marcas argumentativas que buscam influenciar a opinião do leitor sobre o problema, como afirma a alternativa C. A alternativa A erra, pois a linguagem figurada é um recurso, e não o objetivo do texto. A B fala em criar suspense e temor, mas o tom é de alerta fundamentado em dados. A D exagera ao dizer que os satélites ameaçam toda a humanidade, quando o risco citado é para equipamentos e astronautas. A E confunde metáforas com ironia. Gabarito: C.",
   "hash": "6fb6e6698aa51b71",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q125": {
+  "assunto": "Argumentação: editorial, conclusão",
+  "dificuldade": 3,
   "explicacao": "A questão pede a conclusão para a qual apontam os argumentos do editorial. O texto mostra que o tráfico oferece a jovens de baixa escolaridade salários de R$ 400 a R$ 12.000, bem acima da renda de boa parte da população. Em seguida, argumenta que políticas compensatórias como o Bolsa-Escola, de R$ 15 por aluno, e os programas culturais e esportivos não resolvem o problema. A tese aparece no último parágrafo: \"A única maneira de reduzir a atração exercida pelo tráfico é a repressão\", e cabe aos governos desmontar as organizações das quadrilhas para que a certeza de punição elimine o fascínio do crime. O texto busca convencer o leitor de que é preciso aumentar a ação policial, como diz a alternativa D. A alternativa A reduz o texto a uma denúncia, mas ele propõe uma solução. A B fala em restringir o tráfico aos centros urbanos, conclusão ausente. A C contradiz o texto, que considera essas políticas insuficientes. A E erra porque os números servem para mostrar a atração do tráfico, e o texto afirma que há risco real de prisão. Gabarito: D.",
   "hash": "e19e2f277a1bb9b4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q126": {
+  "assunto": "Argumentação: dados estatísticos como prova",
+  "dificuldade": 3,
   "explicacao": "A questão pede o recurso usado pelo autor para comprovar a tese de que as políticas sociais não terão sucesso enquanto o tráfico pagar muito mais que os programas do governo. A comprovação vem dos números. O tráfico paga de R$ 400 a R$ 12.000 por mês, e 25% dos traficantes ouvidos recebiam mais de R$ 2.000, contra no máximo 6% da população brasileira. Já o Bolsa-Escola paga R$ 15 por aluno matriculado. A comparação entre esses valores mostra a enorme vantagem financeira do crime e sustenta a tese, como afirma a alternativa E. A alternativa A erra, pois o texto não cita instituições que divulguem o crescimento de jovens no crime; a Fiocruz é mencionada como autora do estudo. A B traz a proposta final do autor, a repressão, que não é a prova da tese. A C contradiz o texto, que considera essas políticas incapazes de impedir o aliciamento. A D cita pesquisadores, mas o argumento se apoia nos dados que eles levantaram, e não na preocupação deles. Gabarito: E.",
   "hash": "1bd4530b6e00193d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q127": {
+  "assunto": "Variação linguística: norma culta, carta",
+  "dificuldade": 2,
   "explicacao": "A questão pede o tipo de linguagem usado na carta de José Fuzeira ao presidente Getúlio Vargas, em 1940. O texto apresenta várias marcas da norma culta: o pronome de tratamento \"Vossa Excelência\", o vocativo \"senhor presidente\", vocabulário elevado (\"clarividente\", \"conjurada\", \"calamidade\", \"equilíbrio fisiológico\") e frases longas com estrutura sintática elaborada. Essa escolha se ajusta ao interlocutor, a maior autoridade do país, e à situação formal de uma carta oficial. Por isso a alternativa D está correta. A alternativa A erra, pois não há vocabulário típico de uma região. A B fala em linguagem jurídica, mas o texto não usa termos técnicos do Direito, e o futebol não exigiria esse registro. A C e a E apontam registro coloquial ou informal, o oposto do que se vê no texto; além disso, a E não faz sentido ao atribuir a escolha à escolaridade do presidente. Gabarito: D.",
   "hash": "1d85ff4d5122b5a5",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q128": {
+  "assunto": "Literatura brasileira: realismo, Machado de Assis",
+  "dificuldade": 5,
   "explicacao": "A questão pede o aspecto do trecho de \"Quincas Borba\" que dá alcance universal à abordagem de Machado de Assis. Rubião, professor pobre de Minas que enriqueceu com a herança de Quincas Borba, admira a bandeja de prata e aceita, a contragosto, as estatuetas de bronze, um criado espanhol e um cozinheiro francês. Tudo isso por conselho do amigo Palha, que lhe mostra o que \"tem preço\" e a \"necessidade de ter criados brancos\". O seu bom pajem mineiro, que ele queria na sala como um pedaço da província, é afastado para outros serviços. O novo rico abre mão do próprio gosto e das próprias raízes para parecer refinado. Esse conflito entre o passado pobre e o presente rico, em que a aparência vence a essência, é um tema universal, como afirma a alternativa A. A alternativa B fala em nostalgia da escravidão, que não é o foco. A C atribui às figuras de Fausto e Mefistófeles um desejo de eternização, ideia ausente. A D dá aos metais um sentido ligado ao trabalho, quando eles representam luxo e ostentação. A E reduz a cena à xenofobia, mas Rubião cede justamente para manter as aparências. Gabarito: A.",
   "hash": "e636be11bbd771bc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q129": {
+  "assunto": "Literatura brasileira: pré-modernismo, Monteiro Lobato",
+  "dificuldade": 4,
   "explicacao": "A questão pede como se percebe a contradição de valores do momento histórico retratado em \"Negrinha\", de Monteiro Lobato. A narrativa se passa logo após a abolição. Dona Inácia é apresentada com ironia como \"excelente senhora\", virtuosa, amiga dos padres, \"esteio da religião e da moral\". Mas o final do trecho revela sua verdadeira face: fora senhora de escravos das mais ferozes e \"nunca se afizera ao regime novo – essa indecência de negro igual\". A contradição está entre a liberdade legal dos negros e a resistência da senhora em aceitá-la, como afirma a alternativa D. A alternativa A aponta um distanciamento entre as duas personagens que não define a contradição histórica. A B fala em deselegância com beatas, o que o texto não menciona. A C atribui ironia ao padre, mas quem ironiza é o narrador; o padre elogia sinceramente a patroa. A E fala em rejeição a criados em geral, enquanto o texto trata da crueldade com crianças e do desprezo pela igualdade racial. Gabarito: D.",
   "hash": "f67d9213bd03e7eb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q130": {
+  "assunto": "Coesão e coerência: conectivos, concessão",
+  "dificuldade": 4,
   "explicacao": "A questão pede a análise dos conectivos no relato do jogo entre Flamengo e Botafogo. Em \"Mesmo com mais posse de bola, o time dirigido por Cuca tinha grande dificuldade de chegar à área\", o \"mesmo\" introduz uma concessão: seria de esperar que o time com mais posse de bola chegasse com facilidade ao ataque, mas isso não acontece. O conectivo marca um fato que contraria a expectativa sem impedir o que é afirmado, por isso a alternativa D está correta. A alternativa A erra, pois \"após\" indica tempo (depois do cruzamento), e não causa. A B atribui a \"enquanto\" valor alternativo, mas ele indica simultaneidade entre as ações dos dois times. A C diz que \"no entanto\" indica tempo, mas ele tem valor adversativo: apesar da dificuldade, o gol saiu. A E diz que \"por causa de\" indica consequência, mas ele introduz a causa da dificuldade, o bloqueio do Botafogo. Gabarito: D.",
   "hash": "ce4857c8643848cd",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q131": {
+  "assunto": "Artes visuais: modernismo brasileiro, Anita Malfatti",
+  "dificuldade": 3,
   "explicacao": "A questão pede o que Anita Malfatti e os demais modernistas buscaram ao criar uma arte que valorizasse a cultura brasileira. A exposição de Anita em 1917, duramente criticada por Monteiro Lobato no artigo \"Paranoia ou mistificação?\", mostrava influências das vanguardas europeias, como o expressionismo: cores fortes, deformação das figuras e liberdade em relação à representação fiel. Os modernistas, que se reuniram na Semana de Arte Moderna de 1922, queriam romper com as normas acadêmicas, valorizar a originalidade e trazer temas nacionais para a arte. É o que diz a alternativa A. A alternativa B inverte a realidade, pois o uso livre da cor foi justamente uma conquista modernista. A C e a D descrevem a cópia fiel da natureza e o apego à tradição acadêmica, que os modernistas combatiam. A E fala em respeitar limites de temas, contrariando a liberdade temática defendida pelo movimento. Gabarito: A.",
   "hash": "a7c7c230e0f85a7d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q132": {
+  "assunto": "Interpretação de texto: leitura de gráfico",
+  "dificuldade": 3,
   "explicacao": "A questão pede uma conclusão que o gráfico realmente garanta sobre as matrículas por sexo nos cursos universitários. O gráfico separa os cursos em dois grupos. Do lado das \"pessoas\" ficam Psicologia (84% de mulheres), Humanas-artes (75%), Educação (72%) e Medicina (63%). Do lado das \"coisas\" ficam Matemática (38% de mulheres), Engenharia (27%), Mineração (21%) e Física (20%). O texto do gráfico afirma que as mulheres dominam as carreiras ligadas a compreender pessoas e emoções. Portanto, elas estão em maior percentual nos cursos que exigem compreensão dos seres humanos, como diz a alternativa B. A alternativa A erra, pois os homens são 62% em Matemática e só 37% em Medicina, ou seja, estão em maior proporção em Matemática. A C erra porque as mulheres são 20% em Física e 21% em Mineração. A D é desmentida pelas grandes diferenças em todos os cursos. A E contradiz o dado de 84% de mulheres em Psicologia. Gabarito: B.",
   "hash": "8e2cc462949d1f7f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q133": {
+  "assunto": "Tecnologias da informação e comunicação: novas mídias, Pierre Lévy",
+  "dificuldade": 4,
   "explicacao": "A questão pede como o texto de Pierre Lévy encaminha a discussão sobre o temor de que o novo substitua o antigo. O autor defende que um novo meio raramente elimina os anteriores: a escrita não fez a fala desaparecer, apenas reorganizou suas funções. Para mostrar isso, ele considera o surgimento de novos estilos de conhecimento, como o conhecimento \"teórico\", que se soma ao saber transmitido oralmente, e de novos gêneros, como o código de leis e o romance. Esse é o encaminhamento descrito na alternativa A. A alternativa B erra, pois o texto não diz que a escrita deixa de transcrever a fala nem defende preservar palavras antigas. A C distorce o texto, que afirma que os pintores deixaram de ser os únicos produtores de imagens, e não que os fotógrafos passaram a ser. A D atribui ao texto a ideia de que os meios de comunicação substituirão o homem, o oposto do que ele argumenta. A E fala em medo de parecer retrógrado, que não aparece no texto. Gabarito: A.",
   "hash": "5a43c179368c2d1f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q134": {
+  "assunto": "Literatura brasileira: experiência urbana, crônica",
+  "dificuldade": 4,
   "explicacao": "A questão pede como a rua é vista nos textos I e II, respectivamente. No texto I, João do Rio declara seu amor pela rua e afirma que esse sentimento é compartilhado por todos: \"Nós somos irmãos, nós nos sentimos parecidos e iguais\", pois \"nos une, nivela e agremia o amor da rua\". A rua cria, portanto, um sentido de comunidade. No texto II, de Lima Barreto, a personagem se sente rainha e imperatriz na rua, sob o olhar cobiçoso dos homens e invejoso das mulheres, e caminha \"satisfeita que nem uma duquesa atravessando os seus domínios\". A rua é o espaço onde ela se exibe. A alternativa D reúne essas duas visões. A alternativa A fala em sensações contraditórias, o que não se vê no texto I. A B fala em cultivo da intimidade, mas o texto I trata de um sentimento coletivo. A C menciona vínculos duradouros e encontros casuais, que não resumem nenhum dos textos. A E fala em anonimato e segregação, o contrário da união do texto I e da exposição do texto II. Gabarito: D.",
   "hash": "a1ea52f087e576c7",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q135": {
+  "assunto": "Tecnologias da informação e comunicação: hipertexto",
+  "dificuldade": 3,
   "explicacao": "A questão pede um texto impresso que manifeste a hipertextualidade, isto é, a leitura não linear, em que o leitor acessa o que lhe interessa. A máquina de Romelli permitia saltar de um livro a outro, e a internet faz isso com um clique. O dicionário funciona da mesma forma no papel: ninguém o lê do começo ao fim. O leitor busca diretamente o verbete desejado e pode seguir remissões para outras entradas, como \"ver também\". A forma do texto dá liberdade de acesso à informação, como diz a alternativa A. A alternativa B cita documentários, que não são textos impressos, e a seleção de fatos pelo autor não cria leitura não linear. A C fala em relatos pessoais, normalmente lidos em sequência. A D menciona editoriais, textos argumentativos de leitura linear. A E confunde a variedade de cenários de um romance com quebra de linearidade na leitura. Gabarito: A.",
   "hash": "98e429a4a224aaf0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q136": {
+  "assunto": "Porcentagem: frações, representação",
+  "dificuldade": 1,
   "explicacao": "A questão pede uma representação da lousa com 40% do espaço preenchido, seguindo um procedimento semelhante ao primeiro. Na primeira situação, a lousa foi dividida em 4 partes iguais e 3 delas foram preenchidas: 3/4 = 0,75 = 75%. Agora queremos 40%. Escrevendo como fração: 40% = 40/100 = 2/5. Basta, então, dividir a lousa em 5 partes iguais e preencher 2 delas. A alternativa C mostra exatamente isso: a lousa dividida em cinco partes, com duas preenchidas, ou seja, 2/5 = 40%. As outras alternativas representam frações diferentes de 40%, seja por dividir a lousa em outro número de partes, seja por preencher uma quantidade de partes que não corresponde a 2/5 do total. Gabarito: C.",
   "hash": "e461124fbbd8c787",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q137": {
+  "assunto": "Razão e proporção: razão, conversão de unidades",
+  "dificuldade": 2,
   "explicacao": "A questão pede a razão entre o diâmetro do olho humano, suposto em 2,1 cm, e o diâmetro do espelho do telescópio, 42 m. Primeiro, colocamos as duas medidas na mesma unidade: 42 m = 42 × 100 cm = 4 200 cm. A razão fica: 2,1 / 4 200. Dividindo numerador e denominador por 2,1: 2,1 ÷ 2,1 = 1 e 4 200 ÷ 2,1 = 2 000. Portanto, a razão é 1 : 2 000, ou seja, o espelho tem um diâmetro 2 000 vezes maior que o do olho. A alternativa A (1 : 20) aparece se não convertermos metros em centímetros (42 ÷ 2,1 = 20). A B (1 : 100) e a C (1 : 200) resultam de conversões erradas de unidade. A D (1 : 1 000) corresponde a um erro de um fator 2 na divisão. Gabarito: E.",
   "hash": "791b74b8bccdf821",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q138": {
+  "assunto": "Geometria espacial: planificação, cilindro",
+  "dificuldade": 3,
   "explicacao": "A questão pede a planificação de um dos bebedouros, considerando que nenhum tem tampa. Os bebedouros 1 e 2 são troncos de cone; o bebedouro 3 é um semicilindro com 100 cm de comprimento e 60 cm de largura, isto é, um cilindro de diâmetro 60 cm cortado ao meio pelo comprimento. Planificando o semicilindro aberto em cima, obtemos: a superfície curva, que vira um retângulo com 100 cm de comprimento e largura igual a meia circunferência (π × 60 / 2 ≈ 94 cm); e as duas extremidades, que são dois semicírculos de diâmetro 60 cm presos aos lados menores desse retângulo. A face plana superior não aparece, pois o recipiente não tem tampa. A alternativa E mostra exatamente esse retângulo de 100 cm com um semicírculo de 60 cm em cada extremidade. As demais figuras não correspondem à planificação de nenhum dos três recipientes, seja por usar formas incompatíveis com o tronco de cone, seja por incluir ou omitir faces. Gabarito: E.",
   "hash": "f8217840bfc1dbd0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q139": {
+  "assunto": "Geometria espacial: volume, cubo, paralelepípedo",
+  "dificuldade": 1,
   "explicacao": "A questão pede a aresta do chocolate em forma de cubo que tem o mesmo volume da barra em forma de paralelepípedo. O volume do paralelepípedo é o produto das três dimensões: V = 3 × 18 × 4. Calculando: 3 × 18 = 54 e 54 × 4 = 216 cm³. O volume do cubo de aresta a é a³. Igualando: a³ = 216, logo a = ∛216 = 6 cm, pois 6 × 6 × 6 = 216. Assim, a alternativa B está correta. A alternativa A (5 cm) daria um cubo de 125 cm³. A C (12 cm) daria 1 728 cm³. A D (24 cm) daria 13 824 cm³, muito acima de 216. A E (25 cm) é a soma das dimensões (3 + 18 + 4), que não tem relação com o volume. Gabarito: B.",
   "hash": "4bda68751e520174",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q140": {
+  "assunto": "Leitura de gráficos e tabelas: quadro de medalhas",
+  "dificuldade": 2,
   "explicacao": "A questão pede a nova classificação do Brasil se ele ganhasse mais 4 ouros, 4 pratas e 10 bronzes. O Brasil tinha 5 ouros, 2 pratas e 3 bronzes. Ficaria com 5 + 4 = 9 ouros, 2 + 4 = 6 pratas e 3 + 10 = 13 bronzes. A classificação considera primeiro o ouro. No quadro, a Itália (8º) tem 10 ouros e fica à frente. Coreia do Sul, Grã-Bretanha, Cuba e Ucrânia têm 9 ouros, como o Brasil. O desempate é pela prata: Coreia tem 12, Grã-Bretanha 9, Cuba 7, Brasil 6 e Ucrânia 5. Assim, o Brasil ficaria atrás de Cuba e à frente da Ucrânia. A ordem passa a ser: 8º Itália, 9º Coreia, 10º Grã-Bretanha, 11º Cuba, 12º Brasil, 13º Ucrânia. A Hungria, com 8 ouros, também fica atrás. Portanto, o Brasil seria o 12º colocado, como diz a alternativa B. As alternativas C, D e E ignoram o desempate pela prata. A A (13º) é a posição que caberia à Ucrânia. Gabarito: B.",
   "hash": "83fe6684efd1ff34",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q141": {
+  "assunto": "Porcentagem: cálculo com gráfico",
+  "dificuldade": 1,
   "explicacao": "A questão pede quantos dos 14 900 estudantes entrevistados no Sudeste possuíam celular. O gráfico mostra que, no Sudeste, 56% dos estudantes possuíam telefone celular e 44% não possuíam. Basta calcular 56% de 14 900: 0,56 × 14 900. Fazendo por partes: 0,5 × 14 900 = 7 450 e 0,06 × 14 900 = 894. Somando: 7 450 + 894 = 8 344 estudantes. Isso confirma a alternativa D. A alternativa A (5 513) equivale a 37%, valor do Norte. A B (6 556) corresponde a 44%, a porcentagem dos que não possuíam celular no Sudeste. A C (7 450) é 50%, metade dos entrevistados. A E (9 536) equivale a 64%, valor do Nordeste para os que não possuíam. Gabarito: D.",
   "hash": "f2c5d080c979af93",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q142": {
+  "assunto": "Funções: interpretação de gráfico, taxa de variação",
+  "dificuldade": 3,
   "explicacao": "A questão pede o gráfico que representa a altura do filho em função da idade, com três fases: crescimento mais rápido de 0 a 10 anos, mais lento de 10 a 17 e, depois dos 17, cada vez menor até se tornar imperceptível. Num gráfico de altura por idade, a rapidez do crescimento aparece na inclinação da curva. O gráfico A mostra um segmento bem inclinado de 0 a 10 anos (de 51 cm para 148 cm, cerca de 9,7 cm por ano) e outro menos inclinado de 10 a 17 (de 148 cm para 171 cm, cerca de 3,3 cm por ano). Depois, um trecho ainda menos inclinado até 180 cm e, por fim, uma linha horizontal, que indica altura constante. Essa sequência de inclinações decrescentes até zero é exatamente a situação descrita, por isso a alternativa A está correta. As demais não mostram essa sequência: ou apresentam crescimento mais rápido em fases posteriores, ou não terminam com a altura estabilizada. Gabarito: A.",
   "hash": "bef68d7f014f5303",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q143": {
+  "assunto": "Medidas de tendência central: média, aumento percentual",
+  "dificuldade": 3,
   "explicacao": "A questão pede o desmatamento médio por estado em 2009, sabendo que cresceu 10,5% em relação a 2004. Primeiro somamos os valores de 2004 dos nove estados: 10 416 + 7 293 + 3 463 + 797 + 766 + 549 + 326 + 136 + 4. Por partes: 10 416 + 7 293 = 17 709; + 3 463 = 21 172; + 797 = 21 969; + 766 = 22 735; + 549 = 23 284; + 326 = 23 610; + 136 = 23 746; + 4 = 23 750 km². A média em 2004 é 23 750 ÷ 9 ≈ 2 638,9 km². Aplicando o aumento de 10,5%: 2 638,9 × 1,105 ≈ 2 638,9 + 277,1 = 2 916 km². Esse valor está entre 2 800 km² e 3 200 km², como diz a alternativa C. A alternativa B (até 2 700 km²) corresponde à média de 2004, sem o aumento. A A subestima muito o valor. A D e a E superestimam a média, como se o total fosse dividido por menos estados. Gabarito: C.",
   "hash": "baee0e1cd1bc50e2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q144": {
+  "assunto": "Razão e proporção: grandezas proporcionais",
+  "dificuldade": 3,
   "explicacao": "A questão pede o tipo de proporcionalidade entre resistência e comprimento, resistência e área da secção transversal, e comprimento e área. A relação é dada pela segunda lei de Ohm: R = ρ·ℓ/A, em que ρ é a resistividade do material. Mantendo A fixa, se o comprimento dobra, a resistência dobra: R e ℓ são diretamente proporcionais. Mantendo ℓ fixo, se a área dobra, a resistência cai pela metade: R e A são inversamente proporcionais. Mantendo R fixa, temos ℓ/A = R/ρ, constante; assim, se o comprimento dobra, a área também precisa dobrar: ℓ e A são diretamente proporcionais. A sequência é direta, inversa e direta, como na alternativa C. A alternativa A erra a relação entre R e A. A B erra as duas últimas. A D e a E tratam como inversa a relação entre R e ℓ, que é direta. Gabarito: C.",
   "hash": "9735fc8e4143b31f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q145": {
+  "assunto": "Porcentagem: taxa de desemprego",
+  "dificuldade": 1,
   "explicacao": "[REVISAR] O texto de apoio está corrompido na extração (\"se_Mg_Tu₋i_Pn_Rte...\"), mas o gráfico permite resolver a questão. A questão pede o número de desempregados na região metropolitana de Porto Alegre em março de 2010, supondo 250 000 pessoas pesquisadas. O gráfico de taxas de desemprego mostra, para Porto Alegre, a taxa de 9,8%. Basta calcular 9,8% de 250 000: 0,098 × 250 000. Por partes: 0,1 × 250 000 = 25 000 e 0,002 × 250 000 = 500. Então 25 000 − 500 = 24 500 desempregados. Isso confirma a alternativa A. A alternativa B (25 000) corresponde a 10%, arredondando a taxa. A C (220 500) e a E (227 500) não correspondem à taxa de Porto Alegre. A D (223 000) não resulta de nenhuma leitura correta do gráfico; o total de empregados, por exemplo, seria 250 000 − 24 500 = 225 500, valor que também não é pedido. Gabarito: A.",
   "hash": "1f67d9b31cc48ca3",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q146": {
+  "assunto": "Grandezas e medidas: volume",
+  "dificuldade": 1,
   "explicacao": "A questão pede qual grandeza resulta do produto das três dimensões de uma peça maciça em forma de paralelepípedo retangular. Multiplicar comprimento × largura × altura de um paralelepípedo dá o espaço que o sólido ocupa, isto é, o seu volume. Se as medidas estiverem em centímetros, o resultado sai em cm³, uma unidade cúbica. Como a peça é maciça de ferro, esse produto mede o volume de metal da peça, como diz a alternativa B. A alternativa A erra, pois a massa dependeria também da densidade do ferro (m = densidade × volume). A C fala em superfície, que é medida em unidades quadradas e se obtém somando áreas de faces, e não multiplicando as três dimensões. A D confunde volume com capacidade, termo usado para o espaço interno de um recipiente que pode ser preenchido, o que não se aplica a uma peça maciça. A E está errada porque o comprimento é uma única dimensão linear. Gabarito: B.",
   "hash": "8704971fe29405ee",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q147": {
+  "assunto": "Probabilidade: eventos independentes, complementar",
+  "dificuldade": 4,
   "explicacao": "A questão pede o trajeto de A até B, usando exatamente duas vias, com menor probabilidade de engarrafamento. Pela figura, de A saem E1 (para C, probabilidade 0,8) e E2 (para D, 0,7). De C a B há E3 (0,5) e E4 (0,3); de D a B há E5 (0,4) e E6 (0,6). Como os eventos são independentes, é mais fácil calcular a probabilidade de não pegar engarrafamento em nenhuma via e subtrair de 1. E1E3: 1 − 0,2 × 0,5 = 1 − 0,10 = 0,90. E1E4: 1 − 0,2 × 0,7 = 1 − 0,14 = 0,86. E2E5: 1 − 0,3 × 0,6 = 1 − 0,18 = 0,82. E2E6: 1 − 0,3 × 0,4 = 1 − 0,12 = 0,88. A menor probabilidade é 0,82, no trajeto E2E5, alternativa D. A alternativa A (0,90) e a E (0,88) são piores. A B (0,86) também é pior. A C, E2E4, nem é um trajeto possível, pois E2 chega a D e E4 sai de C. Gabarito: D.",
   "hash": "d391a4c69e043543",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q148": {
+  "assunto": "Leitura de gráficos e tabelas: notação numérica",
+  "dificuldade": 2,
   "explicacao": "A questão pede o gasto militar dos Estados Unidos no início da guerra no Iraque, lido no gráfico. O gráfico indica o início da guerra no Iraque em 2003, com o valor 417,4. O detalhe decisivo está na legenda do eixo vertical: os valores estão \"em bilhões de dólares\". Portanto, o gasto foi de 417,4 bilhões de dólares. Convertendo: 1 bilhão = 1 000 000 000, então 417,4 × 1 000 000 000 = 417 400 000 000. O valor por extenso é US$ 417.400.000.000,00, como na alternativa E. As alternativas A, B, C e D trazem os mesmos algarismos 4174, mas com potências de 10 erradas. A D, por exemplo, corresponde a 41,74 bilhões, dez vezes menos que o valor do gráfico. As outras representam milhões e ficam ainda mais distantes. Gabarito: E.",
   "hash": "43f28737fc56a842",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q149": {
+  "assunto": "Sequências e progressões: padrão, progressão aritmética",
+  "dificuldade": 2,
   "explicacao": "A questão pede a expressão que dá o número de canudos C em função do número de quadrados Q, nas figuras em que os quadrados ficam lado a lado. O primeiro quadrado precisa de 4 canudos. Cada novo quadrado encostado aproveita um lado já existente e precisa de apenas 3 canudos novos. Assim: Q = 1 → C = 4; Q = 2 → C = 4 + 3 = 7; Q = 3 → C = 7 + 3 = 10. A sequência cresce de 3 em 3 e começa em 4, logo C = 3Q + 1. Verificando: 3·1 + 1 = 4, 3·2 + 1 = 7, 3·3 + 1 = 10. Por isso a alternativa B está correta. A alternativa A (4Q) contaria os lados compartilhados duas vezes: daria 8 para dois quadrados. A C (4Q − 1) dá 7 para Q = 2, mas 11 para Q = 3. A D (Q + 3) dá 5 para Q = 2. A E (4Q − 2) dá 2 para Q = 1. Gabarito: B.",
   "hash": "a98cbc9cee90ea77",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q150": {
+  "assunto": "Geometria plana: área, perímetro",
+  "dificuldade": 3,
   "explicacao": "A questão compara o valor de duas encomendas de 8 quadros. A tela custa R$ 20 por m², a moldura R$ 15 por metro linear, e há uma taxa fixa de entrega de R$ 10. Primeira encomenda, quadros de 0,25 m × 0,50 m: área de cada um = 0,125 m²; 8 quadros = 1 m², custo de tela R$ 20. Perímetro de cada um = 2 × (0,25 + 0,50) = 1,5 m; 8 quadros = 12 m, custo de moldura 12 × 15 = R$ 180. Total: 20 + 180 + 10 = R$ 210. Segunda encomenda, quadros de 0,50 m × 1,00 m: área de cada um = 0,5 m²; 8 quadros = 4 m², custo de tela R$ 80. Perímetro de cada um = 3 m; 8 quadros = 24 m, custo de moldura R$ 360. Total: 80 + 360 + 10 = R$ 450. A segunda encomenda é maior, mas não é o dobro: o dobro seria R$ 420, e o valor é R$ 450. Isso acontece porque a área quadruplica, o perímetro dobra e a taxa de entrega não muda. Portanto, a alternativa B está correta. A alternativa A erra ao dizer que o valor dobra. A C e a D dizem que o valor diminui, o que é falso. A E diz que os valores são iguais, ignorando que tela e moldura aumentam. Gabarito: B.",
   "hash": "7c38b2c4a1a4e2ea",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q151": {
+  "assunto": "Geometria espacial: volume do cilindro",
+  "dificuldade": 3,
   "explicacao": "A questão pede a quantidade mínima de água para encher 20 copinhos pela metade. A leiteira tem 8 cm de diâmetro (raio 4 cm) e 20 cm de altura; o copinho tem 4 cm de diâmetro (raio 2 cm) e 4 cm de altura. Volumes (V = π·r²·h): leiteira = π × 4² × 20 = 320π cm³; copinho = π × 2² × 4 = 16π cm³. Razão: 320π ÷ 16π = 20, ou seja, a leiteira tem volume 20 vezes maior que o do copo. Encher 20 copinhos pela metade equivale a encher 10 copinhos inteiros: 10 × 16π = 160π cm³, que é exatamente a metade de 320π. Dona Maria deve, portanto, encher a leiteira até a metade, como diz a alternativa A. A alternativa B usa a razão certa, mas a leiteira cheia encheria os 20 copos por completo, com desperdício. A C, a D e a E partem de uma razão errada de 10 vezes. Gabarito: A.",
   "hash": "a8d89b787ca3adda",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q152": {
+  "assunto": "Trigonometria: função cosseno, máximo e mínimo",
+  "dificuldade": 5,
   "explicacao": "[REVISAR] O enunciado está corrompido na extração (\"TerraM. TQu-aPnRdOoVrAa...\") e a fórmula está só na imagem; a resolução usa a função do original, r(t) = 5 865 / (1 + 0,15·cos(0,06t)). A questão pede a soma S das distâncias no apogeu (r máximo) e no perigeu (r mínimo). O cosseno varia entre −1 e 1. O valor de r é máximo quando o denominador é mínimo, isto é, quando cos(0,06t) = −1: r = 5 865 / (1 − 0,15) = 5 865 / 0,85 = 6 900 km. O valor de r é mínimo quando o denominador é máximo, com cos(0,06t) = 1: r = 5 865 / 1,15 = 5 100 km. Somando: S = 6 900 + 5 100 = 12 000 km, como diz a alternativa B. A alternativa A (12 765) soma 6 900 com o numerador 5 865. A C (11 730) é o dobro de 5 865. A D (10 965) soma 5 865 e 5 100. A E (5 865) é só o numerador da fórmula. Gabarito: B.",
   "hash": "42951858bf68238d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q153": {
+  "assunto": "Geometria espacial: cilindro, área lateral, volume",
+  "dificuldade": 4,
   "explicacao": "A questão pede o tanque com menor custo por metro cúbico. Como o preço é proporcional à área lateral, devemos comparar a razão área lateral / volume e escolher a menor. Para um cilindro de raio r e comprimento h: área lateral = 2πrh e volume = πr²h. Logo, área/volume = 2πrh / (πr²h) = 2/r: a razão depende só do raio. Tanque I: diâmetro 4 m, r = 2, comprimento 6: área = 2 × 3 × 2 × 6 = 72 m², volume = 3 × 4 × 6 = 72 m³, razão 1. Tanque II: r = 2, comprimento 8: área = 96 m², volume = 96 m³, razão 1. Tanque III: diâmetro 6 m, r = 3, comprimento 8: área = 2 × 3 × 3 × 8 = 144 m², volume = 3 × 9 × 8 = 216 m³, razão 144/216 = 2/3. O menor custo por m³ é o do tanque III, com relação 2/3, como diz a alternativa D. As alternativas A e B apontam o tanque I, cuja razão é 1. A C aponta o tanque II, também com razão 1. A E escolhe o tanque III, mas com uma razão errada, 7/12. Gabarito: D.",
   "hash": "dfac8dd1c5e64b13",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q154": {
+  "assunto": "Porcentagem: variação percentual",
+  "dificuldade": 2,
   "explicacao": "A questão pede a classificação do desempenho da empresa em 2009, com base no crescimento do lucro em relação a 2008. O lucro passou de R$ 132 000 para R$ 145 000. Aumento: 145 000 − 132 000 = 13 000. Crescimento percentual: 13 000 / 132 000 ≈ 0,0985 = 9,85%. Pela tabela de conceitos, \"bom\" vale para crescimento maior ou igual a 5% e menor que 10%. Como 5% ≤ 9,85% < 10%, o desempenho é bom, como diz a alternativa C. A alternativa D (ótimo) exigiria pelo menos 10%; quem calcula 13 000 / 130 000 ou arredonda para 10% cai nesse erro. A A (insuficiente) e a B (regular) correspondem a crescimentos menores que 5%. A E (excelente) exigiria 20% ou mais. Gabarito: C.",
   "hash": "0aee667ab29a1f6d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q155": {
+  "assunto": "Equações e inequações: problema com valores",
+  "dificuldade": 4,
   "explicacao": "A questão pede quantos selos de R$ 0,65 foram comprados. Cada folheto do segundo tipo usa três selos: 0,65 + 0,60 + 0,20 = R$ 1,45. Para 500 folhetos: 500 × 1,45 = R$ 725, o que inclui 500 selos de R$ 0,65. Sobram 1 000 − 725 = R$ 275 para os folhetos do primeiro tipo, que usam um selo de R$ 0,65 cada. Quantidade máxima: 275 ÷ 0,65 ≈ 423,08, ou seja, 423 selos (não dá para comprar fração de selo). Total de selos de R$ 0,65: 500 + 423 = 923, como diz a alternativa C. A alternativa A (476) não leva em conta o gasto com os folhetos do segundo tipo de forma correta. A B (675) é muito pequena para incluir os 500 selos do segundo tipo e os do primeiro tipo. A D (965) e a E (1 538) partem de divisões que não descontam corretamente os R$ 725 já gastos; 1 000 ÷ 0,65 ≈ 1 538, por exemplo, ignora os outros selos. Gabarito: C.",
   "hash": "e9c3c486a587ee53",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q156": {
+  "assunto": "Geometria analítica: coordenadas, deslocamentos",
+  "dificuldade": 3,
   "explicacao": "A questão pede a altitude do ponto de pouso do helicóptero, que parte de X = (20; 60). A longitude está no eixo horizontal: leste (L) aumenta e oeste (O) diminui. A latitude está no eixo vertical: norte (N) aumenta e sul (S) diminui. Longitude: 20 + 0,8 − 0,2 + 0,3 = 20,9. Latitude: 60 + 0,5 − 0,1 + 0,4 = 60,8. O ponto final é (20,9; 60,8). No mapa, essa posição está dentro da mancha escura arredondada perto de 20,9 de longitude e 60,8 de latitude, que pela escala de cinza corresponde à faixa de 100 m a 200 m de altitude, a mais escura. Logo, o helicóptero pousou num local com altitude menor ou igual a 200 m, como diz a alternativa A. As demais alternativas correspondem a tons mais claros da escala, que aparecem ao redor dessa mancha ou em outras regiões do mapa, e não no ponto final do percurso. Gabarito: A.",
   "hash": "f3061449cb4fce45",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q157": {
+  "assunto": "Geometria espacial: volume, cilindro vazado",
+  "dificuldade": 3,
   "explicacao": "A questão pede o preço do concreto que envolve um cilindro de 2 m de diâmetro e 4 m de altura, numa camada de 20 cm. O volume de concreto é a diferença entre o cilindro externo e o interno. Raio interno: 1 m. Raio externo: 1 + 0,2 = 1,2 m. Altura: 4 m. Volume = π × (1,2² − 1²) × 4 = 3,1 × (1,44 − 1) × 4 = 3,1 × 0,44 × 4. Calculando: 0,44 × 4 = 1,76 e 3,1 × 1,76 = 5,456 m³. Preço: 5,456 × 10 = R$ 54,56, como na alternativa D. A alternativa A (R$ 230,40) usa o volume errado, sem descontar corretamente o cilindro interno. A B (R$ 124,00) corresponde ao volume do cilindro interno (3,1 × 1 × 4 = 12,4 m³). A C (R$ 104,16) também parte de um volume que não é o da camada de concreto. A E (R$ 49,60) aproxima a área da coroa por 2πr × espessura, sem considerar o aumento do raio. Gabarito: D.",
   "hash": "d1e0d5c818667f2c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q158": {
+  "assunto": "Grandezas e medidas: volume, densidade, massa",
+  "dificuldade": 4,
   "explicacao": "A questão pede a massa total das cinco toras. O quadro dá a fórmula V = rodo² × altura × 0,06, em metros. Espécie I (3 toras, rodo 3 m, comprimento 12 m, densidade 0,77 t/m³): volume de uma tora = 3² × 12 × 0,06 = 9 × 12 × 0,06 = 6,48 m³. Três toras: 3 × 6,48 = 19,44 m³. Massa: 19,44 × 0,77 ≈ 14,97 t. Espécie II (2 toras, rodo 4 m, comprimento 10 m, densidade 0,78 t/m³): volume de uma tora = 4² × 10 × 0,06 = 16 × 10 × 0,06 = 9,6 m³. Duas toras: 19,2 m³. Massa: 19,2 × 0,78 ≈ 14,98 t. Total: 14,97 + 14,98 ≈ 29,95 t, aproximadamente 29,9 toneladas, como diz a alternativa A. As alternativas B, C e D vêm de erros de cálculo, como trocar as densidades ou os comprimentos das espécies. A E (41,8 t) aparece se a densidade for desconsiderada em parte ou se as toras forem contadas a mais. Gabarito: A.",
   "hash": "101d2e316a9e7ea8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q159": {
+  "assunto": "Grandezas e medidas: IMC, raiz cúbica",
+  "dificuldade": 4,
   "explicacao": "[REVISAR] O texto de apoio está corrompido na extração (\"PMoTnd-ePraRlO(RVIAP)I\") e parte dele falta; a resolução usa as fórmulas do original, IMC = m/h² e RIP = h / ∛m, com h em centímetros. A questão pede o RIP de uma menina de 64 kg com IMC 25 kg/m². Primeiro, achamos a altura pelo IMC: 25 = 64 / h², logo h² = 64/25 e h = 8/5 = 1,6 m = 160 cm. Agora a raiz cúbica da massa: ∛64 = 4, pois 4 × 4 × 4 = 64. Então RIP = 160 / 4 = 40 cm/kg^(1/3), como na alternativa E. A alternativa A (0,4) aparece se a altura for usada em metros e dividida por 4. A B (2,5) não corresponde a nenhuma combinação correta dos dados. A C (8) e a D (20) resultam de erros na raiz ou na conversão de unidades. Gabarito: E.",
   "hash": "160c411a4b75ec5d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q160": {
+  "assunto": "Trigonometria: triângulo retângulo, tangente",
+  "dificuldade": 3,
   "explicacao": "A questão pede a altura do balão, vista por duas pessoas alinhadas: uma a 1,8 km da vertical do balão, sob ângulo de 60°, e outra a 5,5 km, sob ângulo de 30°. Em cada caso, a altura h, a distância horizontal e a linha de visada formam um triângulo retângulo, e vale tan(ângulo) = h / distância. Pela primeira pessoa: tan 60° = h / 1,8 → h = 1,8 × √3 ≈ 1,8 × 1,73 ≈ 3,1 km. Conferindo com a segunda: tan 30° = h / 5,5 → h = 5,5 × √3/3 ≈ 5,5 × 0,577 ≈ 3,2 km. Os dois resultados são próximos, e a altura aproximada é 3,1 km, como diz a alternativa C. A alternativa A (1,8 km) é apenas a distância da primeira pessoa. A B (1,9 km) resulta de usar o cosseno ou de dividir a distância em vez de multiplicar. A D (3,7 km) não corresponde a nenhuma razão trigonométrica correta. A E (5,5 km) é a distância da segunda pessoa. Gabarito: C.",
   "hash": "2432e144f8b8e661",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q161": {
+  "assunto": "Geometria plana: semelhança, base média, áreas",
+  "dificuldade": 4,
   "explicacao": "[REVISAR] O enunciado está corrompido na extração (\"E_Mm_{T-}u_Pm_{RO}d_Ve_Ass_Ies canteiros\"), mas os dados essenciais permanecem. A questão pede a área da região ABMN, num triângulo retângulo ABC em que M e N são pontos médios de dois lados que partem de C. O segmento que liga os pontos médios de dois lados de um triângulo, MN, é paralelo ao terceiro lado, AB, e mede metade dele. Assim, o triângulo MNC é semelhante a ABC com razão 1/2, e a razão entre as áreas é (1/2)² = 1/4. Se a área de ABC é S, a de MNC é S/4. A região ABMN é o que sobra: S − S/4 = 3S/4. Comparando com MNC: (3S/4) ÷ (S/4) = 3. A área a ser calçada é o triplo da área de MNC, como diz a alternativa E. A alternativa C (metade de ABC) daria 2S/4, menor que o valor correto. A D (dobro de MNC) também daria S/2. A A e a B citam triângulos AMC e BNC, cada um com metade da área de ABC, e não 3/4. Gabarito: E.",
   "hash": "4e8ed41f0d09b2dc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q162": {
+  "assunto": "Geometria plana: área do retângulo, porcentagem",
+  "dificuldade": 2,
   "explicacao": "A questão pede a medida x do lado do retângulo que representa 4% da página, para que a área seja fiel à porcentagem. A página mede 260 mm × 400 mm, e o retângulo dos 4% tem um lado de 26 mm e outro de x mm. Área da página: 260 × 400 = 104 000 mm². 4% dessa área: 0,04 × 104 000 = 4 160 mm². O retângulo tem área 26 × x, então 26x = 4 160 → x = 4 160 ÷ 26 = 160 mm. Isso confirma a alternativa D. Observe que, como 26 mm é 10% da largura, x precisa ser 40% da altura (0,1 × 0,4 = 0,04), e 40% de 400 é 160. A alternativa A (1 mm) e a B (10 mm) são pequenas demais. A C (17 mm) é o resultado de aplicar 4% à altura, 16 mm, arredondado, sem considerar que a largura já é só 10% da página. A E (167 mm) não corresponde à área de 4 160 mm². Gabarito: D.",
   "hash": "70bd8e848d723a0e",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q163": {
+  "assunto": "Geometria plana: circunferência, rolamento",
+  "dificuldade": 5,
   "explicacao": "A questão pede o deslocamento horizontal y do bloco quando o rolo de raio R dá uma volta completa sem deslizar. Há dois movimentos combinados. Primeiro, o rolo gira sobre o chão sem deslizar, então o centro do rolo avança o comprimento da circunferência: 2πR. Segundo, o bloco está apoiado no topo do rolo, que também não desliza em relação ao bloco. O ponto de cima do rolo se move, em relação ao centro, mais 2πR para a frente durante a volta. Somando: y = 2πR + 2πR = 4πR. Por isso o bloco anda o dobro do que anda o rolo, e a alternativa E está correta. A alternativa D (2πR) considera só o avanço do centro do rolo. A C (πR) é metade da circunferência. A A (R) e a B (2R) confundem o deslocamento com o raio ou o diâmetro. Gabarito: E.",
   "hash": "4a311f50b4def9e0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q164": {
+  "assunto": "Geometria plana: circunferência inscrita",
+  "dificuldade": 4,
   "explicacao": "A questão pede o raio do furo cilíndrico tangente às faces laterais de um prisma cuja base é um triângulo de lados 6, 8 e 10 cm. Se o cilindro toca as três faces laterais, sua base é a circunferência inscrita no triângulo da base. O triângulo é retângulo, pois 6² + 8² = 36 + 64 = 100 = 10². Área: (6 × 8)/2 = 24 cm². Semiperímetro: p = (6 + 8 + 10)/2 = 12 cm. O raio da circunferência inscrita é r = Área / p = 24 / 12 = 2 cm. Também se pode usar, no triângulo retângulo, r = (cateto + cateto − hipotenusa)/2 = (6 + 8 − 10)/2 = 2 cm. Assim, a alternativa B está correta. A alternativa E (5 cm) é o raio da circunferência circunscrita, metade da hipotenusa. A C (3 cm) e a D (4 cm) são metades dos catetos. A A (1 cm) é pequena demais para tocar as três faces. Gabarito: B.",
   "hash": "3d56c993c74350ba",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q165": {
+  "assunto": "Funções: função definida por partes, quadrática",
+  "dificuldade": 5,
   "explicacao": "[REVISAR] A imagem da função está cortada na extração; a resolução usa a função do original: T(t) = (7/5)t + 20 para 0 ≤ t < 100 e T(t) = (2/125)t² − (16/5)t + 320 para t ≥ 100. A questão pede quanto tempo a peça fica no forno, entrando a 48 °C e saindo a 200 °C. Entrada: no primeiro trecho, (7/5)t + 20 = 48 → (7/5)t = 28 → t = 20 min. Saída: em t = 100, T = 140 + 20 = 160 °C, então os 200 °C ocorrem no segundo trecho. (2/125)t² − (16/5)t + 320 = 200 → (2/125)t² − (16/5)t + 120 = 0. Multiplicando por 125/2: t² − 200t + 7 500 = 0. Δ = 40 000 − 30 000 = 10 000, √Δ = 100, t = (200 ± 100)/2, ou seja, t = 150 ou t = 50. Como esse trecho vale para t ≥ 100, t = 150 min. Permanência: 150 − 20 = 130 minutos, como diz a alternativa D. A alternativa E (150) é o instante de retirada, sem descontar a entrada. A A (100) e a C (128) não resultam das equações. A B (108) também não corresponde a nenhuma das raízes. Gabarito: D.",
   "hash": "b4de05038ec7443b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q166": {
+  "assunto": "Função afim: variação constante, projeção",
+  "dificuldade": 2,
   "explicacao": "A questão pede o número de favelas em 2016, mantido o padrão de variação do período 2004/2010. O gráfico mostra 750 favelas em 2004, e o enunciado informa 968 em 2010. Variação no período de 6 anos: 968 − 750 = 218 favelas. Se o mesmo padrão se mantiver nos 6 anos seguintes, em 2016 teremos 968 + 218 = 1 186 favelas. Esse valor é maior que 1 150 e menor que 1 200, como diz a alternativa C. A alternativa A (menor que 1 150) não corresponde ao resultado. A B descreve o número de 2010, que é 218 unidades maior que o de 2004, e não o de 2016. A D usa a variação de 1992 a 2004 (750 − 573 = 177), período que não é o indicado. A E (maior que 1 200) superestima o crescimento. Gabarito: C.",
   "hash": "36d2f2ace03c0253",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q167": {
+  "assunto": "Medidas de tendência central: mediana",
+  "dificuldade": 3,
   "explicacao": "A questão pede a mediana dos gols dos artilheiros das Copas de 1930 a 2006. Lendo o gráfico, temos 18 valores: 8, 5, 7, 9, 11, 13, 4, 9, 10, 7, 6, 6, 6, 6, 6, 6, 8, 5. Em ordem crescente: 4, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 8, 8, 9, 9, 10, 11, 13. Como há uma quantidade par de valores, a mediana é a média dos dois termos centrais, o 9º e o 10º: o 9º é 6 e o 10º é 7. Mediana = (6 + 7)/2 = 6,5 gols, como diz a alternativa B. A alternativa A (6) é a moda, o valor mais frequente. A C (7) é apenas o 10º termo. A D (7,3) é a média aritmética: soma 132 ÷ 18 ≈ 7,3. A E (8,5) é o ponto médio entre o menor e o maior valor: (4 + 13)/2. Gabarito: B.",
   "hash": "bb95292fcf951549",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q168": {
+  "assunto": "Geometria espacial: volume do cone, hemisfério",
+  "dificuldade": 4,
   "explicacao": "[REVISAR] O enunciado está corrompido na extração (\"utiliz_Mo_Tu_{-P}-_Rs_Oe...\") e os dados após \"Considere:\" não aparecem; a figura mostra R = 3 cm nas duas taças, e usa-se π ≈ 3,14. A questão pede a altura h de champanhe na taça cônica para que o volume seja igual ao da taça hemisférica cheia. Volume do hemisfério: V = (2/3)·π·R³ = (2/3)·π·27 = 18π cm³. Volume do cone com raio 3 cm na superfície do líquido: V = (1/3)·π·3²·h = 3π·h. Igualando: 3π·h = 18π → h = 6 cm, como diz a alternativa B. A alternativa D (56,52) é o volume do hemisfério, 18 × 3,14, e não uma altura. A E (113,04) é o dobro desse volume. A C (12) aparece se o volume do hemisfério for calculado como uma esfera inteira. A A (1,33) resulta de inverter a relação entre os volumes. Gabarito: B.",
   "hash": "8501c21cb703798c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q169": {
+  "assunto": "Equações e inequações: equação do primeiro grau",
+  "dificuldade": 2,
   "explicacao": "A questão pede o intervalo em que deve estar o primeiro salto para o atleta atingir 17,4 m no total. Chamando o primeiro salto de x: o segundo é 1,2 m menor, x − 1,2; o terceiro é 1,5 m menor que o segundo, x − 1,2 − 1,5 = x − 2,7. Somando os três: x + (x − 1,2) + (x − 2,7) = 17,4 → 3x − 3,9 = 17,4 → 3x = 21,3 → x = 7,1 m. Conferindo: 7,1 + 5,9 + 4,4 = 17,4. O primeiro salto está entre 7,0 m e 8,0 m, como diz a alternativa D. A alternativa B (5,0 a 6,0) contém o segundo salto, 5,9 m. A A (4,0 a 5,0) contém o terceiro, 4,4 m. A C (6,0 a 7,0) contém o valor médio, 5,8 m arredondado para cima, ou o resultado de somar as diferenças em vez de subtraí-las. A E (8,0 a 9,0) superestima o primeiro salto. Gabarito: D.",
   "hash": "d365aa74dd4ba1fb",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q170": {
+  "assunto": "Estatística: desvio padrão, regularidade",
+  "dificuldade": 2,
   "explicacao": "A questão pede o candidato com pontuação mais regular, critério de desempate quando as médias são iguais. Pelo quadro, Marco tirou 14, 15 e 16, com média 15, mediana 15 e desvio padrão 0,32. Paulo tirou 8, 19 e 18, com média 15, mediana 18 e desvio padrão 4,97. O desvio padrão mede o quanto as notas se afastam da média: quanto menor, mais regular é o desempenho. As notas de Marco são muito próximas entre si, enquanto as de Paulo variam de 8 a 19. Como as médias empatam em 15, vence quem tem menor desvio padrão, Marco, como diz a alternativa B. A alternativa A erra o motivo: a igualdade entre média e mediana não é o critério. A C usa a maior nota isolada, que não mede regularidade. A D usa a mediana, que também não é o critério. A E inverte a lógica, pois maior desvio padrão significa menor regularidade. Gabarito: B.",
   "hash": "37cef192b7312d67",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q171": {
+  "assunto": "Porcentagem: porcentagem de porcentagem",
+  "dificuldade": 3,
   "explicacao": "A questão pede o percentual de cura proporcionado pelos tratamentos inovadores, em relação ao total inicial de pacientes. Suponha 100 pacientes. O tratamento tradicional curou 40%, ou seja, 40 pacientes. Os 60 restantes foram divididos em dois grupos iguais de 30. No primeiro tratamento inovador, 35% de 30 = 10,5 pacientes curados. No segundo, 45% de 30 = 13,5 pacientes. Total curado pelos tratamentos inovadores: 10,5 + 13,5 = 24 pacientes, ou seja, 24% do total inicial, como diz a alternativa B. A alternativa A (16%) não corresponde a nenhuma combinação correta. A C (32%) não aparece no cálculo. A D (48%) é o percentual de 24 sobre os 50 de um cálculo errado, ou a soma de 35% e 45% dividida de forma errada. A E (64%) soma os 40% iniciais aos 24%, quando a pergunta é só sobre os tratamentos inovadores. Gabarito: B.",
   "hash": "b1fdc00e47a01b4d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q172": {
+  "assunto": "Porcentagem: aumento percentual",
+  "dificuldade": 4,
   "explicacao": "A questão pede o aumento percentual necessário na produção brasileira de etanol para que Brasil e EUA mantenham 88% da produção mundial. Produção mundial: 40 bilhões de litros. Em 2006: Brasil = 43% de 40 = 17,2 bilhões; EUA = 45% de 40 = 18 bilhões. Em 2009, os EUA produzirão metade: 9 bilhões. Os dois juntos precisam somar 88% de 40 = 35,2 bilhões. Logo, o Brasil precisa produzir 35,2 − 9 = 26,2 bilhões. Aumento: 26,2 − 17,2 = 9 bilhões. Em porcentagem: 9 ÷ 17,2 ≈ 0,523 = 52,3%, como diz a alternativa C. A alternativa A (22,5%) é a metade da participação dos EUA, que é o que o Brasil precisa ganhar em pontos percentuais da produção mundial, e não o aumento relativo da produção brasileira. A B (50%) é um arredondamento sem fundamento. A D e a E superestimam o aumento. Gabarito: C.",
   "hash": "6e100774626fe3dc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q173": {
+  "assunto": "Análise combinatória: permutações, trajetos simétricos",
+  "dificuldade": 5,
   "explicacao": "A questão pede o tempo mínimo para João verificar todos os trajetos possíveis. Ele sai de A e visita as cidades B, C, D, E e F numa certa ordem antes de voltar a A. O número de ordens possíveis é o número de permutações das 5 cidades: 5! = 5 × 4 × 3 × 2 × 1 = 120 sequências. Mas cada trajeto tem o mesmo custo que o seu simétrico (ABCDEFA e AFEDCBA, por exemplo), e ao examinar um ele descarta o outro. Assim, basta examinar 120 ÷ 2 = 60 sequências. Cada exame leva 1 min 30 s = 1,5 min. Tempo total: 60 × 1,5 = 90 minutos, como diz a alternativa B. A alternativa A (60 min) usa 1 minuto por sequência. A C (120 min) usa o número de sequências sem descontar as simétricas, com 1 minuto cada. A D (180 min) examina as 120 sequências, sem aproveitar a simetria. A E (360 min) tem um erro ainda maior de contagem. Gabarito: B.",
   "hash": "3b5354ea89bb8336",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q174": {
+  "assunto": "Probabilidade: probabilidade condicional",
+  "dificuldade": 3,
   "explicacao": "A questão pede a probabilidade de a funcionária calçar 38,0, sabendo que o calçado dela é maior que 36,0. É uma probabilidade condicional: o espaço amostral fica restrito às funcionárias com calçado maior que 36,0. Pelo quadro: tamanho 37,0 → 3; tamanho 38,0 → 10; tamanho 39,0 → 1. Total com calçado maior que 36,0: 3 + 10 + 1 = 14 funcionárias. Dessas, 10 calçam 38,0. Probabilidade: 10/14 = 5/7, como diz a alternativa D. A alternativa C (2/5) é 10/25, que usa todas as 25 funcionárias, sem considerar a condição dada. A E (5/14) divide 5 por 14, um erro de contagem. A A (1/3) e a B (1/5) não correspondem a nenhuma razão correta da tabela. Gabarito: D.",
   "hash": "05a312582703326a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q175": {
+  "assunto": "Medidas de tendência central: média, moda, mediana",
+  "dificuldade": 4,
   "explicacao": "A questão pede a comparação entre a média X, a mediana Y e a moda Z dos gols por partida. Pelo quadro: 0 gols em 5 jogos, 1 gol em 3, 2 gols em 4, 3 gols em 3, 4 gols em 2, 5 gols em 2 e 7 gols em 1. Total de jogos: 5 + 3 + 4 + 3 + 2 + 2 + 1 = 20. Média: (0·5 + 1·3 + 2·4 + 3·3 + 4·2 + 5·2 + 7·1) ÷ 20 = (0 + 3 + 8 + 9 + 8 + 10 + 7) ÷ 20 = 45 ÷ 20 = 2,25. Mediana: com 20 valores, é a média do 10º e do 11º termos. Os jogos 1 a 5 têm 0 gols, 6 a 8 têm 1 gol e 9 a 12 têm 2 gols; logo, o 10º e o 11º valem 2, e Y = 2. Moda: o valor mais frequente é 0 gols (5 jogos), então Z = 0. Assim, Z = 0 < Y = 2 < X = 2,25, como diz a alternativa E. As alternativas A e B dizem que a média é igual à mediana, o que é falso. A C põe a moda acima da mediana. A D põe a mediana acima da média. Gabarito: E.",
   "hash": "369fb8e1d5504b17",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q176": {
+  "assunto": "Razão e proporção: multiplicação de razões",
+  "dificuldade": 1,
   "explicacao": "A questão pede quantas Terras cabem dentro de Júpiter, seguindo o raciocínio do texto. Os dados são encadeados: dentro de Netuno cabem 58 Terras, e dentro de Júpiter cabem 23 Netunos. Logo, dentro de Júpiter cabem 23 × 58 Terras. Calculando: 23 × 58 = 23 × 60 − 23 × 2 = 1 380 − 46 = 1 334 Terras, como diz a alternativa B. As outras informações do texto, sobre Mercúrio e Marte, não são necessárias, pois esses planetas são menores que a Terra. A alternativa A (406) é 58 × 7, que mistura a relação Terra–Marte. A C (4 002) multiplica 1 334 por 3, os Mercúrios em Marte. A D (9 338) multiplica por 7, os Martes na Terra. A E (28 014) multiplica por 21, que daria Mercúrios, e não Terras. Gabarito: B.",
   "hash": "670eb4340244868c",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q177": {
+  "assunto": "Razão e proporção: potências de dez",
+  "dificuldade": 2,
   "explicacao": "A questão pede quantos litros de água potável seriam contaminados por semana numa cidade que descarta 1 000 litros de óleo de fritura no encanamento. O texto informa que cada 10 litros de óleo contaminam 10⁷ litros de água. Montando a proporção: 1 000 litros de óleo correspondem a 1 000 ÷ 10 = 100 = 10² \"porções\" de 10 litros. Cada porção contamina 10⁷ litros, então o total é 10² × 10⁷ = 10⁹ litros de água por semana, como diz a alternativa E. Também se pode raciocinar assim: cada litro de óleo contamina 10⁷ ÷ 10 = 10⁶ litros, e 10³ litros de óleo contaminam 10³ × 10⁶ = 10⁹ litros. A alternativa D (10⁶) é a contaminação de apenas 1 litro de óleo. A B (10³) é a quantidade de óleo, não de água. A C (10⁴) e a A (10⁻²) resultam de divisões erradas entre as potências. Gabarito: E.",
   "hash": "148379a3a0b44e5a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q178": {
+  "assunto": "Geometria espacial: volume do cubo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o volume de madeira do porta-lápis em forma de cubo, com um cubo interno vazio. O volume de madeira é a diferença entre o volume do cubo externo e o do cubo interno. Cubo externo, aresta 12 cm: 12³ = 12 × 12 × 12 = 1 728 cm³. Cubo interno, aresta 8 cm: 8³ = 8 × 8 × 8 = 512 cm³. Volume de madeira: 1 728 − 512 = 1 216 cm³, como diz a alternativa D. A alternativa E (1 728 cm³) é o volume do cubo maior, sem descontar o espaço vazio. A B (64 cm³) é (12 − 8)³ = 4³, que subtrai as arestas antes de elevar ao cubo, um erro comum. A C (96 cm³) também resulta de operações erradas com as arestas. A A (12 cm³) é apenas a medida da aresta maior. Gabarito: D.",
   "hash": "acf563bdc537ef14",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q179": {
+  "assunto": "Sequências e progressões: padrão, quadrados perfeitos",
+  "dificuldade": 3,
   "explicacao": "A questão pede a soma da 9ª linha da pilha de caixas. As linhas são: 1ª linha: 1 → soma 1. 2ª linha: 1, 2, 1 → soma 4. 3ª linha: 1, 2, 3, 2, 1 → soma 9. 4ª linha: 1, 2, 3, 4, 3, 2, 1 → soma 16. As somas são 1, 4, 9, 16, ou seja, 1², 2², 3², 4²: a soma da linha n é n². Isso acontece porque a linha n sobe de 1 até n e desce até 1, e 1 + 2 + ... + n + ... + 2 + 1 = n². Para a 9ª linha: 9² = 81, como diz a alternativa D. A alternativa A (9) é só o número da linha. A B (45) é 1 + 2 + ... + 9, apenas a metade crescente da linha. A C (64) é 8², a soma da 8ª linha. A E (285) é a soma dos quadrados de 1 a 9, o total acumulado das nove linhas, e não a soma de uma linha só. Gabarito: D.",
   "hash": "ced563cec6772a3d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q180": {
+  "assunto": "Leitura de gráficos e tabelas: gráfico de colunas",
+  "dificuldade": 1,
   "explicacao": "A questão pede o biênio com maior produção acumulada de ovos de Páscoa. O gráfico mostra: 2005 → 90 milhões; 2006 → 94 milhões; 2007 → 99 milhões; 2008 → 107 milhões; 2009 → 113 milhões. Somando os anos consecutivos: 2005-2006: 90 + 94 = 184 milhões; 2006-2007: 94 + 99 = 193 milhões; 2007-2008: 99 + 107 = 206 milhões; 2008-2009: 107 + 113 = 220 milhões. A maior produção acumulada é a do biênio 2008-2009, com 220 milhões, como diz a alternativa E. Como a produção cresce a cada ano, era de esperar que o último biênio fosse o maior. A alternativa A inclui 2004, ano que não aparece no gráfico. A B, a C e a D têm somas menores (184, 193 e 206 milhões). Gabarito: E.",
   "hash": "7c22700cad6f71ac",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q91-esp": {
+  "assunto": "Língua espanhola: interpretação de texto informativo",
+  "dificuldade": 2,
   "explicacao": "A questão pede o procedimento correto para quem mora na Espanha e quer viajar à Alemanha com o cachorro. O texto informa que, na União Europeia, desde 2004, o passaporte é obrigatório para animais que viajam com o dono. O ponto decisivo é o \"aviso especial\": na Espanha, os animais devem ter sido vacinados contra a raiva antes de o dono solicitar a documentação. A expressão \"antes de su dueño solicitar la documentación\" estabelece a ordem: primeiro a vacina, depois o pedido do passaporte. Por isso a alternativa E está correta. A alternativa A fala em consultar autoridades, mas o texto recomenda consultar um veterinário. A B confunde a data em que a regra entrou em vigor com a data de emissão do documento. A C inverte a ordem exigida, pondo o passaporte antes da vacina. A D exagera, pois o texto exige apenas a vacina contra a raiva, e não contra todas as doenças. Gabarito: E.",
   "hash": "7600df605376b0ed",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q91-ing": {
+  "assunto": "Língua inglesa: interpretação de anúncio",
+  "dificuldade": 3,
   "explicacao": "O anúncio \"The death of the PC\" diz que o computador pessoal ficará obsoleto e que gigantes como IBM, Yahoo! e Amazon disputam essa revolução. Em seguida vem o trecho decisivo: \"two little-known companies have a huge head start\", ou seja, duas empresas pouco conhecidas largaram com grande vantagem. Para saber os nomes delas, o leitor deve pedir o relatório gratuito \"The Two Words Bill Gates Doesn't Want You to Hear\". As duas palavras, portanto, são os nomes dessas empresas, que estão à frente na corrida e seriam concorrentes da Microsoft, de Bill Gates. Por isso a alternativa E está correta. A alternativa A erra, pois quem divulga o relatório é a Motley Fool, que não é segredo. A B está errada porque o texto anuncia justamente o fim do PC, e não marcas de microcomputadores. A C fala em inventores americanos, que o texto não menciona. A D cita sites, mas o texto fala de empresas. Gabarito: E.",
   "hash": "12e3b4bcbfad94f4",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q92-esp": {
+  "assunto": "Língua espanhola: argumentação, bilinguismo",
+  "dificuldade": 4,
   "explicacao": "A questão pede o argumento que sustenta a ideia final do autor: o guarani deve ser língua de comunicação, e não de imposição. Para defender isso, o texto lembra que a inclusão do guarani na escola foi um avanço da Reforma Educativa e potencializou o bilinguismo, inclusive em contextos urbanos. Ao mesmo tempo, o último parágrafo pede uma \"postura ética\" e rejeita o continuísmo de um ensino que já causou estragos à língua e à cultura. A alternativa D junta essas duas ideias, o ganho trazido pela escola e a exigência de um ensino adequado, e por isso está correta. A alternativa A reproduz uma constatação inicial do texto, mas ela não sustenta a oposição entre comunicação e imposição. A B trata da permanência do guarani no ensino médio, não da forma de ensiná-lo. A C apenas repete a funcionalidade da língua. A E atribui os estragos ao bilinguismo, quando o texto os atribui a uma forma de ensinar o guarani. Gabarito: D.",
   "hash": "8147b9877c2cc783",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q92-ing": {
+  "assunto": "Língua inglesa: interpretação de letra de música",
+  "dificuldade": 3,
   "explicacao": "A questão pede que se identifique o relato feito no trecho da canção \"Viva la vida\", do Coldplay. O eu lírico usa várias vezes a construção \"I used to\", que indica algo que acontecia no passado e não acontece mais: \"I used to rule the world\" (eu governava o mundo) e \"I used to roll the dice\" (eu dava as cartas). No presente, ele dorme sozinho e varre as ruas que antes lhe pertenciam (\"Sweep the streets I used to own\"). Os versos \"One minute I held the key / Next the walls were closed on me\" mostram uma queda repentina, e os castelos se revelam erguidos sobre pilares de sal e de areia. É o relato de quem tinha o mundo aos pés e, de repente, ficou sem nada, como afirma a alternativa A. A B erra, porque ele já foi rei e não almeja o título. A C contradiz o verso sobre o medo nos olhos dos inimigos. A D inverte a trajetória: ele foi rei e passou a varrer ruas. A E distorce a imagem da chave e dos castelos. Gabarito: A.",
   "hash": "e9117f98aafab4e1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q93-esp": {
+  "assunto": "Língua espanhola: interpretação de texto, bilinguismo",
+  "dificuldade": 3,
   "explicacao": "A questão pergunta o que, segundo o texto, levou à valorização do guarani, a língua menos prestigiada no Paraguai bilíngue. O autor afirma que a inclusão do guarani no ensino escolar foi um avanço da Reforma Educativa e que, \"gracias precisamente a los programas escolares\", o bilinguismo foi potencializado. Falantes de castelhano perderam o medo do guarani e superaram preconceitos. O texto também defende que o guarani continue no ensino médio, porque deixá-lo de fora seria jogar fora todo o trabalho realizado. A causa da valorização, portanto, é a inclusão e a permanência do guarani nas escolas, como diz a alternativa D. A alternativa A afirma o contrário do que o texto descreve. A B aponta o preconceito, que foi justamente superado graças à escola. A C trata a esperança acumulada como causa, quando ela é consequência do trabalho feito. A E fala em continuísmo do ensino do castelhano, ideia que o texto não apresenta. Gabarito: D.",
   "hash": "a65b542779a5151d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q93-ing": {
+  "assunto": "Língua inglesa: interpretação de texto, cultura",
+  "dificuldade": 2,
   "explicacao": "A questão pede o que o texto revela ao tratar de conversas sobre o tempo. O texto começa com um traço cultural: \"They say that the British love talking about the weather\" (dizem que os britânicos adoram falar sobre o tempo). Em seguida, faz um contraste: para outras nacionalidades (\"for other nationalities\"), o assunto pode ser banal e chato, algo de que se fala quando não há mais nada a dizer. Assim, o mesmo tema de conversa tem pesos diferentes conforme a cultura de quem usa a língua, e é isso que afirma a alternativa D. A alternativa A erra, pois são os britânicos que gostam do assunto, e não eles que se aborrecem. A B menciona avaliação de línguas, contexto ausente do texto. A C exagera ao dizer que é preciso entender de meteorologia para falar inglês. A E inventa um conflito de opiniões que o texto não descreve. Gabarito: D.",
   "hash": "3b9384cc4ccaa7b2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q94-esp": {
+  "assunto": "Língua espanhola: interpretação de notícia",
+  "dificuldade": 3,
   "explicacao": "A questão pede o tema central da notícia, que poderia virar título. O texto apresenta um estudo da Universidade de Navarra que acompanhou 7.565 pessoas por 50 meses. Os dados foram ajustados por idade, sexo, índice de massa corporal e estilo de vida, de modo que o único fator restante é o tabagismo. A conclusão aparece na ordem dada pelo pesquisador: quem mais engorda é quem para de fumar, depois quem continua fumando e, por último, quem nunca fumou. Logo, os fumantes engordam mais que os não fumantes, como diz a alternativa D. A alternativa A está errada porque o estilo de vida foi controlado justamente para isolar o tabagismo. A B fala em expectativa de vida, tema que o texto não aborda. A C distorce o termo \"anorexígeno\", que significa apenas que o tabaco tira o apetite, e não que o fumante fique anoréxico. A E contradiz o estudo, que mostra ganho de peso, e não emagrecimento. Gabarito: D.",
   "hash": "6893867d06bb7d29",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q94-ing": {
+  "assunto": "Língua inglesa: leitura de infográfico",
+  "dificuldade": 1,
   "explicacao": "A questão pede que se reconheçam, na imagem, dois dos oito Objetivos de Desenvolvimento do Milênio. A imagem traz: 1, erradicar a pobreza extrema e a fome (\"eradicate extreme poverty and hunger\"); 2, educação primária universal; 3, promover a igualdade de gênero e o empoderamento das mulheres (\"promote gender equality\"); 4, reduzir a mortalidade infantil; 5, melhorar a saúde materna; 6, combater HIV/aids, malária e outras doenças; 7, garantir a sustentabilidade ambiental; 8, parceria global para o desenvolvimento. A alternativa C reúne os objetivos 3 e 1 e por isso está correta. A alternativa A erra ao citar o ensino universitário, já que a meta é o ensino primário. A B fala em mortalidade adulta, mas a meta é reduzir a mortalidade infantil. A D usa \"valorização das crianças\", expressão que não aparece na imagem. A E inclui o combate ao trabalho infantil, que não está entre os oito objetivos. Gabarito: C.",
   "hash": "5e9debf21f334865",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q95-esp": {
+  "assunto": "Língua espanhola: anúncio publicitário, estrangeirismos",
+  "dificuldade": 2,
   "explicacao": "A questão pergunta por que o anúncio dos tênis KangaROOS usa palavras de outras línguas além do espanhol. No texto aparecem estrangeirismos, quase todos do inglês: \"fashion\", \"vintage\", \"cool\" e \"look\". Esses termos fazem parte do vocabulário da moda e da cultura jovem urbana, que é o público a quem o produto se destina. Usá-los dá ao tênis um ar moderno e descolado e aproxima o anúncio do jeito de falar de quem pode comprá-lo. A intenção é atrair a atenção do público-alvo, como afirma a alternativa A. A alternativa B erra, pois o anúncio vende um produto, e não promove a prática de exercícios. A C está errada porque a revista é latino-americana, publicada no México, e não se dirige a compradores ingleses. A D atribui ao anúncio um objetivo de ensinar línguas, que ele não tem. A E desvia o foco para o autor, quando a estratégia visa o leitor. Gabarito: A.",
   "hash": "b3882fb3a933f5ae",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q95-ing": {
+  "assunto": "Língua inglesa: interpretação de cartão-postal",
+  "dificuldade": 2,
   "explicacao": "A questão pede o propósito do texto em formato de cartão-postal publicado pelo projeto ANDRILL. O título diz \"Trade postcards with us!\" (troque cartões-postais conosco). No campo de correspondência, o texto pede que o leitor envie um cartão dentro de um envelope, com nome, endereço, um selo e o que gostaria de saber sobre o projeto ANDRILL ou sobre a Antártica. Em troca, o projeto promete: \"we'll send a postcard to you from the ice!\" (enviaremos a você um cartão-postal do gelo). O alerta sobre o selo, sem o qual o cartão não pode ser devolvido, reforça a ideia. O texto divulga, portanto, a possibilidade de receber um cartão-postal da Antártica, como diz a alternativa D. A alternativa A erra, pois o endereço é da estação McMurdo, na Antártica, e não de uma nova sede. A B inventa um encontro de colecionadores. A C fala em venda de selos para arrecadar fundos, o que não ocorre. A E menciona visitas ao site, que o texto não solicita. Gabarito: D.",
   "hash": "dfdf2fdc7a36a3b0",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q96": {
+  "assunto": "Variação linguística: oralidade, registro informal",
+  "dificuldade": 2,
   "explicacao": "A questão pede uma marca de linguagem oral informal na fala do avô para o neto. Na charge de Bessinha, que se passa na Amazônia em 2059, o avô mostra uma árvore num museu e diz: \"Árvore era assim, desse jeito, Juquinha... Tá vendo???\". A forma \"tá\" é a redução de \"está\", típica da fala espontânea e informal. É a marca mais clara do registro oral entre avô e neto, o que confirma a alternativa C. A alternativa A erra, pois \"era\" é uma escolha de tempo verbal para descrever o passado e não indica informalidade. A B também falha: omitir o artigo antes de \"árvore\" dá à palavra um sentido genérico, possível também na escrita formal. A D trata \"desse\" como marca informal, mas essa contração é obrigatória na norma-padrão. A E está errada porque a frase exclamativa \"Que barato, vovô!\" é do neto, e não do avô. Gabarito: C.",
   "hash": "d6cf0943acf2e260",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q97": {
+  "assunto": "Funções da linguagem: função referencial",
+  "dificuldade": 2,
   "explicacao": "A questão pede a função da linguagem que predomina no texto. O trecho define biosfera e ecossistema e explica como os ecossistemas regulam o número de organismos. A linguagem é objetiva, em terceira pessoa, sem marcas de opinião ou de emoção, e o foco está no assunto tratado, ou seja, no referente. Essa é a função referencial, voltada a transmitir informações e conceitos, como afirma a alternativa E. A função emotiva (A) exigiria a expressão de sentimentos do autor, o que não ocorre. A fática (B) aparece em textos que testam ou mantêm o canal de comunicação, como \"alô\" ou \"está me ouvindo?\". A poética (C) se volta à elaboração da própria mensagem, com ritmo e figuras de linguagem, recursos ausentes aqui. A conativa (D) busca influenciar o leitor, geralmente com verbos no imperativo, e o texto não dá ordens nem conselhos. Gabarito: E.",
   "hash": "77849956d4e2253f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q98": {
+  "assunto": "Gêneros textuais: horóscopo",
+  "dificuldade": 1,
   "explicacao": "A questão pede que se reconheça o gênero e a função do texto. Trata-se de um horóscopo, como indicam o nome do signo, Câncer, e as datas de 21/06 a 21/07, publicado numa revista feminina. Os verbos no imperativo (\"seja comedida\", \"lembre-se\") e expressões como \"melhor conter as expectativas\" mostram o caráter de conselho. Os temas tratados percorrem vários aspectos da vida: saúde (a área gástrica), família (a comunicação entre irmãos), amor (a vida amorosa será testada) e as questões materiais. A função do texto é, portanto, aconselhar sobre amor, família, saúde e trabalho, como diz a alternativa E. A alternativa A erra, pois nenhum produto é anunciado. A B confunde a menção ao eclipse com conteúdo de astronomia, que é ciência, enquanto o horóscopo é astrologia. A C reduz o texto à saúde, que é só um dos temas. A D está errada porque o texto não traz opinião de leitores nem foi publicado em jornal. Gabarito: E.",
   "hash": "134d7f5f92f138db",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-regular-d2-q99": {
+  "assunto": "Variação linguística: linguagem técnica",
+  "dificuldade": 3,
   "explicacao": "A questão pede as marcas linguísticas do fragmento, publicado em revista para professores. O texto discute a relação entre fala e escrita usando vocabulário especializado dos estudos da linguagem: \"dicotômicas\", \"código\", \"modalidades da língua\", \"oral e escrita\", \"situações de uso\". O registro é formal e as ideias são organizadas como numa exposição acadêmica, comparando duas perspectivas teóricas. Essas são marcas do uso técnico, com expressões próprias de textos científicos, como afirma a alternativa C. A alternativa A erra, pois não há vocabulário de nenhuma região específica do Brasil. A B está errada porque seguir a gramática não torna um texto literário, e o fragmento não tem intenção estética. A D falha, já que o registro é formal, não coloquial. A E também está errada: o texto fala sobre a oralidade, mas não usa expressões típicas dela. Gabarito: C.",
   "hash": "cc686e7e299061c8",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
