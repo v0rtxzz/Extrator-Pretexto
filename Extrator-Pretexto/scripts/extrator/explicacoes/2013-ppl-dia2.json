@@ -76,6 +76,181 @@
   "hash": "d46d58ee5cf4dbcf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2013-ppl-d2-q111": {
+  "assunto": "Literatura brasileira: poesia contemporânea, Manoel de Barros",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o recurso que expressa a poética alegórica de Manoel de Barros nesse poema. O eu lírico via o rio que fazia uma volta atrás da casa como “um vidro mole” e “uma cobra de vidro”: a linguagem poética transforma o elemento real em imagens novas, ligadas à imaginação. Quando um homem dá à curva o nome técnico de “enseada”, a imagem se perde, e o poeta conclui que “o nome empobreceu a imagem”. O recurso central, portanto, é a transfiguração do rio em vidro mole e cobra de vidro. A alternativa A fala em resgate da infância, que não é o mecanismo destacado. A alternativa B inverte a ideia, pois o olhar objetivo é justamente o que empobrece a poesia. A alternativa D contraria o texto, que lamenta a perda da imagem. A alternativa E menciona subconsciente, conceito alheio ao poema. Gabarito: C.",
+  "hash": "44866807d1aa9968",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q112": {
+  "assunto": "Literatura portuguesa: Fernando Pessoa, Mensagem",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o objetivo da hipérbole e da metonímia nos versos 1 e 2 de “Mar português”, de Fernando Pessoa. Dizer que boa parte do sal do mar são “lágrimas de Portugal” é um exagero (hipérbole); “Portugal” está no lugar dos portugueses que sofreram (metonímia). Essa subversão da realidade amplia o sofrimento e o sacrifício do povo durante as navegações, o que engrandece a conquista do mar: “Valeu a pena? Tudo vale a pena / se a alma não é pequena”. Assim, o objetivo é potencializar a importância dos feitos lusitanos. A alternativa B fala em comparar o choro das mães ao da natureza, o que não ocorre. A alternativa C reduz o tema a dificuldades técnicas. A alternativa D menciona derrotas em batalhas, ausentes do poema. A alternativa E associa os sons do mar a derrotados, ideia que o texto não traz. Gabarito: A.",
+  "hash": "bc8f10ff9b7b7771",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q113": {
+  "assunto": "Gêneros textuais: cartão-postal",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a intenção da peça publicitária em forma de cartão-postal. O cartão traz em destaque “Dia do Cartão-Postal – 28 de abril” e, no espaço da mensagem, informa que o Brasil instituiu o cartão-postal pelo decreto n. 7.695, promulgado pelo imperador D. Pedro II, com a data 28/4/1880. A peça, portanto, comemora a data da instituição do cartão-postal no Brasil, ainda no Império. A alternativa A está errada, pois não há paisagem de local específico. A alternativa B fala em incentivar o envio de cartões entre moradores, intenção não expressa. A alternativa C menciona cartão virtual e site, que não aparecem. A alternativa D interpreta os corações como propaganda de ponto turístico romântico, mas eles são apenas decorativos. Gabarito: E.",
+  "hash": "5ab1b70ee65f5998",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q114": {
+  "assunto": "Educação física: aptidão física, flexibilidade",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o componente da aptidão física destacado no texto. O autor menciona “uma boa amplitude nos movimentos das diversas partes corporais” e dá como exemplo a facilidade de alcançar os próprios pés. Amplitude de movimento articular é exatamente a definição de flexibilidade. A alternativa A, força, refere-se à capacidade de vencer resistência. A alternativa B, agilidade, é a capacidade de mudar de direção rapidamente. A alternativa C, equilíbrio, é manter o corpo estável. A alternativa D, velocidade, é executar movimentos no menor tempo possível. Nenhuma dessas corresponde à amplitude de movimento descrita. Gabarito: E.",
+  "hash": "c6412d9d9b078f86",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q115": {
+  "assunto": "Literatura brasileira: poesia marginal, ditadura militar",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que a forma do poema revela sobre a expressão poética durante a ditadura militar. O general de “ombros largos” e que “fedia” representa o poder autoritário; o pássaro que “já sem resistência resistia” sugere a persistência mesmo sob opressão. Nos versos finais, o eu lírico fixa no firmamento a imagem da “poesia, esta química perversa, / este arco que desvela e me repõe”. A poesia aparece como força que revela a realidade e reconstrói o sujeito, ou seja, como forma de resistência por transformação. A alternativa A contraria o texto, pois o mau cheiro degrada a figura do general. A alternativa B toma a descrição geométrica como elogio à racionalidade do governo, quando ela sugere rigidez ameaçadora. A alternativa C ignora que o tempo que evapora aponta a transitoriedade do regime. A alternativa E nega a resistência, contrariando o verso “resistia”. Gabarito: D.",
+  "hash": "7b0a20ebe9c979f5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q116": {
+  "assunto": "Gêneros textuais: bula de medicamento",
+  "dificuldade": 1,
+  "explicacao": "A questão pede uma informação que o paciente obtém lendo o fragmento da bula. Em “Cuidados de administração”, o texto orienta: “Siga a orientação do seu médico, respeitando sempre os horários, as doses e a duração do tratamento”. Logo, o medicamento deve ser administrado em horários específicos. A alternativa A contraria a bula, que manda conservar em temperatura ambiente, entre 15 e 30 °C. A alternativa B fala de intervalo de seis em seis horas, dado ausente. A alternativa D menciona pelo menos uma semana, mas a bula só diz para procurar o médico se não houver melhora em 5 dias. A alternativa E afirma uso exclusivo por adultos; o texto apenas manda manter fora do alcance das crianças e restringe o uso por gestantes e lactantes. Gabarito: C.",
+  "hash": "2f12b664f43beda5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q117": {
+  "assunto": "Artes visuais: arte popular brasileira",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que caracteriza a criação popular segundo os textos. O Texto I mostra esculturas populares em madeira, de feição expressiva e própria. O Texto II afirma que, a partir do chão coletivo da comunidade, surgem indivíduos que produzem “obra de feição original, autoral, única”, recorrendo à memória para construir uma biografia e uma identidade social. Ou seja, a arte popular aborda a realidade e o contexto de modo peculiar, a partir de uma criação pessoal. A alternativa A fala em temática nacionalista, ideia ausente. A alternativa B menciona técnicas da arte acadêmica, contrárias à origem popular descrita. A alternativa C associa a obra a museus e à arte canônica, o que o texto não sustenta. A alternativa E fala de técnicas comuns a um grupo gerando movimentos, quando o texto destaca a autoria individual. Gabarito: D.",
+  "hash": "6d24440e3d9d43e5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q118": {
+  "assunto": "Educação física: corpo, estética e hipertrofia",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a característica principal do modelo de corpo buscado pelos malhadores descritos. O texto, de título “Músculos impossíveis e invejáveis”, fala de uma cultura masculina de modificação corporal, de pessoas que treinam, “secam” e ficam fortes, mas continuam achando o corpo miúdo, e que usam substâncias que prometem facilitar o crescimento muscular. O objetivo é, portanto, a hipertrofia, o aumento do volume muscular para delinear a massa corporal. A alternativa A fala de agilidade e desempenho atlético, que não são o foco. A alternativa B trata de equilíbrio postural, ausente. A alternativa D fala de relaxamento e satisfação, quando o texto descreve insatisfação obsessiva. A alternativa E menciona flexibilidade e prevenção de lesões, que não aparecem. Gabarito: C.",
+  "hash": "92235a05ae89ea1c",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q119": {
+  "assunto": "Publicidade e linguagem midiática: recursos verbais e não verbais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia persuasiva que se destaca no cartaz do Ministério da Saúde. O texto principal diz “Essa corrente precisa de você. Doe sangue.” Na imagem, várias pessoas aparecem de mãos dadas, formando literalmente uma corrente, e a moça em primeiro plano estende a mão para o leitor, como se o convidasse a entrar nela. A articulação entre a palavra “corrente”, as mãos dadas e a mão estendida é o recurso que integra verbal e não verbal para convencer. A alternativa A fala de “hábito” e “hemocentro” ligados à frequência, relação pouco relevante. A alternativa C destaca “Um grande ato”, expressão secundária no cartaz. A alternativa D trata de pessoas saudáveis, mas o público-alvo são possíveis doadores, e isso não é o recurso central. A alternativa E associa as pessoas aos receptores, quando elas representam os doadores. Gabarito: B.",
+  "hash": "3f1b37859aeae3e8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q120": {
+  "assunto": "Literatura brasileira: literatura de cordel",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as palavras que remetem às origens geográficas e sociais do cordel, literatura popular nordestina. “Agreste” e “sertão” são sub-regiões do Nordeste; “Juazeiro” é a cidade do Padre Cícero, centro de romaria; “matuto” designa o homem do interior; “senhor de engenho” remete à sociedade açucareira nordestina. Todas apontam para o espaço e para a estrutura social de onde o cordel nasceu. A alternativa A lista tipos sociais genéricos, presentes em qualquer região. A alternativa C mistura cargos e palavras comuns como “dinheiro” e “resultado”. A alternativa D traz vocábulos ligados ao jogo e à aposta, sem marca regional. A alternativa E reúne termos religiosos e emocionais de uso geral. Gabarito: B.",
+  "hash": "91abf8ecfb21fed7",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q121": {
+  "assunto": "Interpretação de texto: comparação entre conto e canção",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o mecanismo comum ao conto e à letra de canção sobre a inveja. No conto, o narrador fala do “vizinho solteirão”, que guardava “uma vermelha inveja” do casal e, após a tragédia, mordia com sabor uma goiaba: é um personagem invejoso tratado em terceira pessoa. Na canção, o eu lírico descreve “ele”, cujo vizinho tem carro possante, e o chama de “Invejoso”, também em terceira pessoa. Ambos, portanto, referem-se em terceira pessoa a um indivíduo invejoso. A alternativa B fala em personificar a inveja, mas ela não é personagem em nenhum dos textos. A alternativa C diz que o invejoso fala, o que não ocorre. A alternativa D atribui caráter dissertativo, inexistente. A alternativa E fala em perfil psicológico, que só a canção esboça em parte; o conto apenas sugere o sentimento por ações. Gabarito: A.",
+  "hash": "e43859588cb20f45",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q122": {
+  "assunto": "Argumentação: estratégias argumentativas em tirinha",
+  "dificuldade": 2,
+  "explicacao": "A questão pede as estratégias argumentativas usadas pelos personagens da tirinha. O filho grita que não vai estudar para o vestibular, em tom de desafio e enfrentamento, tentando impor sua vontade pelo grito, uma forma de intimidação. O pai responde no mesmo tom que a mesada está suspensa por três anos: ameaça de perder um benefício para forçar um comportamento, ou seja, chantagem. No último quadro, o filho cede e procura as “malditas apostilas”. Assim, as estratégias são intimidação e chantagem. A alternativa A fala em comoção, mas ninguém tenta comover. A alternativa B junta comoção e ironia, ausentes. A alternativa D menciona sedução, que não aparece, pois o pai ameaça em vez de oferecer algo agradável. A alternativa E combina sedução e ironia, igualmente inexistentes. Gabarito: C.",
+  "hash": "cbcfc7e7150fb7bb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q123": {
+  "assunto": "Gêneros textuais: gêneros digitais",
+  "dificuldade": 2,
+  "explicacao": "A questão pede um exemplo de gênero digital que retoma características de um gênero anterior. Marcuschi afirma que os novos gêneros trazem novidades, mas “com algum gosto do conhecido”. O e-mail é o caso mais claro: tem destinatário, saudação, corpo da mensagem e despedida, como a carta, e pode ser breve e informal, como o bilhete. A alternativa B compara aula virtual com reunião de grupo, quando o gênero de origem seria a aula presencial. A alternativa C liga bate-papo virtual à conferência, mas o chat se aproxima da conversa informal. A alternativa D inverte a relação: a videoconferência retoma a conferência, não a aula presencial. A alternativa E aproxima lista de discussão de palestra, mas a lista envolve troca entre vários participantes, não exposição de um só. Gabarito: A.",
+  "hash": "f37e1134a1205824",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q124": {
+  "assunto": "Interpretação de texto: comércio eletrônico",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o motivo da adesão dos consumidores às compras coletivas, segundo o texto. O site oferece descontos de 50% a 90% “de acordo com a quantidade de pessoas interessadas em adquirir o produto/serviço”. Quanto mais pessoas aderem, maior o desconto: a redução do preço está ligada ao aumento da procura, e é isso que atrai o consumidor. A alternativa A cita o modismo, mencionado no texto, mas não como razão da adesão. A alternativa B fala em meio fácil e seguro, ideia ausente. A alternativa D menciona prestígio social e produtos exclusivos, sem base no texto. A alternativa E generaliza a informação sobre os Estados Unidos, que apenas indica a origem do sistema. Gabarito: C.",
+  "hash": "4aaa025deed07ea3",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q125": {
+  "assunto": "Variação linguística: norma padrão e informalidade",
+  "dificuldade": 2,
+  "explicacao": "[REVISAR] As alternativas foram extraídas desalinhadas: o primeiro verso do texto de Henriqueta Lisboa aparece no fim da D. A questão pede o texto escrito na variedade padrão formal da língua. Os versos de Henriqueta Lisboa, “O tempo é um fio por entre os dedos. / Escapa o fio, perdeu-se o tempo.”, seguem a norma culta: concordância e regência corretas, pontuação adequada e colocação pronominal formal em “perdeu-se”, com ênclise. Os demais textos exploram marcas de informalidade ou de outras variedades. O de Cacaso usa abreviações típicas da escrita digital (“Qdo”, “ñ”, “q”). O de Ziraldo traz gírias como “Tá louco, bicho” e “cair fora”. O de Paulo Leminski, embora correto, tem tom coloquial (“Tudo está na cara”). O texto popular registra a pronúncia “mi deito” e dispensa pontuação. O de Chacal usa expressões informais como “bato um papo” e o estrangeirismo “drink”. Gabarito: E.",
+  "hash": "eae6f1b7653c6511",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q126": {
+  "assunto": "Música: classificação de instrumentos, choro",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a correspondência correta entre instrumento do grupo de choro e sua família. A foto mostra violões, cavaquinho, bandolim, pandeiro e flauta transversal. A flauta transversal, mesmo sendo hoje feita de metal, pertence à família das madeiras, porque o som é produzido pelo sopro na embocadura, sem palheta de metal nem bocal de lábios vibrantes, como nos metais. A alternativa B erra porque o bandolim é instrumento de cordas dedilhadas (pinçadas com palheta), não friccionadas, como o violino. A alternativa C classifica o pandeiro como metal, quando ele é percussão com membrana (e platinelas). A alternativa D chama o afoxé de percussão com membrana, mas ele é um idiofone de contas. A alternativa E diz que o cavaquinho é de cordas percutidas, mas ele também é de cordas dedilhadas; percutidas são as do piano. Gabarito: A.",
+  "hash": "5989af345abfd7e4",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q127": {
+  "assunto": "Variação linguística: escrita não padrão e contexto",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o anúncio, escrito em variedade não padrão, cumpre seu objetivo. Na parede da casa lê-se “Auta mecanica disel”, “Cerviso de tratoris em geral”, “Asistencia tenica fazendas”, “Reforma de coledeira e plementos”. Apesar dos desvios ortográficos, as palavras são reconhecíveis (alta mecânica diesel, serviço de tratores, assistência técnica, colheitadeira, implementos) e o contexto rural, uma oficina em área agrícola, permite entender que se trata de manutenção de máquinas agrícolas. Assim, o contexto e a seleção lexical garantem o sentido. A alternativa A fala da comodidade do atendimento, que não explica a compreensão. A alternativa B trata do suporte, que não resolve o problema da variedade. A alternativa C atribui a clareza à letra de forma, quando o entendimento vem do vocabulário. A alternativa D menciona a raridade de mecânicos, sem relação com a linguagem. Gabarito: E.",
+  "hash": "dd8d984e28e18bfd",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q128": {
+  "assunto": "Variação linguística: regionalismo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o verso que permite reconhecer uma região brasileira no cordel de J. Borges. A palavra “cacimba”, que significa poço ou buraco cavado para obter água, é típica do Nordeste, especialmente do sertão, onde a escassez de água leva à abertura dessas escavações; o detalhe de “água salgada” reforça esse cenário. Assim, o verso “nas cacimbas onde passava” é a marca regional do texto. A alternativa A traz expressões de uso geral. A alternativa B fala de feira, presente em todo o país. A alternativa C menciona panelas, vocabulário comum. A alternativa D, “que minha mãe comprava”, também não tem nenhuma marca regional. Gabarito: E.",
+  "hash": "d0eecf7ed69af020",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q129": {
+  "assunto": "Gêneros textuais: divulgação científica",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por que o tom de humor e a linguagem despojada são adequados ao texto da revista de divulgação científica. Revistas como a Superinteressante são veículos de comunicação de massa, dirigidos a um público amplo e não especializado. Por isso, usam linguagem leve e humorada, como nas “dicas do mal” e na ironia de “fingir que você venceu”, para tornar o conteúdo atraente e acessível. A adequação do recurso confirma o periódico como meio de comunicação de massa. A alternativa A fala em subjetividade como característica do periódico, o que não define a divulgação científica. A alternativa B contraria o enunciado, pois publicações científicas usam linguagem formal e técnica. A alternativa D aponta leitor interessado em teoria, quando o público é amplo. A alternativa E descreve um efeito, não a razão da adequação. Gabarito: C.",
+  "hash": "92e24fe1233199d5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q130": {
+  "assunto": "Gêneros textuais: resenha",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o gênero do fragmento de Gilberto Scarton. O texto apresenta o autor da obra (formação, trajetória e principais livros), descreve a obra Língua e liberdade, com seus seis pequenos capítulos e o tema central, e acrescenta avaliação do resenhista, como em “subverte a ordem estabelecida” e “bate, intencionalmente, sempre na mesma tecla”. Essa combinação de apresentação, descrição e posicionamento crítico caracteriza a resenha. A alternativa A fala de artigo científico, que exige metodologia e discussão acadêmica. A alternativa B menciona relatório, gênero que registra atividades realizadas. A alternativa D vê texto publicitário, mas não há apelo de venda. A alternativa E diz resumo, que não traria juízo de valor do autor. Gabarito: C.",
+  "hash": "eea7e0e082bb457e",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q131": {
+  "assunto": "Tecnologias da informação e comunicação: inclusão digital",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o exemplo de uso significativo das TICs, conforme o texto de Warschauer. Acesso significativo, segundo o autor, não é só manejar o computador e a internet, mas usar esses conhecimentos para conteúdos que melhorem a vida da pessoa, de seu grupo e de sua comunidade, envolvendo recursos humanos, sociais e educação. A rádio web escolar, produzida por alunos e professores com gravador, computador e internet, envolve produção coletiva de conteúdo e comunicação com a comunidade, o que atende a essa definição. A alternativa A apenas substitui o papel pelo meio digital. A alternativa C limita-se ao ensino técnico de aplicativos. A alternativa D oferece acesso livre, mas sem propósito definido. A alternativa E restringe o uso à pesquisa de fontes, sem produção nem impacto comunitário. Gabarito: B.",
+  "hash": "f2d3f9f93e474ad5",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q132": {
+  "assunto": "Gêneros textuais: artigo de opinião",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o elemento que permite reconhecer o texto como artigo de opinião. O autor apresenta um dado de pesquisa, comenta o “detalhe inquietante”, chama a situação de “encrenca” e aponta causas, como salário, estabilidade e prestígio social. Há, portanto, reflexão e posicionamento sobre a falta de professores, que é a função própria do artigo de opinião. A alternativa A fala do suporte, mas o jornal publica muitos gêneros diferentes. A alternativa B restringe o leitor a interessados no magistério, quando o texto se dirige ao público em geral. A alternativa C aponta o tema, que poderia aparecer também numa notícia ou reportagem. A alternativa E fala de linguagem formal e denotativa, o que não é verdade (há “encrenca”) e também não definiria o gênero. Gabarito: D.",
+  "hash": "cbacfa1b8ab22c99",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q133": {
+  "assunto": "Publicidade e linguagem midiática: anúncio e persuasão",
+  "dificuldade": 3,
+  "explicacao": "A questão pede para onde convergem os recursos verbais e não verbais da propaganda da ABP. O título diz “Com ideias ruins a indústria da propaganda também polui”, e a imagem mostra lâmpadas, símbolo de ideias, quebradas e jogadas numa praia, como lixo. O texto convida: “Participe desse movimento: Festival da ABP”, “Inscreva boas ideias”, e termina com “Inscreva-se: Festival Brasileiro de Publicidade 2011” e “Preserve nosso meio”, trocadilho entre meio ambiente e meio publicitário. Tudo converge para estimular os publicitários a se inscreverem no festival com boas ideias. A alternativa A fala em caráter informativo, mas o anúncio é apelativo. A alternativa B toma a metáfora da poluição como fim, quando ela é recurso. A alternativa C fala de critérios de participação, ausentes. A alternativa D também confunde o recurso comparativo com o objetivo. Gabarito: E.",
+  "hash": "a0fd59c03a9e8ed9",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q134": {
+  "assunto": "Interpretação de texto: infográfico",
+  "dificuldade": 1,
+  "explicacao": "A questão pede para o que chamam atenção os resultados da pesquisa sobre álcool e adolescentes. O infográfico, intitulado “A dose do perigo”, mostra que hoje os adolescentes começam a beber aos 13 anos, enquanto na década de 1990 a iniciação ocorria por volta dos 18; além disso, aos 14 anos o consumo vira hábito, o que antes só acontecia por volta dos 21. A comparação evidencia que o consumo começa cada vez mais cedo, e o título aponta o risco disso. A alternativa A fala de efeitos maléficos, não apresentados. A alternativa B menciona consumo exagerado, mas os dados tratam de idade, não de quantidade. A alternativa D desloca o foco para os anos 1990, usados apenas como comparação. A alternativa E compara adolescentes e adultos, mas a pesquisa compara gerações de adolescentes. Gabarito: C.",
+  "hash": "3ba4742701fa5680",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2013-ppl-d2-q135": {
+  "assunto": "Literatura brasileira: poesia engajada, Ferreira Gullar",
+  "dificuldade": 4,
+  "explicacao": "A questão pede como a voz poética de “Meu povo, meu poema”, de Ferreira Gullar, dialoga com o contexto dos anos 1970. O poema estabelece identidade entre povo e poesia: “Meu povo e meu poema crescem juntos”, o poema nasce no povo como o açúcar no canavial, amadurece nele e por fim é devolvido ao povo “menos como quem canta / do que planta”. As imagens de crescimento e de plantio mostram que essa união é um processo de fortalecimento humano e social, uma semente para o futuro. A alternativa A afirma que o poeta se esquiva das desigualdades, o que contraria seu engajamento. A alternativa B diz que ele dilui o político, quando o poema o assume. A alternativa C fala em grandeza do fazer poético e alienação do povo, ideia que o texto não sugere. A alternativa D afirma que o povo não reconhece a poesia, também sem base. Gabarito: E.",
+  "hash": "47301daa551a22bf",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2013-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de charge",
   "dificuldade": 2,
