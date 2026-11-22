@@ -76,6 +76,181 @@
   "hash": "40016efb4e4aba1b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
+ "enem-2012-ppl-d2-q111": {
+  "assunto": "Coesão e coerência: coesão referencial, catáfora",
+  "dificuldade": 4,
+  "explicacao": "A questão trata de coesão referencial: palavras que retomam algo já dito ou anunciam algo que ainda virá. O texto começa dizendo que o Herschel resolveu \"um problema que ficou sem solução durante 14 anos\". Que problema? A frase seguinte responde: \"A origem dos vapores de água na atmosfera superior de Saturno\", que, como se descobre, está nas partículas que saem da lua Enceladus e chegam ao planeta. Assim, \"um problema\" remete para frente, para um segmento da frase seguinte, como diz a alternativa A. A alternativa B erra, pois \"A descoberta\" retoma a solução do problema (as partículas vindas de Enceladus), não o problema em si. A C é falsa: \"O volume despejado\" refere-se aos vapores expelidos pela lua, não à composição química de Saturno. A D erra porque \"O fenômeno\" retoma o que foi narrado antes, e a transparência dos vapores é a causa de não ter sido detectado. A E falha, pois \"esse encargo e achado\" retoma a tarefa de detectar o fenômeno, não o avanço da tecnologia. Gabarito: A.",
+  "hash": "6522c71db06e45cb",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q112": {
+  "assunto": "Publicidade e linguagem midiática: intertextualidade, campanha",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o sentido que se depreende do anúncio. A imagem mostra uma placa de trânsito de proibição, o círculo cortado por uma faixa diagonal, com uma garrafa no centro e a legenda \"Novo sinal de trânsito\". O leitor reconhece o formato das placas que indicam proibição, como \"proibido estacionar\", e, ao ver nela uma garrafa, entende a mensagem: é proibido beber e dirigir. A construção do sentido depende desse diálogo com outro texto conhecido, a placa de trânsito, ou seja, da intertextualidade, como afirma a alternativa A. A alternativa B erra ao restringir o público a pessoas envolvidas com álcool; o anúncio se dirige a todos os motoristas. A C toma \"novo\" ao pé da letra, como se existisse uma placa oficial nova. A D desloca o foco para a saúde, quando o contexto é o trânsito. A E diz que a imagem explica os motivos para não beber, mas ela apenas indica a proibição. Gabarito: A.",
+  "hash": "b180253c21893765",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q113": {
+  "assunto": "Artes visuais: Pop Art brasileira, futebol",
+  "dificuldade": 3,
+  "explicacao": "A questão pede o que as obras Futebol, de Nelson Leirner, e Superhomens, de Rubens Gerchman, permitem refletir sobre o esporte. O enunciado lembra que a Pop Art se apropria de imagens do cotidiano e da cultura de massa e as transforma em arte. A obra de Leirner reproduz a tradicional foto posada de um time de futebol, com jogadores de uniforme em duas fileiras e bolinhas na base, uma imagem extremamente popular no Brasil. Ao transformar o futebol em tema de obra de arte, esses artistas mostram como ele faz parte da identidade e da tradição nacional e como as artes visuais se apropriaram dele, alternativa C. A alternativa A fala em banalização, julgamento que o texto não sustenta. A B atribui aos artistas uma preferência pessoal, que as imagens não revelam. A D introduz a violência, ausente das obras. A E reduz o esporte a lazer e atividade física, sem relação com a proposta da Pop Art. Gabarito: C.",
+  "hash": "2d213f5264910d32",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q114": {
+  "assunto": "Literatura brasileira: memorialismo, Graciliano Ramos",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a atitude que marca o relato de Graciliano Ramos sobre a doença dos olhos na infância, em Infância. O narrador descreve com muitos detalhes o sofrimento: vivia na treva, com o rosto coberto por um pano escuro, tropeçava nos móveis, as pálpebras inflamadas colavam-se, precisava mergulhar o rosto na bacia, os olhos pareciam \"dois bugalhos sangrentos\" e a luz o feria \"como pontas de agulha\". Ao mesmo tempo, fala de si com secura e lucidez, chegando a admitir que seu aspecto \"inspirava repugnância\", sem pedir compaixão. Essa recomposição minuciosa e sem autopiedade corresponde à alternativa E. A alternativa A é o oposto, pois ele relembra a doença em detalhes. A B erra: ele cita a antipatia da mãe, mas não se coloca como vítima. A C fala do tratamento médico, tema ausente. A D generaliza a falta de solidariedade, quando o foco é a experiência da dor. Gabarito: E.",
+  "hash": "e6f3f5b5d5eb2802",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q115": {
+  "assunto": "Interpretação de texto: leitura de gráfico, propaganda",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a condição para aumentar as vendas, segundo o texto e o gráfico. O gráfico mostra categorias em que a propaganda leva mais de 20% dos consumidores a trocar de marca, como creme dental (31%), biscoito e margarina (29%) e bebida energética (27%). O texto reconhece a força da publicidade, que cria uma relação emocional e torna o produto desejável, mas faz uma ressalva importante: \"nada disso adianta se o produto não cumprir as promessas transmitidas nas ações de comunicação\". Portanto, é preciso que a propaganda influencie a troca de marca e que o consumidor perceba qualidade no produto, como diz a alternativa C. A alternativa A erra, pois os alimentos estão entre os percentuais mais altos, não os mais baixos. A B ignora a exigência de qualidade e atribui a necessidade emocional às marcas, não às pessoas. A D contraria o texto, que defende divulgar os produtos. A E contradiz a ressalva sobre qualidade. Gabarito: C.",
+  "hash": "b634b70c6fafc366",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q116": {
+  "assunto": "Funções da linguagem: função apelativa, propaganda",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que a linguagem verbal do anúncio do Ministério do Turismo explora a função apelativa, também chamada conativa. Essa função se caracteriza pelo foco no receptor, buscando influenciar seu comportamento. O texto diz: \"Se você quiser ver esta paisagem que parece uma pintura, aonde você tem que ir?\", seguido de opções, e depois: \"Se você é brasileiro e não sabe a resposta, está na hora de conhecer melhor o Brasil\" e \"É bom pra você\". O pronome \"você\", repetido várias vezes, interpela diretamente o leitor, marca típica da função apelativa, como afirma a alternativa C. A alternativa A descreve a função emotiva, centrada no emissor. A B aponta a repetição, mas o que caracteriza a função é o direcionamento ao leitor, não a repetição em si. A D descreve a função referencial, e o texto nem traz características físicas do lugar. A E aponta uma comparação que existe, mas é recurso secundário, não o que define a função apelativa. Gabarito: C.",
+  "hash": "94d78a92e8c8512f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q117": {
+  "assunto": "Semântica: neologismo, formação de palavras",
+  "dificuldade": 1,
+  "explicacao": "A questão pede o recurso presente na palavra \"mamadeirar\". No relato, a enfermeira explica que mães soropositivas não devem amamentar e que, para lidar com a culpa e as cobranças, a equipe criou \"a técnica de mamadeirar\", isto é, oferecer a mamadeira com amor no lugar do seio. A palavra não existe no dicionário: foi criada a partir do substantivo \"mamadeira\" com o acréscimo da terminação verbal \"-ar\", inspirada em \"amamentar\", para nomear uma prática nova. Palavra criada para dar conta de uma nova realidade é um neologismo, alternativa B. A alternativa A erra, pois não há preconceito linguístico no uso. A C não explica o recurso: a questão é a criação da palavra, não o registro coloquial. A D é falsa, porque a palavra não é ambígua. A E erra o processo de formação: não há justaposição de duas palavras, e sim derivação a partir de \"mamadeira\". Gabarito: B.",
+  "hash": "bf83899f15056cd8",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q118": {
+  "assunto": "Variação linguística: internetês, adequação linguística",
+  "dificuldade": 2,
+  "explicacao": "A questão pede uma inferência sobre a influência do internetês na norma culta. O texto afirma que o temor dos gramáticos não se confirmou: o internetês é \"um simpático bichinho de uma cabecinha só\", sua ocorrência em provas e concursos é insignificante e ele parece restrito a \"seu hábitat natural\", a internet. A questão central, segundo o autor, é saber separar a hora de escrever \"de qq jto\" da hora de usar a forma culta, e essa capacidade aumenta com o contato com textos cultos. Logo, alternar variantes é uma habilidade dos usuários, acionada conforme a situação comunicativa, como diz a alternativa E. A alternativa A contradiz o texto, que mostra que o internetês quase não aparece em situações formais. A B afirma uma dificuldade evidente que o texto relativiza. A C trata de vocabulário na fala, tema não discutido. A D diz que os neologismos restringem a compreensão de textos formais, o que o texto não sustenta. Gabarito: E.",
+  "hash": "0e8e87f33c622f11",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q119": {
+  "assunto": "Tecnologias da informação e comunicação: linguagem do Twitter, concisão",
+  "dificuldade": 1,
+  "explicacao": "A questão pede a característica relevante da linguagem do Twitter segundo o texto de Zuenir Ventura. O autor brinca que as novidades sobre o Twitter \"já não cabem em 140 toques\", cita o concurso de microcontos de 140 caracteres da Academia Brasileira de Letras e define o Twitter como um meio \"que se caracteriza pela concisão\". A tuiteratura reúne \"enunciados telegráficos\". Por fim, pergunta se fazer literatura com \"palavras de menos\" não seria pretensão demais. Tudo aponta para a concisão imposta por um limite fixo de caracteres, alternativa A. A alternativa B erra, pois o texto cita apenas um neologismo, sem relação com popularizar mensagens. A C inventa expressões que substituiriam palavras do português. A D fala em palavras incomuns, ideia ausente. A E atribui à linguagem do Twitter o objetivo de restringir usuários, o que contradiz o número crescente de adeptos citado. Gabarito: A.",
+  "hash": "b0eaa949e4226bb2",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q120": {
+  "assunto": "Coesão e coerência: paralelismo sintático, progressão textual",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a estratégia que garante a continuidade do poema. Observe os versos: \"Um pato que não fazia quá-quá. / Um cão que não latia. / Um peixe que não nadava. / Um pássaro que não voava\". Todos seguem a mesma estrutura sintática: artigo + substantivo + \"que não\" + verbo, ou seja, um ser seguido de uma oração adjetiva negativa. A cada verso, muda o ser e a ação negada, acrescentando uma informação nova. Esse paralelismo conduz o leitor até a conclusão: a natureza destruída \"pelo homem que não pensava\". É a repetição da estrutura sintática com novas informações, alternativa D. A alternativa A não explica a continuidade, e os seres pertencem ao mesmo campo semântico, o dos animais. A B erra, pois as negações recaem sobre os animais, não sobre ações praticadas pelo homem. A C aponta a intertextualidade com \"Era uma vez\", que existe, mas não é o que faz o texto progredir. A E descreve um detalhe de pontuação no final, não a estratégia predominante. Gabarito: D.",
+  "hash": "f03ef384408f6287",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q121": {
+  "assunto": "Literatura brasileira: Romantismo, Castro Alves e Gonçalves Dias",
+  "dificuldade": 4,
+  "explicacao": "A questão pede por que o poema de Castro Alves confirma a ideia de João Cabral de que sua poesia supera a de Gonçalves Dias sem negá-la. Gonçalves Dias, na primeira geração romântica, escreveu a Canção do exílio, marcada pela saudade lírica da pátria. Em A canção do africano, Castro Alves, da terceira geração (condoreira), mantém a estrutura da canção saudosa: \"Minha terra é lá bem longe, / Das bandas de onde o sol vem; / Esta terra é mais bonita, / Mas à outra eu quero bem\", em clara referência à Canção do exílio. A novidade é quem canta: um escravo na senzala, com saudade da África, o que introduz a denúncia social. Assim, inova no tema social, mas mantém a visão lírica da terra natal, alternativa E. A alternativa A fala em exaltação nacionalista, mas a terra amada é a África. A B fala em liberalismo, ausente do trecho. A C erra, pois não há tema amoroso. A D inverte o peso: o poema não explora a subjetividade do eu lírico. Gabarito: E.",
+  "hash": "bc21846f590fcd09",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q122": {
+  "assunto": "Gêneros textuais: piada, situação comunicativa",
+  "dificuldade": 3,
+  "explicacao": "A questão pede os objetivos do produtor em duas situações: na relação entre autor e leitores e na relação entre Francisco e Sebastião. Na primeira, o texto é uma piada, publicada em livro de humor; seu propósito é fazer o leitor rir, ou seja, divertir. Na segunda, dentro da história, Francisco volta do além para cumprir a promessa de contar como é o céu, trazendo \"duas notícias\". Seu objetivo é informar o amigo, ainda que a segunda notícia (Tião está escalado para jogar amanhã, ou seja, vai morrer) produza o efeito cômico para o leitor. Assim, os verbos são divertir e informar, alternativa B. A alternativa A erra no segundo verbo: Francisco não tenta seduzir. A C fala em comover, mas a intenção dele é cumprir a promessa de informar. A D e a E apontam assustar e intimidar, que podem ser efeitos sobre Tião, mas não o objetivo declarado da conversa. Gabarito: B.",
+  "hash": "28dac9ac96ac1b70",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q123": {
+  "assunto": "Gêneros textuais: reportagem, marcas de interlocução",
+  "dificuldade": 3,
+  "explicacao": "A questão pede a função do emprego repetido de \"você\" no trecho da Superinteressante, já que o texto jornalístico tradicional evita se dirigir ao leitor. O autor escreve: \"Para cada site que você pode visitar\", \"A cada vez que você interage com um amigo nas redes sociais\", \"quando você faz uma pesquisa no Google\". Cada uso de \"você\" vem associado a práticas cotidianas na internet, desenhando o leitor que a revista espera: alguém que usa redes sociais e sites de busca no dia a dia, como diz a alternativa C. A alternativa A erra, pois \"você\" marca o interlocutor, não o \"eu\". A B fala em metalinguagem, mas o texto não fala de si mesmo. A D afirma que o recurso descaracteriza a reportagem, o que não procede; é uma estratégia de aproximação. A E confunde o uso do pronome com simplicidade vocabular, que não é o que a questão aborda. Gabarito: C.",
+  "hash": "a8e1d553d7d705ec",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q124": {
+  "assunto": "Gêneros textuais: texto jornalístico de turismo, interlocução",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o recurso que a autora usa para envolver o leitor no retrato de Mariana. O texto começa com \"Pode chegar de mansinho\", \"observar sem pressa\", e continua com \"Repare na arquitetura\". São verbos no imperativo ou expressões verbais que se dirigem diretamente ao leitor, como se ele estivesse na estação, convidando-o a viver a cena: o apito, a chegada do trem, os sorrisos. Isso caracteriza a alternativa E, que fala em dirigir-se ao leitor por meio de verbos, convidando-o a partilhar das belezas do local. A alternativa A descreve a estrutura de notícia (pirâmide invertida), o que não é o foco aqui. A B é contraditória ao chamar a descrição de parcial e objetiva, e o texto é subjetivo. A C erra ao falar de infraestrutura e precisão técnica, ausentes. A D lê como crítica o trecho sobre os mineiros desconfiados, que apenas reforça o encantamento. Gabarito: E.",
+  "hash": "f25705f79e7b703a",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q125": {
+  "assunto": "Semântica: ambiguidade, humor em cartum",
+  "dificuldade": 2,
+  "explicacao": "A questão pede o recurso que cria humor no cartum. O motorista pergunta: \"Essa estrada vai pra São Paulo?\", querendo saber se ela leva a São Paulo. O homem do campo responde: \"Sei não, dotô... mais si ela fô vai fazê uma falta danada pra nóis!\". Ele interpreta \"ir\" no sentido literal, como se a estrada pudesse se mudar para São Paulo e deixar a região sem ela. O humor nasce dessa ambiguidade da fala do motorista, lida a partir da perspectiva e da variedade linguística do interlocutor, como diz a alternativa B. A alternativa A erra: as características dos personagens não configuram intertextualidade. A C fala em conotação, mas o mal-entendido vem de uma leitura literal. A D erra, pois não há perda da estrada nem negação enfática. A E é falsa: a pergunta do motorista é real, ele quer a informação. Gabarito: B.",
+  "hash": "fc169a9efb4367a6",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q126": {
+  "assunto": "Literatura brasileira: Modernismo, Mário de Andrade",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como o poema Sambinha, de Mário de Andrade, revela o projeto modernista de identidade linguística e nacional. O poema flagra uma cena cotidiana: duas costureirinhas passando pela rua \"afobadas braços dados depressinha\", em ritmo que lembra o samba do título, com marcas de oralidade como \"pros homens\", \"pra escutá-las\" e o diálogo \"Você vai? / Não vou não!\". No final, o eu lírico as chama de \"tão modernas, tão brasileiras\" e revela que uma era ítalo-brasileira e branca, a outra áfrico-brasileira e preta. As moças representam o Brasil mestiço, de várias origens e cores, captado pela sensibilidade do poeta em seu movimento dançante, alternativa B. A alternativa A erra, pois o ritmo dá naturalidade, não a retira. A C julga a liberdade formal como defeito, contrariando o projeto modernista. A D faz uma leitura anacrônica que não atende ao que a questão pede. A E vê ironia onde há afeto e celebração. Gabarito: B.",
+  "hash": "c92723923563d379",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q127": {
+  "assunto": "Artes visuais: arquitetura modernista, Niemeyer",
+  "dificuldade": 3,
+  "explicacao": "A questão pede uma análise do Palácio da Alvorada, de Oscar Niemeyer, à luz da arquitetura modernista. O edifício é baixo e alongado na horizontal, com uma fachada leve de vidro e as famosas colunas de curvas suaves, que parecem tocar o chão de leve. Essa horizontalidade faz o prédio dialogar com a paisagem plana do cerrado e com a linha do horizonte, integrando arquitetura e entorno, ideia inovadora para a época, como afirma a alternativa B. A alternativa A erra ao falar em impor a arquitetura sobre a natureza, o oposto da integração buscada. A C descreve as colunas como quebradas e rígidas, quando são curvas e leves. A D diz que os pilotis separam o externo do interno, mas o vão livre serve justamente para integrar e circular. A E fala em grades separando jardins e prédio, elemento ausente e contrário à proposta. Gabarito: B.",
+  "hash": "5a83d1774137197f",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q128": {
+  "assunto": "Teatro e dança: teatralidade, interculturalidade",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que implica o meio especificamente cênico de transmitir uma cultura estrangeira, segundo Patrice Pavis. O texto afirma que escolher uma forma teatral é escolher um tipo de teatralidade, e que a teatralidade tem \"meios específicos\" para transmitir uma cultura-fonte a um público-alvo; só assim se pode falar em interculturalidade teatral. Os meios específicos do teatro são os do corpo e da cena: gestos, movimentos, encenação. Assim, transmitir uma cultura pelo teatro implica buscar nos gestos a forma de compreender e explicitar conceitos e comportamentos, alternativa A. A alternativa B recorre à filosofia, que não é meio cênico. A C sugere vídeo documental, recurso externo à teatralidade. A D propõe eliminar a distância, quando o teatro trabalha justamente com a mediação entre culturas. A E exige atores da cultura de origem, condição que o texto não menciona. Gabarito: A.",
+  "hash": "61dec2d3a62692de",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q129": {
+  "assunto": "Literatura brasileira: Naturalismo, Aluísio Azevedo",
+  "dificuldade": 3,
+  "explicacao": "A questão pede como a visão cientificista do Naturalismo se aplica à mulher no trecho de O homem, de Aluísio Azevedo. O médico Lobão diz que a moça \"já devia ter casado\" e lamenta que \"um organismo tão rico e tão bom para procriar\" se sacrifique; se ela não se casar logo, ele \"não responde pelo resto\". Em seguida, afirma que esses \"temperamentozinhos impressionáveis\" são terríveis e exigem satisfação. A mulher é vista como organismo determinado pela biologia, cuja saúde dependeria do casamento e da função reprodutiva, isto é, um ser frágil condicionado pelo ciclo reprodutivo, alternativa C. A alternativa A erra, pois não há conivência com recusa ao casamento; o médico o recomenda. A B fala em mulher sensual e misteriosa, estereótipo romântico, não naturalista. A D desloca o foco para limitação intelectual, ausente do trecho. A E fala em pressões sociais, quando o determinismo apontado é biológico. Gabarito: C.",
+  "hash": "856894474d7fc931",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q130": {
+  "assunto": "Literatura brasileira: intertextualidade, Drummond",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o ponto em comum que justifica o título \"CDA (imitado)\" do poema de Orides Fontela. No Poema de sete faces, Drummond escreve: \"Se eu me chamasse Raimundo / seria uma rima, não seria uma solução\". A rima Raimundo/mundo seria apenas um efeito poético, incapaz de resolver o desajuste do eu lírico diante do mundo. Orides imita a estrutura: \"Ó vida, triste vida! / Se eu me chamasse Aparecida / dava na mesma\". A rima vida/Aparecida também não mudaria nada. Nos dois poemas, a ideia é que o jogo poético não resolve os problemas da existência, ou seja, a poesia é insuficiente para solucionar os problemas da vida, alternativa C. A alternativa A fala em receio de expor dramas, ausente nos textos. A B só vale para Drummond (\"mais vasto é meu coração\"), não para Orides. A D descreve o tom de Orides, mas não o ponto da imitação. A E inverte a relação entre tristeza e rima. Gabarito: C.",
+  "hash": "863e27e6c1836b1b",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q131": {
+  "assunto": "Literatura brasileira: Modernismo, Cassiano Ricardo",
+  "dificuldade": 2,
+  "explicacao": "A questão pede a relação entre o homem e seu tempo expressa no poema A rua, de Cassiano Ricardo. O eu lírico reconhece que muitas vezes é preciso adiar tudo e que a esperança é \"uma forma de contínuo adiamento\". Mas afirma: \"espera significa luta e não, apenas, / Esperança sentada. / Não abdicação diante da vida\". E conclui que a esperança nunca é \"a forma burguesa, sentada e tranquila da espera\", nem a mulher do quadro antigo dando milho aos pombos. Ou seja, mesmo num tempo de adiamentos e estagnação, a esperança deve ser ativa, com perseverança e coragem, alternativa E. A alternativa A fala em resignação, justamente o que o poema rejeita. A B associa a esperança ao sofrimento, ideia ausente. A C diz que o poema louva a esperança passiva, o oposto do texto. A D aponta inércia e melancolia, que o eu lírico recusa. Gabarito: E.",
+  "hash": "9006ee401bdaad52",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q132": {
+  "assunto": "Teatro e dança: crítica teatral, Dias Gomes",
+  "dificuldade": 4,
+  "explicacao": "A questão pede o que, segundo Décio de Almeida Prado, caracteriza uma boa obra teatral, a partir de sua análise de O pagador de promessas. O crítico elogia a estrutura da peça, que combina o colorido local de Salvador (o explorador Bonitão, o poeta Dedé Cospe-Rima, o capoeirista Manuelzinho Sua Mãe) com uma ação simples e trágica. Zé-do-Burro é um herói entre \"o idiota e o santo\", e sua entrada na igreja \"sobre\" a cruz, \"como um crucifixado\", remete à paixão de Cristo, tema universal. A obra-prima, portanto, articula a tradição local com elementos universais, alternativa C. A alternativa A fica só com o local e ignora a dimensão universal. A B destaca a opressão religiosa, aspecto não central na avaliação do crítico. A D fala em ruptura com a estrutura clássica, mas o texto elogia a ação em linha reta. A E é falsa, pois o crítico não defende o pessimismo como critério, e a entrada é chamada de \"trágica e triunfal\". Gabarito: C.",
+  "hash": "2499ea30f6224d24",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q133": {
+  "assunto": "Coesão e coerência: referenciação, progressão temática",
+  "dificuldade": 3,
+  "explicacao": "A questão trata das expressões que, ao longo do parágrafo, se referem a Nelson Leirner. O texto o nomeia primeiro pelo nome e, depois, o retoma por outras formas nominais, como \"esse iconoclasta\" e \"o artista quase octogenário\". Cada expressão retoma o mesmo referente e, ao mesmo tempo, acrescenta uma informação nova: que ele destrói crenças e ícones, que é artista, que tem quase oitenta anos. Assim, o tema avança sem repetição mecânica, o que caracteriza a progressão temática pelo uso de formas nominais diferentes, alternativa D. A alternativa A é parcial: as expressões evitam repetição, mas não são simples sinônimos, pois acrescentam informações. A B é falsa, porque todas se referem ao próprio Leirner. A C exagera ao falar em relação entre personalidade e obras. A E erra, pois não há mudança de direção argumentativa: o parágrafo mantém o elogio. Observação: os termos em negrito não aparecem destacados aqui, mas, pelo contexto, são as retomadas de Nelson Leirner. Gabarito: D.",
+  "hash": "e5718445f6529b6d",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q134": {
+  "assunto": "Literatura brasileira: Modernismo, forma e sentido",
+  "dificuldade": 4,
+  "explicacao": "A questão pede a correlação entre um recurso formal do poema de Mário de Andrade e seu sentido. O poema narra uma viagem de bonde em etapas: \"O bonde abre a viagem, / No banco ninguém, / Estou só, stou sem. / Depois sobe um homem, / No banco sentou, / Companheiro vou. / O bonde está cheio, / De novo porém / Não sou mais ninguém\". As orações se sucedem coordenadas, sem subordinação, como cenas encadeadas, e cada etapa corresponde a uma emoção: solidão, companhia e, por fim, anonimato na multidão. Essa correlação está na alternativa A. A alternativa B erra, pois os verbos não são elididos de forma constante. A C associa os versos curtos a paradas e retomadas, mas o poema tem métrica regular de versos curtos e o sentido não está nisso. A D fala em tristeza em toda a viagem, quando há um momento de companhia. A E é falsa, porque o poema tem rimas (ninguém/sem, sentou/vou, porém/ninguém). Gabarito: A.",
+  "hash": "689cba4c8b6c0188",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
+ "enem-2012-ppl-d2-q135": {
+  "assunto": "Semântica: paródia, polissemia, humor",
+  "dificuldade": 2,
+  "explicacao": "A questão pede por que o cartum faz uma paródia do texto técnico sobre pessoa física e jurídica. O Texto I define pessoa física como todo ser humano e pessoa jurídica como a existência legal de uma sociedade ou instituição, com personalidade distinta de seus membros. No cartum, um advogado diz: \"Eu sou advogado, logo eu sou uma pessoa jurídica!\", e um atleta musculoso responde: \"Eu sou atleta. Logo eu sou uma pessoa física!\". O humor vem da troca de sentido: \"jurídica\" é ligada ao Direito e \"física\" à atividade física, desconsiderando o sentido técnico. Há uma escolha lexical equivocada que subverte o conceito, alternativa C. A alternativa A erra, pois o cartum não explica o conceito, mas o distorce. A B fala em comparação entre profissões, mas a comparação é só o veículo da piada. A D e a E são falsas: o cartum não acrescenta nem complementa conhecimento jurídico. Gabarito: C.",
+  "hash": "f1b8eafe6555e168",
+  "modelo": "claude-opus-5-5 (Claude Code, sem API)"
+ },
  "enem-2012-ppl-d2-q91-esp": {
   "assunto": "Língua espanhola: interpretação de tirinha, estereótipos de gênero",
   "dificuldade": 3,
