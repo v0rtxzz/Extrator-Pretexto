@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q117": {
-  "assunto": "Literatura brasileira: modernismo, verso livre",
+  "assunto": "Literatura brasileira: Modernismo, verso livre",
   "dificuldade": 4,
   "explicacao": "A questão pede a correspondência entre modernização e procedimento estético no poema de Raul Bopp. O texto trata da necessidade de construir rodovias, com vocabulário quase de relatório administrativo, e termina exortando: “Costurar o país com estradas alegres, desligadas de horários. Livres e cheias de sol como um verso moderno!”. A comparação final explicita a relação: as estradas desejadas são livres como o verso modernista, que abandonou métrica e rima fixas. O próprio poema é escrito em versos livres, de tamanhos variados. Assim, a defesa da expansão das estradas corresponde à liberdade formal dos versos, como diz a alternativa E. A alternativa A fala em fragmentação da linguagem, mas o eixo da comparação é a liberdade, não a fragmentação. A B aponta inovação vocabular, que não é o recurso central. A C menciona oposição à realidade rural, mas o poema fala até em “ritmo de ruralização”. A D cita subjetividade, ausente num texto de tom objetivo. Gabarito: E.",
   "hash": "dda123e69b9d16d7",
@@ -168,7 +168,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q124": {
-  "assunto": "Literatura brasileira: modernismo, paródia histórica",
+  "assunto": "Literatura brasileira: Modernismo, paródia histórica",
   "dificuldade": 4,
   "explicacao": "A questão pede como o poema de Murilo Mendes retoma o ideário dos primeiros modernistas. O texto recria a Proclamação da República com tom cômico: Deodoro chega “nos trinques” e fala em linguagem coloquial, quase caipira (“Seu imperadô, dê o fora”), chamando o império de “bugiganga”; Dom Pedro II responde bocejando, pede só para calçar as chinelas e se preocupa apenas com suas obras de Victor Hugo. A dessacralização de um episódio histórico solene, com humor, linguagem coloquial e paródia, é marca da primeira geração modernista, como nos poemas-piada de Oswald de Andrade. Trata-se, portanto, de uma releitura irônica de um fato histórico, conforme a alternativa A. A alternativa B está errada porque não há exaltação patriótica. A C fala em denúncia de autoritarismo, mas a troca de regime ocorre de modo cordial e cômico. A D aponta isenção ideológica, quando a ironia já é uma tomada de posição. A E sugere saudosismo da monarquia, ausente no tom jocoso do poema. Gabarito: A.",
   "hash": "0fd3d06e63b5bbba",
@@ -238,14 +238,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q134": {
-  "assunto": "Teatro e dança: jogos teatrais",
+  "assunto": "Teatro e dança: jogo teatral",
   "dificuldade": 2,
   "explicacao": "A questão pede o objetivo dos jogos teatrais na escola, segundo o texto de Ingrid Koudela. A técnica propõe aprendizagem não verbal, em que o aluno reúne seus próprios dados pela experimentação direta e conquista o conhecimento resolvendo problemas. Ou seja, o estudante é ativo: usa o corpo, os sentidos e o raciocínio para descobrir soluções, o que desenvolve qualidades cognitivas e sensoriais e favorece sua autonomia e o conhecimento de si mesmo. Essa é a alternativa D. A alternativa A está errada porque a proposta não se baseia em cópia e memorização. A B fala em obediência sem criatividade, o oposto da experimentação. A C reduz o jogo à recreação, ignorando seu valor de aprendizagem. A E coloca o professor como responsável pelas escolhas, enquanto o texto destaca o protagonismo do aluno. Gabarito: D.",
   "hash": "b87cd7c26afdaf12",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q135": {
-  "assunto": "Literatura brasileira: romantismo, indianismo",
+  "assunto": "Literatura brasileira: Romantismo, indianismo",
   "dificuldade": 3,
   "explicacao": "A questão pede a marca romântica destacada no trecho de O ermitão de Muquém. Na fala de Guaraciaba, o amor é expresso por comparações com elementos da natureza brasileira: os favos da jataí, abelha nativa, o suco do abacaxi, a flor que estremece à brisa, a fonte do deserto entre rochedos e a flor do manacá que se abre ao sol. O uso da natureza local como fonte de imagens, sobretudo em obra de temática indianista, é traço típico do Romantismo, que buscava afirmar a cor local e a identidade nacional. Por isso, a alternativa A é a correta. A alternativa B fala em exaltação de Itajiba, que aparece só de passagem e não é o destaque do trecho. A C menciona cumplicidade entre narrador e paisagem, mas as imagens estão na fala da personagem. A D aponta idealização do cenário, que não é descrito no fragmento. A E fala em desilusão amorosa, quando o amor é correspondido. Gabarito: A.",
   "hash": "0b838b2f17fd3325",
@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q137": {
-  "assunto": "Escalas: conversão de unidades, mapa",
+  "assunto": "Escalas: mapa, conversão de unidades",
   "dificuldade": 2,
   "explicacao": "A questão pede a escala do mapa, que é a razão entre a distância no mapa e a distância real, ambas na mesma unidade. A distância real é 25 km. Convertendo para centímetros: 1 km = 1 000 m = 100 000 cm, então 25 km = 25 × 100 000 = 2 500 000 cm. No mapa, a distância é 5 cm. Escala = 5 : 2 500 000; dividindo os dois termos por 5, obtém-se 1 : 500 000. Ou seja, cada centímetro no mapa corresponde a 500 000 cm, isto é, 5 km na realidade, o que confere: 5 cm × 5 km = 25 km. Alternativa E. A alternativa A, 1 : 5, compara números em unidades diferentes. A B, 1 : 1 000, e a C, 1 : 5 000, resultam de conversões incompletas. A D, 1 : 100 000, corresponde a apenas 1 km por centímetro, o que daria 5 km no total. Gabarito: E.",
   "hash": "041f87a2449438b3",
@@ -322,7 +322,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q146": {
-  "assunto": "Grandezas e medidas: capacidade, volume",
+  "assunto": "Grandezas e medidas: volume e capacidade",
   "dificuldade": 3,
   "explicacao": "A questão pede qual embalagem, comprada em 4 unidades iguais, cobre exatamente o consumo semanal de sabonete. São 5 andares, cada um com 2 banheiros masculinos e 2 femininos, e cada banheiro tem 2 recipientes de 0,2 L. Banheiros masculinos: 5 × 2 = 10 banheiros, 10 × 2 = 20 recipientes, 20 × 0,2 = 4 L por abastecimento; abastecidos 2 vezes por semana, 4 × 2 = 8 L. Banheiros femininos: também 4 L por abastecimento; 3 vezes por semana, 4 × 3 = 12 L. Total semanal: 8 + 12 = 20 L. Com 4 embalagens iguais e sem sobra, cada uma deve ter 20 ÷ 4 = 5 L, que é a embalagem IV, alternativa D. A alternativa A (2 L) daria só 8 L. A B (3 L) daria 12 L. A C (4 L) daria 16 L, insuficiente. A E (6 L) daria 24 L, com sobra de 4 L. Gabarito: D.",
   "hash": "4a0faf6276f3a5af",
@@ -385,7 +385,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q155": {
-  "assunto": "Sequências e progressões: soma de PG",
+  "assunto": "Sequências e progressões: soma de progressão geométrica",
   "dificuldade": 4,
   "explicacao": "A questão pede o total guardado de janeiro a junho, começando com R$ 300 e aumentando 20% ao mês. Os valores formam uma progressão geométrica de razão 1,2: janeiro 300; fevereiro 360; março 432; abril 518,40; maio 622,08; junho 746,496. Somando: 300 + 360 = 660; 660 + 432 = 1 092; 1 092 + 518,40 = 1 610,40; 1 610,40 + 622,08 = 2 232,48; 2 232,48 + 746,496 = 2 978,976. Pela fórmula da soma da PG: S = 300 × (1,2⁶ − 1) ÷ (1,2 − 1) = 300 × (2,985984 − 1) ÷ 0,2 = 1 500 × 1,985984 ≈ 2 978,98. Abandonando as casas decimais, R$ 2 978,00. Alternativa D. A alternativa A considera 300 todos os meses, sem aumento. A B equivale a 7 meses de R$ 300, sem aumento. A C aplica 20% uma única vez sobre o total sem aumento (1 800 × 1,2 = 2 160). A E exagera o crescimento, superando a soma correta da PG. Gabarito: D.",
   "hash": "5ba265c5bb85b15e",
@@ -413,7 +413,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-ppl-d2-q159": {
-  "assunto": "Geometria espacial: cilindro, planificação",
+  "assunto": "Geometria espacial: planificação do cilindro",
   "dificuldade": 5,
   "explicacao": "A questão pede como fica o bumbo depois de enrolada a faixa retangular da Figura 1, que cobre exatamente a superfície lateral. Na faixa, Z e X estão nos cantos esquerdos e Y no meio da borda direita; há um segmento de X a Y e outro de Z a Y. Ao enrolar, a borda esquerda encontra a borda direita, formando uma única costura vertical; assim, X (embaixo), Y (no meio) e Z (no alto) ficam alinhados nessa mesma vertical. Cada segmento percorre todo o comprimento da faixa, então dá exatamente uma volta completa no cilindro: o que parte de X sobe meia altura até Y, e o que parte de Z desce meia altura até Y, ambos chegando a Y pelo outro lado da costura. A figura que mostra X, Y e Z na mesma vertical, com cada linha dando uma única volta e chegando a Y de forma contínua, é a da alternativa A. A alternativa B não respeita a inclinação contínua das linhas ao longo da volta. A C não mostra a linha que liga Z a Y. A D coloca Y fora da vertical de X e Z. A E faz as linhas darem mais voltas do que o comprimento da faixa permite. Gabarito: A.",
   "hash": "f5660f102ca58bd5",

@@ -33,9 +33,11 @@ scripts/extrator/
   estado.py                  Atualiza a tabela "Estado por ano" da documentação
   explicar_manual.py         Colunas de IA (explicacao, dificuldade, assunto) escritas sem API
   assuntos.json              Assuntos gerais aceitos na coluna assunto, por matéria
+  padronizar_assuntos.py     Padrão de grafia do assunto específico (junta variantes do mesmo tema)
   explicacoes/               Cache das colunas de IA, por prova
 relatorios/GRAVACAO.md       Relatório da última gravação (status de cada prova)
 relatorios/REVISAR-IA.md     Explicações marcadas [REVISAR] pela IA (conferir com o PDF)
+relatorios/ASSUNTOS-PADRONIZACAO.md   Variantes de assunto unificadas (forma padrão e o que foi trocado)
 docs/USO-EXTRATOR.md         Guia completo do extrator
 ```
 

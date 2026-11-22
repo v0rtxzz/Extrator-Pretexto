@@ -1,6 +1,6 @@
 {
  "enem-2022-digital-d2-q100": {
-  "assunto": "Cinemática: lançamento horizontal, lançamento vertical",
+  "assunto": "Cinemática: lançamento horizontal e vertical",
   "dificuldade": 4,
   "explicacao": "A questão pede a altura que o jato alcançaria na vertical, usando o lançamento horizontal medido pelos colegas. Supomos que a água sai com a mesma velocidade v nos dois casos. Primeiro, no lançamento horizontal a 1 m de altura, o tempo de queda vem do movimento vertical: h = gt²/2, então 1 = 10t²/2, t² = 0,2 s² e t = √0,2 s. Na horizontal o movimento é uniforme: 3 = v × t, logo v = 3/√0,2 e v² = 9/0,2 = 45 m²/s². Agora, no lançamento vertical para cima, a altura máxima é H = v²/(2g) = 45/20 = 2,25 m. Também dá para ver direto: combinando as equações, H = d²/(4h) = 9/4 = 2,25 m. A alternativa A (1,50 m) não corresponde à combinação correta das equações. A alternativa C (4,00 m) e a D (4,50 m) resultam de erros como esquecer o fator 2 na fórmula da altura máxima, já que 45/10 = 4,5 m. A alternativa E (5,00 m) não decorre dos dados. Gabarito: B.",
   "hash": "d62ded29cb7b0187",
@@ -175,7 +175,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-digital-d2-q125": {
-  "assunto": "Genética: inativação do x, herança ligada ao sexo",
+  "assunto": "Genética: inativação do X, herança ligada ao sexo",
   "dificuldade": 4,
   "explicacao": "A questão pede a consequência da inativação aleatória do cromossomo X em mulheres heterozigotas para doenças recessivas ligadas ao sexo. A figura mostra que, no início do desenvolvimento, cada célula inativa ao acaso o X paterno ou o materno, e essa escolha é herdada pelas células-filhas. O resultado é um mosaico: em parte das células funciona o X com o alelo normal; em outra parte, o X com o alelo mutante. Como a proporção de células de cada tipo varia de mulher para mulher e de tecido para tecido, mulheres com o mesmo genótipo heterozigoto podem apresentar desde nenhum sintoma até manifestações parciais da doença. Essa variação no grau de manifestação de um mesmo genótipo é a expressividade variável. A alternativa A, pleiotropia, é um gene afetando várias características, o que não está em discussão. A alternativa B está errada porque a inativação não cria mutações novas. A alternativa C, interação gênica, envolve vários genes atuando em uma característica. A alternativa D, penetrância incompleta, refere-se a indivíduos que manifestam ou não o fenótipo, e não a graus diferentes de manifestação. Gabarito: E.",
   "hash": "2fea997837184759",
@@ -196,14 +196,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-digital-d2-q128": {
-  "assunto": "Eletrodinâmica: lei de ohm, resistência",
+  "assunto": "Eletrodinâmica: lei de Ohm, resistência",
   "dificuldade": 2,
   "explicacao": "A questão pede a ordem em que o aplicativo mostra as rotas, da menor para a maior resistência. Pela analogia com a lei de Ohm, R = U ÷ i, em que U é a d.d.p. e i é a corrente. Calculando para cada rota com os dados da tabela: rota 1: 510 ÷ 4 = 127,5; rota 2: 608 ÷ 4 = 152; rota 3: 575 ÷ 3 ≈ 191,7. Em ordem crescente de resistência: rota 1 (127,5), rota 2 (152) e rota 3 (191,7). Repare que a rota 3 tem d.d.p. menor que a rota 2, mas, como passa menos carros por segundo, sua resistência é a maior, sendo a mais congestionada. A alternativa B coloca a rota 3 antes da 2, o que só aconteceria olhando apenas a d.d.p. A alternativa C inverte as rotas 1 e 2, que têm a mesma corrente, mas a rota 2 tem maior d.d.p. A alternativa D põe a rota 3 em primeiro lugar, sendo ela a de maior resistência. A alternativa E apresenta a ordem decrescente, o inverso do que o aplicativo exibe. Gabarito: A.",
   "hash": "60328cd4738a4a45",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-digital-d2-q129": {
-  "assunto": "Equilíbrio químico: ph, ciclo do nitrogênio",
+  "assunto": "Equilíbrio químico: pH, ciclo do nitrogênio",
   "dificuldade": 4,
   "explicacao": "A questão pede qual espécie do ciclo do nitrogênio é favorecida em um solo de pH mais baixo, efeito da chuva ácida. Diminuir o pH significa aumentar a concentração de íons H⁺. No esquema, a amonificação produz amônia (NH₃) e amônio (NH₄⁺), que estão em equilíbrio: NH₃ + H⁺ ⇌ NH₄⁺. Pelo princípio de Le Chatelier, o excesso de H⁺ desloca o equilíbrio para a direita, favorecendo a formação do íon amônio. Além disso, a amônia é uma base, e em meio ácido ela é protonada. Por isso a alternativa C está correta. A alternativa A está errada porque o N₂ é produzido pela desnitrificação bacteriana, processo que não é favorecido diretamente pela acidez. A alternativa B erra porque o NH₃ é justamente consumido pelo H⁺ em meio ácido. A alternativa D erra porque a formação de nitrito depende da nitrificação bacteriana, que tende a ser prejudicada em solos ácidos. A alternativa E erra pelo mesmo motivo: o nitrato vem da nitrificação, e não é favorecido pelo aumento de H⁺. Gabarito: C.",
   "hash": "fc30be5c41034d98",
@@ -511,7 +511,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-digital-d2-q174": {
-  "assunto": "Geometria espacial: volume do cilindro, esfera",
+  "assunto": "Geometria espacial: volume do cilindro e da esfera",
   "dificuldade": 3,
   "explicacao": "A questão pede quantas esferas de 1 cm de diâmetro podem ser feitas com o metal de um cilindro de raio 4 cm e altura 50 cm. Como não há perda, igualamos volumes. Cilindro: V = πr²h = π × 4² × 50 = 800π cm³. Cada esfera tem raio 0,5 cm: V = (4/3)πr³ = (4/3)π × (0,5)³ = (4/3)π × 1/8 = π/6 cm³. Número de esferas: 800π ÷ (π/6) = 800 × 6 = 4 800. A alternativa A (800) divide o volume do cilindro por π, como se cada esfera tivesse volume π. A alternativa B (1 200) aparece ao usar 2/3 em vez de 4/3 com raio errado. A alternativa C (2 400) resulta de calcular o volume da esfera com fator 2 a mais, por exemplo π/3. A alternativa E (6 400) vem de erros na fórmula, como usar o diâmetro do cilindro no lugar do raio sem ajustar as outras grandezas. Gabarito: D.",
   "hash": "88b90a3f7367dc71",
@@ -595,7 +595,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-digital-d2-q96": {
-  "assunto": "Eletrodinâmica: associação de geradores, lei de ohm",
+  "assunto": "Eletrodinâmica: associação de geradores, lei de Ohm",
   "dificuldade": 4,
   "explicacao": "A questão pede qual associação de duas baterias de 12 V causou parada respiratória em alguém com a pele molhada. Pelo quadro, a parada respiratória ocorre com corrente entre 20 mA e 100 mA. Com pele molhada, a resistência é cerca de 1 kΩ. Pela lei de Ohm, i = U/R. Se a tensão entre A e B for 12 V, i = 12/1 000 = 12 mA, que só causa aumento das contrações. Se for 24 V, i = 24/1 000 = 24 mA, faixa da parada respiratória. Logo, é preciso uma associação em série em que as tensões se somem, com o polo negativo de uma bateria ligado ao positivo da outra. É o caso de A: de A sai o polo positivo da primeira bateria, o negativo dela se liga ao positivo da segunda, e o negativo da segunda vai a B, totalizando 24 V. Em B, as baterias estão em série mas em oposição (negativo com negativo), e a tensão resultante é 0 V. Em C, a ligação cruzada não produz 24 V entre A e B. Em D, as baterias também estão em oposição (positivo com positivo), resultando em 0 V. Em E, a ligação é em paralelo, mantendo 12 V e 12 mA. Gabarito: A.",
   "hash": "d0c5c62987895780",

@@ -322,7 +322,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-digital-d2-q146": {
-  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
   "dificuldade": 1,
   "explicacao": "A questão pede o intervalo em que o gráfico mostra aumento da população brasileira. A curva tem uma parte cheia, dados reais de 1950 a 2010, e uma parte tracejada, a projeção até 2050. Leitura: a população sai de cerca de 50 milhões em 1950 e cresce continuamente até 2010, perto de 190 milhões. A projeção continua subindo, cada vez mais devagar, até atingir o máximo por volta de 2040, cerca de 220 milhões. Depois disso, a curva começa a descer, chegando a aproximadamente 210 milhões em 2050. Portanto, a população aumenta de 1950 até 2040, que é o ponto de máximo, e diminui de 2040 a 2050. Isso reflete a queda da fecundidade e o envelhecimento da população. A alternativa A considera só a parte cheia, mas a projeção também mostra crescimento até 2040. A C erra porque inclui o trecho final, de queda. A D ignora o crescimento observado de 1950 a 2010. A E é justamente o intervalo de redução. Gabarito: B.",
   "hash": "50e9a6cf142ec773",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-digital-d2-q150": {
-  "assunto": "Geometria plana: área de retângulos",
+  "assunto": "Geometria plana: área do retângulo",
   "dificuldade": 3,
   "explicacao": "A questão pede a área total das unidades habitacionais de um prédio de 12 pavimentos num lote de 22 m por 26 m, com afastamentos obrigatórios. A frente fica no lado menor, de 22 m. Largura do prédio: descontam-se 4 m de cada lateral, 22 − 4 − 4 = 14 m. Profundidade: descontam-se 5 m na frente e 3 m no fundo, 26 − 5 − 3 = 18 m. Área de cada pavimento: 14 × 18 = 252 m². Retirando a área comum de 32 m², sobram 252 − 32 = 220 m² para unidades habitacionais em cada andar. Nos 12 pavimentos: 220 × 12 = 2 640 m². A alternativa B, 3 024, é 252 × 12, esquecendo de descontar a área comum. A C, 3 840, resulta de aplicar os afastamentos de forma errada. A D, 6 480, usa a área total do lote menos a área comum, (572 − 32) × 12, ignorando os afastamentos. A E, 6 864, é a área do lote inteiro multiplicada por 12, sem nenhum desconto. Gabarito: A.",
   "hash": "ed5d811c0227c4cd",
@@ -392,7 +392,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-digital-d2-q156": {
-  "assunto": "Probabilidade: combinações, loterias",
+  "assunto": "Probabilidade: combinações, loteria",
   "dificuldade": 4,
   "explicacao": "A questão pede qual jogo dá maior probabilidade de ganhar gastando no máximo R$ 2,00. Com esse valor, o número de cartões possíveis varia: jogos de R$ 1,00 permitem 2 cartões; o de R$ 1,50 e os de R$ 2,00 permitem apenas 1. A probabilidade é o número de cartões dividido por C. Jogo I: 1/8 145 060. Jogo II: 2/15 890 700 = 1/7 945 350. Jogo III: 1/5 461 512. Jogo IV: 2/50 063 860 = 1/25 031 930. Jogo V: 1/2 118 760. A maior probabilidade corresponde ao menor denominador, que é o do jogo V, 2 118 760. A alternativa A só permite um cartão e tem C muito maior. A alternativa B, mesmo com dois cartões, fica com chance de cerca de 1 em 7,9 milhões. A alternativa C tem C maior que o do jogo V. A alternativa D tem a menor chance de todas. Gabarito: E.",
   "hash": "0b822c64ca38172b",

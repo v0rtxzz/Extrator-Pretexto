@@ -63,7 +63,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q10": {
-  "assunto": "Brasil Colônia: conjuração baiana, inconfidência mineira",
+  "assunto": "Brasil Colônia: Conjuração Baiana, Inconfidência Mineira",
   "dificuldade": 3,
   "explicacao": "A questão pede a diferença entre a Conjuração Baiana (1798) e a Inconfidência Mineira (1789). O texto diz que, em Minas, o projeto atacou a condição da integração subordinada da colônia, ou seja, o domínio português. Já na Bahia a sedição “avançou sobre a sua decorrência”: além da ruptura com Portugal, questionou a estrutura social produzida pela colonização, especialmente a escravidão. A Conjuração Baiana, também chamada Revolta dos Alfaiates, teve forte participação de negros, mulatos, escravizados e libertos, e defendia a igualdade e o fim da escravidão. Os inconfidentes mineiros, em geral membros da elite, não propunham a abolição. Por isso, a diferença está na pretensão de abolir a escravidão africana. A alternativa A erra porque a hierarquia militar não era o eixo dos movimentos. A alternativa C aponta algo comum às duas sedições, e não a diferença. A alternativa D exagera, pois nenhuma delas propôs acabar com a propriedade da terra. A alternativa E também não diferencia, já que ambas tinham inspiração republicana. Gabarito: B.",
   "hash": "9ba33ee59fbe729e",
@@ -77,7 +77,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q12": {
-  "assunto": "Geopolítica e conflitos: mar da china meridional",
+  "assunto": "Geopolítica e conflitos: mar da China meridional",
   "dificuldade": 2,
   "explicacao": "A questão pede o foco do conflito provocado pela instalação de uma plataforma petrolífera chinesa em águas contestadas do Mar da China Meridional. O texto diz que Pequim quis demonstrar que pode impor seu controle e dissuadir Vietnã e Filipinas de reivindicar direitos de exploração dessas águas. O ponto central é a disputa sobre quem tem autoridade sobre aquele espaço marítimo, ou seja, sobre quem exerce soberania territorial e, portanto, pode explorar seus recursos, como petróleo e pesca. Por isso, o conflito tem como foco a jurisdição da soberania territorial. A alternativa A erra porque zonas econômicas especiais são áreas criadas pela própria China para atrair investimentos estrangeiros, sem relação com a disputa marítima. A alternativa B não procede, pois o conflito não envolve controle de tecnologia. A alternativa C desloca o foco para o comércio, quando a questão é o domínio do território. A alternativa E fala de embargo industrial, que não aparece no texto. Gabarito: D.",
   "hash": "8ce9f61971e78599",
@@ -98,7 +98,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q15": {
-  "assunto": "Meios de comunicação e indústria cultural: escola de frankfurt",
+  "assunto": "Meios de comunicação e indústria cultural: Escola de Frankfurt",
   "dificuldade": 4,
   "explicacao": "A questão pede como Adorno e Horkheimer avaliam a liberdade de escolha na civilização ocidental. O texto, sobre a indústria cultural, diz que todos são livres para se divertir e escolher entre inúmeras opções, mas que essa liberdade, condicionada pela coerção econômica, revela-se como “a liberdade de escolher o que é sempre a mesma coisa”. Ou seja, a indústria cultural padroniza produtos e oferece apenas variações superficiais, dando ao consumidor a sensação de escolher, enquanto ele apenas reproduz o que o mercado já determinou. A liberdade é, portanto, aparente: uma ilusão da sociedade contemporânea. A alternativa A erra porque os autores não tratam a liberdade como herança social positiva. A alternativa B também falha, pois não há valorização da liberdade como patrimônio político. A alternativa C não procede, já que o texto liga a escolha à coerção econômica, e não à moral. A alternativa D contradiz a crítica dos autores, que negam que essa liberdade seja uma conquista real. Gabarito: E.",
   "hash": "76f75cef0229c647",
@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q18": {
-  "assunto": "Questões ambientais: protocolo de quioto, créditos de carbono",
+  "assunto": "Questões ambientais: Protocolo de Quioto, créditos de carbono",
   "dificuldade": 3,
   "explicacao": "A questão pede o argumento de quem critica a estratégia de compensação do Protocolo de Quioto, isto é, o mercado de créditos de carbono. Pelo texto, países ou empresas que reduzirem emissões abaixo da meta podem vender créditos a quem não conseguiu reduzir. A crítica é que, assim, os países ricos e as grandes empresas poluidoras podem simplesmente pagar para continuar poluindo, enquanto a redução fica a cargo de outros, muitas vezes países mais pobres. O problema ambiental não se resolve de forma justa: quem mais poluiu historicamente compra o direito de seguir poluindo, e os efeitos e esforços se distribuem de maneira desigual. Por isso, a estratégia promove desigualdade na distribuição do impacto ecológico. A alternativa A erra porque o mecanismo justamente permite manter o consumo. A alternativa B não procede, pois a crítica não gira em torno de conflitos diplomáticos. A alternativa C contradiz o texto, que apresenta os créditos como forma de reduzir custos. A alternativa E também falha, já que o objetivo do mecanismo é evitar perdas econômicas. Gabarito: D.",
   "hash": "687f7fbdca36dbc4",
@@ -133,7 +133,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q20": {
-  "assunto": "Filosofia moderna: descartes, racionalismo",
+  "assunto": "Filosofia moderna: racionalismo, Descartes",
   "dificuldade": 2,
   "explicacao": "A questão pede como Descartes, em sua busca pelo saber verdadeiro, entende o conhecimento. No trecho, ele afirma que não nos tornamos matemáticos apenas memorizando demonstrações alheias, nem filósofos apenas lendo Platão e Aristóteles, se não formos capazes de resolver problemas e formular juízos sólidos por nós mesmos. Caso contrário, teríamos aprendido apenas “histórias”, e não ciências. Para Descartes, fundador do racionalismo moderno, o conhecimento verdadeiro nasce do uso da própria razão, de um sujeito que pensa por si, duvida, examina e julga. É a autonomia do sujeito pensante. A alternativa A erra porque Descartes é racionalista, e não empirista; a experiência sensível não é a base do saber para ele. A alternativa B contradiz o texto, que critica justamente a mera repetição da tradição. A alternativa C também é oposta ao trecho, que rejeita conhecimentos impostos. A alternativa E desloca o tema para a ética, enquanto o texto trata do conhecimento. Gabarito: D.",
   "hash": "c864b8e1ccdbe8e0",
@@ -168,7 +168,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q25": {
-  "assunto": "Ética: princípio responsabilidade, hans jonas",
+  "assunto": "Ética: princípio responsabilidade, Hans Jonas",
   "dificuldade": 4,
   "explicacao": "A questão pede o objetivo do novo padrão de comportamento sugerido pelas implicações éticas do texto de Hans Jonas. O autor afirma que a promessa da tecnologia moderna virou ameaça: o domínio da natureza, levado ao extremo, alcançou a própria natureza humana e criou um desafio inédito, para o qual a ética tradicional não tem respostas. Jonas propõe, por isso, o princípio da responsabilidade, cujo imperativo central é agir de modo que os efeitos da ação sejam compatíveis com a permanência de uma vida humana autêntica na Terra. Como o poder tecnológico produz efeitos de longo prazo e em escala planetária, a ética precisa considerar quem ainda não nasceu. O objetivo é, portanto, garantir a sobrevivência das gerações futuras. A alternativa A erra porque Jonas critica justamente o foco no indivíduo e no imediato. A C não tem relação com o texto, que não discute liberalismo político. A D e a E tratam de temas sociais legítimos, mas alheios à ameaça tecnológica descrita. Gabarito: B.",
   "hash": "2d0ef63a3e1aee2d",
@@ -203,7 +203,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q30": {
-  "assunto": "Biomas e vegetação: cerrado, fronteira agrícola",
+  "assunto": "Biomas e vegetação: Cerrado, fronteira agrícola",
   "dificuldade": 2,
   "explicacao": "A questão pede a causa da necessidade de conservar o Cerrado, classificado como hotspot de biodiversidade, isto é, área de alta riqueza biológica muito ameaçada por ações humanas. Desde os anos 1970, o Cerrado foi o principal palco da expansão da fronteira agrícola brasileira: a correção da acidez dos solos, a mecanização e o apoio estatal permitiram grandes monoculturas de soja, milho e algodão, além da pecuária extensiva. Esse avanço retirou boa parte da vegetação nativa, fragmentou habitats e ameaça numerosas espécies endêmicas, justificando o esforço prioritário de conservação. A alternativa A erra porque o turismo é atividade pontual e de impacto bem menor. A B é contraditória, pois parques ecológicos são instrumentos de proteção, não de ameaça. A C aponta um impacto real, mas localizado, que não explica a devastação em larga escala. A D também é secundária; o extrativismo vegetal não é o principal vetor de desmatamento no bioma. Gabarito: E.",
   "hash": "7b150e597f21d5da",
@@ -217,7 +217,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q32": {
-  "assunto": "Teoria sociológica: durkheim, fato social",
+  "assunto": "Teoria sociológica: Durkheim, fato social",
   "dificuldade": 3,
   "explicacao": "A questão pede em que base Durkheim pretende construir a sociologia. No texto, o autor critica a sociologia de seu tempo por ainda estar presa a construções e sínteses filosóficas, com generalidades brilhantes, intuições rápidas e generalizações apressadas que não admitem prova. Ele defende, ao contrário, o estudo de parcelas restritas do social, com exame cuidadoso e possibilidade de comprovação. Isso corresponde ao projeto durkheimiano de tratar os fatos sociais como coisas, com objetividade, observação e método, isto é, adotar padrões de investigação semelhantes aos das ciências naturais. O próprio livro O suicídio exemplifica isso com o uso de estatísticas. A alternativa A é o oposto do que Durkheim propõe, pois ele quer separar a sociologia da filosofia. A B contraria a crítica às intuições rápidas. A C contraria a busca de objetividade. A E é estranha ao texto, que não fala de engajamento político. Gabarito: D.",
   "hash": "fd2458b6e531be85",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q37": {
-  "assunto": "Filosofia contemporânea: niilismo, nietzsche",
+  "assunto": "Filosofia contemporânea: niilismo, Nietzsche",
   "dificuldade": 5,
   "explicacao": "A questão pede por que o trecho de Assim falou Zaratustra traduz uma compreensão do niilismo. O texto descreve homens tomados por grande tristeza, cansados de suas obras, repetindo a crença de que tudo é oco, tudo é igual, tudo passou; o trabalho foi inútil, o vinho virou veneno, as fontes secaram. Essa alegoria representa a perda de sentido dos valores tradicionais da cultura ocidental, que Nietzsche associa à morte de Deus e ao esgotamento da metafísica e da moral cristã. O niilismo é, assim, o sintoma de uma civilização em declínio, que já não encontra fundamentos para criar e viver. O texto destaca, portanto, a decadência da cultura. A alternativa A erra porque não há exaltação da liberdade, mas desânimo. A B é vaga e não explica o tom de esvaziamento. A C introduz economia, tema estranho ao trecho. A E capta um efeito emocional, mas o texto fala de cansaço e vazio, não de ansiedade. Gabarito: D.",
   "hash": "a03293a2b3a19ef5",
@@ -336,14 +336,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q49": {
-  "assunto": "Ondulatória: efeito doppler",
+  "assunto": "Ondulatória: efeito Doppler",
   "dificuldade": 4,
   "explicacao": "A questão aborda o efeito Doppler e pede o gráfico da frequência percebida pelo observador em repouso enquanto a ambulância se aproxima, passa por ele e se afasta. Quando a fonte se aproxima, as frentes de onda chegam comprimidas ao observador, e a frequência percebida é maior que f_A. Como a velocidade da ambulância é constante, essa frequência maior permanece praticamente constante durante a aproximação. Ao passar pelo observador, a frequência cai, e durante o afastamento as frentes chegam espaçadas, de modo que a frequência percebida fica constante e menor que f_A. O gráfico correto, portanto, começa num patamar acima de f_A, desce na passagem e termina num patamar abaixo de f_A, que é o esboço da alternativa D. A alternativa A mostra oscilação periódica, que não ocorre. A B mostra a frequência subindo e voltando a f_A, sem nunca ficar abaixo. A C inverte o fenômeno, com frequência menor na aproximação e maior no afastamento. A E ignora o efeito Doppler, mantendo a frequência sempre igual a f_A. Gabarito: D.",
   "hash": "25b35b33e15e703b",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q50": {
-  "assunto": "Termoquímica: lei de hess",
+  "assunto": "Termoquímica: lei de Hess",
   "dificuldade": 4,
   "explicacao": "A questão pede a variação de entalpia da trimerização 3 C₂H₂(g) → C₆H₆(l) a partir das entalpias de combustão, aplicando a lei de Hess. Precisamos combinar as equações dadas para obter a reação desejada. Multiplicamos a equação I por 3, pois são necessários 3 mols de acetileno: 3 C₂H₂ + 15/2 O₂ → 6 CO₂ + 3 H₂O, com ΔH = 3 × (−310) = −930 kcal. Em seguida, invertemos a equação II para que o benzeno apareça como produto: 6 CO₂ + 3 H₂O → C₆H₆ + 15/2 O₂, com ΔH = +780 kcal. Somando as duas, O₂, CO₂ e H₂O se cancelam e resta 3 C₂H₂ → C₆H₆. Logo, ΔH = −930 + 780 = −150 kcal por mol de benzeno. A alternativa A soma −310 e −780 sem ajustar coeficientes nem inverter a equação. A C não corresponde a nenhuma combinação correta. A D e a E têm sinal positivo, mas a combustão do acetileno libera mais energia que a do benzeno, então a reação é exotérmica. Gabarito: B.",
   "hash": "2cb1a732384d4abb",
@@ -392,14 +392,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q57": {
-  "assunto": "Ondulatória: eco, efeito doppler",
+  "assunto": "Ondulatória: eco, efeito Doppler",
   "dificuldade": 4,
   "explicacao": "A questão pede como o morcego, parado, percebe uma mariposa que se afasta em movimento retilíneo uniforme. Três grandezas do eco mudam. Primeiro, a intensidade: com a mariposa mais distante, a onda se espalha por uma área maior na ida e na volta, e o eco chega mais fraco; logo, a intensidade diminui. Segundo, o tempo de retorno: como o som precisa percorrer uma distância cada vez maior, o eco demora mais para voltar; o tempo aumenta. Terceiro, a frequência: pelo efeito Doppler, quando o refletor se afasta, as frentes de onda refletidas chegam mais espaçadas, e a frequência percebida diminui. A combinação correta é intensidade diminuída, tempo de retorno aumentado e frequência diminuída. A alternativa B descreve uma presa se aproximando, quanto à intensidade e ao tempo. A C mistura tempo diminuído e frequência aumentada, típicos de aproximação. A D acerta intensidade e tempo, mas erra o Doppler. A E erra intensidade e frequência. Gabarito: A.",
   "hash": "a8fcb74c62fb2f75",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q58": {
-  "assunto": "Estequiometria: rendimento, reagente limitante",
+  "assunto": "Estequiometria: reagente limitante, rendimento",
   "dificuldade": 3,
   "explicacao": "A questão pede o rendimento molar da obtenção de metanol, definido como o número de mols de produto obtido dividido pelo número de mols de reagente limitante, multiplicado por 100. A equação CH₃Br + NaOH → CH₃OH + NaBr tem proporção 1 : 1 : 1 : 1. Calculamos as massas molares: CH₃Br = 12 + 3 + 80 = 95 g/mol; NaOH = 23 + 16 + 1 = 40 g/mol; CH₃OH = 12 + 4 + 16 = 32 g/mol. Agora os mols: CH₃Br = 142,5 ÷ 95 = 1,5 mol; NaOH = 80 ÷ 40 = 2,0 mol. Como a proporção é 1 : 1, o reagente limitante é o brometo de metila, com 1,5 mol. O metanol obtido foi 32 ÷ 32 = 1,0 mol. Então R = (1,0 ÷ 1,5) × 100 ≈ 66,7%, ou seja, cerca de 67%. A alternativa A pode surgir de usar massas em vez de mols. A B não corresponde a nenhuma razão correta. A C resulta de usar o NaOH, que está em excesso, como referência: 1 ÷ 2 = 50%. A E não decorre do cálculo. Gabarito: D.",
   "hash": "aa2b509a62550d26",
@@ -434,14 +434,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q63": {
-  "assunto": "Cinemática: muv, gráficos, torricelli",
+  "assunto": "Cinemática: MUV, gráficos, Torricelli",
   "dificuldade": 4,
   "explicacao": "A questão pede o gráfico da velocidade em função da distância percorrida durante uma freada com duas etapas. Na primeira, o tempo de reação, o motorista ainda não acionou os freios e o carro mantém velocidade constante; no gráfico, isso é um trecho horizontal. Na segunda, os freios produzem desaceleração constante. Pela equação de Torricelli, v² = v₀² − 2a·d, ou seja, v = √(v₀² − 2a·d): a velocidade não cai linearmente com a distância, mas segundo uma curva, que desce devagar no início e cada vez mais rápido perto de parar, chegando a zero com inclinação acentuada. O gráfico que combina patamar horizontal seguido dessa curva descendente é o da alternativa D. A alternativa A ignora a etapa de reação e usa queda linear. A B tem o patamar correto, mas a queda linear só valeria para velocidade em função do tempo, não da distância. A C acerta o formato da curva, mas omite o trecho de velocidade constante. A E mostra a velocidade partindo de zero e aumentando, o que não corresponde à situação. Gabarito: D.",
   "hash": "33ad6147876b6b9f",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d1-q64": {
-  "assunto": "Eletroquímica: pilhas, potencial padrão",
+  "assunto": "Eletroquímica: potencial padrão, pilhas",
   "dificuldade": 3,
   "explicacao": "A questão pede quantas biocélulas de acetato em série são necessárias para obter 4,4 V. Primeiro calculamos a diferença de potencial de uma célula. O texto informa duas semirreações de redução: a do CO₂ formando acetato, com E°' = −0,3 V, e a do O₂ formando água, com E°' = +0,8 V. Numa pilha, sofre redução, no cátodo, a espécie de maior potencial, o O₂; a semirreação de menor potencial ocorre no sentido inverso, como oxidação do acetato a CO₂, no ânodo, coerente com as bactérias oxidando o substrato. A ddp é ΔE = E°cátodo − E°ânodo = 0,8 − (−0,3) = 1,1 V. Em série, as tensões se somam: n × 1,1 V = 4,4 V, logo n = 4,4 ÷ 1,1 = 4 células. A alternativa A daria apenas 3,3 V, insuficiente. A C resultaria de usar 0,8 − 0,3 = 0,5 V e arredondar de modo errado, ou de outro erro de sinal. A D e a E também partem de ddp calculadas incorretamente, como somar ou subtrair os valores com sinais trocados. Gabarito: B.",
   "hash": "a6dc1b9be7641c62",

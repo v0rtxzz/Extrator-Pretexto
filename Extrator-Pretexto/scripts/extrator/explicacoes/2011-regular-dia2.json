@@ -91,14 +91,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d2-q113": {
-  "assunto": "Literatura brasileira: Manuel Bandeira, Modernismo",
+  "assunto": "Literatura brasileira: Modernismo, Manuel Bandeira",
   "dificuldade": 3,
   "explicacao": "A questão pede para onde aponta o contraste entre campo e cidade no poema Estrada, de Manuel Bandeira. O eu lírico prefere a estrada da roça à avenida urbana, pois ali cada criatura é única. A vida rural parece calma, quase parada, mas tudo tem “caráter impressivo que faz meditar”: um enterro a pé, a carrocinha de leite e o murmúrio da água, que sugere “Que a vida passa! que a vida passa! / E que a mocidade vai acabar”. Assim, a observação da aparente inércia rural leva à percepção da efemeridade da vida. A alternativa A inverte a preferência do eu lírico, que valoriza a estrada. A C restringe a meditação à juventude e fala em opção pelo bucólico, sem captar o tema central da passagem do tempo. A D e a E exageram o tom: o poema constata a fugacidade com serenidade, sem insegurança nem medo da morte. Gabarito: B.",
   "hash": "2996a2366b37b1c2",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d2-q114": {
-  "assunto": "Artes visuais: cubismo, Picasso",
+  "assunto": "Artes visuais: Cubismo, Picasso",
   "dificuldade": 3,
   "explicacao": "A questão pede as características plásticas de Guernica, de Picasso. A imagem mostra um grande painel em tons de preto, branco e cinza, com figuras fragmentadas e simbólicas: o cavalo agonizante, a mãe com o filho morto, a lâmpada em forma de olho, o braço com a lamparina, a figura que grita com os braços erguidos. Os planos se sobrepõem e várias dimensões do bombardeio aparecem ao mesmo tempo, sem perspectiva realista, voltadas frontalmente ao espectador. Por isso é um painel ideográfico, monocromático, que renuncia à representação fiel da realidade. A alternativa B erra ao falar em forma fotográfica e perspectiva clássica, recusadas pelo cubismo. A C diz que a obra é sem emoção, quando expressa dor intensa. A D fala em minimizar a dor humana, o oposto da obra. A E repete o erro do caráter fotográfico e da ausência de sentimento. Gabarito: A.",
   "hash": "b07756186247a082",
@@ -511,7 +511,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d2-q173": {
-  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
   "dificuldade": 1,
   "explicacao": "A questão pede o período de queda da participação do agronegócio no PIB, antes da recuperação. No gráfico de linha, os valores crescem de 1998 (21,33%) até 2003 (28,28%), que é o ponto máximo. A partir daí, caem: 27,79% em 2004, 25,83% em 2005 e 23,92% em 2006, o ponto mínimo desse trecho. Depois, voltam a subir: 24,74% em 2007 e 26,46% em 2008. Logo, a queda ocorreu entre 2003 e 2006. A alternativa A é um período de crescimento. A alternativa B também é um período de alta. A alternativa D inclui 2007, ano em que já há recuperação. A alternativa E inclui 2007 e 2008, anos de alta. Gabarito: C.",
   "hash": "0d58f4ef094f6154",
@@ -553,7 +553,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d2-q179": {
-  "assunto": "Função afim: funções definidas por partes",
+  "assunto": "Função afim: função definida por partes",
   "dificuldade": 4,
   "explicacao": "A questão pede o gráfico que representa o valor pago nos planos K e Z em função dos minutos. Plano K: R$ 29,90 fixos até 200 minutos e depois R$ 0,20 por minuto excedente. Plano Z: R$ 49,90 fixos até 300 minutos e depois R$ 0,10 por minuto. Calculando K em 300 minutos: 29,90 + 100 × 0,20 = 49,90, o mesmo valor de Z. Assim, o gráfico de K é horizontal até 200 e sobe com inclinação maior a partir daí; o de Z é horizontal até 300 e sobe mais devagar depois. As linhas se encontram em (300; 49,90) e, depois disso, K fica acima de Z. O gráfico da alternativa D mostra exatamente isso. A alternativa A coloca K sempre abaixo de Z, sem encontro. A alternativa B faz Z subir a partir de 200 minutos. A alternativa C faz as duas linhas coincidirem depois de 300. A alternativa E faz K subir só depois de 300 minutos. Gabarito: D.",
   "hash": "f9b6da9cc350902e",

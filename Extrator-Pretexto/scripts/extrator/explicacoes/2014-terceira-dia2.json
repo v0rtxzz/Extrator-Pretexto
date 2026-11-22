@@ -112,7 +112,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q116": {
-  "assunto": "Gramática: formação de palavras, neologismo",
+  "assunto": "Gramática: neologismo, formação de palavras",
   "dificuldade": 2,
   "explicacao": "A questão pede o processo de formação das palavras desmoçou e deslimites, do poema de Manoel de Barros. As duas não existem no dicionário: foram criadas pelo poeta com o prefixo des-, que indica negação ou retirada. Desmoçar é deixar de ser moça, perder a virgindade; deslimites é a ausência de limites. Criar palavras novas é o neologismo, recurso típico de Manoel de Barros e de Guimarães Rosa, que exploram a liberdade da linguagem poética. O próprio poema diz que só as palavras continuam com seus deslimites. Por isso a alternativa B está correta. A alternativa A erra porque as palavras são formadas com elementos do próprio português, não vêm de outra língua. A C fala de arcaísmo, mas não se trata de termos antigos em desuso. A D fala de brasileirismo, termo próprio do português do Brasil já dicionarizado. A E menciona jargão profissional, que não tem relação com o poema. Gabarito: B.",
   "hash": "3306c898bc88ba9f",
@@ -217,7 +217,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q131": {
-  "assunto": "Literatura brasileira: pré-modernismo, Lima Barreto",
+  "assunto": "Literatura brasileira: Pré-Modernismo, Lima Barreto",
   "dificuldade": 4,
   "explicacao": "A questão pede o sentido da expressão \"tirania doméstica\" para descrever o governo de Floriano Peixoto no romance de Lima Barreto. O narrador compara o Estado a uma casa: quem se comporta mal, como um bebê, leva castigo, só que, em escala nacional, o castigo vira prisão e morte para quem faz oposição. Na economia, faltando dinheiro, emitem-se mais notas, como se põe mais água na sopa quando chegam visitas. O presidente age como um chefe de família autoritário, que decide tudo, pune os desobedientes e administra o país como o orçamento de casa. Esse modelo é patriarcal, tanto na política quanto na economia, como afirma a alternativa D. A alternativa A erra porque o regime era intervencionista e punitivo, não omisso. A B confunde: infantilizados são os governados, tratados como crianças. A C fala de nepotismo, que o texto não menciona. A E erra porque a imagem é de pai autoritário, e não de líder populista. Gabarito: D.",
   "hash": "b235017da3889b9e",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q150": {
-  "assunto": "Grandezas e medidas: área, conversão de unidades",
+  "assunto": "Grandezas e medidas: conversão de unidades de área",
   "dificuldade": 2,
   "explicacao": "A questão pede o número de peças de cerâmica de 20 cm × 20 cm para 100 mil casas de 45 m². Primeiro, a área de uma peça: 20 cm = 0,2 m, então 0,2 × 0,2 = 0,04 m². Peças por casa: 45 ÷ 0,04 = 1 125 peças. Para 100 mil casas: 1 125 × 100 000 = 112 500 000 peças, ou seja, 112 500 mil. Essa é a alternativa E. A alternativa A, 11,25 mil, erra a conversão de unidades e a multiplicação pelo total de casas. A B, 180 mil, não corresponde a nenhuma conta coerente com os dados. A C, 225 mil, provavelmente vem de usar 20 cm como área ou de outro erro de conversão. A D, 22 500 mil, resulta de dividir 45 por 0,2, esquecendo de elevar ao quadrado o lado da peça. Gabarito: E.",
   "hash": "c8ddefa279a885f5",
@@ -539,7 +539,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q177": {
-  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 4,
   "explicacao": "A questão pede quantos dias faltam para o aluno completar pelo menos 272 exercícios. O número de exercícios por dia forma uma PA de razão 2. No 11º dia ele resolveu 22, então a₁₁ = a₁ + 10 × 2 = 22, o que dá a₁ = 2. A sequência é 2, 4, 6, ..., e a soma dos n primeiros termos é Sₙ = (2 + 2n)·n/2 = n(n + 1). Queremos n(n + 1) ≥ 272. Testando: 16 × 17 = 272. Logo, ele atinge a meta exatamente no 16º dia. Como já completou 11 dias, faltam 16 − 11 = 5 dias, alternativa A. Conferindo: até o 11º dia, S₁₁ = 11 × 12 = 132; nos dias 12 a 16 ele resolve 24 + 26 + 28 + 30 + 32 = 140; total 272. A alternativa B, 6, passaria da meta sem necessidade. A C, 9, não sai do cálculo. A D, 16, é o total de dias, não os dias restantes. A E, 20, não corresponde a nenhuma conta correta. Gabarito: A.",
   "hash": "e900499a653b37dc",
@@ -651,7 +651,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-terceira-d2-q98": {
-  "assunto": "Artes visuais: dadaísmo",
+  "assunto": "Artes visuais: Dadaísmo",
   "dificuldade": 3,
   "explicacao": "A questão relaciona a obra O gigante acéfalo, de Max Ernst, ao Dadaísmo. O enunciado lembra que o movimento nasceu do choque com a Primeira Guerra Mundial e rejeitava os valores tradicionais e a estética clássica. Os dadaístas montavam imagens absurdas e ilógicas, muitas vezes com colagens e fragmentos, para recriar a realidade de forma desconcertante. Um gigante sem cabeça já anuncia isso: uma figura deformada, que nega as proporções e a harmonia exigidas pela arte acadêmica. A obra recria o real para atacar os padrões estéticos vigentes, como afirma a alternativa B. A alternativa A erra porque o Dadaísmo não busca explicar a racionalidade, mas expor o absurdo. A C descreve melhor o Cubismo ou o abstracionismo geométrico. A D fala em exaltação individual, o oposto da perplexidade dadaísta. A E tem um tom sentimental que não combina com a ironia e a provocação do movimento. Gabarito: B.",
   "hash": "778ddd1273b33fd2",

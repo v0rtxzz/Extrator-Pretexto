@@ -322,7 +322,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-ppl-d2-q146": {
-  "assunto": "Função afim: função linear, gráfico",
+  "assunto": "Função afim: função linear e gráfico",
   "dificuldade": 2,
   "explicacao": "A questão pede a relação entre o desperdício y, em litros, e o tempo x, em dias. O gráfico é uma reta que passa pela origem (0, 0) e pelo ponto (10, 600). Por passar pela origem, a função é linear, da forma y = ax. A taxa é a = 600 ÷ 10 = 60 litros por dia. Confirmando com outro ponto: em x = 5, y = 300, e 60 × 5 = 300. Logo, y = 60x, alternativa C. A alternativa A e a B usam taxas de 2 e ½ litros por dia, muito menores que o gráfico. A D e a E têm termo independente, o que faria a reta não passar pela origem; além disso, a E tem taxa 80, incompatível. Gabarito: C.",
   "hash": "d76ed56714d1bd58",
@@ -392,7 +392,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-ppl-d2-q156": {
-  "assunto": "Função afim: taxa de variação, gráfico",
+  "assunto": "Função afim: taxa de variação em gráfico",
   "dificuldade": 3,
   "explicacao": "A questão pede o consumo de sacolas em 2011, de acordo com o gráfico. A reta liga o ponto (0, 18), que representa 18 bilhões de sacolas em 2007, ao ponto (9, 0), que representa o fim das sacolas em 2016. A taxa de variação é (0 − 18) ÷ (9 − 0) = −2, ou seja, o consumo cai 2 bilhões por ano. A função é y = 18 − 2x, com x em anos após 2007. Em 2011, x = 4: y = 18 − 2 × 4 = 10 bilhões, alternativa E. A alternativa A, 4,0, e a D, 8,0, podem vir de confundir x com o ano ou de calcular a queda acumulada (8). A B e a C usam taxas erradas. Gabarito: E.",
   "hash": "a1fd53cc74c53a59",
@@ -406,7 +406,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-ppl-d2-q158": {
-  "assunto": "Estatística: desvio-padrão",
+  "assunto": "Estatística: desvio padrão",
   "dificuldade": 3,
   "explicacao": "A questão pede a equipe campeã numa corrida de regularidade, em que vence quem mais se aproxima do tempo de 45 minutos em cada etapa. Todas as equipes têm média 45, portanto a média não decide. O que importa é a regularidade, isto é, quão pouco os tempos se afastam da média, medida pelo desvio-padrão. Quanto menor o desvio-padrão, mais próximos de 45 minutos ficaram os tempos. A equipe III tem o menor desvio-padrão, 1, e é a campeã, alternativa C. A moda não resolve: a equipe V tem moda 47 e a III e a IV, 44, mas a moda indica só o valor mais frequente. As equipes I, II, IV e V têm desvios maiores (5, 4, 3 e 2), logo são menos regulares. Gabarito: C.",
   "hash": "ab544170fc30e680",
@@ -469,7 +469,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2010-ppl-d2-q167": {
-  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 3,
   "explicacao": "A questão pede a estimativa mais próxima do total de estrelas num painel de 150 linhas. O esboço mostra 1 estrela na 1ª linha, 2 na 2ª, 3 na 3ª, e assim por diante: a linha n tem n estrelas. O total é a soma 1 + 2 + 3 + ... + 150, uma progressão aritmética. Pela fórmula da soma: S = (1 + 150) × 150 ÷ 2 = 151 × 75 = 11 325 estrelas. Comparando com as estimativas: 12 000 fica a 675 de distância, a menor diferença. Logo, o funcionário III está mais próximo, alternativa C. O funcionário I subestima muito. O II, 6 000, está a mais de 5 000 de distância. O IV e o V, 22 500 e 22 800, aproximam-se do dobro da soma, erro de esquecer a divisão por 2. Gabarito: C.",
   "hash": "40fcc086d0977ffb",

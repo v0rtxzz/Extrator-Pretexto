@@ -111,7 +111,17 @@ os logs completos ficam em `relatorios/logs/` (fora do git).
   conceitos combinados).
 - `assunto`: `Assunto geral: assunto específico` (ex.: `Geometria plana: triângulos`,
   `Medidas de tendência central: média, moda, mediana`). O assunto geral vem da lista fixa por matéria de
-  `scripts/extrator/assuntos.json`, para dar para filtrar (`split_part(assunto, ':', 1)`); o específico é livre.
+  `scripts/extrator/assuntos.json`, para dar para filtrar (`split_part(assunto, ':', 1)`); o específico é livre,
+  mas segue um padrão de grafia (aplicado por `scripts/extrator/padronizar_assuntos.py` e já no `salvar`):
+  1. minúsculas, exceto nomes próprios, siglas, fórmulas, períodos e eventos (Estado Novo, Guerra Fria), obras,
+     leis com nome (Lei Áurea, lei de Ohm), biomas (Cerrado, Caatinga) e escolas/movimentos (Modernismo, Realismo);
+  2. um termo por conceito: `1º grau`/`2º grau`, `progressão aritmética`/`progressão geométrica` (não PA/PG),
+     `mínimo múltiplo comum`/`máximo divisor comum` (não MMC/MDC);
+  3. o mesmo tema tem uma grafia só: expressão ligada no singular e com `do/da` (`volume do cilindro`, não
+     `volume de cilindro` nem `cilindro, volume`); nas listas, a ordem mais usada.
+
+  `python scripts/extrator/padronizar_assuntos.py` mostra quantas questões fogem do padrão; com `--gravar`,
+  corrige o cache e escreve `relatorios/ASSUNTOS-PADRONIZACAO.md`; depois rode `explicar_manual.py aplicar`.
 
 Tudo fica em cache em `scripts/extrator/explicacoes/PROVA.json`, por hash do conteúdo da questão: reextrair a prova
 reaproveita o cache, e uma questão cujo texto mudou volta a ficar pendente. Questões anuladas ficam com as três

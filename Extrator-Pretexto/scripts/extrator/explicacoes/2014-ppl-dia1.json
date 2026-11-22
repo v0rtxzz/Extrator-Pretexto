@@ -1,6 +1,6 @@
 {
  "enem-2014-ppl-d1-q01": {
-  "assunto": "Cidadania e direitos: violência de gênero, lei maria da penha",
+  "assunto": "Cidadania e direitos: violência de gênero, Lei Maria da Penha",
   "dificuldade": 2,
   "explicacao": "A questão pede que se identifique o problema social combatido pela iniciativa citada na canção de Alcione. A letra menciona a Lei Maria da Penha (Lei 11.340/2006), criada para coibir a violência doméstica e familiar contra a mulher. O eu lírico feminino avisa ao agressor que não vai mais tolerar tapas nem esculacho e que a punição deixou de ser branda (“não tem mais a banca de dar cesta básica”). Essa violência não é fruto de um fator isolado, mas de relações de gênero desiguais, construídas historicamente, em que o homem se vê como dono da mulher e autorizado a controlá-la. É exatamente essa raiz estrutural, a dominação masculina socialmente construída, que a lei busca enfrentar. A alternativa A erra ao atribuir a violência à entrada da mulher no mercado de trabalho. A B está errada porque a lei abrange também violência psicológica, moral, sexual e patrimonial, não só a física. A D associa indevidamente o problema à pobreza, quando ele atravessa todas as classes. A E reduz a questão ao consumo de álcool, que pode ser agravante, mas não é a causa. Gabarito: C.",
   "hash": "bc0642381a77007f",
@@ -35,7 +35,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q06": {
-  "assunto": "Ética: virtude em aristóteles",
+  "assunto": "Ética: virtude em Aristóteles",
   "dificuldade": 3,
   "explicacao": "A questão pede o sentido de virtude ética em Aristóteles. No trecho, o filósofo diz que, ao falar do caráter, chamamos alguém de calmo ou temperante, e que os hábitos dignos de louvor são chamados de virtude. Para Aristóteles, a virtude ética é uma disposição adquirida pelo hábito, pela prática repetida de boas ações, e consiste na justa medida entre excessos. Ela é uma excelência (areté) do agir humano, e esse agir se realiza na vida da pólis, pois o homem é um animal político e a ética está ligada ao bem da comunidade. Por isso a alternativa A, excelência de atividades praticadas em consonância com o bem comum, está correta. A alternativa B erra ao reduzir a virtude a interesses privados e utilitários. A C atribui à ética aristotélica uma fundamentação religiosa que ela não tem. A D confunde a virtude com a busca de paz interior, mais próxima de correntes helenísticas como o estoicismo. A E associa a virtude à estética, o que não corresponde ao conceito. Gabarito: A.",
   "hash": "121b61cdad06c925",
@@ -70,14 +70,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q11": {
-  "assunto": "Filosofia contemporânea: justiça em rawls",
+  "assunto": "Filosofia contemporânea: justiça em Rawls",
   "dificuldade": 3,
   "explicacao": "A questão pede qual é, para John Rawls, o elemento de ação e funcionamento da justiça. O texto afirma que cada pessoa possui uma inviolabilidade fundada na justiça, que nem o bem-estar da sociedade como um todo pode ignorar, e que a justiça não aceita sacrificar a liberdade de alguns em nome de um bem maior. Rawls, portanto, coloca a pessoa individual como limite que nenhum cálculo coletivo pode ultrapassar, numa crítica direta ao utilitarismo, que admitiria sacrifícios individuais para maximizar o bem geral. O elemento central é o indivíduo, alternativa D. A alternativa A, povo, remete ao coletivo, justamente o que não pode se sobrepor à pessoa. A B e a C, Estado e governo, são instituições que devem respeitar a justiça, não seu fundamento. A E, magistrado, é apenas um aplicador das leis, não o elemento que a justiça protege. Gabarito: D.",
   "hash": "57eea5ce9a45b862",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q12": {
-  "assunto": "Filosofia moderna: contratualismo, locke",
+  "assunto": "Filosofia moderna: contratualismo, Locke",
   "dificuldade": 2,
   "explicacao": "A questão pede o que cada cidadão deve fazer para viver em sociedade, segundo John Locke. O texto diz que os homens são, por natureza, livres, iguais e independentes, e que ninguém pode ser submetido ao poder político de outro sem consentimento. A única maneira de entrar na sociedade civil é concordar com outras pessoas em unir-se em comunidade para viver com segurança e garantir a propriedade. O ponto-chave é o consentimento: o Estado nasce de um acordo, de um contrato, e quem vive nele aceita as normas estabelecidas em comum. É isso que afirma a alternativa D. A alternativa A erra porque o indivíduo abre mão da liberdade natural irrestrita ao entrar na sociedade. A B exagera, pois em Locke os direitos naturais (vida, liberdade, propriedade) são preservados, não entregues. A C contradiz o texto, que protege a propriedade e rejeita o domínio do mais forte. A E também erra, pois a sociedade existe justamente para garantir a posse dos bens. Gabarito: D.",
   "hash": "182aded9bd0808df",
@@ -112,7 +112,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q17": {
-  "assunto": "Cultura e sociedade: modernismo, antropofagia",
+  "assunto": "Cultura e sociedade: Modernismo, antropofagia",
   "dificuldade": 2,
   "explicacao": "A questão pede o que pretendia o Movimento Antropofágico, nascido a partir do quadro Abaporu, de Tarsila do Amaral. O texto explica que o nome vem do tupi e significa homem que come carne humana, e que Oswald de Andrade escreveu, a partir da obra, o Manifesto Antropófago (1928). A ideia central do movimento é metafórica: assim como os indígenas devoravam o inimigo para absorver suas qualidades, os artistas brasileiros deveriam devorar a cultura estrangeira, sobretudo a europeia das vanguardas, digeri-la e transformá-la em algo original e brasileiro. Não se tratava de copiar nem de rejeitar, mas de assimilar criticamente. Isso corresponde à alternativa A. A alternativa B erra porque o Modernismo rompia com a arte clássica e seu ideal de beleza. A C fala de ideário republicano, tema alheio ao movimento. A D reduz a proposta às técnicas nativas, quando o foco era absorver o estrangeiro. A E fala de preservar a herança colonial, enquanto a Antropofagia queria superar a dependência cultural. Gabarito: A.",
   "hash": "887ed56be378db84",
@@ -154,7 +154,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q23": {
-  "assunto": "Idade Média: renascimento comercial e urbano",
+  "assunto": "Idade Média: Renascimento comercial e urbano",
   "dificuldade": 2,
   "explicacao": "A questão pede o que reflete a expansão das trocas na Baixa Idade Média, impulsionada por centros como Veneza. O texto apresenta Veneza como uma cidade-estado praticamente independente, única por ser uma comunidade comercial, cujos habitantes não lavravam nem colhiam, mas negociavam com Constantinopla e com mercadores muçulmanos. Esse quadro faz parte do renascimento comercial e urbano a partir do século XI, quando cidades italianas como Veneza e Gênova passaram a dominar as rotas do Mediterrâneo, e os burgos ganharam peso econômico e político. Por isso a alternativa A, importância das cidades comerciais, está correta. A alternativa B erra porque o texto destaca justamente uma cidade desligada da agricultura. A C atribui o dinamismo à Igreja, que não aparece como agente das trocas. A D é falsa, pois o comércio veneziano era conduzido por mercadores, não pela nobreza feudal. A E contradiz o texto, que mostra Veneza independente do imperador bizantino na prática. Gabarito: A.",
   "hash": "396f2d87c15e586c",
@@ -175,7 +175,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q26": {
-  "assunto": "História da África e afro-brasileira: partilha da áfrica, imperialismo",
+  "assunto": "História da África e afro-brasileira: partilha da África, imperialismo",
   "dificuldade": 2,
   "explicacao": "A questão pede o que motivou a Partilha da África entre 1880 e 1914. O texto diz que os europeus, em busca de matérias-primas e mercados por causa da acelerada industrialização, retalharam a África entre si, e que justificativas filantrópicas, como a de Leopoldo II no Congo, eram desmentidas pelas atrocidades. Trata-se do imperialismo da Segunda Revolução Industrial: as potências queriam controlar minérios, borracha, terras e mercados consumidores, recursos estratégicos para fortalecer suas economias e seu poder político e militar. Isso é o que diz a alternativa D. A alternativa A fala de infraestrutura energética africana, que praticamente não existia; foram os europeus que construíram ferrovias e portos para explorar. A B suaviza o processo, que foi de dominação territorial, e não de regulação comercial. A C repete o discurso humanitário que o próprio texto desmascara. A E apresenta a expansão cultural como motivo, quando ela foi apenas justificativa ideológica para a exploração econômica. Gabarito: D.",
   "hash": "93ebc9e92837ccc9",
@@ -210,7 +210,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q31": {
-  "assunto": "Geopolítica e conflitos: guerra fria, corrida armamentista",
+  "assunto": "Geopolítica e conflitos: Guerra Fria, corrida armamentista",
   "dificuldade": 1,
   "explicacao": "A questão pede o fator que tornava grande, na Guerra Fria, o risco do evento temido citado na tirinha. Na história de Quino, Felipe mostra um desenho com uma colher atrás de um vidro e a placa “Em caso de guerra, quebre o vidro”; ele explica que a colher serve para recolher o que sobrar do mundo e da humanidade. Mafalda não acha graça. A piada se refere a uma guerra nuclear capaz de destruir o planeta, medo constante entre 1947 e 1991. Esse risco existia por causa da corrida armamentista entre Estados Unidos e União Soviética, que acumularam milhares de ogivas atômicas, como ficou evidente na Crise dos Mísseis de 1962. Isso corresponde à alternativa B. A alternativa A fala de rivalidade Norte–Sul, quando o conflito da Guerra Fria era Leste–Oeste. A C aponta crises econômicas, que não ameaçavam destruir a humanidade. A D cita novas potências, mas o equilíbrio era bipolar. A E trata de desigualdades sociais, sem relação com a ameaça de guerra total. Gabarito: B.",
   "hash": "c5704a786f6a09cc",
@@ -224,14 +224,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q33": {
-  "assunto": "Primeira República: reforma pereira passos",
+  "assunto": "Primeira República: reforma Pereira Passos",
   "dificuldade": 3,
   "explicacao": "A questão pede o paradoxo da modernização do Rio de Janeiro na gestão Pereira Passos (1902-1906). O texto mostra que o lema “O Rio civilizava-se” resumia ações como iluminar vielas, controlar epidemias, destruir cortiços e remover as camadas populares do centro. Ou seja, a reforma urbana, conhecida como bota-abaixo, buscava uma cidade moderna e europeizada, mas fazia isso expulsando os pobres para os morros e subúrbios, o que contribuiu para a formação de favelas. O paradoxo está justamente aí: um ideal de civilização que vinha acompanhado de exclusão e marginalização de parte da população. É o que diz a alternativa C. A alternativa A descreve uma transformação real, mas não um paradoxo. A B é falsa, pois houve combate às epidemias, como as campanhas de Oswaldo Cruz. A D fala de padrões arquitetônicos incompatíveis, que não é o tema. A E trata do relevo, aspecto que o texto não menciona. Gabarito: C.",
   "hash": "48d8e0c80b419e1d",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q34": {
-  "assunto": "Brasil Império: partidos do segundo reinado",
+  "assunto": "Brasil Império: partidos do Segundo Reinado",
   "dificuldade": 4,
   "explicacao": "A questão pede dois aspectos que caracterizam, respectivamente, os partidos Conservador e Liberal do Império. O texto mostra que os conservadores reuniam magistrados, burocratas, grandes comerciantes e proprietários das áreas tradicionais (Rio de Janeiro, Bahia, Pernambuco), ligados ao centro do poder; os liberais reuniam a classe média urbana, alguns padres e proprietários de áreas menos tradicionais (São Paulo, Minas, Rio Grande do Sul). Por isso, os conservadores defendiam o fortalecimento do poder central e a unidade política do Império, enquanto os liberais defendiam maior autonomia para as províncias, isto é, a descentralização. Isso corresponde à alternativa D. A alternativa A erra porque os dois partidos, de modo geral, defenderam a escravidão por muito tempo. A B é incorreta, pois nenhum dos partidos se definia pela industrialização. A C não é o eixo principal de diferenciação entre eles. A E é falsa, porque ambos eram monarquistas; o republicanismo foi defendido pelo Partido Republicano, fundado em 1870. Gabarito: D.",
   "hash": "3ff3529c7f2f50a9",
@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q45": {
-  "assunto": "Espaço agrário: expansão da soja, cerrado",
+  "assunto": "Espaço agrário: expansão da soja, Cerrado",
   "dificuldade": 3,
   "explicacao": "A questão pede a característica espacial da formação do território da soja no Brasil. O mapa mostra que a soja, a partir do Sul (RS, PR), se expandiu pelo Mato Grosso do Sul, Goiás e Mato Grosso, seguindo depois para o oeste da Bahia, o Maranhão, o Piauí e o Tocantins, com uma faixa hachurada indicando o avanço para o norte do Mato Grosso e o sul da Amazônia. Grande parte dessa área é de Cerrado, cujos solos são naturalmente ácidos e pobres em nutrientes. A ocupação só foi possível com a correção do solo (calagem), adubação e variedades desenvolvidas pela Embrapa. Por isso a alternativa B, incorporação de espaços com baixa fertilidade natural, está correta. A alternativa A erra, pois o Centro-Oeste e o Matopiba são áreas de baixa densidade populacional. A C contraria o processo, que pressiona e não integra reservas extrativistas. A D é falsa, porque a soja avançou para o interior, longe dos portos. A E também erra, já que as áreas canavieiras tradicionais ficam no litoral nordestino e em São Paulo, não nas novas áreas de soja. Gabarito: B.",
   "hash": "1b50b868d33eec78",
@@ -357,7 +357,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q52": {
-  "assunto": "Saúde e doenças: gripe h1n1, prevenção",
+  "assunto": "Saúde e doenças: gripe H1N1, prevenção",
   "dificuldade": 1,
   "explicacao": "A questão pede o objetivo da higienização das mãos recomendada pela OMS na pandemia de gripe H1N1 (2009). O vírus Influenza é transmitido por gotículas expelidas ao tossir, espirrar e falar, e também por contato: quem cobre a boca com a mão ao tossir contamina as mãos e, depois, as superfícies que toca, como maçanetas, corrimãos e objetos. Outras pessoas tocam essas superfícies e levam as mãos aos olhos, ao nariz e à boca. Lavar as mãos com água e sabão ou usar álcool em gel remove ou inativa os vírus, interrompendo essa cadeia. Logo, o objetivo é reduzir a transmissão do vírus no ambiente, alternativa D. A alternativa A erra, pois a reprodução viral ocorre dentro das células do hospedeiro, e lavar as mãos não interfere nela. A B é incorreta, porque o vírus da gripe não penetra pela pele íntegra, mas pelas mucosas. A C fala de autoinfecção, que não é o foco da medida, voltada para proteger outras pessoas. A E não faz sentido, pois lavar as mãos não seleciona vírus resistentes. Gabarito: D.",
   "hash": "59f56d6066961aa1",
@@ -469,14 +469,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q68": {
-  "assunto": "Genética: sistema abo, exclusão de paternidade",
+  "assunto": "Genética: sistema ABO, exclusão de paternidade",
   "dificuldade": 3,
   "explicacao": "A questão pede o genótipo paterno que exclui a paternidade de uma criança tipo B cuja mãe é AB. A mãe AB tem genótipo IᴬIᴮ, então passa ao filho Iᴬ ou Iᴮ. A criança é tipo B, ou seja, tem genótipo IᴮIᴮ ou Iᴮi; ela não pode ter o alelo Iᴬ. Assim, a criança recebeu Iᴮ da mãe e, do pai, recebeu Iᴮ ou i. Agora testamos os genótipos: o pai IᴬIᴬ só produz gametas Iᴬ; com o Iᴮ materno, o filho seria IᴬIᴮ (AB), e com o Iᴬ materno, IᴬIᴬ (A). Ele jamais teria um filho B, portanto está excluído. Isso corresponde à alternativa A. A alternativa B, Iᴬi, pode passar i e gerar filho Iᴮi. A C, IᴮIᴮ, passa Iᴮ e gera filho IᴮIᴮ. A D, Iᴮi, pode passar Iᴮ ou i, ambos compatíveis. A E, ii, passa i e gera filho Iᴮi, tipo B. Gabarito: A.",
   "hash": "9d6b05e23cc0e4b9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q69": {
-  "assunto": "Saúde e doenças: doença de chagas, prevenção",
+  "assunto": "Saúde e doenças: doença de Chagas, prevenção",
   "dificuldade": 1,
   "explicacao": "A questão pede a intervenção ambiental fundamental para prevenir a doença de Chagas. Essa doença é causada pelo protozoário Trypanosoma cruzi, transmitido principalmente pelo barbeiro, inseto que vive em frestas de paredes de barro e de pau a pique, em telhados de palha e em anexos como galinheiros e chiqueiros. À noite, o barbeiro pica a pessoa e defeca perto da picada; o protozoário entra no organismo quando a pessoa coça o local. Por isso, a principal medida preventiva é melhorar as condições de moradia, substituindo casas de taipa por alvenaria rebocada, reduzindo a presença do inseto dentro e ao redor das casas. É o que afirma a alternativa C. A alternativa A trata de matéria orgânica em decomposição, ligada a outras pragas, não ao barbeiro. A B fala de tratamento dos infectados, que não é prevenção ambiental. A D melhora o acesso à saúde, mas não impede a transmissão. A E descreve o combate a mosquitos como o Aedes aegypti, que se reproduzem em água parada. Gabarito: C.",
   "hash": "27fd991470c66048",
@@ -504,7 +504,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q73": {
-  "assunto": "Eletrodinâmica: segunda lei de ohm",
+  "assunto": "Eletrodinâmica: segunda lei de Ohm",
   "dificuldade": 3,
   "explicacao": "[REVISAR] O enunciado extraído está fragmentado (dados de comprimento e resistividade aparecem só em imagens). A questão pede a resistência elétrica de um nanofio de cobre modelado como um pequeno cilindro. Os dados são: comprimento L = 0,5 nm, área da seção reta A = 0,05 nm² e resistividade ρ = 17 Ω·nm. Usamos a segunda lei de Ohm: R = ρ · L / A. Substituindo: R = 17 Ω·nm × 0,5 nm ÷ 0,05 nm². No numerador, 17 × 0,5 = 8,5 Ω·nm². Dividindo pela área: 8,5 ÷ 0,05 = 170. As unidades nm² se cancelam, restando ohms: R = 170 Ω. Esse valor corresponde à alternativa E. As demais alternativas trazem valores com unidades ou potências de dez erradas; por exemplo, a A (170 nΩ) mantém o número certo, mas acrescenta indevidamente o prefixo nano, como se os nanômetros não se cancelassem. As outras resultam de erros na divisão por 0,05 ou na conversão de unidades. Gabarito: E.",
   "hash": "f6268f33403444a1",
@@ -539,7 +539,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q78": {
-  "assunto": "Equilíbrio químico: ph, desmineralização dentária",
+  "assunto": "Equilíbrio químico: pH, desmineralização dentária",
   "dificuldade": 2,
   "explicacao": "[REVISAR] A tabela e a equação aparecem corrompidas no texto extraído (cargas com þ e linhas misturadas). A questão pede a bebida com menor potencial de desmineralizar os dentes. A equação mostra que a hidroxiapatita, Ca₅(PO₄)₃OH, se dissolve liberando 5 Ca²⁺, 3 PO₄³⁻ e OH⁻. Em meio ácido, os íons H⁺ reagem com o OH⁻ formando água (H⁺ + OH⁻ → H₂O), o que retira OH⁻ do equilíbrio. Pelo princípio de Le Chatelier, o equilíbrio se desloca para a direita, dissolvendo mais esmalte. Assim, quanto mais ácida a bebida (menor pH), maior a desmineralização. Pela tabela: suco de limão pH 2,5; café 3,0; vinho 4,5; refrigerante 5,0; chá 6,0. A bebida menos ácida, com maior pH, é o chá, alternativa A. A alternativa B, café, tem pH 3,0, bastante ácido. A C, vinho, tem pH 4,5. A D, refrigerante, tem pH 5,0, mais ácido que o chá. A E, suco de limão, com pH 2,5, é a mais agressiva ao esmalte. Gabarito: A.",
   "hash": "d86d44936f4f323d",
@@ -560,7 +560,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q81": {
-  "assunto": "Ecologia: biomas brasileiros, caatinga",
+  "assunto": "Ecologia: biomas brasileiros, Caatinga",
   "dificuldade": 1,
   "explicacao": "A questão pede o bioma brasileiro cujas plantas perdem as folhas na seca, armazenam água e têm folhas reduzidas ou transformadas em espinhos. Essas são adaptações típicas de ambientes semiáridos, com chuvas escassas e irregulares e longos períodos de estiagem, que podem durar até nove meses. Perder as folhas (caducifolia) reduz a perda de água por transpiração; armazenar água em caules e raízes, como fazem o mandacaru e o umbuzeiro, garante reserva para a seca; folhas pequenas ou em forma de espinhos diminuem a superfície de evaporação. O aspecto acinzentado e esbranquiçado da vegetação na seca deu origem ao nome Caatinga, que em tupi significa mata branca. Por isso a alternativa C está correta. A alternativa A, Cerrado, tem seca de cerca de cinco meses e árvores de casca grossa e troncos tortuosos, não predominância de espinhos e suculentas. A B, Pantanal, é uma planície alagável. A D, Mata Atlântica, e a E, Floresta Amazônica, são florestas úmidas, com chuvas abundantes e folhas largas. Gabarito: C.",
   "hash": "0b2854e330d63232",
@@ -588,7 +588,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q85": {
-  "assunto": "Equilíbrio químico: princípio de le chatelier",
+  "assunto": "Equilíbrio químico: princípio de Le Chatelier",
   "dificuldade": 4,
   "explicacao": "[REVISAR] As cargas dos íons aparecem corrompidas no texto extraído (HCO₃^þ e OH^þ em vez de HCO₃⁻ e OH⁻). A questão pede o fator que favorece a formação de CaCO₃ na segunda etapa, dentro da caverna. A equação é: Ca²⁺(aq) + 2 HCO₃⁻(aq) ⇌ CaCO₃(s) + CO₂(g) + H₂O(l), com ΔH = +40,94 kJ/mol. Como o ΔH é positivo, a reação direta, que forma o carbonato, é endotérmica. Pelo princípio de Le Chatelier, aumentar a temperatura desloca o equilíbrio no sentido que absorve calor, ou seja, para a direita, favorecendo a deposição de CaCO₃ e a formação das estalactites. Isso corresponde à alternativa D. A alternativa A não favorece a reação direta, pois tornar o meio mais ácido tende a dissolver o carbonato. A B desloca o equilíbrio para o lado com menos gás, a esquerda, desfavorecendo o CaCO₃. A C retira reagente, deslocando o equilíbrio para a esquerda. A E aumenta um produto, o que também desloca o equilíbrio para a esquerda, dissolvendo o calcário. Gabarito: D.",
   "hash": "bef15d48e3976a46",
@@ -616,7 +616,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-ppl-d1-q89": {
-  "assunto": "Funções inorgânicas: hidrólise salina, ph do solo",
+  "assunto": "Funções inorgânicas: hidrólise salina, pH do solo",
   "dificuldade": 4,
   "explicacao": "A questão pede qual componente do adubo NPK explica a diminuição do pH do solo. Precisamos analisar o caráter ácido ou básico de cada sal, pensando na hidrólise de seus íons. O nitrato de amônio, NH₄NO₃, vem de um ácido forte (HNO₃) e de uma base fraca (NH₃); o íon amônio sofre hidrólise ácida: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, liberando H₃O⁺ e diminuindo o pH. Além disso, a nitrificação do amônio no solo também gera acidez. Por isso a alternativa C está correta. A alternativa A, ureia, é uma substância praticamente neutra que, ao se decompor no solo, libera amônia, de caráter básico. A B, fosfato de sódio, vem de base forte e ácido fraco, e o íon PO₄³⁻ sofre hidrólise básica, aumentando o pH. A D, nitrato de potássio, e a E, cloreto de potássio, vêm de ácido forte e base forte, sendo sais neutros que não alteram o pH. Gabarito: C.",
   "hash": "548da92577bcba59",

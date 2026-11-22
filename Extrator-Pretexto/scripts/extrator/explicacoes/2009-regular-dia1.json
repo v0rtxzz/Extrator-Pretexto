@@ -14,7 +14,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q03": {
-  "assunto": "Saúde e doenças: vacinas, hiv",
+  "assunto": "Saúde e doenças: vacinas, HIV",
   "dificuldade": 2,
   "explicacao": "A questão pergunta o que uma vacina eficiente contra o HIV deveria fazer. Vacina é um método de imunização ativa: introduz antígenos (vírus inativado, atenuado ou fragmentos dele) que estimulam o sistema imunológico a produzir anticorpos e células de memória. Assim, se a pessoa entrar em contato com o vírus de verdade, a resposta é rápida e impede a infecção. Por isso, uma vacina eficiente deve induzir a imunidade, protegendo o organismo da contaminação viral. A alternativa B erra porque vacinas não alteram o genoma de quem as recebe. A C troca os papéis: quem se liga ao vírus são os anticorpos, produzidos pelo organismo, e não antígenos. A D é falsa, pois o HIV é transmitido entre seres humanos, principalmente por relações sexuais, sangue e de mãe para filho, e não por animais. A E erra ao citar gotículas de saliva, que não são via de transmissão do HIV. Gabarito: A.",
   "hash": "0ce3f812af6d388f",
@@ -42,7 +42,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q07": {
-  "assunto": "Biotecnologia: dna recombinante, insulina",
+  "assunto": "Biotecnologia: DNA recombinante, insulina",
   "dificuldade": 1,
   "explicacao": "A questão pergunta qual a consequência de produzir insulina pela técnica do DNA recombinante. O texto informa que bactérias Escherichia coli receberam o gene da insulina e passaram a fabricar o hormônio em maior quantidade e em um terço do tempo do método tradicional, que dependia do pâncreas de animais abatidos. Com mais insulina disponível, produzida mais rápido e idêntica à humana, o tratamento de pessoas com diabetes fica mais acessível e seguro, ou seja, há impacto favorável na saúde dos diabéticos. A alternativa A erra porque a técnica substitui a extração do pâncreas, em vez de aperfeiçoá-la. A B não tem relação com o processo descrito. A C confunde biotecnologia com síntese química: quem produz o hormônio é a bactéria. A E erra porque o organismo modificado é uma bactéria, não um animal. Gabarito: D.",
   "hash": "66a1ccbf4322daa7",
@@ -77,7 +77,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q12": {
-  "assunto": "Equilíbrio químico: deslocamento, ph de sabões",
+  "assunto": "Equilíbrio químico: deslocamento, pH de sabões",
   "dificuldade": 4,
   "explicacao": "A questão pede em que condição de pH os sabões são mais eficientes. O texto mostra o equilíbrio de hidrólise do ânion estearato: CH₃(CH₂)₁₆COO⁻ + H₂O ⇌ CH₃(CH₂)₁₆COOH + OH⁻. O ácido carboxílico formado à direita é pouco solúvel e remove mal a gordura, então é preciso evitar que o equilíbrio se desloque para a direita. Pelo princípio de Le Chatelier, aumentar a concentração de um produto desloca o equilíbrio no sentido dos reagentes. Em pH básico há muitos íons OH⁻, que é produto da reação; o equilíbrio se desloca para a esquerda, mantendo o sabão na forma de ânion carboxilato, que é a forma ativa. Em pH ácido, os íons H⁺ consomem OH⁻ e o equilíbrio vai para a direita, formando o ácido pouco eficiente. Por isso, as alternativas B e E estão erradas. A C erra porque o meio neutro não favorece tanto a forma aniônica quanto o básico. A D ignora a dependência do equilíbrio com o pH. Gabarito: A.",
   "hash": "00094a5f2a4b1feb",
@@ -217,7 +217,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q32": {
-  "assunto": "Física moderna: raios x, absorção da radiação",
+  "assunto": "Física moderna: raios X, absorção da radiação",
   "dificuldade": 3,
   "explicacao": "A questão descreve uma radiação de comprimento de onda bem menor que o ultravioleta, ou seja, raios X, atravessando o pescoço até um filme que escurece quanto mais radiação recebe. Na imagem, os ossos (vértebras e crânio) aparecem claros, e os tecidos moles aparecem escuros. Isso indica que pouca radiação passou pelos ossos: eles absorvem mais raios X. Os ossos são ricos em cálcio, elemento de número atômico maior que o dos átomos que predominam nos tecidos moles (carbono, hidrogênio, oxigênio e nitrogênio), e a absorção de raios X cresce com o número atômico. A alternativa A erra porque ionizar um átomo não o transforma em outro elemento. A C inverte a relação: o cálcio absorve mais que o carbono. A D fala em refração, que não é o fenômeno responsável pelo contraste. A E não explica a diferença entre osso e tecido mole. Gabarito: B.",
   "hash": "c527aa955580f192",
@@ -280,7 +280,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q41": {
-  "assunto": "Genética: dna mitocondrial, herança materna",
+  "assunto": "Genética: DNA mitocondrial, herança materna",
   "dificuldade": 3,
   "explicacao": "A questão pede a melhor fonte de DNA para confirmar o parentesco de uma vítima carbonizada com um casal. O texto dá duas pistas: o material está muito degradado, e o número de cópias de uma molécula por célula aumenta a chance de encontrar DNA intacto. Cada célula tem centenas a milhares de mitocôndrias, e cada uma tem várias cópias do DNA mitocondrial. Além disso, o DNAmt é herdado da mãe, então pode ser comparado com o da suposta mãe, confirmando o vínculo. Por isso, o DNAmt é a melhor opção. A alternativa B erra porque o cromossomo X tem no máximo duas cópias por célula, número muito pequeno. A C erra ao chamar o DNAmt de nuclear; ele fica nas mitocôndrias. A D é falsa: o cromossomo Y é transmitido só aos filhos homens e não existe em mulheres. A E erra porque cada autossomo tem apenas duas cópias por célula, não 44. Gabarito: A.",
   "hash": "2164def88f83aacc",
@@ -623,7 +623,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d1-q90": {
-  "assunto": "Biomas e vegetação: Pantanal, nascentes no cerrado",
+  "assunto": "Biomas e vegetação: Pantanal, nascentes no Cerrado",
   "dificuldade": 3,
   "explicacao": "A questão pede a medida mais eficaz para conservar a planície pantaneira e sua biodiversidade. O texto mostra que o Pantanal depende das áreas de planalto do cerrado, como a chapada dos Guimarães e a serra dos Parecis, onde ficam as cabeceiras dos rios. São essas nascentes que mantêm o nível das águas nas cheias e asseguram a vazão durante a estiagem, e o volume delas vem diminuindo. O desmatamento do cerrado para a agropecuária reduz a infiltração, seca nascentes e provoca erosão, que assoreia os rios. Assim, a medida mais eficaz é controlar o desmatamento e a erosão nas nascentes, como afirma a alternativa D. A alternativa A protege apenas a planície, ignorando que o problema está nas cabeceiras. A B ataca ameaças reais, mas não resolve a questão hídrica central do texto. A C agravaria o problema, pois mais pastagens significam mais desmatamento. A E alteraria o pulso natural de cheias e secas, essencial aos ecossistemas pantaneiros. Gabarito: D.",
   "hash": "501a8c3e815d06d5",

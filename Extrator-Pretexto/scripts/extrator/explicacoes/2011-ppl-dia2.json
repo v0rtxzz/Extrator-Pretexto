@@ -14,7 +14,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q102": {
-  "assunto": "Artes visuais: Modernismo, cubismo",
+  "assunto": "Artes visuais: Modernismo, Cubismo",
   "dificuldade": 2,
   "explicacao": "A questão pede o que diferencia a Pietà de Vicente do Rego Monteiro da de Michelangelo. Na imagem, a obra de Michelangelo é uma escultura em mármore, com corpos de proporções naturais, panejamentos detalhados e anatomia realista, típicos do Renascimento europeu. A tela de Rego Monteiro, de 1924, mostra figuras construídas com volumes geométricos: corpos cilíndricos, ângulos retos, rostos estilizados e superfícies lisas, sem detalhes naturalistas. Essa geometrização vem do Cubismo, vanguarda que influenciou os modernistas da Semana de 1922. Portanto, o artista brasileiro deu traços cubistas aos personagens, em lugar dos traços europeus clássicos. A alternativa A é falsa, pois ele simplifica, em vez de detalhar. A B erra: a cena mantém a seriedade religiosa, sem irreverência. A C é incorreta, pois a obra de Rego Monteiro é uma pintura, não uma escultura. A E contradiz a imagem: o tema é o mesmo, mas o estilo é muito diferente. Gabarito: D.",
   "hash": "4b123047c38e354a",
@@ -35,7 +35,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q105": {
-  "assunto": "Literatura brasileira: João Cabral, Morte e vida severina",
+  "assunto": "Literatura brasileira: João Cabral, Morte e Vida Severina",
   "dificuldade": 2,
   "explicacao": "A questão pede a situação retratada no fragmento de Morte e vida severina. O eu lírico, o retirante Severino, diz que há muitos Severinos iguais em tudo: cabeça grande, ventre crescido, pernas finas e sangue com \"pouca tinta\", sinais físicos de desnutrição. Morrem da mesma \"morte severina\": de velhice antes dos trinta, de emboscada antes dos vinte, de fome um pouco por dia. O nome próprio vira adjetivo e símbolo coletivo: Severino representa os muitos nordestinos submetidos à miséria e à fome. A alternativa A exagera ao dizer que a morte universaliza o sofrimento; o poema trata de um grupo específico, os sertanejos pobres. A B fala em ternura diante da pobreza, mas o tom é de denúncia. A C é errada porque o texto é objetivo e social, não sentimental nem existencial. A E generaliza a opressão a todo ser humano, quando o poema enfoca a realidade nordestina. Gabarito: D.",
   "hash": "3e8f6d04fee982cc",
@@ -126,7 +126,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q118": {
-  "assunto": "Variação linguística: estrangeirismos",
+  "assunto": "Variação linguística: estrangeirismo",
   "dificuldade": 2,
   "explicacao": "A questão pede a crítica presente na tirinha da Mafalda. No primeiro quadrinho, Mafalda lê na cartilha \"Ema vê a mesa da sala de estar\". No segundo, pergunta: \"Mamãe, o que é sala de estar?\". A mãe responde \"É living\", e Mafalda diz \"Ah, bom!\". No último, irritada, reclama: \"Afinal, por que eles não escrevem esses livros na língua da gente?\". O humor está na inversão: a criança conhece a palavra inglesa living, usada no dia a dia, e não a expressão em português. A tirinha critica, portanto, a força dos estrangeirismos, sobretudo do inglês, que substituem termos da própria língua. A alternativa A é falsa, pois a mãe responde à filha. A B critica a língua e suas regras, o que não ocorre. A C fala em linguagem rebuscada, mas \"sala de estar\" é expressão comum. A E culpa a metodologia de ensino, quando o problema é o uso cotidiano do estrangeirismo. Gabarito: D.",
   "hash": "bcb086e02232cd5e",
@@ -203,7 +203,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q129": {
-  "assunto": "Gramática: formação de palavras, neologismos",
+  "assunto": "Gramática: neologismo, formação de palavras",
   "dificuldade": 2,
   "explicacao": "A questão pede o que representam as palavras \"bandalargou-se\", \"infoviabilizou\" e \"internetinho\" na canção de Gilberto Gil. Todas são neologismos formados com processos regulares do português: \"bandalargou-se\" transforma a expressão \"banda larga\" em verbo pronominal; \"infoviabilizou\" junta \"info\" (de informação ou infovia) a \"viabilizar\"; \"internetinho\" aplica o sufixo diminutivo \"-inho\" a \"internet\". O texto fala da chegada da internet a Piraí e do menino que quer iPod e computador novo, isto é, do contato cotidiano com a cultura digital. Essas criações mostram a língua se renovando e ampliando o vocabulário sob influência das novas tecnologias. A alternativa B é falsa, pois as palavras seguem justamente regras de formação. A C fala em falares arcaicos, o oposto do tema. A D erra, porque os termos foram adaptados à morfologia portuguesa. A E menciona conceitos ultrapassados, contradizendo a novidade tecnológica. Gabarito: A.",
   "hash": "94c586f2f7ee5ec1",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q136": {
-  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 2,
   "explicacao": "A questão pede o comprimento total da trilha poligonal de A até M, sabendo que AB mede 11 m e cada segmento seguinte tem 1 m a menos que o anterior. Observando o esquema, a trilha passa por A, B, C, D, E, F, G, H, I, J, L e M (não há ponto K). Contando os segmentos: AB, BC, CD, DE, EF, FG, GH, HI, IJ, JL e LM, ou seja, 11 segmentos. Os comprimentos formam uma progressão aritmética decrescente: 11, 10, 9, ..., 1, com razão −1. O último segmento, LM, mede 11 − 10 = 1 m. A soma é S = (a₁ + aₙ) × n ÷ 2 = (11 + 1) × 11 ÷ 2 = 12 × 11 ÷ 2 = 66 m. A alternativa A (176) supõe 16 segmentos de 11 m, sem redução. B (121) corresponde a 11 segmentos de 11 m, ignorando a diminuição. C (111) não resulta da soma correta da progressão. E (65) desconta um metro a mais, como se o primeiro segmento tivesse 10 m ou faltasse uma parcela. Gabarito: D.",
   "hash": "e8575797a2f62499",
@@ -294,7 +294,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q142": {
-  "assunto": "Sequências e progressões: soma de progressão aritmética",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 3,
   "explicacao": "A questão pede o total de pontos acumulados por um usuário no nível 15. Os pontos necessários para cada novo nível formam uma progressão aritmética: 1 000 para o nível 1, mais 1 200 para o nível 2, mais 1 400 para o nível 3, e assim por diante, com razão 200. O total acumulado até o nível 15 é a soma dos 15 primeiros termos. O 15º termo é a₁₅ = 1 000 + 14 × 200 = 1 000 + 2 800 = 3 800. A soma é S₁₅ = (a₁ + a₁₅) × 15 ÷ 2 = (1 000 + 3 800) × 15 ÷ 2 = 4 800 × 7,5 = 36 000 pontos. A alternativa A (3 800) é apenas o acréscimo necessário para passar do nível 14 ao 15. B (15 200) não corresponde à soma da progressão. C (32 200) é a soma até o nível 14. D (35 000) resulta de erro no último termo ou na soma. Gabarito: E.",
   "hash": "00dcd722e6278e73",
@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q144": {
-  "assunto": "Geometria plana: áreas, teorema de Pitágoras",
+  "assunto": "Geometria plana: teorema de Pitágoras, áreas",
   "dificuldade": 3,
   "explicacao": "A questão pede um retângulo com área igual à do quadrado ABCD, cujos vértices estão em vértices dos quadrados de lado L que formam uma cruz. Observando a figura, o lado AB vai do vértice superior direito do quadrado de cima até o vértice superior esquerdo do quadrado da esquerda. Esse deslocamento corresponde a 2L na horizontal e 1L na vertical. Pelo teorema de Pitágoras, AB² = (2L)² + L² = 4L² + L² = 5L². Como a área do quadrado é o lado ao quadrado, a área de ABCD é 5L², que é a área de um retângulo de lados 5L e 1L. Outra forma de ver: os triângulos que sobram fora de ABCD encaixam exatamente nas partes da cruz que ficam fora, e a cruz tem área 5L². A alternativa A dá 6L². B dá 3L². C dá 9L². D dá 4L², que seria apenas a contagem de quatro quadrados. Gabarito: E.",
   "hash": "3c87e054c42866c9",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q157": {
-  "assunto": "Porcentagem: aumentos e descontos",
+  "assunto": "Porcentagem: aumento e desconto",
   "dificuldade": 3,
   "explicacao": "A questão pede o que a família deve fazer com o valor da poupança para manter o orçamento de R$ 1 750,00 depois das mudanças de julho. Alimentação diminuiu 4%: 4% de 600 = 24, economia de R$ 24,00. Transporte aumentou 10%: 10% de 150 = 15, gasto extra de R$ 15,00. Educação aumentou 10%: 10% de 350 = 35, gasto extra de R$ 35,00. Saldo das variações: +15 + 35 − 24 = R$ 26,00 de gasto a mais. Para não ultrapassar a renda, essa diferença deve sair da poupança, que passa de R$ 50,00 para 50 − 26 = R$ 24,00. A redução percentual é 26 ÷ 50 = 0,52, ou seja, 52%. A alternativa A soma e subtrai as porcentagens diretamente, sem aplicar sobre cada valor. B e C indicam aumento, mas as despesas cresceram. D (26%) confunde o valor de R$ 26,00 com a porcentagem. Gabarito: E.",
   "hash": "e29b33232a6df191",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q166": {
-  "assunto": "Função afim: leitura de gráfico, taxa de variação",
+  "assunto": "Função afim: taxa de variação, leitura de gráfico",
   "dificuldade": 3,
   "explicacao": "A questão pede a data limite para plantar a grama de modo que, em 11 de junho de 2012, ela tenha pelo menos 7 cm. O gráfico é formado por segmentos de reta: de 0 a 2 semanas a grama cresce de 0 a 5 cm; de 2 a 5 semanas, de 5 a 11 cm. Os 7 cm estão no segundo trecho, cuja taxa é (11 − 5) ÷ (5 − 2) = 6 ÷ 3 = 2 cm por semana. Para sair de 5 cm e chegar a 7 cm são necessários 2 cm, ou seja, 1 semana além das 2 iniciais. Logo, a grama precisa de 3 semanas = 21 dias para atingir 7 cm. Contando 21 dias para trás a partir de 11 de junho: 11 dias levam a 31 de maio, e mais 10 dias levam a 21 de maio. A alternativa A (17 de maio) é uma data possível, mas não a máxima. C (23 de maio) daria só 19 dias. D e E dariam poucos dias de crescimento. Gabarito: B.",
   "hash": "95f458d3ab902112",
@@ -553,7 +553,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-ppl-d2-q179": {
-  "assunto": "Grandezas e medidas: área, hectare",
+  "assunto": "Grandezas e medidas: hectare, área",
   "dificuldade": 2,
   "explicacao": "A questão pede o valor do metro quadrado de um terreno vendido por R$ 3 600 000,00, em que cada quadrado da malha vale 1 hectare. Contando os quadrados sombreados linha a linha na figura: 1 na segunda linha, 1 na terceira, 2 na quarta, 4 na quinta, 3 na sexta e 1 na sétima, totalizando 12 quadrados, ou seja, 12 hectares. Como 1 hectare é a área de um quadrado de 100 m de lado, 1 ha = 100 × 100 = 10 000 m². Área do terreno: 12 × 10 000 = 120 000 m². Valor do metro quadrado: 3 600 000 ÷ 120 000 = R$ 30,00. A alternativa B (R$ 300,00) e C (R$ 360,00) erram a conversão de hectare para metro quadrado. D (R$ 3 600,00) erra ainda mais a ordem de grandeza. E (R$ 300 000,00) é o preço por hectare, e não por metro quadrado. Gabarito: A.",
   "hash": "40163938405c9888",

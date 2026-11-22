@@ -63,7 +63,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q109": {
-  "assunto": "Eletrodinâmica: segunda lei de ohm",
+  "assunto": "Eletrodinâmica: segunda lei de Ohm",
   "dificuldade": 3,
   "explicacao": "A questão pede as resistências dos quatro fios em ordem crescente. Pela segunda lei de Ohm, R = ρ·L/A; como a resistividade ρ é a mesma para todos, basta comparar a razão L/A (comprimento dividido pela área), usando os valores da tabela. Fio 1: 312/9 ≈ 34,7. Fio 2: 47/4 ≈ 11,8. Fio 3: 54/2 = 27. Fio 4: 106/1 = 106. Colocando em ordem crescente: 11,8 (R2) < 27 (R3) < 34,7 (R1) < 106 (R4). Portanto, R2 < R3 < R1 < R4. Repare que o fio 1 é o mais longo, mas sua área grande compensa parte desse comprimento, ficando abaixo do fio 4, que tem a menor área. A alternativa A ordena apenas pelo número do fio, sem cálculo. A B coloca R1 antes de R3, mas 34,7 > 27. A D e a E colocam R4 como a menor resistência, quando ela é a maior. Gabarito: C.",
   "hash": "0f0d2c4e7f1799b8",
@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q117": {
-  "assunto": "Química ambiental: biogás, biodigestores",
+  "assunto": "Química ambiental: biodigestores, biogás",
   "dificuldade": 1,
   "explicacao": "A questão pede qual biocombustível pode ser obtido a partir dos dejetos de suínos. Esses dejetos são ricos em matéria orgânica e, quando colocados em biodigestores, sem oxigênio, são decompostos por bactérias anaeróbicas. Esse processo, a digestão anaeróbica, produz uma mistura gasosa formada principalmente por metano (CH₄) e gás carbônico, chamada biogás, que pode ser queimada para gerar calor e eletricidade. Além de diversificar a matriz energética, isso reduz o potencial poluidor dos dejetos, preservando os recursos hídricos, como diz o texto. O etanol (A) é obtido pela fermentação de açúcares, como os da cana. O butano (C) é derivado do petróleo, componente do gás de cozinha. O metanol (D) costuma ser obtido do gás de síntese ou da madeira, não diretamente de dejetos. O biodiesel (E) vem da transesterificação de óleos vegetais e gorduras. Gabarito: B.",
   "hash": "09b3f120419b037d",
@@ -140,7 +140,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q120": {
-  "assunto": "Óptica: cor, absorção de luz",
+  "assunto": "Óptica: cor, absorção da luz",
   "dificuldade": 3,
   "explicacao": "A questão pede em que faixa do espectro visível os carotenos absorvem mais luz. O texto diz que os carotenos têm coloração amarelo-alaranjada e explica a lógica: a cor que vemos é a complementar da cor absorvida. Isso vale para a clorofila, que absorve azul e vermelho e parece verde, e para a antocianina, que absorve do azul ao verde e parece vermelho-alaranjada. No disco de cores complementares, cada cor fica oposta à sua complementar: o amarelo (560 a 590 nm) está diante do violeta (400 a 430 nm), e o laranja (590 a 630 nm) está diante do azul (430 a 480 nm). Assim, para aparecerem amarelo-alaranjados, os carotenos precisam absorver principalmente entre o violeta e o azul. A alternativa B corresponde à absorção da antocianina, que parece avermelhada. A C e a D são as próprias cores refletidas pelos carotenos, não as absorvidas. A E levaria a uma cor verde-azulada. Gabarito: A.",
   "hash": "23ec06ee528885d6",
@@ -168,7 +168,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q124": {
-  "assunto": "Eletroquímica: células de combustível",
+  "assunto": "Eletroquímica: célula a combustível",
   "dificuldade": 2,
   "explicacao": "A questão pede qual célula de combustível é mais adequada para veículos, segundo três critérios do texto: operar em baixa temperatura, ter membrana de eletrólito polimérico e funcionar em meio ácido. Verificando o quadro: a PEM opera entre 60 e 100 °C, a mais baixa de todas; seu eletrólito é o ácido poliperfluorossulfônico sólido, um polímero; e suas semirreações envolvem H⁺, ou seja, meio ácido (H₂ → 2 H⁺ + 2 e⁻). Ela atende aos três critérios. A AFC também opera em temperatura baixa, mas usa hidróxido de potássio aquoso, meio básico, com OH⁻ nas semirreações. A MSFC funciona entre 600 e 1 000 °C e usa carbonatos fundidos. A PAFC é ácida, mas opera entre 175 e 200 °C e usa ácido fosfórico líquido, não uma membrana polimérica. A SOFC é ácida, mas usa óxido de zircônio sólido, cerâmico, e trabalha entre 600 e 1 000 °C. Gabarito: C.",
   "hash": "270a4ff905f89836",
@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q137": {
-  "assunto": "Geometria espacial: cubo, projeção ortogonal",
+  "assunto": "Geometria espacial: projeção ortogonal, cubo",
   "dificuldade": 5,
   "explicacao": "A questão pede a projeção ortogonal, sobre o solo, do trajeto que percorre todas as arestas e todas as diagonais do cubo. O ponto-chave é que o cubo está apoiado num vértice, com a diagonal desse vértice perpendicular ao solo. Projetar ortogonalmente no solo equivale, então, a olhar o cubo de cima, ao longo de uma diagonal principal. Nessa vista, os vértices superior e inferior (e a esfera central) caem no mesmo ponto, o centro da figura, e os outros seis vértices formam um hexágono regular. As 12 arestas viram: 6 lados do hexágono e 6 segmentos ligando o centro aos seis vértices (as três arestas que saem do vértice de cima e as três que saem do vértice de baixo). A diagonal vertical vira um ponto, e as outras três diagonais coincidem com os diâmetros do hexágono. Resultado: hexágono com três diagonais passando pelo centro, como na alternativa E. A alternativa A é uma vista em perspectiva, não projeção ortogonal. A B é um losango, que não mostra os seis vértices laterais. As alternativas C e D correspondem a vistas paralelas a uma face, incompatíveis com o cubo apoiado num vértice. Gabarito: E.",
   "hash": "9b2c9d90b2b001ef",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q167": {
-  "assunto": "Geometria espacial: cilindro, volume",
+  "assunto": "Geometria espacial: volume do cilindro",
   "dificuldade": 3,
   "explicacao": "A questão pede a altura mínima do reservatório cilíndrico que atende 100 habitantes por 7 dias, com 120 L por pessoa por dia. Volume necessário: 100 × 120 × 7 = 84 000 L. Como 1 m³ = 1 000 L, isso dá 84 m³. Área da base: o diâmetro é 5 m, então o raio é 2,5 m, e A = π r² = 3 × 2,5² = 3 × 6,25 = 18,75 m². Altura: h = V ÷ A = 84 ÷ 18,75 = 4,48 m. A alternativa A (1,12) usa o diâmetro como raio (3 × 25 = 75 e 84 ÷ 75 = 1,12). A B (3,10) e a C (4,35) resultam de erros no número de dias ou no arredondamento da área. A E (5,60) usa uma área de base de 15 m², incompatível com o raio de 2,5 m. Gabarito: D.",
   "hash": "1cba0589d359eddc",
@@ -504,14 +504,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q173": {
-  "assunto": "Equações e inequações: inequação do primeiro grau",
+  "assunto": "Equações e inequações: inequação do 1º grau",
   "dificuldade": 2,
   "explicacao": "A questão pede o menor número de lavagens diárias para atingir uma receita de pelo menos R$ 300,00. Para usar o mínimo de lavagens, convém fazer as mais caras, as completas, de R$ 35,00. Com n lavagens, a receita máxima possível é 35n. Precisamos de 35n ≥ 300, ou seja, n ≥ 300 ÷ 35 ≈ 8,57. Como n é inteiro, n = 9. Conferindo: com 8 lavagens, mesmo todas completas, a receita seria no máximo 8 × 35 = 280 reais, insuficiente; com 9 completas, 9 × 35 = 315 reais, o que basta (e até combinações como 8 completas e 1 simples, 280 + 20 = 300, funcionam). A alternativa A (6) daria no máximo 210 reais. A B (8) chega a no máximo 280 reais. A D (15) é o número necessário fazendo só lavagens simples (300 ÷ 20), não o mínimo. A E (20) não tem relação com o cálculo, apenas repete o preço da lavagem simples. Gabarito: C.",
   "hash": "8d2c22e6766223d1",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-digital-d2-q174": {
-  "assunto": "Porcentagem: descontos, comparação de preços",
+  "assunto": "Porcentagem: desconto, comparação de preços",
   "dificuldade": 2,
   "explicacao": "A questão pede a forma mais barata de comprar X, Y e Z, considerando os descontos. Farmácia 2: comprando X e Y juntos, 20% de desconto em ambos: (50 + 50) × 0,8 = R$ 80,00. Farmácia 3: comprando os três, 20% no total: (65 + 45 + 35) × 0,8 = 145 × 0,8 = R$ 116,00. Agora comparamos as opções. A: tudo na Farmácia 1, 45 + 40 + 50 = R$ 135,00. B: X e Y na Farmácia 1 (85) e Z na Farmácia 3 (35, sem desconto, pois não compra os três ali) = R$ 120,00. C: X e Y na Farmácia 2 com desconto (80) e Z na Farmácia 3 (35) = R$ 115,00. D: X na Farmácia 2 sem desconto (50), Y e Z na Farmácia 3 sem desconto (45 + 35) = R$ 130,00. E: tudo na Farmácia 3 com desconto = R$ 116,00. A menor despesa é R$ 115,00, na opção C. A alternativa E é a armadilha, pois o desconto total parece vantajoso, mas fica R$ 1,00 mais cara. Gabarito: C.",
   "hash": "d46ebed0a7e947d6",

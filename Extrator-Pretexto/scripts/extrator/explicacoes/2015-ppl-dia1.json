@@ -273,7 +273,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-ppl-d1-q40": {
-  "assunto": "Cidadania e direitos: inclusão, acessibilidade",
+  "assunto": "Cidadania e direitos: acessibilidade, inclusão",
   "dificuldade": 2,
   "explicacao": "A questão pede o desafio da inclusão social evidenciado pelo cartum. No primeiro quadro, um cadeirante lê o jornal na seção de empregos; no segundo, comemora ao encontrar uma vaga; no terceiro, chega ao local e vê a placa “Vagas para deficientes”, com a seta “Entre” apontando para uma escada, que ele não consegue subir. A ironia mostra que não basta garantir formalmente o direito ao trabalho: é preciso adaptar o espaço e considerar as necessidades específicas de cada grupo, como a acessibilidade para pessoas com deficiência. O desafio, portanto, é combinar direitos válidos para todos com o reconhecimento das diferenças. A alternativa A erra porque o problema mostrado não é de formação profissional. A B erra porque transferência de renda não aparece. A C erra porque a vaga já existe; o obstáculo é a falta de acessibilidade. A E erra porque o processo seletivo não é o foco da crítica. Gabarito: D.",
   "hash": "186b39fe20d1f294",
@@ -357,7 +357,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-ppl-d1-q52": {
-  "assunto": "Química orgânica: aminas, basicidade",
+  "assunto": "Química orgânica: basicidade, aminas",
   "dificuldade": 3,
   "explicacao": "A questão pede a propriedade química das aminas que permite formar sais de amônio estáveis. As aminas são derivadas da amônia (NH₃) e têm um átomo de nitrogênio com par de elétrons livre. Esse par pode receber um próton (H⁺), o que caracteriza a amina como base de Lewis e de Brønsted-Lowry. Ao reagir com um ácido, como o HCl, a amina forma um sal de amônio, como o cloridrato de efedrina, composto iônico com ponto de fusão alto (217 °C contra 79 °C da efedrina), mais solúvel em água, inodoro e que não se oxida, ideal para medicamentos. Logo, a propriedade em jogo é a basicidade. A alternativa A erra porque as aminas atuam como bases, não como ácidos, nessa reação. A C erra porque a solubilidade é consequência da formação do sal, não a propriedade que a permite. A D erra porque a volatilidade não explica a formação do sal. A E erra porque a aromaticidade é característica do anel benzênico, não do grupo amino que reage com o ácido. Gabarito: B.",
   "hash": "bdedb733019598a2",
@@ -392,7 +392,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-ppl-d1-q57": {
-  "assunto": "Ecologia: caatinga, adaptações à seca",
+  "assunto": "Ecologia: Caatinga, adaptações à seca",
   "dificuldade": 1,
   "explicacao": "A questão pede o fator ambiental responsável pelas adaptações descritas: folhas só três a quatro meses por ano, limbo foliar reduzido, abertura e fechamento rápidos dos estômatos e caule suculento. Todas são estratégias para economizar água. Perder as folhas na estação seca (caducifolia) e ter folhas pequenas reduzem a transpiração; o controle rápido dos estômatos limita a perda de vapor de água; e o caule suculento armazena água para os períodos secos. Essas características são típicas da Caatinga, bioma semiárido com chuvas escassas e irregulares. A alternativa A erra porque escassez de nutrientes leva a outras adaptações, como as do cerrado e de plantas carnívoras. A B erra porque estratificação é a organização em estratos da vegetação, não um fator ambiental que gere essas adaptações. A C erra porque a insolação influencia, mas o fator central dessas características é a falta de água. A D erra porque o pH baixo do solo não explica caule suculento nem perda de folhas. Gabarito: E.",
   "hash": "718900cdad10c195",

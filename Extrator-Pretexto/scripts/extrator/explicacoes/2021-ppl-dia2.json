@@ -182,7 +182,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q126": {
-  "assunto": "Eletrodinâmica: potência, corrente elétrica",
+  "assunto": "Eletrodinâmica: potência elétrica, corrente",
   "dificuldade": 3,
   "explicacao": "A questão pede o cabo mais barato que suporte a corrente total de dois chuveiros de 5,5 kW ligados juntos em 220 V. Passo 1: potência total: P = 2 × 5 500 W = 11 000 W. Passo 2: corrente total: i = P ÷ U = 11 000 W ÷ 220 V = 50 A. Passo 3: consultar o quadro, que relaciona área de seção reta e corrente máxima: 0,5 mm², 12 A; 1,5 mm², 23 A; 2,5 mm², 31 A; 6,0 mm², 54 A; 16,0 mm², 100 A. O menor cabo cuja corrente máxima é pelo menos 50 A é o de 6,0 mm², que suporta 54 A. Como cabos mais grossos são mais caros, ele é a escolha de menor custo que atende à instalação. Na alternativa A, 0,5 mm² suporta só 12 A. Na B, 1,5 mm² suporta 23 A, menos da metade do necessário. Na C, 2,5 mm² suporta 31 A, o que bastaria para um único chuveiro (25 A), mas não para os dois. Na E, 16,0 mm² suporta a corrente, mas é mais caro que o necessário. Gabarito: D.",
   "hash": "a352b802d786212e",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q136": {
-  "assunto": "Geometria espacial: projeção ortogonal, prismas",
+  "assunto": "Geometria espacial: projeção ortogonal, prisma",
   "dificuldade": 4,
   "explicacao": "A questão pede a projeção ortogonal, sobre o plano da base ABCD, da trajetória A–X–Y–G–F–E–X–G–E do inseto no prisma reto. Na figura, a base inferior é ABCD e a superior é EFGH, com E sobre A, F sobre B, G sobre C e H sobre D; o ponto X está na aresta BF e o ponto Y na aresta CG. Projetar ortogonalmente sobre a base é descer cada ponto verticalmente. Assim: A → A; X → B; Y → C; G → C; F → B; E → A. A sequência projetada fica A–B–C–C–B–A–B–C–A. Os segmentos obtidos são AB, BC, (C–C é um ponto), CB, BA, AB, BC e CA. Repetições se sobrepõem, então a projeção é formada apenas pelos segmentos AB, BC e CA, isto é, o triângulo ABC, com ângulo reto em B, já que a base é retangular. É exatamente a figura da alternativa D. As demais alternativas incluem segmentos que não aparecem na projeção, como lados envolvendo o ponto D, ou omitem algum dos lados AB, BC ou da diagonal AC, que vem dos trechos E–X–G e G–E. Gabarito: D.",
   "hash": "0393b1c60deec4e5",
@@ -301,7 +301,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q143": {
-  "assunto": "Porcentagem: aumentos percentuais, arrecadação",
+  "assunto": "Porcentagem: aumento percentual, arrecadação",
   "dificuldade": 5,
   "explicacao": "A questão pede a classificação do aumento de arrecadação com descontos de R$ 8,00 na inteira e R$ 4,00 na meia. Situação inicial: 100 pessoas, 60 meias e 40 inteiras. Arrecadação: 40 × 30 + 60 × 15 = 1 200 + 900 = R$ 2 100,00. Na promoção, o desconto de R$ 8,00 equivale a 4 vezes R$ 2,00, então as inteiras aumentam 4 × 20% = 80%: 40 × 1,8 = 72 pessoas, pagando 30 − 8 = R$ 22,00. O desconto de R$ 4,00 equivale a 4 vezes R$ 1,00, então as meias aumentam 4 × 10% = 40%: 60 × 1,4 = 84 pessoas, pagando 15 − 4 = R$ 11,00. Total de 156 pessoas, abaixo da capacidade de 180. Nova arrecadação: 72 × 22 + 84 × 11 = 1 584 + 924 = R$ 2 508,00. Aumento: 2 508 − 2 100 = R$ 408,00, que está na faixa até R$ 500,00, classificada como fraco. Na alternativa B, regular exigiria aumento acima de R$ 500,00. Nas alternativas C, D e E, as faixas exigem aumentos ainda maiores, que não ocorrem. Gabarito: A.",
   "hash": "0b42e860583df6d6",
@@ -497,7 +497,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q171": {
-  "assunto": "Leitura de gráficos e tabelas: interpretação de gráficos",
+  "assunto": "Leitura de gráficos e tabelas: interpretação de gráfico",
   "dificuldade": 3,
   "explicacao": "A questão pede o gráfico do paciente sem descenso noturno, isto é, cuja pressão sistólica durante o sono (faixa cinza) caiu menos de 10% em relação à vigília. Em quem tem descenso fisiológico, a curva cai de forma nítida dentro da faixa hachurada, com redução de pelo menos 10% do valor de vigília (por exemplo, de 130 mmHg para 117 mmHg ou menos). No gráfico da alternativa E, a pressão fica em torno de um mesmo patamar durante a vigília e, no período de sono, entre cerca de 11 h e 15 h 30, sofre apenas uma pequena oscilação para baixo, de pouco mais de uma divisão da escala, e logo volta a subir. Essa queda é muito inferior a 10% do valor de vigília, caracterizando a ausência de descenso noturno, situação associada a maior risco de AVC e infarto. Nas alternativas A, B, C e D, a curva mostra queda acentuada da pressão na região cinza, compatível com redução de 10% ou mais, ou seja, descenso fisiológico preservado. Gabarito: E.",
   "hash": "bbd29dae0090c883",
@@ -518,7 +518,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q174": {
-  "assunto": "Função quadrática: valor máximo, vértice",
+  "assunto": "Função quadrática: vértice, valor máximo",
   "dificuldade": 3,
   "explicacao": "[REVISAR] A expressão da velocidade aparece corrompida na extração (expoentes trocados por ?); a leitura correta é V(x) = K(R² − x²). A questão pede o valor de x que torna a velocidade máxima. Como K é positivo e R é fixo, V(x) = K·R² − K·x² é uma função quadrática em x com coeficiente de x² negativo, ou seja, uma parábola com concavidade para baixo, cujo máximo está no vértice. O vértice ocorre em x = 0, pois a função não tem termo de primeiro grau. Interpretando: x = 0 é o centro da seção do tubo, onde a partícula está mais longe das paredes e escoa mais rápido, com velocidade máxima K·R². Na alternativa B, x = R corresponde à parede do tubo, onde a velocidade é zero. Na C, 2R está fora do tubo. Na D e na E, KR e KR² misturam a constante com a posição e não anulam o termo −K·x². Gabarito: A.",
   "hash": "f1b6b458698c5c88",
@@ -539,14 +539,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q177": {
-  "assunto": "Grandezas e medidas: área de retângulo",
+  "assunto": "Grandezas e medidas: área de retângulos",
   "dificuldade": 2,
   "explicacao": "A questão pede o aumento mínimo na largura do painel para que ele gere pelo menos 150 MWh, mantendo o comprimento de 6 m. Cada metro quadrado gera 5 MWh. Situação atual: área = 3 × 6 = 18 m²; energia = 18 × 5 = 90 MWh, abaixo do necessário. Área mínima para o selo: 150 ÷ 5 = 30 m². Com comprimento fixo de 6 m, a largura mínima é 30 ÷ 6 = 5 m. O aumento na largura é 5 − 3 = 2 m. Na alternativa B, 4 m daria largura de 7 m, mais que o mínimo. Na C, 5 m é a largura final, não o aumento. Na D, 10 m não decorre do cálculo. Na E, 12 m é o acréscimo de área (30 − 18), não de largura. Gabarito: A.",
   "hash": "542bfe478f711482",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-ppl-d2-q178": {
-  "assunto": "Leitura de gráficos e tabelas: interpretação de gráficos",
+  "assunto": "Leitura de gráficos e tabelas: interpretação de gráfico",
   "dificuldade": 1,
   "explicacao": "A questão pede por quanto tempo o download ficou travado. No gráfico de volume baixado versus tempo, o download está travado quando o volume não aumenta, ou seja, quando a curva fica horizontal. Há dois trechos horizontais: de 3 s a 6 s, duração de 6 − 3 = 3 s; e de 10 s a 12 s, duração de 12 − 10 = 2 s. Nos demais intervalos (0 a 3, 6 a 10, 12 a 13 e 13 a 16), a curva sobe, indicando transferência de dados. Tempo total travado: 3 + 2 = 5 s. Na alternativa A, 9 s soma intervalos em que o download ocorria. Na C, 3 s considera só o primeiro travamento. Na D, 2 s considera só o segundo. Na E, 0 ignora os trechos horizontais. Gabarito: B.",
   "hash": "6a9182c6bfc5b7ed",

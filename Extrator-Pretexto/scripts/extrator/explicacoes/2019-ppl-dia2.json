@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-ppl-d2-q137": {
-  "assunto": "Geometria espacial: paralelepípedo, área total",
+  "assunto": "Geometria espacial: área total do paralelepípedo",
   "dificuldade": 3,
   "explicacao": "A questão pede a caixa que comporta uma esfera de raio 11 cm e tem a menor área total. A esfera tem diâmetro 22 cm, então todas as dimensões da caixa devem ser de pelo menos 22 cm. Passo 1: eliminar modelos. O modelo 1 (12 × 12 × 13) é pequeno demais. O modelo 2 tem largura 20 cm, menor que 22. Restam 3, 4 e 5. Passo 2: área total A = 2(ab + ac + bc). Modelo 3 (25 × 25 × 25): 6 × 625 = 3 750 cm². Modelo 4 (26 × 25 × 24): 2(650 + 624 + 600) = 2 × 1 874 = 3 748 cm². Modelo 5 (23 × 26 × 26): 2(598 + 598 + 676) = 2 × 1 872 = 3 744 cm². Passo 3: a menor área é a do modelo 5. As alternativas A e B erram porque essas caixas não comportam a esfera. A C (3 750 cm²) e a D (3 748 cm²) comportam a esfera, mas têm área maior que a do modelo 5. Gabarito: E.",
   "hash": "33b92cbc2d0d6ce3",
@@ -385,14 +385,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-ppl-d2-q155": {
-  "assunto": "Equações e inequações: inequações do 1º grau",
+  "assunto": "Equações e inequações: inequação do 1º grau",
   "dificuldade": 2,
   "explicacao": "A questão pede a maior espessura de vidro que deixe, numa canaleta de 1,45 cm, folga total entre 0,2 cm e 0,5 cm. Se a espessura é e, a folga é 1,45 − e. Passo 1: folga mínima: 1,45 − e ≥ 0,2, logo e ≤ 1,25 cm. Passo 2: folga máxima: 1,45 − e ≤ 0,5, logo e ≥ 0,95 cm. Passo 3: a espessura deve satisfazer 0,95 ≤ e ≤ 1,25. Entre as disponíveis, servem 0,95; 1,05 e 1,20, e a maior delas é 1,20 cm, com folga de 0,25 cm. A alternativa A (0,75) deixaria folga de 0,70 cm, acima do máximo, e o vidro bateria. A B (0,95) atende, mas não é a maior espessura possível. A C (1,05) também atende, mas é menor que 1,20. A E (1,40) deixaria folga de só 0,05 cm, e o vidro não escorregaria. Gabarito: D.",
   "hash": "0bb594adb592adcf",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-ppl-d2-q156": {
-  "assunto": "Aritmética: frações, decimais, porcentagens",
+  "assunto": "Aritmética: frações, decimais, porcentagem",
   "dificuldade": 3,
   "explicacao": "A questão pede o número máximo de garrafas derrubadas para somar 7,55 pontos, sabendo que uma delas era 6,8 e que rótulos com o mesmo valor contam uma vez só. Passo 1: o que falta: 7,55 − 6,8 = 0,75. Passo 2: procurar nos rótulos tudo que vale 0,75: 9/12 = 0,75; 0,75; 3/4 = 0,75; 6/8 = 0,75; 75% = 0,75. São cinco garrafas com o mesmo valor, e todas podem ser derrubadas, já que valores repetidos somam apenas uma vez. Passo 3: verificar que nenhuma outra garrafa pode entrar: 34% = 0,34; 3,4; 4/3 ≈ 1,33 e 4,3 ultrapassariam ou não completariam exatamente os pontos. Total máximo: 1 (6,8) + 5 (valor 0,75) = 6 garrafas. A alternativa A (2) considera só uma garrafa de 0,75. A B (3) e a C (4) reconhecem apenas algumas das representações equivalentes. A D (5) esquece de contar a garrafa 6,8 ou uma das formas de 0,75. Gabarito: E.",
   "hash": "ee5650ff6a7892e9",
@@ -406,7 +406,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-ppl-d2-q158": {
-  "assunto": "Trigonometria: função seno, período",
+  "assunto": "Trigonometria: período da função seno",
   "dificuldade": 4,
   "explicacao": "A questão pede a expressão de P(t) a partir do gráfico, num modelo do tipo P(t) = A·sen(ωt + φ). Leia os parâmetros no gráfico. Amplitude: a posição oscila entre −4 e 4, logo A = 4. Fase: em t = 0 a curva vale 0 e está subindo, comportamento típico do seno sem deslocamento, logo φ = 0. Período: a curva sobe de 0, chega a 4, volta a 0 em π/2, desce até −4 e retorna a 0 em t = π; assim, um ciclo completo dura T = π. Como ω = 2π/T = 2π/π = 2, a expressão é P(t) = 4·sen(2t). Conferindo: em t = π/4, P = 4·sen(π/2) = 4, o primeiro máximo. As demais alternativas erram em algum parâmetro: usar cosseno, que começaria no máximo e não em zero; trocar a frequência, por exemplo sen(t) ou sen(t/2), com período 2π ou 4π; ou alterar a amplitude ou o sinal, o que faria a curva começar descendo. Gabarito: A.",
   "hash": "c0cbe684c189ca22",
@@ -525,7 +525,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-ppl-d2-q175": {
-  "assunto": "Geometria plana: áreas de triângulos, trapézio",
+  "assunto": "Geometria plana: áreas de trapézio, triângulo",
   "dificuldade": 5,
   "explicacao": "A questão pede a razão BC/AD que torna iguais as áreas dos cinco triângulos do trapézio. Os pontos B, M e C estão na base menor BC (M é o ponto médio) e P e Q dividem a base maior AD em três partes iguais. Os segmentos traçados formam triângulos alternados: três com base sobre AD (ABP, PMQ e QCD), cada um com base AD/3 e vértice na base oposta; e dois com base sobre BC (BPM e MQC), cada um com base BC/2 e vértice em AD. Todos têm a mesma altura h, que é a altura do trapézio. Passo 1: área dos triângulos de baixo = (AD/3)·h/2. Passo 2: área dos de cima = (BC/2)·h/2. Passo 3: igualando: BC/2 = AD/3, logo BC/AD = 2/3. A alternativa A (1/3) iguala BC a uma única parte de AD. A C (2/5) e a D (3/5) dividem pela quantidade total de triângulos, sem separar bases. A E (5/6) não corresponde à igualdade das bases dos triângulos. Gabarito: B.",
   "hash": "89b367e6dd499a5e",

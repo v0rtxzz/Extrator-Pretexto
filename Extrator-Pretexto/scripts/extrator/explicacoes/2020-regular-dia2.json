@@ -336,7 +336,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-regular-d2-q149": {
-  "assunto": "Funções exponencial e logarítmica: propriedades dos logaritmos",
+  "assunto": "Funções exponencial e logarítmica: propriedades do logaritmo",
   "dificuldade": 4,
   "explicacao": "[REVISAR] A fórmula do apoio veio corrompida (f A/(r B), palavr=a); a lei de Zipf correta é f = A/r^B. A questão pede a relação entre Y = log f e X = log r quando a lei vale exatamente. Aplicando logaritmo aos dois lados de f = A/r^B: log f = log A − log(r^B). Pela propriedade log(r^B) = B·log r, temos log f = log A − B·log r. Substituindo Y e X: Y = log(A) − B·X. É uma função afim de X, com coeficiente angular −B (negativo, pois B > 0) e coeficiente linear log A, o que corresponde à expressão da alternativa A. As demais alternativas trazem relações que não decorrem das propriedades do logaritmo: trocar a subtração por divisão ou produto, não multiplicar X por B, ou tratar log A como A, por exemplo. Gabarito: A.",
   "hash": "83371c0d0d49fbb6",
@@ -420,7 +420,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-regular-d2-q162": {
-  "assunto": "Geometria plana: áreas de retângulos",
+  "assunto": "Geometria plana: área do retângulo",
   "dificuldade": 3,
   "explicacao": "A questão pede qual planta atende às três regras: afastamento de pelo menos 4 m da rua, de pelo menos 1 m das divisas e área construída entre 40% e 50% de 200 m², ou seja, entre 80 m² e 100 m². Cada lote tem 10 m × 20 m. Casa 1: afastamentos 4 (rua lateral), 1, 1 e 4 (rua de baixo); dimensões (10 − 4 − 1) × (20 − 1 − 4) = 5 × 15 = 75 m², abaixo de 80. Casa 2: (10 − 1 − 1) × (20 − 1 − 4) = 8 × 15 = 120 m², acima de 100. Casa 3: (10 − 4 − 1) × (20 − 4 − 4) = 5 × 12 = 60 m², abaixo. Casa 4: está a apenas 2 m da rua, violando o afastamento mínimo de 4 m. Casa 5: afastamento 4 da rua, 1 nas divisas; (10 − 4 − 1) × (20 − 1 − 1) = 5 × 18 = 90 m², que é 45% do lote, dentro da faixa. Só a casa 5 cumpre todas as regras. Gabarito: E.",
   "hash": "3fde8d8787dc7050",
@@ -434,7 +434,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-regular-d2-q164": {
-  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
   "dificuldade": 2,
   "explicacao": "A questão pede durante quantas horas o ruído ficou acima de 55 dB no canteiro de obras. Basta ler no gráfico os intervalos em que a curva está acima da linha de 55 dB. Primeiro intervalo: de 2 h até 5 h, 3 horas. Após a queda brusca às 5 h, a curva volta a superar 55 dB por volta das 6 h e fica acima até as 9 h, mais 3 horas. Terceiro: de 11 h a 14 h, 3 horas. Quarto: o pico curto entre 16 h e 17 h, 1 hora. Quinto: de 19 h a 22 h, 3 horas. Somando: 3 + 3 + 3 + 1 + 3 = 13 horas. A alternativa A (5) conta apenas o número de intervalos. A B (8), a C (10) e a D (11) resultam de esquecer algum trecho, como o pico curto das 16 h às 17 h, ou de ler mal os pontos de cruzamento. Gabarito: E.",
   "hash": "fad8068c86f713fe",
@@ -518,7 +518,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2020-regular-d2-q176": {
-  "assunto": "Geometria espacial: projeções ortogonais",
+  "assunto": "Geometria espacial: projeção ortogonal",
   "dificuldade": 5,
   "explicacao": "A questão pede a figura que mostra uma posição possível do sólido de quatro cubos junto com suas projeções ortogonais corretas nos três planos (dois planos verticais e o chão). O sólido tem formato de L tridimensional: dois cubos empilhados à esquerda e, ao lado deles, um cubo em cima e outro embaixo deslocado para a frente, como mostra a figura de apoio. A projeção ortogonal em cada plano é a sombra do sólido quando vista perpendicularmente a esse plano, e deve ter forma e quantidade de quadrados coerentes com a posição do objeto. Na alternativa E, as três projeções são compatíveis com o sólido na posição desenhada: no chão aparecem os quadrados ocupados pela base do sólido e, nas paredes, as silhuetas formadas pelos cubos vistos de cada lado, com a forma em L ou em degrau correspondente. Nas outras alternativas, ao menos uma das projeções não corresponde à posição do sólido: há quadrados a mais ou a menos, ou formas que só apareceriam se o objeto estivesse girado de outro modo. Gabarito: E.",
   "hash": "a0324d5c165a3d74",

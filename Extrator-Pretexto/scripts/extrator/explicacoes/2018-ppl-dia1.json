@@ -98,7 +98,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q10": {
-  "assunto": "Literatura brasileira: barroco, Gregório de Matos",
+  "assunto": "Literatura brasileira: Barroco, Gregório de Matos",
   "dificuldade": 3,
   "explicacao": "A questão pede o objetivo com que Gregório de Matos usa ditados populares no poema. Os versos retomam provérbios conhecidos: quem tem telhado de vidro não atira pedra no do vizinho, “vender gato por lebre” e “se o cão entra na igreja, é porque acha aberta a porta”. Cada um aponta uma conduta reprovável: a hipocrisia de quem se cala por medo de ser acusado, a desonestidade dos comerciantes (os “regatões tabaquistas”) que enganam os compradores e a permissividade que abre espaço ao abuso. Fiel à sua fama de “Boca do Inferno”, o poeta satírico usa os ditados para criticar comportamentos, alternativa E. A alternativa A é insuficiente, pois as atitudes não são só enumeradas, mas condenadas. A B erra porque não há descrição neutra de costumes. A C confunde o recurso com o fim: os provérbios carregam sabedoria, mas servem à crítica. A D não procede, já que o tom é de denúncia, não de conselho. Gabarito: E.",
   "hash": "bde8cbf54ff2f42b",
@@ -140,7 +140,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q16": {
-  "assunto": "Artes visuais: modernismo, Tarsila do Amaral",
+  "assunto": "Artes visuais: Modernismo, Tarsila do Amaral",
   "dificuldade": 3,
   "explicacao": "A questão pede o recurso com que a tela EFCB (Estrada de Ferro Central do Brasil), de Tarsila do Amaral, mostra a modernização do país. A imagem reúne, no mesmo plano e sem perspectiva tradicional, casas coloniais, uma igreja com torres, árvores estilizadas e morros, e por cima e por entre eles postes, torres metálicas treliçadas, uma ponte de ferro, trilhos curvos, sinais ferroviários e vagões. Os elementos modernos se sobrepõem à paisagem do interior, como se a ferrovia e a eletricidade invadissem a cidade tradicional, num arranjo de inspiração cubista com cores do período Pau-Brasil. Essa sobreposição de elementos é o que evidencia o processo de modernização, alternativa C. A alternativa A erra porque a composição não privilegia a verticalização, com prédios altos. A B exagera, pois as formas são simplificadas, mas reconhecíveis. A D não procede, já que a natureza divide espaço com a técnica e não é o foco. A E é incorreta, pois o tema é figurativo, não abstrato. Gabarito: C.",
   "hash": "326c3044e83d5281",
@@ -266,14 +266,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q34": {
-  "assunto": "Artes visuais: barroco mineiro, Ataíde",
+  "assunto": "Artes visuais: Barroco mineiro, Ataíde",
   "dificuldade": 4,
   "explicacao": "A questão pede a inovação da pintura de Manuel da Costa Ataíde destacada no Texto II. O detalhe do forro da Igreja de São Francisco de Assis, em Ouro Preto, mostra a coroação da Virgem cercada de anjos e músicos. O texto explica que Ataíde partia de bíblias e missais europeus, mas recriava as cenas com liberdade, e que Mário de Andrade teria vibrado com o “mulatismo” das figuras, que, ao lado da obra de Aleijadinho, revelaria um “surto de racialidade brasileira” no século XVIII. Ou seja, a novidade está em dar às figuras sagradas traços mestiços, próprios da população local, incorporando características identitárias brasileiras, alternativa E. A alternativa A erra porque os episódios bíblicos eram o padrão, não a inovação. A B inverte a ideia, já que o destaque é o afastamento do modelo europeu. A C não procede, pois o texto não fala em mistura de religiões. A D é incorreta, já que o antropocentrismo clássico é renascentista e não é mencionado. Gabarito: E.",
   "hash": "c84018dcd46cbce9",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q35": {
-  "assunto": "Literatura brasileira: modernismo, Alcântara Machado",
+  "assunto": "Literatura brasileira: Modernismo, Alcântara Machado",
   "dificuldade": 3,
   "explicacao": "A questão pede os recursos expressivos inovadores do conto “Gaetaninho”, de Alcântara Machado, ligado ao Modernismo paulista dos anos 1920. O texto tem ritmo rápido, quase telegráfico: “Um sonho.”, “Pegou e matou.”, “No bonde vinha o pai do Gaetaninho.” As frases curtas narram de forma seca a morte do menino. A linguagem também incorpora a oralidade e o registro informal das ruas, como em “Amassou o bonde!”, “a gurizada” e “a ralé”, imitando o falar popular dos bairros de imigrantes. Esses traços correspondem à alternativa A. A alternativa B erra porque, embora a narrativa tenha cortes, as cenas são encadeadas, não desconexas. A C não procede, pois o discurso direto aparece pouco e não predomina. A D é incorreta, já que o tom não é respeitoso, e sim seco e irônico. A E falha porque as exclamações são raras e não marcam o texto. Gabarito: A.",
   "hash": "0cf3aed9bee932f0",
@@ -287,7 +287,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q37": {
-  "assunto": "Literatura brasileira: naturalismo, Adolfo Caminha",
+  "assunto": "Literatura brasileira: Naturalismo, Adolfo Caminha",
   "dificuldade": 3,
   "explicacao": "A questão pede o que o fragmento de A normalista, alinhado ao Naturalismo, destaca nos personagens. O pensamento do personagem masculino revela os padrões da época: ele detesta as “mulheres de vida alegre”, quer casar com uma menina “ingênua e pobre”, porque nas classes pobres haveria “mais vergonha e menos bandalheira”, e vê nas mulheres modernas uma “tendência fatal” ao adultério. Maria do Carmo serve por ser “pobrezinha, mas inocente”. O texto expõe como os indivíduos são enquadrados por classe social e por gênero: a mulher é avaliada pela pureza e submissão, e a pobreza a torna conveniente para o casamento. Isso é a sujeição a modelos de estratificação social e de gênero, alternativa E. A alternativa A toma ao pé da letra a opinião do personagem como tese do texto. A B erra porque não se fala em temperamento inconstante. A C não procede, pois não há relação entre instrução e desvio. A D é incorreta, já que não há projeto de reeducação positivista. Gabarito: E.",
   "hash": "e757d611d50fd820",
@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q40": {
-  "assunto": "Literatura brasileira: romantismo, José de Alencar",
+  "assunto": "Literatura brasileira: Romantismo, José de Alencar",
   "dificuldade": 3,
   "explicacao": "A questão pede o que o fragmento da crônica de José de Alencar, de 1854, elogia para construir a temática nacionalista. O cronista admite que podem achar seu texto “voos de imaginação”, mas justifica: a realidade vai tomando proporções fantásticas, a civilização faz prodígios e, no país, a inteligência, o talento, as artes, o comércio e as grandes ideias “pululam, crescem e se desenvolvem”. No segundo parágrafo, enfatiza os melhoramentos materiais: cada dia é um passo, e cada passo é algo útil “para o engrandecimento do país”. O foco é o avanço do país, ou seja, o progresso nacional, alternativa B. A alternativa A erra porque o texto olha para o presente e o futuro, não para o passado. A C toma um dos elementos da lista como o todo. A D não procede, pois a civilização aparece como contexto, e o elogio recai sobre o país. A E confunde a justificativa inicial do autor com o objeto do elogio. Gabarito: B.",
   "hash": "6e3253c02796663d",
@@ -420,7 +420,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q56": {
-  "assunto": "Geopolítica e conflitos: segunda guerra mundial",
+  "assunto": "Geopolítica e conflitos: Segunda Guerra Mundial",
   "dificuldade": 3,
   "explicacao": "A questão pede o sentido da expressão de Hobsbawm segundo a qual a Segunda Guerra Mundial foi uma aula de geografia. O ponto central do texto é que lugares antes desconhecidos do grande público, como ilhas da Melanésia, povoados no deserto do norte da África, na Birmânia e nas Filipinas, passaram a ser tão familiares para leitores de jornais e ouvintes de rádio quanto Stalingrado ou a Normandia. Como o conflito foi travado em escala planetária e acompanhado diariamente pela imprensa, a população passou a conhecer nomes e localizações de regiões até então ignoradas. É exatamente isso que afirma a alternativa A: teve-se ciência de lugares outrora ignorados. A alternativa B fala de mudanças de fronteiras, fato real do pós-guerra, mas não é o que o texto destaca. A C trata do uso militar de mapas, enquanto o texto fala do público civil. A D aborda impactos econômicos, ausentes do trecho. A E está errada, pois a guerra justamente mostrou a dimensão global do conflito, além da Europa. Gabarito: A.",
   "hash": "4978a85bc13cf4c5",
@@ -441,7 +441,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q59": {
-  "assunto": "Urbanização: segregação socioespacial, moradia",
+  "assunto": "Urbanização: moradia, segregação socioespacial",
   "dificuldade": 3,
   "explicacao": "A questão pede que se identifique a desigualdade social revelada pela história da Cidade Livre, atual Núcleo Bandeirante. O texto mostra que os lotes não foram vendidos, mas cedidos em comodato; quando os contratos foram cancelados e os comerciantes transferidos, os terrenos vazios foram ocupados por famílias de baixa renda, que pressionaram o governo até a criação oficial da cidade em 1961. Esse processo ilustra um problema típico das cidades brasileiras: a população pobre não consegue comprar ou alugar imóveis pelas vias legais e acaba ocupando áreas de forma irregular, como em favelas e loteamentos clandestinos. Trata-se da dificuldade de acesso ao mercado imobiliário formal, alternativa B. A A cita lazer gratuito, que não aparece no texto. A C menciona transporte público, tema não abordado. A D fala de água potável, também ausente do trecho. A E trata de emprego com carteira assinada, mas a dinâmica descrita gira em torno da moradia e da posse da terra, não do trabalho. Gabarito: B.",
   "hash": "e133d21e085dc7e5",
@@ -539,7 +539,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q73": {
-  "assunto": "Revoluções e século XIX: revolução industrial, proletariado",
+  "assunto": "Revoluções e século XIX: Revolução Industrial, proletariado",
   "dificuldade": 2,
   "explicacao": "A questão pede os principais atores sociais das mudanças surgidas com a Primeira Revolução Industrial. O texto relaciona a segunda metade do século XVIII ao nascimento do proletariado, ao aumento das pressões por participação política e à intensificação da urbanização. A Revolução Industrial foi conduzida pela burguesia, dona das fábricas, máquinas e capitais, que reorganizou a produção e lutou por poder político contra os privilégios aristocráticos. Ao mesmo tempo, formou-se a classe dos trabalhadores assalariados, o proletariado, que migrou para as cidades e passou a se organizar em sindicatos e movimentos como o cartismo, reivindicando direitos e participação. Assim, a alternativa A, burguesia e trabalhadores assalariados, é a correta. A B cita Igreja e corporações de ofício, instituições típicas da Idade Média e enfraquecidas pela indústria. A C fala de realeza e comerciantes, mais ligados ao mercantilismo. A D menciona camponeses e artesãos, grupos que perderam espaço com as fábricas. A E aponta nobreza e artífices, também associados à ordem pré-industrial. Gabarito: A.",
   "hash": "1a79999e50370b2d",
@@ -567,7 +567,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q77": {
-  "assunto": "Cidadania e direitos: lei maria da penha",
+  "assunto": "Cidadania e direitos: Lei Maria da Penha",
   "dificuldade": 3,
   "explicacao": "A questão pede como a Lei Maria da Penha pode alterar a situação da mulher. O texto explica que a lei nasceu de uma crítica aos Juizados Especiais Criminais, que tratavam a violência contra a mulher como crime de menor potencial ofensivo e aplicavam penas alternativas, como o pagamento de cestas básicas pelo agressor, o que banalizava o problema. A Lei 11.340/2006 retirou esses casos dos juizados especiais, proibiu as penas de cesta básica, criou medidas protetivas de urgência, como o afastamento do agressor do lar, e previu juizados especializados em violência doméstica e familiar. Com isso, aumentou a proteção da mulher contra ações de violência, alternativa D. A A fala da mulher como provedora do lar, tema não tratado pela lei. A B menciona inserção no mercado de trabalho, assunto de outras políticas. A C cita presença em instituições policiais, que não é o objetivo da lei. A E trata de participação como gestora pública, também sem relação com o texto. Gabarito: D.",
   "hash": "e364956b04e9c433",
@@ -644,7 +644,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q88": {
-  "assunto": "Questões ambientais: desmatamento da amazônia",
+  "assunto": "Questões ambientais: desmatamento da Amazônia",
   "dificuldade": 2,
   "explicacao": "A questão pede a explicação para a destruição do patrimônio natural da Amazônia descrita no texto. O autor afirma que a região foi a última fronteira a ser incorporada à exploração capitalista e submetida à agricultura, à pecuária, à lavoura e à silvicultura, o que tem provocado a destruição de sua riqueza natural. O avanço da fronteira agrícola, especialmente no chamado arco do desmatamento, se dá pela abertura de pastagens para a pecuária bovina e de áreas para monoculturas como a soja, voltadas sobretudo à exportação. Esse conjunto de atividades agropecuárias empresariais, integradas ao mercado, é o agronegócio, alternativa D. A A cita a população ribeirinha, que tem baixo impacto ambiental e vive de atividades tradicionais. A B fala de patenteamento de espécies, ligado à biopirataria, não ao desmatamento em larga escala. A C menciona transporte hidroviário, que tem impacto menor que o das rodovias. A E aponta o turismo, atividade de pequena escala na região. Gabarito: D.",
   "hash": "9e6251366f8b1b54",
@@ -658,7 +658,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d1-q90": {
-  "assunto": "Filosofia moderna: empirismo, Hume",
+  "assunto": "Filosofia moderna: empirismo de Hume",
   "dificuldade": 3,
   "explicacao": "A questão pede a origem do conhecimento segundo o trecho de David Hume. O filósofo afirma que, ao analisarmos nossos pensamentos e ideias, por mais complexos que sejam, sempre descobrimos que se reduzem a ideias simples que são cópias de sensações ou sentimentos anteriores. Mesmo as ideias aparentemente distantes dessa origem derivam dela. Essa é a tese central do empirismo: não há ideias inatas, e todo conhecimento começa na experiência, ou seja, nas impressões captadas pelos sentidos. As ideias são apenas cópias enfraquecidas dessas impressões. Assim, a alternativa D, percepção dos sentidos, é a correta. A A fala de convicção inata, posição racionalista, como a de Descartes, que Hume rejeita. A B cita a dimensão apriorística, isto é, anterior à experiência, o oposto do empirismo. A C atribui a gênese ao intelecto, mas para Hume o intelecto apenas combina o que veio dos sentidos. A E menciona realidade transcendental, ideia alheia ao pensamento humeano. Gabarito: D.",
   "hash": "248debd21150fa77",

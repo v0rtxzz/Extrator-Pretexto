@@ -191,7 +191,8 @@ def cmd_salvar(prova, arquivo):
             if not esp.strip() or geral.strip() not in ASSUNTOS[q['materia']]:
                 erros.append(f'{qid}: assunto "{ass}" inválido; use "Assunto geral: específico" com o geral entre: '
                              + '; '.join(ASSUNTOS[q['materia']])); continue
-            ass = f'{geral.strip()}: {esp.strip()}'
+            from padronizar_assuntos import grafia  # padrão de grafia do específico (nomes próprios, siglas)
+            ass = f'{geral.strip()}: {grafia(esp)}'
         ent.update({'hash': IA._hash(q), 'explicacao': texto, 'dificuldade': dif, 'assunto': ass})
         ent.setdefault('modelo', MODELO)
         c[qid] = {k: v for k, v in ent.items() if v is not None}

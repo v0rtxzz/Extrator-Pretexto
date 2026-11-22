@@ -357,7 +357,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-regular-d2-q151": {
-  "assunto": "Geometria espacial: paralelepípedo, volume",
+  "assunto": "Geometria espacial: volume do paralelepípedo",
   "dificuldade": 3,
   "explicacao": "A questão pede em quantos por cento a altura da lata deve diminuir para manter o volume, se as duas dimensões da base aumentam 25%. O volume de um paralelepípedo é comprimento × largura × altura. Multiplicando cada dimensão da base por 1,25, a área da base fica multiplicada por 1,25 × 1,25 = 1,5625. Para o volume continuar o mesmo, a altura deve ser multiplicada pelo inverso: 1 ÷ 1,5625 = 0,64. A nova altura é 64% da antiga, o que representa uma redução de 100% − 64% = 36%. As medidas da figura não são necessárias, pois o raciocínio vale para qualquer lata. A alternativa A, 14,4%, não corresponde a nenhum cálculo coerente. A alternativa B, 20,0%, seria a redução se apenas uma dimensão da base aumentasse 25%. A alternativa C, 32,0%, não respeita a conservação do volume. A alternativa E, 64,0%, é a fração que resta da altura, não a redução. Gabarito: D.",
   "hash": "9072b424eea9921e",
@@ -441,7 +441,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-regular-d2-q163": {
-  "assunto": "Análise combinatória: princípio multiplicativo, permutações",
+  "assunto": "Análise combinatória: princípio multiplicativo, permutação",
   "dificuldade": 4,
   "explicacao": "A questão pede o número de formas de executar a estratégia: alugar sempre um filme de ação com um de comédia até acabarem as comédias e, depois, um de ação com um de drama. São 8 filmes de ação, 5 de comédia e 3 de drama, distribuídos em 5 locações de ação com comédia seguidas de 3 locações de ação com drama, num total de 8 locações em ordem. Os filmes de ação aparecem um em cada locação, então a ordem em que são vistos pode ser qualquer permutação deles: 8! formas. As comédias ocupam as 5 primeiras locações em qualquer ordem: 5! formas. Os dramas ocupam as 3 últimas em qualquer ordem: 3! formas. Pelo princípio multiplicativo, o total é 8! × 5! × 3!. Não há divisão por 2, pois em cada locação os dois filmes são de gêneros diferentes, e não há troca de papéis entre eles. A alternativa A soma parcelas quando deveria multiplicar. A alternativa C divide por 2⁸, como se a ordem dentro de cada par contasse duas vezes. A alternativa D divide por 2² sem justificativa. A alternativa E trata os 16 filmes como livres de gênero. Gabarito: B.",
   "hash": "6b3364f3e786474a",
@@ -469,7 +469,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-regular-d2-q167": {
-  "assunto": "Geometria espacial: cilindro e esfera, volume",
+  "assunto": "Geometria espacial: volume do cilindro e da esfera",
   "dificuldade": 3,
   "explicacao": "A questão pede a redução de volume de uma pílula formada por um cilindro de 10 mm de comprimento com duas semiesferas nas pontas, quando o raio passa de 5 mm para 4 mm, usando π = 3. As duas semiesferas formam uma esfera inteira. Volume da pílula: V = πr² × 10 + (4/3)πr³. Para r = 5: cilindro 3 × 25 × 10 = 750; esfera (4/3) × 3 × 125 = 500; total 1 250 mm³. Para r = 4: cilindro 3 × 16 × 10 = 480; esfera (4/3) × 3 × 64 = 256; total 736 mm³. Redução: 1 250 − 736 = 514 mm³. Note que o comprimento do cilindro continua 10 mm, apenas o raio muda. A alternativa A, 168, a alternativa B, 304, e a alternativa C, 306, consideram só parte da pílula ou contam apenas uma semiesfera. A alternativa D, 378, também não soma corretamente as reduções do cilindro (270) e da esfera (244). Gabarito: E.",
   "hash": "4a4de4ce291324de",
@@ -609,7 +609,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2014-regular-d2-q94-esp": {
-  "assunto": "Língua espanhola: expressões idiomáticas",
+  "assunto": "Língua espanhola: expressão idiomática",
   "dificuldade": 2,
   "explicacao": "A questão pede o que se infere da expressão “me hace sudar la gota gorda” sobre o ato de escrever para Vargas Llosa. A expressão idiomática equivale, em português, a “suar a camisa” ou “dar um duro danado”: indica grande esforço. No mesmo período, o autor diz que escrever “me cuesta mucho trabajo” e fala da ameaça de paralisia e de seca da imaginação, além de passar meses e anos construindo uma história. Tudo isso reforça que a escrita exige empenho intenso, ou seja, demanda expressiva dedicação, como afirma a alternativa E. A A menciona memória e fantasia, que aparecem no texto, mas não decorrem da expressão destacada. A B fala em imaginação inspiradora, ideia contrária ao esforço descrito. A C trata das experiências de vida como base, outro trecho do texto. A D cita entusiasmo e motivação, que não traduzem “sudar la gota gorda”. Gabarito: E.",
   "hash": "bdd27fdcbea3e83c",

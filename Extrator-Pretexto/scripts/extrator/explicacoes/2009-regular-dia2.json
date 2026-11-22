@@ -14,7 +14,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d2-q103": {
-  "assunto": "Educação física: aptidão física, saúde",
+  "assunto": "Educação física: aptidão física e saúde",
   "dificuldade": 2,
   "explicacao": "A questão define aptidão física como a capacidade de usar o corpo de forma eficiente nas atividades cotidianas e pede quando uma pessoa tem boa aptidão física. A chave está na palavra \"eficiente\" e na referência às atividades do dia a dia: ter boa aptidão é conseguir realizar as tarefas diárias sem esforço excessivo, e isso vale para qualquer faixa etária, pois cada idade tem suas próprias demandas. Por isso a alternativa C está correta. A alternativa A reduz a aptidão à postura, apenas um de muitos aspectos. A alternativa B fala em exercitar-se por períodos curtos, o que indica pouca resistência, e não boa aptidão. A alternativa D contém uma contradição: quem tem boa aptidão realiza as atividades com vigor e fadiga leve, não de moderada a intensa. A alternativa E descreve uma pessoa sem reservas de energia, o que também indica baixa aptidão. Gabarito: C.",
   "hash": "26934f97d45ac778",
@@ -35,7 +35,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d2-q106": {
-  "assunto": "Tecnologias da informação e comunicação: impactos sociais",
+  "assunto": "Tecnologias da informação e comunicação: impacto social",
   "dificuldade": 2,
   "explicacao": "A questão pede o papel das novas tecnologias de informação e comunicação no contexto social e econômico descrito no texto. O texto fala da explosão da informação a partir da metade do século XX e afirma que a informática e a internet geram impactos sociais e culturais, aceleram a globalização e ampliam as trocas simbólicas entre sociedades e culturas diferentes. Ou seja, essas tecnologias permitem registrar, circular e compartilhar conhecimento de modo mais amplo e interativo, contribuindo para o desenvolvimento social, como afirma a alternativa D. A alternativa A é exagerada, pois registros históricos existem muito antes das novas tecnologias. A alternativa B contradiz o texto, que destaca impactos culturais e sociais, portanto ligados às ciências humanas. A alternativa C limita indevidamente seu alcance ao jornalismo. A alternativa E é falsa, porque o texto fala em impactos já consolidados, e não em estágio experimental. Gabarito: D.",
   "hash": "26c8fe4af1b6b594",
@@ -378,7 +378,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d2-q155": {
-  "assunto": "Função quadrática: modelagem, receita",
+  "assunto": "Função quadrática: modelagem de receita",
   "dificuldade": 3,
   "explicacao": "A questão pede a expressão do valor arrecadado V em função do desconto x, em centavos. Com desconto de x centavos, o preço do litro passa a ser 1,50 − 0,01x reais, e a quantidade vendida passa a ser 10.000 + 100x litros. A arrecadação é preço vezes quantidade: V = (1,50 − 0,01x)(10.000 + 100x). Desenvolvendo: 1,50 × 10.000 = 15.000; 1,50 × 100x = 150x; −0,01x × 10.000 = −100x; −0,01x × 100x = −x². Logo, V = 15.000 + 150x − 100x − x² = 15.000 + 50x − x², como na alternativa D. Conferindo com o exemplo: x = 2 dá 1,48 × 10.200 = 15.096 e 15.000 + 100 − 4 = 15.096. A alternativa A usa 10.000 em vez de 15.000. A alternativa B erra a constante e o sinal de x². As alternativas C e E erram o sinal do termo 50x. Gabarito: D.",
   "hash": "a7a128409dbaea70",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2009-regular-d2-q167": {
-  "assunto": "Grandezas e medidas: área, conversão de unidades",
+  "assunto": "Grandezas e medidas: conversão de unidades de área",
   "dificuldade": 3,
   "explicacao": "A questão pede quantos campos de futebol de 120 m × 90 m correspondem à área do Pantanal. Pelo quadro, o Pantanal tem cerca de 150.355 km². Área de um campo: 120 × 90 = 10.800 m². É preciso converter km² para m²: 1 km² = 1.000 m × 1.000 m = 10⁶ m². Logo, 150.355 km² = 150.355 × 10⁶ m² ≈ 1,5 × 10¹¹ m². Número de campos: 1,50355 × 10¹¹ ÷ 1,08 × 10⁴ ≈ 1,39 × 10⁷, ou seja, cerca de 14.000.000 de campos, como na alternativa E. As alternativas A, B, C e D têm a ordem de grandeza errada, resultado típico de converter km² para m² multiplicando por 10³ em vez de 10⁶, ou de esquecer alguma potência de dez. Gabarito: E.",
   "hash": "ae21fd639dfcec9e",

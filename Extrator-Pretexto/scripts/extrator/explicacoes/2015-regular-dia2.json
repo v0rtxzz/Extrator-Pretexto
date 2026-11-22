@@ -84,7 +84,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q112": {
-  "assunto": "Artes visuais: performance, arte contemporânea",
+  "assunto": "Artes visuais: arte contemporânea, performance",
   "dificuldade": 3,
   "explicacao": "A questão pede a característica da performance A artista está presente, de Marina Abramovic, alinhada à arte contemporânea. Durante 736 horas, a artista ficou sentada e trocou com cada visitante, um a um, um longo olhar sem palavras. A obra não existe sem o outro: cada encontro é único e o sentido se constrói na troca entre a artista e quem se senta diante dela, que deixa de ser espectador passivo e passa a coautor da experiência. Essa construção conjunta, negociada, de significados corresponde à alternativa D. A) erra porque a arte relacional não é inovação dessa obra, e o fato de estar num museu não é o ponto central. B) erra porque não há proposta educacional. C) erra porque o espaço do museu não é redistribuído nem se integram diversas linguagens. E) erra porque a performance não tem o objetivo de combater a elitização. Gabarito: D.",
   "hash": "e0882ddf79d2fe1e",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q136": {
-  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
   "dificuldade": 4,
   "explicacao": "A questão pede quantas operações o investidor fez, seguindo as regras e o gráfico do valor da ação ao longo do dia. Percorrendo o gráfico: por volta das 10h30 o valor ultrapassa Vi, e ele vende metade das ações (operação 1). Perto das 11h40 o valor cai abaixo de Vm, e ele compra a mesma quantidade que possui (operação 2). Por volta das 12h45 o valor volta a passar Vi, e ele vende metade (operação 3). Perto das 13h30 o valor ultrapassa Vo, e ele vende todas as ações (operação 4). A partir daí ele fica com zero ações: quando o valor volta a passar Vi, por volta das 15h20, metade de zero é zero e não há venda; e o valor não cai mais abaixo de Vm, e mesmo que caísse ele compraria zero. Total: 4 operações, alternativa B. A) erra por esquecer uma das operações. C), D) e E) erram por contar cruzamentos ocorridos depois que ele já não tinha ações. Gabarito: B.",
   "hash": "338cd4b98ea0227d",
@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q144": {
-  "assunto": "Geometria plana: área de trapézio, retângulo",
+  "assunto": "Geometria plana: áreas de retângulo e trapézio",
   "dificuldade": 3,
   "explicacao": "A questão pede a variação na área de cada garrafão após a mudança de trapézio para retângulo. No Esquema I, o garrafão é um trapézio com bases 600 cm e 360 cm e altura 580 cm. Área = (B + b) × h ÷ 2 = (600 + 360) × 580 ÷ 2 = 960 × 290 = 278 400 cm². No Esquema II, o garrafão é um retângulo de 580 cm por 490 cm. Área = 580 × 490 = 284 200 cm². Diferença: 284 200 − 278 400 = 5 800 cm². Como a nova área é maior, houve aumento de 5 800 cm², alternativa A. B), C), D) e E) resultam de erros como esquecer de dividir por 2 na área do trapézio, usar só uma das bases ou inverter o sentido da variação. Gabarito: A.",
   "hash": "7e1762362f506b63",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q150": {
-  "assunto": "Função quadrática: inequação do segundo grau",
+  "assunto": "Função quadrática: inequação do 2º grau",
   "dificuldade": 4,
   "explicacao": "A questão pede o preço que maximiza a quantidade vendida sem reduzir a arrecadação média de R$ 300,00. A arrecadação é R = p × q = p(400 − 100p). Exigimos R ≥ 300: 400p − 100p² ≥ 300. Dividindo por 100 e reorganizando: p² − 4p + 3 ≤ 0. As raízes são p = 1 e p = 3, e a desigualdade vale para 1 ≤ p ≤ 3. Como q = 400 − 100p diminui quando p aumenta, a maior quantidade ocorre no menor preço permitido, p = R$ 1,00, que vende 300 pães e arrecada exatamente R$ 300,00. Esse valor está no intervalo R$ 0,50 ≤ p < R$ 1,50, alternativa A. B) contém preços que vendem menos pães. C) contém o preço atual de R$ 3,00, sem promoção. D) e E) dão arrecadação menor que R$ 300,00. Gabarito: A.",
   "hash": "25ea4601682cc320",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q166": {
-  "assunto": "Grandezas e medidas: volume, capacidade",
+  "assunto": "Grandezas e medidas: volume e capacidade",
   "dificuldade": 2,
   "explicacao": "A questão pede o tipo de garrafa que, comprando duas iguais, atende à recomendação e é totalmente consumido antes do exame. A paciente deve beber 1 copo de 150 mL a cada meia hora durante 10 horas. Em 10 horas há 20 meias horas, logo são 20 copos: 20 × 150 = 3 000 mL = 3 L. Duas garrafas iguais devem somar exatamente 3 L, então cada uma deve ter 1,5 L, que é a Garrafa IV, alternativa D. A) erra porque duas garrafas de 0,15 L somam só 0,3 L. B) erra porque somam 0,6 L. C) erra porque somam 1,5 L, metade do necessário. E) erra porque somam 6 L, e ela não conseguiria consumir tudo seguindo a recomendação. Gabarito: D.",
   "hash": "3d7bcb374743abfc",
@@ -546,7 +546,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2015-regular-d2-q178": {
-  "assunto": "Grandezas e medidas: volume, conversão",
+  "assunto": "Grandezas e medidas: conversão de volume",
   "dificuldade": 2,
   "explicacao": "A questão pede a capacidade mínima, em litros, do reservatório para abastecer 10 pessoas por 20 dias. Consumo diário da família: 10 × 0,08 = 0,8 m³. Em 20 dias: 0,8 × 20 = 16 m³. Como 1 m³ = 1 000 litros, temos 16 × 1 000 = 16 000 litros, alternativa E. A) erra por não converter m³ em litros. B) é o consumo de um dia da família, em litros. C) é o consumo de uma pessoa em 20 dias. D) erra a conversão ou um dos fatores. Gabarito: E.",
   "hash": "a09799223afd86a0",

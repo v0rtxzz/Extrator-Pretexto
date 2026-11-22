@@ -147,14 +147,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q121": {
-  "assunto": "Artes visuais: cubismo, Picasso",
+  "assunto": "Artes visuais: Cubismo, Picasso",
   "dificuldade": 2,
   "explicacao": "A questão pede a característica da nova tendência inaugurada por Les Demoiselles d'Avignon, de Picasso, obra de 1907 considerada precursora do Cubismo. O quadro rompe com a estética clássica, que buscava imitar a realidade com perspectiva linear, proporções harmoniosas e volume ilusório. Picasso fragmenta as figuras femininas em planos geométricos, angulosos e irregulares, mostra partes do corpo vistas de ângulos diferentes ao mesmo tempo e deforma os rostos, inspirado em máscaras africanas. Essa decomposição em planos irregulares é o traço inovador, alternativa A. A alternativa B erra, pois a mulher como tema central é antiga na história da arte. A C não procede, já que cenas com vários modelos também existiam na tradição. A D erra, porque o contraste de claro e escuro é recurso clássico, típico do Barroco. A E também erra: a nudez é explorada desde a Antiguidade e não define a ruptura. Gabarito: A.",
   "hash": "364e6001c5252b18",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q122": {
-  "assunto": "Música: tropicalismo, contracultura",
+  "assunto": "Música: Tropicalismo, contracultura",
   "dificuldade": 3,
   "explicacao": "A questão pede o que caracteriza o desafio à tradição na música de Os Mutantes, cuja capa do LP de 1968 ilustra a contracultura. A banda integrou o Tropicalismo, ao lado de Caetano Veloso e Gilberto Gil, movimento que misturava rock, guitarras elétricas e influências estrangeiras com ritmos brasileiros, além de referências da música erudita e de vanguarda. Os Mutantes usavam efeitos de estúdio, ruídos, instrumentos inusitados e colagens sonoras, em clima irreverente e bem-humorado. Essa combinação de sonoridades experimentais com elementos populares e eruditos é o que desafiava a tradição, alternativa C. A alternativa A erra, pois a obra é irreverente e lúdica, não amarga ou depressiva. A B não procede, já que os arranjos não se baseiam em ritmos nordestinos. A D erra, porque os temas não giram em torno de situações domésticas tradicionais. A E também erra: os Mutantes incorporavam modelos estrangeiros, como o rock, em vez de se opor a eles. Gabarito: C.",
   "hash": "820a7fd5f44ef263",
@@ -168,7 +168,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q124": {
-  "assunto": "Literatura brasileira: Lima Barreto, Pré-Modernismo",
+  "assunto": "Literatura brasileira: Pré-Modernismo, Lima Barreto",
   "dificuldade": 4,
   "explicacao": "A questão pede o que a reação de Policarpo Quaresma às suas iniciativas patrióticas evidencia. No fragmento, ele faz um balanço amargo: o projeto de adotar o tupi como língua oficial rendeu escárnio e o levou à loucura; a agricultura fracassou porque as terras não eram férteis como diziam os livros; e, na guerra, viu que a \"doçura de nossa gente\" não existia, pois o povo matava prisioneiros. Conclui que a pátria que quisera ter \"era um mito; um fantasma criado por ele no silêncio de seu gabinete\". Ou seja, a pátria construída sobre mitos, como a cordialidade do povo, a riqueza do solo e a pureza linguística, conduz à frustração ideológica, alternativa C. A alternativa A erra, pois os estudos não lhe trouxeram visão mais ampla, mas decepção. A B não procede, já que ele não encontra prosperidade nem democracia na República. A D inverte a causa, pois o riso alheio é só uma das decepções, e ele não se recolhe ao gabinete. A E erra, porque a certeza da fertilidade se revela ilusória. Gabarito: C.",
   "hash": "4f30002e021d00c7",
@@ -217,7 +217,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q131": {
-  "assunto": "Artes visuais: barroco mineiro, Aleijadinho",
+  "assunto": "Artes visuais: Barroco mineiro, Aleijadinho",
   "dificuldade": 3,
   "explicacao": "A questão pede o que a obra de Aleijadinho revela, a partir de um dos profetas de pedra-sabão do Santuário de Bom Jesus de Matosinhos, em Congonhas. O enunciado destaca contornos assimétricos e riqueza de detalhes nas vestes e feições, marcas do Barroco mineiro com influência do Rococó. Uma característica marcante de Aleijadinho é dar às figuras sagradas traços próprios, muitas vezes inspirados em tipos populares da Minas colonial, com rostos expressivos e proporções que fogem do modelo europeu. Isso imprime uma personalidade singular à arte sacra, ao modelar imagens religiosas com feições populares, alternativa D. A alternativa A erra, pois os profetas não representam a vida de mineiros em busca de salvação. A B não procede, já que o enunciado não trata de encomendas da nobreza nem de credibilidade. A C contraria a descrição, que fala em riqueza de detalhes, não em simplicidade. A E erra, porque as obras não retratam personalidades do reinado. Gabarito: D.",
   "hash": "54c97b3f5eb537e6",
@@ -245,7 +245,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q135": {
-  "assunto": "Literatura brasileira: Mário de Andrade, Modernismo",
+  "assunto": "Literatura brasileira: Modernismo, Mário de Andrade",
   "dificuldade": 4,
   "explicacao": "A questão pede como a identidade nacional aparece em \"O trovador\", de Mário de Andrade. O verso final é decisivo: \"Sou um tupi tangendo um alaúde!\". O tupi representa o elemento primitivo, indígena, da formação brasileira; o alaúde é um instrumento europeu ligado à tradição trovadoresca medieval, símbolo da cultura erudita. O eu lírico se define pela mistura desses elementos, num \"coração arlequinal\", feito de retalhos. Assim, a identidade brasileira é problematizada como fusão de culturas, antecipando a síntese que o Manifesto Antropófago de Oswald de Andrade proporia ao defender a \"deglutição\" da cultura estrangeira. Isso corresponde à alternativa D. A alternativa A erra, pois \"arlequinal\" remete à multiplicidade de retalhos, não ao carnaval como brasilidade. A B não procede, já que o título remete aos trovadores medievais, não aos repentistas. A C erra, porque o eu lírico não lamenta a identidade nacional. A E também erra, já que não há exaltação orgulhosa das raízes indígenas, mas tensão entre culturas. Gabarito: D.",
   "hash": "99528196b2f96045",
@@ -336,7 +336,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q148": {
-  "assunto": "Leitura de gráficos e tabelas: gráfico de linha",
+  "assunto": "Leitura de gráficos e tabelas: gráfico de linhas",
   "dificuldade": 1,
   "explicacao": "A questão pede a leitura direta do gráfico de linha: em qual mês o ponto está mais alto (maior venda) e em qual está mais baixo (menor venda). Observando o eixo vertical, o ponto mais alto de todo o ano é o de junho, que supera os picos de março e setembro. O ponto mais baixo é o de agosto, que fica abaixo de janeiro, abril e julho. Portanto, a maior venda foi em junho e a menor em agosto. Atenção para não confundir picos locais com o máximo absoluto: março e setembro são picos, mas menores que junho. A alternativa A erra os dois meses, já que abril não é o mínimo. A B acerta o mínimo, mas março não é o máximo. A C inverte a lógica, apontando agosto como máximo e setembro, que é um pico, como mínimo. A D acerta junho, mas setembro é um dos meses de venda mais alta, não a menor. Gabarito: E.",
   "hash": "0dcd99ae5de22d36",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q150": {
-  "assunto": "Sequências e progressões: soma de PA",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 1,
   "explicacao": "A questão pede quantas cartas sobram no monte depois de montadas as sete colunas. As colunas têm 1, 2, 3, 4, 5, 6 e 7 cartas, formando uma progressão aritmética de razão 1. A soma pode ser feita direto ou pela fórmula da soma da PA: S = (1 + 7) × 7 / 2 = 8 × 7 / 2 = 28 cartas nas colunas. Como o baralho tem 52 cartas, o monte fica com 52 − 28 = 24 cartas. A alternativa A (21) corresponde à soma das seis primeiras colunas, não ao monte. A C (26) é metade do baralho, sem relação com a contagem. A D (28) é o total de cartas usadas nas colunas, não o que sobra. A E (31) resulta de subtrair do baralho apenas 21 cartas, esquecendo a sétima coluna. Gabarito: B.",
   "hash": "46dd7423f0b44952",
@@ -406,7 +406,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q158": {
-  "assunto": "Geometria espacial: volume de paralelepípedo",
+  "assunto": "Geometria espacial: volume do paralelepípedo",
   "dificuldade": 2,
   "explicacao": "A questão pede o efeito, no nível da água, de mergulhar um objeto de 2 400 cm³ no tanque. Pela figura, o tanque tem base de 40 cm por 30 cm e altura de 25 cm, e a água está 5 cm abaixo da borda, ou seja, com 20 cm de altura. Ao mergulhar o objeto, a água sobe ocupando um volume igual ao do objeto. A área da base é 40 × 30 = 1 200 cm². A elevação do nível é h = V / A = 2 400 / 1 200 = 2 cm. Logo, a água passa de 20 cm para 22 cm, ainda abaixo dos 25 cm do tanque, sem transbordar. A alternativa A (0,2 cm) erra a divisão por um fator 10. A B (1 cm) usaria uma base de 2 400 cm². A D (8 cm) e a E (20 cm) dividem o volume por uma única aresta ou área errada e concluem que a água transbordaria, o que não acontece. Gabarito: C.",
   "hash": "06566dbfede742e3",
@@ -455,7 +455,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-regular-d2-q165": {
-  "assunto": "Geometria espacial: projeção ortogonal, pirâmide",
+  "assunto": "Geometria espacial: pirâmide, projeção ortogonal",
   "dificuldade": 4,
   "explicacao": "A questão pede a projeção, no plano da base, de um caminho feito sobre a pirâmide de base quadrada ABCD e vértice E. A ideia central é que, projetando ortogonalmente na base, o vértice E cai no centro do quadrado, e pontos que já estão na base ficam onde estão. Assim: o trecho de A até E, que sobe pela aresta lateral, projeta-se no segmento que vai de A até o centro do quadrado, ou seja, metade da diagonal AC. O trecho de E até M, sendo M o ponto médio de BC, projeta-se no segmento que liga o centro ao ponto M, perpendicular ao lado BC. O trecho de M até C já está na base, então permanece igual: metade do lado BC. O desenho correto é, portanto, uma linha oblíqua de A ao centro, um segmento horizontal do centro até o meio de BC e um pequeno segmento sobre BC até C, como na alternativa C. As demais alternativas erram a posição da projeção de E, que não fica sobre um lado nem num vértice, ou desenham o trecho EM em direção diferente da perpendicular a BC. Gabarito: C.",
   "hash": "47bc0b0d408c9991",

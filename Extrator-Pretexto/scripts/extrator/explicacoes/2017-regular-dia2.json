@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q117": {
-  "assunto": "Genética: herança ligada ao x, inativação do x",
+  "assunto": "Genética: herança ligada ao X, inativação do X",
   "dificuldade": 4,
   "explicacao": "A questão pede a explicação para gêmeas monozigóticas, ambas heterozigotas para o alelo da distrofia de Duchenne, terem fenótipos diferentes. Gêmeas idênticas têm o mesmo genoma, então a diferença não está nos genes, mas na sua expressão. Nas fêmeas de mamíferos, um dos cromossomos X de cada célula é inativado ao acaso no início do desenvolvimento, formando o corpúsculo de Barr (hipótese de Lyon). Se essa inativação ocorre depois da separação dos embriões, cada gêmea pode ter um padrão diferente: numa delas, a maioria das células musculares pode ter inativado o X com o alelo normal, expressando o mutante e manifestando a doença; na outra, predomina o X normal ativo. A alternativa A não se aplica, pois o alelo é recessivo e a dominância seria igual nas duas. A B causaria alterações cromossômicas, não descritas. A C ocorreria antes da separação e afetaria as duas igualmente. A E é impossível, pois gêmeas monozigóticas vêm do mesmo zigoto e herdaram os mesmos cromossomos. Gabarito: D.",
   "hash": "8bbbea507c443063",
@@ -147,7 +147,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q121": {
-  "assunto": "Eletroquímica: pilhas, potenciais de redução",
+  "assunto": "Eletroquímica: pilhas, potencial de redução",
   "dificuldade": 4,
   "explicacao": "A questão pede a associação de duas pilhas em série que forneça pelo menos 3,6 V. A ddp de cada pilha é E = E(cátodo) − E(ânodo); o cátodo é o eletrodo de maior potencial de redução. Para somar as tensões em série, o polo negativo (ânodo) de uma pilha deve ser ligado ao polo positivo (cátodo) da outra. Na alternativa C, a primeira pilha é Ce⁴⁺/Ce³⁺ (cátodo, grafite) com Zn (ânodo): E = 1,61 − (−0,76) = 2,37 V. A segunda é Cr₂O₇²⁻ (cátodo, grafite) com Ni (ânodo): E = 1,33 − (−0,25) = 1,58 V. O zinco (negativo) está ligado ao grafite do dicromato (positivo), e os extremos são o grafite do cério e o níquel: a soma é 2,37 + 1,58 = 3,95 V, suficiente. Na A, as tensões também somariam 3,95 V, mas os dois ânodos (Ni e Zn) estão ligados entre si e as pilhas se opõem. Na B ocorre o mesmo erro, com Zn ligado a Ni. Na D, cada pilha usa pares de potenciais próximos (0,28 V e 0,51 V), insuficiente. Na E, os mesmos pares fracos fornecem no máximo 0,79 V. Gabarito: C.",
   "hash": "ba9767bd97c7f03c",
@@ -168,14 +168,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q124": {
-  "assunto": "Termoquímica: lei de hess",
+  "assunto": "Termoquímica: lei de Hess",
   "dificuldade": 4,
   "explicacao": "A questão pede a variação de entalpia de FeO + CO → Fe + CO₂ pela lei de Hess. Vamos montar a reação multiplicada por 6, para trabalhar com coeficientes inteiros: 6 FeO + 6 CO → 6 Fe + 6 CO₂. Usamos a segunda equação vezes 2: 6 FeO + 2 CO₂ → 2 Fe₃O₄ + 2 CO, ΔH = 2 × (−36) = −72 kJ. A terceira equação como está: 2 Fe₃O₄ + CO₂ → 3 Fe₂O₃ + CO, ΔH = +47 kJ. A primeira vezes 3: 3 Fe₂O₃ + 9 CO → 6 Fe + 9 CO₂, ΔH = 3 × (−25) = −75 kJ. Somando, Fe₃O₄ e Fe₂O₃ se cancelam; restam 3 CO₂ e 9 CO nos reagentes e 9 CO₂ e 3 CO nos produtos, o que simplifica para 6 FeO + 6 CO → 6 Fe + 6 CO₂. ΔH total = −72 + 47 − 75 = −100 kJ para 6 mol de FeO. Por mol: −100 ÷ 6 ≈ −16,7 ≈ −17 kJ/mol. A alternativa A não resulta da combinação correta. A C e a D usam coeficientes inadequados. A E é o valor para 6 mol, sem dividir. Gabarito: B.",
   "hash": "1ca267e1f634f535",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q125": {
-  "assunto": "Bioquímica: dna, ligações de hidrogênio",
+  "assunto": "Bioquímica: DNA, ligações de hidrogênio",
   "dificuldade": 3,
   "explicacao": "A questão pede o segmento de DNA que desnatura primeiro com o aumento da temperatura. A desnaturação depende das ligações de hidrogênio entre as bases: A–T faz duas ligações e G–C faz três. Quanto menos pares G–C, menos ligações a romper e menor a temperatura necessária. Contando os pares G–C em cada segmento de 8 pares: na A, há 6 pares G–C; na B, 5; na C (AATTCCTA), apenas 2; na D, 5; na E, 4. No segmento C, são 6 pares A–T e 2 pares G–C, totalizando 6 × 2 + 2 × 3 = 18 ligações de hidrogênio, o menor número entre as opções. Por isso ele é o primeiro a se separar totalmente. A alternativa A tem o maior teor de G–C e é a mais estável. A B tem 5 pares G–C, mais ligações que a C. A D também tem 5 pares G–C. A E tem 4 pares G–C, ainda mais estável que a C. Gabarito: C.",
   "hash": "7951eae0e213a02e",
@@ -203,7 +203,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q129": {
-  "assunto": "Eletrodinâmica: lei de ohm, resistência interna",
+  "assunto": "Eletrodinâmica: lei de Ohm, resistência interna",
   "dificuldade": 3,
   "explicacao": "A questão pede como deve ser a resistência interna do gerador, comparada à do corpo humano, para que a corrente não ultrapasse 0,01 A. O circuito é formado pelo gerador de 10 000 V em série com sua resistência interna r e com o corpo da pessoa, de cerca de 1 000 Ω. Pela lei de Ohm, a resistência total mínima é R = U ÷ i = 10 000 ÷ 0,01 = 1 000 000 Ω = 10⁶ Ω. Descontando o corpo: r = 10⁶ − 10³ = 999 000 Ω, ou seja, aproximadamente 1 000 vezes a resistência corporal. É essa grande resistência interna que limita a corrente e torna a cerca segura. A alternativa A resultaria em corrente de 10 A, letal. A B daria cerca de 5 A, também letal. A D, com cerca de 10 000 Ω, permitiria aproximadamente 0,9 A, ainda perigosa. A E faria a corrente ficar quase em 10 A. Gabarito: C.",
   "hash": "80d087c2bae54af0",
@@ -217,7 +217,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q131": {
-  "assunto": "Cinemática: muv, tempo de reação",
+  "assunto": "Cinemática: MUV, tempo de reação",
   "dificuldade": 4,
   "explicacao": "A questão pede quanto o motorista desatento percorre a mais que o atento até parar. Motorista atento: começa a frear a 14,0 m/s e desacelera a 5,00 m/s². Pela equação de Torricelli, 0 = v² − 2·a·d, então d = 14² ÷ (2 × 5) = 196 ÷ 10 = 19,6 m. Motorista desatento: continua acelerando a 1,00 m/s² por mais 1,00 s. Nesse segundo, a velocidade vai de 14,0 para 15,0 m/s e ele percorre d₁ = 14 × 1 + ½ × 1 × 1² = 14,5 m. Depois freia a partir de 15,0 m/s: d₂ = 15² ÷ (2 × 5) = 225 ÷ 10 = 22,5 m. Total do desatento a partir do mesmo ponto: 14,5 + 22,5 = 37,0 m. Diferença: 37,0 − 19,6 = 17,4 m. A alternativa A é só a diferença entre as distâncias de frenagem (22,5 − 19,6). A B considera o segundo extra como movimento uniforme a 14 m/s e esquece a frenagem maior. A C conta apenas o segundo a mais de aceleração. A D usa 15 m/s × 1 s, sem a frenagem adicional. Gabarito: E.",
   "hash": "472d1b3da5abf466",
@@ -273,7 +273,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q139": {
-  "assunto": "Leitura de gráficos e tabelas: velocidade por tempo",
+  "assunto": "Leitura de gráficos e tabelas: velocidade e tempo",
   "dificuldade": 1,
   "explicacao": "A questão pede por quantos minutos o veículo ficou imóvel. Um veículo está parado quando sua velocidade é zero, então devemos procurar no gráfico velocidade × tempo os trechos em que a linha coincide com o eixo horizontal. Lendo o gráfico: de 0 a 1 min a velocidade é constante e positiva; sobe até 2 min, cai até 3 min, fica constante até 4 min, sobe até 5 min e cai até zero em 6 min. De 6 a 8 min, a linha permanece sobre o eixo do tempo, ou seja, velocidade nula; depois volta a crescer até 10 min. Portanto, o veículo ficou parado de 6 a 8 min, durante 8 − 6 = 2 minutos. A alternativa A soma tempos de velocidade constante, mas não nula. A B inclui indevidamente parte da desaceleração ou da retomada. A D considera só metade do trecho parado. A E ignora o trecho em que a velocidade é zero. Gabarito: C.",
   "hash": "0d47432886f74b3e",
@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q144": {
-  "assunto": "Grandezas e medidas: volume, conversão de unidades",
+  "assunto": "Grandezas e medidas: conversão de unidades de volume",
   "dificuldade": 2,
   "explicacao": "A questão pede a quantidade de produto a adicionar na piscina. A piscina tem profundidade de 1,7 m, mas a água fica 50 cm abaixo da borda, então a altura da água é 1,7 − 0,5 = 1,2 m. Volume de água: 3 × 5 × 1,2 = 18 m³. Como 1 m³ = 1 000 L, temos 18 000 L. A dose é 1,5 mL para cada 1 000 L, logo a quantidade é (18 000 ÷ 1 000) × 1,5 = 18 × 1,5 = 27 mL. A alternativa A considera apenas os 50 cm de altura da parte vazia (7,5 m³ × 1,5). A C não corresponde a nenhuma altura coerente do problema. A D também não resulta das medidas dadas. A E usa a profundidade total mais a parte seca, ou seja, um volume maior que o da piscina cheia. Gabarito: B.",
   "hash": "148f973968d4cedb",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q157": {
-  "assunto": "Aritmética: números decimais, comparação",
+  "assunto": "Aritmética: comparação de números decimais",
   "dificuldade": 1,
   "explicacao": "A questão pede a pérola com diâmetro mais próximo de 4 mm. Basta calcular a diferença, em módulo, entre cada diâmetro disponível e 4,000 mm. 4,025: diferença 0,025. 4,100: diferença 0,100. 3,970: diferença 0,030. 4,080: diferença 0,080. 3,099: diferença 0,901. A menor diferença é 0,025 mm, da pérola de 4,025 mm. O cuidado aqui é comparar decimais corretamente, alinhando as casas: 0,025 é menor que 0,030. A alternativa A é a mais distante, quase 1 mm menor. A B é próxima, mas 0,030 é maior que 0,025. A D difere 0,080 mm. A E difere 0,100 mm. Gabarito: C.",
   "hash": "3d4d095ee83fcfae",
@@ -441,7 +441,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q163": {
-  "assunto": "Raciocínio lógico: otimização de custos",
+  "assunto": "Raciocínio lógico: otimização de custo",
   "dificuldade": 3,
   "explicacao": "A questão pede o menor custo para visitar os dois topos e voltar ao solo. Comparamos as estratégias possíveis. Usando só elevadores: sobe e desce o 1 (0,15 + 0,10) e sobe e desce o 2 (1,80 + 2,30), total 4,35. Subir pelo 1, teleférico até o 2 e descer pelo 2: 0,15 + 2,00 + 2,30 = 4,45. Subir pelo 2, teleférico até o 1 e descer pelo 1: 1,80 + 2,50 + 0,10 = 4,40. Subir pelo 1, ir ao 2 de teleférico, voltar ao 1 de teleférico e descer pelo 1: 0,15 + 2,00 + 2,50 + 0,10 = 4,75. O menor valor é R$ 4,35. A alternativa A soma apenas parte dos trajetos, sem visitar os dois topos e voltar ao solo. A B também omite algum trecho obrigatório. A D é o custo de subir pelo 2 e descer pelo 1 usando o teleférico. A E é o custo de subir pelo 1 e descer pelo 2 usando o teleférico. Gabarito: C.",
   "hash": "3677617d05f9e8be",
@@ -532,7 +532,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q176": {
-  "assunto": "Equações e inequações: equação do primeiro grau",
+  "assunto": "Equações e inequações: equação do 1º grau",
   "dificuldade": 4,
   "explicacao": "A questão pede a área de painéis térmicos para dobrar a economia diária da primeira fase. Na primeira fase, há 200 m² de painéis elétricos (100 no estacionamento e 100 no hospital) e 200 m² de painéis térmicos. Economia: 200 × 1 + 200 × 0,7 = 200 + 140 = 340 kWh por dia. O dobro é 680 kWh. Na segunda fase, a área elétrica aumenta 75%: 200 × 1,75 = 350 m², gerando 350 kWh. Faltam 680 − 350 = 330 kWh, que devem vir dos painéis térmicos: área = 330 ÷ 0,7 ≈ 471,4 m², ou seja, aproximadamente 472 m². A alternativa A é o aumento de área térmica considerando só os 100 m² elétricos do hospital, ou um acréscimo calculado de forma errada. A B considera apenas os 100 m² elétricos do hospital na primeira fase. A D e a E exageram a área, por erros na economia elétrica ou no fator de 0,7. Gabarito: C.",
   "hash": "5a341b80c284fd9c",
@@ -581,7 +581,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q93": {
-  "assunto": "Eletrodinâmica: lei de ohm, resistência",
+  "assunto": "Eletrodinâmica: lei de Ohm, resistência",
   "dificuldade": 3,
   "explicacao": "A questão pede a resistência da polianilina exposta a altas concentrações de amônia, sabendo que nessa condição a resistência nominal fica quatro vezes maior. Primeiro, obtemos a resistência sem amônia pelo gráfico, que é uma reta passando pela origem, típica de resistor ôhmico. No eixo horizontal está a diferença de potencial (V) e, no vertical, a corrente em microampères. Tomando o ponto U = 3,0 V e i = 6,0 µA: R = U ÷ i = 3,0 ÷ (6,0 × 10⁻⁶) = 0,5 × 10⁶ = 5,0 × 10⁵ Ω. Com a amônia, a resistência quadruplica: R' = 4 × 5,0 × 10⁵ = 20 × 10⁵ = 2,0 × 10⁶ Ω. A alternativa A ignora o fator micro (10⁻⁶) da corrente. A B inverte a razão e também desconsidera o prefixo. A C divide por 4 em vez de multiplicar. A D é a resistência nominal, sem amônia. Gabarito: E.",
   "hash": "76e443ac05dec083",
@@ -623,7 +623,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2017-regular-d2-q99": {
-  "assunto": "Dinâmica: segunda lei de newton, gráfico",
+  "assunto": "Dinâmica: segunda lei de Newton, gráfico",
   "dificuldade": 3,
   "explicacao": "A questão pede o cinto que oferece menor risco de lesão interna. A lesão está ligada à força que o cinto exerce sobre o corpo, e pela segunda lei de Newton F = m·a. Como a massa dos bonecos é a mesma em todos os testes, a força máxima é proporcional ao pico de desaceleração registrado no gráfico. Além disso, a variação de velocidade é igual em todos os casos, então o impulso (área sob a curva) é o mesmo; o melhor cinto é aquele que distribui essa desaceleração por um tempo maior, com pico mais baixo. Lendo o gráfico, os picos aproximados são: cinto 1, cerca de 150; cinto 2, cerca de 65; cinto 3, cerca de 190; cinto 4, cerca de 85; cinto 5, cerca de 170. O cinto 2 tem a menor desaceleração máxima e a curva mais espalhada no tempo. O cinto 1 tem pico alto e concentrado. O cinto 3 apresenta o maior pico de todos. O cinto 4 é razoável, mas seu pico supera o do cinto 2. O cinto 5 tem pico alto e muito brusco no fim. Gabarito: B.",
   "hash": "3cd23880ea79b464",

@@ -56,7 +56,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q108": {
-  "assunto": "Educação física: sedentarismo, saúde",
+  "assunto": "Educação física: saúde e sedentarismo",
   "dificuldade": 2,
   "explicacao": "A questão pede a relação, segundo o texto, entre hábitos dos adolescentes e sua saúde. O texto aponta dois fatores: alimentação inadequada, com excesso de sal e açúcar, produtos industrializados e pouco leite, frutas e feijão; e sedentarismo, já que “cem por cento das meninas” do programa não praticavam esporte. Em seguida, afirma que doenças antes esperadas na velhice já aparecem entre os jovens: “Os adolescentes já estão sofrendo com hipertensão e diabete”. A alternativa A reúne exatamente esses elementos: falta de atividade física e alimentação desequilibrada ligadas a doenças crônicas. A B erra porque o texto não fala em redução de carboidratos e aumento de proteínas. A C erra porque o texto diz que há exagero, e não escassez, de sal e açúcar. A D erra porque o texto não compara com fatores hereditários em adultos. A E erra porque exercício regular não provoca aumento constante da pressão arterial. Gabarito: A.",
   "hash": "98a0c5421bce12ec",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q136": {
-  "assunto": "Trigonometria: tangente, triângulo retângulo",
+  "assunto": "Trigonometria: tangente no triângulo retângulo",
   "dificuldade": 3,
   "explicacao": "A questão pede a área da base quadrada da torre inclinada, que é um prisma oblíquo. A altura AB vale 114 m e a inclinação é de 15° com a vertical. Na figura, o lado da base corresponde ao cateto oposto ao ângulo de 15° no triângulo retângulo cujo cateto adjacente é a altura AB. Assim: tg 15° = lado ÷ 114, logo lado = 114 × 0,26 = 29,64 m. A área da base é o quadrado do lado: 29,64² = 29,64 × 29,64 ≈ 878,53 m². Como 878,53 m² é maior que 700 m², a base ocupa mais de 700 m² na avenida. As alternativas A, B, C e D trazem intervalos abaixo de 700 m², que surgem de erros como usar o lado sem elevar ao quadrado ou trocar tangente por outra razão. Gabarito: E.",
   "hash": "f247e1c9de27ee75",
@@ -287,7 +287,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q141": {
-  "assunto": "Geometria plana: circunferências, triângulo equilátero",
+  "assunto": "Geometria plana: triângulo equilátero, circunferência",
   "dificuldade": 4,
   "explicacao": "A questão pede o raio R do cano maior que envolve três canos de raio 30 cm, soldados entre si, com folga de 10 cm. Como os três canos se tocam, seus centros formam um triângulo equilátero de lado 30 + 30 = 60 cm. O centro do cano maior coincide com o centro desse triângulo, cuja distância a cada vértice é o raio da circunferência circunscrita: lado ÷ √3 = 60 ÷ √3 = 20√3 ≈ 20 × 1,73 = 34,6 cm. A partir do centro de um cano pequeno, soma-se o raio dele (30 cm) e o espaço de 10 cm: R ≈ 34,6 + 30 + 10 = 74,6 cm, valor que corresponde, entre as opções, a 74,0 cm. As alternativas A e B esquecem parte das medidas, como o espaçador ou o raio do cano. A D e a E superestimam a distância do centro, por exemplo usando a altura do triângulo inteira ou o lado. Gabarito: C.",
   "hash": "bc29d7587051e399",
@@ -343,7 +343,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q149": {
-  "assunto": "Sequências e progressões: progressão aritmética, soma",
+  "assunto": "Sequências e progressões: soma da progressão aritmética",
   "dificuldade": 3,
   "explicacao": "A questão pede a produção total de arroz de 2012 a 2021, com crescimento constante. O quadro mostra 50,25 t em 2012, 51,50 t em 2013, 52,75 t em 2014 e 54,00 t em 2015; a cada ano há acréscimo de 1,25 t, o que caracteriza uma progressão aritmética de razão r = 1,25. São 10 anos, então o último termo é a₁₀ = a₁ + 9r = 50,25 + 9 × 1,25 = 50,25 + 11,25 = 61,50 t. A soma é S₁₀ = (a₁ + a₁₀) × 10 ÷ 2 = (50,25 + 61,50) × 5 = 111,75 × 5 = 558,75 t. A alternativa E costuma vir de usar 10 razões em vez de 9 no último termo. A A, a B e a C resultam de erros na razão ou no número de termos. Gabarito: D.",
   "hash": "c8c23709bbc55882",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q157": {
-  "assunto": "Geometria espacial: cilindros, volume",
+  "assunto": "Geometria espacial: volume do cilindro",
   "dificuldade": 4,
   "explicacao": "A questão pede o maior raio r da ilha para que a água ocupe pelo menos 4 m³. A piscina é um cilindro de altura 1 m e volume 12 m³: π × R² × 1 = 12, com π = 3, dá R² = 4 e R = 2 m. A ilha é outro cilindro, de mesma altura, no centro. O volume de água é o da piscina menos o da ilha: 3 × R² − 3 × r² = 12 − 3r². Exigindo pelo menos 4 m³: 12 − 3r² ≥ 4, então 3r² ≤ 8, r² ≤ 8/3 ≈ 2,67 e r ≤ √2,67 ≈ 1,63 m. O valor mais próximo é 1,6 m. A alternativa B passa do limite, pois 1,7² = 2,89 > 2,67. A C iguala r ao raio da piscina, sem sobrar água. A D e a E são maiores que a própria piscina. Gabarito: A.",
   "hash": "77fa77e4bbf9e45f",
@@ -658,7 +658,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-regular-d2-q99": {
-  "assunto": "Literatura brasileira: modernismo, poesia negra",
+  "assunto": "Literatura brasileira: Modernismo, poesia negra",
   "dificuldade": 4,
   "explicacao": "A questão pede o contexto social que o eu lírico vê no conflito entre gerações e grupos étnicos. No poema de Jorge de Lima, as gerações mestiças tentarão “apagar a tua cor”, mas “não apagarão de suas almas, a tua alma, negro!”, ou seja, a memória ancestral negra persiste. A enumeração de figuras e povos (Pai-João, Zumbi, negro rebelde, cabinda, congo, iorubá) reafirma essa herança, que inclui resistência. Nos versos finais, o eu lírico compreende os blues “nesta hora triste da raça branca” e afirma que “a raça que te enforca, enforca-se de tédio”: a cultura branca dominante aparece apática, entediada, enquanto o negro mantém vitalidade cultural. Isso corresponde à alternativa B. A A erra porque o poema não trata de modernização produtiva. A C erra porque não se fala em superação de costumes por valores dos colonizados. A D erra porque não há nivelamento pela pobreza. A E erra porque o conflito não é entre grupos de trabalhadores. Gabarito: B.",
   "hash": "4ba5b7c4823d002a",

@@ -42,7 +42,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q106": {
-  "assunto": "Física moderna: raios x, absorção",
+  "assunto": "Física moderna: raios X, absorção",
   "dificuldade": 2,
   "explicacao": "A questão pede a razão física para retirar o notebook da mala na inspeção por raios X. O aparelho forma uma imagem a partir da radiação que atravessa os objetos: materiais pouco densos deixam passar mais raios X e aparecem claros, enquanto materiais densos, como metais, baterias e placas, absorvem a radiação e aparecem como regiões escuras e opacas. Um notebook tem muitos componentes densos concentrados em uma grande área. Dentro da mala, ele funciona como uma sombra que encobre os objetos situados acima ou abaixo dele, impedindo que o operador veja o que está escondido ali. Ao passar o computador separado, a imagem da bagagem fica limpa e o próprio notebook é inspecionado isoladamente. A alternativa A erra, pois os raios X interagem fortemente com metais, sendo absorvidos. A B é falsa: raios X não desmagnetizam discos rígidos nessas doses, e a refração não é o fenômeno relevante. A C exagera o aquecimento, desprezível no exame. A E inventa uma relação entre ionização e difração que não justifica o procedimento. Gabarito: D.",
   "hash": "a18f394c3c88e810",
@@ -126,7 +126,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q118": {
-  "assunto": "Equilíbrio químico: le chatelier, desmineralização",
+  "assunto": "Equilíbrio químico: Le Chatelier, desmineralização",
   "dificuldade": 3,
   "explicacao": "A questão pede qual creme dental mais favorece a desmineralização do esmalte, considerando o equilíbrio Ca₅(PO₄)₃OH ⇌ 5 Ca²⁺ + 3 PO₄³⁻ + OH⁻ (o OH⁻ liberado reage com H⁺ formando H₂O). A desmineralização é o sentido direto. Pelo princípio de Le Chatelier, se retirarmos produtos, o equilíbrio se desloca para formar mais produtos. Íons H⁺ consomem o OH⁻ (formando água) e também o PO₄³⁻ (formando HPO₄²⁻), deslocando o equilíbrio no sentido da dissolução da hidroxiapatita. Portanto, quanto maior a concentração de H⁺, ou seja, menor o pH, maior a desmineralização. No quadro, os valores de pH são: I = 9,5; II = 11,0; III = 7,7; IV = 6,9; V = 7,3. O menor pH é o do creme IV, com dióxido de silício, levemente ácido. A alternativa A (pH 9,5) e a B (pH 11,0) são básicas e favorecem a mineralização. A C (pH 7,7) e a E (pH 7,3) são levemente básicas, menos agressivas que IV. Gabarito: D.",
   "hash": "3ec2348d2da38db1",
@@ -210,7 +210,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q131": {
-  "assunto": "Eletrodinâmica: circuitos, led, lei de ohm",
+  "assunto": "Eletrodinâmica: circuitos, LED, lei de Ohm",
   "dificuldade": 4,
   "explicacao": "A questão pede o circuito em que os dois LEDs acendem com corrente de 1,0 mA cada, usando bateria de 4,5 V, LEDs de 3,0 V e resistores de 1,5 kΩ. Cada LED precisa estar polarizado no sentido permitido e submetido a 3,0 V. No circuito B, cada ramo tem um resistor em série com um LED, e os dois ramos estão em paralelo com a bateria, com os LEDs no sentido da corrente. Em cada ramo: a tensão no resistor é 4,5 − 3,0 = 1,5 V, e a corrente é i = U/R = 1,5 V ÷ 1500 Ω = 0,001 A = 1,0 mA, exatamente I_{máx}. A alternativa A usa um único resistor para os dois LEDs em paralelo: 1,5 V ÷ 1,5 kΩ = 1,0 mA no total, ou seja, 0,5 mA para cada LED. A C tem a montagem correta, mas os LEDs estão invertidos e não conduzem. Na D, os LEDs em série exigiriam 6,0 V, mais que a bateria fornece. A E combina resistor único com LEDs invertidos. Gabarito: B.",
   "hash": "9c40a135579e9136",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q137": {
-  "assunto": "Equações e inequações: equação do primeiro grau",
+  "assunto": "Equações e inequações: equação do 1º grau",
   "dificuldade": 2,
   "explicacao": "A questão pede a média correta das 4 provas, sabendo que dividir a soma por 5 deu uma média 1 unidade menor. Seja S a soma das notas. A média correta é S/4 e a média errada é S/5. Pelo enunciado, S/4 − S/5 = 1. Usando o denominador comum 20: 5S/20 − 4S/20 = 1, ou seja, S/20 = 1, logo S = 20. A média correta é 20 ÷ 4 = 5 (e a errada seria 20 ÷ 5 = 4, de fato 1 a menos). A alternativa A (4) é a média calculada por engano. A C (6) não satisfaz a condição, pois exigiria soma 24, com média errada 4,8. A D (19) e a E (21) são valores próximos da soma das notas, não da média. Gabarito: B.",
   "hash": "f074343d4808b38a",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q151": {
-  "assunto": "Escalas: escala de área",
+  "assunto": "Escalas: escala e área",
   "dificuldade": 3,
   "explicacao": "A questão pede a área do vão na maquete, em cm², sabendo que a área real é 1 672 m² e a escala é 1 : 200. Atenção: a escala vale para comprimentos. Para áreas, a razão é o quadrado da escala: (1/200)² = 1/40 000. Passo 1: converter a área real para cm². Como 1 m = 100 cm, 1 m² = 10 000 cm², então 1 672 m² = 16 720 000 cm². Passo 2: dividir pela razão de áreas: 16 720 000 ÷ 40 000 = 418 cm². A alternativa A (4,18) e a B (8,36) erram as conversões de unidade por fatores de 10 ou 100. A C (41,80) também erra a conversão em uma ordem de grandeza. A D (83,60) aplica a escala linear de 1 : 200 diretamente à área convertida de forma incorreta, sem elevar a escala ao quadrado. Gabarito: E.",
   "hash": "b1d3a9fa7e8cc597",
@@ -392,7 +392,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q157": {
-  "assunto": "Equações e inequações: equação do primeiro grau",
+  "assunto": "Equações e inequações: equação do 1º grau",
   "dificuldade": 1,
   "explicacao": "A questão pede o novo preço de uma porção para que o total de 5 porções continue igual, com a taxa de entrega subindo de R$ 10,00 para R$ 15,00. Passo 1: valor atual de 5 porções: 10 + 5 × 25 = 10 + 125 = R$ 135,00. Passo 2: com a nova taxa, seja p o novo preço: 15 + 5p = 135. Passo 3: 5p = 120, logo p = R$ 24,00. Outra forma de pensar: a entrega subiu R$ 5,00, então o total das 5 porções deve cair R$ 5,00, ou seja, R$ 1,00 por porção. A alternativa A (12,50) e a E (37,50) não mantêm o total de R$ 135,00. A B (20,00) desconta os R$ 5,00 de aumento em uma única porção. A D (30,00) soma o aumento da taxa ao preço da porção, em vez de subtrair. Gabarito: C.",
   "hash": "467d597cdae47fd4",
@@ -483,7 +483,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q170": {
-  "assunto": "Funções exponencial e logarítmica: logaritmo, escala richter",
+  "assunto": "Funções exponencial e logarítmica: logaritmo, escala Richter",
   "dificuldade": 3,
   "explicacao": "A questão pede a magnitude M₂, usando a relação M₂ − M₁ = (2/3) log(E₂/E₁), com M₁ = 6,9 e E₁ igual a um décimo de E₂. Passo 1: se E₁ = E₂/10, então E₂/E₁ = 10. Passo 2: log 10 = 1, logo M₂ − M₁ = (2/3) × 1 ≈ 0,67. Passo 3: M₂ = 6,9 + 0,67 ≈ 7,57, ou seja, 7,6 com uma casa decimal. A alternativa A (5,4) subtrai 1,5 de M₁, invertendo a razão e o coeficiente. A B (6,2) subtrai 0,67, como se E₂/E₁ fosse 1/10. A D (8,2) e a E (8,4) somam valores maiores, como 1,5 (inverso de 2/3) ou erros com o logaritmo. Gabarito: C.",
   "hash": "8ce4d290dd477e59",
@@ -616,7 +616,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2024-regular-d2-q99": {
-  "assunto": "Ondulatória: efeito doppler",
+  "assunto": "Ondulatória: efeito Doppler",
   "dificuldade": 3,
   "explicacao": "A questão envolve o efeito Doppler em duas situações: o som da sirene e as ondas de rádio refletidas pela ambulância. Quando a fonte sonora se aproxima do observador, as frentes de onda chegam mais comprimidas, o comprimento de onda percebido diminui e a frequência percebida aumenta. Por isso o operador ouve a sirene mais aguda do que o som realmente emitido. No radar, ocorre algo análogo: a onda emitida com frequência f₀ atinge a ambulância, que se move em direção ao radar, e é refletida. A ambulância funciona como observador em aproximação e depois como fonte em aproximação, de modo que o desvio Doppler ocorre duas vezes e a onda que retorna tem frequência fᵣ maior que f₀. É exatamente essa diferença que o radar usa para calcular a velocidade. A alternativa A erra nos dois aspectos. A B acerta o som, mas inverte a relação das frequências. A C ignora o efeito Doppler da onda refletida. A E erra a percepção do som. Gabarito: D.",
   "hash": "28b109254c2560ba",

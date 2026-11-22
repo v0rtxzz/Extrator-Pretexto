@@ -63,7 +63,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q109": {
-  "assunto": "Eletrodinâmica: segunda lei de ohm",
+  "assunto": "Eletrodinâmica: segunda lei de Ohm",
   "dificuldade": 2,
   "explicacao": "A questão pede a ordem crescente das resistências de quatro fios do mesmo material, com áreas e comprimentos dados na tabela. Pela segunda lei de Ohm, R = ρ·L/A; como a resistividade ρ é constante, basta comparar a razão L/A. Fio 1: 312/9 ≈ 34,7. Fio 2: 47/4 ≈ 11,8. Fio 3: 54/2 = 27. Fio 4: 106/1 = 106. Em ordem crescente: 11,8 < 27 < 34,7 < 106, ou seja, R2 < R3 < R1 < R4. Repare que o fio 1, apesar de ser o mais comprido, não tem a maior resistência, porque sua área também é a maior; e o fio 4, com a menor área, tem a maior resistência. A alternativa A apenas segue a numeração dos fios, ignorando os cálculos. A B coloca R1 antes de R3, mas 34,7 > 27. A D e a E colocam R4 como a menor resistência, quando ela é a maior. Gabarito: C.",
   "hash": "adcc714bed70bc6a",
@@ -112,7 +112,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q116": {
-  "assunto": "Química orgânica: acidez, fenóis",
+  "assunto": "Química orgânica: acidez de fenóis",
   "dificuldade": 4,
   "explicacao": "A questão pede qual pesticida reage com hidróxido de sódio em uma reação ácido-base de Brönsted-Lowry, ou seja, qual deles tem um hidrogênio suficientemente ácido para ser doado à base OH⁻. Observando as estruturas, o composto III possui dois grupos OH ligados diretamente a anéis aromáticos, isto é, é um fenol. Fenóis são ácidos fracos, mas reagem com bases fortes como o NaOH, formando fenóxidos e água. Além disso, os vários átomos de cloro, que são eletronegativos, estabilizam o ânion fenóxido e aumentam a acidez, favorecendo a reação. O composto I é uma ureia substituída, cujo N–H tem acidez desprezível frente ao NaOH. O composto II apresenta grupos nitrogenados (piridina, imina e grupo nitro) sem hidrogênio ácido significativo. O composto IV é uma sulfona com iodos e um anel aromático, sem grupo ácido. O composto V é formado por éteres, anel aromático, flúor e silício, também sem hidrogênio ácido. Gabarito: C.",
   "hash": "1b4c0a845c81ea05",
@@ -140,7 +140,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q120": {
-  "assunto": "Óptica: cor, absorção de luz",
+  "assunto": "Óptica: cor, absorção da luz",
   "dificuldade": 3,
   "explicacao": "A questão pede em que faixa do espectro visível os carotenos absorvem mais luz. O texto explica a lógica das cores complementares: a cor que vemos é a da luz refletida, ou seja, aquela que o pigmento não absorve. A clorofila absorve azul e vermelho e por isso vemos as folhas verdes; as antocianinas absorvem do azul ao verde e aparecem avermelhadas. Os carotenos têm coloração amarelo-alaranjada, logo refletem o amarelo, o laranja e o vermelho. A luz absorvida precisa estar na região oposta do espectro, a de menores comprimentos de onda, entre o violeta e o azul (aproximadamente 400 a 500 nm), como mostra o espectro de absorção. A alternativa B, entre azul e verde, descreve melhor as antocianinas. A C, D e E correspondem justamente às cores refletidas pelo caroteno, que se percebem no tom amarelo-alaranjado das folhas no outono, e não às cores absorvidas. Gabarito: A.",
   "hash": "c0bc1a05be26c16d",
@@ -168,7 +168,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q124": {
-  "assunto": "Eletroquímica: células de combustível",
+  "assunto": "Eletroquímica: célula a combustível",
   "dificuldade": 3,
   "explicacao": "A questão pede a célula de combustível mais adequada a veículos, segundo três critérios do texto: operar em baixa temperatura, usar membrana de eletrólito polimérico e funcionar em meio ácido. Analisando o quadro: a PEM opera entre 60 e 100 °C, a menor faixa; seu eletrólito é o ácido poliperfluorossulfônico sólido, um polímero; e suas semirreações envolvem H⁺ (H₂ → 2 H⁺ + 2 e⁻), ou seja, meio ácido. Ela atende aos três critérios. A AFC opera em baixa temperatura, mas tem eletrólito de hidróxido de potássio aquoso, meio básico, com íons OH⁻. A MSFC opera de 600 a 1 000 °C e usa carbonatos fundidos. A PAFC é ácida, mas usa ácido fosfórico líquido, não polímero, e opera entre 175 e 200 °C. A SOFC trabalha a 600 a 1 000 °C, com óxido de zircônio sólido, que não é um polímero. Gabarito: C.",
   "hash": "f8f2630b66474266",
@@ -455,7 +455,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q166": {
-  "assunto": "Geometria espacial: áreas, paralelepípedo",
+  "assunto": "Geometria espacial: paralelepípedo, áreas",
   "dificuldade": 3,
   "explicacao": "A questão pede como mudam as quantidades de tinta quando comprimento e largura do contêiner dobram e a altura se mantém. A tinta é proporcional à área pintada. Paredes: a área lateral total é o perímetro da base vezes a altura, 2(c + l)·h. Dobrando c e l, o perímetro dobra: 2(2c + 2l)·h = 2·[2(c + l)·h]. Como as paredes são pintadas nos dois lados, ambos dobram igualmente; logo, a tinta acrílica dobra. Piso: a área é c·l. Com as novas medidas, (2c)·(2l) = 4·c·l; logo, a tinta epóxi quadruplica. Assim, o fornecedor correto é o II: o dobro para as paredes e quatro vezes para o piso. O fornecedor I erra o piso. O III erra as paredes, que não dependem da área da base. O IV inverte as proporções. O V trata as paredes como volume, multiplicando por oito. Gabarito: B.",
   "hash": "5c8b35ff6e0f99af",
@@ -511,7 +511,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q174": {
-  "assunto": "Porcentagem: descontos, comparação de preços",
+  "assunto": "Porcentagem: desconto, comparação de preços",
   "dificuldade": 3,
   "explicacao": "A questão pede a forma mais barata de comprar X, Y e Z, considerando os preços do quadro e os descontos. Farmácia 1: X R$ 45, Y R$ 40, Z R$ 50. Farmácia 2: X e Y com 20% de desconto quando comprados juntos: 0,8 × (50 + 50) = R$ 80; Z R$ 40. Farmácia 3: Z avulso R$ 35; os três juntos com 20%: 0,8 × (65 + 45 + 35) = 0,8 × 145 = R$ 116. Comparando as opções: A, tudo na Farmácia 1: 45 + 40 + 50 = R$ 135. B, X e Y na 1 e Z na 3: 85 + 35 = R$ 120. C, X e Y na 2 (com desconto) e Z na 3: 80 + 35 = R$ 115. D, X na 2 sem desconto, Y e Z na 3 sem desconto: 50 + 45 + 35 = R$ 130. E, tudo na 3 com desconto: R$ 116. A menor despesa é R$ 115, na opção C. As alternativas A, B, D e E custam, respectivamente, R$ 135, R$ 120, R$ 130 e R$ 116, todas mais caras. Gabarito: C.",
   "hash": "158a65e841781751",
@@ -560,7 +560,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2021-regular-d2-q91": {
-  "assunto": "Funções inorgânicas: ácidos e bases, ph",
+  "assunto": "Funções inorgânicas: ácidos, bases, pH",
   "dificuldade": 3,
   "explicacao": "A questão pede uma substância capaz de corrigir o pH da solução preparada pelo produtor sem introduzir elementos nocivos à alface. Comparando a tabela, a solução do produtor está com pH abaixo da faixa ideal de 5,5 a 6,5, ou seja, ácida demais. Para elevar o pH é preciso adicionar uma base. O hidróxido de potássio, KOH, é uma base forte solúvel que libera OH⁻, neutralizando parte dos íons H⁺ e elevando o pH. Além disso, o íon K⁺ é um macronutriente essencial às plantas, de modo que a correção não introduz elemento nocivo; pelo contrário, fornece nutriente. O ácido fosfórico, H₃PO₄, abaixaria ainda mais o pH. O sulfato de cálcio, CaSO₄, é um sal praticamente neutro e não corrige a acidez. O óxido de alumínio, Al₂O₃, é anfótero e pouco solúvel, além de o alumínio ser tóxico para as plantas. O cloreto de ferro(II), FeCl₂, sofre hidrólise ácida e tenderia a diminuir o pH. Gabarito: E.",
   "hash": "c6644310528d05ac",

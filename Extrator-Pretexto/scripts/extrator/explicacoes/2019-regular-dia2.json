@@ -70,7 +70,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q110": {
-  "assunto": "Genética: segunda lei de mendel, linkage",
+  "assunto": "Genética: segunda lei de Mendel, linkage",
   "dificuldade": 3,
   "explicacao": "A questão pergunta por que a lei da segregação independente de Mendel nem sempre é válida. Mendel estudou características cujos genes, como hoje se sabe, estavam em cromossomos diferentes ou muito distantes, e por isso se separavam de forma independente na meiose. Porém, quando dois genes estão no mesmo cromossomo e próximos fisicamente, eles tendem a ir juntos para o mesmo gameta, pois a permutação (crossing-over) raramente ocorre entre eles. Esse fenômeno é a ligação gênica, ou linkage, e faz com que as proporções da segunda lei não se confirmem. A dominância ou recessividade não altera a segregação dos genes, só a expressão do fenótipo. Os organismos de reprodução sexuada herdam, sim, um alelo de cada genitor. Alterações cromossômicas e falhas na disjunção são eventos excepcionais, que geram aneuploidias, e não explicam a regra geral de genes herdados juntos. Gabarito: D.",
   "hash": "cd98cce9c822b069",
@@ -189,7 +189,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q127": {
-  "assunto": "Bioquímica: cadeia respiratória, atp sintase",
+  "assunto": "Bioquímica: cadeia respiratória, ATP sintase",
   "dificuldade": 4,
   "explicacao": "A questão pergunta por que o DNP tem efeito emagrecedor. Na respiração celular, a cadeia respiratória bombeia prótons H⁺ para o espaço intermembranas, criando um gradiente. Esses prótons voltam à matriz pela ATP sintase, e esse fluxo é o que gera ATP. O texto diz que o DNP captura os prótons no espaço intermembranas e os devolve à matriz por fora da enzima. Assim, o gradiente se dissipa sem produzir ATP, e a energia é liberada como calor. Com menos ATP produzido, a célula precisa oxidar mais nutrientes, como glicose e gorduras, para suprir sua demanda, o que leva ao emagrecimento e também ao risco de hipertermia. A alternativa A erra porque a cadeia respiratória continua funcionando; o que se perde é o acoplamento. A alternativa B está incorreta, pois o ciclo de Krebs não é bloqueado. A alternativa C não procede, já que a produção de acetil-CoA não diminui. A alternativa D é falsa, pois a glicólise não é inibida pelo DNP. Gabarito: E.",
   "hash": "f3e4472595969935",
@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q137": {
-  "assunto": "Funções exponencial e logarítmica: ph, inequações",
+  "assunto": "Funções exponencial e logarítmica: pH, inequações",
   "dificuldade": 3,
   "explicacao": "A questão pede os valores de x, a concentração de H⁺, para obter a Hydrangea cor-de-rosa mais valorizada. A flor é rosa em solo alcalino, com pH > 7, e a mais valorizada exige pH < 8. Logo, 7 < pH < 8. Como pH = −log x, temos 7 < −log x < 8, ou seja, −8 < log x < −7. Como a função logarítmica de base 10 é crescente, isso equivale a 10⁻⁸ < x < 10⁻⁷. Note que, por causa do sinal negativo, quanto maior o pH, menor a concentração de H⁺. A alternativa A inclui valores acima de 10⁻⁷, que dariam pH menor que 7 e flor azul. A alternativa B aceita valores abaixo de 10⁻⁸, que dariam pH acima de 8. A alternativa C confunde os valores de pH com os de x. A alternativa D não tem relação com a definição de pH. Gabarito: E.",
   "hash": "cd06123a2701326c",
@@ -336,7 +336,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q148": {
-  "assunto": "Grandezas e medidas: volume, conversão de unidades",
+  "assunto": "Grandezas e medidas: conversão de unidades de volume",
   "dificuldade": 2,
   "explicacao": "A questão pede o número mínimo de embalagens para encher 80% de uma banheira de 0,3 m³. Primeiro, o volume a preencher: 0,8 × 0,3 = 0,24 m³. Convertendo para litros, lembrando que 1 m³ = 1 000 L: 0,24 m³ = 240 L. Cada embalagem rende 2,7 L, então o número de embalagens é 240 ÷ 2,7 ≈ 88,9. Como não se compra fração de embalagem e 88 não seriam suficientes, o mínimo é 89 embalagens. A alternativa A (9) erra na conversão de unidades por um fator de 10. A alternativa B (12) também resulta de conversão incorreta. A alternativa D (112) usa a capacidade total de 300 L sem descontar os 80%. A alternativa E (134) não corresponde a nenhum cálculo coerente com os dados. Gabarito: C.",
   "hash": "87518acf29d77b7e",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q150": {
-  "assunto": "Matemática financeira: juros compostos, valor presente",
+  "assunto": "Matemática financeira: valor presente, juros compostos",
   "dificuldade": 4,
   "explicacao": "A questão pede o valor à vista do produto, que é a soma dos valores presentes das duas parcelas, descontados à taxa de 1% ao mês em juros compostos. A primeira parcela, de R$ 202,00, é paga um mês após a compra; trazendo-a para a data da compra: 202 ÷ 1,01 = 200. A segunda, de R$ 204,02, é paga dois meses depois; dividimos por 1,01² = 1,0201: 204,02 ÷ 1,0201 = 200. Assim, o valor à vista é 200 + 200 = R$ 400,00. A alternativa A (398,02) subtrai juros de forma incorreta. A alternativa C (401,94) desconta a segunda parcela por apenas um mês. A alternativa D (404,00) desconta as duas parcelas apenas por um mês, de forma aproximada. A alternativa E (406,02) é a simples soma das parcelas, sem desconto de juros. Gabarito: B.",
   "hash": "6b74757890b064b5",
@@ -378,7 +378,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q154": {
-  "assunto": "Funções exponencial e logarítmica: propriedades dos logaritmos",
+  "assunto": "Funções exponencial e logarítmica: propriedades do logaritmo",
   "dificuldade": 3,
   "explicacao": "A questão pede a classificação de um terremoto com amplitude 2 000 µm e frequência 0,2 Hz. Usamos a fórmula Mₛ = 3,30 + log(A·f). O produto é A·f = 2 000 × 0,2 = 400. Decompondo: log 400 = log(4 × 100) = log 4 + log 100 = 2 log 2 + 2 = 2 × 0,3 + 2 = 2,6. Assim, Mₛ = 3,30 + 2,6 = 5,9. Pelo quadro, a faixa moderada vai de 5,0 a 5,9, então o terremoto é moderado. A alternativa A (pequeno) vale até 3,9, valor obtido se esquecêssemos o log de A·f. A alternativa B (ligeiro), de 4,0 a 4,9, aparece com erro no cálculo do logaritmo. A alternativa D (grande) começa em 6,0, ligeiramente acima do resultado. A alternativa E (extremo) exige magnitude de pelo menos 10. Gabarito: C.",
   "hash": "ff2cfd6c018227cd",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q166": {
-  "assunto": "Geometria plana: teorema de pitágoras, dobraduras",
+  "assunto": "Geometria plana: teorema de Pitágoras, dobraduras",
   "dificuldade": 4,
   "explicacao": "A questão pede a medida de AE após a primeira dobra da folha de 18 cm por 12 cm. Na figura, a dobra é feita ao longo de AE, levando o canto inferior esquerdo da folha, que chamaremos de F, até a posição D. Assim, o triângulo AFE é refletido sobre o triângulo ADE, e o ângulo reto em F passa a ser o ângulo reto em D. O lado inferior mede 18 cm e EC = 12 cm, então FE = 18 − 12 = 6 cm. O lado AF é a altura da folha, 12 cm. Pelo teorema de Pitágoras no triângulo AFE, retângulo em F: AE² = 12² + 6² = 144 + 36 = 180. Logo, AE = √180 = √(36 × 5) = 6√5 cm, cerca de 13,4 cm. A alternativa A (2√22) e a B (6√3) usam catetos errados. A alternativa C (12) é apenas a altura da folha. A alternativa E (12√2) seria a diagonal de um quadrado de lado 12. Gabarito: D.",
   "hash": "8d5575e2e1a3b319",
@@ -567,7 +567,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q91": {
-  "assunto": "Eletroquímica: potenciais de redução, espontaneidade",
+  "assunto": "Eletroquímica: potencial de redução, espontaneidade",
   "dificuldade": 4,
   "explicacao": "A questão pede qual espécie, misturada ao NaOH, reage com a água em meio básico liberando gás hidrogênio e calor. Pelo quadro, a redução da água a H₂ (2 H₂O + 2 e⁻ → H₂ + 2 OH⁻) tem E° = −0,83 V. Para que a água seja reduzida espontaneamente, a outra espécie precisa ser oxidada, ou seja, deve ter potencial de redução menor (mais negativo) que −0,83 V, funcionando como redutor mais forte. Entre as opções, o alumínio metálico tem E° = −2,33 V para Al(OH)₄⁻/Al. Assim, Al se oxida a Al(OH)₄⁻ e a água se reduz a H₂: ΔE = −0,83 − (−2,33) = +1,50 V, valor positivo, reação espontânea e bastante exotérmica, o que aquece e agita a mistura e ajuda a desentupir. O cobalto (−0,73 V) e o chumbo (−0,58 V) têm potenciais maiores que o da água, então não reduzem a água espontaneamente. Cu(OH)₂ e Fe(OH)₂ já estão na forma oxidada; não podem atuar como redutores, só seriam reduzidos. Gabarito: A.",
   "hash": "e10858337acc2111",
@@ -595,7 +595,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2019-regular-d2-q95": {
-  "assunto": "Termoquímica: lei de hess",
+  "assunto": "Termoquímica: lei de Hess",
   "dificuldade": 4,
   "explicacao": "A questão pede a energia liberada na conversão anaeróbica de 1 mol de glicose em 2 mols de ácido lático, usando a Lei de Hess. A reação desejada é C₆H₁₂O₆ → 2 CH₃CH(OH)COOH. Mantemos a combustão da glicose como está: ΔH = −2 800 kJ. Invertemos a combustão do ácido lático e multiplicamos por 2, para que o ácido lático apareça como produto: 6 CO₂ + 6 H₂O → 2 C₃H₆O₃ + 6 O₂, com ΔH = 2 × (+1 344) = +2 688 kJ. Somando as duas equações, CO₂, H₂O e O₂ se cancelam e sobra glicose → 2 ácido lático, com ΔH = −2 800 + 2 688 = −112 kJ. Como o valor é negativo, o processo libera 112 kJ por mol de glicose, bem menos que os 2 800 kJ da oxidação completa, por isso é menos vantajoso. 467 kJ não corresponde a nenhuma combinação correta dos dados. 2 688 kJ é apenas a energia da combustão de 2 mols de ácido lático. Os processos não absorvem energia: o ΔH é negativo; 1 344 e 2 800 kJ são valores das combustões isoladas. Gabarito: A.",
   "hash": "4c1f91856876eec4",

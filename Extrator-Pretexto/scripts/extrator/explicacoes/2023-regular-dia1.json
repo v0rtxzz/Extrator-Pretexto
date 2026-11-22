@@ -63,7 +63,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2023-regular-d1-q05-ing": {
-  "assunto": "Língua inglesa: cartum, ironia",
+  "assunto": "Língua inglesa: ironia em cartum",
   "dificuldade": 2,
   "explicacao": "A questão pede o objetivo do cartum sobre o ambiente de escritório. A imagem mostra um escritório onde todos os funcionários são praticamente iguais: homens, aparentemente brancos, da mesma faixa de idade, com o mesmo terno, gravata e corte de cabelo. Na legenda, um deles diz ao novato: “Oh, you’ll love working here. Nobody treats you any differently just because of your age, race, or gender”, isto é, ninguém trata você de forma diferente por idade, raça ou gênero. O humor está na ironia: não há discriminação visível simplesmente porque não existe ninguém diferente ali. O cartum critica, assim, a ausência de diversidade no ambiente de trabalho, como diz a alternativa B. A A erra porque a roupa igual é sintoma da homogeneidade, não o alvo da crítica. A C não se sustenta, já que o modo de conversar não é o foco. A D inverte o tom, pois o cartum é crítico, não elogioso. A E também não cabe: a cena não mostra cooperação, e sim uniformidade. Gabarito: B.",
   "hash": "c71a7df8cb5fbf73",
@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2023-regular-d1-q13": {
-  "assunto": "Literatura brasileira: modernismo, poesia lírica",
+  "assunto": "Literatura brasileira: Modernismo, poesia lírica",
   "dificuldade": 4,
   "explicacao": "A questão pede o que o eu lírico revela, diante do outro, ao evocar suas memórias no poema de Mário de Andrade. O poema começa com um gesto de intimidade: o dedo da pessoa amada percorre o rosto do eu lírico, com seus sulcos e sombras deixados pela vida. O clima é de silêncio e calma, reforçado pela imagem dos “círculos vagarosos na lagoa”. Depois ele relembra quatro amores, alguns tumultuados (“eclipse, boi que fala, cataclisma”), e conclui: “O quarto és tu... E eu afinal me repousei dos meus cuidados”. O amor presente traz descanso e paz, um estado de serenidade construído ao longo das experiências e da entrega tranquila ao desejo. Daí a alternativa C. A A erra porque as marcas do tempo são acolhidas, não motivo de vergonha. A B contraria o poema, que mostra certeza no amor atual. A D inverte o sentido, já que não há desejo de voltar ao passado. A E não se sustenta, pois o amor presente é repouso, não prazer passageiro. Gabarito: C.",
   "hash": "2781e41d15971dcf",
@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2023-regular-d1-q33": {
-  "assunto": "Artes visuais: expressionismo, arte degenerada",
+  "assunto": "Artes visuais: Expressionismo, arte degenerada",
   "dificuldade": 3,
   "explicacao": "A questão pergunta por que a obra Eternos caminhantes, de Lasar Segall, foi considerada “degenerada” pelo regime nazista. A pintura, de 1919, tem traços expressionistas: figuras alongadas e deformadas, corpos magros e olhares tristes que representam migrantes e errantes, distantes de qualquer ideal clássico de beleza. O Texto II informa que ela foi exibida nas mostras de “Arte Degenerada” e confiscada pelo Ministério da Propaganda nazista em 1937. O regime perseguia a arte moderna porque ela contrariava o modelo estético oficial, que exaltava corpos idealizados e valores nacionalistas. Assim, a obra foi condenada por representar uma estética considerada inconveniente para o ideário político vigente, alternativa A. A B erra porque a obra não foi produzida por grupos de oposição organizados. A C não se sustenta, pois a representação parcial do corpo não é o motivo apontado. A D contraria o contexto, já que a obra não antecipa o imaginário germânico, e sim o contraria. A E não tem base no texto. Gabarito: A.",
   "hash": "777561539d52d060",
@@ -469,7 +469,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2023-regular-d1-q63": {
-  "assunto": "Brasil Colônia: barroco mineiro, comércio colonial",
+  "assunto": "Brasil Colônia: Barroco mineiro, comércio colonial",
   "dificuldade": 3,
   "explicacao": "A questão pede o que tornou possível o surgimento das “chinesices” no barroco mineiro. O texto conta que, nos séculos XVII e XVIII, chegaram ao Brasil seda, madeiras, tecidos, obras de arte e muitas porcelanas, presentes sobretudo nas cidades enriquecidas pelo ouro, como Ouro Preto, Mariana e Sabará. Esses objetos chineses, com seus pássaros, elefantes, tigres, mandarins e pagodes, inspiraram pinturas em igrejas barrocas. Para que porcelanas da China chegassem a Minas, foi preciso uma rede de comércio que ligava Ásia, Europa e América, sobretudo pelas rotas portuguesas que passavam por Macau e Goa. O processo artístico foi possível graças ao intercâmbio transcontinental, alternativa B. A A erra porque a origem das chinesices está em objetos e gravuras, não na arquitetura. A C não se sustenta, já que o texto destaca riqueza e circulação, não dependência. A D não tem base, pois não há menção a ação do Estado. A E é vaga e não explica como os motivos chineses chegaram ao Brasil. Gabarito: B.",
   "hash": "c46e1f380d851fed",
@@ -525,7 +525,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2023-regular-d1-q71": {
-  "assunto": "Questões ambientais: desmatamento na Amazônia",
+  "assunto": "Questões ambientais: desmatamento da Amazônia",
   "dificuldade": 3,
   "explicacao": "A questão pede, segundo o autor, o que desencadeia o problema central, o desmatamento na Amazônia. Ariovaldo Umbelino de Oliveira reconhece que a expansão da soja contribui, mas afirma que atribuir a ela o papel principal “parece não totalmente correto”. Para ele, a lógica do desmatamento está articulada pelo “tripé grileiros, madeireiros e pecuaristas”, e as obras logísticas ativam a especulação com terras. Grileiros são os que se apropriam ilegalmente de terras, em geral terras públicas devolutas, falsificando títulos; depois a madeira é retirada e a área vira pasto. O ponto de partida do problema é, portanto, a apropriação de áreas devolutas, alternativa A. A B não se sustenta, pois o texto não fala de sonegação. A C erra porque a exportação ilegal não é mencionada. A D introduz desoneração tributária, tema ausente. A E também não aparece no texto, que foca nos agentes e não na legislação. Gabarito: A.",
   "hash": "a6c356092c81e716",

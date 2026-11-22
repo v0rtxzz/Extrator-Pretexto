@@ -1,6 +1,6 @@
 {
  "enem-2016-regular-d2-q100": {
-  "assunto": "Literatura brasileira: arcadismo, soneto",
+  "assunto": "Literatura brasileira: Arcadismo, soneto",
   "dificuldade": 4,
   "explicacao": "A questão pede o que transparece na reflexão do eu lírico ao contemplar a paisagem. No soneto árcade, o eu lírico estranha o lugar: a fonte sumiu, o vale virou monte, as árvores floridas desapareceram. Primeiro ele atribui a mudança ao tempo (“Quanto pode dos anos o progresso!”), depois duvida se é o mesmo lugar (“Eu me engano: a região esta não era”). Mas o terceto final dá a chave: não há por que estranhar, pois estão presentes “Meus males, com que tudo degenera!”. O sofrimento do eu lírico contamina a natureza, que se degrada junto com ele. Há, portanto, uma empatia, uma correspondência entre a dor do eu e a agonia da terra. A alternativa A fala de solidão, que não é o tema. A B erra porque não há resignação, e sim lamento. A C se apoia na dúvida inicial, que é superada no final. A D é falsa: o eu lírico não tenta recriar o passado, apenas constata a perda. Gabarito: E.",
   "hash": "c36b2c442c719d14",
@@ -196,14 +196,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d2-q128": {
-  "assunto": "Educação física: gênero e esporte",
+  "assunto": "Educação física: esporte e gênero",
   "dificuldade": 2,
   "explicacao": "A questão pede que tipo de feminilidade a personagem Maggie representa ao entrar no boxe. O texto mostra que o treinador Frankie expressa a ideia de que boxe é esporte de homem (“Eu não treino garotas”), enquanto Maggie supera a concepção de que os ringues são masculinos. Explica ainda que a feminilidade dominante associa a mulher à fragilidade e à passividade, mas que algumas mulheres, indiferentes às convenções, se sentem desafiadas a praticar modalidades consideradas masculinas, como Maggie, que insiste em seu objetivo. Logo, sua feminilidade é marcada pela transposição de limites impostos à mulher num espaço de predomínio masculino. A alternativa A é o oposto, pois o boxe não é visto como alinhado ao gênero feminino. A B também contradiz o texto, já que Maggie rompe com os comportamentos tidos como femininos. A D fala em aceitação de padrões, quando há desafio a eles. A E fala em naturalização das barreiras, quando a personagem as enfrenta. Gabarito: C.",
   "hash": "235eb37de085066a",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d2-q129": {
-  "assunto": "Educação física: práticas corporais e saúde",
+  "assunto": "Educação física: saúde e práticas corporais",
   "dificuldade": 3,
   "explicacao": "A questão pede o fator do texto que permite relacionar a prática corporal a uma visão ampliada de saúde. Uma visão ampliada de saúde não considera só o corpo, mas também condições sociais e econômicas que possibilitam o bem-estar. Terezinha conta que, nos três primeiros anos de carreira, seu principal desafio foi a falta de recursos financeiros: sem dinheiro para um atleta-guia, treinava sozinha e sofria trombadas e quedas. Hoje, com melhores condições, pode ter treinos diários, prevenção de lesões e acompanhamento psicológico e nutricional. A condição financeira é, portanto, o fator que determina o acesso a todos os demais cuidados, o que caracteriza a perspectiva ampliada de saúde. As alternativas A, C e E citam cuidados específicos (nutrição, prevenção de lesões, apoio psicológico), que dependem justamente das condições financeiras. A D, treinamento esportivo, é a própria prática corporal, não o fator que amplia a noção de saúde. Gabarito: B.",
   "hash": "b5982d764e506ed0",
@@ -252,7 +252,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d2-q136": {
-  "assunto": "Geometria espacial: volume de cilindro e cone",
+  "assunto": "Geometria espacial: volume do cilindro e do cone",
   "dificuldade": 3,
   "explicacao": "A questão pede o número mínimo de viagens para transportar os grãos de um silo cheio, em caminhão de 20 m³. A figura mostra um cilindro de raio 3 m e altura 12 m, coberto por um cone de mesmo raio e altura 3 m. Com π ≈ 3: volume do cilindro = π·r²·h = 3 × 3² × 12 = 3 × 9 × 12 = 324 m³. Volume do cone = ⅓·π·r²·h = ⅓ × 3 × 9 × 3 = 27 m³. Volume total = 324 + 27 = 351 m³. Número de viagens = 351 ÷ 20 = 17,55. Como 17 viagens levariam apenas 340 m³, sobrando 11 m³, é necessária mais uma, totalizando 18 viagens. A alternativa A considera um erro grosseiro de escala. A B e a C vêm de cálculos incompletos ou de arredondar para baixo, o que deixaria grãos no silo. A E surge de usar o cone sem o fator ⅓ (324 + 81 = 405; 405 ÷ 20 ≈ 20,25, arredondado para 21). Gabarito: D.",
   "hash": "672eeb96cdcddb5e",
@@ -301,7 +301,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d2-q143": {
-  "assunto": "Geometria plana: áreas, equação do segundo grau",
+  "assunto": "Geometria plana: áreas, equação do 2º grau",
   "dificuldade": 4,
   "explicacao": "A questão pede as dimensões de um terreno retangular com comprimento 7 m maior que a largura e mesma área do terreno da Figura B. A Figura B pode ser dividida pela diagonal que liga o canto superior esquerdo ao inferior direito. O primeiro triângulo é retângulo, com catetos 15 m e 15 m: área = 15 × 15 ÷ 2 = 112,5 m². O segundo também é retângulo, com catetos 21 m e 3 m: área = 21 × 3 ÷ 2 = 31,5 m². Área total = 112,5 + 31,5 = 144 m². Para a Figura A, com largura x: x(x + 7) = 144, ou seja, x² + 7x − 144 = 0. Δ = 49 + 576 = 625, √625 = 25, x = (−7 + 25) ÷ 2 = 9. Logo, largura 9 m e comprimento 16 m (as alternativas listam os valores na ordem 9,0 e 16,0). A alternativa A dá área 108,75 m². A C dá cerca de 151,6 m². A D dá 170 m². A E dá 276,75 m². Gabarito: B.",
   "hash": "df3838c9a810ab9b",
@@ -427,7 +427,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2016-regular-d2-q161": {
-  "assunto": "Geometria espacial: volume de paralelepípedo",
+  "assunto": "Geometria espacial: volume do paralelepípedo",
   "dificuldade": 4,
   "explicacao": "A questão pede o volume de petróleo derramado após um furo no fundo do compartimento C. O reservatório tem 60 m × 10 m de base e 10 m de altura, dividido em três compartimentos iguais, cada um com 20 m × 10 m de base. As placas divisórias têm só 7 m de altura, então os compartimentos se comunicam acima delas. Com o furo no fundo de C, todo o petróleo de C vaza: 20 × 10 × 10 = 2.000 m³. Em A e B, o petróleo que está acima de 7 m passa por cima das placas e escoa para C, saindo pelo furo; o que está abaixo de 7 m fica retido. Em cada um, sai uma camada de 3 m: 20 × 10 × 3 = 600 m³; para A e B, 2 × 600 = 1.200 m³. Total: 2.000 + 1.200 = 3.200 m³ = 3,2 × 10³ m³. A alternativa A considera um cálculo parcial. A B esquece parte das camadas. A C conta apenas o compartimento C. A E considera o reservatório inteiro (60 × 10 × 10 = 6.000 m³). Gabarito: D.",
   "hash": "96aad61785363ba0",

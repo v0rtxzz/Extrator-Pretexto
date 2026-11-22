@@ -7,7 +7,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-ppl-d1-q02": {
-  "assunto": "Geopolítica e conflitos: guerra civil espanhola, Guernica",
+  "assunto": "Geopolítica e conflitos: Guerra Civil Espanhola, Guernica",
   "dificuldade": 2,
   "explicacao": "A questão compara duas representações do bombardeio de Guernica (1937): a pintura-mural de Picasso e uma fotografia da cidade destruída, e pede o que cada uma ressalta, nessa ordem. Guernica, de Picasso, é uma obra cubista em preto, branco e cinza, repleta de figuras deformadas e em desespero: a mãe com o filho morto nos braços, o cavalo agonizante, corpos mutilados, rostos gritando. O foco está na dor, no pânico e no sofrimento das pessoas. Já a fotografia registra o resultado concreto do ataque: prédios em ruínas, escombros, a cidade arrasada. O foco é a destruição material. Assim, a sequência correta é sofrimento humano, na pintura, e destruição material, na fotografia. A alternativa A erra ao atribuir conformismo à fotografia, que denuncia o ataque. A B reduz a pintura a uma percepção individual e não indica o que a foto ressalta. A C é inadequada, pois Guernica é altamente crítica e a foto nada tem de romântica. A E inverte as noções, já que a pintura é marcadamente subjetiva. Gabarito: D.",
   "hash": "d1ef27f1be1f7921",
@@ -336,7 +336,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-ppl-d1-q49": {
-  "assunto": "Eletrodinâmica: amperímetro, voltímetro",
+  "assunto": "Eletrodinâmica: amperímetro e voltímetro",
   "dificuldade": 2,
   "explicacao": "A questão pede o circuito correto para medir a resistência elétrica da lâmpada. Pela definição, R = U/i, então é preciso medir a tensão U sobre a lâmpada e a corrente i que passa por ela. O amperímetro mede corrente e deve ficar em série com a lâmpada, para que a mesma corrente atravesse os dois; como sua resistência interna é praticamente nula, ele não altera o circuito. O voltímetro mede diferença de potencial e deve ficar em paralelo, ligado entre os dois pontos de interesse; como sua resistência é muito alta, quase não desvia corrente. No circuito da alternativa C, a lâmpada L está em série com o amperímetro A, e o voltímetro V está ligado em paralelo a esse conjunto, nos terminais da pilha; como a queda de tensão no amperímetro ideal é desprezível, V indica a tensão na lâmpada. Assim, R = U/i. As demais alternativas trocam as posições, colocando o amperímetro em paralelo, o que o faria funcionar quase como um curto-circuito, ou o voltímetro em série, o que praticamente interromperia a corrente na lâmpada. Gabarito: C.",
   "hash": "4a374a272bb70996",
@@ -441,7 +441,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2012-ppl-d1-q64": {
-  "assunto": "Dinâmica: atrito estático, atrito cinético",
+  "assunto": "Dinâmica: atrito estático e cinético",
   "dificuldade": 3,
   "explicacao": "A questão pede por que a frenagem é mais eficiente quando as rodas não bloqueiam, como no freio ABS. Quando a roda gira sem deslizar, o ponto do pneu em contato com o chão está momentaneamente em repouso em relação ao asfalto, e o atrito que atua é o estático. Quando a roda trava e o carro derrapa, o pneu desliza sobre o pavimento, e passa a atuar o atrito cinético, ou dinâmico. Para um mesmo par de superfícies, o coeficiente de atrito estático máximo é maior que o dinâmico (μₑ > μd). Assim, a força de atrito máxima disponível para frear é maior sem bloqueio, a desaceleração é maior e a distância de frenagem diminui. O ABS alterna rapidamente a pressão nos freios justamente para manter as rodas próximas do limite sem travar. A alternativa A é falsa, pois os coeficientes não se igualam. A C inverte a relação entre eles. A D e a E atribuem o efeito à área de contato, mas a força de atrito, nesse modelo, não depende da área. Gabarito: B.",
   "hash": "8b798ac0bf45ba21",

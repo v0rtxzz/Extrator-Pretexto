@@ -308,7 +308,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-regular-d2-q144": {
-  "assunto": "Aritmética: divisão, resto, dígito verificador",
+  "assunto": "Aritmética: dígito verificador, resto da divisão",
   "dificuldade": 2,
   "explicacao": "A questão pede o dígito verificador da agência 0100. Aplicando a regra: N₁ = 0, N₂ = 1, N₃ = 0, N₄ = 0. S = 5·N₁ + 4·N₂ + 3·N₃ + 2·N₄ = 5·0 + 4·1 + 3·0 + 2·0 = 4. Agora, o resto da divisão de 4 por 11: como 4 é menor que 11, o quociente é 0 e o resto R = 4. Por fim, N₅ = 11 − R = 11 − 4 = 7. A alternativa 0 resultaria de um resto igual a 11, impossível, ou de confundir a regra. A de 6 vem de usar um peso errado, por exemplo 5 para N₂ (S = 5). A de 8 vem de usar peso 3 para N₂ (S = 3). A de 9 vem de usar peso 2 para N₂ (S = 2), invertendo a ordem dos pesos. Gabarito: C.",
   "hash": "79cb609c77b7bd79",
@@ -462,7 +462,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-regular-d2-q167": {
-  "assunto": "Porcentagem: descontos e acréscimos sucessivos",
+  "assunto": "Porcentagem: acréscimos e descontos sucessivos",
   "dificuldade": 2,
   "explicacao": "A questão pede a diferença entre o valor cobrado pela loja e o calculado pela cliente. Preço promocional: R$ 1 000,00. Preço normal: 10% maior, 1 000 × 1,10 = R$ 1 100,00. No cartão da loja, há 2% de desconto sobre o preço normal: 1 100 × 0,98 = R$ 1 078,00, valor apresentado pela loja. A cliente pensou que +10% e −2% equivaleriam a +8% sobre o promocional: 1 000 × 1,08 = R$ 1 080,00. O erro está em somar porcentagens que incidem sobre bases diferentes; o correto é multiplicar os fatores, 1,10 × 0,98 = 1,078, ou seja, aumento de 7,8%. Assim, o valor da loja foi 1 080 − 1 078 = R$ 2,00 menor. A alternativa B confunde com os 10% de diferença entre preços. A C não corresponde a nenhum cálculo coerente. A D e a E indicam valor maior, mas o da loja é menor. Gabarito: A.",
   "hash": "87dffbce577ca54a",
@@ -595,7 +595,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-regular-d2-q96": {
-  "assunto": "Eletrodinâmica: lei de Ohm, associação de geradores",
+  "assunto": "Eletrodinâmica: associação de geradores, lei de Ohm",
   "dificuldade": 3,
   "explicacao": "A questão pede qual associação de duas baterias de 12 V provocou parada respiratória em alguém com a pele molhada. O quadro mostra que a parada respiratória ocorre para correntes entre 20 mA e 100 mA. Com a pele molhada, a resistência do corpo é cerca de 1 kΩ = 1 000 Ω. Pela lei de Ohm, i = U/R. Se a pessoa tocar uma única bateria (ou duas em paralelo), U = 12 V e i = 12/1 000 = 0,012 A = 12 mA, que só provoca aumento das contrações musculares. Se as baterias estiverem em série, com polos opostos ligados, as tensões se somam: U = 24 V e i = 24/1 000 = 24 mA, valor dentro da faixa de 20 a 100 mA, compatível com parada respiratória. Assim, a associação responsável é aquela em que os pontos A e B ficam nos extremos de duas baterias em série com tensões somadas, mostrada na alternativa A. As outras configurações (paralelo, baterias em oposição, que anulam a tensão, ou pontos que abrangem só uma bateria) fornecem 12 V ou 0 V, insuficientes. Gabarito: A.",
   "hash": "dab35899ba09c0c1",

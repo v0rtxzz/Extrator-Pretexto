@@ -21,7 +21,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q103": {
-  "assunto": "Genética: primeira lei de mendel",
+  "assunto": "Genética: primeira lei de Mendel",
   "dificuldade": 2,
   "explicacao": "A questão pede qual autofecundação sustenta a ideia de Mendel de que fatores \"escondidos\" em híbridos reaparecem nas gerações seguintes. Uma planta híbrida resulta do cruzamento de linhagens puras lisa (RR) e rugosa (rr), sendo Rr. Como o alelo liso é dominante, ela tem fenótipo liso, mas carrega o fator rugoso sem manifestá-lo. Ao autofecundar essa planta (Rr × Rr), obtêm-se RR, Rr e rr na proporção 1 : 2 : 1, ou seja, 3 lisas para 1 rugosa. O reaparecimento das sementes rugosas prova que o fator recessivo estava presente, embora oculto. Assim, a alternativa B está correta. A alternativa A contradiz a genética, pois híbridos autofecundados não geram só sementes lisas. A alternativa C, com linhagem pura RR, só produz lisas e não revela nenhum fator oculto. A alternativa D é impossível: linhagem pura recessiva (rr) não gera sementes lisas. A alternativa E é verdadeira como fato, mas não demonstra fatores escondidos. Gabarito: B.",
   "hash": "d361b2b3b3e4ba73",
@@ -35,7 +35,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q105": {
-  "assunto": "Hidrostática: lei de stevin",
+  "assunto": "Hidrostática: lei de Stevin",
   "dificuldade": 2,
   "explicacao": "A questão mostra o encanamento ligado a uma caixa-d'água e pede o registro sob maior pressão hidrostática. Pela lei de Stevin, a pressão da água depende apenas da altura da coluna de líquido acima do ponto: p = p₀ + d·g·h, em que h é o desnível entre a superfície da água na caixa e o registro. O formato e o comprimento do cano não importam. Observando a figura, o registro I fica logo abaixo da caixa; o IV e o V estão no alto, perto do telhado; o III está mais embaixo, mas o II é o ponto mais baixo de toda a tubulação. Como II tem a maior profundidade em relação ao nível da água, ele suporta a maior pressão, alternativa B. A alternativa A (I) tem desnível pequeno, logo pressão baixa. A alternativa C (III) está um pouco acima do II. A alternativa D (IV) e a alternativa E (V) estão em pontos altos, com coluna de água pequena. Gabarito: B.",
   "hash": "89d7d0d52c751f0c",
@@ -238,7 +238,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q134": {
-  "assunto": "Química orgânica: detergentes, tensoativos",
+  "assunto": "Química orgânica: tensoativos, detergentes",
   "dificuldade": 2,
   "explicacao": "A questão pede qual material caseiro imita a ação de um dispersante de petróleo, que reduz a tensão superficial do óleo e o fragmenta em gotículas dispersas na água. O detergente é um tensoativo (surfactante): suas moléculas têm uma parte apolar, que interage com o óleo, e uma parte polar ou iônica, que interage com a água. Elas se posicionam na interface óleo-água, diminuem a tensão superficial e envolvem o óleo em micelas, permitindo que ele se espalhe em gotículas pela água. É exatamente o efeito do dispersante, alternativa C. A alternativa A é errada, pois azeite é outro óleo apolar e apenas se juntaria às gotas. A alternativa B (vinagre) é solução aquosa de ácido acético, sem ação tensoativa relevante. A alternativa D (água sanitária) é oxidante e alvejante, não emulsificante. A alternativa E (sal) dissolve-se na água e não interage com o óleo de modo a dispersá-lo. Gabarito: C.",
   "hash": "3c78cd93ed127df0",
@@ -350,7 +350,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q150": {
-  "assunto": "Função afim: gráficos, proporcionalidade",
+  "assunto": "Função afim: gráfico, proporcionalidade",
   "dificuldade": 3,
   "explicacao": "A questão pede quantas peças precisam ser produzidas para um faturamento de R$ 10 000,00, usando dois gráficos em função das horas t. No gráfico de peças, x passa por (1, 20) e (3, 60), logo x = 20t, em milhares de peças. No gráfico de faturamento, y passa por (1, 4) e (2, 8), logo y = 4t, em milhares de reais. Faturamento de R$ 10 000 significa y = 10: 4t = 10, então t = 2,5 h. Nesse tempo, x = 20 × 2,5 = 50 milhares, ou seja, 50 000 peças. Alternativa D. Outra forma: x/y = 20/4 = 5, então x = 5 × 10 = 50 mil. A alternativa A (2 000) confunde a unidade e usa só a razão entre os gráficos. A alternativa B (2 500) toma o valor de t como número de peças. A alternativa C (40 000) usa t = 2 h, que corresponde a R$ 8 000. A alternativa E (200 000) multiplica as taxas em vez de dividir. Gabarito: D.",
   "hash": "d35fa8a290d26400",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q157": {
-  "assunto": "Geometria espacial: volume de paralelepípedo",
+  "assunto": "Geometria espacial: volume do paralelepípedo",
   "dificuldade": 3,
   "explicacao": "A questão pede o volume de madeira de uma caixa com dimensões externas de 20 cm × 20 cm × 8 cm e espessura de 0,5 cm em todas as faces. O volume de madeira é o volume externo menos o volume interno (o espaço vazio). Volume externo: 20 × 20 × 8 = 3 200 cm³. Cada dimensão interna perde 0,5 cm de cada lado, ou seja, 1 cm no total: 19 × 19 × 7. Volume interno: 19 × 19 × 7 = 361 × 7 = 2 527 cm³. Volume de madeira: 3 200 − 2 527 = 673 cm³. Alternativa C. A alternativa A (654) desconta espessura demais em alguma dimensão. A alternativa B (666) e a alternativa D (681) resultam de descontos inconsistentes nas medidas. A alternativa E (693) desconta apenas 0,5 cm em cada dimensão, como se a madeira estivesse só de um lado. Gabarito: C.",
   "hash": "a7719f8df159467c",
@@ -427,7 +427,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q161": {
-  "assunto": "Razão e proporção: rendimento, custo",
+  "assunto": "Razão e proporção: custo por rendimento",
   "dificuldade": 4,
   "explicacao": "A questão pede o custo da estratégia que permite percorrer a maior distância. Pelo quadro, o combustível A rende 18 km/L e o B, 12 km/L; o tanque tem T litros. Estratégia 1: meio tanque de A e um quarto de B. Distância: (T/2)·18 + (T/4)·12 = 9T + 3T = 12T km. Estratégia 2: meio tanque de B e um quarto de A. Distância: (T/2)·12 + (T/4)·18 = 6T + 4,5T = 10,5T km. A estratégia 1 vai mais longe, pois usa a maior quantidade do combustível de maior rendimento. Seu custo é C = (T/2)·P_A + (T/4)·P_B, como na alternativa A. As alternativas restantes trazem o custo da estratégia 2, que percorre menos, ou expressões com as frações de tanque trocadas ou somadas de forma incorreta. Gabarito: A.",
   "hash": "a1761329e5dd01e3",
@@ -441,7 +441,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q163": {
-  "assunto": "Funções exponencial e logarítmica: escala richter",
+  "assunto": "Funções exponencial e logarítmica: escala Richter",
   "dificuldade": 3,
   "explicacao": "A questão pede a razão entre as amplitudes dos terremotos do Japão (9,0) e da Argentina (7,0), com R = log(A/A₀). Para o Japão: 9 = log(A_J/A₀), logo A_J = A₀·10⁹. Para a Argentina: 7 = log(A_A/A₀), logo A_A = A₀·10⁷. Razão: A_J ÷ A_A = 10⁹ ÷ 10⁷ = 10² = 100. Outra forma: a diferença das magnitudes é log(A_J/A_A) = 9 − 7 = 2. Alternativa D. A alternativa A (1,28) é a razão 9 ÷ 7, como se a escala fosse linear. A alternativa B (2,0) é só a diferença das magnitudes, sem voltar do logaritmo. A alternativa C (10⁹⁷) junta os expoentes sem sentido matemático. A alternativa E (10⁹ − 10⁷) é a diferença, não a razão. Gabarito: D.",
   "hash": "2b52793cb645b2f8",
@@ -476,7 +476,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2018-ppl-d2-q168": {
-  "assunto": "Geometria plana: teorema de pitágoras, áreas",
+  "assunto": "Geometria plana: teorema de Pitágoras, áreas",
   "dificuldade": 5,
   "explicacao": "A questão pede quantos milheiros de telhas comprar respeitando a inclinação de 40%. Passo 1, altura: i = h × 100 ÷ b, então 40 = h × 100 ÷ 10, e h = 4 m. Passo 2, o triângulo BOC é retângulo em O, com catetos b = 10 e h = 4, então BC = √(10² + 4²) = √116 m. Passo 3, como ABCD é um quadrado, d = AB = BC, logo d² = 116. Passo 4, N = d² × 10,5 = 116 × 10,5 = 1 218 telhas. Como as telhas são vendidas em milheiros, um milheiro (1 000) não basta, e são necessários dois milheiros. Alternativa B. A alternativa A (um milheiro) usaria d = b = 10, ignorando a inclinação: 100 × 10,5 = 1 050, ainda acima de 1 000. A alternativa C (três) excede o necessário. A alternativa D (seis) e a alternativa E (oito) também superestimam muito a quantidade. Gabarito: B.",
   "hash": "46493b235c59df02",

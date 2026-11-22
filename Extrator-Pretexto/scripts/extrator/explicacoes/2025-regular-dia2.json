@@ -49,7 +49,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q107": {
-  "assunto": "Genética: codominância, primeira lei de mendel",
+  "assunto": "Genética: codominância, primeira lei de Mendel",
   "dificuldade": 4,
   "explicacao": "A questão mostra o cruzamento entre um macho com manchas circulares e uma fêmea com uma listra central. Na primeira geração, todos os filhotes, machos e fêmeas, exibem as duas características ao mesmo tempo: as manchas e a listra. Isso indica codominância, em que os dois alelos se expressam simultaneamente no heterozigoto. Chamando de M o alelo das manchas e de L o alelo da listra, os pais são MM e LL, e a primeira geração é toda ML. Cruzando ML × ML, obtemos: ¼ MM, ½ ML e ¼ LL. Em fenótipos, a proporção é 1 só com manchas : 2 com manchas e listra : 1 só com listra, igual para machos e fêmeas, já que a característica aparece em ambos os sexos na primeira geração. A alternativa E representa exatamente essa proporção, com quatro indivíduos: um com manchas, um com listra e dois com os dois padrões. As demais alternativas apresentam proporções ou distribuições entre os sexos que não correspondem ao resultado 1 : 2 : 1 da codominância. Gabarito: E.",
   "hash": "bc97c4e01bc633e3",
@@ -119,7 +119,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q117": {
-  "assunto": "Equilíbrio químico: princípio de le chatelier",
+  "assunto": "Equilíbrio químico: princípio de Le Chatelier",
   "dificuldade": 3,
   "explicacao": "A questão apresenta o equilíbrio TiO₂ (s) + 2 Cl₂ (g) ⇌ TiCl₄ (g) + O₂ (g), com ΔH = +175 kJ/mol, e pede como favorecer a formação de TiCl₄. Pelo princípio de Le Chatelier, o equilíbrio se desloca no sentido de compensar a perturbação imposta. Aumentar a pressão parcial de Cl₂ equivale a aumentar a concentração de um reagente gasoso; o sistema reage consumindo Cl₂, deslocando-se para a direita e formando mais TiCl₄. Vejamos as demais. Pressão total: há 2 mol de gás nos reagentes (Cl₂) e 2 mol de gás nos produtos (TiCl₄ + O₂), então variar a pressão total não desloca o equilíbrio. Temperatura: a reação direta é endotérmica (ΔH > 0); diminuir a temperatura favorece o sentido exotérmico, ou seja, o inverso, reduzindo o TiCl₄. Pressão parcial de O₂: aumentar um produto desloca o equilíbrio para a esquerda. Quantidade de TiO₂: por ser sólido, sua concentração é constante e não aparece na expressão de Kp; alterá-la não desloca o equilíbrio. Gabarito: D.",
   "hash": "0a59ec4cf9eed486",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q159": {
-  "assunto": "Grandezas e medidas: volume, capacidade",
+  "assunto": "Grandezas e medidas: volume e capacidade",
   "dificuldade": 1,
   "explicacao": "A questão pede quantas taças de 250 mL podem ser servidas a partir de um pote de 20 000 cm³. O ponto central é a conversão de unidades: 1 cm³ equivale a 1 mL. Assim, 20 000 cm³ = 20 000 mL, que também é igual a 20 L. Número de taças: 20 000 ÷ 250 = 80 taças. Conferindo: 80 × 250 = 20 000 mL. A alternativa A, 5, e a B, 8, resultam de erros de conversão, por exemplo, tratando 20 000 cm³ como 2 L. A alternativa C, 50, não corresponde a nenhuma conversão coerente. A alternativa E, 800, multiplica por 10 a mais, como se 1 cm³ fosse 10 mL. Gabarito: D.",
   "hash": "8024b48361c818b4",
@@ -420,7 +420,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q162": {
-  "assunto": "Equações e inequações: inequação do primeiro grau",
+  "assunto": "Equações e inequações: inequação do 1º grau",
   "dificuldade": 4,
   "explicacao": "A questão pede a quantidade mínima de plástico reciclado para reduzir o custo de produção em pelo menos 50%, mantendo o total de 190 toneladas (110 + 80). Passo 1, custo do plástico de petróleo: R$ 500 corresponde a 5% desse custo, então custo = 500 ÷ 0,05 = R$ 10 000 por tonelada. Passo 2, custo atual: 110 × 10 000 + 80 × 500 = 1 100 000 + 40 000 = R$ 1 140 000. Passo 3, meta: no máximo 50% disso, R$ 570 000. Passo 4, equação: sendo x as toneladas recicladas, (190 − x) virão do petróleo. 500x + 10 000(190 − x) ≤ 570 000. 1 900 000 − 9 500x ≤ 570 000. 9 500x ≥ 1 330 000. x ≥ 140. Então, o mínimo é 140 toneladas. A alternativa A, 135, não atinge a redução exigida. As alternativas C, D e E atendem à meta, mas não são o mínimo pedido. Gabarito: B.",
   "hash": "1546d2fc9acaa400",
@@ -518,7 +518,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q177": {
-  "assunto": "Geometria espacial: volume do cilindro, prisma",
+  "assunto": "Geometria espacial: volume de cilindro e prisma",
   "dificuldade": 3,
   "explicacao": "A questão pede o volume total de ouro em 100 medalhas cilíndricas de diâmetro 6 cm e espessura 3 mm, das quais se retira um prisma de base quadrada ABCD inscrita no círculo. O ouro ocupa a região entre o círculo e o quadrado. Passo 1, área do círculo: raio 3 cm, A = 3,1 × 3² = 27,9 cm². Passo 2, área do quadrado: seus vértices estão sobre a circunferência, então a diagonal do quadrado é o diâmetro, 6 cm. A área de um quadrado pela diagonal é d² ÷ 2 = 36 ÷ 2 = 18 cm². Passo 3, área de ouro: 27,9 − 18 = 9,9 cm². Passo 4, volume por medalha: espessura 3 mm = 0,3 cm, então V = 9,9 × 0,3 = 2,97 cm³. Passo 5, 100 medalhas: 2,97 × 100 = 297 cm³. A alternativa A, 288, aparece se o π for aproximado por 3. A alternativa C, 567, considera a área do quadrado como 6² = 36 cm², ou outra combinação indevida. A alternativa D, 990, esquece de converter 3 mm em 0,3 cm corretamente. A alternativa E, 1 134, não corresponde à região de ouro. Gabarito: B.",
   "hash": "a4c2257fd3d9e836",
@@ -574,7 +574,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q95": {
-  "assunto": "Termologia: propagação de calor",
+  "assunto": "Termologia: propagação do calor",
   "dificuldade": 1,
   "explicacao": "A questão parte da canção de Adoniran Barbosa e do texto de divulgação científica, que explica que as mariposas são atraídas pela luz, mas podem ser aquecidas pelas lâmpadas. Pede-se o processo de transferência de calor que não depende da presença de fluidos, ou seja, que ocorre mesmo no vácuo. Existem três formas de propagação de calor: condução, que exige contato com um meio material; convecção, que exige um fluido (líquido ou gás) em movimento; e irradiação, que ocorre por ondas eletromagnéticas, principalmente na faixa do infravermelho, e não precisa de meio material. Uma lâmpada incandescente emite grande quantidade de radiação infravermelha, que aquece a mariposa à distância. Logo, o processo pedido é a irradiação. Reflexão e refração são fenômenos ópticos de mudança de direção da luz, não processos de transferência de calor. Dispersão é a separação da luz em cores, também um fenômeno óptico. A convecção depende justamente de fluidos, contrariando o que o enunciado pede. Gabarito: C.",
   "hash": "204eea6a09cb0ad5",
@@ -602,7 +602,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-regular-d2-q99": {
-  "assunto": "Ecologia: biomas brasileiros, caatinga",
+  "assunto": "Ecologia: biomas brasileiros, Caatinga",
   "dificuldade": 2,
   "explicacao": "A questão apresenta o monstro de gila, lagarto de deserto com adaptações à escassez de alimento, e pede onde, no Brasil, seria mais provável encontrar lagartos com características semelhantes, considerando que animais aparentados tendem a desenvolver adaptações parecidas em ambientes similares. Basta identificar o bioma brasileiro mais parecido com um deserto. A Caatinga, no semiárido nordestino, tem clima quente e seco, chuvas escassas e irregulares e longos períodos de estiagem, quando a disponibilidade de alimento cai bastante. É o ambiente brasileiro em que adaptações à falta de recursos seriam mais vantajosas. O Cerrado tem estação seca marcada, mas chuvas anuais bem maiores que as da Caatinga. Os Pampas são campos de clima subtropical, com chuvas regulares e invernos frios. A Restinga é um ambiente litorâneo, sob influência marinha e com umidade elevada. O Pantanal é uma planície alagável, com grande disponibilidade de água e de alimento. Gabarito: C.",
   "hash": "8ec695e6a3965545",

@@ -28,7 +28,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-ppl-d2-q104": {
-  "assunto": "Eletrodinâmica: carga elétrica, baterias",
+  "assunto": "Eletrodinâmica: carga elétrica, bateria",
   "dificuldade": 2,
   "explicacao": "A questão pede o tempo para recarregar totalmente a bateria usando o carregador na corrente máxima. A capacidade da bateria é 4 000 mAh, o que significa a carga que ela armazena: corrente vezes tempo. A saída do carregador fornece no máximo 1 000 mA. Como carga é Q = i × Δt, o tempo é Δt = Q ÷ i = 4 000 mAh ÷ 1 000 mA = 4 h. Os dados de entrada (100-240 V, 200 mA, 50-60 Hz) referem-se à tomada e não entram no cálculo. As tensões de 5,0 V e 1,5 V também não são necessárias, pois a capacidade já está em unidades de carga. O valor 1/6 vem de dividir a corrente pela capacidade de forma invertida e com outro dado. O valor 5/6 mistura tensões indevidamente. O valor 6 resulta de usar a razão entre tensões de modo incorreto. O valor 8 dobraria o tempo sem justificativa. Gabarito: C.",
   "hash": "4339dfbc6e7b00e2",
@@ -343,14 +343,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-ppl-d2-q149": {
-  "assunto": "Equações e inequações: inequação do primeiro grau",
+  "assunto": "Equações e inequações: inequação do 1º grau",
   "dificuldade": 4,
   "explicacao": "A questão pede o menor número de dias com desconto máximo para que a concessionária ainda alcance a meta de 104 carros. Nos 6 primeiros dias foram vendidos 18 carros, então faltam 104 − 18 = 86 carros nos 20 dias restantes. Para usar o mínimo de dias com desconto máximo (5 carros/dia), os demais dias devem render o máximo possível sem ele, ou seja, com desconto mínimo (4 carros/dia). Seja x o número de dias com desconto máximo: 5x + 4(20 − x) ≥ 86. Desenvolvendo: 5x + 80 − 4x ≥ 86, logo x ≥ 6. Conferindo: 6 dias × 5 = 30 e 14 dias × 4 = 56, total 86 carros, exatamente o necessário. Com 5 dias, teríamos 25 + 60 = 85, insuficiente. A alternativa 10 corresponderia a combinar desconto máximo com dias sem desconto. As de 11 e 13 também partem de combinações com dias sem desconto ou de erro na meta. A de 18 resultaria de dividir 86 por 5 e arredondar para cima. Gabarito: A.",
   "hash": "9326e3a45f1ddb96",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-ppl-d2-q150": {
-  "assunto": "Geometria espacial: volume de prisma, cilindro",
+  "assunto": "Geometria espacial: volume de cilindro e prisma",
   "dificuldade": 4,
   "explicacao": "A questão pede a capacidade da caneca maior, comparando um prisma hexagonal regular de lado 4 cm com um cilindro de diâmetro 6 cm, ambos com 10 cm de altura, usando π = 3,1 e √3 = 1,7. Caneca A: o hexágono regular é formado por 6 triângulos equiláteros de lado L, cada um com área L²√3/4. Área da base = 6 × 16 × 1,7 ÷ 4 = 6 × 6,8 = 40,8 cm². Volume = 40,8 × 10 = 408 cm³. Caneca B: raio = 3 cm, área da base = π × r² = 3,1 × 9 = 27,9 cm². Volume = 27,9 × 10 = 279 cm³. A caneca A tem maior capacidade, então a escolhida tem 408 cm³. A alternativa 186 resulta de erros no volume do cilindro, como usar o diâmetro de modo incorreto. A de 279 é o volume da caneca B, a menor. A de 816 é o dobro do volume de A, como se a área do triângulo fosse L²√3/2. A de 1 116 usa o diâmetro como raio no cilindro (3,1 × 36 × 10). Gabarito: C.",
   "hash": "c3c25d665f1e07bc",
@@ -406,7 +406,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-ppl-d2-q158": {
-  "assunto": "Geometria plana: comprimento de arcos",
+  "assunto": "Geometria plana: comprimento de arco",
   "dificuldade": 5,
   "explicacao": "A questão pede quais dois setores modificar para que a extensão da nova pista fique o mais próxima possível da original. Calcule a variação de comprimento em cada setor (novo menos original), com π = 3. Setor I: o original vai 50 m, desce e volta 50 m; o novo trecho só desce. Variação: −100 m. Setor II: o original tem 300 m + 400 m = 700 m; o novo é a hipotenusa do triângulo retângulo, √(300² + 400²) = 500 m. Variação: −200 m. Setor III: o original é reto, 480 m; o novo é semicircunferência de raio 240 m, π × 240 = 720 m. Variação: +240 m. Setor IV: o original é semicircunferência de diâmetro 360 m, π × 180 = 540 m; o novo é reto, 360 m. Variação: −180 m. Setor V: o original tem 200 m; o novo são dois lados de um triângulo equilátero (ângulos de 60°), 400 m. Variação: +200 m. Combinando: II e V dá −200 + 200 = 0, a pista fica com a mesma extensão. I e V dá +100. II e III dá +40. III e IV dá +60. IV e V dá +20. Gabarito: C.",
   "hash": "bca2a1f1df491468",
@@ -483,7 +483,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2022-ppl-d2-q169": {
-  "assunto": "Geometria espacial: volume de prismas",
+  "assunto": "Geometria espacial: volume do prisma",
   "dificuldade": 4,
   "explicacao": "A questão pede a relação entre a aresta x da nova embalagem e a aresta a da atual, sabendo que a capacidade triplica e a altura passa a 4/3 da original. O volume de um prisma de base quadrada é aresta² × altura. Volume atual: a² × h. Novo volume: x² × (4h/3). Ele deve ser o triplo do atual: x² × 4h/3 = 3 × a² × h. Cancelando h e isolando x²: x² = 3a² × 3/4 = 9a²/4. Tirando a raiz quadrada: x = 3a/2. Conferindo: (3a/2)² × 4h/3 = (9a²/4) × (4h/3) = 3a²h, o triplo. A alternativa x = a manteria a base e só aumentaria a altura, resultando em 4/3 do volume. A de x = 3a multiplicaria o volume por 12. A de x = 9a confunde x² com x. A de x = a√3 triplicaria o volume só se a altura fosse mantida, ignorando o fator 4/3. Gabarito: D.",
   "hash": "969741a1c14b2d0f",

@@ -259,7 +259,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-ppl-d2-q137": {
-  "assunto": "Aritmética: números decimais, comparação",
+  "assunto": "Aritmética: comparação de números decimais",
   "dificuldade": 1,
   "explicacao": "A questão pede a lâmina cuja espessura é mais próxima de 2 mm. Basta calcular a diferença, em valor absoluto, entre cada espessura e 2 mm. O tipo I tem 1,97 mm, e a diferença é 2 − 1,97 = 0,03 mm. O tipo II tem 2,10 mm, e a diferença é 0,10 mm. O tipo III tem 1,098 mm, e a diferença é 0,902 mm. O tipo IV tem 2,06 mm, e a diferença é 0,06 mm. O tipo V tem 2,025 mm, e a diferença é 0,025 mm. A menor diferença é 0,025 mm, do tipo V. O cuidado está nas casas decimais: 0,025 é menor que 0,030. O tipo I fica muito perto, mas 0,03 é maior que 0,025. O tipo II está a 0,10 mm de distância. O tipo III é a pegadinha da leitura apressada, porque 1,098 parece próximo de 2 sem estar. O tipo IV está a 0,06 mm. Gabarito: E.",
   "hash": "ff383559d0cfa85f",
@@ -294,7 +294,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-ppl-d2-q142": {
-  "assunto": "Porcentagem: acréscimos percentuais",
+  "assunto": "Porcentagem: acréscimo percentual",
   "dificuldade": 2,
   "explicacao": "A questão pede o valor da conta com a medida de contenção. A família aumentou o consumo em 25% em relação ao mesmo mês do ano anterior. As regras da medida são estas: acréscimos de até 20% geram aumento de 50% na conta, e acréscimos acima de 20% geram aumento de 100%. Como 25% é maior que 20%, aplica-se o aumento de 100%. Sem a medida, a conta seria de R$ 120,00. Com aumento de 100%, o valor dobra: 120 + 120 = R$ 240,00. A alternativa 60,00 aplica uma redução, e não um aumento. A alternativa 80,00 também reduz o valor. A alternativa 150,00 aplica 25%, que é o acréscimo de consumo, e não a faixa da tarifa. A alternativa 180,00 aplica 50%, que vale só para acréscimos de até 20%. Gabarito: E.",
   "hash": "b4fa3ebbd171be8e",
@@ -469,7 +469,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2025-ppl-d2-q167": {
-  "assunto": "Geometria espacial: volume de prismas",
+  "assunto": "Geometria espacial: volume do prisma",
   "dificuldade": 3,
   "explicacao": "A questão pede o modelo de piscina de menor volume, todos com 2 m de profundidade. Como a altura é igual para todos, basta comparar as áreas das bases. Modelo I: 5, 12 e 13 formam um triângulo retângulo, porque 5² + 12² = 13². A área é (5 × 12)/2 = 30 m², e o volume é 60 m³. Modelo II: triângulo equilátero de lado 10, com área (√3/4) × 100 = 25 × 1,7 = 42,5 m² e volume de 85 m³. Modelo III: quadrado de lado 6, com área de 36 m² e volume de 72 m³. Modelo IV: hexágono regular de lado 6, com área 6 × (√3/4) × 36 = 54 × 1,7 = 91,8 m² e volume de 183,6 m³. Modelo V: círculo de raio 5, com área 3 × 25 = 75 m² e volume de 150 m³. O menor volume é o do modelo I, com 60 m³. O modelo II tem 85 m³. O modelo III tem 72 m³. O modelo IV, com 183,6 m³, é o maior de todos. O modelo V tem 150 m³. Gabarito: A.",
   "hash": "37b2da061fb9c394",

@@ -35,7 +35,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-ppl-d2-q105": {
-  "assunto": "Artes visuais: design e modernismo",
+  "assunto": "Artes visuais: design e Modernismo",
   "dificuldade": 2,
   "explicacao": "A questão pede qual desafio o estilo de Sérgio Rodrigues propôs à arte. A reportagem diz que a revolução estética de Brasília levou os designers dos anos 1950 e 1960 a abandonar o gosto rebuscado pelo colonial e criar um mobiliário contemporâneo, com madeiras nobres, couro e palhinha, em linhas retas e curvas suaves inspiradas na nova capital. Trata-se, portanto, de evidenciar um novo conceito estético por meio de formas e texturas inovadoras. A alternativa B fala em adaptar modelos europeus, o que o texto não menciona. A alternativa C restringe o trabalho à decoração de palácios, quando os móveis estão em lojas e escritórios. A alternativa D contraria o texto, que fala em trocar Ouro Preto, símbolo do colonial mineiro, por Brasília. A alternativa E associa o estilo ao luxo, oposto à simplicidade destacada. Gabarito: A.",
   "hash": "74d5c27a0c5e08ad",
@@ -399,7 +399,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-ppl-d2-q157": {
-  "assunto": "Equações e inequações: equação do segundo grau",
+  "assunto": "Equações e inequações: equação do 2º grau",
   "dificuldade": 5,
   "explicacao": "A questão pede o número atual de caminhões, já com a capacidade reduzida em meia tonelada. Seja n o número de caminhões com capacidade máxima c: n · c = 90, logo c = 90/n. Com a redução, são n + 6 caminhões com capacidade c − 0,5: (n + 6)(c − 0,5) = 90. Expandindo: nc − 0,5n + 6c − 3 = 90. Como nc = 90, sobra 6c − 0,5n − 3 = 0. Substituindo c = 90/n: 540/n − 0,5n − 3 = 0. Multiplicando por 2n: 1 080 − n² − 6n = 0, ou n² + 6n − 1 080 = 0. Δ = 36 + 4 320 = 4 356, √Δ = 66, e n = (−6 + 66)/2 = 30. Antes eram 30 caminhões de 3 t; hoje são 30 + 6 = 36 caminhões de 2,5 t (36 × 2,5 = 90). A alternativa B (30) é o número antigo de caminhões, antes da redução. As alternativas C (19), D (16) e E (10) não satisfazem as duas condições do problema. Gabarito: A.",
   "hash": "73c9a1c7676a1d90",
@@ -427,7 +427,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2013-ppl-d2-q161": {
-  "assunto": "Porcentagem: gráficos de setores",
+  "assunto": "Porcentagem: gráfico de setores",
   "dificuldade": 2,
   "explicacao": "A questão pede quantas pessoas, num estado com 400 000 epilépticos, se recuperam com medicamentos ou se curam com cirurgia. No gráfico de setores, 70% conseguem se recuperar com medicamentos e 15% curam-se com cirurgia para retirada da porção doente do cérebro. Os outros setores (6% com eletrodos e 9% que não se livram das crises) não entram na conta. Somando as duas porcentagens pedidas: 70% + 15% = 85%. Aplicando ao total do estado: 0,85 × 400 000 = 340 000 pessoas. A alternativa A (42 000) não corresponde a nenhuma porcentagem pedida. A alternativa B (60 000) é só o grupo da cirurgia (15%). A alternativa C (220 000) não corresponde à soma correta. A alternativa D (280 000) considera apenas os medicamentos (70%). Gabarito: E.",
   "hash": "f4ed4a7e74361961",

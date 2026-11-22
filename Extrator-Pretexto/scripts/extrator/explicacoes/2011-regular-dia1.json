@@ -1,6 +1,6 @@
 {
  "enem-2011-regular-d1-q01": {
-  "assunto": "Mundo contemporâneo: primavera árabe, redes sociais",
+  "assunto": "Mundo contemporâneo: Primavera Árabe, redes sociais",
   "dificuldade": 1,
   "explicacao": "A questão pede o papel da internet nos movimentos políticos da chamada Primavera Árabe, descritos no texto. O ponto central está na última frase: sites e redes sociais, como Facebook e Twitter, ajudaram a mobilizar manifestantes do norte da África ao Golfo Pérsico. O \"vírus\" mencionado no texto é uma metáfora para o desejo de modernidade e democracia, que se espalhou como uma epidemia a partir da Tunísia e chegou ao Egito, derrubando Hosni Mubarak. Assim, a internet serviu para difundir ideias de contestação e organizar protestos contra regimes autoritários, o que corresponde à alternativa E. A alternativa A está errada, pois os jovens lutaram contra os regimes, não a favor deles. A B contraria o texto, já que houve envolvimento ativo. A C também não procede, porque os jovens se expuseram em manifestações de rua. A D toma a metáfora do vírus ao pé da letra, confundindo-a com vírus de computador. Gabarito: E.",
   "hash": "8478ee03b1cfbe14",
@@ -21,14 +21,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q04": {
-  "assunto": "Questões ambientais: desmatamento da amazônia, soja",
+  "assunto": "Questões ambientais: desmatamento da Amazônia, soja",
   "dificuldade": 2,
   "explicacao": "A questão pede um processo econômico atual que acelera o desmatamento da Amazônia descrito por Ab'Saber. A palavra-chave é \"na atualidade\". Nas últimas décadas, o principal vetor de desmatamento é o avanço da fronteira agropecuária, com a pecuária extensiva abrindo áreas e a soja, cultivada em grandes monoculturas mecanizadas voltadas à exportação, avançando do Cerrado para o sul e leste da Amazônia, no chamado arco do desmatamento. Por isso, a alternativa B está correta. A alternativa A aponta um projeto dos anos 1980, de impacto mais localizado, e não o principal motor atual. A C cita a Transamazônica, obra da década de 1970. A D descreve as reservas extrativistas, que ajudam a conservar a floresta. A E menciona a Zona Franca de Manaus, cujo impacto direto sobre o desmatamento é pequeno, pois é um polo industrial concentrado. Gabarito: B.",
   "hash": "30d0cc6328f55f74",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q05": {
-  "assunto": "Espaço agrário: fronteira agrícola, cerrado",
+  "assunto": "Espaço agrário: fronteira agrícola, Cerrado",
   "dificuldade": 2,
   "explicacao": "A questão pede o processo econômico ligado à ocupação do Centro-Oeste descrita por Milton Santos. O texto diz que a região, por ser praticamente \"virgem\" e sem infraestrutura herdada do passado, pôde receber uma infraestrutura nova a serviço de uma economia moderna. Esse processo ocorreu a partir dos anos 1970, com a modernização agrícola: técnicas de correção do solo do Cerrado, mecanização e cultivo de grãos como a soja, além da pecuária, ampliaram a fronteira agropecuária e fizeram surgir cidades ligadas ao agronegócio. O custo ambiental foi a degradação de boa parte do Cerrado. Assim, a alternativa C está correta. A alternativa A está errada, pois a indústria de base se concentrou no Sudeste. A B cita a borracha, ligada à Amazônia e a outro período. A D exagera o papel da mineração na Chapada dos Guimarães. A E aponta o extrativismo pantaneiro, que não explica a urbanização moderna da região. Gabarito: C.",
   "hash": "a3acc4875cff2259",
@@ -126,7 +126,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q19": {
-  "assunto": "Brasil Império: constituição de 1824, voto censitário",
+  "assunto": "Brasil Império: Constituição de 1824, voto censitário",
   "dificuldade": 2,
   "explicacao": "A questão pede o objetivo das regras de voto da Constituição de 1824. O trecho exclui das assembleias paroquiais os menores de 25 anos (com exceções), os religiosos de clausura e, principalmente, quem não tivesse renda líquida anual de cem mil réis vinda de bens de raiz, indústria, comércio ou empregos. Esse é o voto censitário: só participa da vida política quem tem renda mínima. Num país escravista e muito desigual, isso deixava a maior parte da população de fora e concentrava o poder político nas mãos de grandes proprietários e comerciantes, como afirma a alternativa D. A alternativa A está errada, pois a Constituição tinha inspiração liberal, ainda que restrita. A B contraria a exclusão pela renda. A C é anacrônica, já que o café ainda não dominava a economia em 1824. A E não se sustenta, porque o catolicismo era a religião oficial pelo regime do padroado. Gabarito: D.",
   "hash": "95919f7c30305e5b",
@@ -203,7 +203,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q30": {
-  "assunto": "Teoria sociológica: weber, tipos de dominação",
+  "assunto": "Teoria sociológica: Weber, tipos de dominação",
   "dificuldade": 3,
   "explicacao": "A questão usa a tipologia de Max Weber, apresentada por Bobbio, e pede o período em que a obediência se baseou principalmente no poder carismático, isto é, na crença nos dotes extraordinários do chefe. O fascismo italiano girava em torno da figura de Benito Mussolini, o Duce, apresentado como líder excepcional, guia da nação, com intenso culto à personalidade e propaganda. Por isso, a alternativa B está correta. A alternativa A, a república federalista norte-americana, baseia-se na obediência à Constituição e às leis, ou seja, no poder racional-legal. A C, a monarquia teocrática egípcia, fundava-se na sacralidade do faraó, exemplo de poder tradicional. A D, o absolutismo francês, apoiava-se no direito divino dos reis, também poder tradicional. A E, a monarquia constitucional brasileira, combinava tradição dinástica com uma Constituição, sem predominância do carisma. Gabarito: B.",
   "hash": "f8fd623204b34cce",
@@ -231,14 +231,14 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q34": {
-  "assunto": "Brasil Colônia: independência, conjuração baiana, elite",
+  "assunto": "Brasil Colônia: independência, Conjuração Baiana, elite",
   "dificuldade": 3,
   "explicacao": "A questão pede o objetivo de parte da elite colonial ao participar da Independência, depois do impacto da revolução de São Domingos (Haiti) e da Conjuração Baiana de 1798. O texto mostra que as ideias de igualdade social assustavam os brancos numa sociedade em que só um terço da população era branca, pois poderiam ser lidas em termos raciais e levar ao fim da escravidão. Por isso, a elite preferiu conduzir a emancipação por cima, mantendo a monarquia, a escravidão e a ordem social, e evitando que o povo desse à independência um caráter libertário e popular. É o que afirma a alternativa D. A alternativa A erra ao falar em partido nacional com participação dos afro-brasileiros. A B contraria o texto, pois a elite não atendeu às reivindicações baianas. A C está errada, já que não houve aliança com lideranças escravas. A E erra ao dizer que a elite isolou o Príncipe Regente, quando na verdade se aliou a D. Pedro. Gabarito: D.",
   "hash": "89a22dc83dcfa790",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q35": {
-  "assunto": "Idade Média: renascimento comercial e urbano",
+  "assunto": "Idade Média: Renascimento comercial e urbano",
   "dificuldade": 2,
   "explicacao": "A questão pede o processo relacionado à mudança da função das muralhas no fim da Idade Média, quando deixaram de servir apenas como proteção e passaram a funcionar como pontos de passagem. O texto lembra que o \"fechamento\" era um hábito da mentalidade medieval, ligado à insegurança, e que as cidades eram cercadas por portas e muralhas. A partir dos séculos XI a XV, com o renascimento comercial e urbano, as rotas mercantis se intensificaram, as feiras se multiplicaram e as cidades cresceram para além dos muros. As portas passaram a ser locais de circulação de mercadorias, pessoas e cobrança de tributos. Por isso, a alternativa A está correta. A alternativa B cita migrações, que acompanharam o processo, mas não explicam a nova função. A C é anacrônica, pois a indústria fabril é da Idade Contemporânea. A D descreve o mundo feudal fechado, oposto à abertura. A E não procede, já que as epidemias reforçavam o isolamento. Gabarito: A.",
   "hash": "35e234d88e74e8ad",
@@ -259,21 +259,21 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q38": {
-  "assunto": "Idade Moderna: renascimento, arte e ciência",
+  "assunto": "Idade Moderna: Renascimento, arte e ciência",
   "dificuldade": 1,
   "explicacao": "A questão pede a relação que marcou a produção artística do Renascimento, segundo o texto de Nicolau Sevcenko. O texto afirma que, acompanhando a burguesia em seu desejo de dominar a natureza pela pesquisa científica e pela técnica, os artistas buscaram conquistar a forma, o movimento, o espaço, a luz e a cor. Na prática, isso aparece no estudo da anatomia, na perspectiva geométrica, na observação da luz e das proporções. Leonardo da Vinci, artista e inventor, é o exemplo clássico dessa união. Portanto, a relação central é entre ciência e arte, como afirma a alternativa B. A alternativa A remete à mentalidade medieval, de que o Renascimento se afastava. A C e a D citam esferas importantes da época, mas o texto trata da arte apoiada na investigação científica. A E fala em astronomia e religião, temas não destacados no trecho. Gabarito: B.",
   "hash": "d178ff52f7b8f062",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q39": {
-  "assunto": "Globalização: china na áfrica, investimentos externos",
+  "assunto": "Globalização: China na África, investimentos externos",
   "dificuldade": 2,
   "explicacao": "A questão pede como caracterizar a relação econômica da China com a África a partir do texto. O texto afirma que os chineses investem sem impor condições, compram grandes áreas e as cercam, e que, por se tratar de países instáveis e com governos frágeis, há o temor de que algumas nações africanas se tornem protetorados. Ou seja, o crescimento dos investimentos diretos chineses pode comprometer a soberania dos países africanos e submeter seus governos aos interesses dos grandes projetos, numa relação que alguns chamam de neocolonialismo. Isso corresponde à alternativa D. A alternativa A erra, pois o texto não diz que FMI e Banco Mundial restringem os investimentos chineses. A B atribui às ONGs um papel que não aparece no texto. A C fala em aliança com capitais ocidentais, quando a China atua como concorrente. A E menciona um mercado comum sino-africano, ideia ausente do texto. Gabarito: D.",
   "hash": "3d9d9e07274296cc",
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q40": {
-  "assunto": "Idade Moderna: igreja católica, islamismo, café",
+  "assunto": "Idade Moderna: Igreja Católica, islamismo, café",
   "dificuldade": 1,
   "explicacao": "A questão pede por que clérigos e o papa Clemente VIII reagiram à chegada do café à Europa como reagiram. O texto informa que a bebida se difundiu a partir da Península Árabe e chegou à Europa por Constantinopla, então capital do Império Otomano. Árabes e turcos eram muçulmanos, rivais históricos da cristandade desde as Cruzadas. Por isso, alguns clérigos consideraram o café \"obra do diabo\", e o papa, ao aprová-lo, decidiu \"batizá-lo\" para torná-lo uma bebida cristã, desvinculando-o de sua origem islâmica. A alternativa D está correta. A alternativa A erra, pois o ateísmo não tem relação com a origem do café. A B cita o judaísmo, que não aparece no trajeto descrito. A C menciona o hinduísmo, ligado à Índia e não à Arábia. A E é anacrônica e geograficamente inadequada, pois o protestantismo surgiu na Europa e não tem relação com a origem da bebida. Gabarito: D.",
   "hash": "337f536b81f73c8d",
@@ -294,7 +294,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q43": {
-  "assunto": "Primeira República: revolta da vacina, reforma urbana",
+  "assunto": "Primeira República: Revolta da Vacina, reforma urbana",
   "dificuldade": 2,
   "explicacao": "A questão mostra uma charge da revista O Malho, de 1904, sobre a Revolta da Vacina, e pede o que ela revela. No governo Rodrigues Alves, o prefeito Pereira Passos promoveu a reforma urbana do Rio de Janeiro, demolindo cortiços e expulsando a população pobre do centro, o chamado bota-abaixo. Ao mesmo tempo, Oswaldo Cruz conduziu campanhas sanitárias, culminando na lei da vacinação obrigatória contra a varíola, com agentes invadindo casas. A população, sem informação e já revoltada com as remoções, reagiu com violência nas ruas. A revolta expressou a insatisfação com uma modernização imposta de forma autoritária, como afirma a alternativa A. A alternativa B contradiz a revolta, que se opôs à vacina. A C idealiza a Primeira República, pouco democrática. A D e a E atribuem ao governo um planejamento inclusivo e apoio popular que não houve. Gabarito: A.",
   "hash": "a8dafc40cbbf8450",
@@ -518,7 +518,7 @@
   "modelo": "claude-opus-5-5 (Claude Code, sem API)"
  },
  "enem-2011-regular-d1-q75": {
-  "assunto": "Equilíbrio químico: le chatelier, desmineralização dentária",
+  "assunto": "Equilíbrio químico: Le Chatelier, desmineralização dentária",
   "dificuldade": 3,
   "explicacao": "A questão pede por que o consumo diário de refrigerantes leva à desmineralização dos dentes. O esmalte é formado por hidroxiapatita, em equilíbrio representado por: Ca₅(PO₄)₃OH (s) ⇌ 5 Ca²⁺ (aq) + 3 PO₄³⁻ (aq) + OH⁻ (aq). A desmineralização corresponde ao sentido direto, de dissolução do sólido. O refrigerante contém ácido fosfórico, e a sacarose é fermentada pelas bactérias da placa, produzindo ácidos; ambos aumentam a concentração de H⁺. Esses íons reagem com as hidroxilas formando água (H⁺ + OH⁻ → H₂O), o que diminui a concentração de OH⁻. Pelo princípio de Le Chatelier, o equilíbrio se desloca para repor o OH⁻ consumido, ou seja, para a direita, dissolvendo mais hidroxiapatita. A alternativa B está correta. As alternativas A e C atribuem o processo ao aumento de OH⁻, quando ocorre o contrário. A D acerta o íon, mas erra o sentido do deslocamento. A E cita aumento de Ca²⁺, que deslocaria o equilíbrio para a esquerda, favorecendo a remineralização. Gabarito: B.",
   "hash": "3085557d27e4d9dd",
